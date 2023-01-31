@@ -1,18 +1,23 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>9331ec14-7ea7-4415-a8dd-ee34f0c5f9c4</md:uuid>
     <md:title>Community-Population Health</md:title>
     <md:slug>community-population</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col00002</md:content-id>
     <md:language>en</md:language>
+    <md:uuid>9331ec14-7ea7-4415-a8dd-ee34f0c5f9c4</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+    <md:content-id>col00003</md:content-id>
   </col:metadata>
   <col:content>
-
+    <col:module document="m00014"/>
+    <col:subcollection>
+      <md:title>Culturally and Linguistically Competent Nursing Care</md:title>
+      <col:content>
+        <col:module document="m00015"/>
+        <col:module document="m00016"/>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>

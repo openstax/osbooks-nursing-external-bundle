@@ -1,18 +1,22 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>7db4d55f-5c0e-4c05-8b72-841685444165</md:uuid>
     <md:title>Nutrition</md:title>
-    <md:slug>nutrition/md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col00001</md:content-id>
+    <md:slug/>
     <md:language>en</md:language>
+    <md:uuid>7db4d55f-5c0e-4c05-8b72-841685444165</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+    <md:content-id>col00002</md:content-id>
   </col:metadata>
   <col:content>
-
+    <col:module document="m00009"/>
+    <col:subcollection>
+      <md:title>The Digestive Process</md:title>
+      <col:content>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
