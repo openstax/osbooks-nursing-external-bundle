@@ -1,17 +1,18 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
+    <md:content-id>col11111</md:content-id>
     <md:title>Pharmacology for Nurses</md:title>
     <md:slug>pharmacology</md:slug>
     <md:language>en</md:language>
     <md:uuid>2f805b43-bce4-4379-add2-4fbf46700e4c</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
-    <md:content-id>col00001</md:content-id>
   </col:metadata>
   <col:content>
     <col:module document="m00001"/>
     <col:subcollection>
       <md:title>Hypertension and Coronary Heart Disorder Drugs</md:title>
       <col:content>
+        <col:module document="m00020"/>
         <col:module document="m00002"/>
         <col:module document="m00003"/>
         <col:module document="m00004"/>

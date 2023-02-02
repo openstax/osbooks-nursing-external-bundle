@@ -1,10 +1,313 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Hypertension and Angina</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Hypertension and Angina</md:title>
     <md:content-id>m00002</md:content-id>
+    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+    <item>LO18.1.1 Describe hypertension and angina.</item>
+    <item>LO18.1.2 Explain the blood pressure guidelines for levels of hypertension.</item>
+    <item>LO18.1.3 Describe non-pharmacologic treatment of hypertension.</item>
+    <item>LO18.1.4 Develop an education plan for use of antihypertensive and antianginal drugs.</item>
+  </list>
+  </md:abstract>
     <md:uuid>f5142e97-2a2c-4ff2-ba22-4a19e537edc8</md:uuid>
   </metadata>
-  <content><para id="para-00001">test</para>
+
+  <content>
+    <section id="sect-00001">
+      <title>Hypertension</title>
+    <para id="para-00001">As The cardiovascular system transports blood and oxygen to needed organs and systems within the body (see <link target-id="pharma_fig_18_01_001" document="m00020"/>). The blood flow moves from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <link target-id="pharma_fig_18_01_002"/>) represents the force that blood flow exerts on arterial walls.</para>
+    <para id="para-00003">
+      The two elements that determine blood pressure are cardiac output and peripheral vascular resistance. <term id="term-00001">Cardiac output</term> is the product of the <term id="term-00002">heart rate</term>, the number of times the heart beats per minute, and <term id="term-00003">stroke volume</term>, or the amount of blood ejected with each heartbeat (<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi><m:mo>=</m:mo><m:mi>H</m:mi><m:mi>R</m:mi><m:mo>×</m:mo><m:mi>S</m:mi><m:mi>V</m:mi></m:mrow></m:math>). This represents the <term id="term-00004">systolic blood pressure</term> reading, the higher pressure (resistance) within the arteries and vessels. <term id="term-00005">Peripheral vascular resistance</term> (also known as systemic vascular resistance) is determined by blood flow and the level of constriction or dilatation within the arteries and vessels. This indicates the <term id="term-00006">diastolic blood pressure (DBP)</term> reading, which is the lower pressure within the arteries and vessels. Blood pressure (BP) is measured in millimeters of mercury (mm Hg) and is expressed as the systolic pressure over the diastolic pressure (for instance, 125/90 mm Hg). <term id="term-00007">Hypertension</term> is when an individual’s blood pressure is above normal limits for a sustained period of time.
+    </para>
+    <para id="para-00004">
+      Hypertension can be either primary (essential) hypertension or <term id="term-00008">secondary hypertension</term>. Primary hypertension is caused by unknown elements; however, genetics and behavioral and environmental factors have been indicated. These factors include age, high salt intake, insulin resistance, obesity, high alcohol intake, sedentary lifestyle, smoking, and stress. According to the American Heart Association (2022), <term id="term-00009">primary hypertension</term> makes up approximately 90–95% of hypertension cases.
+    </para>
+    <para id="para-00005">
+      Secondary hypertension results from another disease processes such as conditions involving the central nervous system, endocrine system, and renal system. Secondary hypertension is treated along with the underlying condition. Secondary hypertension may be cured if the treatment for the underlying condition is successful.
+    </para>
+    <para id="para-00006">
+      Hormones also impact blood pressure regulation. The <term id="term-00010">renin-angiotensin-aldosterone system (RAAS)</term> and vasopressin are the main hormones affecting blood pressure homeostasis. RAAS is a compensatory mechanism the body activates during <term id="term-00011">hypotension</term> (when the blood pressure is low). Renin is released from the kidneys in response to low blood pressure. Renin interacts with angiotensinogen and converts it to <term id="term-00012">angiotensin I</term>. The angiotensin-converting enzyme in the pulmonary blood vessel endothelium is then triggered to produce <term id="term-00013">angiotensin II</term>, which constricts arterioles, increasing peripheral resistance and therefore increasing blood pressure. Angiotensin II also stimulates the adrenal medulla to produce catecholamine, which yields <term id="term-00014">aldosterone</term>. Aldosterone causes the kidneys to retain water and sodium, which results in increased blood volume, cardiac output, and blood pressure.
+    </para>
+    <para id="para-00007">
+      <term id="term-00015">Vasopressin</term>, which is an antidiuretic hormone that regulates reabsorption of water by the kidneys. It is released by the pituitary gland in response to low blood volume. Vasopressin causes retention of body fluids, vasoconstriction, and increased blood pressure.
+    </para>
+    <note class="link-to-learning" id="note-00001">
+      <title>Link to Learning: American Heart Association and Mayo Clinic</title>
+      <para id="para-00008">The American Heart Association provides an <link url="https://watchlearnlive.heart.org/index.php?moduleSelect=bpanat">interactive library on the anatomy of blood pressure</link>. It includes images and topics to explore, including the anatomy of blood pressure, high blood pressure and the cardiovascular system, and a blood pressure test. </para>
+      <para id="para-00009">This <link url="https://www.youtube.com/watch?v=r5XTTeP039Q">video with Dr. Leslie Thomas, MD</link>, a nephrologist at Mayo Clinic, discusses facts, questions, and answers about blood pressure to help clients better understand hypertension. This video talks about hypertension, risk factors, symptoms, diagnosis, treatment options, and coping methods<footnote id="foot-00001">Ipsum lorem text (explanatory footnote).</footnote> to deal with the disease process.</para>
+    </note>
+    <section id="sect-00002">
+      <title>Grades of Hypertension</title>
+      <para id="para-00010">
+        The American Heart Association (AHA) (2022) states that normal blood pressure is the level at which minimal vascular damage occurs and blood flow is sufficient to support oxygenation.
+      </para>
+      <para id="para-00011">
+        Normal blood pressure is considered a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The AHA chart (see Table 18.1) demonstrates the blood pressure categories and the readings associated with them.
+      </para>
+      <figure id="pharma_fig_18_01_002">
+        <media alt="Alt text here">
+          <image mime-type="png" src="../../media/pharma_fig_18_01_002.png"/>
+          </media>
+          <caption>The American Heart Association’s Categories for Hypertension (credit: Courtesy of the American Heart Association (2022): Blood pressure categories.)</caption>
+      </figure>
+    </section>
+    <section id="sect-00003">
+      <title>Diagnostics</title>
+      <para id="para-00012">
+        A physical examination by a health care provider with a sphygmomanometer (blood pressure monitor) will identify an elevated blood pressure. A 12-lead ECG (electrocardiogram) can assist in determining if the heart has a normal or abnormal rhythm. Blood work is then obtained to determine factors that contribute to hypertension as well as how the body is reacting to elevated blood pressure. These laboratory tests include a complete blood cell count (CBC), basic electrolyte panel, cholesterol panel, and renal function. An echocardiogram (EKG), an ultrasound of the heart, is not typically included in diagnostic procedures to determine hypertension; however, the healthcare provider may add this diagnostic study to visualize the heart’s chambers, valves, and pumping action. Diagnosis for hypertension is based on the findings of the physical examination and the diagnostic study results.
+      </para>
+    </section>
+    <section id="sect-00004">
+      <title>Clinical Manifestations</title>
+      <para id="para-00013">
+        Symptoms of hypertension may not occur for years, and most of the time the symptoms can be silent. Symptoms typically associated with hypertension include elevated blood pressure readings, headaches, dizziness, nausea, vomiting, visual disturbances, and neurological disturbances such as disorientation or a decreased level of consciousness. Over time, uncontrolled hypertension can lead to organ damage, and clients can experience symptoms related to the specific organ that is damaged; for example, with kidney damage the client may experience end stage renal disease (ESRD) and require dialysis.
+      </para>
+    </section>
+    <section id="sect-00005">
+      <title>Nonpharmacologic Treatment for Hypertension</title>
+      <para id="para-00014">
+        Nonpharmacologic measures used as treatment for hypertension center around lifestyle changes. Lifestyle changes should focus on the client’s personal, social, and cultural influences. These changes may include diet modification, physical activity and exercise, smoking cessation, alcohol consumption reduction, relaxation techniques, and self-monitoring.
+      </para>
+      <note class="trending-today" id="note-00002">
+        <title>Subtitle</title>
+        <para id="para-00015">
+          The American Heart Association (AHA) conducted a critical assessment of research and clinical knowledge on cardiovascular disease across the United States specifically addressing women’s health. In its report to the president, <link url="https://www.heart.org/en/news/2022/05/09/report-calls-out-gaps-in-womens-heart-disease-research-care">Gaps Identified in Women’s Heart Disease Research and Care</link>, gaps were identified and actions outlined to optimize cardiovascular health in women across their lifespan, with the goal of reaching health equity in health care. The AHA has deployed awareness campaigns that are culturally sensitive and focus on the optimization of preventive and clinical care. Community engagement and advocacy in policy change at the legislative level have been encouraged. 
+        </para>
+        <para id="para-00016">
+          The Heart Team multimedia series hosted by Jorge Plutzy, MD, Director of Preventive Cardiology at Harvard Medical School, and Michael Farkouh, MD, Director of the Peter Munk Clinical Trials Unit and Vice Chair of Medicine at the University of Toronto, provides <link url="https://www.hcplive.com/view/heart-team-women-cardiovascular-health?seriesVid=1">four podcasts on the current research in women’s cardiovascular health and disparities in practice</link>. Dr. Martha Gulati, MD, Director of Preventive Cardiology, Associate Director of the Barbara Streisand Women’s Heart Center, Associate Director of Preventive and Cardiac Rehabilitation at the Cedar Sinai Medical Center, joins the last two episodes of the multimedia series and discusses improving female participation in research trials and the future of clinical practice for women and cardiovascular diseases. 
+        </para>
+        <para id="para-00017">
+          In a fireside video chat, <link url="https://youtu.be/XMmBJHDI4eM">The Heart of the Matter: Racial and Gender Bias in Cardiovascular Care</link>, presented by Abbott Cardiovascular, an expert panel of health care providers and representatives discusses cardiovascular care. The panel identifies gender and racial bias as negatively impacting the client experience for persons with coronary and peripheral artery disease. The chat covers not only cardiovascular health, but also technologies that may be utilized to bridge the critical gaps identified.
+        </para>
+        <para id="para-00018">
+          <emphasis effect="italics">Sources [ipsum lorum text]: Leek, J. C. &amp; Arif, H. (2022) Pregnancy medications. National Library of Medicine: National Center for biotechnology Information. Lopez, E. O., Parmar, M., Pendela, V. S., &amp; Terrell, J. M. (2022) Lisinopril. National Library of Medicine. Luehrs, R. E., Zhang, D., Pierce, G.L., Jacobs Jr., D. R., Kalhan, R., &amp; Whitaker, K. (2021). Cigarette smoking and longitudinal associations with blood pressure: The CARDIA study. Journal of the American Heart Association. 10(9). https://www.ahajournals.org/doi/full/10.1161/JAHA.120.019566</emphasis>
+        </para>
+      </note>
+      <section id="sect-00006">
+        <title>Dietary Modification</title>
+        <para id="para-00019">
+          Clients with hypertension should eat a low-sodium diet consisting of whole grains, vegetables, and fruits. Other recommendations include low-fat dairy products and limiting meat intake to a total of 6 ounces of lean meat, such as fish and poultry, daily. Reducing sweets and red meat is also important. The American Heart Association (2022) recommends 1500 mg to no more than 2300 mg of sodium intake per day. Dietary pattern and nutritional therapy should focus on food preference, social and cultural influences, and appropriate caloric intake.
+        </para>
+      </section>
+      <section id="sect-00007">
+        <title>Physical Activity and Exercise</title>
+        <para id="para-00020">
+          Moderate exercise is recommended by the American Heart Association (2022) at least four times a week for adults. Average time for exercise should be at least 30–40 minutes per session to assist in decreasing blood pressure. If the client cannot do 30–40 minutes of moderate exercise four times a week, suggest an alternate exercise plan, emphasizing that some physical activity is better than no physical activity. Physical activity and exercise enhance weight reduction and promote a healthy lifestyle. A weight reduction of at least 10 kg can reduce blood pressure by 5 to 20 mm Hg (Ghadieh, 2015).
+        </para>
+      </section>
+      <section id="sect-00008">
+        <title>Smoking Cessation and Reducing Alcohol Consumption</title>
+        <para id="para-00021">
+          Tobacco use is the leading preventable cause of coronary artery disease. Smoking increases sympathetic nervous system activity, and therefore increases blood pressure, heart rate, and myocardial contractility. Smoking cessation can decrease the risk of coronary artery disease by more than 30% (Luehrs et al., 2021).
+        </para>
+        <para id="para-00022">
+          Alcohol consumption increases blood pressure by increasing the level of the hormone renin in the blood. Renin decreases fluid elimination and leads to higher fluid volume in the body, which therefore increases blood pressure. A reduction of alcohol consumption has been shown to decrease both systolic and/or diastolic blood pressure by 5 to 12 mm Hg (Wake, 2021).
+        </para>
+      </section>
+      <section id="sect-00009">
+        <title>Relaxation Techniques</title>
+        <para id="para-00023">
+          Relaxation techniques can include mindfulness-based stress reduction, transcendental meditation, deep breathing exercises, stretching, tai chi, yoga, and acupuncture. These techniques have been shown to decrease autonomic nervous system activity and lower stress and blood pressure (Brook et al., 2013).
+        </para>
+        <note class="clinical-tip" id="note-00003">
+          <title>Assessing Client Lifestyle Modifications</title>
+          <para id="para-00024">
+            Monitor the client closely for lifestyle changes that will improve baseline blood pressure readings such as diet modifications and weight loss, exercise, smoking cessation, and relaxation.
+          </para>
+        </note>
+      </section>
+      <section id="sect-00010">
+        <title>Self-Monitoring of Hypertension</title>
+        <para id="para-00025">
+          Home blood pressure monitoring (<link target-id="pharma_fig_18_01_003"/>) is essential in lowering blood pressure. Clients are now able to monitor their blood pressure with electronic blood pressure devices. Home blood pressure monitoring leads to awareness of one’s blood pressure, better blood pressure control, and adherence to lifestyle changes and drug therapies (Verma et al., 2021).
+        </para>
+        <figure id="pharma_fig_18_01_003">
+          <media alt="Alt text here">
+            <image mime-type="png" src="../../media/pharma_fig_18_01_003.png"/>
+          </media>
+          <caption>Hypertension. A client checking their blood pressure with an at-home blood pressure monitor. (credit: TBD)</caption>
+        </figure>
+      </section>
+    </section>
+    <section id="sect-00011">
+      <title>Pharmacologic Treatment of Hypertension</title>
+      <para id="para-00026">Pharmacologic treatment for hypertension centers on the individual client and takes into consideration their lifestyle as well as their personal, social, and cultural preferences. The objectives of pharmacological treatment are to reduce blood pressure and reduce the long-term effects of hypertension on the body, such as organ damage. The primary antihypertensive drugs used to treat high blood pressure include angiotensin-converting enzyme inhibitors, angiotensin II receptor blockers, beta-adrenergic blockers, calcium channel blockers, and diuretics. These drugs will be discussed further in this chapter.
+      </para>
+      <note class="clinical-tip" id="note-00004">
+        <title>Assessing Therapeutic Effects</title>
+        <para id="para-00027">Monitor the client’s blood pressure to assess for drug efficacy. If the blood pressure remains elevated despite antihypertensive treatment, the healthcare provider may adjust antihypertensive drugs to better control the client’s blood pressure.</para>
+      </note>
+    </section>
+    <section id="sect-00012">
+      <title>Angina</title>
+      <para id="para-00028">
+        <term id="term-00016">Angina</term> (also called angina pectoris) is defined as discomfort in the front of the chest, neck, shoulders, jaw, or arms that is precipitated by physical exertions and relieved by rest or sublingual nitrates (Timmis &amp; Roobottom, 2015). Angina is caused by reduced blood flow to the heart. There are four types of angina (Mayo, 2022): 
+        <list list-type="bulleted" id="list-00002">
+          <item>Stable angina is the most common form. It occurs during activity and goes away with rest. Stable angina is predictable and follows a pattern similar to the previous episodes of chest pain.</item>
+          <item>Unstable angina is unpredictable and considered a medical emergency. Unlike stable angina, it does not follow a pattern similar to previous episodes of chest pain, and episodes last longer than stable angina episodes. If blood flow to the heart doesn’t improve, a myocardial infarction (heart attack) may occur.</item>
+          <item>Variant (Prinzmetal) angina is caused by a spasm in the hearts arteries and can occur at rest. This type of angina often occurs in cycles, and may occur at rest or overnight.</item>
+          <item>Refractory angina is frequent episodes of angina that occur despite lifestyle changes and medication.</item>
+        </list>
+        Risk factors for angina include age, family history, tobacco use, diabetes, hypertension, high cholesterol, obesity, emotional stress, and drug misuse (Mayo, 2022).
+      </para>
+      <section id="sect-00013">
+        <title>Pharmacologic Treatment of Angina</title>
+        <para id="para-00029">
+          Pharmacologic treatment for angina is individualized. Client lifestyle as well as social and cultural influences impact the health care provider’s choice of drug. The goal for pharmacologic treatment of stable angina is to prevent an ischemic event, such as myocardial ischemia (heart attack), from occurring. Nitrates are the first line of treatment for angina, along with beta-adrenergic blockers and calcium channel blockers (Rousan &amp; Thadani, 2019). These drugs will be discussed further in this chapter.
+        </para>
+      </section>
+    </section>
+<note class="client-teaching" id="note-00005">
+  <title>Antihypertensive/Antianginal Use</title>
+  <para id="para-00030"><emphasis effect="bold">The client should:</emphasis>
+  <list list-type="bulleted" id="list-00003">
+    <item>Take antihypertensive and antianginal drugs as prescribed by their health care provider.</item>
+    <item>Take their blood pressure and pulse prior to starting an antihypertensive drug, to obtain a baseline reading.</item>
+    <item>Monitor their blood pressure and pulse regularly or as directed by their health care provider and keep a record of the reading for the healthcare provider. The client should report significant changes to their health care provider.</item>
+    <item>Keep a record of the number and severity of angina episodes to review with their healthcare provider.</item>
+    <item>Keep family and support system informed of emergency use of antianginal drugs and their location.</item>
+    <item>Wear a medical alert bracelet and carry a list of drugs they are currently taking. </item>
+    <item>Avoid alcohol, caffeine, and tobacco because these may interfere with the action of antihypertensive and antianginal drugs.</item>
+  </list>
+  </para>
+  <para id="para-00031"><emphasis effect="bold">The client <emphasis effect="italics">should not</emphasis>:</emphasis>
+    <list list-type="bulleted" id="list-00004">
+      <item>Take a double dose of the antihypertensive drug. If the client misses a dose of their antihypertensive drug, they should take it as soon as they remember—unless it’s almost time for the next dose. In that case, they should wait and take the next dose at the normal time.</item>
+      <item>Abruptly discontinue an antihypertensive drug without consulting with the health care provider, because with some drugs this may cause rebound elevated blood pressure and an elevated pulse rate.</item>
+      <item>Take over the counter (OTC) drugs and/or herbal supplements without consulting with their health care provider or pharmacist.</item>
+    </list>
+    </para>
+    <para id="para-00032"><emphasis effect="bold">Other concers:</emphasis>
+      <list list-type="bulleted" id="list-00005">
+        <item>Headaches may occur with the use of nitrates. Acetaminophen may help in relieving these headaches.</item>
+        <item>Antihypertensive drugs may cause orthostatic hypotension (a form of low blood pressure that occurs when going from a sitting or lying position to a standing position). The client should change positions slowly to prevent dizziness and fainting.</item>
+        <item>If low blood pressure develops (feeling dizzy or lightheaded, having blurred vision, feeling weak, or fainting), the client should lie on their back with legs elevated and notify their health care provider.</item>
+        <item>If the client is unsure about how to take their antihypertensive drug, they should call their health care provider or pharmacist.</item>
+        </list>
+      </para>
+</note>
+<note class="unfolding-casestudy" id="note-00006">
+  <title>Part A</title>
+  <para id="para-00033">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter. Refer to the Answer Key at the end of the book for feedback.</para>
+  <table summary="Insert Alt Text" id="table-00001">
+    <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+    <row>
+      <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para></entry>
+    </row>
+    <row>
+      <entry><emphasis effect="bold">Vital Signs</emphasis>
+      <list list-type="bulleted" bullet-style="none" id="list-00006">
+        <item>Temperature: 98.4° Fahrenheit</item>
+        <item>Blood pressure: 168/96 mm Hg</item>
+        <item>Heart rate: 88 beats/min</item>
+        <item>Respiratory rate: 16 breaths/min</item>
+        <item>Oxygen saturation: 97% on room air</item>
+        <item>Height: 5’3”</item>
+        <item>Weight: 184 pounds</item>
+      </list>
+      </entry>
+      <entry><emphasis effect="bold">Physical Examination</emphasis>
+        <list list-type="bulleted" bullet-style="none" id="list-00007">
+          <item>Head, eyes, ears, nose, throat (HEENT): Within normal limits</item>
+          <item>Cardiovascular: No jugular vein distention; 1+ peripheral edema noted bilaterally; S1, S2 noted</item>
+          <item>Respiratory: Slight crackles noted to bilateral lung bases</item>
+          <item>GI: Abdomen soft, nontender, nondistended</item>
+          <item>GU: Reports normal urine output</item>
+          <item>Neurological: Headache</item>
+          <item>Integumentary: No wounds noted; skin appropriate for age</item>
+        </list>
+      </entry>
+    </row>
+    <row>
+      <entry namest="c1" nameend="c2">
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00035"><link class="os-embed" url="#exercise/Nickname"/></para>
+          </problem>
+         </exercise>
+         <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00036"><link class="os-embed" url="#exercise/Nickname"/></para>
+          </problem>
+         </exercise>
+      </entry>
+    </row>
+  </tbody>
+  </tgroup>
+  </table>
+</note>
+  </section>
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>cardiac output</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00002">
+      <term>heart rate</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00003">
+      <term>stroke volume</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00004">
+      <term>systolic blood pressure</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00005">
+      <term>peripheral vascular resistance</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00006">
+      <term>diastolic blood pressure (DBP)</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00007">
+      <term>hypertension</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00008">
+      <term>secondary hypertension</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00009">
+      <term>primary hypertension</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00010">
+      <term>renin-angiotensin-aldosterone system (RAAS)</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00011">
+      <term>hypotension</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00012">
+      <term>angiotensin I</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00013">
+      <term>angiotensin II</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00014">
+      <term>aldosterone</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00015">
+      <term>vasopressin</term>
+      <meaning/>
+    </definition>
+    <definition id="def-00016">
+      <term>angina</term>
+      <meaning/>
+    </definition>
+  </glossary>
 </document>
