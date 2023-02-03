@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+  <title>International System of Units</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>International System of Units</md:title>
+    <md:content-id>m00022</md:content-id>
+    <md:uuid>4a3102b0-4dc4-44c9-9d6a-3ac2eee8e5c5</md:uuid>
+  </metadata>
+  <content class="appendix">
+    <para id="para-00001">
+      The International System of Units (SI) is a system of measurement that was established in 1960 and consists of base units and derived units of measurement. This system is periodically updated and maintained by the General Conference on Weights and Measures (CGPM).
+    </para>
+    <para id="para-00002">
+      In health care, the common base units and derived units include: body mass index, length, mass, temperature, and volume. The SI system is the most widely used measurement system internationally; however, the United States has not fully adopted the system. It continues to use the U.S. customary system of measurement.
+    </para>
+    <para id="para-00003">
+      <link target-id="table_A_01"/> shows the common SI base units used in health care. <link target-id="table_A_02"/> lists the common prefixes.
+    </para>
+
+    <table id="table_A_01" summary="Alt text here.">
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Measurement</entry>
+            <entry>Name</entry>
+            <entry>Symbol</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Body mass index</entry>
+            <entry>Kilogram per meter squared</entry>
+            <entry>kg/m<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Length</entry>
+            <entry>Meter</entry>
+            <entry>m</entry>
+          </row>
+          <row>
+            <entry>Mass</entry>
+            <entry>Gram</entry>
+            <entry>g</entry>
+          </row>
+          <row>
+            <entry>Temperature</entry>
+            <entry>Celsius</entry>
+            <entry>C</entry>
+          </row>
+          <row>
+            <entry>Volume</entry>
+            <entry>Liter</entry>
+            <entry>L</entry>
+          </row>
+        </tbody>
+      </tgroup>
+      <caption>SI Base Units<newline/>Source: https://www.nist.gov/pml/owm/metric-si/si-units
+        https://www.nist.gov/pml/owm/metric-si/si-education-training</caption>
+    </table>
+
+    <table id="table_A_02" summary="Alt text here.">
+      <tgroup cols="7">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <thead>
+          <row>
+            <entry namest="c1" nameend="c4">Whole Units</entry>
+            <entry namest="c5" nameend="c7">Decimal Units</entry>
+          </row>
+          <row>
+            <entry>Thousands</entry>
+            <entry>Hundreds</entry>
+            <entry>Tens</entry>
+            <entry>SI Unit</entry>
+            <entry>Tenths</entry>
+            <entry>Hundredths</entry>
+            <entry>Thousandths</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1000</entry>
+            <entry>100</entry>
+            <entry>10</entry>
+            <entry>1</entry>
+            <entry>0.1</entry>
+            <entry>0.01</entry>
+            <entry>0.001</entry>
+          </row>
+          <row>
+            <entry>Kilo-</entry>
+            <entry>Hector-</entry>
+            <entry>Deka-</entry>
+            <entry>Meter<newline/>Gram<newline/>Liter</entry>
+            <entry>Deci-</entry>
+            <entry>Centi-</entry>
+            <entry>Milli-</entry>
+          </row>
+        </tbody>
+      </tgroup>
+      <caption>SI Common Prefixes<newline/>Source: https://www.nist.gov/pml/owm/metric-si-prefixes</caption>
+    </table>
+  </content>
+</document>

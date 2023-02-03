@@ -1,9 +1,9 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:content-id>col11111</md:content-id>
     <md:title>Pharmacology for Nurses</md:title>
     <md:slug>pharmacology</md:slug>
     <md:language>en</md:language>
+    <md:content-id>col11111</md:content-id>
     <md:uuid>2f805b43-bce4-4379-add2-4fbf46700e4c</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
@@ -22,5 +22,14 @@
         <col:module document="m00008"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Drug Administration</md:title>
+      <col:content>
+        <col:module document="m00021"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m00022"/>
+    <col:module document="m00023"/>
+    <col:module document="m00024"/>
   </col:content>
 </col:collection>

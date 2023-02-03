@@ -221,42 +221,45 @@
           <colspec colnum="2" colname="c2"/>
           <tbody>
         <row>
-          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para></entry>
+          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of Hypertension Stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks from her bedroom to the kitchen. The client’s daughter also reports that Ms. Tran is not limiting her salt intake and adds salt to every dish.</para></entry>
         </row>
         <row>
           <entry><emphasis effect="bold">Vital Signs</emphasis>
           <list list-type="bulleted" bullet-style="none" id="list-00006">
             <item>Temperature: 98.4° Fahrenheit</item>
-            <item>Blood pressure: 168/96 mm Hg</item>
-            <item>Heart rate: 88 beats/min</item>
-            <item>Respiratory rate: 16 breaths/min</item>
-            <item>Oxygen saturation: 97% on room air</item>
-            <item>Height: 5’3”</item>
-            <item>Weight: 184 pounds</item>
+        <item>Blood pressure: 144/90 mm Hg</item>
+        <item>Heart rate: 78 beats/min</item>
+        <item>Respiratory rate: 16 breaths/min</item>
+        <item>Oxygen saturation: 98% on room air</item>
+        <item>Height: 5’3”</item>
+        <item>Weight: 188 pounds</item>
           </list>
           </entry>
           <entry><emphasis effect="bold">Physical Examination</emphasis>
             <list list-type="bulleted" bullet-style="none" id="list-00007">
               <item>Head, eyes, ears, nose, throat (HEENT): Within normal limits</item>
-              <item>Cardiovascular: No jugular vein distention; 1+ peripheral edema noted bilaterally; S1, S2 noted</item>
-              <item>Respiratory: Slight crackles noted to bilateral lung bases</item>
-              <item>GI: Abdomen soft, nontender, nondistended</item>
-              <item>GU: Reports normal urine output</item>
-              <item>Neurological: Headache</item>
+              <item>Cardiovascular: No jugular vein distention; S1, S2 noted</item>
+              <item>Respiratory: Within normal limits</item>
+              <item>GI: Within normal limits</item>
+              <item>GU: Within normal limits</item>
+              <item>Neurological: Within normal limits</item>
               <item>Integumentary: No wounds noted; skin appropriate for age</item>
             </list>
           </entry>
         </row>
         <row>
+          <entry namest="c1" nameend="c2"><para id="para-00035">The health care provider runs a 12-lead ECG and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil tablets orally and nitroglycerin sublingually to the client.</para></entry>
+        </row>
+        <row>
           <entry namest="c1" nameend="c2">
             <exercise id="exer-00001">
               <problem id="prob-00001">
-                <para id="para-00035"><link class="os-embed" url="#exercise/Nickname"/></para>
+                <para id="para-00059"><link class="os-embed" url="#exercise/pharm_18_7_01"/></para>
               </problem>
              </exercise>
              <exercise id="exer-00002">
               <problem id="prob-00002">
-                <para id="para-00036"><link class="os-embed" url="#exercise/Nickname"/></para>
+                <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_7_02"/></para>
               </problem>
              </exercise>
           </entry>
@@ -264,17 +267,159 @@
       </tbody>
       </tgroup>
       </table>
-
+    </note>
+  </section>
+  <section id="sect-00014">
+    <title>Chapter Black Box Warnings</title>
+    <para id="para-00038">
+      This box combines the U.S. Food and Drug Administration (FDA) black box warning regarding ACE inhibitors, ARBs, beta blockers, calcium channel blockers, and loop diuretics.
+    </para>
+    <note class="black-box" id="note-00007">
+      <para id="para-00039">The FDA has issued a BLACK BOX WARNING stating that birth defects can occur when taking ACE inhibitors during the second and third trimesters of pregnancy.
+      </para>
+      <para id="para-00040">The FDA has issued a BLACK BOX WARNING stating that birth defects can occur when taking ARBs during pregnancy.</para>
+      <para id="para-00041">The FDA has issued a BLACK BOX WARNING stating that beta blocker therapy should not be abruptly stopped, but gradually tapered to avoid exacerbation of angina and myocardial infarction. Seek health care provider advice prior to discontinuing use.</para>
+      <para id="para-00042">The FDA has issued a BLACK BOX WARNING stating that immediate release nifedipine, a potent calcium blocker, may increase the risk of myocardial infarction, stroke, and arrhythmias.</para>
+      <para id="para-00043">The FDA has issued a BLACK BOX WARNING stating that loop diuretics are a potent diuretic and could lead to diuresis with water and electrolyte depletion.</para>
     </note>
   </section>
 
+<section class="summary-pharm" id="sect-00005">
+  <title>Chapter Summary</title>
+  <para id="para-00013">
+    This chapter focused on antihypertension and antiangina drugs. Hypertension and angina were defined. Stroke volume and peripheral vascular resistance are the two determinants of blood pressure. The renin-angiotensin-aldosterone system was described and how it impacts blood pressure within the body was explained. Blood pressure guidelines by the American Heart Association were discussed. The types of angina were briefly explained along with typical findings.
+  </para>
+  <para id="para-00014">
+    Common antihypertensive and antianginal drug classifications were covered in the chapters. Drug classifications covered included angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), beta-adrenergic blockers, calcium channel blockers, diuretics, and nitrates. These drug classifications are used as mono- or multi-drug treatment therapy for hypertension and angina.
+  </para>
+</section>
 
+<section class="review-questions" id="sect-00006">
+  <title>Review Questions</title>
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00015"><link class="os-embed" url="#exercise/pharm_18_001"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00016"><link class="os-embed" url="#exercise/pharm_18_002"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00017"><link class="os-embed" url="#exercise/pharm_18_003"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00018"><link class="os-embed" url="#exercise/pharm_18_004"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00019"><link class="os-embed" url="#exercise/pharm_18_005"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00020"><link class="os-embed" url="#exercise/pharm_18_006"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00021"><link class="os-embed" url="#exercise/pharm_18_007"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00022"><link class="os-embed" url="#exercise/pharm_18_008"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00023"><link class="os-embed" url="#exercise/pharm_18_009"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00024"><link class="os-embed" url="#exercise/pharm_18_010"/></para>
+    </problem>
+  </exercise>
+</section>
+
+<section class="references" id="sect-00007">
+  <title>References</title>
+  <para id="para-00025">Akbari, P. &amp; Khorasani-Zadeh, A. (20220). Thiazide diuretics. <emphasis effect="italics">National Library of Medicine: National Center for 
+    Biotechnology Information.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK532918/
+    </para>
+    <para id="para-00026">American Heart Association (2022). Understanding blood pressure readings. 
+      https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
+      </para>
+      <para id="para-00027">Arumugham, V. B. &amp; Shahin. M. H. (2022). Therapeutic use of diuretic agents.<emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK557838/</para>
+      <para id="para-00028">Astra Zeneca. (2010). Metoprolol. 
+        https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/019962s042lbl.pdf
+        </para>
+        <para id="para-00029">Astra Zeneca (2012). Zestril. 
+          https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf
+          </para>
+          <para id="para-00030">Brewster, L.M., Seedal, Y. K. (2013). Why do hypertensive patients of African ancestry respond better to 
+            calcium channel blockers and diuretics than to ACE inhibitors and B-adrenergic blockers? A systematic review.<emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information.</emphasis> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3681568/#:~:text=Calcium%20blockers%20are%20with%20diuretics,%2F%3D%20110%20mm%20Hg</para>
+            <para id="para-00031">Brook, R.D., Lawrence, J.A., Rubenfine, M., Ogedegbe, G., Bisognano, J.D., Elliott, W. J, Fuchs, F. D., 
+              Hughes, J.W., Lackland, D. T., Staffileno, B.A., Townsend, R. R., &amp; Rajagopalan, S. (2013). Beyond medications and diet: Alternative approaches to lowering blood pressure. <emphasis effect="italics">Journal of the American Heart Association.</emphasis> 61(6): 1360-1383. https://www.ahajournals.org/doi/epub/10.1161/HYP.0b013e318293645f</para>
+              <para id="para-00032">Brown, C. M., &amp; Garovic, V. S. (2014) Drug treatment of hypertension in pregnancy. <emphasis effect="italics">National Library of 
+                Medicine: National Center for biotechnology Information.</emphasis> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558097/</para>
+                <para id="para-00033">Carter, A. (2022). Angiotensin II receptor blockers (ARBs). <emphasis effect="italics">Healthline</emphasis>. 
+                  https://www.healthline.com/health/heart-disease/arbs</para>
+                  <para id="para-00037">Cleveland Clinic (2020). High blood pressure: What you need to know about medication. 
+                    https://youtu.be/pJYCTh3_OWQ
+                    </para>
+                    <para id="para-00044">Clinical Trials.gov. (2014). Evaluation of safety and efficacy and pharmacokinetics of Micardis in children 
+                      and adolescents with hypertension. https://clinicaltrials.gov/ct2/show/NCT02241844
+                      </para>
+                    <para id="para-00045">DailyMed (2023). Amiloride hydrochloride tablet.
+                      https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e0cc2d44-436a-47e8-a890-589882fff4c4
+                    </para>
+                    <para id="para-00046">Fahie, S. &amp; Cassagnol, M. (2022) Verapamil.<emphasis effect="italics">National Library of Medicine: National Center for 
+                      biotechnology Information</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK538495/</para>
+                    <para id="para-00047">Ghadieh, A.S. &amp; Saab, B. (2015) Evidence for exercise training in the management of hypertension in 
+                      adults. Can Fam Physician. 61(3): 183‐189. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369613/</para>
+                    <para id="para-00048">Harper, R. K. &amp; Hamilton, R. J. (2022) Calcium channel blocker toxicity. <emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK537147/</para>
+                    <para id="para-00049">Iqbal, A. M &amp; Jamal, S. F. (2022). Essential hypertension. <emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK539859/</para>
+                    <para id="para-00050">Jun, H.R., Hyunah, K., Lee, S. H., Cho, J. H., Lee, H., Yim, H. W., Yoon, K. H., &amp; Kim, H.S. (2021). Onset of 
+                      hyperkalemia following the administration of angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker. <emphasis effect="italics">Cardiovascular Therapeutics</emphasis>. PMC7943268. doi: 10.1155/2021/5935149
+                      </para>
+                    <para id="para-00051">Khalil, H. &amp; Zeltser, R. (2022). Antihypertensive medications. <emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK554579/</para>
+                    <para id="para-00052">Lee, P. M. &amp; Gerriets, V. (2022) Nitrates. <emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK545149/</para>
+                    <para id="para-00053">Mayo Clinic (2022). Ask Mayo Clinic: Hypertension. https://youtu.be/NMuzXbyu7YY</para>
+                    <para id="para-00054">Rousan, T.A. &amp; Thadani, U. (2019) Stable angina medical therapy management guidelines: A critical 
+                      review of guidelines from the European society of cardiology and national institute for health and care excellence. <emphasis effect="italics">European Cardiology Review</emphasis>. 14(1): 18-22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6518058/</para>
+                    <para id="para-00055">Seto, S. L., Barra, M. E., Hamidi, A., Sin, J. H., Devine, L. T. (2022). Efficacy and safety of immediate 
+                      release Nifidipine in critically ill patients. <emphasis effect="italics">National Library of Medicine: National Center for biotechnology Information</emphasis>. https://pubmed.ncbi.nlm.nih.gov/35152786#:~:text=Background%3A%20Immediate%2Drelease%20nifedipine%20(,infarction%2C%20stroke%2C%20and%20arrhythmias
+                      </para>
+                    <para id="para-00056">Timmis, A. &amp; Roobottom, C.A. (2015). National Institute of Health and Care Excellence updates the 
+                      stable chest pain guideline with radical changes to the diagnostic paradigm. <emphasis effect="italics">British journal of Medicine: Heart</emphasis>. 103(13): 982-986. https://heart.bmj.com/content/103/13/982</para>
+                    <para id="para-00057">Verma, N., Rastogi, S., Chia, Y.C., Siddique, S., Turana, Y., Cheng, H.M., Sogunuru, G. P., Tay, J.C., 
+                      Teo, B.W., Wang, T. A., Tsoi, K. K. F., Kario, K. (2021). <emphasis effect="italics">The Journal of Clinical Hypertension</emphasis>.18 (7): 1275-1283. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678745/</para>
+                    <para id="para-00058">Wake, A. D. (2021). The role of dietary salt and alcohol use reduction in the management of hypertension. <emphasis effect="italics">Expert Review of Cardiovascular Therapy</emphasis>. 19 (1): 27-40. https://www.tandfonline.com/doi/full/10.1080/14779072.2021.1850266?scroll=top&amp;needAccess=true
+                      </para>
+
+</section>
   </content>
 
   <glossary>
     <definition id="def-00001">
-      <term>nitrates</term>
-      <meaning/>
+      <term>nitrate</term>
+      <meaning>a classification of drugs that cause vasodilation of blood vessels by imparting nitric oxide, which relaxes smooth muscles</meaning>
     </definition>
   </glossary>
 </document>

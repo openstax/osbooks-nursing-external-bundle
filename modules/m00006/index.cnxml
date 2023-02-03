@@ -3,8 +3,59 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Calcium Channel Blockers</md:title>
     <md:content-id>m00006</md:content-id>
+    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+    <item>LO18.5.1 Discuss the use of calcium channel blocker drugs used to treat hypertension and angina.</item>
+    <item>LO18.5.2 Differentiate between calcium channel blocker drugs used in the treatment of  hypertension and angina.</item>
+    <item>LO18.5.3 Describe nursing implications related to calcium channel blocker drugs used to treat hypertension and angina.</item>
+    <item>LO18.5.4 Develop an education plan related to calcium channel blocker drugs used in the treatment of hypertension and angina.</item>
+  </list>
+  </md:abstract>
     <md:uuid>dc3f05e4-650a-459f-8f33-a96a99c24a28</md:uuid>
   </metadata>
-  <content><para id="para-00001">test</para>
+  <content>
+    <section id="sect-00001">
+      <title>Introduction and Use</title>
+    <para id="para-00002"><term id="term-00001">Calcium channel blockers</term> are a classification of drugs that block calcium from entering cells by binding to long-acting voltage-gated calcium channels in the heart, smooth muscle, and pancreas. Calcium causes vasoconstriction. Calcium channel blockers inhibit calcium and allow for vasodilation, thereby causing the heart rate to slow and blood pressure to lower. Calcium channel blockers are commonly used to treat hypertension, angina, and arrhythmias.</para>
+
+    <note class="unfolding-casestudy" id="note-00001">
+      <title>Part B</title>
+      <para id="para-00003">
+        Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up to Case Study Part A. Refer to the Answer Key at the end of the book for feedback.
+      </para>
+      <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+        <row>
+          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Tran completes her diagnostic evaluation, and the health care provider diagnoses her with Hypertension Stage 2. She follows up with her health care provider one week later to get the results of her diagnostic studies and review her treatment plan.</para></entry>
+        </row>
+        <row>
+          <entry namest="c1" nameend="c2">
+            <exercise id="exer-00001">
+              <problem id="prob-00001">
+                <para id="para-00035"><link class="os-embed" url="#exercise/pharm_18_5_01"/></para>
+              </problem>
+             </exercise>
+             <exercise id="exer-00002">
+              <problem id="prob-00002">
+                <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_5_02"/></para>
+              </problem>
+             </exercise>
+          </entry>
+        </row>
+      </tbody>
+      </tgroup>
+      </table>
+    </note>
+  </section>
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>calcium channel blockers</term>
+      <meaning>a classification of drugs that block calcium from entering cells by binding to long-acting voltage-gated calcium channels in the heart, smooth muscle, and pancreas</meaning>
+    </definition>
+  </glossary>
 </document>
