@@ -191,48 +191,51 @@
 <note class="unfolding-casestudy" id="note-00006">
   <title>Part A</title>
   <para id="para-00033">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter. Refer to the Answer Key at the end of the book for feedback.</para>
-  <table summary="Insert Alt Text" id="table-00001">
+  <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
     <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
       <tbody>
     <row>
-      <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para></entry>
+      <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of Hypertension Stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks from her bedroom to the kitchen. The client’s daughter also reports that Ms. Tran is not limiting her salt intake and adds salt to every dish.</para></entry>
     </row>
     <row>
       <entry><emphasis effect="bold">Vital Signs</emphasis>
       <list list-type="bulleted" bullet-style="none" id="list-00006">
         <item>Temperature: 98.4° Fahrenheit</item>
-        <item>Blood pressure: 168/96 mm Hg</item>
-        <item>Heart rate: 88 beats/min</item>
+        <item>Blood pressure: 144/90 mm Hg</item>
+        <item>Heart rate: 78 beats/min</item>
         <item>Respiratory rate: 16 breaths/min</item>
-        <item>Oxygen saturation: 97% on room air</item>
+        <item>Oxygen saturation: 98% on room air</item>
         <item>Height: 5’3”</item>
-        <item>Weight: 184 pounds</item>
+        <item>Weight: 188 pounds</item>
       </list>
       </entry>
       <entry><emphasis effect="bold">Physical Examination</emphasis>
         <list list-type="bulleted" bullet-style="none" id="list-00007">
           <item>Head, eyes, ears, nose, throat (HEENT): Within normal limits</item>
-          <item>Cardiovascular: No jugular vein distention; 1+ peripheral edema noted bilaterally; S1, S2 noted</item>
-          <item>Respiratory: Slight crackles noted to bilateral lung bases</item>
-          <item>GI: Abdomen soft, nontender, nondistended</item>
-          <item>GU: Reports normal urine output</item>
-          <item>Neurological: Headache</item>
+          <item>Cardiovascular: No jugular vein distention; S1, S2 noted</item>
+          <item>Respiratory: Within normal limits</item>
+          <item>GI: Within normal limits</item>
+          <item>GU: Within normal limits</item>
+          <item>Neurological: Within normal limits</item>
           <item>Integumentary: No wounds noted; skin appropriate for age</item>
         </list>
       </entry>
     </row>
     <row>
+      <entry namest="c1" nameend="c2"><para id="para-00035">The health care provider runs a 12-lead ECG and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil tablets orally and nitroglycerin sublingually to the client.</para></entry>
+    </row>
+    <row>
       <entry namest="c1" nameend="c2">
         <exercise id="exer-00001">
           <problem id="prob-00001">
-            <para id="para-00035"><link class="os-embed" url="#exercise/Nickname"/></para>
+            <para id="para-00036"><link class="os-embed" url="#exercise/Nickname"/></para>
           </problem>
          </exercise>
          <exercise id="exer-00002">
           <problem id="prob-00002">
-            <para id="para-00036"><link class="os-embed" url="#exercise/Nickname"/></para>
+            <para id="para-00037"><link class="os-embed" url="#exercise/Nickname"/></para>
           </problem>
          </exercise>
       </entry>
@@ -242,71 +245,25 @@
   </table>
 </note>
   </section>
+  <section id="sect-00014">
+    <title>Chapter Black Box Warnings</title>
+    <para id="para-00038">
+      This box combines the U.S. Food and Drug Administration (FDA) black box warning regarding ACE inhibitors, ARBs, beta blockers, calcium channel blockers, and loop diuretics.
+    </para>
+    <note class="black-box" id="note-00007">
+      <para id="para-00039">The FDA has issued a BLACK BOX WARNING stating that birth defects can occur when taking ACE inhibitors during the second and third trimesters of pregnancy.
+      </para>
+      <para id="para-00040">The FDA has issued a BLACK BOX WARNING stating that birth defects can occur when taking ARBs during pregnancy.</para>
+      <para id="para-00041">The FDA has issued a BLACK BOX WARNING stating that beta blocker therapy should not be abruptly stopped, but gradually tapered to avoid exacerbation of angina and myocardial infarction. Seek health care provider advice prior to discontinuing use.</para>
+      <para id="para-00042">The FDA has issued a BLACK BOX WARNING stating that immediate release nifedipine, a potent calcium blocker, may increase the risk of myocardial infarction, stroke, and arrhythmias.</para>
+      <para id="para-00043">The FDA has issued a BLACK BOX WARNING stating that loop diuretics are a potent diuretic and could lead to diuresis with water and electrolyte depletion.</para>
+    </note>
+  </section>
   </content>
 
   <glossary>
     <definition id="def-00001">
-      <term>cardiac output</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00002">
-      <term>heart rate</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00003">
-      <term>stroke volume</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00004">
-      <term>systolic blood pressure</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00005">
-      <term>peripheral vascular resistance</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00006">
-      <term>diastolic blood pressure (DBP)</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00007">
-      <term>hypertension</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00008">
-      <term>secondary hypertension</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00009">
-      <term>primary hypertension</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00010">
-      <term>renin-angiotensin-aldosterone system (RAAS)</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00011">
-      <term>hypotension</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00012">
-      <term>angiotensin I</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00013">
-      <term>angiotensin II</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00014">
-      <term>aldosterone</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00015">
-      <term>vasopressin</term>
-      <meaning/>
-    </definition>
-    <definition id="def-00016">
-      <term>angina</term>
+      <term>nitrates</term>
       <meaning/>
     </definition>
   </glossary>

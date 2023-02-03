@@ -3,8 +3,278 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Nitrates</md:title>
     <md:content-id>m00008</md:content-id>
+    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+    <item>LO18.7.1 Discuss the use of nitrate drugs used to hypertension and angina.</item>
+    <item>LO18.7.2 Differentiate between nitrate drugs used in the treatment of hypertension and angina.</item>
+    <item>LO18.7.3 Describe nursing implications related to nitrate drugs used in the treatment of hypertension and angina.</item>
+    <item>LO18.7.4 Develop an education plan related to nitrate drugs used in the treatment of hypertension and angina.</item>
+  </list>
+  </md:abstract>
     <md:uuid>9553c5c3-ef63-4620-a8e3-d73c3ed88ce9</md:uuid>
   </metadata>
-  <content><para id="para-00001">test</para>
+  
+  <content>
+    <section id="sect-00001">
+      <title>Introduction and Use</title>
+       <para id="para-00001"><term id="term-00001">Nitrates</term> are a classification of drugs that cause vasodilation of blood vessels through imparting nitric oxide, which relaxes smooth muscles and causes the dilation of coronary vessels. This improves oxygen supply to the heart, decreases oxygen demand within the body, reduces cardiac workload (preload and afterload), and lowers blood pressure. Nitrates have been used to treat chest pain and angina since the early 1800s. Nitrates come in different forms for use including oral, sublingual, translingual spray, intravenous, topical, and transdermal. They can be short acting or long acting. Nitrates are commonly used to treat angina, acute coronary syndrome, arterial hypertension, and heart failure.</para>
+       <note class="special-considerations" id="note-00001">
+        <title>Nitrates</title>
+        <para id="para-00003">
+          Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.<emphasis effect="italics">Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/</emphasis>
+        </para>
+       </note>
+       <para id="para-00004">
+        <link target-id="table_18_07_001"/> lists common nitrates and typical routes and dosing for adult and pediatric clients. <link target-id="table_18_07_002"/> is a drug prototype chart for nitrates featuring nitroglycerin. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.
+       </para>
+
+       <table id="table_18_07_001" class="drugs" summary="Alt text here.">
+        <tgroup cols="3">
+          <thead class="blue-text">
+            <row>
+              <entry>Drug</entry>
+              <entry>Routes and Dosage Ranges: Adults</entry>
+              <entry>Routes and Dosage Ranges: Children</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><emphasis effect="italics">Atenolol</emphasis><newline/>
+                (Tenormin)</entry>
+              <entry>50–100 mg daily orally in 1–2 divided doses</entry>
+              <entry>0.1–1 mg/kg daily orally in 1–2 divided doses, maximum dose 2 mg/kg up to 100 mg daily in 1–2 divided doses</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Carvediolol</emphasis><newline/>
+                (Coreq)
+                </entry>
+              <entry>6.25–25 mg daily orally, maximum dose 25 mg daily</entry>
+              <entry>This drug is not recommended for use in children.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Labetalol</emphasis><newline/>(Trandate)</entry>
+              <entry>100–400 mg twice daily orally, maximum dose 2400 mg daily for severe hypertension</entry>
+              <entry>1–3 mg/kg orally daily, maximum dose 10–12 mg/kg or 1200 mg daily</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Metoprolol</emphasis><newline/>(Lopressor)</entry>
+              <entry>50–400 mg daily orally, maximum dose 400 mg daily</entry>
+              <entry>
+                Immediate release 1–2 mg/kg orally daily in 2 doses, maximum dose 6 mg/kg maximum dose 200 mg daily<newline count="2"/>
+                Sustained release 1 mg/kg daily orally, maximum dose 200 mg daily
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Nadolol</emphasis><newline/>(Corgard)</entry>
+              <entry>40–320 mg daily orally</entry>
+              <entry>6–16 years old: 1.3 mg/kg daily orally, maximum dose 2.7 mg/kg up to 160 mg daily</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Propranolol</emphasis><newline/>(Inderal LA)</entry>
+              <entry>40 mg twice daily orally, maximum dose 640 mg daily</entry>
+              <entry>1 mg/kg daily orally, maximum dose 10 mg/kg daily</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Drug Emphasis Table: Beta Blockers</caption>
+      </table>
+
+      <table id="table_18_07_002" summary="Alt text here.">
+        <tgroup cols="2">
+          <tbody>
+          <row>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+              Beta-adrenergic blocker<newline/>
+              <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+              <emphasis effect="italics">Metoprolol tartrate blocks beta 1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure.</emphasis>
+            </entry>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+              <emphasis effect="bold"><span class="blue-text">Adult:</span></emphasis> 50–400 mg orally twice daily<newline/>
+              <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> immediate release 1–2 mg/kg orally daily in 2 doses, maximum dose 6 mg/kg, 200 mg daily<newline/>
+              <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> sustained release 1 mg/kg daily orally, maximum dose 200 mg daily
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+              To control hypertension<newline/>
+              In the treatment of angina, acute myocardial infarction, and heart failure<newline count="2"/>
+      
+              <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+              Lowers blood pressure<newline/>
+              Decreases cardiac workload
+            </entry>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+              <emphasis effect="italics">Albuterol</emphasis> (Ventolin)<newline/>
+              <emphasis effect="italics">Clonidine</emphasis> (Catapres)<newline/>
+              <emphasis effect="italics">Mefloquine</emphasis> (Lariam)<newline/>
+      
+              <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+              Caffeine<newline/>
+              Alcohol<newline/>
+              Tobacco
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis>
+              <list list-type="bulleted" bullet-style="none" id="list-00002">
+                <item>Fatigue/weakness</item>
+                <item>Dizziness</item>
+                <item>Headache</item>
+                <item>Blurred vision</item>
+                <item>Dry mouth</item>
+                <item>Nausea/vomitting/diarrhea</item>
+                <item>Drowsiness/insomnia</item>
+                <item>Tinnitus</item>
+                <item>Peripheral edema</item>
+                <item>Erectile dysfunction</item>
+              </list>
+            </entry>
+            <entry>
+              <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+              Hypersensitivity, AV block, cardiogenic shock, hypotension, acute heart failure, bradycardia<newline count="2"/>
+              Caution: thyroid impairment, hepatic impairment, asthma, peripheral vascular disease, diabetes mellitus, COPD, cerebrovascular disease
+            </entry>
+          </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Prototype Table: Metoprolol Tartrate</caption>
+      </table>
+  </section>
+  <section id="sect-00002">
+    <title>Adverse Effects</title>
+    <para id="para-00005">
+      Adverse effects include headache, lightheadedness, flushing, syncope, reflex tachycardia, and dizziness. Serious adverse effects include hypotension.
+    </para>
+  </section>
+  <section id="sect-00003">
+    <title>Contraindications</title>
+    <para id="para-00006">
+      Contraindications include allergies to nitrates, concomitant use of phosphodiesterase (PDE) inhibitors such as tadalafil and sildenafil, history of right ventricular infarction, and hypertrophic cardiomyopathy.
+    </para>
+    <para id="para-00007">
+      Nitrates should be used cautiously in clients on chronic diuretic therapy, with low systolic blood pressure, with autonomic nervous system dysregulation, and who are pregnant or breastfeeding.
+    </para>
+
+    <note class="safety-alert" id="note-00002">
+      <title>Nitrates</title>
+      <para id="para-00008">
+        Nitrates can induce hypotension. They should not be taking with certain erectile dysfunction drugs due to causing severe hypotension and cardiac decompensation.
+      </para>
+    </note>
+  </section>
+  <section id="sect-00004">
+    <title>Nursing Implications</title>
+    <para id="para-00009">
+      Many drugs and herbal supplements interact with nitrates. The nurse should carefully assess the client for drug and herbal supplement interactions because they may cause profound hypotension. The nurse also should assess and monitor the client’s blood pressure during initial dosing and intermittently throughout drug therapy, especially if administering nitrates intravenously, because the nitrates may cause severe hypotension. Nitrates should be held if the client’s systolic blood pressure is less than 90 mm Hg and if the heart rate is greater than 100 beats/minute. Adherence to health care provider instructions on how and when to administer this classification of drug or when to hold the drug should be followed. Adverse effects and therapeutic effects should be assessed. The nurse should provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.
+    </para>
+
+    <note class="client-teaching" id="note-00003">
+      <title>For Nitrates</title>
+      <para id="para-00010">
+        <emphasis effect="bold"><emphasis effect="italics">Sublingual Nitrates</emphasis></emphasis><newline/>
+        <emphasis effect="bold">The client should:</emphasis>
+        <list list-type="bulleted" id="list-00003">
+          <item>Take sublingual nitrates if chest pain occurs. They should take the drug every five minutes times three if chest pain persists. If chest pain continues, the client should call 911.</item>
+          <item>Store sublingual nitrate bottles away from the light in a dry place and in the original amber glass bottle.</item>
+        </list>
+        <emphasis effect="bold"><emphasis effect="italics">Nitrate Patches</emphasis></emphasis><newline/>
+        <emphasis effect="bold">The client should:</emphasis>
+        <list list-type="bulleted" id="list-00004">
+          <item>Apply patches once daily as a maintenance medication.</item>
+          <item>Avoid hairy areas when applying nitrate patches.</item>
+          <item>Remove nitrate patches for 10–12 hours to prevent tolerance.</item>
+          <item>Rotate sites of nitrate patches to prevent skin irritation.</item>
+        </list>
+        <emphasis effect="bold">The client<emphasis effect="italics">should not</emphasis>:</emphasis>
+        <list id="list-00005">
+          <item>Use patches for acute chest pain.</item>
+          <item>Take erectile dysfunction medications with nitrates because this may cause profound hypotension.</item>
+        </list>
+        <emphasis effect="bold"><emphasis effect="italics">Other Concerns</emphasis></emphasis>
+        <list list-type="bulleted" id="list-00008">
+          <item>Headaches may occur with the use of nitrates. Acetaminophen may help in relieving these headaches.</item>
+          <item>If low blood pressure develops, the client should lie on their back with legs elevated and notify their health care provider.</item>
+        </list>
+      </para>
+    </note>
+
+    <note class="clinical-tip" id="note-00004">
+      <title>Monitor for Orthostatic Hypotension</title>
+      <para id="para-00011">
+        When administering nitrates to clients with angina or hypertension, the nurse should monitor the client’s blood pressure for orthostatic hypotension. The client should be instructed to slowly move from a lying to sitting position and then from a sitting to standing position. The client should be monitored closely to prevent falls and injuries.
+      </para>
+    </note>
+
+    <note class="unfolding-casestudy" id="note-00005">
+      <title>Part C</title>
+      <para id="para-00012">
+        Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up from Case Study: Part A and Case Study: Part B. Refer to the Answer Key at the end of the book for feedback.
+      </para>
+      <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+        <row>
+          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para></entry>
+        </row>
+        <row>
+          <entry><emphasis effect="bold">Vital Signs</emphasis>
+          <list list-type="bulleted" bullet-style="none" id="list-00006">
+            <item>Temperature: 98.4° Fahrenheit</item>
+            <item>Blood pressure: 168/96 mm Hg</item>
+            <item>Heart rate: 88 beats/min</item>
+            <item>Respiratory rate: 16 breaths/min</item>
+            <item>Oxygen saturation: 97% on room air</item>
+            <item>Height: 5’3”</item>
+            <item>Weight: 184 pounds</item>
+          </list>
+          </entry>
+          <entry><emphasis effect="bold">Physical Examination</emphasis>
+            <list list-type="bulleted" bullet-style="none" id="list-00007">
+              <item>Head, eyes, ears, nose, throat (HEENT): Within normal limits</item>
+              <item>Cardiovascular: No jugular vein distention; 1+ peripheral edema noted bilaterally; S1, S2 noted</item>
+              <item>Respiratory: Slight crackles noted to bilateral lung bases</item>
+              <item>GI: Abdomen soft, nontender, nondistended</item>
+              <item>GU: Reports normal urine output</item>
+              <item>Neurological: Headache</item>
+              <item>Integumentary: No wounds noted; skin appropriate for age</item>
+            </list>
+          </entry>
+        </row>
+        <row>
+          <entry namest="c1" nameend="c2">
+            <exercise id="exer-00001">
+              <problem id="prob-00001">
+                <para id="para-00035"><link class="os-embed" url="#exercise/Nickname"/></para>
+              </problem>
+             </exercise>
+             <exercise id="exer-00002">
+              <problem id="prob-00002">
+                <para id="para-00036"><link class="os-embed" url="#exercise/Nickname"/></para>
+              </problem>
+             </exercise>
+          </entry>
+        </row>
+      </tbody>
+      </tgroup>
+      </table>
+
+    </note>
+  </section>
+
+
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>nitrates</term>
+      <meaning/>
+    </definition>
+  </glossary>
 </document>
