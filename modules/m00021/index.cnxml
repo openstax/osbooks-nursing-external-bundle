@@ -1,11 +1,111 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Drug Administration and the Nursing Process</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Dosage Calculation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Drug Administration and the Nursing Process</md:title>
+    <md:title>Dosage Calculation</md:title>
     <md:content-id>m00021</md:content-id>
     <md:uuid>0d2a47fe-e5de-4d8a-8e9c-6be87d48fc1c</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">test</para>
+    <section id="sect-00001">
+      <title>Systems of Measurement</title>
+      <section id="sect-00002">
+        <title>Internation Systems of Units</title>
+        <para id="para-00001">The International System of Units (SI) is an international standard of measurement that is also known as the metric system. The SI system is made up of 7 base units that define 22 units with special names and symbols. For the purpose of this section, only the metric system used for dosage calculation will be covered.
+        </para>
+      </section>
+        <section id="sect-00003">
+          <title>Metric System</title>
+          <para id="para-00002">Three types of metric measures are commonly used: length, volume, and weight. This section covers volume and weight.</para>
+          <para id="para-00003">Volume measures a liquid and is commonly used in dosage calculation when measuring liquid drugs, in the reconstitution of drugs, or with intravenous therapy. The metric system defines volume in units of liters.</para>
+          <para id="para-00004">Weight measures mass and is commonly used in dosage calculation when a particular drug is administered based on the patient’s weight. The metric system defines weight in units of grams.</para>
+          <para id="para-00005">It is important to understand the units can be smaller or larger in relation to their metric measure (<link target-id="table_02_01"/>).
+            <list list-type="bulleted" id="list-00001">
+              <item>Kilo is a larger unit of measurement and equals 1000.</item>
+              <item>Milli is a smaller unit of measurement and equals 1/1000.</item>
+              <item>Micro is also a smaller measurement and equals 1/1,000,000.</item>
+            </list>
+          </para>
+
+          <table id="table_02_01" summary="alt text here.">
+            <tgroup cols="2">
+              <thead>
+                <row>
+                  <entry>Metric Measurement</entry>
+                  <entry>Abbreviation</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>Gram</entry>
+                  <entry>g</entry>
+                </row>
+                <row>
+                  <entry>Kilogram</entry>
+                  <entry>kg</entry>
+                </row>
+                <row>
+                  <entry>Milligram</entry>
+                  <entry>mg</entry>
+                </row>
+                <row>
+                  <entry>Microgram</entry>
+                  <entry>mcg</entry>
+                </row>
+                <row>
+                  <entry>Liter</entry>
+                  <entry>L</entry>
+                </row>
+                <row>
+                  <entry>Kiloliter</entry>
+                  <entry>kL</entry>
+                </row>
+                <row>
+                  <entry>Milliliter</entry>
+                  <entry>mL</entry>
+                </row>
+                <row>
+                  <entry>Microliter</entry>
+                  <entry>µL</entry>
+                </row>
+              </tbody>
+            </tgroup>
+            <caption>Common Metric Abbreviations Used in Dosage Calculation
+              Source: https://www.nist.gov/pml/owm/metric-si/si-units</caption>
+          </table>
+        </section>
+
+        <section id="sect-00004">
+          <title>Customary System</title>
+          <para id="para-00006">The customary system is the household system of measurement used in the United States. It is important to understand that this system of measurement may be used by healthcare providers when prescribing medications. This system must be converted to the metric system for dosage calculation (Table 2.2).
+          </para>
+        </section>
+
+        <note class="practice-problems" id="note-00001">
+          <list list-type="enumerated" id="list-00002">
+            <item>
+              <m:math>
+            <m:mrow><m:mn>1000</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mo>=</m:mo><m:mtext>___ kg</m:mtext></m:mrow>
+          </m:math>
+            </item>
+            <item>
+              <m:math>
+                <m:mrow>
+                  <m:mn>1000</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mo>=</m:mo><m:mtext>___ L</m:mtext>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item>
+              <m:math>
+                <m:mrow>
+                  <m:mtext>___</m:mtext><m:mspace width="0.2em"/><m:mtext>g</m:mtext><m:mo>=</m:mo><m:mn>1500</m:mn><m:mspace width="0.2em"/><m:mtext>mg</m:mtext>
+                </m:mrow>
+              </m:math>
+            </item>
+          </list>
+          
+        </note>
+    
+
+  </section>
   </content>
 </document>
