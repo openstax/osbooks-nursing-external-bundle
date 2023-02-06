@@ -9,7 +9,7 @@
     <section id="sect-00001">
       <title>Systems of Measurement</title>
       <section id="sect-00002">
-        <title>Internation Systems of Units</title>
+        <title>International Systems of Units</title>
         <para id="para-00001">The International System of Units (SI) is an international standard of measurement that is also known as the metric system. The SI system is made up of 7 base units that define 22 units with special names and symbols. For the purpose of this section, only the metric system used for dosage calculation will be covered.
         </para>
       </section>
@@ -69,16 +69,94 @@
                 </row>
               </tbody>
             </tgroup>
-            <caption>Common Metric Abbreviations Used in Dosage Calculation
-              Source: https://www.nist.gov/pml/owm/metric-si/si-units</caption>
+            <caption>Common Metric Abbreviations Used in Dosage Calculation<newline/>Source: https://www.nist.gov/pml/owm/metric-si/si-units</caption>
           </table>
         </section>
 
         <section id="sect-00004">
           <title>Customary System</title>
-          <para id="para-00006">The customary system is the household system of measurement used in the United States. It is important to understand that this system of measurement may be used by healthcare providers when prescribing medications. This system must be converted to the metric system for dosage calculation (Table 2.2).
+          <para id="para-00006">The customary system is the household system of measurement used in the United States. It is important to understand that this system of measurement may be used by healthcare providers when prescribing medications. This system must be converted to the metric system for dosage calculation (<link target-id="table_02_02"/>).
           </para>
+          <table id="table_02_02" summary="alt text here.">
+            <tgroup cols="2">
+              <thead>
+                <row>
+                  <entry>Metric</entry>
+                  <entry>Customary</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>Gram</entry>
+                  <entry>g</entry>
+                </row>
+                <row>
+                  <entry>Kilogram</entry>
+                  <entry>kg</entry>
+                </row>
+                <row>
+                  <entry>Milligram</entry>
+                  <entry>mg</entry>
+                </row>
+                <row>
+                  <entry>Microgram</entry>
+                  <entry>mcg</entry>
+                </row>
+                <row>
+                  <entry>Liter</entry>
+                  <entry>L</entry>
+                </row>
+                <row>
+                  <entry>Kiloliter</entry>
+                  <entry>kL</entry>
+                </row>
+                <row>
+                  <entry>Milliliter</entry>
+                  <entry>mL</entry>
+                </row>
+                <row>
+                  <entry>Microliter</entry>
+                  <entry>µL</entry>
+                </row>
+              </tbody>
+            </tgroup>
+            <caption>Equivalent (Conversion) Measurements of Select Metric to Customary System Units<newline/>Source: https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures</caption>
+          </table>
         </section>
+      </section>
+<section id="sect-00005">
+  <title>Conversion Factors</title>
+  <para id="para-00007">Conversion between metric system units routinely occurs when preparing to administer drugs to patients. There are six common units of measurement used for drug administration based on volume (liter and milliliter) and weight (kilogram, gram, milligram, and microgram). Each unit differs from the next by 1000 (<link target-id="table_02_02"/>).
+  </para>
+  <table id="table_02_03" summary="alt text here.">
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Unit</entry>
+          <entry>Conversion</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Gram</entry>
+          <entry>g</entry>
+        </row>
+        <row>
+          <entry>Kilogram</entry>
+          <entry>kg</entry>
+        </row>
+        <row>
+          <entry>Milligram</entry>
+          <entry>mg</entry>
+        </row>
+        <row>
+          <entry>Microgram</entry>
+          <entry>mcg</entry>
+        </row>
+      </tbody>
+    </tgroup>
+    <caption>Metric Units of Measurement and Their Conversion Equivalent<newline/>Source: https://www.metric-conversions.org/</caption>
+  </table>
 
         <note class="practice-problems" id="note-00001">
           <list list-type="enumerated" id="list-00002">
@@ -101,11 +179,407 @@
                 </m:mrow>
               </m:math>
             </item>
+            <item>
+              <m:math>
+                <m:mrow>
+                  <m:mn>1000</m:mn><m:mtext> mcg </m:mtext><m:mo>=</m:mo><m:mtext>___ mg</m:mtext>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item>
+              <m:math>
+                <m:mrow>
+                  <m:mn>1</m:mn><m:mtext> mg </m:mtext><m:mo>=</m:mo><m:mtext>___ mcg</m:mtext>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item>
+              <m:math>
+                <m:mrow>
+                  <m:mtext>___ L</m:mtext><m:mo>=</m:mo><m:mn>2000</m:mn><m:mtext> mL</m:mtext>
+                </m:mrow>
+              </m:math>
+            </item>
           </list>
-          
+          <para id="para-00008">Correct Answers: 1. 1; 2. 1; 3. 1.5; 4. 1; 5. 1000; 6. 2</para>
         </note>
-    
-
   </section>
+  <section id="sect-00006">
+    <title>Drug Labels and Precautions</title>
+    <para id="para-00009">
+      To safely administer drugs to patients, one must understand the drug label and precautions listed (see Figures 2.1 and 2.2). Components of a drug label include: drug generic and brand names, strength of the drug, drug form, route of administration (if indicated), dosage and administration instructions, expiration date, controlled substance notification (if indicated), drug reconstitution (if indicated), and if the drug is a single or multidose vial (if indicated). 
+    </para>
+
+    <figure id="pharma_fig_02_05_001">
+      <media alt="Alt text here.">
+        <image mime-type="png" src="../../media/pharma_fig_02_05_001.png"/>
+      </media>
+      <caption>Lanoxin label depicting areas where drug label components are found.
+        <newline/>Source: https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=lanoxin
+      </caption>
+    </figure>
+
+    <figure id="pharma_fig_02_05_002">
+      <media alt="Alt text here.">
+        <image mime-type="png" src="../../media/pharma_fig_02_05_002.png"/>
+      </media>
+      <caption>Fentanyl label depicting areas where drug label components are found.
+        <newline/>Source: https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=fentanyl
+      </caption>
+    </figure>
+  </section>
+ <section id="sect-00007">
+<title>Drug Calculation Methods and Rounding Rules</title>
+<para id="para-00010">There are three general methods for drug calculation: basic formula method, ratio and proportion, and dimensional analysis. It is recommended that the learner use the method they are comfortable with. Additionally, some drugs require dosing based on weight and/or body surface area. These drugs require additional calculation. </para>
+<section id="sect-00008">
+  <title>Basic Formula Method</title>
+<para id="para-00011">The basic formula method is the simplest of the drug calculation methods.</para>
+
+<equation id="eq-00001">
+  <m:math display="block">
+    <m:mrow>
+      <m:mtable>
+        <m:mtr>
+          <m:mtd columnalign="left"><m:mi>D</m:mi></m:mtd>
+          <m:mtd columnalign="left"><m:mi>D</m:mi><m:mo>=</m:mo><m:mtext>desired dose (dose ordered)</m:mtext></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="left"><m:mtext>___</m:mtext><m:mo>×</m:mo><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:mtd>
+          <m:mtd columnalign="left"><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>the drug on hand (what is available)</m:mtext></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="left"><m:mi>H</m:mi></m:mtd>
+          <m:mtd columnalign="left"><m:mi>V</m:mi><m:mo>=</m:mo><m:mtext>the vehicle or volume of a drug form (tablet, capsule, liquid)</m:mtext></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd/>
+          <m:mtd columnalign="left"><m:mi>A</m:mi><m:mo>=</m:mo><m:mtext>amount calculated to be administered to the patient</m:mtext></m:mtd>
+        </m:mtr>
+      </m:mtable>
+    </m:mrow>
+  </m:math>
+</equation>
+
+<list list-type="enumerated" id="list-00003">
+  <item>Write the desired dose or the dose ordered.</item>
+  <item>Write the drug dose on hand (available).</item>
+  <item>Divide the desired dose by the dose on hand and multiply by the vehicle or volume of the drug form to get the amount calculated to be administered to the patient.</item>
+</list>
+
+<list list-type="bulleted" bullet-style="none" id="list-00004">
+  <title>Example</title>
+  <item>Order: Lisinopril 10 mg po bid</item>
+  <item>Available: Lisinopril 2.5 mg</item>
+  <item>How many tablets should the patient receive per dose?</item>
+</list>
+
+    <figure id="pharma_fig_02_05_003">
+      <media alt="Alt text here.">
+        <image mime-type="png" src="../../media/pharma_fig_02_05_003.png"/>
+      </media>
+      <caption>TBC / credit: TBC (placeholder image)
+        <newline/>
+      </caption>
+    </figure>
+
+  <equation id="eq-00002">
+    <m:math>
+      <m:mtable columnalign="left">
+      <m:mtr>
+      <m:mtd><m:mrow><m:mi>D</m:mi><m:mo>=</m:mo><m:mtext>Desired dose (order)</m:mtext><m:mo>=</m:mo><m:mtext>10 mg po bid</m:mtext></m:mrow></m:mtd>
+    </m:mtr>
+    <m:mtr>
+      <m:mtd><m:mrow><m:mi>H</m:mi><m:mo>=</m:mo><m:mtext>the durg on hand (what is available)</m:mtext><m:mo>=</m:mo><m:mtext>2.5 mg</m:mtext></m:mrow></m:mtd>
+    </m:mtr>
+    <m:mtr>
+      <m:mtd><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mtext>vehicle of a drug form</m:mtext><m:mo>=</m:mo><m:mtext>tablet</m:mtext></m:mrow></m:mtd>
+    </m:mtr>
+    <m:mtr>
+      <m:mtd><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mtext>amount calculated to be administered to the patient</m:mtext></m:mrow></m:mtd>
+    </m:mtr>
+  </m:mtable>
+    </m:math>
+  </equation>
+
+  <equation id="eq-00003">
+    <m:math display="block">
+      <m:mtable>
+        <m:mtr>
+          <m:mtd columnalign="right"><m:mn>10</m:mn><m:mi>m</m:mi><m:mi>g</m:mi></m:mtd>
+          <m:mtd/>
+          <m:mtd/>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="right"><m:mtext>___</m:mtext><m:mo>×</m:mo><m:mn>1</m:mn><m:mtext>tablet</m:mtext></m:mtd>
+          <m:mtd><m:mo>=</m:mo></m:mtd>
+          <m:mtd columnalign="left"><m:mi>A</m:mi><m:mtext>(patient dose)</m:mtext></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="right"><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>g</m:mi></m:mtd>
+          <m:mtd/>
+          <m:mtd/>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="right"><m:mn>10</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>/</m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>g</m:mi></m:mtd>
+          <m:mtd><m:mo>=</m:mo></m:mtd>
+          <m:mtd columnalign="left"><m:mn>4</m:mn></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mtext>tablet</m:mtext></m:mtd>
+          <m:mtd><m:mo>=</m:mo></m:mtd>
+          <m:mtd columnalign="left"><m:mn>4</m:mn><m:mtext>tablets</m:mtext></m:mtd>
+        </m:mtr>
+        <m:mtr>
+          <m:mtd columnalign="right"><m:mi>A</m:mi></m:mtd>
+          <m:mtd><m:mo>=</m:mo></m:mtd>
+          <m:mtd columnalign="left"><m:mn>4</m:mn><m:mtext>tablets</m:mtext></m:mtd>
+        </m:mtr>
+      </m:mtable>
+    </m:math>
+  </equation>
+</section>
+
+  <section id="sect-00009">
+    <title>Ratio and Proportion Method</title>
+    <para id="para-00012">The ratio and proportion method uses a linear equation to solve the dosage calculation problem.</para>
+
+    <equation id="eq-00004">
+      <m:math display="block">
+        <m:mrow>
+          <m:mtable>
+            <m:mtr>
+              <m:mtd columnalign="left"><m:mi>K</m:mi><m:mi>R</m:mi><m:mo>:</m:mo><m:mi>U</m:mi><m:mi>R</m:mi><m:mo>=</m:mo><m:mi>X</m:mi></m:mtd>
+              <m:mtd columnalign="left"><m:mi>K</m:mi><m:mi>R</m:mi><m:mo>=</m:mo><m:mtext>Known ratio (available)</m:mtext></m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd columnalign="left"><m:mi>U</m:mi><m:mi>R</m:mi><m:mo>=</m:mo><m:mtext>Unknown ratio (dose ordered)</m:mtext></m:mtd>
+          </m:mtr>
+          <m:mtr>
+            <m:mtd/>
+              <m:mtd columnalign="left"><m:mi>X</m:mi><m:mo>=</m:mo><m:mtext>Amount to be administered to the patient</m:mtext></m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:mrow>
+      </m:math>
+    </equation>
+    
+    <list list-type="enumerated" id="list-00005">
+      <item>Write the known ratio (dosage strength from drug label and units of measurement).</item>
+      <item>Write the unknown ratio (the ordered dose and the unknown amount to be administered to the patient).</item>
+      <item>Check the units of measurement to make sure they are the same (e.g., mg:mg). Note that if they are not the same, then you must convert them to the same unit of measurement.</item>
+      <item>Solve for <m:math><m:mi>X</m:mi></m:math> (the amount calculated to be administered to the patient) by multiplying the means and the extremes. (Work only with the numbers and not the units of measurement.) Clear the <m:math><m:mi>X</m:mi></m:math> by dividing both sides of the equation by the number in front of the <m:math><m:mi>X</m:mi></m:math> and solve for <m:math><m:mi>X</m:mi></m:math>.
+      </item>
+    </list>
+    
+    <list list-type="bulleted" bullet-style="none" id="list-00006">
+      <title>Example</title>
+      <item>Order: Lisinopril 10 mg po bid</item>
+      <item>Available: Lisinopril 2.5 mg</item>
+      <item>How many tablets should the patient receive per dose?</item>
+    </list>
+    
+        <figure id="pharma_fig_02_05_004">
+          <media alt="Alt text here.">
+            <image mime-type="png" src="../../media/pharma_fig_02_05_004.png"/>
+          </media>
+          <caption>TBC / credit: TBC (placeholder image)
+          </caption>
+        </figure>
+    
+      <equation id="eq-00005">
+        <m:math display="block">
+          <m:mtable>
+            <m:mtr>
+              <m:mtd columnalign="right"><m:mi>K</m:mi><m:mi>R</m:mi><m:mo>:</m:mo><m:mi>U</m:mi><m:mi>R</m:mi></m:mtd>
+              <m:mtd><m:mo>=</m:mo></m:mtd>
+              <m:mtd columnalign="left"><m:mi>X</m:mi></m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right"><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>:</m:mo><m:mn>1</m:mn><m:mtext>tablet</m:mtext><m:mo>:</m:mo><m:mn>10</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>:</m:mo><m:mi>X</m:mi><m:mtext>tablets</m:mtext></m:mrow></m:mtd>
+              <m:mtd/>
+              <m:mtd/>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right"><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:mi>X</m:mi></m:mtd>
+              <m:mtd><m:mo>=</m:mo></m:mtd>
+              <m:mtd columnalign="left"><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>10</m:mn></m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+              <m:mfrac>
+                <m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mi>X</m:mi></m:mrow>
+                <m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn></m:mrow>
+              </m:mfrac>  
+            </m:mtd>
+              <m:mtd><m:mo>=</m:mo></m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                <m:mrow><m:mn>10</m:mn></m:mrow>
+                <m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn></m:mrow>
+              </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right"><m:mi>X</m:mi></m:mtd>
+              <m:mtd><m:mo>=</m:mo></m:mtd>
+              <m:mtd columnalign="left"><m:mn>4</m:mn><m:mtext>tablets</m:mtext></m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+</section>
+      <section id="sect-00010">
+        <title>Dimensional Analysis Method</title>
+        <para id="para-00013">Dimensional analysis uses a series of equivalent measurements to change one unit of measurement to another to solve a problem. This method uses equivalent measurements that are set up as a series of fractions, called conversion factors that are used to cancel unnecessary units of measurements, leaving only the desired answer.</para>
+        <para id="para-00014"/>
+      </section>
+      
+      <section id="sect-00011">
+        <title>Body Weight Method</title>
+        <para id="para-00015">The body weight method allows dosage calculation for individualization. This method is commonly seen with medications that have a narrow therapeutic index, drugs that are being adjusted due to the individual’s ability to metabolize the drug, and also with pediatric patients.
+        </para>
+
+        <table id="table_02_04" summary="Alt text here.">
+          <tgroup cols="3">
+            <thead>
+              <row>
+                <entry>Formula Method</entry>
+                <entry>Ratio Proportion</entry>
+                <entry>Dimensional Analysis</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:mfrac>
+                      <m:mrow><m:mtext>D (desired dose)</m:mtext></m:mrow>
+                      <m:mrow><m:mtext>H (dose available)</m:mtext></m:mrow>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mtext>Volume</m:mtext><m:mo>=</m:mo><m:mi>A</m:mi>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math>
+                    <m:mi>K</m:mi><m:mi>R</m:mi><m:mtext> (known ratio)</m:mtext><m:mo>:</m:mo>
+                    <m:mi>U</m:mi><m:mi>R</m:mi><m:mtext> (unknown ratio)</m:mtext>
+                    <m:mo>=</m:mo>
+                    <m:mi>X</m:mi><m:mtext> (amount calculated to be administered)</m:mtext>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math>
+                    <m:mi>O</m:mi><m:mi>A</m:mi><m:mo>×</m:mo><m:mi>D</m:mi><m:mi>S</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mi>D</m:mi><m:mi>A</m:mi><m:mtext> (desired amount calculated to be administered to patient)</m:mtext>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math>
+                    <m:mtable frame="none">
+                      <m:mtr>
+                        <m:mtd><m:mi>A</m:mi><m:mo>=</m:mo><m:mtext>Amount calculated to be administered to the patient</m:mtext></m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mfrac>
+                          <m:mrow><m:mn>500</m:mn></m:mrow>
+                          <m:mrow><m:mn>125</m:mn><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow>  
+                        </m:mfrac>
+                        <m:mo>×</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>L</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>L</m:mi>
+                      </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math>
+                    <m:mtable frame="none">
+                      <m:mtr>
+                        <m:mtd><m:mn>125</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>:</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>L</m:mi><m:mo>:</m:mo><m:mi>X</m:mi><m:mi>m</m:mi><m:mi>L</m:mi></m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mn>125</m:mn><m:mo>×</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>500</m:mn><m:mo>×</m:mo><m:mi>X</m:mi>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mfrac>
+                            <m:mrow><m:mn>125</m:mn></m:mrow>
+                          <m:mrow><m:mn>5</m:mn></m:mrow> 
+                          </m:mfrac>
+                          <m:mo>=</m:mo>
+                          <m:mfrac>
+                            <m:mrow><m:mn>500</m:mn></m:mrow>
+                            <m:mrow><m:mi>X</m:mi></m:mrow> 
+                          </m:mfrac>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mn>125</m:mn><m:mi>X</m:mi><m:mo>=</m:mo><m:mn>2500</m:mn>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mi>X</m:mi><m:mo>=</m:mo><m:mn>20</m:mn><m:mi>m</m:mi><m:mi>L</m:mi>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math>
+                    <m:mtable frame="none">
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mfrac>
+                            <m:mrow><m:mn>500</m:mn><m:menclose notation="updiagonalstrike"><m:mi>m</m:mi></m:menclose><m:mi>g</m:mi></m:mrow>
+                            <m:mrow><m:mi>X</m:mi></m:mrow>
+                          </m:mfrac>
+                          <m:mo>×</m:mo>
+                          <m:mfrac>
+                            <m:mrow><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>L</m:mi></m:mrow>
+                            <m:mrow><m:mn>125</m:mn><m:menclose notation="updiagonalstrike"><m:mi>m</m:mi><m:mi>g</m:mi></m:menclose></m:mrow>
+                          </m:mfrac>
+                          <m:mo>=</m:mo>
+                          <m:mi>D</m:mi><m:mi>A</m:mi>
+                        </m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd><m:mn>125</m:mn><m:mi>X</m:mi><m:mo>=</m:mo><m:mn>2500</m:mn></m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+                        <m:mtd><m:mi>X</m:mi><m:mo>=</m:mo><m:mn>20</m:mn><m:mi>m</m:mi><m:mi>L</m:mi></m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:math>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+
+        </table>
+
+      </section>
+
+      <section id="sect-00012">
+        <title>Body Surface Area (BSA) Method</title>
+        <para id="para-00016">The body surface area (BSA) method allows dosage calculation for individualization. This method is commonly seen with medications that have a narrow therapeutic index, that are being adjusted due to the individual’s ability to metabolize the drug, chemotherapeutic agents, and/or that are used with pediatric and burn patients. BSA is calculated using the square root calculation as determined by the patient’s height and weight.
+        </para>
+      </section>
+  </section>
+  <section id="sect-00013">
+    <title>Rounding Rules</title>
+    <para id="para-00017">Nurses must know when and how to round. Caplets and tablets can be rounded to the nearest half tablet if they are scored. Some are scored in fourths and can be rounded accordingly. Caplets and tablets that are controlled release, extended release, sustained release, or are enteric coated should not be split or crushed. Capsules are rounded to the nearest whole number because these cannot be divided. Liquid drugs are rounded to the nearest tenth. If you are calculating a liquid medication for drops, then it is to be rounded to the nearest whole number because you cannot administer a partial drop.
+    </para>
+<para id="para-00018">Next, rounding is determined by how many places from the decimal point are appropriate. If a number to the right of the decimal point needs to be rounded and it is 4 or less, then it is rounded down. For example, if the number is 1.231 and you are rounding to the nearest tenth, the number would be rounded 1.2. If a number to the right of the decimal point is 5 or greater, then it should be rounded up. For example, if the number is 1.251 and you are rounding to the nearest tenth, the number would be rounded to 1.3.
+</para>
+</section>
   </content>
 </document>
