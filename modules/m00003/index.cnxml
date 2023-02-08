@@ -34,9 +34,9 @@
       <tgroup cols="3">
         <thead class="blue-text">
           <row>
-            <entry>Drug</entry>
-            <entry>Routes and Dosage Ranges: Adults</entry>
-            <entry>Routes and Dosage Ranges: Children</entry>
+            <entry><span class="blue-text">Drug</span></entry>
+            <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+            <entry><span class="blue-text">Routes and Dosage Ranges: Children</span></entry>
           </row>
         </thead>
         <tbody>
