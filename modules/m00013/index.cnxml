@@ -1,10 +1,193 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>The Nurse’s Role in the Promotion of Gut Health</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The Nurse’s Role in the Promotion of Gut Health</md:title>
     <md:content-id>m00013</md:content-id>
+    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+    <item>LO 4.4.1 Describe the homeostasis of gut health.</item>
+    <item>LO 4.4.2 Describe the impact of diet on gut health.</item>
+    <item>LO 4.4.3 Identify the impact of pharmacology on gut health.</item>
+    <item>LO 4.4.4 Identify pathophysiology and gut health.</item>
+    <item>LO 4.4.5 Assess the impact of aging on gut health.</item>
+  </list>
+  </md:abstract>
     <md:uuid>bb50c886-1c32-4b53-9657-51443ec8e7fa</md:uuid>
   </metadata>
-  <content><para id="para-00001">test</para>
+  <content><para id="para-00001">To maintain healthy digestion and absorption of food and in turn nutritional health, the gut must maintain a healthy homeostasis, or equilibrium maintained by the physiological processes and evidenced by stable growth of intestinal microbiota. The nurse plays an important role in the education and care of their clients to ensure they are at their optimal nutritional health.</para>
+    <section id="sect-00001">
+      <title>Gut Health Homeostasis</title>
+      <para id="para-00003">The homeostasis of the gut is strongly impacted by the composition of the gut’s microbiota or normal microbial growth, and diet can impact the health of this microbiota (Lee et al., 2022). When the gut is not in a state of homeostasis, the imbalance that results and causes disease is known as 
+      <term id="term-00001">dysbiosis</term>. Many diseases have been linked to dysbiosis, including anxiety, depression, hypertension, cardiovascular disease, cancer, inflammatory bowel disease, obesity, and diabetes, so the impact of not maintaining gut homeostasis far surpasses only gastrointestinal health (Afzaal et al., 2022). </para>
+      <para id="para-00004">To maintain proper gut homeostasis, the bacterial growth requires energy in the form of adenosine triphosphate and oxygen (Lee et al., 2022). Dietary factors, antibiotics, and underlying host conditions can reduce oxygen consumption in the colonic epithelium, thereby reducing the available oxygen to the indigenous microbes. </para>
+      <para id="para-00005">The microbiota of the gut has many functions in the body. These bacterial residents help control nutrient metabolism; defend against pathogens; contribute to carbohydrate digestion; synthesize methane from H2 processed by bacterial metabolism; synthesize biotin, folate and Vitamin K; and neutralize carcinogens (Afzaal et al., 2022).</para>
+    </section>
+    <section id="sect-00002">
+      <title>Diet and Gut Health</title>
+      <para id="para-00006">To maintain appropriate gut homeostasis, the client must maintain an appropriate diet that will feed the microbiota of their gut appropriately. Diet can negatively impact the microbiota of the gut, causing dysbiosis and resultant disease. High-fat diets have been shown to have a significantly negative impact on the health of the gut and contribute to diabetes, obesity, metabolic syndrome, and colon cancer (Afzaal et al., 2022). High sodium intake and alcohol use have both been attributed to dysbiosis and linked to hypertension. Dietary items that have been shown to be helpful to the microbiota of the gut include a high fiber diet with adequate water intake, lots of fruits and vegetables, whole grains, and an overall well-balanced diet. Another beneficial food is yogurt that contains active yeast and bacterial cultures as these have been shown to be supportive of the gut microbiome environment (Lee et al., 2022; Weersma et al, 2020). </para>
+      <para id="para-00007">The nurse should educate the client on ways to promote a healthy diet to ensure a balanced gut microbiota and homeostasis. Ways the nurse can educate the client to do achieve this include ensuring a high fiber intake with adequate water intake, lots of fruits and vegetables in the diet, lots of whole grains, restricting saturated fats, restricting alcohol, restricting sodium, and adding probiotic foods such as yogurts with active yeast and bacterial cultures. </para>
+      <para id="para-00008">Foods that can be included to increase fiber intake include foods such as fresh fruits and vegetables, lentils, kidney beans, split peas, chickpeas, quinoa, oats, popcorn, almonds, chai seeds, sweet potatoes, and dark chocolate. Foods that are high in fiber will help maintain the gut homeostasis, reduce cholesterol, promote healthy weight through satiety, reduce constipation by adding bulk to stool, and even reduce gastrointestinal cancer risks due to the antioxidant properties (Gunnars, 2020). Increasing fiber requires increasing water in the diet to ensure there is sufficient water in the stool to account for the added bulk in the stool.</para>
+      <para id="para-00009">Foods to restrict that are high in saturated fat include foods such as fatty cuts of meat, pies, sausage, butter, lard, cheddar cheese, ice cream, sour cream, biscuits, cakes, pastries, milk chocolate confectionaries, palm oil, coconut oil, and coconut cream (NHS, 2023). Saturated fats will not only cause imbalance in gut homeostasis, but they can raise bad cholesterol levels, increase colon cancer risks, promote arteriosclerosis, hypertension, and heart disease risks.</para>
+      <para id="para-00010">Foods to restrict that are high in sodium include foods such as breads and rolls, pizza, sandwiches, cold cuts and cured meats, soups, burritos and tacos, savory snacks like chips, popcorn, pretzels, snack mixes, and crackers, chicken, cheese, eggs and omelets (Centers for Disease Control and Prevention, 2021). High amounts of sodium can upset the homeostasis of the gut by increasing dehydration risks and aid in hypertension risks.</para>
+      <para id="para-00011">Not only should the nurse educate the client on probiotics and a healthy diet to promote gut homeostasis and a healthy microbiome, they should also educate them on a class of foods known as prebiotics, those that feed the bacteria that are in the gut to promote their health (The President and Fellows of Harvard College, 2023). Foods that are in this class of foods includes things like garlic, onions, leeks, dandelion greens, seaweed, Jerusalem artichokes, asparagus, and bananas.</para>
+      <para id="para-00012">Basic formulas are needed to teach students how to calculate body mass index, carbohydrate needs, and so on. Here is an example of a simple formula:
+        <m:math><m:mrow><m:mtext>BMI</m:mtext><m:mo>=</m:mo><m:mtext>Weight (kg)</m:mtext><m:mo>/</m:mo><m:mtext>Height</m:mtext> <m:mo>(</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow></m:math>
+      </para>
+      <para id="para-00013">There will also be instances of formulas that show up as steps, like this to calculate intake of a specific nutrient:
+        <list list-type="enumerated" id="list-00002">
+          <item>
+            <para id="para-00014">Divide body weight in pounds by 2.2 to determine weight in kilograms.</para>
+            <m:math><m:mrow><m:mtext>Weight in lbs. </m:mtext><m:mo>÷</m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mtext> Weight in kg</m:mtext></m:mrow></m:math>
+          </item>
+          <item>
+            <para id="para-00015">Multiply weight in kilograms by 0.8g/kg to determine protein recommended daily allowance.</para>
+            <m:math><m:mrow><m:mtext>Weight in kg </m:mtext><m:mo>x</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>8</m:mn><m:mtext>g/kg</m:mtext><m:mo>=</m:mo><m:mtext>Grams of protein</m:mtext></m:mrow></m:math>
+          </item>
+        </list>
+      </para>
+    </section>
+    <section id="sect-00003">
+      <title>Pharmacology and Gut Health</title>
+      <para id="para-00016">Pharmacology and nutrition interact together as they both rely on the same processes to be available for use in the human body. When certain nutrients are lacking, nutrition is altered as well as the ability of certain drugs to be available for use in the body (Youdim, 2021). By the same token, the ability of the body to properly dispose of toxins from drugs and digestion wastes, are related and depend heavily on the overall health and nutritional state of the body. The nutritional state of a client greatly impacts the ability of their medications to be properly metabolized, effectively used, and rightly excreted. Nutritional status is extremely important to ensure medications for gut health can correctly function to support overall health.</para>
+      <para id="para-00017">There are medications that can help and hurt the microbiota of the gut and alter its homeostasis. A healthy microbiome also helps in digestion and absorption of medications, making a healthy gut important with regards to the best outcomes from treatments. Antibiotics have been a well-known culprit of altering the normal microbial growth in the gut. Long-term antibiotic use has been linked to Clostridium difficile infection and colon cancer. When a client is to be put on antibiotics for longer than three days, it is common practice that they also be given a probiotic to counteract some of the side effects the antibiotics will have on the gut microbiome in order to prevent infection.</para>
+      <para id="para-00018">Probiotics and Lactobacillus are two other well-known supplements that have an impact on the microbiome of the gut. The impact it creates is a positive and supportive one. It is encouraged that a client takes these when they have dietary practices or medications that will affect their gut homeostasis in a negative way. These need to be used in combination with a healthy supportive diet as they do not prevent all issues on their own; they simply add support to already healthy practices.</para>
+      <para id="para-00019">There are other medications that many people take that are not so well-known that impact the gut, yet they impact the gut in a negative way. Proton pump inhibitors for the treatment of gastroesophageal reflux disease, for example, decrease colonization of the microbiome and can lead to enteric infections like Clostridium difficile (Weersma et al., 2020). Metformin, used in the treatment of diabetes mellitus, increased the number of Escherichia coli in the intestines and lowered other bacterium, causing imbalances in the microbiome. Other medications that have been shown to disrupt the composition of microbe in the gut include statins for the treatment of hyperlipidemia, antidepressants, opioids for treatment of pain, and laxatives.</para>
+    </section>
+
+    <section class="chapter-summary" id="sect-00004">
+      <list list-type="bulleted" id="list-00003">
+        <item>Digestion is a mechanical and chemical process that is completed in the body in the gastrointestinal system with aid from accessory systems.</item>
+        <item>The gastrointestinal system contains the upper gastrointestinal system: mouth, teeth, tongue, salivary glands, pharynx, esophagus, stomach, and duodenum; the lower gastrointestinal system: small intestines, large intestines, rectum, anal canal, and anus; the accessory digestive organs: liver, gallbladder, and pancreas; and the accessory systems: nervous and sensory systems.</item>
+        <item>While physical assessment of the client is required, the nurse should also obtain a history of the client’s dietary practices, typical eating and bowel patterns, dietary intolerances or allergies, changes in normal eating and bowel patterns, recent unintentional weight loss or gain, and any medical diagnoses or surgical history.</item>
+        <item>Each portion of the gastrointestinal system has expected findings and specific ways to assess them appropriately that must be adhered to in order to gather information appropriately. The abdomen in particular—the order is specific in assessment that the nurse should inspect, auscultate, percuss, and then palpate.</item>
+        <item>Digestive organs ingest, digest, and absorb the food that is taken into the body to make it usable energy. As food moves through each portion of the system, it is broken down further, and more nutrients are extracted for use. The body removes all usable nutrients and water from food intake and then eliminates the rest as a waste product, stool.</item>
+        <item>The nurse’s role is to educate the client on the proper dietary practices that will help maintain gut homeostasis and to evaluate things the client can do to prevent gut issues when they must take medications that can upset that homeostasis.</item>
+        <item>There are many diseases that can be caused by an unbalanced gut homeostasis, so it is important for the overall health of the client that the nurse remains vigilant in regards to their gut homeostasis.</item>
+      </list>
+    </section>
+    <section class="review-questions" id="sect-00005">
+      <title>Review Questions</title>
+      
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00020"><link class="os-embed" url="#exercise/nutrition_04_001"/></para>
+        </problem>
+      </exercise>
+      
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00021"><link class="os-embed" url="#exercise/nutrition_04_002"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00022"><link class="os-embed" url="#exercise/nutrition_04_003"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00023"><link class="os-embed" url="#exercise/nutrition_04_004"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00024"><link class="os-embed" url="#exercise/nutrition_04_005"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00025"><link class="os-embed" url="#exercise/nutrition_04_006"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00026"><link class="os-embed" url="#exercise/nutrition_04_007"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00027"><link class="os-embed" url="#exercise/nutrition_04_008"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00028"><link class="os-embed" url="#exercise/nutrition_04_009"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00029"><link class="os-embed" url="#exercise/nutrition_04_010"/></para>
+        </problem>
+      </exercise>
+      
+    </section>
+    <section class="suggested-readings" id="sect-00006">
+      <title>Suggested Readings</title>
+      <para id="para-00030"><emphasis effect="bold">Achalasia</emphasis><newline/>
+        Blonski, W., Slone, S., &amp; Richter, J. (2022). Update on the Diagnosis and Treatment of Achalasia.<emphasis effect="italics">Dysphagia</emphasis>. Online ahead of print, https://pubmed.ncbi.nlm.nih.gov/35585208/. DOI: 10.1007/s00455-02210435-3
+      </para>
+      <para id="para-00031"><emphasis effect="bold">Barrett Esophagus</emphasis><newline/>
+        Bryce, C., Bucaj, M., &amp; Gazda, R. (2022). Barrett Esophagus: Rapid Evidence Review.<emphasis effect="italics">American Family Physician</emphasis>, 106(4), 383-387. https://www.aafp.org/pubs/afp/issues/2022/1000/barrett-esophagus.html
+      </para>
+      <para id="para-00032"><emphasis effect="bold">Older Adults and Abdominal Pain</emphasis><newline/>
+        Friedman, A., Chen, A., Wu, R., Coe, N., Halpern, S., Hwang, U., Kelz, R., &amp; Cappola, A. (2022). Evaluation and Disposition of Older Adults Presenting to the Emergency Department with Abdominal Pain. <emphasis effect="italics">Journal of the American Geriatrics Society</emphasis>, 70(2), 501-511. DOI: 10.1111/jgs.17503.
+      </para>
+      <para id="para-00033"><emphasis effect="bold">Gastroesophageal Reflux Disease</emphasis><newline/>
+        Katz, P., Dunbar, K., Schnoll-Sussman, F., Greer, K., Yadlapati, R., &amp; Spechler, S. (2022). ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. <emphasis effect="italics">The American Journal of Gastroenterology</emphasis>, 117(1), 27-56. DOI: 10.14309/ajg.0000000000001538
+      </para>
+      <para id="para-00034"><emphasis effect="bold">Abdominal Pain Disorders</emphasis><newline/>
+        Thapar, N., Benninga, M., Crowell, M., Lorenzo, C., Mack, I., Nurko, S., Saps, M., Shulman, R., Szajewska, H., van Tilberg, M., &amp; Enck, P. (2020). Paediatric functional abdominal pain disorders. <emphasis effect="italics">Nature Reviews Disease Primers</emphasis> 6(89). DOI: https://doi.org/10.1038/s41572-020-00222-5.
+      </para>
+      <para id="para-00035"><emphasis effect="bold">Abdominal Pain and Imaging</emphasis><newline/>
+        Wolfe, C., Halsey-Nichols, M., Ritter, K., &amp; McCoin, N. (2022). Abdominal Pain in the Emergency Department: How to Select the Correct Imaging for Diagnosis. <emphasis effect="italics">Dove Medical Press</emphasis>, 2022(14), 335-345. DOI: https://doi.org/10.2147/OAEM.S342724.
+      </para>
+    </section>
+
+    <section class="references" id="sect-00007">
+      <title>References</title>
+      <para id="para-00036">Afzaal, M., Saeed, F., Shah, Y., Hussain., M., Rabail, R., Socol, C., Hassoun, A., Pateiro, M., Lorenzo, J., Rusu, A., &amp; Aadil, R. (2022). Human Gut Microbiota in Health and Disease: Unveiling the Relationship. <emphasis effect="italics">Frontiers in Microbiology</emphasis>. https://doi.org/10.3389/fmicb.2022.999001
+      </para>
+      <para id="para-00037">American Dental Association. (2022). <emphasis effect="italics">Nutrition and Oral Health</emphasis>. https://www.ada.org/resources/research/science-and-research-institute/oral-health-topics/nutrition-and-oral-health</para>
+      <para id="para-00038">Bartel, M. (2022). <emphasis effect="italics">Effects of Ageing on the Digestive System</emphasis>. https://www.merckmanuals.com/home/digestive-disorders/biology-of-the-digestive-system/effects-of-aging-on-the-digestive-system</para>
+      <para id="para-00039">Benakis, C. &amp; Liesz, A. (2022). The Gut-Brain Axis in Ischemic Stroke: Its Relevance in Pathology and as a Therapeutic Target. <emphasis effect="italics">Neurological Research and Practice</emphasis>, 4(57). DOI: https://doi.org/10.1186/s42466-022-00222-8. https://neurolrespract.biomedcentral.com/articles/10.1186/s42466-022-00222-8#citeas</para>
+      <para id="para-00040">Boston Children’s Hospital. (2022a). <emphasis effect="italics">Anorectal Malformation</emphasis>. https://www.childrenshospital.org/conditions/anorectal-malformation</para>
+      <para id="para-00041">Centers for Disease Control and Prevention. (2021). <emphasis effect="italics">Top 10 Sources of Sodium</emphasis>. https://www.cdc.gov/salt/sources.htm</para>
+      <para id="para-00042">Chen, R., Yu, Y., Li, W., Liu, Y., Chen, F., Zhou, Q., Xia, Z., &amp; Ma, D. (2020). Gastrointestinal Symptoms Associated with Unfavorable Prognosis of COVID-19 Patients: A Retrospective Study. <emphasis effect="italics">Frontiers in Medicine</emphasis>. DOI: https://doi.org/10.3389/fmed.2020.608259. https://www.frontiersin.org/articles/10.3389/fmed.2020.608259/full</para>
+      <para id="para-00043">Chen, S., Wang, Y., Liu, Y., Li, F., Chen, Y., Fang, X., Wen, T., Xu, S., Kermany, D., Deng, S., Li, G., Zhang, K., &amp; Zhang, X. (2022). <emphasis effect="italics">Dysbiosis of Gut Microbiome Contributes to Glaucoma Pathogenesis</emphasis>. Wiley Online Library. DOI: https://doi.org/10.1002/mef2.28. https://onlinelibrary.wiley.com/doi/full/10.1002/mef2.28</para>
+      <para id="para-00044">Chongtham, A., Yoo, J., Chin, T., Akingbesote, N., Huda, A., &amp; Khoshnan, A. (2022). Gut Bacteria Regulate the Pathogenesis of Huntington’s Disease in Drosophila Model. <emphasis effect="italics">Frontiers in Neuroscience</emphasis>. DOI: https://doi.org/10.1101/2021.08.12.456124. https://www.biorxiv.org/content/10.1101/2021.08.12.456124v2</para>
+      <para id="para-00045">Cleveland Clinic. (2022a). <emphasis effect="italics">Digestive System</emphasis>. https://my.clevelandclinic.org/health/body/7041-digestive-system</para>
+      <para id="para-00046">Cleveland Clinic. (2022b). <emphasis effect="italics">Gastrointestinal Diseases</emphasis>. https://my.clevelandclinic.org/health/articles/7040-gastrointestinal-diseases</para>
+      <para id="para-00047">Cleveland Clinic. (2022c). <emphasis effect="italics">Gastrointestinal Manifestations of COVID-19</emphasis>. https://consultqd.clevelandclinic.org/gastrointestinal-manifestations-of-covid-19/</para>
+      <para id="para-00048">Cochran, M. (2022a). Hypertrophic Pyloric Stenosis. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/hypertrophic-pyloric-stenosis</para>
+      <para id="para-00049">Cochran, M. (2022b). Intussusception. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception</para>
+      <para id="para-00050">Cochran, W. (2022c). Meconium Ileus. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-ileus</para>
+      <para id="para-00051">Cochran, W. (2022d). Meconium Plug Syndrome (Small Left Colon Syndrome). <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-plug-syndrome</para>
+      <para id="para-00052">Cochran, W. (2022e). Necrotizing Enterocolitis. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis</para>
+      <para id="para-00053">Klein, H. (2022). <emphasis effect="italics">Study Identifies Gut Microbiota Linked to HE Pathophysiology</emphasis>. https://www.ajmc.com/view/study-identifies-gut-microbiota-linked-to-he-pathophysiology</para>
+      <para id="para-00054">Lee, J., Tsolis, R., &amp; Baumler, A. (2022). The Microbiome and Gut Homeostasis. <emphasis effect="italics">Science</emphasis>, 377(6601), eabp9960. https://www.science.org/doi/10.1126/science.abp9960</para>
+      <para id="para-00055">Ludwig, K., Bartolo, D., Salerno, A., Ingravello, G., Cazzato, G., Giacometti, C., &amp; Dall’lgna, P. (2022) Congenital Anomalies of the Tubular Gastrointestinal Tract. <emphasis effect="italics">Pathologica</emphasis>, 114(1), 40-54. DOI: 10.32074/1591-951X-553</para>
+      <para id="para-00056">Mayo Clinic. (2022a). <emphasis effect="italics">Epiglottitis</emphasis>. https://www.mayoclinic.org/diseases-conditions/epiglottitis/symptoms-causes/syc-20372227</para>
+      <para id="para-00057">Mayo Clinic. (2022b). <emphasis effect="italics">Hirschsprung’s Disease</emphasis>. https://www.mayoclinic.org/diseases-conditions/hirschsprungs-disease/symptoms-causes/syc-20351556#:~:text=Typically%2C%20the%20most%20obvious%20sign,a%20green%20or%20brown%20substance</para>
+      <para id="para-00058">Mayo Clinic. (2022c). <emphasis effect="italics">Pyloric Stenosis</emphasis>. https://www.mayoclinic.org/diseases-conditions/pyloric-stenosis/symptoms-causes/syc-20351416</para>
+      <para id="para-00059">Mealie, C., Ali, R., &amp; Manthey, D. (2022). Abdominal Exam. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK459220/</para>
+      <para id="para-00060">Ye, Q., Wang, B., Zhang, T., Xu, J., &amp; Shang, S. (2020). The mechanism and treatment of gastrointestinal symptoms in patients with COVID-19. 
+      <emphasis effect="italics">American Journal of Physiology-Gastrointestinal and Liver Physiology</emphasis>, 319(2). DOI: https://doi.org/10.1152/ajpgi.00148.2020. https://journals.physiology.org/doi/full/10.1152/ajpgi.00148.2020</para>
+      <para id="para-00061">Youdim, A. (2021). Nutrient-Drug Interactions. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/nutritional-disorders/nutrition-general-considerations/nutrient-drug-interactions</para>
+    </section>
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>dysbiosis</term>
+      <meaning/>
+    </definition>
+  </glossary>
 </document>
