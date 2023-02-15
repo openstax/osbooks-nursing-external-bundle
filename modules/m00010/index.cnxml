@@ -97,7 +97,7 @@
 <section id="sect-00006">
   <title>Malrotation and Volvulus</title>
   <para id="para-00016">Malrotation most often occurs in the small intestines as the digestive tract rotates into its final position as it develops. Volvulus is a severe complication of a malrotation in which the improper rotation blocks blood flow to the digestive tract, causing ischemia (Columbia University Irving Medical Center, n.d.). While malrotation can be the cause of a volvulus, a volvulus can also occur with the absence of malrotation (<link target-id="table_04_04"/>). There will be fractions in text, such as 2½ cups or even ¾ cup of this food provides 40% of the recommended daily allowance.</para>
-  <table id="table_04_04" class="vertically-tight">
+  <table id="table_04_04a" class="vertically-tight">
     <tgroup cols="3">
       <thead>
         <row>
@@ -180,6 +180,79 @@
       </tbody>
     </tgroup>
   </table>
+  <table id="table_04_04" class="vertically-tight">
+    <tgroup cols="3">
+      <thead>
+        <row>
+          <entry>Protein Options</entry>
+          <entry>Serving Size</entry>
+          <entry>Protein Yield</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Lentils<footnote id="foot-00004">Some tables may need their own footnotes.</footnote></entry>
+          <entry>1/2 cup, cooked</entry>
+          <entry>12 grams</entry>
+        </row>
+        <row>
+          <entry>Beans (kidney, pinto, black, garbanzo</entry>
+          <entry>5 1/2 cups, cooked</entry>
+          <entry>39 grams</entry>
+        </row>
+        <row>
+          <entry>Green peas</entry>
+          <entry>10 1/2 cupbs</entry>
+          <entry>4 grams</entry>
+        </row>
+        <row>
+          <entry>Hearty oatmeal with berries and half and half walnuts and cocoa nibs</entry>
+          <entry>fifty million cups line up in a line so that it wraps around the world</entry>
+          <entry>29187340192874019827409182740918274098172409187234098 grams</entry>
+        </row>
+        <row>
+          <entry>Quinoa</entry>
+          <entry>1 cup, cooked</entry>
+          <entry>4.4 grams</entry>
+        </row>
+        <row>
+          <entry>Sprouted grain breads</entry>
+          <entry>1 slice</entry>
+          <entry>4 grams</entry>
+        </row>
+        <row>
+          <entry>Soy milk</entry>
+          <entry>1 cup</entry>
+          <entry>8 grams</entry>
+        </row>
+        <row>
+          <entry>Oats/Oatmeal (steel cut)</entry>
+          <entry>1/4 cup</entry>
+          <entry>7 grams</entry>
+        </row>
+        <row>
+          <entry>Wild rice</entry>
+          <entry>1 cup, cooked</entry>
+          <entry>14.1 grams</entry>
+        </row>
+        <row>
+          <entry>Sweet potatoes</entry>
+          <entry>4–5 ounces</entry>
+          <entry>2 grams</entry>
+        </row>
+        <row>
+          <entry>Testing Spinch</entry>
+          <entry>ten thousand pounds of spinch at a buffet line this is to test a very long line of words in a cell</entry>
+          <entry>10,000,000 pieces of spinach equals a thousand protein for big muscles</entry>
+        </row>
+        <row>
+          <entry>Brussel sprouts</entry>
+          <entry>1 cup, cooked<footnote id="foot-00003">Some tables might have two or three that could include a longer line that wraps possibly.</footnote></entry>
+          <entry>4 grams</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
 
   <para id="para-00017">
     Malrotations alone are usually asymptomatic. It is not until volvulus develops that a client experiences any symptoms (John Hopkins Medicine, 2022). Symptoms of a volvulus can include sudden and often severe development of nausea and vomiting, dark red or bloody stools, severe constipation or difficulty expelling stools, abdominal distention, bilious vomiting (vomiting that contains bile), and shock.
@@ -223,7 +296,7 @@
 </section>
 <section id="sect-00008">
   <title>Other Malformations</title>
-  <para id="para-00024">Abdominal wall defects are another type of congenital anomaly in which the digestive organs (usually stomach or intestines) protrude through the abdominal wall (Riley Children’s Health, 2022). There are two main types of abdominal wall defects: the omphalocele, which is when these organs protrude from the abdominal wall near the umbilicus into a thin protective membranous sac, and the gastroschisis, which is caused when the abdominal wall does not close completely during development and the intestines protrude unprotected outside of the abdomen through an opening near the umbilicus. The omphalocele is often accompanied by genetic syndromes, while there is not generally any genetic syndromes associated with a gastroschisis. Some genetic syndromes associated with the omphalocele include Beckwith-Wiedemann syndrome, Donnai-Barrow syndrome, Shprintzen-Goldberg omphalocele syndrome, Melnick-Needles syndrome, Carpenter syndrome, Pentalogy of Cantrell, OEIS complex, and Trisomy 13, 18, and 21 (UpToDate, 2022). Symptoms for these anomalies include abdominal organs visibly protruding through the skin of the abdomen with or without thin membranous covering, bulging or bubbled appearance around the umbilical cord, and digestive problems due to poor circulation and irritation of the digestive organs (Riley Children’s Health, 2022). Often, this congenital anomaly can be seen on ultrasound before birth (<link target-id="nutrition_fig_04_01_004"/>).<footnote id="foot-00003">It would be the rare occasion that a footnote related to body text might be needed, but we want to account for them just in case.</footnote>
+  <para id="para-00024">Abdominal wall defects are another type of congenital anomaly in which the digestive organs (usually stomach or intestines) protrude through the abdominal wall (Riley Children’s Health, 2022). There are two main types of abdominal wall defects: the omphalocele, which is when these organs protrude from the abdominal wall near the umbilicus into a thin protective membranous sac, and the gastroschisis, which is caused when the abdominal wall does not close completely during development and the intestines protrude unprotected outside of the abdomen through an opening near the umbilicus. The omphalocele is often accompanied by genetic syndromes, while there is not generally any genetic syndromes associated with a gastroschisis. Some genetic syndromes associated with the omphalocele include Beckwith-Wiedemann syndrome, Donnai-Barrow syndrome, Shprintzen-Goldberg omphalocele syndrome, Melnick-Needles syndrome, Carpenter syndrome, Pentalogy of Cantrell, OEIS complex, and Trisomy 13, 18, and 21 (UpToDate, 2022). Symptoms for these anomalies include abdominal organs visibly protruding through the skin of the abdomen with or without thin membranous covering, bulging or bubbled appearance around the umbilical cord, and digestive problems due to poor circulation and irritation of the digestive organs (Riley Children’s Health, 2022). Often, this congenital anomaly can be seen on ultrasound before birth (<link target-id="nutrition_fig_04_01_004"/>).<footnote id="foot-00006">It would be the rare occasion that a footnote related to body text might be needed, but we want to account for them just in case.</footnote>
   </para>
   <figure id="nutrition_fig_04_01_004">
     <media alt="Alt text here.">
@@ -290,7 +363,7 @@
           </list>
         </entry>
         <entry>
-          <table class="unnumbered" id="table-00002">
+          <table class="unnumbered no-cellborder" id="table-00002">
             <tgroup cols="2">
               <tbody>
                 <row>
