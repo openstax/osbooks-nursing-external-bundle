@@ -26,6 +26,73 @@
       <para id="para-00003">The U.S. Food and Drug Administration provides a client-oriented web page listing <link url="https://www.fda.gov/consumers/free-publications-women/high-blood-pressure">FDA-approved products currently available to treat hypertension</link>. It provides links to drug classifications such as ACE inhibitors, angiotensin II receptor blockers, beta blockers, calcium channel blockers, and diuretics. A <link url="https://www.fda.gov/media/147354/download">high blood pressure medicines</link> booklet also is available for download.</para>
     </note>
 
+    <section id="sect-00003">
+      <title>Thiazide and Thiazide-Like Diuretics</title>
+      <para id="para-00004">Thiazide and thiazide-like diuretics inhibit the reabsorption of sodium and chloride in the distal renal tubules. They increase the excretion of sodium and water by the kidneys, producing diuresis in the client. Thiazide diuretics are effective, but are not as potent as loop diuretics. They create a potassium loss within the body. Thiazide and thiazide-like diuretics are often the first line of treatment for clients diagnosed with hypertension and may be used in conjunction with other antihypertensive drugs.</para>
+    </section>
+
+    <section id="sect-00004">
+      <title>Potassium-Sparing Diuretics</title>
+      <para id="para-00005">Potassium-sparing diuretics antagonize aldosterone. These drugs reduce aldosterone-induced sodium and water retention in the late distal tubules of the kidneys. These types of diuretics spare potassium within the body; therefore, potassium does not need to be supplemented. Potassium-sparing diuretics are commonly used to treat hypertension in clients with impaired renal function.</para>
+
+      <table class="vertically-tight" summary="" id="table-00001">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>Drug</entry>
+              <entry>Routes and Dosage Ranges: Adults</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Thiazide and Thiazide-like Diuretics</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry align="center">Chlorthalidone<newline/>
+                (Thalitone)
+                </entry>
+                <entry>12.5–100 mg daily orally, maximum dose 100 mg daily</entry>
+            </row>
+            <row>
+              <entry align="center">Hydrochlorothiazide<newline/>
+                (Microzide, HCTZ)
+                </entry>
+                <entry>25–100 mg daily, orally </entry>
+            </row>
+            <row class="header-row">
+              <entry namest="c1" nameend="c2" align="center">Potassium-Sparing Diuretics</entry>
+            </row>
+            <row>
+              <entry align="center">Amiloride<newline/>
+                (Midamor)
+                </entry>
+                <entry>5–20 mg daily, orally, maximum dose 20 mg daily</entry>
+            </row>
+            <row>
+              <entry align="center">Spironolactone<newline/>
+                (Aldactone)
+                </entry>
+                <entry>12.5–25 mg daily, orally, maximum dose 50 mg daily</entry>
+            </row>
+            <row>
+              <entry align="center">Triamterene<newline/>
+                (Dyrenium)
+                </entry>
+                <entry>100 mg twice daily orally</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <note class="client-teaching" id="note-00002">
+    <emphasis effect="bold">The client should:</emphasis>
+    <list list-type="bulleted" id="list-00002">
+       <item>Take diuretics as prescribed by the health care provider.</item>
+    </list>
+    </note>
   </section>
+
   </content>
 </document>
