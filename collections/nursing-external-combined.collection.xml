@@ -3,7 +3,7 @@
     <md:title>Nursing External Combined</md:title>
     <md:slug>nursing-external-combined</md:slug>
     <md:language>en</md:language>
-    <md:content-id>col12904</md:content-id>
+    <md:content-id>col19347</md:content-id>
     <md:uuid>81c0ae1b-8282-438d-a37f-90ff5bbc18bf</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
@@ -29,6 +29,37 @@
           <md:title>Drug Administration</md:title>
           <col:content>
             <col:module document="m00021"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Community Population content</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Culturally and Linguistically Competent Nursing Care</md:title>
+          <col:content>
+            <col:module document="m00026"/>
+            <col:module document="m00015"/>
+            <col:module document="m00016"/>
+            <col:module document="m00017"/>
+            <col:module document="m00018"/>
+            <col:module document="m00019"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nutrition content</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Digestive Process</md:title>
+          <col:content>
+            <col:module document="m00025"/>
+            <col:module document="m00010"/>
+            <col:module document="m00011"/>
+            <col:module document="m00012"/>
+            <col:module document="m00013"/>
           </col:content>
         </col:subcollection>
       </col:content>
