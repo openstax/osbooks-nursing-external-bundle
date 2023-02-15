@@ -242,7 +242,7 @@
         
         <thead>
       <row>
-        <entry namest="c1" nameend="c2"><para id="para-00028">Physical Assessment</para></entry>
+        <entry namest="c1" nameend="c2">Physical Assessment</entry>
       </row>
     </thead>
       <tbody>
@@ -287,7 +287,7 @@
           </list>
         </entry>
         <entry>
-          <table id="table-00002">
+          <table class="unnumbered" id="table-00002">
             <tgroup cols="2">
               <tbody>
                 <row>
@@ -375,23 +375,19 @@
           </table>
         </entry>
         </row>
-      <row>
-        <entry namest="c1" nameend="c2">
-          <exercise id="exer-00001">
-            <problem id="prob-00001">
-              <para id="para-00032"><link class="os-embed" url="#exercise/nutrition_04_1_01"/></para>
-            </problem>
-           </exercise>
-           <exercise id="exer-00002">
-            <problem id="prob-00002">
-              <para id="para-00033"><link class="os-embed" url="#exercise/nutrition_04_1_02"/></para>
-            </problem>
-           </exercise>
-        </entry>
-      </row>
     </tbody>
     </tgroup>
     </table>
+    <exercise id="exer-00001">
+      <problem id="prob-00001">
+        <para id="para-00032"><link class="os-embed" url="#exercise/nutrition_04_1_01"/></para>
+      </problem>
+     </exercise>
+     <exercise id="exer-00002">
+      <problem id="prob-00002">
+        <para id="para-00033"><link class="os-embed" url="#exercise/nutrition_04_1_02"/></para>
+      </problem>
+     </exercise>
   </note>
 </section>
     </section>

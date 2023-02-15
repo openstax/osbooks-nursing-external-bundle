@@ -24,57 +24,60 @@
   <link target-id="table_18_03_001"/> lists common ARBs and typical routes and dosing for adult and pediatric clients. <link target-id="table_18_03_002"/> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.
 </para>
 
-<table id="table_18_03_001" class="drugs" summary="Alt text here.">
-  <tgroup cols="3">
-    <thead class="blue-text">
+<table id="table_18_03_001" class="vertically-tight">
+  <tgroup cols="2">
+    <thead>
       <row>
         <entry>Drug</entry>
-        <entry>Routes and Dosage Ranges: Adults</entry>
-        <entry>Routes and Dosage Ranges: Children</entry>
+        <entry>Routes and Dosage Ranges</entry>
       </row>
     </thead>
     <tbody>
       <row>
         <entry><emphasis effect="italics">Candesartan</emphasis><newline/>
           (Atacand)</entry>
-        <entry>16 mg daily orally, maximum dose 32 mg daily in 1–2 divided doses</entry>
-        <entry>1–&lt;6 years old: 0.05–0.4 mg/kg daily orally<newline/>
-          6–&lt;17 years old: <newline/>
+        <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+          Heart failure: 4–32 mg orally once daily<newline />
+          Hypertension: 8–32 mg orally divided once or twice daily<newline count="2" />
+          <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+          Hypertension:<newline />
+          1–6 years old: 0.05–0.4 mg/kg daily orally<newline/>
+          6–17 years old: <newline/>
           &lt; 50 kg: 2–16 mg daily orally<newline/>
-          > 50 kg: 4–32 mg daily orally
+          &gt; 50 kg: 4–32 mg daily orally
         </entry>
       </row>
       <row>
         <entry><emphasis effect="italics">Losartan</emphasis><newline/>
           (Cozaar)
           </entry>
-        <entry>25–100 mg daily orally in 1–2 divided doses</entry>
-        <entry>>6 years old: 0.7 mg/kg daily orally, maximum dose 50 mg daily</entry>
+        <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+          Heart failure (off-label): 25–150 mg orally once daily<newline />
+          *Reference: 2022 AHA/ACC/HFSA Heart Failure Guidelines<newline/>
+          Hypertension: 50–100 mg orally once daily</entry>
       </row>
       <row>
         <entry><emphasis effect="italics">Olmesartan</emphasis><newline/>(Benicar)</entry>
-        <entry>20 mg daily orally initially, maximum dose 40 mg daily</entry>
-        <entry>6–16 years old: <newline/>
-          20–35 kg: 10 mg daily orally, maximum dose 20 mg daily<newline/>
-          > 35 kg: 20 mg daily orally, maximum dose 40 mg daily
-          </entry>
+        <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+          Hypertension: 20–40 mg orally once daily</entry>
       </row>
       <row>
         <entry><emphasis effect="italics">Telmisartan</emphasis><newline/>(Micardis)</entry>
-        <entry>40 mg daily orally initially, maximum dose 80 mg daily </entry>
-        <entry>This drug is not recommended for use in children.</entry>
+        <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+          Hypertension: 40–80 mg orally daily</entry>
       </row>
       <row>
         <entry><emphasis effect="italics">Valsartan</emphasis><newline/>(Diovan)</entry>
-        <entry>80–320 mg once daily orally</entry>
-        <entry>6–16 years old: 1.3 mg/kg daily orally, maximum dose 2.7 mg/kg up to 160 mg daily</entry>
+        <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+          Hypertension: 80–320 mg orally once daily<newline />
+        Heart failure: 40–160 mg orally twice daily</entry>
       </row>
     </tbody>
   </tgroup>
   <caption>Drug Emphasis Table: ARBs</caption>
 </table>
 
-<table id="table_18_03_002" summary="Alt text here.">
+<table id="table_18_03_002" class="vertically-tight">
   <tgroup cols="2">
     <tbody>
     <row>

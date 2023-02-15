@@ -30,9 +30,10 @@
       </para>
     </note>
     <para id="para-00004"><link target-id="table_18_02_001"/> lists common ACE inhibitors and typical routes and dosing for adults and pediatric clients. <link target-id="table_18_02_002"/> is a drug prototype table for ACE inhibitors featuring enalapril. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table id="table_18_02_001" class="drugs" summary="Alt text here.">
+    <!-- ORIGINAL 3-COLUMN DRUG EMPHASIS TABLE
+    <table id="table_18_02_001" class="vertically-tight">
       <tgroup cols="3">
-        <thead class="blue-text">
+        <thead>
           <row>
             <entry><span class="blue-text">Drug</span></entry>
             <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
@@ -77,8 +78,70 @@
       </tgroup>
       <caption>Drug Emphasis Table: ACE Inhibitors</caption>
     </table>
+-->
+    <!-- REVISED 2-COLUMN DRUG EMPHASIS TABLE-->
+    <table id="table_18_02_001" class="vertically-tight">
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry><span class="blue-text">Drug</span></entry>
+            <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><emphasis effect="italics">Benazepril</emphasis><newline/>
+              (Lotensin)</entry>
+              <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+                10–40 mg daily orally<newline count="2" />
+                <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+                0.2 mg/kg orally daily, maximum dose 6 mg/kg/day
+              </entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Captopril</emphasis><newline/>
+              (Capto)
+              </entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+            25–150 mg 2–3 times daily orally, maximum dose 450 mg daily<newline count="2" />
+            <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+            1.5 mg/kg every 8 hours orally, maximum dose 6 mg/kg/day</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Enalapril</emphasis><newline/>(Vasotec)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              5–40 mg 1–2 times daily orally<newline count="2" />
+              <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+            0.08 mg/kg daily orally, maximum dose 5 mg daily</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Fosinopril</emphasis><newline/>(Generic only)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              10–40 mg 1–2 times daily orally<newline count="2" />
+              <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+           &gt; 50 kg only: 5–10 mg daily orally</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Lisinopril</emphasis><newline/>(Zestril)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              10–40 mg daily orally<newline count="2"/>
+              <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+            &gt; 6 years old: 0.07 mg/kg daily orally, maximum dose 5 mg daily</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Quinapril</emphasis><newline/>(Accupril)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              10–80 mg daily orally<newline count="2" />
+              <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />
+            5–10 mg once daily orally, maximum dose 80 mg daily</entry>
+          </row>
+        </tbody>
+      </tgroup>
+      <caption>Drug Emphasis Table: ACE Inhibitors</caption>
+    </table>
 
-    <table id="table_18_02_002" summary="Alt text here.">
+
+    <table id="table_18_02_002" class="vertically-tight">
       <tgroup cols="2">
         <tbody>
         <row>

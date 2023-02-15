@@ -192,31 +192,18 @@
       <para id="para-00003">
         Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up to <link document="m00002" target-id="note-00006">Case Study Part A</link>. Refer to the Answer Key at the end of the book for feedback.
       </para>
-      <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
-        <tgroup cols="2">
-          <colspec colnum="1" colname="c1"/>
-          <colspec colnum="2" colname="c2"/>
-          <tbody>
-        <row>
-          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Tran completes her diagnostic evaluation, and the health care provider diagnoses her with Hypertension Stage 2. She follows up with her health care provider one week later to get the results of her diagnostic studies and review her treatment plan.</para></entry>
-        </row>
-        <row>
-          <entry namest="c1" nameend="c2">
-            <exercise id="exer-00001">
-              <problem id="prob-00001">
-                <para id="para-00035"><link class="os-embed" url="#exercise/pharm_18_5_01"/></para>
-              </problem>
-             </exercise>
-             <exercise id="exer-00002">
-              <problem id="prob-00002">
-                <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_5_02"/></para>
-              </problem>
-             </exercise>
-          </entry>
-        </row>
-      </tbody>
-      </tgroup>
-      </table>
+      <para id="para-00034">Ms. Tran completes her diagnostic evaluation, and the health care provider diagnoses her with Hypertension Stage 2. She follows up with her health care provider one week later to get the results of her diagnostic studies and review her treatment plan.</para>
+
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00035"><link class="os-embed" url="#exercise/pharm_18_5_01"/></para>
+        </problem>
+       </exercise>
+       <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_5_02"/></para>
+        </problem>
+       </exercise>
     </note>
   </section>
   </content>

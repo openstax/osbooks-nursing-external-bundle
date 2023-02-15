@@ -466,13 +466,13 @@ If the client has dentures, bridges, or other removable dental appliances, have 
 
 <note class="unfolding-casestudy" id="note-00007">
   <title>Part B: Subtitle to Preview Focus of Case Study</title>
-  <para id="para-00031">This case study is a follow-up to Case Study Part A.</para>
+  <para id="para-00031">This case study is a follow-up to <link document="m00010" target-id="note-00003">Case Study Part A</link>.</para>
   <para id="para-00032">Jim verbalized his interest in modifying his existing dietary patterns as a means to promote cardiovascular wellness so he can spend time with adult children, grandchildren, and great grandchildren.</para>
   <para id="para-00033">Jim has lost 2 pounds in three weeks, with a corresponding reduction in BMI to 26.4. He does get short of breath with exertion. Jim is able to independently perform ADL’s and reports getting up 1-2 times during the night to urinate. He does not use tobacco products or alcohol. He has started walking for mindfulness and states that helps him when he’s anxious.</para>
 
   <table class="unnumbered" id="table-00003">
     <tgroup cols="4">
-      <colspec colnum="1" colname="c1" colwidth="5*"/>
+      <colspec colnum="1" colname="c1" colwidth="3*"/>
       <colspec colnum="2" colname="c2" colwidth="1*"/>
       <colspec colnum="3" colname="c3" colwidth="1*"/>
       <colspec colnum="4" colname="c4" colwidth="1*"/>
@@ -529,23 +529,19 @@ If the client has dentures, bridges, or other removable dental appliances, have 
     <row>
       <entry namest="c1" nameend="c4"><para id="para-00035">Jim and his wife have replaced white bread with whole wheat options, limited meat to one meal/day, replaced dairy with soy milk, and added more vegetables to their daily meals. They plan their meals together, although Jim admits his wife typically prepares the food. He states he has problems finding best options at restaurants, especially since they eat out frequently.</para></entry>
     </row>
-    <row>
-      <entry namest="c1" nameend="c4">
-        <exercise id="exer-00001">
-          <problem id="prob-00001">
-            <para id="para-00036"><link class="os-embed" url="#exercise/nutrition_04_2_01"/></para>
-          </problem>
-         </exercise>
-         <exercise id="exer-00002">
-          <problem id="prob-00002">
-            <para id="para-00037"><link class="os-embed" url="#exercise/nutrition_04_2_02"/></para>
-          </problem>
-         </exercise>
-      </entry>
-    </row>
   </tbody>
   </tgroup>
   </table>
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+      <para id="para-00036"><link class="os-embed" url="#exercise/nutrition_04_2_01"/></para>
+    </problem>
+   </exercise>
+   <exercise id="exer-00002">
+    <problem id="prob-00002">
+      <para id="para-00037"><link class="os-embed" url="#exercise/nutrition_04_2_02"/></para>
+    </problem>
+   </exercise>
 </note>
 
 </section>

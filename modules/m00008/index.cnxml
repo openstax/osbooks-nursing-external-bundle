@@ -215,14 +215,12 @@
       <para id="para-00012">
         Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up from <link document="m00002" target-id="note-00006">Case Study: Part A</link> and <link document="m00006" target-id="note-00001">Case Study: Part B</link>. Refer to the Answer Key at the end of the book for feedback.
       </para>
+      <para id="para-00034">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of Hypertension Stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks from her bedroom to the kitchen. The client’s daughter also reports that Ms. Tran is not limiting her salt intake and adds salt to every dish.</para>
       <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
         <tgroup cols="2">
           <colspec colnum="1" colname="c1"/>
           <colspec colnum="2" colname="c2"/>
           <tbody>
-        <row>
-          <entry namest="c1" nameend="c2"><para id="para-00034">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of Hypertension Stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks from her bedroom to the kitchen. The client’s daughter also reports that Ms. Tran is not limiting her salt intake and adds salt to every dish.</para></entry>
-        </row>
         <row>
           <entry><emphasis effect="bold">Vital Signs</emphasis>
           <list list-type="bulleted" bullet-style="none" id="list-00006">
@@ -247,26 +245,20 @@
             </list>
           </entry>
         </row>
-        <row>
-          <entry namest="c1" nameend="c2"><para id="para-00035">The health care provider runs a 12-lead ECG and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil tablets orally and nitroglycerin sublingually to the client.</para></entry>
-        </row>
-        <row>
-          <entry namest="c1" nameend="c2">
-            <exercise id="exer-00001">
-              <problem id="prob-00001">
-                <para id="para-00059"><link class="os-embed" url="#exercise/pharm_18_7_01"/></para>
-              </problem>
-             </exercise>
-             <exercise id="exer-00002">
-              <problem id="prob-00002">
-                <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_7_02"/></para>
-              </problem>
-             </exercise>
-          </entry>
-        </row>
       </tbody>
       </tgroup>
       </table>
+      <para id="para-00035">The health care provider runs a 12-lead ECG and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil tablets orally and nitroglycerin sublingually to the client.</para>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00059"><link class="os-embed" url="#exercise/pharm_18_7_01"/></para>
+        </problem>
+       </exercise>
+       <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_7_02"/></para>
+        </problem>
+       </exercise>
     </note>
   </section>
   <section id="sect-00014">

@@ -45,8 +45,8 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
       <link target-id="table_18_04_001"/> lists common beta blockers and typical routes and dosing for adults and children. <link target-id="table_18_04_002"/> is a drug prototype chart for beta-adrenergic blockers featuring metoprolol. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.
     </para>
 
-    <table id="table_18_04_001" class="drugs" summary="Alt text here.">
-      <tgroup cols="3">
+    <table id="table_18_04_001" class="vertically-tight">
+      <tgroup cols="2">
         <thead class="blue-text">
           <row>
             <entry>Drug</entry>

@@ -46,6 +46,59 @@
       <para id="para-00011">
         Normal blood pressure is considered a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The AHA chart (see Table 18.1) demonstrates the blood pressure categories and the readings associated with them.
       </para>
+
+      <table id="table_18_01_001" class="alternate-shading">
+        <title>Blood Pressure Categories</title>
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1" colwidth="3*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+          <colspec colnum="3" colname="c3" colwidth="1*"/>
+          <colspec colnum="4" colname="c4" colwidth="2*"/>
+        <thead>
+          <row>
+            <entry>Blood Pressure Category</entry>
+            <entry>Systolic mm Hg (upper number)</entry>
+            <entry/>
+            <entry>Diastolic mm Hg (lower number)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+          <entry>Normal</entry>
+          <entry>Less than 120</entry>
+          <entry>and</entry>
+          <entry>Less than 80</entry>
+        </row>
+        <row>
+          <entry>Elevated</entry>
+          <entry>120–129</entry>
+          <entry>and</entry>
+          <entry>Less than 80</entry>
+        </row>
+        <row>
+          <entry>High Blood Pressure (Hypertension) Stage 1</entry>
+          <entry>130–139</entry>
+          <entry>or</entry>
+          <entry>80–89</entry>
+        </row>
+        <row>
+          <entry>High Blood Pressure (Hypertension Stage 2</entry>
+          <entry>140 or higher</entry>
+          <entry>or</entry>
+          <entry>90 or higher</entry>
+        </row>
+        <row>
+          <entry>Hypertensive Crises (consult your doctor immediately)</entry>
+          <entry>Higher than 180</entry>
+          <entry>and/or</entry>
+          <entry>Higher than 120</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>The American Heart Association’s Categories for Hypertension</caption>
+      </table>
+
+
       <figure id="pharma_fig_18_01_002">
         <media alt="Alt text here">
           <image mime-type="png" src="../../media/pharma_fig_18_01_002.png"/>
@@ -191,15 +244,13 @@
 <note class="unfolding-casestudy" id="note-00006">
   <title>Part A</title>
   <para id="para-00033">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter. Refer to the Answer Key at the end of the book for feedback.</para>
+  <para id="para-00034">
+    Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para>
   <table class="unnumbered" summary="Insert Alt Text" id="table-00001">
     <tgroup cols="2">
       <colspec colnum="1" colname="c1"/>
       <colspec colnum="2" colname="c2"/>
       <tbody>
-    <row>
-      <entry namest="c1" nameend="c2"><para id="para-00034">
-        Ms. Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. She has a history of coronary artery disease and diabetes.</para></entry>
-    </row>
     <row>
       <entry><emphasis effect="bold">Vital Signs</emphasis>
       <list list-type="bulleted" bullet-style="none" id="list-00006">
