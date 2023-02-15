@@ -7,5 +7,145 @@
   </metadata>
   <content class="appendix">
     <para id="para-00001">Nurses are required to review and interpret lab values. Lab values can vary by facility, lab, book, or school. Nurses should always use their facility’s lab value guidelines for interpretation or testing.</para>
+
+    <table id="table_B_01">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <thead>
+          <row>
+            <entry namest="c1" nameend="c8">Arterial Blood Gases</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>pH</entry>
+            <entry>7.35–7.45</entry>
+            <entry morerows="1"/>
+            <entry>PaCO<sub>2</sub></entry>
+            <entry>35–45 mm Hg</entry>
+            <entry morerows="1"/>
+            <entry>Base Deficit</entry>
+            <entry>-4 to +2 mEq/l</entry>
+          </row>
+          <row>
+            <entry>PaO<sub>2</sub></entry>
+            <entry>75–100 mm Hg</entry>
+            <entry>HCO<sub>3</sub></entry>
+            <entry>22–26 mEq/L</entry>
+            <entry>SaO<sub>2</sub></entry>
+            <entry>95–100%</entry>
+          </row>
+          <row class="header-row">
+            <entry namest="c1" nameend="c8">Blood Tests</entry>
+          </row>
+          <row>
+            <entry>Albumin</entry>
+            <entry>3.5–5.0 g/dL</entry>
+            <entry morerows="11"/>
+            <entry>Glucose</entry>
+            <entry>70–110 mg/dL</entry>
+            <entry morerows="11"/>
+            <entry>MCV</entry>
+            <entry>80–98 fL</entry>
+          </row>
+          <row>
+            <entry>Alk phos</entry>
+            <entry>30–120 units/L</entry>
+            <entry morerows="3">Glucose Tolerance test</entry>
+            <entry morerows="3">Start 70–100 mg/dL<newline />
+            1 hour &lt; 200 mg/dL<newline />
+          2 hours &lt; 140 mg/dL<newline />
+        3 hours &lt; 120 mg/dL</entry>
+            <entry>Monocytes</entry>
+            <entry>2–8 × 10<sup>9/L</sup></entry>
+          </row>
+          <row>
+            <entry>ALT</entry>
+            <entry>10–30 units/L</entry>
+            <entry>Neutrophils</entry>
+            <entry>40–60 × 10<sup>9</sup>/L</entry>
+          </row>
+          <row>
+            <entry>Ammonia</entry>
+            <entry>9.5–49 mg/dL</entry>
+            <entry>pH</entry>
+            <entry>7.35–7.45</entry>
+          </row>
+          <row>
+            <entry>Amylase</entry>
+            <entry>25–125 IU/L</entry>
+            <entry>Phosphorus</entry>
+            <entry>3.5–4.5 mg/dL</entry>
+          </row>
+          <row>
+            <entry>AST</entry>
+            <entry>8–46 units/L</entry>
+            <entry>HDL</entry>
+            <entry>&gt; 50 mg/dL</entry>
+            <entry>Platelet count</entry>
+            <entry>150–450 × 10<sup>9</sup>/L</entry>
+          </row>
+          <row>
+            <entry>Bicarb (HCO<sub>3</sub></entry>
+            <entry>23–28 mEq/L</entry>
+            <entry morerows="1">Hematocrit</entry>
+            <entry morerows="1">(F) 37–47%<newline />(M) 42–50%</entry>
+            <entry>Potassium</entry>
+            <entry>3.5–5.0 mEq/L</entry>
+          </row>
+          <row>
+              <entry>Bilirubin, total</entry>
+              <entry>0.3–1.0 mg/dL</entry>
+              <entry>Protein</entry>
+              <entry>5.5–9.0 g/dL</entry>
+          </row>
+          <row>
+            <entry>BNP</entry>
+            <entry>0–100 pg/mL</entry>
+            <entry morerows="1">Hemoglobin</entry>
+            <entry morerows="1">(F) 12–16 g/dL<newline />(M) 14–18 g/dL</entry>
+            <entry morerows="1">PT<newline />11–13 seconds</entry>
+            <entry morerows="1">PTT<newline />24–45 seconds</entry>
+          </row>
+          <row>
+            <entry>BUN</entry>
+            <entry>8–20 mg/dL</entry>
+          </row>
+          <row>
+            <entry>Calcium</entry>
+            <entry>8.6–10.2 mg/dL</entry>
+            <entry>HbA1c</entry>
+            <entry>4.0–5.6%</entry>
+            <entry>RBC</entry>
+            <entry>(F) 4.2–5.4 cells/mcL<newline />(M) 4.7–6.1 cells/mcL</entry>
+          </row>
+          <row>
+            <entry>Chloride</entry>
+            <entry>98–106 mEq/L</entry>
+            <entry>INR</entry>
+            <entry>0.8–1.2 seconds</entry>
+            <entry>RDW</entry>
+            <entry>9.0–14.5%</entry>
+          </row>
+          <row class="header-row">
+            <entry namest="c1" nameend="c8">Miscellaneous Tests</entry>
+          </row>
+          <row>
+            <entry>Sputum culture</entry>
+            <entry>Negative</entry>
+            <entry/>
+            <entry namest="c3" nameend="c8"/>
+          </row>
+        </tbody>
+
+      </tgroup>
+    </table>
   </content>
 </document>
