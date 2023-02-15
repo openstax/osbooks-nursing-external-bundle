@@ -3,15 +3,18 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Organs of Digestion</md:title>
     <md:content-id>m00010</md:content-id>
-    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
-  <list id="list-00001">
-    <item>LO 4.1.1 Describe the organs of digestion.</item>
-    <item>LO 4.1.2 Identify congenital anomalies within digestive organs.</item>
-  </list>
+    <md:abstract>
   </md:abstract>
     <md:uuid>0ee054cf-3e8a-42bf-bbea-3b0976ca246a</md:uuid>
   </metadata>
   <content>
+    <section class="learning-objectives" id="sect-00009"><title>Learning Outcomes</title>
+      <para id="para-00002">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+        <item>Describe the organs of digestion.</item>
+        <item>Identify congenital anomalies within digestive organs.</item>
+      </list>
+    </section>
     <para id="para-00001">Digestion occurs as an integrated process between the upper and lower gastrointestinal tract and accessory systems in the body. Proper digestive processes are needed to ensure nutrients are supplied to the body and homeostasis through fluid and electrolyte balance, adequate nutritional status, proper growth patterns, and body repair needs are maintained. Common end products of digestion are amino acids, simple carbohydrates, lipids, vitamins, and minerals. </para>
     <para id="para-00003">The digestive system is responsible for digestion in the body. The main organs of digestion, the gastrointestinal system, begin at the mouth and end at the anus. This system is divided into the upper gastrointestinal system, which starts at the mouth and ends at the duodenum (the very start of the small intestines), and the lower gastrointestinal system, which starts with the small intestines and includes the large intestines (or colon), rectum, and anus. Other organs in the digestive system that are not along the main gastrointestinal system tract that aid in digestion but do not come in direct contact with food, the accessory organs, include the pancreas, liver, and gallbladder (<link target-id="nutrition_fig_04_01_002"/>).</para>
     <figure id="nutrition_fig_04_01_002">
@@ -220,7 +223,7 @@
 </section>
 <section id="sect-00008">
   <title>Other Malformations</title>
-  <para id="para-00024">Abdominal wall defects are another type of congenital anomaly in which the digestive organs (usually stomach or intestines) protrude through the abdominal wall (Riley Children’s Health, 2022). There are two main types of abdominal wall defects: the omphalocele, which is when these organs protrude from the abdominal wall near the umbilicus into a thin protective membranous sac, and the gastroschisis, which is caused when the abdominal wall does not close completely during development and the intestines protrude unprotected outside of the abdomen through an opening near the umbilicus. The omphalocele is often accompanied by genetic syndromes, while there is not generally any genetic syndromes associated with a gastroschisis. Some genetic syndromes associated with the omphalocele include Beckwith-Wiedemann syndrome, Donnai-Barrow syndrome, Shprintzen-Goldberg omphalocele syndrome, Melnick-Needles syndrome, Carpenter syndrome, Pentalogy of Cantrell, OEIS complex, and Trisomy 13, 18, and 21 (UpToDate, 2022). Symptoms for these anomalies include abdominal organs visibly protruding through the skin of the abdomen with or without thin membranous covering, bulging or bubbled appearance around the umbilical cord, and digestive problems due to poor circulation and irritation of the digestive organs (Riley Children’s Health, 2022). Often, this congenital anomaly can be seen on ultrasound before birth (<link target-id="nutrition_fig_04_01_004"/>).<footnote id="foot-00003">It would be the rare occasion that a footnote related to body text might be needed, but we want to account for them just in case.</footnote> 
+  <para id="para-00024">Abdominal wall defects are another type of congenital anomaly in which the digestive organs (usually stomach or intestines) protrude through the abdominal wall (Riley Children’s Health, 2022). There are two main types of abdominal wall defects: the omphalocele, which is when these organs protrude from the abdominal wall near the umbilicus into a thin protective membranous sac, and the gastroschisis, which is caused when the abdominal wall does not close completely during development and the intestines protrude unprotected outside of the abdomen through an opening near the umbilicus. The omphalocele is often accompanied by genetic syndromes, while there is not generally any genetic syndromes associated with a gastroschisis. Some genetic syndromes associated with the omphalocele include Beckwith-Wiedemann syndrome, Donnai-Barrow syndrome, Shprintzen-Goldberg omphalocele syndrome, Melnick-Needles syndrome, Carpenter syndrome, Pentalogy of Cantrell, OEIS complex, and Trisomy 13, 18, and 21 (UpToDate, 2022). Symptoms for these anomalies include abdominal organs visibly protruding through the skin of the abdomen with or without thin membranous covering, bulging or bubbled appearance around the umbilical cord, and digestive problems due to poor circulation and irritation of the digestive organs (Riley Children’s Health, 2022). Often, this congenital anomaly can be seen on ultrasound before birth (<link target-id="nutrition_fig_04_01_004"/>).<footnote id="foot-00003">It would be the rare occasion that a footnote related to body text might be needed, but we want to account for them just in case.</footnote>
   </para>
   <figure id="nutrition_fig_04_01_004">
     <media alt="Alt text here.">
@@ -239,7 +242,7 @@
       <tgroup cols="2">
         <colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
-        
+
         <thead>
       <row>
         <entry namest="c1" nameend="c2">Physical Assessment</entry>
@@ -408,6 +411,6 @@
       <term>bile</term>
       <meaning>a fluid created in the liver that aids in digestion of food in the duodenum</meaning>
     </definition>
-  
+
   </glossary>
 </document>

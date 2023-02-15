@@ -3,21 +3,24 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The Nurse’s Role in the Promotion of Gut Health</md:title>
     <md:content-id>m00013</md:content-id>
-    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
-  <list id="list-00001">
-    <item>LO 4.4.1 Describe the homeostasis of gut health.</item>
-    <item>LO 4.4.2 Describe the impact of diet on gut health.</item>
-    <item>LO 4.4.3 Identify the impact of pharmacology on gut health.</item>
-    <item>LO 4.4.4 Identify pathophysiology and gut health.</item>
-    <item>LO 4.4.5 Assess the impact of aging on gut health.</item>
-  </list>
+    <md:abstract>
   </md:abstract>
     <md:uuid>bb50c886-1c32-4b53-9657-51443ec8e7fa</md:uuid>
   </metadata>
-  <content><para id="para-00001">To maintain healthy digestion and absorption of food and in turn nutritional health, the gut must maintain a healthy homeostasis, or equilibrium maintained by the physiological processes and evidenced by stable growth of intestinal microbiota. The nurse plays an important role in the education and care of their clients to ensure they are at their optimal nutritional health.</para>
+  <content>
+    <section class="learning-objectives" id="sect-00008"><title>Learning Outcomes</title>
+      <para id="para-00002">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+        <item>Describe the homeostasis of gut health.</item>
+        <item>Describe the impact of diet on gut health.</item>
+        <item>Identify the impact of pharmacology on gut health.</item>
+        <item>Identify pathophysiology and gut health.</item>
+        <item>Assess the impact of aging on gut health.</item>
+      </list></section>
+      <para id="para-00001">To maintain healthy digestion and absorption of food and in turn nutritional health, the gut must maintain a healthy homeostasis, or equilibrium maintained by the physiological processes and evidenced by stable growth of intestinal microbiota. The nurse plays an important role in the education and care of their clients to ensure they are at their optimal nutritional health.</para>
     <section id="sect-00001">
       <title>Gut Health Homeostasis</title>
-      <para id="para-00003">The homeostasis of the gut is strongly impacted by the composition of the gut’s microbiota or normal microbial growth, and diet can impact the health of this microbiota (Lee et al., 2022). When the gut is not in a state of homeostasis, the imbalance that results and causes disease is known as 
+      <para id="para-00003">The homeostasis of the gut is strongly impacted by the composition of the gut’s microbiota or normal microbial growth, and diet can impact the health of this microbiota (Lee et al., 2022). When the gut is not in a state of homeostasis, the imbalance that results and causes disease is known as
       <term id="term-00001">dysbiosis</term>. Many diseases have been linked to dysbiosis, including anxiety, depression, hypertension, cardiovascular disease, cancer, inflammatory bowel disease, obesity, and diabetes, so the impact of not maintaining gut homeostasis far surpasses only gastrointestinal health (Afzaal et al., 2022). </para>
       <para id="para-00004">To maintain proper gut homeostasis, the bacterial growth requires energy in the form of adenosine triphosphate and oxygen (Lee et al., 2022). Dietary factors, antibiotics, and underlying host conditions can reduce oxygen consumption in the colonic epithelium, thereby reducing the available oxygen to the indigenous microbes. </para>
       <para id="para-00005">The microbiota of the gut has many functions in the body. These bacterial residents help control nutrient metabolism; defend against pathogens; contribute to carbohydrate digestion; synthesize methane from H2 processed by bacterial metabolism; synthesize biotin, folate and Vitamin K; and neutralize carcinogens (Afzaal et al., 2022).</para>
@@ -67,13 +70,13 @@
     </section>
     <section class="review-questions" id="sect-00005">
       <title>Review Questions</title>
-      
+
       <exercise id="exer-00001">
         <problem id="prob-00001">
         <para id="para-00020"><link class="os-embed" url="#exercise/nutrition_04_001"/></para>
         </problem>
       </exercise>
-      
+
       <exercise id="exer-00002">
         <problem id="prob-00002">
         <para id="para-00021"><link class="os-embed" url="#exercise/nutrition_04_002"/></para>
@@ -127,7 +130,7 @@
         <para id="para-00029"><link class="os-embed" url="#exercise/nutrition_04_010"/></para>
         </problem>
       </exercise>
-      
+
     </section>
     <section class="suggested-readings" id="sect-00006">
       <title>Suggested Readings</title>
@@ -178,7 +181,7 @@
       <para id="para-00057">Mayo Clinic. (2022b). <emphasis effect="italics">Hirschsprung’s Disease</emphasis>. https://www.mayoclinic.org/diseases-conditions/hirschsprungs-disease/symptoms-causes/syc-20351556#:~:text=Typically%2C%20the%20most%20obvious%20sign,a%20green%20or%20brown%20substance</para>
       <para id="para-00058">Mayo Clinic. (2022c). <emphasis effect="italics">Pyloric Stenosis</emphasis>. https://www.mayoclinic.org/diseases-conditions/pyloric-stenosis/symptoms-causes/syc-20351416</para>
       <para id="para-00059">Mealie, C., Ali, R., &amp; Manthey, D. (2022). Abdominal Exam. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK459220/</para>
-      <para id="para-00060">Ye, Q., Wang, B., Zhang, T., Xu, J., &amp; Shang, S. (2020). The mechanism and treatment of gastrointestinal symptoms in patients with COVID-19. 
+      <para id="para-00060">Ye, Q., Wang, B., Zhang, T., Xu, J., &amp; Shang, S. (2020). The mechanism and treatment of gastrointestinal symptoms in patients with COVID-19.
       <emphasis effect="italics">American Journal of Physiology-Gastrointestinal and Liver Physiology</emphasis>, 319(2). DOI: https://doi.org/10.1152/ajpgi.00148.2020. https://journals.physiology.org/doi/full/10.1152/ajpgi.00148.2020</para>
       <para id="para-00061">Youdim, A. (2021). Nutrient-Drug Interactions. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/nutritional-disorders/nutrition-general-considerations/nutrient-drug-interactions</para>
     </section>

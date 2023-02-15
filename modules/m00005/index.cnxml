@@ -3,18 +3,21 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Beta-Adrenergic Blockers</md:title>
     <md:content-id>m00005</md:content-id>
-    <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-  <list id="list-00001">
-    <item>LO18.4.1 Discuss the use of beta-adrenergic blocker drugs used to treat hypertension.</item>
-    <item>LO18.4.2 Differentiate between beta-adrenergic blocker drugs used to treat hypertension.</item>
-    <item>LO18.4.3 Describe nursing implications and client education related to beta-adrenergic blocker drugs used to treat hypertension.</item>
-    <item>LO18.4.4 Develop an education plan of care related to beta-adrenergic blocker drugs used to treat hypertension.</item>
-  </list>
+    <md:abstract>
   </md:abstract>
     <md:uuid>fd146883-06fa-44c0-ae27-8932245c6a5a</md:uuid>
   </metadata>
-  
+
   <content>
+    <section class="learning-objectives" id="sect-00005">
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+    <item>Discuss the use of beta-adrenergic blocker drugs used to treat hypertension.</item>
+    <item>Differentiate between beta-adrenergic blocker drugs used to treat hypertension.</item>
+    <item>Describe nursing implications and client education related to beta-adrenergic blocker drugs used to treat hypertension.</item>
+    <item>Develop an education plan of care related to beta-adrenergic blocker drugs used to treat hypertension.</item>
+  </list>
+</section>
   <section id="sect-00001">
     <title>Introduction and Use</title>
     <para id="para-00002"><term id="term-00001">Beta-adrenergic blockers</term> (beta blockers) are a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine by exerting effects on adrenergic receptors beta 1, beta 2, and alpha.</para>
@@ -118,7 +121,7 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
             <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
             To control hypertension<newline/>
             In the treatment of angina, acute myocardial infarction, and heart failure<newline count="2"/>
-    
+
             <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
             Lowers blood pressure<newline/>
             Decreases cardiac workload
@@ -128,7 +131,7 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
             <emphasis effect="italics">Albuterol</emphasis> (Ventolin)<newline/>
             <emphasis effect="italics">Clonidine</emphasis> (Catapres)<newline/>
             <emphasis effect="italics">Mefloquine</emphasis> (Lariam)<newline/>
-    
+
             <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
             Caffeine<newline/>
             Alcohol<newline/>
@@ -162,7 +165,7 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
       <caption>Drug Prototype Table: Metoprolol Tartrate</caption>
     </table>
   </section>
-  
+
   <section id="sect-00002">
     <title>Adverse Effects</title>
     <para id="para-00011">
@@ -213,13 +216,10 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
       </para>
     </note>
   </section>
-
-  </content>
-
-  <glossary>
-    <definition id="def-00001">
-      <term>beta-adrenergic blockers</term>
-      <meaning>a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine by exerting effects on adrenergic receptors beta 1, beta 2, and alpha.</meaning>
-    </definition>
-  </glossary>
-</document>
+</content>
+<glossary>
+  <definition id="def-00001">
+    <term>beta-adrenergic blockers</term>
+    <meaning>a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine by exerting effects on adrenergic receptors beta 1, beta 2, and alpha.</meaning>
+  </definition>
+</glossary></document>

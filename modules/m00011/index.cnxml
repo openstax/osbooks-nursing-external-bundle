@@ -3,15 +3,19 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Assessment of the Organs of Digestion</md:title>
     <md:content-id>m00011</md:content-id>
-    <md:abstract><para id="para-00002">By the end of this section, you will be able to:</para>
-  <list id="list-00001">
-    <item>LO 4.2.1 Describe the assessment of the organs of digestion.</item>
-    <item>LO 4.2.2 Describe the expected assessment findings of the organs of digestion.</item>
-  </list>
+    <md:abstract>
   </md:abstract>
     <md:uuid>c7f47ff7-3464-483a-85f6-1c37bf773738</md:uuid>
   </metadata>
-  <content><para id="para-00001">Assessment of the gastrointestinal system is imperative in both prevention and health maintenance in many diseases and in regard to promotion and maintenance of nutrition. The body relies totally on this system to break down food intake into usable nutrition so proper assessment of this system is extremely important to nutritional health. Identifying and, if possible, rectifying any issues found in the normal function and anatomy of this system will aid the client in staying at optimal nutritional health. While physical assessment of the client is required, the nurse should also obtain a history of the client’s dietary practices, normal eating and bowel patterns, any dietary intolerances or allergies, any changes in normal eating and bowel patterns, recent unintentional weight loss or gain, and any medical diagnoses or surgical history. The nurse will also need to obtain the client’s weight and height so that an accurate body mass index (BMI) can be calculated.</para>
+  <content>
+    <section class="learning-objectives" id="sect-00010"><title>Learning Outcomes</title>
+      <para id="para-00002">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+        <item>Describe the assessment of the organs of digestion.</item>
+        <item>Describe the expected assessment findings of the organs of digestion.</item>
+      </list>
+    </section>
+    <para id="para-00001">Assessment of the gastrointestinal system is imperative in both prevention and health maintenance in many diseases and in regard to promotion and maintenance of nutrition. The body relies totally on this system to break down food intake into usable nutrition so proper assessment of this system is extremely important to nutritional health. Identifying and, if possible, rectifying any issues found in the normal function and anatomy of this system will aid the client in staying at optimal nutritional health. While physical assessment of the client is required, the nurse should also obtain a history of the client’s dietary practices, normal eating and bowel patterns, any dietary intolerances or allergies, any changes in normal eating and bowel patterns, recent unintentional weight loss or gain, and any medical diagnoses or surgical history. The nurse will also need to obtain the client’s weight and height so that an accurate body mass index (BMI) can be calculated.</para>
 <section id="sect-00001">
   <title>Mouth and Oropharynx Assessment</title>
   <para id="para-00003">
@@ -211,7 +215,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
     <para id="para-00021">Deep palpation is contraindicated in clients with suspected abdominal aortic aneurysm, appendicitis, polycystic kidney disease, kidney transplant history, or a tender spleen (Roscoe, 2022).</para>
   </note>
   <para id="para-00022">
-    The final step is palpation of the organs. This is done over specific organs in the abdomen to feel for margins to assess for inflammation and enlargement. We will discuss only the assessment of the gastrointestinal organs in the abdomen in this section as there are other organs assessed in this assessment (Mealie et al., 2022). Palpation of the liver is done by placing the hand below the right lower rib margin by having the client exhale then inhale deeply while feeling for the margins and any nodularity. The gallbladder is then palpated in the same area by placing the palpating hand under the lower right rib margin at the midclavicular line. Ask the client to exhale deeply, then push in deeper slowly and ask the client to inhale while watching for a sudden cessation of inhalation due to pain known as Murphy’s sign. The spleen is palpated by placing the hand in the right lower quadrant and moving it toward the splenic flexure until the hand reaches the left lower rib margin at which time the client should be asked to exhale and then inhale deeply. 
+    The final step is palpation of the organs. This is done over specific organs in the abdomen to feel for margins to assess for inflammation and enlargement. We will discuss only the assessment of the gastrointestinal organs in the abdomen in this section as there are other organs assessed in this assessment (Mealie et al., 2022). Palpation of the liver is done by placing the hand below the right lower rib margin by having the client exhale then inhale deeply while feeling for the margins and any nodularity. The gallbladder is then palpated in the same area by placing the palpating hand under the lower right rib margin at the midclavicular line. Ask the client to exhale deeply, then push in deeper slowly and ask the client to inhale while watching for a sudden cessation of inhalation due to pain known as Murphy’s sign. The spleen is palpated by placing the hand in the right lower quadrant and moving it toward the splenic flexure until the hand reaches the left lower rib margin at which time the client should be asked to exhale and then inhale deeply.
   </para>
 </section>
 <section id="sect-00007">
@@ -232,7 +236,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
       <item>What are some innovative ways to impact heart health?</item>
       <item>What is the relationship between a healthy gut and a healthy heart?</item>
     </list>
-    Source: Safdi, A. (Host) and Renner, W. (November 20, 2021). What is a heart healthy diet? [Audio podcast]. Wellness Evidence-Based Medicine. https://podcasts.apple.com/us/podcast/wellness-evidence-based-medicine/id1447749859?i=1000542573901  
+    Source: Safdi, A. (Host) and Renner, W. (November 20, 2021). What is a heart healthy diet? [Audio podcast]. Wellness Evidence-Based Medicine. https://podcasts.apple.com/us/podcast/wellness-evidence-based-medicine/id1447749859?i=1000542573901
   </para>
 </note>
 <section id="sect-00008">
@@ -251,7 +255,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
           <entry>Portion Size</entry>
           <entry>Calories</entry>
           <entry>Fiber (g)</entry>
-        </row>  
+        </row>
       </thead>
       <tbody>
       <row class="header-row">
@@ -476,7 +480,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
       <colspec colnum="2" colname="c2" colwidth="1*"/>
       <colspec colnum="3" colname="c3" colwidth="1*"/>
       <colspec colnum="4" colname="c4" colwidth="1*"/>
-      
+
       <thead>
     <row>
       <entry namest="c1" nameend="c4"><para id="para-00034">Physical Assessment</para></entry>
