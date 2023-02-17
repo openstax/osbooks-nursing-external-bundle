@@ -39,50 +39,37 @@
     <para id="para-00009"><link target-id="table_18_05_001"/>lists common calcium channel blockers and typical routes and dosing for adult and pediatric clients.<newline/><link target-id="table_18_05_002"/>is a drug prototype chart for calcium channel blockers featuring amlodipine. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 
     <table id="table_18_05_001" class="drugs" summary="Alt text here.">
-      <tgroup cols="3">
+      <tgroup cols="2">
         <thead class="blue-text">
           <row>
             <entry>Drug</entry>
-            <entry>Routes and Dosage Ranges: Adults</entry>
-            <entry>Routes and Dosage Ranges: Children</entry>
+            <entry>Routes and Dosage Ranges</entry>
           </row>
         </thead>
         <tbody>
           <row>
-            <entry><emphasis effect="italics">Atenolol</emphasis><newline/>
-              (Tenormin)</entry>
-            <entry>50–100 mg daily orally in 1–2 divided doses</entry>
-            <entry>0.1–1 mg/kg daily orally in 1–2 divided doses, maximum dose 2 mg/kg up to 100 mg daily in 1–2 divided doses</entry>
+            <entry><emphasis effect="italics">Amlodipine</emphasis><newline/>
+              (Norvasc)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              50–10 mg daily orally</entry>
           </row>
           <row>
-            <entry><emphasis effect="italics">Carvediolol</emphasis><newline/>
-              (Coreq)
+            <entry><emphasis effect="italics">Dilitiazem</emphasis><newline/>
+              (Cardizem)
               </entry>
-            <entry>6.25–25 mg daily orally, maximum dose 25 mg daily</entry>
-            <entry>This drug is not recommended for use in children.</entry>
+            <entry>60–120 mg twice daily orally</entry>
           </row>
           <row>
-            <entry><emphasis effect="italics">Labetalol</emphasis><newline/>(Trandate)</entry>
-            <entry>100–400 mg twice daily orally, maximum dose 2400 mg daily for severe hypertension</entry>
-            <entry>1–3 mg/kg orally daily, maximum dose 10–12 mg/kg or 1200 mg daily</entry>
+            <entry><emphasis effect="italics">Nicardipine</emphasis><newline/>(Cardene)</entry>
+            <entry>Sustained release 30–60 mg daily, maximum dose 120 mg daily<newline />IV infusion, 5–15 mg/hour<newline count="2" />
+            <emphasis effect="bold"><span class="blue-text">Pediatric</span></emphasis><newline />Sustained release 0.25–0.5 mg/kg daily in 1–2 divided doses, maximum dose 3mg/hg in 1–2 divided doses up to 120 mg daily</entry>
           </row>
           <row>
-            <entry><emphasis effect="italics">Metoprolol</emphasis><newline/>(Lopressor)</entry>
-            <entry>50–400 mg daily orally, maximum dose 400 mg daily</entry>
-            <entry>
-              Immediate release 1–2 mg/kg orally daily in 2 doses, maximum dose 6 mg/kg maximum dose 200 mg daily<newline count="2"/>
-              Sustained release 1 mg/kg daily orally, maximum dose 200 mg daily
-            </entry>
-          </row>
-          <row>
-            <entry><emphasis effect="italics">Nadolol</emphasis><newline/>(Corgard)</entry>
-            <entry>40–320 mg daily orally</entry>
-            <entry>6–16 years old: 1.3 mg/kg daily orally, maximum dose 2.7 mg/kg up to 160 mg daily</entry>
-          </row>
-          <row>
-            <entry><emphasis effect="italics">Propranolol</emphasis><newline/>(Inderal LA)</entry>
-            <entry>40 mg twice daily orally, maximum dose 640 mg daily</entry>
-            <entry>1 mg/kg daily orally, maximum dose 10 mg/kg daily</entry>
+            <entry><emphasis effect="italics">Verapamil</emphasis><newline/>(Calan)</entry>
+            <entry><emphasis effect="bold"><span class="blue-text">Adults</span></emphasis><newline />
+              Immediate release: 40–120 mg 3 times daily orally<newline />
+              Sustained release: 189–240 mg daily orally<newline />
+              IV: per manufacturer's instructions and healthcare provider's orders</entry>
           </row>
         </tbody>
       </tgroup>
