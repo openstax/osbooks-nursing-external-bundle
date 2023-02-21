@@ -28,6 +28,7 @@
         <col:subcollection>
           <md:title>Drug Administration</md:title>
           <col:content>
+            <col:module document="m00027"/>
             <col:module document="m00021"/>
           </col:content>
         </col:subcollection>

@@ -1,9 +1,9 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:title>Nursing External Combined</md:title>
+    <md:content-id>col12345</md:content-id>
     <md:slug>nursing-external-combined</md:slug>
     <md:language>en</md:language>
-    <md:content-id>col19347</md:content-id>
     <md:uuid>81c0ae1b-8282-438d-a37f-90ff5bbc18bf</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
@@ -28,6 +28,7 @@
         <col:subcollection>
           <md:title>Drug Administration</md:title>
           <col:content>
+            <col:module document="m00027"/>
             <col:module document="m00021"/>
           </col:content>
         </col:subcollection>
