@@ -18,7 +18,7 @@
     </section>
     <section id="sect-00001">
       <title>Hypertension</title>
-    <para id="para-00001">As The cardiovascular system transports blood and oxygen to needed organs and systems within the body (see <link target-id="pharma_fig_18_01_001" document="m00020"/>). The blood flow moves from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <link target-id="pharma_fig_18_01_002"/>) represents the force that blood flow exerts on arterial walls.</para>
+    <para id="para-00001">As the cardiovascular system transports blood and oxygen to needed organs and systems within the body (see <link target-id="pharma_fig_18_01_001" document="m00020"/>). The blood flow moves from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <link target-id="table_18_01_001"/>) represents the force that blood flow exerts on arterial walls.</para>
     <para id="para-00003">
       The two elements that determine blood pressure are cardiac output and peripheral vascular resistance. <term id="term-00001">Cardiac output</term> is the product of the <term id="term-00002">heart rate</term>, the number of times the heart beats per minute, and <term id="term-00003">stroke volume</term>, or the amount of blood ejected with each heartbeat (<m:math><m:mrow><m:mi>C</m:mi><m:mi>O</m:mi><m:mo>=</m:mo><m:mi>H</m:mi><m:mi>R</m:mi><m:mo>×</m:mo><m:mi>S</m:mi><m:mi>V</m:mi></m:mrow></m:math>). This represents the <term id="term-00004">systolic blood pressure</term> reading, the higher pressure (resistance) within the arteries and vessels. <term id="term-00005">Peripheral vascular resistance</term> (also known as systemic vascular resistance) is determined by blood flow and the level of constriction or dilatation within the arteries and vessels. This indicates the <term id="term-00006">diastolic blood pressure (DBP)</term> reading, which is the lower pressure within the arteries and vessels. Blood pressure (BP) is measured in millimeters of mercury (mm Hg) and is expressed as the systolic pressure over the diastolic pressure (for instance, 125/90 mm Hg). <term id="term-00007">Hypertension</term> is when an individual’s blood pressure is above normal limits for a sustained period of time.
     </para>
@@ -83,7 +83,8 @@
           <entry>80–89</entry>
         </row>
         <row>
-          <entry>High Blood Pressure (Hypertension Stage 2</entry>
+          <entry>High Blood Pressure 
+            (Hypertension Stage 2)</entry>
           <entry>140 or higher</entry>
           <entry>or</entry>
           <entry>90 or higher</entry>
@@ -98,14 +99,6 @@
         </tgroup>
         <caption>The American Heart Association’s Categories for Hypertension</caption>
       </table>
-
-
-      <figure id="pharma_fig_18_01_002">
-        <media alt="Alt text here">
-          <image mime-type="png" src="../../media/pharma_fig_18_01_002.png"/>
-          </media>
-          <caption>The American Heart Association’s Categories for Hypertension (credit: Courtesy of the American Heart Association (2022): Blood pressure categories.)</caption>
-      </figure>
     </section>
     <section id="sect-00003">
       <title>Diagnostics</title>
@@ -127,13 +120,13 @@
       <note class="trending-today" id="note-00002">
         <title>Subtitle</title>
         <para id="para-00015">
-          The American Heart Association (AHA) conducted a critical assessment of research and clinical knowledge on cardiovascular disease across the United States specifically addressing women’s health. In its report to the president, <link url="https://www.heart.org/en/news/2022/05/09/report-calls-out-gaps-in-womens-heart-disease-research-care">Gaps Identified in Women’s Heart Disease Research and Care</link>, gaps were identified and actions outlined to optimize cardiovascular health in women across their lifespan, with the goal of reaching health equity in health care. The AHA has deployed awareness campaigns that are culturally sensitive and focus on the optimization of preventive and clinical care. Community engagement and advocacy in policy change at the legislative level have been encouraged.
+          The American Heart Association (AHA) conducted a critical assessment of research and clinical knowledge on cardiovascular disease across the United States specifically addressing women’s health. In its report to the president, <emphasis effect="italics"><link url="https://www.heart.org/en/news/2022/05/09/report-calls-out-gaps-in-womens-heart-disease-research-care">Gaps Identified in Women’s Heart Disease Research and Care</link></emphasis>, gaps were identified and actions outlined to optimize cardiovascular health in women across their lifespan, with the goal of reaching health equity in health care. The AHA has deployed awareness campaigns that are culturally sensitive and focus on the optimization of preventive and clinical care. Community engagement and advocacy in policy change at the legislative level have been encouraged.
         </para>
         <para id="para-00016">
           The Heart Team multimedia series hosted by Jorge Plutzy, MD, Director of Preventive Cardiology at Harvard Medical School, and Michael Farkouh, MD, Director of the Peter Munk Clinical Trials Unit and Vice Chair of Medicine at the University of Toronto, provides <link url="https://www.hcplive.com/view/heart-team-women-cardiovascular-health?seriesVid=1">four podcasts on the current research in women’s cardiovascular health and disparities in practice</link>. Dr. Martha Gulati, MD, Director of Preventive Cardiology, Associate Director of the Barbara Streisand Women’s Heart Center, Associate Director of Preventive and Cardiac Rehabilitation at the Cedar Sinai Medical Center, joins the last two episodes of the multimedia series and discusses improving female participation in research trials and the future of clinical practice for women and cardiovascular diseases.
         </para>
         <para id="para-00017">
-          In a fireside video chat, <link url="https://youtu.be/XMmBJHDI4eM">The Heart of the Matter: Racial and Gender Bias in Cardiovascular Care</link>, presented by Abbott Cardiovascular, an expert panel of health care providers and representatives discusses cardiovascular care. The panel identifies gender and racial bias as negatively impacting the client experience for persons with coronary and peripheral artery disease. The chat covers not only cardiovascular health, but also technologies that may be utilized to bridge the critical gaps identified.
+          In a fireside video chat, <emphasis effect="italics"><link url="https://youtu.be/XMmBJHDI4eM">The Heart of the Matter: Racial and Gender Bias in Cardiovascular Care</link></emphasis>, presented by Abbott Cardiovascular, an expert panel of health care providers and representatives discusses cardiovascular care. The panel identifies gender and racial bias as negatively impacting the client experience for persons with coronary and peripheral artery disease. The chat covers not only cardiovascular health, but also technologies that may be utilized to bridge the critical gaps identified.
         </para>
         <para id="para-00018">
           <emphasis effect="italics">Sources [ipsum lorum text]: Leek, J. C. &amp; Arif, H. (2022) Pregnancy medications. National Library of Medicine: National Center for biotechnology Information. Lopez, E. O., Parmar, M., Pendela, V. S., &amp; Terrell, J. M. (2022) Lisinopril. National Library of Medicine. Luehrs, R. E., Zhang, D., Pierce, G.L., Jacobs Jr., D. R., Kalhan, R., &amp; Whitaker, K. (2021). Cigarette smoking and longitudinal associations with blood pressure: The CARDIA study. Journal of the American Heart Association. 10(9). https://www.ahajournals.org/doi/full/10.1161/JAHA.120.019566</emphasis>
@@ -194,6 +187,7 @@
         <para id="para-00027">Monitor the client’s blood pressure to assess for drug efficacy. If the blood pressure remains elevated despite antihypertensive treatment, the healthcare provider may adjust antihypertensive drugs to better control the client’s blood pressure.</para>
       </note>
     </section>
+  </section>
     <section id="sect-00012">
       <title>Angina</title>
       <para id="para-00028">
@@ -212,7 +206,7 @@
           Pharmacologic treatment for angina is individualized. Client lifestyle as well as social and cultural influences impact the health care provider’s choice of drug. The goal for pharmacologic treatment of stable angina is to prevent an ischemic event, such as myocardial ischemia (heart attack), from occurring. Nitrates are the first line of treatment for angina, along with beta-adrenergic blockers and calcium channel blockers (Rousan &amp; Thadani, 2019). These drugs will be discussed further in this chapter.
         </para>
       </section>
-    </section>
+    
 <note class="client-teaching" id="note-00005">
   <title>Antihypertensive/Antianginal Use</title>
   <para id="para-00030"><emphasis effect="bold">The client should:</emphasis>
@@ -290,7 +284,7 @@
           </problem>
          </exercise>
 </note>
-  </section>
+</section>
   </content>
 
   <glossary>

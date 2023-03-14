@@ -20,7 +20,7 @@
        <note class="special-considerations" id="note-00001">
         <title>Nitrates</title>
         <para id="para-00003">
-          Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.<emphasis effect="italics">Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/</emphasis>
+          Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/
         </para>
        </note>
        <para id="para-00004">
@@ -68,7 +68,7 @@
         <caption>Drug Emphasis Table: Beta Blockers</caption>
       </table>
 
-      <table id="table_18_07_002" summary="Alt text here.">
+      <table id="table_18_07_002" class="vertically-tight" summary="Alt text here.">
         <tgroup cols="2">
           <tbody>
           <row>
@@ -82,7 +82,6 @@
               <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
               <emphasis effect="bold"><span class="blue-text">Adult:</span></emphasis> 50–400 mg orally twice daily<newline/>
               <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> immediate release 1–2 mg/kg orally daily in 2 doses, maximum dose 6 mg/kg, 200 mg daily<newline/>
-              <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> sustained release 1 mg/kg daily orally, maximum dose 200 mg daily
             </entry>
           </row>
           <row>
@@ -99,7 +98,7 @@
               <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
               <emphasis effect="italics">Albuterol</emphasis> (Ventolin)<newline/>
               <emphasis effect="italics">Clonidine</emphasis> (Catapres)<newline/>
-              <emphasis effect="italics">Mefloquine</emphasis> (Lariam)<newline/>
+              <emphasis effect="italics">Mefloquine</emphasis> (Lariam)<newline count="2"/>
 
               <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
               Caffeine<newline/>
@@ -109,19 +108,17 @@
           </row>
           <row>
             <entry>
-              <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis>
-              <list list-type="bulleted" bullet-style="none" id="list-00002">
-                <item>Fatigue/weakness</item>
-                <item>Dizziness</item>
-                <item>Headache</item>
-                <item>Blurred vision</item>
-                <item>Dry mouth</item>
-                <item>Nausea/vomitting/diarrhea</item>
-                <item>Drowsiness/insomnia</item>
-                <item>Tinnitus</item>
-                <item>Peripheral edema</item>
-                <item>Erectile dysfunction</item>
-              </list>
+              <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+              Fatigue/weakness<newline/>
+                Dizziness<newline/>
+                Headache<newline/>
+                Blurred vision<newline/>
+                Dry mouth<newline/>
+                Nausea/vomitting/diarrhea<newline/>
+                Drowsiness/insomnia<newline/>
+                Tinnitus<newline/>
+                Peripheral edema<newline/>
+                Erectile dysfunction<newline/>
             </entry>
             <entry>
               <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
@@ -184,7 +181,7 @@
           <item>Use patches for acute chest pain.</item>
           <item>Take erectile dysfunction medications with nitrates because this may cause profound hypotension.</item>
         </list>
-        <emphasis effect="bold"><emphasis effect="italics">Other Concerns</emphasis></emphasis>
+        <emphasis effect="bold">Other Concerns:</emphasis>
         <list list-type="bulleted" id="list-00008">
           <item>Headaches may occur with the use of nitrates. Acetaminophen may help in relieving these headaches.</item>
           <item>If low blood pressure develops, the client should lie on their back with legs elevated and notify their health care provider.</item>

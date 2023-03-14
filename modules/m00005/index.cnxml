@@ -49,10 +49,10 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
 
     <table id="table_18_04_001" class="vertically-tight">
       <tgroup cols="2">
-        <thead class="blue-text">
+        <thead>
           <row>
-            <entry>Drug</entry>
-            <entry>Routes and Dosage Ranges</entry>
+            <entry><span class="blue-text">Drug</span></entry>
+            <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
           </row>
         </thead>
         <tbody>
@@ -117,7 +117,6 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
             <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
             <emphasis effect="bold"><span class="blue-text">Adult:</span></emphasis> 50–400 mg orally twice daily<newline/>
             <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> immediate release 1–2 mg/kg orally daily in 2 doses, maximum dose 6 mg/kg, 200 mg daily<newline/>
-            <emphasis effect="bold"><span class="blue-text">Pediatric:</span></emphasis> sustained release 1 mg/kg daily orally, maximum dose 200 mg daily
           </entry>
         </row>
         <row>
@@ -144,19 +143,17 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
         </row>
         <row>
           <entry>
-            <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis>
-            <list list-type="bulleted" bullet-style="none" id="list-00002">
-              <item>Fatigue/weakness</item>
-              <item>Dizziness</item>
-              <item>Headache</item>
-              <item>Blurred vision</item>
-              <item>Dry mouth</item>
-              <item>Nausea/vomitting/diarrhea</item>
-              <item>Drowsiness/insomnia</item>
-              <item>Tinnitus</item>
-              <item>Peripheral edema</item>
-              <item>Erectile dysfunction</item>
-            </list>
+            <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline />
+            Fatigue/weakness<newline />
+              Dizziness<newline />
+              Headache<newline />
+              Blurred vision<newline />
+              Dry mouth<newline />
+              Nausea/vomitting/diarrhea<newline />
+              Drowsiness/insomnia<newline />
+              Tinnitus<newline />
+              Peripheral edema<newline />
+              Erectile dysfunction<newline />
           </entry>
           <entry>
             <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
@@ -207,7 +204,7 @@ Asthmatic clients and clients with chronic lung diseases should be monitored car
         <list list-type="bulleted" id="list-00004">
           <item>Take beta-adrenergic blockers with OTC drugs or herbal supplements such as ma-huang, ephedra, black cohosh, hawthorne, or licorice without consulting their health care provider, because these supplements may interfere with the action of the beta-adrenergic blocker.</item>
         </list>
-        <emphasis effect="bold">Other concers:</emphasis>
+        <emphasis effect="bold">Other concerns:</emphasis>
         <list list-type="bulleted" id="list-00005">
           <item>Beta-adrenergic blockers can induce hyperglycemia. Diabetic clients should monitor blood glucose levels closely.</item>
         </list>

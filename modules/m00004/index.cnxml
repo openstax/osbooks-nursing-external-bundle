@@ -28,8 +28,8 @@
   <tgroup cols="2">
     <thead>
       <row>
-        <entry>Drug</entry>
-        <entry>Routes and Dosage Ranges</entry>
+        <entry><span class="blue-text">Drug</span></entry>
+        <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
     </thead>
     <tbody>
@@ -114,16 +114,14 @@
     </row>
     <row>
       <entry>
-        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis>
-        <list list-type="bulleted" bullet-style="none" id="list-00002">
-          <item>Hematuria</item>
-          <item>Dizziness</item>
-          <item>Syncope</item>
-          <item>Increased thirst</item>
-          <item>Decreased urinary output</item>
-          <item>Irregular heartbeat</item>
-          <item>Angioedema</item>
-        </list>
+        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+        Hematuria<newline/>
+          Dizziness<newline/>
+          Syncope<newline/>
+          Increased thirst<newline/>
+          Decreased urinary output<newline/>
+          Irregular heartbeat<newline/>
+          Angioedema<newline/>
       </entry>
       <entry>
         <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
@@ -145,7 +143,7 @@
     <note class="special-considerations" id="note-00001">
       <title>ARBs</title>
       <para id="para-00006">
-        The renin angiotensin system has been associated with increased risk of mood disorders. The use of ARBs may be associated with an increased risk of suicide compared with other antihypertensive therapies. African Americans and clients of African descent with hypertension demonstrate a lower response to ARB monotherapy. Concomitant therapy may be required to increase response to antihypertensive therapies.Older adults and clients with hepatic impairment should start on a low initial dose due to the drug being metabolized by the liver. <cite id="cite-00001">Source: https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf</cite>
+        The renin angiotensin system has been associated with increased risk of mood disorders. The use of ARBs may be associated with an increased risk of suicide compared with other antihypertensive therapies. African Americans and clients of African descent with hypertension demonstrate a lower response to ARB monotherapy. Concomitant therapy may be required to increase response to antihypertensive therapies.Older adults and clients with hepatic impairment should start on a low initial dose due to the drug being metabolized by the liver. Source: https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf
       </para>
     </note>
   </section>

@@ -257,7 +257,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
       </thead>
       <tbody>
       <row class="header-row">
-        <entry namest="c1" nameend="c4">Grains</entry>
+        <entry namest="c1" nameend="c4"><emphasis effect="bold">Grains</emphasis></entry>
       </row>
       <row>
         <entry>Ready-to-eat cereal, high fiber, unsweetened</entry>
@@ -278,7 +278,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
         <entry/>
       </row>
       <row class="header-row">
-        <entry namest="c1" nameend="c4">Vegetables</entry>
+        <entry namest="c1" nameend="c4"><emphasis effect="bold">Vegetables</emphasis></entry>
       </row>
       <row>
         <entry>Breadfruit, cooked</entry>
@@ -395,7 +395,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
         <entry>4.8</entry>
       </row>
       <row class="header-row">
-        <entry namest="c1" nameend="c4">Fruit</entry>
+        <entry namest="c1" nameend="c4"><emphasis effect="bold">Fruit</emphasis></entry>
       </row>
       <row>
         <entry>Sapote or Sapodilla</entry>
@@ -526,7 +526,7 @@ If the client has dentures, bridges, or other removable dental appliances, have 
       </entry>
     </row>
     <row class="header-row">
-      <entry namest="c1" nameend="c4">Nutritional Assessment and Analysis</entry>
+      <entry namest="c1" nameend="c4" align="center"><emphasis effect="bold">Nutritional Assessment and Analysis</emphasis></entry>
     </row>
     <row>
       <entry namest="c1" nameend="c4"><para id="para-00035">Jim and his wife have replaced white bread with whole wheat options, limited meat to one meal/day, replaced dairy with soy milk, and added more vegetables to their daily meals. They plan their meals together, although Jim admits his wife typically prepares the food. He states he has problems finding best options at restaurants, especially since they eat out frequently.</para></entry>

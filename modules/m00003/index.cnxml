@@ -18,7 +18,7 @@
 
     <section id="sect-00001">
       <title>Introduction and Use</title>
-    <para id="para-00002"><term id="term-00001">Angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II causes vasoconstriction and inhibits the reuptake of norepinephrine, which stimulates catecholamine release. The release of catecholamine decreases urinary excretion of sodium and water, which then causes the release of aldosterone. Aldosterone stimulates the hypertrophy of the vascular smooth muscles, causing thickening of the vascular smooth muscle wall, thereby restricting blood flow. ACE inhibitors (see <link target-id="pharma_fig_18_02_001"/> are used to treat hypertension and cardiovascular diseases. They are the first line of treatment for clients who have hypertension and a comorbidity of diabetes.</para>
+    <para id="para-00002"><term id="term-00001">Angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II causes vasoconstriction and inhibits the reuptake of norepinephrine, which stimulates catecholamine release. The release of catecholamine decreases urinary excretion of sodium and water, which then causes the release of aldosterone. Aldosterone stimulates the hypertrophy of the vascular smooth muscles, causing thickening of the vascular smooth muscle wall, thereby restricting blood flow. ACE inhibitors (see <link target-id="pharma_fig_18_02_001"/>) are used to treat hypertension and cardiovascular diseases. They are the first line of treatment for clients who have hypertension and a comorbidity of diabetes.</para>
     <figure id="pharma_fig_18_02_001">
       <media alt="Alt text here.">
         <image mime-type="png" src="../../media/pharma_fig_18_02_001.png"/>
@@ -28,7 +28,7 @@
     <note class="special-considerations" id="note-00001">
       <title>ACE Inhibitors</title>
       <para id="para-00003">
-        African Americans and clients of African descent with hypertension demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Clients of African Americans and African descent often have hypertension, but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies. <cite id="cite-00001">Source: https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf</cite>
+        African Americans and clients of African descent with hypertension demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Clients of African Americans and African descent often have hypertension, but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies. Source: https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf
       </para>
     </note>
     <para id="para-00004"><link target-id="table_18_02_001"/> lists common ACE inhibitors and typical routes and dosing for adults and pediatric clients. <link target-id="table_18_02_002"/> is a drug prototype table for ACE inhibitors featuring enalapril. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -161,9 +161,9 @@
         </row>
         <row>
           <entry>
-            <para id="para-00010"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></para>
-            <para id="para-00011">To control hypertension</para>
-            <para id="para-00012">In the treatment of symptomatic congestive heart failure</para>
+            <para id="para-00010"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline />
+            To control hypertension<newline />
+            In the treatment of symptomatic congestive heart failure</para>
 
             <para id="para-00013"><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
             Lowers blood pressure<newline/>
@@ -181,21 +181,19 @@
         </row>
         <row>
           <entry>
-            <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis>
-            <list list-type="bulleted" bullet-style="none" id="list-00002">
-              <item>Angioedema</item>
-              <item>Fatigue</item>
-              <item>Orthostatic hypotensions</item>
-              <item>Asthenia</item>
-              <item>Diarrhea</item>
-              <item>Nausea/Vomiting</item>
-              <item>Headache</item>
-              <item>Dizzieness/Vertigo</item>
-              <item>Cough</item>
-              <item>Rash</item>
-              <item>Abdominal pain</item>
-              <item>Angina</item>
-            </list>
+            <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+              Angioedema<newline/>
+              Fatigue<newline/>
+              Orthostatic hypotensions<newline/>
+              Asthenia<newline/>
+              Diarrhea<newline/>
+              Nausea/Vomiting<newline/>
+              Headache<newline/>
+              Dizzieness/Vertigo<newline/>
+              Cough<newline/>
+              Rash<newline/>
+              Abdominal pain<newline/>
+              Angina<newline/>
           </entry>
           <entry>
             <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>

@@ -235,10 +235,10 @@
   <title>Basic Formula Method</title>
 <para id="para-00011">The basic formula method is the simplest of the drug calculation methods.</para>
 
-<equation id="eq-00001">
+<equation id="eq-00001" >
   <m:math display="block">
     <m:mrow>
-      <m:mtable>
+      <m:mtable align="center">
         <m:mtr>
           <m:mtd columnalign="left"><m:mi>D</m:mi></m:mtd>
           <m:mtd columnalign="left"><m:mi>D</m:mi><m:mo>=</m:mo><m:mtext>desired dose (dose ordered)</m:mtext></m:mtd>
@@ -373,7 +373,7 @@
     </list>
     
     <list list-type="bulleted" bullet-style="none" id="list-00006">
-      <title>Example</title>
+      <title><emphasis effect="bold">Example</emphasis></title>
       <item>Order: Lisinopril 10 mg po bid</item>
       <item>Available: Lisinopril 2.5 mg</item>
       <item>How many tablets should the patient receive per dose?</item>
@@ -398,7 +398,7 @@
             <m:mtr>
               <m:mtd columnalign="right"><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>:</m:mo><m:mn>1</m:mn><m:mtext>tablet</m:mtext><m:mo>:</m:mo><m:mn>10</m:mn><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>:</m:mo><m:mi>X</m:mi><m:mtext>tablets</m:mtext></m:mrow></m:mtd>
               <m:mtd/>
-              <m:mtd/>
+
             </m:mtr>
             <m:mtr>
               <m:mtd columnalign="right"><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:mi>X</m:mi></m:mtd>
@@ -442,6 +442,9 @@
 
         <table id="table_02_04" summary="Alt text here.">
           <tgroup cols="3">
+            <colspec colnum="1" colname="c1" colwidth="1*"/>
+            <colspec colnum="2" colname="c2" colwidth="1*"/>
+            <colspec colnum="3" colname="c3" colwidth="1*"/>
             <thead>
               <row>
                 <entry>Formula Method</entry>
@@ -463,17 +466,17 @@
                 </entry>
                 <entry>
                   <m:math>
-                    <m:mi>K</m:mi><m:mi>R</m:mi><m:mtext> (known ratio)</m:mtext><m:mo>:</m:mo>
-                    <m:mi>U</m:mi><m:mi>R</m:mi><m:mtext> (unknown ratio)</m:mtext>
+                    <m:mrow><m:mi>K</m:mi><m:mi>R</m:mi><m:mtext> (known ratio)</m:mtext><m:mo>:</m:mo></m:mrow><m:mrow>
+                    <m:mi>U</m:mi><m:mi>R</m:mi><m:mtext> (unknown ratio)</m:mtext></m:mrow>
                     <m:mo>=</m:mo>
                     <m:mi>X</m:mi><m:mtext> (amount calculated to be administered)</m:mtext>
                   </m:math>
                 </entry>
                 <entry>
                   <m:math>
-                    <m:mi>O</m:mi><m:mi>A</m:mi><m:mo>×</m:mo><m:mi>D</m:mi><m:mi>S</m:mi>
+                    <m:mrow><m:mi>O</m:mi><m:mi>A</m:mi><m:mo>×</m:mo><m:mi>D</m:mi><m:mi>S</m:mi></m:mrow>
                     <m:mo>=</m:mo>
-                    <m:mi>D</m:mi><m:mi>A</m:mi><m:mtext> (desired amount calculated to be administered to patient)</m:mtext>
+                    <m:mrow><m:mi>D</m:mi><m:mi>A</m:mi></m:mrow><m:mtext> (desired amount calculated to be administered to patient)</m:mtext>
                   </m:math>
                 </entry>
               </row>

@@ -111,7 +111,7 @@
           <entry>12 grams</entry>
         </row>
         <row>
-          <entry>Beans (kidney, pinto, black, garbanzo</entry>
+          <entry>Beans (kidney, pinto, black, garbanzo)</entry>
           <entry>5 1/2 cups, cooked</entry>
           <entry>39 grams</entry>
         </row>
@@ -337,7 +337,7 @@
         </entry>
       </row>
       <row class="header-row">
-        <entry namest="c1" nameend="c2">Nutritional Assessment and Analysis</entry>
+        <entry namest="c1" nameend="c2" align="center"><emphasis effect="bold">Nutritional Assessment and Analysis</emphasis></entry>
       </row>
       <row class="header-row">
         <entry>Assessment</entry>
@@ -361,6 +361,31 @@
           </list>
         </entry>
         <entry>
+          <list list-type="bulleted" bullet-style="none" id="list-00011">
+            <item><emphasis effect="bold">Breakfast</emphasis></item>
+            <item>229 calories</item>
+            <item>Protein: 78 grams</item>
+            <item>Carbohydrates: 126 grams</item>
+            <item>Fats: 36 grams</item>
+            <item><emphasis effect="bold">Lunch</emphasis></item>
+            <item>1048 calories</item>
+            <item>Protein: 38 grams</item>
+            <item>Carbohydrates: 159 grams</item>
+            <item>Fats: 43 grams</item>
+            <item><emphasis effect="bold">Dinner</emphasis></item>
+            <item>760 calories</item>
+            <item>Protein: 62 grams</item>
+            <item>Carbohydrates: 80 grams</item>
+            <item>Fats: 26 grams</item>
+            <item><emphasis effect="bold">Snack</emphasis></item>
+            <item>95 calories</item>
+            <item>Protein: 2.5 grams</item>
+            <item>Carbohydrates: 24 grams</item>
+            <item>Fats: 0.5 grams</item>
+          </list>
+
+
+          <!-- TABLE WITHIN A TABLE. TRYING A LIST TO SEE IF IT LOOKS BETTER
           <table class="unnumbered no-cellborder" id="table-00002">
             <tgroup cols="2">
               <tbody>
@@ -446,7 +471,7 @@
                 </row>
               </tbody>
             </tgroup>
-          </table>
+          </table>-->
         </entry>
         </row>
     </tbody>

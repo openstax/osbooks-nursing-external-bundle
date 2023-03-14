@@ -42,11 +42,11 @@
               <entry>Drug</entry>
               <entry>Routes and Dosage Ranges: Adults</entry>
             </row>
-            <row>
-              <entry namest="c1" nameend="c2">Thiazide and Thiazide-like Diuretics</entry>
-            </row>
           </thead>
           <tbody>
+            <row class="header-row">
+              <entry namest="c1" nameend="c2" align="center"><emphasis effect="bold">Thiazide and Thiazide-like Diuretics</emphasis></entry>
+            </row>
             <row>
               <entry align="center">Chlorthalidone<newline/>
                 (Thalitone)
@@ -60,7 +60,7 @@
                 <entry>25–100 mg daily, orally </entry>
             </row>
             <row class="header-row">
-              <entry namest="c1" nameend="c2" align="center">Potassium-Sparing Diuretics</entry>
+              <entry namest="c1" nameend="c2" align="center"><emphasis effect="bold">Potassium-Sparing Diuretics</emphasis></entry>
             </row>
             <row>
               <entry align="center">Amiloride<newline/>
@@ -88,6 +88,20 @@
     <emphasis effect="bold">The client should:</emphasis>
     <list list-type="bulleted" id="list-00002">
        <item>Take diuretics as prescribed by the health care provider.</item>
+       <item/>
+       <item/>
+       <item/>
+    </list>
+    <emphasis effect="bold">Thiazide/Thiazide-Like Diuretics:</emphasis>
+    <list list-type="bulleted" id="list-00003">
+       <item>The client should report side effects such as hypotension, fatigue, bleeding, weakness, and leg cramps to their health care provider.</item>
+       <item>The client should eat potassium-rich foods, such as avocados, bananas, and spinach, to replace potassium.</item>
+       <item>Diabetics and pre-diabetics should monitor their blood glucose levels carefully due to these diuretics’ effects on carbohydrate metabolism.</item>
+    </list>
+    <emphasis effect="bold">Potassium-Sparing Diuretics:</emphasis>
+    <list list-type="bulleted" id="list-00004">
+       <item>The client should avoid exposure to direct sunlight, because spironolactone can cause photosensitivity.</item>
+       <item>If potassium levels are high, the client should avoid potassium-rich foods such as avocados, bananas, beans, and spinach.</item>
     </list>
     </note>
   </section>
