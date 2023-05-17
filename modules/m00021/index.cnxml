@@ -629,8 +629,11 @@ Neurological: Within normal limits<newline/>
 Integumentary: No wounds noted. Skin appropriate for age.
 </entry>
   </row>
-  <row><entry namest="c1" nameend="c2">
-  <exercise id="exer-00001">
+
+</tbody>
+</tgroup>
+</table>
+ <exercise id="exer-00001">
           <problem id="prob-00001">
             <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_1_01"/></para>
           </problem>
@@ -640,11 +643,6 @@ Integumentary: No wounds noted. Skin appropriate for age.
             <para id="para-00037"><link class="os-embed" url="#exercise/pharm_18_1_02"/></para>
           </problem>
          </exercise>
-         </entry></row>
-</tbody>
-</tgroup>
-</table>
-
 </note>
 
 
@@ -707,8 +705,11 @@ Integumentary: No wounds noted. Skin appropriate for age.
 
 </entry>
   </row>
-  <row><entry namest="c1" nameend="c2">
-  <exercise id="exer-00009">
+
+</tbody>
+</tgroup>
+</table>
+ <exercise id="exer-00009">
           <problem id="prob-00004">
             <para id="para-00031"><link class="os-embed" url="#exercise/pharm_18_1_01"/></para>
           </problem>
@@ -718,11 +719,6 @@ Integumentary: No wounds noted. Skin appropriate for age.
             <para id="para-00039"><link class="os-embed" url="#exercise/pharm_18_1_02"/></para>
           </problem>
          </exercise>
-         </entry></row>
-</tbody>
-</tgroup>
-</table>
-
 </note>
 </section>
 
