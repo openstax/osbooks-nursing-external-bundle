@@ -583,6 +583,149 @@
     </para>
 <para id="para-00018">Next, rounding is determined by how many places from the decimal point are appropriate. If a number to the right of the decimal point needs to be rounded and it is 4 or less, then it is rounded down. For example, if the number is 1.231 and you are rounding to the nearest tenth, the number would be rounded 1.2. If a number to the right of the decimal point is 5 or greater, then it should be rounded up. For example, if the number is 1.251 and you are rounding to the nearest tenth, the number would be rounded to 1.3.
 </para>
+
+
+<note id="newadd" class="unfolding-casestudy">
+ <title>Unfolding Case Study: Part A</title>
+   <para id="readit">Read the following clinical scenario to answer the knowledge check questions that follow. This case will evolve throughout the chapter.</para>
+   
+
+<table class="unnumbered" id="newtable">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+
+<tbody>
+  <row>
+   <entry namest="c1" nameend="c2">Mrs. Denise Brown is a 65-year-old Black client who presented to her health care provider’s office reporting fatigue, an increase in urination, feeling thirsty all the time, and blurred vision for the past three months. She has a history of hyperlipidemia and hypertension. </entry>
+  </row>
+  <row>
+    <entry namest="c1" nameend="c2"><emphasis>History</emphasis><newline/>
+Hyperlipidemia<newline/>
+Hypertension<newline/>
+Does not exercise or follow a special diet<newline/>
+<emphasis>Current Medications</emphasis><newline/>
+Atorvastatin 20 mg once daily<newline/>
+Amlodipine 10 mg once daily</entry>
+
+</row>
+<row>
+    <entry><emphasis>Vital Signs</emphasis><newline/>
+Temperature: 97.8°F<newline/>
+Blood pressure: 102/74 mm Hg<newline/>
+Heart rate: 78 beats/min<newline/>
+Respiratory rate: 20 breaths/min<newline/>
+Oxygen saturation: 95% on room air<newline/>
+Height: 5’5"<newline/>
+Weight: 188 pounds
+</entry>
+    <entry><emphasis>Physical Examination</emphasis><newline/>
+Head, eyes, nose, throat (HEENT): Within normal limits<newline/>
+Cardiovascular: No jugular vein distention or peripheral edema noted. S1, S2 heard on auscultation.<newline/>
+Respiratory: Clear to auscultation bilaterally<newline/>
+GI: Abdomen soft, nontender, nondistended<newline/>
+GU: Reports increased urine output<newline/>
+Neurological: Within normal limits<newline/>
+Integumentary: No wounds noted. Skin appropriate for age.
+</entry>
+  </row>
+  <row><entry namest="c1" nameend="c2">
+  <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00036"><link class="os-embed" url="#exercise/pharm_18_1_01"/></para>
+          </problem>
+         </exercise>
+         <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00037"><link class="os-embed" url="#exercise/pharm_18_1_02"/></para>
+          </problem>
+         </exercise>
+         </entry></row>
+</tbody>
+</tgroup>
+</table>
+
+</note>
+
+
+
+<note id="newadd2" class="unfolding-casestudy">
+ <title>Unfolding Case Study: Part B</title>
+   <para id="case2">Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up to <link target-id="newadd">Unfolding Case Study: Part A</link>.</para>
+   
+
+<table class="unnumbered" id="NEWERTABLE">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+
+<tbody>
+  <row>
+   <entry namest="c1" nameend="c2">Mrs. Brown was diagnosed with type 2 diabetes, and the health care provider prescribed extended release glipizide 5 mg orally and lifestyle modifications. Mrs. Brown returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.<newline/>
+   <table class="unnumbered" id="sonewman">
+<title>Laboratory Results</title>
+<tgroup cols="3">
+<thead>
+  <row><entry/>
+    <entry>6 Months Ago</entry>
+    <entry>Today</entry>
+  </row>
+</thead>
+<tbody>
+  <row>
+      <entry>Glycosylated hemoglobin </entry>
+
+    <entry>7.8%</entry>
+    <entry>6.9%</entry>
+  </row>
+</tbody>
+</tgroup>
+<caption></caption>
+</table>
+   </entry>
+  </row>
+
+<row>
+    <entry><emphasis>Vital Signs</emphasis><newline/>
+Temperature: 97.4°F<newline/>
+Blood pressure: 108/72 mm Hg<newline/>
+Heart rate: 84 beats/min<newline/>
+Respiratory rate: 18 breaths/min<newline/>
+Oxygen saturation: 97% on room air<newline/>
+Height: 5’5"<newline/>
+Weight: 173 pounds
+
+</entry>
+    <entry><emphasis>Physical Examination</emphasis><newline/>
+Head, eyes, nose, throat (HEENT): Within normal limits<newline/>
+Cardiovascular: No jugular vein distention or peripheral edema. S1, S2 heard on auscultation<newline/>
+Respiratory: Breath sounds clear bilaterally<newline/>
+GI: Abdomen soft, nontender, nondistended<newline/>
+GU: Within normal limits<newline/>
+Neurological: Within normal<newline/>
+Integumentary: No wounds noted. Skin appropriate for age.
+
+</entry>
+  </row>
+  <row><entry namest="c1" nameend="c2">
+  <exercise id="exer-00009">
+          <problem id="prob-00004">
+            <para id="para-00031"><link class="os-embed" url="#exercise/pharm_18_1_01"/></para>
+          </problem>
+         </exercise>
+         <exercise id="exer-00003">
+          <problem id="prob-00005">
+            <para id="para-00039"><link class="os-embed" url="#exercise/pharm_18_1_02"/></para>
+          </problem>
+         </exercise>
+         </entry></row>
+</tbody>
+</tgroup>
+</table>
+
+</note>
 </section>
+
+
   </content>
 </document>
