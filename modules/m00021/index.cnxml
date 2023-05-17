@@ -159,6 +159,8 @@
   </table>
 
         <note class="practice-problems" id="note-00001">
+        <para id="practiceprob">Lorem some ipsum and all that, here is a problem that we are using to practice.</para>
+        <exercise id="practiceproblem"><problem id="lldjjjd2">
           <list list-type="enumerated" id="list-00002">
             <item>
               <m:math>
@@ -200,9 +202,9 @@
                 </m:mrow>
               </m:math>
             </item>
-          </list>
-          <para id="para-00008">Correct Answers: 1. 1; 2. 1; 3. 1.5; 4. 1; 5. 1000; 6. 2</para>
-        </note>
+          </list></problem>
+<solution id="sdkjfhsk">          <para id="para-00008">Correct Answers: 1. 1; 2. 1; 3. 1.5; 4. 1; 5. 1000; 6. 2</para></solution>
+</exercise>        </note>
   </section>
   <section id="sect-00006">
     <title>Drug Labels and Precautions</title>
