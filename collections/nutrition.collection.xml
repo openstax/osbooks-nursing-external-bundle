@@ -1,17 +1,34 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>7db4d55f-5c0e-4c05-8b72-841685444165</md:uuid>
     <md:title>Nutrition</md:title>
     <md:slug>nutrition</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
     <md:language>en</md:language>
+    <md:uuid>7db4d55f-5c0e-4c05-8b72-841685444165</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-
+    <col:subcollection>
+      <md:title>Nutrition Basics for Nurses</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Nutrition for Nurses</md:title>
+          <col:content>
+            <col:module document="m00001"/>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+            <col:module document="m00006"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>A Holistic View of Macronutrients</md:title>
+          <col:content>
+            <col:module document="m00007"/>
+            <col:module document="m00008"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
