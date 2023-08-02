@@ -9,7 +9,9 @@
   <col:content>
     <col:subcollection>
       <md:title/>
-      <col:content/>
+      <col:content>
+        <col:module document="m00008"/>
+      </col:content>
     </col:subcollection>
   </col:content>
 </col:collection>
