@@ -6,8 +6,203 @@
     <md:uuid>a2e6375b-0097-414c-9542-cb75d7aa6297</md:uuid>
   </metadata>
  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+  <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section you should be able to:</para>
+    <list id="list-00001">
+    <item>LO 4.4.1 Describe the homeostasis of gut health.</item>
+    <item>LO 4.4.2 Describe the impact of diet on gut health.</item>
+    <item>LO 4.4.3 Identify the impact of pharmacology on gut health.</item>
+    <item>LO 4.4.4 Identify pathophysiology and gut health.</item>
+    </list>
     </section>
+    <section id="sect-00002">
+    <title>Gut Health Homeostasis</title>
+    <para id="para-00002">For healthy digestion and absorption of food and nutritional health, the gut must maintain a healthy <term id="term-00001">homeostasis</term>, the equilibrium maintained in the body through physiological processes and evidenced by <term class="no-emphasis" id="term-00002">intestinal microbiota</term> growth. The nurse plays an important role in client education that leads to optimal nutritional health.</para>
+    <para id="para-00003">The composition of the gut’s microbial growth has a strong impact on the <term class="no-emphasis" id="term-00003">homeostasis of the gut</term>. When the gut is not in a state of homeostasis, the imbalance that results can cause <term id="term-00004">dysbiosis</term>, a disruption to the gut microbiome. Many diseases have been linked to dysbiosis, including anxiety, depression, hypertension, cardiovascular disease, cancer, inflammatory bowel disease, obesity, and diabetes, so the impact of an unhealthy gut surpasses just gastrointestinal health (Afzaal et al., 2022).</para>
+    <para id="para-00004">To maintain proper <term class="no-emphasis" id="term-00005">gut homeostasis</term>, bacterial growth requires energy in the form of adenosine triphosphate and oxygen (Lee et al., 2022). Dietary factors, antibiotics, and underlying host conditions can reduce oxygen consumption in the colonic epithelium, thereby reducing the available oxygen to the indigenous microbes.</para>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00006">microbiota</term> of the gut has many functions in the body. These bacterial residents help control nutrient <term class="no-emphasis" id="term-00007">metabolism</term>, defend against <term class="no-emphasis" id="term-00008">pathogens</term>, contribute to carbohydrate digestion, synthesize methane from hydrogen processed by bacterial metabolism, neutralize <term class="no-emphasis" id="term-00009">carcinogens</term>, and synthesize <term class="no-emphasis" id="term-00010">biotin</term>, <term class="no-emphasis" id="term-00011">folate</term>, and <term class="no-emphasis" id="term-00012">vitamin K</term> (Afzaal et al., 2022).</para>
+    </section>
+    <section id="sect-00003">
+    <title>Diet and Gut Health</title>
+    <para id="para-00006">Diet directly impacts the health of microbial growth (Lee et al., 2022). There are numerous foods that have a positive impact on <term class="no-emphasis" id="term-00013">gut health</term>. For example, fiber diets, water intake, fruits and vegetables, whole grains, and an overall well-balanced diet have shown positive effects. Yogurt is known to have a positive impact because it contains active bacterial cultures, which have been shown to be supportive of the gut microbiome environment (Stanford Medicine Children’s Health, 2023a). <term class="no-emphasis" id="term-00014">High-fat diets</term>, in contrast, have been shown to have a negative impact. They tend to contribute to <term class="no-emphasis" id="term-00015">diabetes</term>, <term class="no-emphasis" id="term-00016">obesity</term>, <term class="no-emphasis" id="term-00017">metabolic syndrome</term>, and <term class="no-emphasis" id="term-00018">colon cancer</term> (Afzaal et al., 2022; Baton Rouge General, 2023). In addition, high <term class="no-emphasis" id="term-00019">sodium intake</term> and <term class="no-emphasis" id="term-00020">alcohol use</term> can contribute to <term class="no-emphasis" id="term-00021">dysbiosis</term> and have been linked to <term class="no-emphasis" id="term-00022">hypertension</term>.</para>
+    <para id="para-00007">A nurse can make a direct impact on client health by educating clients on why diet, gut microbiota, and <term class="no-emphasis" id="term-00023">homeostasis</term> are important. The nurse should speak to the specific reasons why fiber, water, <term class="no-emphasis" id="term-00024">probiotics</term>, and whole grains are valuable in a diet and why <term class="no-emphasis" id="term-00025">saturated fats</term>, <term class="no-emphasis" id="term-00026">alcohol</term>, and <term class="no-emphasis" id="term-00027">sodium</term> are areas of concern. The nurse should discuss with the client understands which types of food to increase or decrease. <link target-id="table-00001" document="m00020"/> lists common foods and their impact on the gastrointestinal system.</para>
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="2">
+    <thead>
+    <row>
+    <entry><span class="blue-text">Food</span></entry>
+    <entry><span class="blue-text">Impact on Gastrointestinal System</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry>Fresh fruits and vegetables, lentils, kidney beans, split peas, chickpeas, quinoa, oats, popcorn, almonds, chia seeds, sweet potatoes, and dark chocolate</entry>
+    <entry>These foods are high in <term class="no-emphasis" id="term-00028">fiber</term> and help maintain <term class="no-emphasis" id="term-00029">gut homeostasis</term>, reduce <term class="no-emphasis" id="term-00030">cholesterol</term>, promote healthy weight through <term class="no-emphasis" id="term-00031">satiety</term>, reduce <term class="no-emphasis" id="term-00032">constipation</term> by adding bulk to stool, and possibly reduce gastrointestinal cancer risks due to potential <term class="no-emphasis" id="term-00033">antioxidant properties</term> (Gunnars, 2020; Moffitt Cancer Center, 2023).</entry>
+    </row>
+    <row>
+    <entry>Water</entry>
+    <entry>Increasing fiber requires increasing <term class="no-emphasis" id="term-00034">water</term> in the diet to ensure there is sufficient water in the stool to account for the added bulk.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00035">Saturated fats</term> (found in fatty cuts of meat, pies, sausage, butter, lard, cheddar cheese, ice cream, sour cream, biscuits, cakes, pastries, milk chocolate confectionaries, palm oil, coconut oil, and coconut cream)</entry>
+    <entry>Saturated fats can lead to gut imbalance (Afzaal et al, 2022), raise <term class="no-emphasis" id="term-00036">bad cholesterol</term> levels (NHS, 2023), and increase <term class="no-emphasis" id="term-00037">colon cancer</term> risks (Baton Rouge General, 2023).</entry>
+    </row>
+    <row>
+    <entry>High-sodium foods (breads and rolls; pizza; sandwiches; cold cuts and cured meats; soups; burritos and tacos; savory snacks like chips, popcorn, pretzels, snack mixes, and crackers; chicken; cheese; eggs; and omelets)</entry>
+    <entry>High amounts of <term class="no-emphasis" id="term-00038">sodium</term> can upset the homeostasis of the gut by increasing <term class="no-emphasis" id="term-00039">dehydration</term>.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Common Foods and Liquids and the Gastrointestinal System</caption>
+    </table>
+    </section>
+    <section id="sect-00004">
+    <title>Pharmacology and Gut Health</title>
+    <para id="para-00008"><term class="no-emphasis" id="term-00040">Pharmacology</term> and nutrition are interdependent because they rely on the same body processes. When the body lacks nutrients, the body’s ability to utilize certain <term class="no-emphasis" id="term-00041">drugs</term> is impacted (Bhupathiraju &amp; Hu, 2023). A lack in nutrients also impacts the body’s ability to properly dispose of toxins from drugs and digestion waste. The nutritional state of a client greatly impacts the ability of their <term class="no-emphasis" id="term-00042">medications</term> to be properly metabolized, used, and excreted.</para>
+    <para id="para-00009"><term class="no-emphasis" id="term-00043">Probiotics</term>, such as <emphasis effect="italics"><term class="no-emphasis" id="term-00044">Lactobacillus</term></emphasis>, are <term class="no-emphasis" id="term-00045">supplements</term> that are known to have positive impacts on the gut microbiome. These are useful in helping clients with dietary restrictions or who are taking certain medications that interfere with gut health. These supplements should be taken in combination with a healthy diet because they do not prevent gastrointestinal issues on their own but rather support healthy practices.</para>
+    <para id="para-00010">There are medications that can help and hurt the microbiota of the gut. <term class="no-emphasis" id="term-00046">Antibiotics</term> are a well-known culprit for altering <term class="no-emphasis" id="term-00047">microbial growth</term>. Long-term antibiotic use has been linked to <emphasis effect="italics"><term class="no-emphasis" id="term-00048">Clostridium difficile</term></emphasis> (<emphasis effect="italics">C. diff</emphasis>) infection and <term class="no-emphasis" id="term-00049">colon cancer</term>. When a client needs antibiotics for longer than three days, it is common practice that they also be given a probiotic to counteract some side effects and the possibility of infection.</para>
+    <para id="para-00011">There are other medications that are lesser known for being harmful. They include:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><term class="no-emphasis" id="term-00050">proton pump inhibitors</term> to treat <term class="no-emphasis" id="term-00051">gastroesophageal reflux disease</term>, which can cause enteric infections like <emphasis effect="italics">C. diff</emphasis> (Weersma et al., 2020);</item>
+    <item><term class="no-emphasis" id="term-00052">metformin</term>, used to treat <term class="no-emphasis" id="term-00053">diabetes mellitus</term>, which can increase <emphasis effect="italics">Escherichia coli</emphasis> (<emphasis effect="italics">E. coli</emphasis>) in the intestines and lower other bacterium, causing imbalances in the microbiome;</item>
+    <item><term class="no-emphasis" id="term-00054">statins</term> to treat <term class="no-emphasis" id="term-00055">hyperlipidemia</term>, which can cause <term class="no-emphasis" id="term-00056">constipation</term> or <term class="no-emphasis" id="term-00057">diarrhea</term>, upsetting the homeostasis in the gut;</item>
+    <item><term class="no-emphasis" id="term-00058">antidepressants</term>, which can kill off beneficial gut bacteria and alter the normal microbiome of the gut;</item>
+    <item><term class="no-emphasis" id="term-00059">opioids</term> to treat chronic pain, which can cause severe bouts of constipation, upsetting the microbiome and preventing the excretion of wastes from the body; and</item>
+    <item><term class="no-emphasis" id="term-00060">laxatives</term>, which can cause disruption of the microbiome through <term class="no-emphasis" id="term-00061">electrolyte disturbances</term>, dehydration, and <term class="no-emphasis" id="term-00062">mineral deficiencies</term>.</item>
+    </list>
+    </section>
+    <section id="sect-00005">
+    <title>Pathophysiology and Gut Health</title>
+    <para id="para-00012"><term class="no-emphasis" id="term-00063">Gut health</term> and its impact on the body are often discussed in relation to bidirectional crosstalk at an axis point between body systems that regulate health relative to one another (Tilg et al., 2022). The gut has many of these axes that connect it to the liver, brain, lung, nervous system, sensory system, etc. The following section will look at the gut and its connection with the liver, brain, and lung.</para>
+    <section id="sect-00006">
+    <title>Gut-Liver, Gut-Brain, and Gut-Lung Axes</title>
+    <para id="para-00013"><term class="no-emphasis" id="term-00064">Gut-liver axis</term> communication happens between nutrients, metabolites, microbial antigens, and bile acids within a microbial community (Ding et al., 2020; Tilg et al., 2022). A disturbance in this gut-liver network has been linked to an increase in <term class="no-emphasis" id="term-00065">hepatic inflammation</term> and <term class="no-emphasis" id="term-00066">hepatic encephalopathy</term> and decompensation of liver <term class="no-emphasis" id="term-00067">cirrhosis</term> (Klein, 2022).</para>
+    <para id="para-00014">The <term class="no-emphasis" id="term-00068">gut-brain axis</term> has been shown to have many devastatingly negative effects. The gut has been shown to produce neuroactive compounds that modulate <term class="no-emphasis" id="term-00069">metabolism</term> and <term class="no-emphasis" id="term-00070">immunity</term> (Benakis &amp; Liesz, 2022), which are essential components to healing after a <term class="no-emphasis" id="term-00071">stroke</term>. Because a stroke leads to intestinal dysmotility and permeability of the intestinal barrier, and thus decreased metabolism and depressed immunity, stroke victims often have impaired healing. <link target-id="table-00002" document="m00020"/> outlines some other diseases connected to the gut-brain connection.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <thead>
+    <row>
+    <entry><span class="blue-text">Disease</span></entry>
+    <entry><span class="blue-text">Impact</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry><term class="no-emphasis" id="term-00072">Parkinson disease</term></entry>
+    <entry>Overgrowth of intestinal bacteria results in an increase in opportunistic pathogens, causing the neurotransmitter L-dopa to be decreased (Wallen et al., 2022). Parkinson disease is directly impacted by the availability of L-dopa, and symptoms are worsened when the availability is decreased.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00073">Multiple sclerosis</term></entry>
+    <entry>Overgrowth of certain gut bacteria causes an imbalance in homeostasis; exacerbations and advancement of the disease can be affected (eBioMedicine, 2022; French, 2022).</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00074">Alzheimer disease</term></entry>
+    <entry>Clients with Alzheimer disease are shown to demonstrate excessive production and aggregation of amyloid-beta peptides that lead to extracellular plaque formation (Sidharthan, 2022). Gut microbiota health impacts the disease because when it is unbalanced, it releases more of certain by-products that can alter inflammatory cytokine-signaling pathways, leading to amyloid-beta peptide accumulation.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00075">Mental health</term></entry>
+    <entry>A link has been found between systemic inflammations and anxiety, depression, and other mental illnesses (GI Associate and Endoscopy Center, 2022a). The health of the gut has a large impact on the inflammatory state of the body. It also has a key function in the release of many neurotransmitters, one of which is serotonin, an important mood neurotransmitter.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00076">Huntington disease</term></entry>
+    <entry>When the gut microbiota is unbalanced, there is an influence on mood, cognition, and sleep, which are already negatively impacted by this disease (Wasser et al., 2020).</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Diseases known to be linked to the gut-brain axis connection.</caption>
+    </table>
+    <para id="para-00015">Due to the recent <term class="no-emphasis" id="term-00077">COVID-19</term> pandemic, the gut-lung axis has been more recently explored. Overall, the gut’s role in the health of the body’s overall immunity and the reduction of systemic <term class="no-emphasis" id="term-00078">inflammation</term> has been applied to COVID-19 infection. The resulting acute respiratory distress syndrome that is a life-threatening effect of the virus is caused by an autoimmune-response-mediated inflammation in the lungs. Overall rates of mortality with COVID-19 are markedly higher for those admitted to the intensive care unit, and those who have gastrointestinal symptoms in conjunction with their respiratory symptoms are much more likely to need intensive care, making gastrointestinal issues a determinant of prognosis (Chen et al., 2020; Cleveland Clinic, 2022b; Ye et al., 2020; Ouali et al., 2021). Long-haul COVID-19 has also become more prevalent. Because clients who have gastrointestinal symptoms with COVID-19 infection have a longer detoxification time after infection, they are at a higher risk for developing long-haul COVID than those without gastrointestinal symptoms.</para>
+    </section>
+    </section>
+    <section class="chapter-summary" id="sect-00007">
+    <list list-type="bulleted" id="list-00003">
+    <item>The gastrointestinal system contains the upper gastrointestinal system (mouth, teeth, tongue, salivary glands, pharynx, esophagus, stomach, and duodenum), the lower gastrointestinal system (small intestine, large intestine, rectum, anal canal, and anus), the accessory digestive organs (liver, gallbladder, and pancreas), and the accessory systems (nervous and sensory systems).</item>
+    <item>While physical assessment of the client is required, the nurse should also obtain a history of the client’s dietary practices, dietary intolerances or allergies, typical eating and bowel patterns, changes in normal eating or bowel patterns, recent unintentional weight loss or gain, and any medical diagnoses or surgical history for proper assessment.</item>
+    <item>Digestive organs ingest, digest, and absorb the food that is taken into the body to convert it to usable energy.</item>
+    <item>The body removes all usable nutrients and water from food intake and then eliminates the rest as a waste product, stool.</item>
+    <item>The nurse’s role is to educate the client on the proper dietary practices that will help maintain gut homeostasis and to evaluate steps the client can take to prevent gut issues when they must take medications that can upset that homeostasis.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00008">
+      <title>Review Questions</title>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00016"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00017"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00018"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00019"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00020"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ5"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00021"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ6"/></para></problem></exercise>
+      <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00022"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ7"/></para></problem></exercise>
+      <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00023"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ8"/></para></problem></exercise>
+      <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ9"/></para></problem></exercise>
+      <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00025"><link class="os-embed" url="#exercise/NUT_Ch04_Sec01_RQ10"/></para></problem></exercise>
+      </section>
+      <section class="suggested-reading" id="sect-00009">
+      <para id="para-00026">Blonski, W., Slone, S., &amp; Richter, J. (2022). Update on the Diagnosis and Treatment of Achalasia. <emphasis effect="italics">Dysphagia</emphasis>. Online ahead of print, https://pubmed.ncbi.nlm.nih.gov/35585208/. DOI: 10.1007/s00455-02210435-3</para>
+      <para id="para-00027">Bryce, C., Bucaj, M., &amp; Gazda, R. (2022). Barrett Esophagus: Rapid Evidence Review. <emphasis effect="italics">American Family Physician, 106</emphasis>(4), 383-387. https://www.aafp.org/pubs/afp/issues/2022/1000/barrett-esophagus.html</para>
+      <para id="para-00028">Friedman, A., Chen, A., Wu, R., Coe, N., Halpern, S., Hwang, U., Kelz, R., &amp; Cappola, A. (2022). Evaluation and Disposition of Older Adults Presenting to the Emergency Department with Abdominal Pain. <emphasis effect="italics">Journal of the</emphasis> <emphasis effect="italics">American Geriatrics Society, 70</emphasis>(2), 501–511. DOI: 10.1111/jgs.17503</para>
+      <para id="para-00029">Katz, P., Dunbar, K., Schnoll-Sussman, F., Greer, K., Yadlapati, R., &amp; Spechler, S. (2022). ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. <emphasis effect="italics">The American Journal of</emphasis> <emphasis effect="italics">Gastroenterology, 117</emphasis>(1), 27–56. DOI: 10.14309/ajg.0000000000001538</para>
+      <para id="para-00030">Thapar, N., Benninga, M., Crowell, M., Lorenzo, C., Mack, I., Nurko, S., Saps, M., Shulman, R., Szajewska, H., van Tilberg, M., &amp; Enck, P. (2020). Paediatric functional abdominal pain disorders. <emphasis effect="italics">Nature Reviews Disease</emphasis> <emphasis effect="italics">Primers 6</emphasis>(89). DOI: https://doi.org/10.1038/s41572-020-00222-5</para>
+      <para id="para-00031">Wolfe, C., Halsey-Nichols, M., Ritter, K., &amp; McCoin, N. (2022). Abdominal Pain in the Emergency Department: How to Select the Correct Imaging for Diagnosis. <emphasis effect="italics">Dove Medical Press, 2022</emphasis>(14), 335–345. https://doi.org/10.2147/OAEM.S342724</para>
+      </section>
+      <section class="references" id="sect-00010">
+      <title>References</title>
+      <para id="para-00032">Afzaal, M., Saeed, F., Shah, Y., Hussain., M., Rabail, R., Socol, C., Hassoun, A., Pateiro, M., Lorenzo, J., Rusu, A., &amp; Aadil, R. (2022). Human Gut Microbiota in Health and Disease: Unveiling the Relationship. <emphasis effect="italics">Frontiers in Microbiology</emphasis>. https://doi.org/10.3389/fmicb.2022.999001</para>
+      <para id="para-00033">American Stroke Association. (n.d.). <emphasis effect="italics">Stroke Symptoms</emphasis>. https://www.stroke.org/en/about-stroke/stroke-symptoms</para>
+      <para id="para-00034">Austin Gastroenterology. (2019). <emphasis effect="italics">Upper Vs. Lower GI Tract: What They Are?</emphasis> Retrieved from https://www.austingastro.com/2019/03/01/upper-vs-lower-gi-tract-what-are-they/</para>
+      <para id="para-00035">Bartel, M. (2022). <emphasis effect="italics">Effects of Ageing on the Digestive System</emphasis>. https://www.merckmanuals.com/home/digestive-disorders/biology-of-the-digestive-system/effects-of-aging-on-the-digestive-system</para>
+      <para id="para-00036">Baton Rouge General (Mayo Clinic Care Network). (2023). Fad Diets and Colon Cancer. Are They Worth the Risk? Retrieved from https://www.brgeneral.org/news-blog/2023/march/fad-diets-and-colon-cancer-are-they-worth-the-ri/</para>
+      <para id="para-00037">Benakis, C. &amp; Liesz, A. (2022). The Gut-Brain Axis in Ischemic Stroke: Its Relevance in Pathology and as a Therapeutic Target. <emphasis effect="italics">Neurological Research and Practice, 4</emphasis>(57). DOI: https://doi.org/10.1186/s42466-022-00222-8. https://neurolrespract.biomedcentral.com/articles/10.1186/s42466-022-00222-8</para>
+      <para id="para-00038">Bhupathiraju, S., &amp; Hu, F. (2023). Nutrient-Drug Interactions. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/nutritional-disorders/nutrition-general-considerations/nutrient-drug-interactions</para>
+      <para id="para-00039">Boston Children’s Hospital. (2022). <emphasis effect="italics">Anorectal Malformation</emphasis>. https://www.childrenshospital.org/conditions/anorectal-malformation</para>
+      <para id="para-00040">Chen, R., Yu, Y., Li, W., Liu, Y., Chen, F., Zhou, Q., Xia, Z., &amp; Ma, D. (2020). Gastrointestinal Symptoms Associated with Unfavorable Prognosis of COVID-19 Patients: A Retrospective Study. <emphasis effect="italics">Frontiers in Medicine</emphasis>. DOI: https://doi.org/10.3389/fmed.2020.608259. https://www.frontiersin.org/articles/10.3389/fmed.2020.608259/full</para>
+      <para id="para-00041">Cleveland Clinic. (2022a). <emphasis effect="italics">Digestive System</emphasis>. https://my.clevelandclinic.org/health/body/7041-digestive-system</para>
+      <para id="para-00042">Cleveland Clinic. (2022b). <emphasis effect="italics">Gastrointestinal Diseases</emphasis>. https://my.clevelandclinic.org/health/articles/7040-gastrointestinal-diseases</para>
+      <para id="para-00043">Cleveland Clinic. (2022c). <emphasis effect="italics">Gastrointestinal Manifestations of COVID-19</emphasis>. https://consultqd.clevelandclinic.org/gastrointestinal-manifestations-of-covid-19/</para>
+      <para id="para-00044">Cochran, M. (2022a). Hypertrophic Pyloric Stenosis. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/hypertrophic-pyloric-stenosis</para>
+      <para id="para-00045">Cochran, M. (2022b). Intussusception. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/intussusception</para>
+      <para id="para-00046">Cochran, W. (2022c). Meconium Ileus. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-ileus</para>
+      <para id="para-00047">Cochran, W. (2022d). Meconium Plug Syndrome (Small Left Colon Syndrome). <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/meconium-plug-syndrome</para>
+      <para id="para-00048">Cochran, W. (2022e). Necrotizing Enterocolitis<emphasis effect="italics">. Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/necrotizing-enterocolitis</para>
+      <para id="para-00049">Cochran, M. (2022f). Neonatal Cholestasis. <emphasis effect="italics">Merck Manual</emphasis>. https://www.merckmanuals.com/professional/pediatrics/gastrointestinal-disorders-in-neonates-and-infants/neonatal-cholestasis</para>
+      <para id="para-00050">Columbia University Irving Medical Center (n.d.). <emphasis effect="italics">Congenital Malformations of the Digestive Tract</emphasis>. https://columbiasurgery.org/conditions-and-treatments/congenital-malformations-of-the-digestive-tract</para>
+      <para id="para-00051">Ding, J., Jin, Z., Yang, X., Lou, J., Shan, W., Hu, Y., Du, Q., Liao, Q., Xie, R., &amp; Xu, J. (2020). Role of Gut Microbiota Via the Gut-Liver-Brain Axis in Digestive Diseases. World Journal of Gastroenterology, 26(40), 6141-6162. DOI: 10.3748/wjg.v26.i40.6141. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596643/</para>
+      <para id="para-00052">eBioMedicine. (2022). The Dynamics of the Immune System and Gut in the Pathophysiology of Multiple Sclerosis. <emphasis effect="italics">The</emphasis> Lancet<emphasis effect="italics">, 83</emphasis>(104273). DOI: https://doi.org/10.1016/j.ebiom.2022.104273. https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00455-8/fulltext</para>
+      <para id="para-00053">French, K. (2022). <emphasis effect="italics">Dozens of Gut Bacteria Associated with Multiple Sclerosis</emphasis>. https://www.ucsf.edu/news/2022/09/423676/dozens-gut-bacteria-associated-multiple-sclerosis</para>
+      <para id="para-00054">Gantan, E., &amp; Wiedrich, L. (2022). Neonatal Evaluation. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK558943/</para>
+      <para id="para-00055">GI Associates and Endoscopy Center. (2022a). <emphasis effect="italics">From the Brain to the Gut (Microbiome)</emphasis>. https://gi.md/resources/articles/from-the-brain-to-the-gut-microbiome</para>
+      <para id="para-00056">GI Associates and Endoscopy Center. (2022b). <emphasis effect="italics">Understanding the Structures of the Digestive System</emphasis>. https://gi.md/resources/articles/understanding-the-structures-of-the-digestive-system</para>
+      <para id="para-00057">Guerra, A., &amp; Waseem, M. (2022). Epiglottitis. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK430960/</para>
+      <para id="para-00058">Gunnars, K. (2020). <emphasis effect="italics">22 High Fiber Foods You Should Eat</emphasis>. https://www.healthline.com/nutrition/22-high-fiber-foods</para>
+      <para id="para-00059">John Hopkins Medicine (2022). <emphasis effect="italics">Malrotation</emphasis>. Retrieved from https://www.hopkinsmedicine.org/health/conditions-and-diseases/malrotation</para>
+      <para id="para-00060">Klein, H. (2022). <emphasis effect="italics">Study Identifies Gut Microbiota Linked to HE Pathophysiology</emphasis>. https://www.ajmc.com/view/study-identifies-gut-microbiota-linked-to-he-pathophysiology</para>
+      <para id="para-00061">Lee, J., Tsolis, R., &amp; Baumler, A. (2022). The Microbiome and Gut Homeostasis. <emphasis effect="italics">Science, 377</emphasis>(6601), eabp9960. https://www.science.org/doi/10.1126/science.abp9960</para>
+      <para id="para-00062">Ludwig, K., Bartolo, D., Salerno, A., Ingravello, G., Cazzato, G., Giacometti, C., &amp; Dall’lgna, P. (2022) Congenital Anomalies of the Tubular Gastrointestinal Tract. <emphasis effect="italics">Pathologica, 114</emphasis>(1), 40-54. DOI: 10.32074/1591-951X-553</para>
+      <para id="para-00063">Mayo Clinic. (2022). <emphasis effect="italics">Epiglottitis</emphasis>. https://www.mayoclinic.org/diseases-conditions/epiglottitis/symptoms-causes/syc-20372227</para>
+      <para id="para-00064">Mealie, C., Ali, R., &amp; Manthey, D. (2022). Abdominal Exam. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK459220/</para>
+      <para id="para-00065">Moffitt Cancer Center (2023). What Foods Reduce the Risk of Colon Cancer? Retrieved from https://moffitt.org/cancers/colon-cancer/faqs/what-foods-reduce-the-risk-of-colon-cancer/</para>
+      <para id="para-00066">Munger, R., Kuppuswamy, R., Murthy, J., Balakirshnan, K., Thangaval, G., Sambandam, S., Kurpad, A., Molly, A., Ueland, P., &amp; Mossey, P. (2021). Maternal Vitamin B<sub>12 </sub>Status and Risk of Cleft Lip and Cleft Palate Birth Defects in Tamil Nadu State, India. <emphasis effect="italics">Cleft Palate Craniofacial Journal, 58</emphasis>(5), 567-576. DOI: 10.1177/1055665621998394. https://pubmed.ncbi.nlm.nih.gov/33686867/</para>
+      <para id="para-00067">National Institute of Diabetes and Digestive and Kidney Diseases. (2022). <emphasis effect="italics">Your Digestive System and How it Works.</emphasis> https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works</para>
+      <para id="para-00068">NHS (2023). <emphasis effect="italics">Fat: The Facts</emphasis>. https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/</para>
+      <para id="para-00069">Nigam, Y., &amp; Knight, J. (2017). Anatomy and Physiology of Ageing 3: The Digestive System. <emphasis effect="italics">Nursing Times, 113</emphasis>(4), 54-57. https://cdn.ps.emap.com/wp-content/uploads/sites/3/2017/03/170329-Anatomy-and-physiology-of-ageing-3-the-digestive-system.pdf</para>
+      <para id="para-00070">Ogobuiro, I., Gonzales, J., &amp; Tuma, F. (2022). Pathophysiology, Gastrointestinal. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK537103/</para>
+      <para id="para-00071">Patricia, J. &amp; Dahmoon, A. (2022). Physiology, Digestion. <emphasis effect="italics">StatPearls</emphasis>. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK544242/</para>
+      <para id="para-00072">Readman, M. (2022). <emphasis effect="italics">How Long the Digestion Process Takes from Beginning to End</emphasis>. https://www.mindbodygreen.com/articles/how-long-does-it-take-to-digest-food</para>
+      <para id="para-00073">Roscoe, L. (2022). <emphasis effect="italics">Abdominal Assessment: Palpation</emphasis>. https://correctionalnurse.net/abdominal-assessment-palpation/</para>
+      <para id="para-00074">Shaw, P., Loree, J., Gibbons, R., &amp; McCoy, T. (2023). Abdominal Aortic Aneurysm (Nursing). <emphasis effect="italics">StatPearls</emphasis>. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK568681/</para>
+      <para id="para-00075">Sidharthan, C. (2022). <emphasis effect="italics">Gut Microbiome Plays a Role in Alzheimer’s.</emphasis> https://www.news-medical.net/news/20221117/Gut-microbiome-plays-a-role-in-Alzheimers.aspx</para>
+      <para id="para-00076">Sivakumar, S., &amp; Prabhu, A. (2023). Physiology, Gag Reflex. <emphasis effect="italics">StatPearls</emphasis>. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK554502/</para>
+      <para id="para-00077">Tilg, H., Adolph, T., &amp; Trauner, M. (2022). Gut-Liver Axis: Pathophysiological Concepts and Clinical Implications. <emphasis effect="italics">Cell Metabolism, 34</emphasis>(11), 1700-1718. DOI: 10.1016/j.cmet.2022.09.017. https://pubmed.ncbi.nlm.nih.gov/36208625/</para>
+      <para id="para-00078">University of Rochester Medical Center. (2022). <emphasis effect="italics">The Digestive System: An Overview</emphasis>. https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=85&amp;contentid=P00380</para>
+      <para id="para-00079">Villa, A. (2022). Oral Examination. <emphasis effect="italics">Medscape</emphasis>. Retrieved from https://emedicine.medscape.com/article/1080850-overview?reg=1#a2</para>
+      <para id="para-00080">Wallen, Z., Demirkan, A., Twa, G., Cohen, G., Dean, M., Standaert, D., Sampson, T., &amp; Payami, H. (2022). Metagenomics of Parkinson’s Disease Implicates the Gut Microbiome in Multiple Disease Mechanisms. Nature Communications, 13(6958). Retrieved from https://www.nature.com/articles/s41467-022-34667-x</para>
+      <para id="para-00081">Wasser, C., Merceieca, E., Kong, G., Hannon, A., McKeown, S., Glikmann-Johnston, Y., &amp; Stout, J. (2020). Gut dysbiosis in Huntington’s disease: associations among gut microbiota, cognitive performance and clinical outcomes. <emphasis effect="italics">Brain Communications, 2</emphasis>(2), fcaa110. DOI: https://doi.org/10.1093/braincomms/fcaa110. Retrieved from https://academic.oup.com/braincomms/article/2/2/fcaa110/5876019</para>
+      <para id="para-00082">Weersma, R., Zhernakova, A., &amp; Fu, J. (2020). Interaction Between Drugs and the Gut Microbiome. <emphasis effect="italics">Gut, 69</emphasis>, 1510-1519. DOI: http://orcid.org/0000-0001-7928-7371</para>
+      <para id="para-00083">Ye, Q., Wang, B., Zhang, T., Xu, J., &amp; Shang, S. (2020). The Mechanism and Treatment of Gastrointestinal Symptoms in Patients with COVID 19. <emphasis effect="italics">American Journal of Physiology Gastrointestinal and Liver Physiology, 319</emphasis>(2). DOI: https://doi.org/10.1152/ajpgi.00148.2020. Retrieved from https://journals.physiology.org/doi/full/10.1152/ajpgi.00148.2020</para>
+      </section>
   </content>
+  <glossary>
+    <definition id="def-00001"><term>dysbiosis</term><meaning>a disruption to the microbiome resulting in an imbalance in the microbiota of the intestines</meaning></definition>
+<definition id="def-00002"><term>homeostasis</term><meaning>a balanced state in the body that allows for proper function</meaning></definition>
+  </glossary>
 </document>
