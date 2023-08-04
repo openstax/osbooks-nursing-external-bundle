@@ -244,11 +244,6 @@
         </col:subcollection>
       </col:content>
     </col:subcollection>
-    <col:subcollection>
-      <md:title>Appendix</md:title>
-      <col:content>
-        <col:module document="m00093"/>
-      </col:content>
-    </col:subcollection>
+    <col:module document="m00093"/>
   </col:content>
 </col:collection>
