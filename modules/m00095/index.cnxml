@@ -1,13 +1,89 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="unit-opener">
-  <title/>
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Pharmacology, Interdisciplinary Teams, and Nursing Practice</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title/>
+    <md:title>Pharmacology, Interdisciplinary Teams, and Nursing Practice</md:title>
     <md:content-id>m00095</md:content-id>
     <md:uuid>417e7e99-045e-4fd1-8771-6347c3601c08</md:uuid>
   </metadata>
-  <content class="unit-opener">
+  <content>
     <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+      <title>Table</title>
+      <table id="table-00001">
+        <title/>
+        <tgroup cols="4">
+        <thead>
+        <row>
+        <entry>Blood Pressure Category</entry>
+        <entry>Systolic (mm Hg)</entry>
+        <entry/>
+        <entry>Diastolic (mm Hg)</entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry>Normal</entry>
+        <entry>&lt; 120</entry>
+        <entry>and</entry>
+        <entry>&lt; 80</entry>
+        </row>
+        <row>
+        <entry>Elevated</entry>
+        <entry>120–129</entry>
+        <entry>and</entry>
+        <entry>&lt; 80</entry>
+        </row>
+        <row>
+        <entry>Stage 1 Hypertension</entry>
+        <entry>130–139</entry>
+        <entry>or</entry>
+        <entry>80–89</entry>
+        </row>
+        <row>
+        <entry>Stage 2 Hypertension</entry>
+        <entry>140–180 </entry>
+        <entry>or</entry>
+        <entry>90–120</entry>
+        </row>
+        <row>
+        <entry>Hypertensive Crisis</entry>
+        <entry>> 180</entry>
+        <entry>and/or</entry>
+        <entry>> 120</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>The American College of Cardiology and American Heart Association’s Categories for Hypertension (source: American Heart Association, https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings; Centers for Disease Control and Prevention, https://www.cdc.gov/bloodpressure/facts.htm)</caption>
+        </table>
+
+        <table class="vertically-tight" id="table-00002">
+          <tgroup cols="2">
+          <thead>
+          <row>
+          <entry><span class="blue-text">Drug</span></entry>
+          <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+          <entry>Benazepril<newline/>(Lotensin)</entry>
+          <entry>10–40 mg daily orally</entry>
+          </row>
+          <row>
+          <entry>Captopril<newline/>(Capto)</entry>
+          <entry>25–150 mg 2–3 times daily orally<newline/>maximum dose 450 mg daily</entry>
+          </row>
+          <row>
+          <entry>Enalapril<newline/>(Vasotec)</entry>
+          <entry>5–40 mg administered in either one or two daily doses.<newline/>Initial dose: 5 mg orally once daily<newline/>maximum dose: 40 mg/day.<newline/>May divide dose and administer twice daily.</entry>
+          </row>
+          <row>
+          <entry>Lisinopril<newline/>(Zestril)</entry>
+          <entry>10–40 mg daily orally</entry>
+          </row>
+          </tbody>
+          </tgroup>
+          <caption>Drug Emphasis Table: ACE Inhibitors (source: DailyMed)</caption>
+          </table>
     </section>
   </content>
 </document>

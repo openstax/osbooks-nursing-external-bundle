@@ -8,9 +8,28 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Table Test</md:title>
+      <md:title>Introduction to Pharmacology for Nurses</md:title>
       <col:content>
-        <col:module document="m00094"/>
+        <col:subcollection>
+          <md:title>Introduction to Pharmacology</md:title>
+          <col:content>
+            <col:module document="m00094"/>
+            <col:module document="m00095"/>
+            <col:module document="m00096"/>
+            <col:module document="m00097"/>
+            <col:module document="m00098"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Drug Administration</md:title>
+          <col:content>
+            <col:module document="m00099"/>
+            <col:module document="m00100"/>
+            <col:module document="m00101"/>
+            <col:module document="m00102"/>
+            <col:module document="m00103"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
