@@ -84,6 +84,69 @@
           </tgroup>
           <caption>Drug Emphasis Table: ACE Inhibitors (source: DailyMed)</caption>
           </table>
+
+          <table class="vertically-tight" id="table-00003">
+            <tgroup cols="3">
+            <tbody>
+            <row>
+            <entry><span class="blue-text">Drug Class</span><newline/>
+            Angiotensin-converting enzyme (ACE) inhibitor
+            <newline count="2"/><span class="blue-text">Mechanism of Action</span>
+            <newline/>Enalapril inhibits the enzyme that converts angiotensin I to angiotensin II and thereby suppresses the renin-angiotensin-aldosterone system.</entry>
+            <entry><span class="blue-text">Drug Dosage</span><newline/>
+            5–40 mg administered in either one or two daily doses. Initial dose: 5 mg orally once daily; maximum dose: 40 mg/day. May divide dose and administer twice daily.</entry>
+            </row>
+            <row>
+            <entry>Indications<newline/>
+            To control hypertension<newline/>
+            In the treatment of class C heart failure<newline count="2"/>
+            <span class="blue-text">Therapeutic Effects</span><newline/>
+            Lowers blood pressure<newline/>
+            Increases blood supply and oxygen to the heart</entry>
+            <entry><span class="blue-text">Drug Interactions</span><newline/>
+            Aliskiren<newline/>
+            Sacubitril/Valsartan<newline/>
+            Nonsteroidal anti-inflammatory drugs (NSAIDs) including selective cyclooxygenase-2 inhibitors<newline/>
+            Potassium-sparing diuretics<newline/>
+            Lithium<newline/>
+            Temsirolimus<newline/>
+            Sirolimus<newline/>
+            Everolimus<newline count="2"/>
+            <span class="blue-text">Food Interactions</span><newline/>
+            Alcohol<newline/>
+            Tobacco</entry>
+            </row>
+            <row>
+            <entry><span class="blue-text">Adverse Effects</span><newline/>
+            Angioedema<newline/>
+            Fatigue<newline/>
+            Orthostatic hypotension<newline/>
+            Asthenia<newline/>
+            Diarrhea<newline/>
+            Nausea/vomiting<newline/>
+            Headache<newline/>
+            Dizziness/vertigo<newline/>
+            Hyperkalemia<newline/>
+            Cough<newline/>
+            Rash<newline/>
+            Abdominal pain<newline/>
+            Angina</entry>
+            <entry><span class="blue-text">Contraindications</span><newline/>
+            Hypersensitivity<newline/>
+            A history of angioedema related to previous treatment with an angiotensin-converting enzyme inhibitor or hereditary or idiopathic angioedema<newline/>
+            Pregnancy<newline count="2"/>
+            <span class="blue-text">Caution:</span><newline/>
+            Aortic stenosis<newline/>
+            Diabetes<newline/>
+            Syncope<newline/>
+            Orthostatic hypotension<newline/>
+            Impaired renal function<newline/>
+            Breastfeeding</entry>
+            </row>
+            </tbody>
+            </tgroup>
+            <caption>Drug Prototype Table: Enalapril (source: DailyMed)</caption>
+            </table>
     </section>
   </content>
 </document>
