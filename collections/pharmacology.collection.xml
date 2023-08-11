@@ -30,6 +30,12 @@
             <col:module document="m00103"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality and Safety</md:title>
+          <col:content>
+            <col:module document="m00114"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
