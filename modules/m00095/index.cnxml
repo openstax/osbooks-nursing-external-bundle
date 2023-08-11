@@ -137,7 +137,7 @@
             Hypersensitivity<newline/>
             A history of angioedema related to previous treatment with an angiotensin-converting enzyme inhibitor or hereditary or idiopathic angioedema<newline/>
             Pregnancy<newline count="2"/>
-            <emphasis effect="bold">Caution:</emphasis><newline/>
+            <emphasis effect="bold"><span class="blue-text">Caution:</span></emphasis><newline/>
             Aortic stenosis<newline/>
             Diabetes<newline/>
             Syncope<newline/>
@@ -151,7 +151,7 @@
             </table>
 
             <note class="unfolding-casestudy" id="note-00001">
-              <title>Unfolding Case Study: Part A</title>
+              <title>Part A</title>
               <para id="para-00001">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter.</para>
               <para id="para-00002">Hahn Tran is a 53-year-old Asian American client who presents to her health care provider's office with reports of a headache and dizziness. When questioned, Ms. Tran describes her headache as throbbing and that it is worse in the morning when she awakens. She is unable to identify any triggers for the headaches but states they are relieved with acetaminophen.</para>
               <para id="para-00003">Ms. Tran reports trying to follow a healthy diet, but states that she does not really know what that means and that she uses a lot of salt in her cooking. She smokes about six to eight cigarettes/day, which is down from one pack/day 3 months ago. Ms. Tran does not exercise regularly and reports having 1-2 glasses of wine on the weekend. She lives with her husband and two teenage children and works in the kitchen at the children's school.</para>
@@ -159,16 +159,12 @@
               <para id="para-00005"><emphasis effect="bold">Current Medications</emphasis><newline/>Atorvastatin, 20 mg once daily<newline/>Metformin, 500 mg twice daily</para>
               <table class="unnumbered" summary="" id="table-00004">
               <tgroup cols="2">
-              <thead>
-              <row>
-              <entry><emphasis effect="bold">Vital Signs</emphasis></entry>
-              <entry><emphasis effect="bold">Physical Assessment/Signs and Symptoms</emphasis></entry>
-              </row>
-              </thead>
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="1" colname="c2" colwidth="3*"/>
               <tbody>
               <row>
-              <entry>Temperature: 98.4°F<newline/>Blood pressure: 168/96 mm Hg<newline/>Heart rate: 88 beats/min<newline/>Respiratory rate: 16 breaths/min<newline/>Oxygen saturation: 97% on room air<newline/>Height: 5'3"<newline/>Weight: 184 pounds</entry>
-              <entry>Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular vein distention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>GU: Deferred<newline/>Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>Integumentary: No wounds noted; skin appropriate for age.</entry>
+              <entry><emphasis effect="bold">Vital Signs</emphasis><newline/>Temperature: 98.4°F<newline/>Blood pressure: 168/96 mm Hg<newline/>Heart rate: 88 beats/min<newline/>Respiratory rate: 16 breaths/min<newline/>Oxygen saturation: 97% on room air<newline/>Height: 5'3"<newline/>Weight: 184 pounds</entry>
+              <entry><emphasis effect="bold">Physical Assessment/Signs and Symptoms</emphasis><newline/>Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular vein distention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>GU: Deferred<newline/>Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>Integumentary: No wounds noted; skin appropriate for age.</entry>
               </row>
               </tbody>
               </tgroup>
@@ -181,7 +177,7 @@
               <para id="para-00008">Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up to Case Study Part A.</para>
               <para id="para-00009">Ms. Tran follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnoses her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Ms. Tran about this new drug.</para>
               <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00010"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec01_UCSQ3"/></para></problem></exercise>
-              <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00011"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec01_UCSQ44"/></para></problem></exercise>
+              <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00011"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec01_UCSQ4"/></para></problem></exercise>
               </note>
               
     </section>
