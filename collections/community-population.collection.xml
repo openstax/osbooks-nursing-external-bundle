@@ -30,6 +30,237 @@
             <col:module document="m00113"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>What Is Community Health Nursing?</md:title>
+          <col:content>
+            <col:module document="m00114"/>
+            <col:module document="m00115"/>
+            <col:module document="m00116"/>
+            <col:module document="m00117"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Health of the Population</md:title>
+          <col:content>
+            <col:module document="m00118"/>
+            <col:module document="m00119"/>
+            <col:module document="m00120"/>
+            <col:module document="m00121"/>
+            <col:module document="m00122"/>
+            <col:module document="m00123"/>
+            <col:module document="m00124"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Issues and Challenges of Population Health</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Demographic Trends and Societal Changes</md:title>
+          <col:content>
+            <col:module document="m00125"/>
+            <col:module document="m00126"/>
+            <col:module document="m00127"/>
+            <col:module document="m00128"/>
+            <col:module document="m00129"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Structural Racism and Systemic Inequities</md:title>
+          <col:content>
+            <col:module document="m00130"/>
+            <col:module document="m00131"/>
+            <col:module document="m00132"/>
+            <col:module document="m00133"/>
+            <col:module document="m00134"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Policies and Regulatory Conditions Impacting Access, Cost, and Quality</md:title>
+          <col:content>
+            <col:module document="m00135"/>
+            <col:module document="m00136"/>
+            <col:module document="m00137"/>
+            <col:module document="m00138"/>
+            <col:module document="m00139"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Social Determinants Affecting Health Outcomes</md:title>
+          <col:content>
+            <col:module document="m00140"/>
+            <col:module document="m00141"/>
+            <col:module document="m00142"/>
+            <col:module document="m00143"/>
+            <col:module document="m00144"/>
+            <col:module document="m00145"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Health Disparities and Inequities</md:title>
+          <col:content>
+            <col:module document="m00146"/>
+            <col:module document="m00147"/>
+            <col:module document="m00148"/>
+            <col:module document="m00149"/>
+            <col:module document="m00150"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Population-Based Practice and the Tenets of Public Health</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Socio-ecological Perspectives and Health</md:title>
+          <col:content>
+            <col:module document="m00151"/>
+            <col:module document="m00152"/>
+            <col:module document="m00153"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Evidence-Based Practice</md:title>
+          <col:content>
+            <col:module document="m00154"/>
+            <col:module document="m00155"/>
+            <col:module document="m00156"/>
+            <col:module document="m00157"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Epidemiology for Informing Population/Community Health Decisions</md:title>
+          <col:content>
+            <col:module document="m00158"/>
+            <col:module document="m00159"/>
+            <col:module document="m00160"/>
+            <col:module document="m00161"/>
+            <col:module document="m00162"/>
+            <col:module document="m00163"/>
+            <col:module document="m00164"/>
+            <col:module document="m00165"/>
+            <col:module document="m00166"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pandemics and Infectious Disease Outbreaks</md:title>
+          <col:content>
+            <col:module document="m00167"/>
+            <col:module document="m00168"/>
+            <col:module document="m00169"/>
+            <col:module document="m00170"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Environmental Health</md:title>
+          <col:content>
+            <col:module document="m00171"/>
+            <col:module document="m00172"/>
+            <col:module document="m00173"/>
+            <col:module document="m00174"/>
+            <col:module document="m00175"/>
+            <col:module document="m00176"/>
+            <col:module document="m00177"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Health Promotion and Disease Prevention Strategies</md:title>
+          <col:content>
+            <col:module document="m00178"/>
+            <col:module document="m00179"/>
+            <col:module document="m00180"/>
+            <col:module document="m00181"/>
+            <col:module document="m00182"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Merging Public Health Principles with the Nursing Process</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Creating a Healthy Community</md:title>
+          <col:content>
+            <col:module document="m00183"/>
+            <col:module document="m00184"/>
+            <col:module document="m00185"/>
+            <col:module document="m00186"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Assessment, Analysis, and Diagnosis</md:title>
+          <col:content>
+            <col:module document="m00187"/>
+            <col:module document="m00188"/>
+            <col:module document="m00189"/>
+            <col:module document="m00190"/>
+            <col:module document="m00191"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Planning Health Promotion and Disease Prevention Interventions</md:title>
+          <col:content>
+            <col:module document="m00192"/>
+            <col:module document="m00193"/>
+            <col:module document="m00194"/>
+            <col:module document="m00195"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Planning Community Health Education</md:title>
+          <col:content>
+            <col:module document="m00196"/>
+            <col:module document="m00197"/>
+            <col:module document="m00198"/>
+            <col:module document="m00199"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Implementation and Evaluation Considerations</md:title>
+          <col:content>
+            <col:module document="m00200"/>
+            <col:module document="m00201"/>
+            <col:module document="m00202"/>
+            <col:module document="m00203"/>
+            <col:module document="m00204"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Culturally Congruent Care</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Cultural Influences on Health Beliefs and Practices</md:title>
+          <col:content>
+            <col:module document="m00205"/>
+            <col:module document="m00206"/>
+            <col:module document="m00207"/>
+            <col:module document="m00208"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Transcultural Nursing</md:title>
+          <col:content>
+            <col:module document="m00209"/>
+            <col:module document="m00210"/>
+            <col:module document="m00211"/>
+            <col:module document="m00212"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Culturally and Linguistically Competent Nursing Care</md:title>
+          <col:content>
+            <col:module document="m00213"/>
+            <col:module document="m00214"/>
+            <col:module document="m00215"/>
+            <col:module document="m00217"/>
+            <col:module document="m00218"/>
+            <col:module document="m00216"/>
+            <col:module document="m00219"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
