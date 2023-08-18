@@ -261,6 +261,24 @@
             <col:module document="m00219"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Designing Culturally and Linguistically Appropriate Programs </md:title>
+          <col:content>
+            <col:module document="m00220"/>
+            <col:module document="m00221"/>
+            <col:module document="m00222"/>
+            <col:module document="m00223"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Managing the Dynamics of Difference</md:title>
+          <col:content>
+            <col:module document="m00224"/>
+            <col:module document="m00225"/>
+            <col:module document="m00226"/>
+            <col:module document="m00227"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
