@@ -30,6 +30,198 @@
             <col:module document="m00103"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Quality and Safety</md:title>
+          <col:content>
+            <col:module document="m00228"/>
+            <col:module document="m00229"/>
+            <col:module document="m00230"/>
+            <col:module document="m00231"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Homeostasis</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to Homeostasis</md:title>
+          <col:content>
+            <col:module document="m00299"/>
+            <col:module document="m00232"/>
+            <col:module document="m00233"/>
+            <col:module document="m00234"/>
+            <col:module document="m00235"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fluids and Electrolytes, Vitamins, Minerals, and Alternative Therapies</md:title>
+          <col:content>
+            <col:module document="m00300"/>
+            <col:module document="m00236"/>
+            <col:module document="m00237"/>
+            <col:module document="m00238"/>
+            <col:module document="m00239"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Immune System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Immune System and the Inflammatory Response</md:title>
+          <col:content>
+            <col:module document="m00301"/>
+            <col:module document="m00240"/>
+            <col:module document="m00241"/>
+            <col:module document="m00242"/>
+            <col:module document="m00243"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anti-Infective Drugs</md:title>
+          <col:content>
+            <col:module document="m00302"/>
+            <col:module document="m00244"/>
+            <col:module document="m00245"/>
+            <col:module document="m00246"/>
+            <col:module document="m00247"/>
+            <col:module document="m00248"/>
+            <col:module document="m00249"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Introduction to Cancer Therapy and Cancer Drugs</md:title>
+          <col:content>
+            <col:module document="m00303"/>
+            <col:module document="m00250"/>
+            <col:module document="m00251"/>
+            <col:module document="m00252"/>
+            <col:module document="m00253"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nervous System and Drugs for Mental Well Being</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Nervous System</md:title>
+          <col:content>
+            <col:module document="m00304"/>
+            <col:module document="m00254"/>
+            <col:module document="m00255"/>
+            <col:module document="m00256"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cholinergic Drugs and Drugs to Treat Myasthenia Gravis and Alzheimer’s Disease</md:title>
+          <col:content>
+            <col:module document="m00305"/>
+            <col:module document="m00257"/>
+            <col:module document="m00258"/>
+            <col:module document="m00259"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anticholinergic Drugs and Drugs to Treat Parkinson’s Disease and Multiple Sclerosis</md:title>
+          <col:content>
+            <col:module document="m00306"/>
+            <col:module document="m00260"/>
+            <col:module document="m00261"/>
+            <col:module document="m00262"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anticonvulsant Drugs and Drugs to Treat Epilepsy, Migraine Headaches, and Intracranial Emergencies</md:title>
+          <col:content>
+            <col:module document="m00307"/>
+            <col:module document="m00263"/>
+            <col:module document="m00264"/>
+            <col:module document="m00265"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Psychopharmacologic Drugs</md:title>
+          <col:content>
+            <col:module document="m00308"/>
+            <col:module document="m00266"/>
+            <col:module document="m00267"/>
+            <col:module document="m00268"/>
+            <col:module document="m00269"/>
+            <col:module document="m00270"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pain Response</md:title>
+          <col:content>
+            <col:module document="m00309"/>
+            <col:module document="m00271"/>
+            <col:module document="m00273"/>
+            <col:module document="m00272"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Substance Use Disorder Treatment Drugs</md:title>
+          <col:content>
+            <col:module document="m00310"/>
+            <col:module document="m00274"/>
+            <col:module document="m00275"/>
+            <col:module document="m00276"/>
+            <col:module document="m00277"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cardiovascular System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Cardiovascular System</md:title>
+          <col:content>
+            <col:module document="m00311"/>
+            <col:module document="m00278"/>
+            <col:module document="m00279"/>
+            <col:module document="m00280"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anti-Dysrhythmic Drugs</md:title>
+          <col:content>
+            <col:module document="m00312"/>
+            <col:module document="m00281"/>
+            <col:module document="m00282"/>
+            <col:module document="m00283"/>
+            <col:module document="m00284"/>
+            <col:module document="m00285"/>
+            <col:module document="m00286"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Antihypertensive and Antianginal Drugs</md:title>
+          <col:content>
+            <col:module document="m00313"/>
+            <col:module document="m00287"/>
+            <col:module document="m00294"/>
+            <col:module document="m00288"/>
+            <col:module document="m00289"/>
+            <col:module document="m00290"/>
+            <col:module document="m00291"/>
+            <col:module document="m00292"/>
+            <col:module document="m00293"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Heart Failure Drugs</md:title>
+          <col:content>
+            <col:module document="m00314"/>
+            <col:module document="m00295"/>
+            <col:module document="m00296"/>
+            <col:module document="m00297"/>
+            <col:module document="m00298"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
     </col:subcollection>
   </col:content>
