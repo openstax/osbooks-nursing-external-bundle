@@ -6,8 +6,297 @@
     <md:uuid>06c9b0d3-e114-4007-8490-288c8bc77217</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the characteristics of the nitrate drug class used to treat hypertension and angina.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the nitrate drug class used to treat hypertension and angina.</item>
+      <item>Describe nursing implications of nitrate drugs used to treat hypertension and angina.</item>
+      <item>Explain the client education related to nitrate drugs used to treat hypertension and angina</item>
+      </list>
+      </section>
+      <section id="sect-00002">
+      <title>Introduction and Use</title>
+      <para id="para-00002"><term id="term-00001">Nitrates</term> are a classification of drugs that cause vasodilation of blood vessels, which relaxes smooth muscles and causes the dilation of coronary vessels. Vasodilation improves oxygen supply to the heart, decreases oxygen demand within the body, reduces cardiac workload (preload and afterload), and lowers blood pressure. Nitrates have been used to treat chest pain and angina since the early 1800s. Nitrates come in different forms including oral, sublingual, translingual spray, intravenous, topical, and transdermal and can be short-acting or long-acting. Nitrates are commonly used to treat angina, acute coronary syndrome, arterial hypertension, and heart failure (Lee &amp; Gerriets, 2022).</para>
+      <note class="special-considerations" id="note-00001">
+      <title>Nitrates</title>
+      <para id="para-00003">Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.</para>
+      <para id="para-00004">Source: <link url="https://openstax.org/r/ncbiniggovbooks">https://www.ncbi.nlm.nih.gov/books/NBK545149/</link></para>
+      </note>
+      <table class="vertically-tight" id="table-00001">
+      <title>lists common diuretics and typical routes and dosing for adult clients.</title>   
+      <tgroup cols="2">
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term> (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
+      <entry>Sublingual tablets: 5–10 mg by sublingual route as needed every two to four hours Immediate-release tablets: 5–80 mg orally two to three times daily  Sustained-release capsules: 40 mg one to two times orally daily; maximum dose 160 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term> (<term class="no-emphasis" id="term-00005">Imdur</term>)</entry>
+      <entry>Immediate-release tablets: 5–20 mg twice daily Extended-release tablets: 30–60 mg once daily; maximum dose 240 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term> (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
+      <entry>Sublingual tablets: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain Immediate-release tablets: 2.5–9 mg orally two to three times daily  Sustained-release tablets: 2.5 mg orally three to four times daily  Spray: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain Ointment: 1/2 to 2 inches applied topically every four to eight hours daily Patch (disk): Applied to skin once daily Solution: 5–10 mcg/minute up to 100 mcg/minute intravenously</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00010">Nitroprusside</term> (<term class="no-emphasis" id="term-00011">Nipride</term>)</entry>
+      <entry>Solution: 0.3 mcg/kg/min intravenously and titrate every few minutes until desired effect is achieved; maximum dose 10 mcg/kg/min</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Emphasis Table: Nitrates (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title>Adverse Effects and Contraindications</title>
+      <para id="para-00006">Adverse effects for nitrates include headache, lightheadedness, flushing, syncope, reflex tachycardia, and dizziness. Serious adverse effects include hypotension.</para>
+      <para id="para-00007">Contraindications include allergies to nitrates, concomitant use of phosphodiesterase (PDE) inhibitors such as tadalafil and sildenafil, history of right ventricular infarction, and hypertrophic cardiomyopathy. Nitrates should be used cautiously in clients on long-term diuretic therapy, with low systolic blood pressure, with autonomic nervous system dysregulation, and who are pregnant or breastfeeding.</para>
+      <note class="safety-alert" id="note-00002">
+      <title>Nitrates</title>
+      <para id="para-00008">Nitrates can induce hypotension. They should not be taken with PDE inhibitors because they can cause severe hypotension and cardiac decompensation.</para>
+      </note>
+      <para id="para-00009"><emphasis effect="bold">Table 18.13</emphasis> is a drug prototype table for nitrates featuring nitroglycerin. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+      Nitrate<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+      Nitroglycerin relaxes the smooth muscles and blood vessels, causing vasodilation, and thereby lowering blood pressure, heart rate, and cardiac workload.
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+      Sublingual tablets: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
+      Immediate-release tablets: 2.5–9 mg orally two to three times daily<newline/>
+      Sustained-release tablets: 2.5 mg orally three to four times daily<newline/>
+      Spray: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
+      Ointment: 1/2 to 2 inches applied topically every four to eight hours daily<newline/>
+      Patch (disk): Applied to skin once daily<newline/>
+      Solution: 5–10 mcg/minute up to 100 mcg/minute intravenously
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+      To control angina<newline/>
+      In the treatment of hypertensive emergency, pulmonary edema, and heart failure<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+      Lowers blood pressure<newline/>
+      Decreases cardiac workload
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+      Avanafil<newline/>
+      Riociguat<newline/> 
+      Sildenafil<newline/>
+      Tadalafil<newline/>
+      Vardenafil<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+      Alcohol<newline/>
+      Tobacco
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+      Orthostatic hypotension<newline/>
+      Tachycardia<newline/>
+      Paradoxical bradycardia<newline/>
+      Flushing<newline/>
+      Peripheral edema<newline/>
+      Nausea/vomiting<newline/>
+      Headache<newline/>
+      Blurred vision<newline/>
+      Syncope<newline/>
+      Palpitations<newline/>
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+      Hypersensitivity<newline/>
+      Increased intracranial pressure<newline/>
+      Cardiomyopathy<newline/>
+      Shock<newline count="2"/>
+      Caution:<newline/>
+      Hepatic impairment<newline/>
+      Renal impairment<newline/>
+      Myocardial infarction<newline/>
+      Hypotension<newline/>
+      Hypovolemia<newline/>
+      Head trauma<newline/>
+      Pregnancy<newline/>
+      Breastfeeding
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Prototype Table: Nitroglycerin<newline/>source: https://dailymed.nlm.nih.gov/dailymed/</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Nursing Implications</title>
+      <para id="para-00010">The nurse should do the following for clients who are taking nitrates:</para>
+      <list id="list-00002">
+      <item>Carefully assess the client for drug and herbal supplement interactions because they may cause profound hypotension.</item>
+      <item>Assess and monitor the client’s blood pressure during initial dosing and intermittently throughout drug therapy, especially if administering nitrates intravenously, because they may cause severe hypotension.</item>
+      <item>Do not administer nitrates if the client’s systolic blood pressure is less than 90 mm Hg and if the heart rate is greater than 100 beats/minute. Notify the health care provider.</item>
+      <item>Adhere to health care provider instructions on how and when to administer this classification of drug or when to hold the drug.</item>
+      <item>Assess adverse effects and therapeutic effects.</item>
+      <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+      </list>
+      <note class="client-teaching" id="note-00003">
+      <title>Nitrates</title>
+      <para id="para-00011"><emphasis effect="italics">Sublingual Nitrates</emphasis></para>
+      <para id="para-00012"><emphasis effect="bold">The client should:</emphasis></para>
+      <list list-type="bulleted" id="list-00003">
+      <item>Take sublingual nitrates if chest pain occurs. They should take one sublingual nitrate every 5 minutes times three doses if chest pain persists. If chest pain continues, the client should call 911.</item>
+      <item>Store sublingual nitrate bottles away from the light in a dry place and in the original amber glass bottle.</item>
+      </list>
+      <para id="para-00013"><emphasis effect="italics">Nitrate Patches</emphasis></para>
+      <para id="para-00012a"><emphasis effect="bold">The client should:</emphasis></para>
+      <list list-type="bulleted" id="list-00004">
+      <item>Apply patches once daily as a maintenance medication.</item>
+      <item>Avoid hairy areas when applying nitrate patches.</item>
+      <item>Remove nitrate patches for 10–12 hours before placing a new one to prevent tolerance.</item>
+      <item>Rotate sites of nitrate patches to prevent skin irritation.</item>
+      </list>
+      <para id="para-00012b"><emphasis effect="bold">The client <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+      <list list-type="bulleted" id="list-00005">
+      <item>Use patches for acute chest pain.</item>
+      <item>Take erectile dysfunction medications with nitrates because this may cause profound hypotension.</item>
+      </list>
+      <para id="para-00014"><emphasis effect="italics">Other Concern</emphasis></para>
+      <list list-type="bulleted" id="list-00006">
+      <item>Headaches may occur with the use of nitrates. Acetaminophen may help in relieving these headaches.</item>
+      <item>If low blood pressure develops, the client should lie on their back with legs elevated and notify their health care provider.</item>
+      </list>
+      </note>
+      <note class="unfolding-casestudy" id="note-00004">
+      <title>Part C</title>
+      <para id="para-00015">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study is a follow-up from Case Study Parts A and B.</para>
+      <para id="para-00016">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of hypertension stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks 1–2 miles. The chest pain is relieved by resting on a park bench. Ms. Tran states she experiences a burning in her chest that does not radiate to other areas. Ms. Tran denies nausea, diaphoresis, shortness of breath, or dizziness with chest pain.</para>
+      <para id="para-00017">The nurse performs a 12-lead ECG on Ms. Tran, as ordered. The health care provider notes that there are no ischemic changes and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil 40 mg orally three times daily and nitroglycerin 0.4 mg sublingually for chest pain. The nurse is developing a teaching care plan for Ms. Tran.</para>
+      <table class="unnumbered" summary="" id="table-00003">
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="1" colname="c2" colwidth="2*"/>
+      <tbody>
+      <row>
+      <entry><emphasis effect="bold">Vital Signs</emphasis><newline/>
+      Temperature: 98.4°F<newline/>
+      Blood Pressure: 144/90 mm Hg<newline/>
+      Heart Rate: 78 beats/min<newline/>
+      Respiratory Rate: 16 breaths/min<newline/>
+      Oxygen Saturation: 98% on room air<newline/>
+      Height: 5'3"<newline/>
+      Weight: 188 pounds</entry>
+      <entry><emphasis effect="bold">Physical examination:</emphasis><newline/>
+      Cardiovascular: No jugular vein distention or pedal edema; S1, S2 noted.<newline/>
+      Respiratory: Breath sounds clear on auscultation.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      </table>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec05_UCSQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec01_UCSQ2"/></para></problem></exercise>
+      </note>
+      </section>
+      <section class="chapter-summary" id="sect-00005">
+      <title>Chapter Summary</title>
+      <para id="para-00020">This chapter focused on antihypertension and antianginal drugs. Hypertension and angina were defined. Stroke volume and peripheral vascular resistance are the two determinants of blood pressure. The renin-angiotensin-aldosterone system was described and how it impacts blood pressure within the body was explained. Blood pressure guidelines by the American Heart Association were discussed. The types of angina were briefly explained along with typical findings.</para>
+      <para id="para-00021">Common antihypertensive and antianginal drug classifications were covered in the chapters. Drug classifications covered included ACE inhibitors, ARBs, beta-adrenergic blockers, calcium channel blockers, diuretics, and nitrates. These drug classifications are used as mono- or multi-drug treatment therapy for hypertension and angina.</para>
+      </section>
+      <section class="review-questions" id="sect-00006">
+      <title>Review Questions</title>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00022"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ1"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00023"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ2"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00024"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ3"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00025"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ4"/></para></problem></exercise>
+      <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00026"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ5"/></para></problem></exercise>
+      <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00027"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ6"/></para></problem></exercise>
+      <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ7"/></para></problem></exercise>
+      <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ8"/></para></problem></exercise>
+      <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00030"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ9"/></para></problem></exercise>
+      <exercise id="exer-00012"><problem id="prob-00012"><para id="para-00031"><link class="os-embed" url="#exercise/PS_Ch18_Sec1_MCQ10"/></para></problem></exercise>
+      </section>
+      <section class="references" id="sect-00007">
+      <title>References</title>
+      <para id="para-00032">Abrahamowicz, A. A., Ebinger, J., Whelton, S. P., Commodore-Mensah, Y., &amp; Yang, E. (2023). Racial and ethnic disparities in hypertension: Barriers and opportunities to improve blood pressure control. <emphasis effect="italics">Current Cardiology Reports</emphasis>, <emphasis effect="italics">25</emphasis>(1), 17–27. https://doi.org/10.1007/s11886-022-01826-x</para>
+      <para id="para-00033">Aggarwal, R., Yeh, R. W., Joynt-Maddox, K. E., &amp; Wadhera, R. K. (2023) Cardiovascular risk factor prevalence, treatment, and control in US adults aged 20 to 44 years, 2009 to March 2020. <emphasis effect="italics">Journal of the American Medical Association</emphasis>, <emphasis effect="italics">329</emphasis>(11), 899–909. https://doi.org/10.1001/jama.2023.2307</para>
+      <para id="para-00034">Akbari, P., &amp; Khorasani-Zadeh, A. (2022).<emphasis effect="italics"> Thiazide diuretics</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557838/ </para>
+      <para id="para-00035">American Heart Association. (2022a). <emphasis effect="italics">Angina (chest pain)</emphasis>. https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain</para>
+      <para id="para-00036">American Heart Association. (2022b). <emphasis effect="italics">Understanding blood pressure readings</emphasis>. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings</para>
+      <para id="para-00037">American Heart Association. (2023). <emphasis effect="italics">Children with high blood pressure often become adults with high blood pressure</emphasis>. https://newsroom.heart.org/news/children-with-high-blood-pressure-often-become-adults-with-high-blood-pressure</para>
+      <para id="para-00038">American Heart Association. (n.d.-a). <emphasis effect="italics">Health threats from high blood pressure</emphasis>. https://www.heart.org/en/health-topics/high-blood-pressure/health-threats-from-high-blood-pressure</para>
+      <para id="para-00039">American Heart Association. (n.d.-b). <emphasis effect="italics">How much sodium should I eat per day?</emphasis> https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/how-much-sodium-should-i-eat-per-day</para>
+      <para id="para-00040">American Heart Association. (n.d.-c). <emphasis effect="italics">Does smoking increase your high blood pressure risk?</emphasis> https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/smoking-high-blood-pressure-and-your-health</para>
+      <para id="para-00041">American Heart Association. (n.d.-d). <emphasis effect="italics">What exercise is right for me?</emphasis> https://www.heart.org/en/healthy-living/go-red-get-fit/what-exercise-is-right-for-me</para>
+      <para id="para-00042">Carter, A. (2022). <emphasis effect="italics">Angiotensin II receptor blockers (ARBs)</emphasis>. Healthline<emphasis effect="italics">.</emphasis> https://www.healthline.com/health/heart-disease/arbs</para>
+      <para id="para-00043">Centers for Disease Control and Prevention. (n.d.).<emphasis effect="italics"> Facts about hypertension</emphasis>. https://www.cdc.gov/bloodpressure/facts.htm</para>
+      <para id="para-00044">Challa, H. J., &amp; Ameer, M. A. (2023). <emphasis effect="italics">DASH diet to stop hypertension</emphasis>. StatPearls. https://www.statpearls.com/ArticleLibrary/viewarticle/38838</para>
+      <para id="para-00045">Colvin, C. L., King, J. B., Oparil, S., Wright, J. T., Jr, Ogedegbe, G., Mohanty, A., Hardy, S. T., Huang, L., Hess, R., Muntner, P., &amp; Bress, A. (2020). Association of race/ethnicity-specific changes in antihypertensive medication classes initiated among Medicare beneficiaries with the Eighth Joint National Committee Panel Member Report. <emphasis effect="italics">JAMA Network Open</emphasis>, <emphasis effect="italics">3</emphasis>(11), e2025127. https://doi.org/10.1001/jamanetworkopen.2020.25127</para>
+      <para id="para-00046">DailyMed. (Updated December 21, 2021). <emphasis effect="italics">Amiloride hydrochloride tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e0cc2d44-436a-47e8-a890-589882fff4c4</para>
+      <para id="para-00047">DailyMed. (Updated January 15, 2021). <emphasis effect="italics">Amlodipine besylate tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=829aad05-7f21-41c2-b80b-2da793ae70d7</para>
+      <para id="para-00048">DailyMed. (Updated June 14, 2023). <emphasis effect="italics">Atenolol tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b8a4689-3916-4f4b-b54a-bbb4e322d79b</para>
+      <para id="para-00049">DailyMed. (Updated January 19, 2023). <emphasis effect="italics">Benazepril HCL tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3631d1dc-45e1-0588-e054-00144ff88e88 </para>
+      <para id="para-00050">DailyMed. (Updated December 28, 2022). <emphasis effect="italics">Candesartan tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ceb5658-b03c-475d-9ef0-2cd0645191d3</para>
+      <para id="para-00051">DailyMed. (Updated December 31, 2022). <emphasis effect="italics">Captopril tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b44ab6e-6cd9-4e12-b9be-d2e4d954acb5</para>
+      <para id="para-00052">DailyMed. (Updated August 17, 2021). <emphasis effect="italics">Carvedilol tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7a7d3ca1-05b0-4c7e-aefa-492cc441585d</para>
+      <para id="para-00053">DailyMed. (Updated February 3, 2022). <emphasis effect="italics">Chlorthalidone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=648f005f-1eae-4718-bc3a-2587d706fae2</para>
+      <para id="para-00054">DailyMed. (Updated April 1, 2020). <emphasis effect="italics">Diltiazem HCL CD ER capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e39be50-ea17-4077-a2dc-668267049f6a</para>
+      <para id="para-00055">DailyMed. (Updated May 2, 2023). <emphasis effect="italics">Enalapril maleate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5c49fb37-1f09-4965-b213-5580d3a30a11</para>
+      <para id="para-00056">DailyMed. (Updated January 4, 2023). <emphasis effect="italics">Hydrochlorothiazide capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e31bd548-29ae-419a-831a-80ebb26e042f</para>
+      <para id="para-00057">DailyMed. (Updated July 13, 2022). <emphasis effect="italics">Isosorbide dinitrate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b166eb5b-bad8-4663-9c05-1c43539dab2c</para>
+      <para id="para-00058">DailyMed. (Updated October 31, 2022). <emphasis effect="italics">Isosorbide mononitrate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae8f74f0-e600-4452-8557-958b603e2709</para>
+      <para id="para-00059">DailyMed. (Updated November 3, 2021). <emphasis effect="italics">Lisinopril tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7</para>
+      <para id="para-00060">DailyMed. (Updated March 7, 2023). <emphasis effect="italics">Losartan potassium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ca012edc-923d-4ada-a261-db82b71b3c4f</para>
+      <para id="para-00061">DailyMed. (Updated May 5, 2023). <emphasis effect="italics">Metoprolol tartrate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24837d82-0f3f-4482-9af0-31e5f675c30f</para>
+      <para id="para-00062">DailyMed. (Updated June 29, 2022). <emphasis effect="italics">Nadolol tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e2e24b14-0169-4028-828a-894ad3c2ba55</para>
+      <para id="para-00063">DailyMed. (Updated April 5, 2023). <emphasis effect="italics">Nicardipine hydrochloride capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d1e275b8-c71a-4e8b-bca0-cfea048b5343</para>
+      <para id="para-00064">DailyMed. (Updated August 3, 2023). <emphasis effect="italics">Nifedipine capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b8b8cfee-ea71-44c2-81af-675efecfdf15</para>
+      <para id="para-00065">DailyMed. (Updated December 8, 2021). <emphasis effect="italics">Nitroglycerin lingual spray</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e7bbeff1-e4f1-43a6-a1b3-a8c3dcae817d</para>
+      <para id="para-00066">DailyMed. (Updated December 8, 2021). <emphasis effect="italics">Nitroglycerin ointment</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7da79fdf-0969-1ddd-e053-2991aa0a3ec4</para>
+      <para id="para-00067">DailyMed. (Updated November 20, 2018). <emphasis effect="italics">Nitroglycerin tablet, orally disintegrating</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=041f127e-5166-4484-bc1a-0a373d1187ae</para>
+      <para id="para-00068">DailyMed. (Updated November 3, 2014). <emphasis effect="italics">Nitroglycerin patch.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e98a2692-1cb9-4994-98d8-1d8d9ef1a256</para>
+      <para id="para-00069">DailyMed. (Updated September 12, 2022). <emphasis effect="italics">Nitroglycerin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d6df0d74-9c72-0bfd-aab8-b4967ef46c54</para>
+      <para id="para-00070">DailyMed. (Updated July 20, 2018). <emphasis effect="italics">Nipride RTU – sodium nitroprusside injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5acf0836-93ff-4064-b888-3f560e8a558d</para>
+      <para id="para-00071">DailyMed. (Updated October 8, 2020). <emphasis effect="italics">Propranolol HCL ER capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5229b561-287b-463c-8679-cda4c34f440b</para>
+      <para id="para-00072">DailyMed. (Updated November 25, 2020). <emphasis effect="italics">Spironolactone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb66327e-8261-46ae-b39a-4fa79d520844</para>
+      <para id="para-00073">DailyMed. (Updated December 30, 2022). <emphasis effect="italics">Telmisartan tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c62d424c-7630-413c-be2c-3932831c3f1d</para>
+      <para id="para-00074">DailyMed. (Updated July 3, 2023). <emphasis effect="italics">Triamterene capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a09c2212-1dd5-4fbe-ad09-2a57aeabcaea</para>
+      <para id="para-00075">DailyMed. (Updated August 18, 2021). <emphasis effect="italics">Valsartan tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8478a05f-38fd-412d-af49-69a73a787c8f</para>
+      <para id="para-00076">DailyMed. (Updated June 3, 2019). <emphasis effect="italics">Verapamil HCL tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a7002e7-e01f-43f9-e053-2a95a90a7191</para>
+      <para id="para-00077">Farzam, K., &amp; Jan, A. (2022). <emphasis effect="italics">Beta blockers</emphasis>. StatPearls<emphasis effect="italics">. </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK532906/</para>
+      <para id="para-00078">Goyal, A., Cusick, A. S., &amp; Thielemier, B. (2022). <emphasis effect="italics">ACE inhibitors</emphasis>. StatPearls.<emphasis effect="italics"> </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK430896/</para>
+      <para id="para-00079">Harvard Health Publishing. (2022). <emphasis effect="italics">Meditation and a relaxation technique to lower blood pressure</emphasis>. https://www.health.harvard.edu/heart-health/meditation-and-a-relaxation-technique-to-lower-blood-pressure</para>
+      <para id="para-00080">Herawati, I., Mat Ludin, A. F., M, M., Ishak, I., &amp; Farah, N. M. F. (2023). Breathing exercise for hypertensive patients: A scoping review. <emphasis effect="italics">Frontiers in Physiology</emphasis>, <emphasis effect="italics">14</emphasis>, 1048338. https://doi.org/10.3389/fphys.2023.1048338</para>
+      <para id="para-00081">Iqbal, A. M., &amp; Jamal, S. F. (2022). <emphasis effect="italics">Essential hypertension</emphasis>. StatPearls<emphasis effect="italics">. </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK539859/</para>
+      <para id="para-00082">Jun, H. R., Hyunah, K., Lee, S. H., Cho, J. H., Lee, H., Yim, H. W., Yoon, K. H., &amp; Kim, H. S. (2021). Onset of hyperkalemia following the administration of angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker. <emphasis effect="italics">Cardiovascular Therapeutics</emphasis>, PMC7943268. https://doi.org/10.1155/2021/5935149</para>
+      <para id="para-00083">Khalil, H., &amp; Zeltser, R. (2022). <emphasis effect="italics">Antihypertensive medications</emphasis>. StatPearls.<emphasis effect="italics"> </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK554579/</para>
+      <para id="para-00084">Lee, P. M., &amp; Gerriets, V. (2022) <emphasis effect="italics">Nitrates</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK545149/</para>
+      <para id="para-00085">Mayo Clinic. (2022a). <emphasis effect="italics">Ask Mayo Clinic: Hypertension </emphasis>[Video]. YouTube. https://youtu.be/NMuzXbyu7YY</para>
+      <para id="para-00086">Mayo Clinic. (2022b). <emphasis effect="italics">Mayo Clinic explains hypertension </emphasis>[Video]. YouTube. https://youtu.be/r5XTTeP039Q</para>
+      <para id="para-00087">National Center for Complementary and Integrative Health. (2021).<emphasis effect="italics"> Complementary health approaches for hypertension: What the science says</emphasis>. https://www.nccih.nih.gov/health/providers/digest/complementary-health-approaches-for-hypertension-science</para>
+      <para id="para-00088">Rousan, T. A., &amp; Thadani, U. (2019). Stable angina medical therapy management guidelines: A critical review of guidelines from the European Society of Cardiology and National Institute for Health and Care Excellence. <emphasis effect="italics">European Cardiology Review</emphasis>, <emphasis effect="italics">14</emphasis>(1), 18–22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6523058/</para>
+      <para id="para-00089">Sanches, M., &amp; Teixeira, A. L. (2021). The renin-angiotensin system, mood, and suicide: Are there associations? <emphasis effect="italics">World Journal of Psychiatry</emphasis>, <emphasis effect="italics">11</emphasis>(9), 581–588. https://doi.org/10.5498/wjp.v11.i9.581</para>
+      <para id="para-00090">Tucker, W. D., Sankar, P., &amp; Kariyanna, P. T. (2022). <emphasis effect="italics">Selective beta 1 blockers</emphasis>. StatPearls<emphasis effect="italics">. </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK499982/</para>
+      <para id="para-00091">Ueng, K. C., Chiang, C. E., Chao, T. H., Wu, Y. W., Lee, W. L., Li, Y. H., Ting, K. H., Su, C. H., Lin, H. J., Su, T. C., Liu, T. J., Lin, T. H., Hsu, P. C., Wang, Y. C., Chen, Z. C., Jen, H. L., Lin, P. L., Ko, F. Y., Yen, H. W., Chen, W. J., &amp; Hou, C. J. (2023). 2023 guidelines of the Taiwan Society of Cardiology on the diagnosis and management of chronic coronary syndrome. <emphasis effect="italics">Acta Cardiologica Sinica</emphasis>, <emphasis effect="italics">39</emphasis>(1), 4–96. https://doi.org/10.6515/ACS.202301_39(1).20221103A</para>
+      <para id="para-00092">Verma, N., Rastogi, S., Chia, Y. C., Siddique, S., Turana, Y., Cheng, H. M., Sogunuru, G. P., Tay, J. C., Teo, B. W., Wang, T. A., Tsoi, K. K. F., &amp; Kario, K. (2021). Non‐pharmacological management of hypertension. <emphasis effect="italics">Journal of Clinical Hypertension</emphasis>, <emphasis effect="italics">18</emphasis>(7), 1275–1283. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678745/</para>
+      <para id="para-00093">Wake, A. D. (2021). The role of dietary salt and alcohol use reduction in the management of hypertension. <emphasis effect="italics">Expert Review of Cardiovascular Therapy</emphasis>, <emphasis effect="italics">19</emphasis>(1), 27–40. https://doi.org/10.1080/14779072.2021.1850266</para>
+      <para id="para-00094">Wenger, N. K., Lloyd-Jones, D. M., Elkind, M. S. V., Fonarow, G. C., Warner, J. J., Alger, H. M., Cheng, S., Kinzy, C., Hall, J. L., &amp; Roger, V. L. (2022). Call to action for cardiovascular disease in women: Epidemiology, awareness, access, and delivery of equitable health care: A presidential advisory from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">145</emphasis>(3). https://doi.org/10.1161/CIR.0000000000001071</para>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>nitrate</term> <meaning>a classification of drug that causes vasodilation of blood vessels by imparting nitric oxide, which relaxes smooth muscles</meaning></definition>
+      </glossary>
+  
 </document>

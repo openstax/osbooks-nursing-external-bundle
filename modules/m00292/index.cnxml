@@ -6,8 +6,171 @@
     <md:uuid>529e0362-b2e6-4e97-bb4d-4a589d3cd7ba</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the characteristics of the diuretic drug class used to treat hypertension.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the diuretic drug class used to treat hypertension.</item>
+      <item>Describe nursing implications of diuretic drugs used to treat hypertension.</item>
+      <item>Explain the client education related to diuretic drugs used to treat hypertension.</item>
+      
+      </list>
+      </section>
+      <section id="sect-00006">
+      <title>Introduction and Use</title>
+      <para id="para-00005"><term id="term-00012">Diuretics</term> are a classification of drug that induces sodium loss and increase urine flow. They are typically used to treat hypertension, heart failure, and volume overload states. This chapter will cover diuretics as they are prescribed for hypertension and coronary heart disorders, thiazide and thiazide-like diuretics, and potassium-sparing diuretics. (Loop diuretics, which are also prescribed for heart failure, are discussed in <link document="m00314">Heart Failure</link>.</para>
+        
+      <note class="link-to-learning" id="note-00001">
+      <title>FDA Blood Pressure Booklet</title>
+      <para id="para-00002">The US Food and Drug Administration (FDA) provides a client-oriented webpage listing <link url="https://openstax.org/r/consumers">FDA-approved products currently available to treat hypertension</link>. It provides links to drug classifications such as ACE inhibitors, angiotensin II receptor blockers, beta blockers, calcium channel blockers, and diuretics. A <link url="https://openstax.org/r/govmeida">high blood pressure medicines</link> booklet also is available for download.</para>
+      </note>
+      </section>
+      <section id="sect-00002">
+      <title>Thiazide and Thiazide-Like Diuretics</title>
+      <para id="para-00003">Thiazide and thiazide-like diuretics inhibit the reabsorption of sodium and chloride in the distal renal tubules. These diuretics increase the excretion of sodium and water by the kidneys, producing diuresis in the client, and also create a potassium loss within the body. Along with ACE inhibitors, thiazide and thiazide-like diuretics are often the first line of treatment for clients diagnosed with hypertension and may be used in conjunction with other antihypertensive drugs (Akbari &amp; Khorasani-Zadeh, 2022).</para>
+      </section>
+      <section id="sect-00003">
+      <title> Potassium-Sparing Diuretics</title>
+      <para id="para-00004">Potassium-sparing diuretics antagonize aldosterone. These drugs reduce aldosterone-induced sodium and water retention in the late distal tubules of the kidneys. These types of diuretics retain potassium within the body; therefore, potassium does not need to be supplemented. Potassium-sparing diuretics are commonly used to treat hypertension and heart failure but should be used cautiously in clients with impaired renal function.</para>
+      <table class="vertically-tight" id="table-00001">
+      <title>lists common diuretics and typical routes and dosing for adult clients.</title>   
+      <tgroup cols="2">
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry><term class="no-emphasis" id="term-00001">Chlorthalidone</term> (<term class="no-emphasis" id="term-00002">Thalitone</term>)</entry>
+      <entry>12.5–100 mg daily orally; maximum dose 100 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00003">Hydrochlorothiazide</term> (<term class="no-emphasis" id="term-00004">Microzide</term>)</entry>
+      <entry>25–100 mg daily orally</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00005">Amiloride</term> (<term class="no-emphasis" id="term-00006">Midamor</term>)</entry>
+      <entry>5–20 mg daily orally; maximum dose 20 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00007">Spironolactone</term> (<term class="no-emphasis" id="term-00008">Aldactone</term>)</entry>
+      <entry>12.5–25 mg daily orally; maximum dose 50 mg daily</entry>
+      </row>
+      
+      <row>
+      <entry><term class="no-emphasis" id="term-00009">Traimeteren</term> <term class="no-emphasis" id="term-00010">(</term>Dyrenium<term class="no-emphasis" id="term-00011">)</term></entry>
+      <entry>Individualized based on client need. When used alone, the starting dose is 100 mg orally twice daily. Maximum dose should not exceed 300 mg orally daily.</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Emphasis Table: Thiazide-Like and Potassium-Sparing Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Adverse Effects and Contraindications</title>
+      <para id="para-00006">Diuretics are used to treat various disorders. Common adverse effects include mineral loss, weakness, fatigue, muscle cramps, palpitations, dizziness, and electrolyte imbalances. Adverse effects from hypokalemia (with thiazide and thiazide-like diuretics) and hyperkalemia (with potassium-sparing diuretics) are potentially severe and/or fatal. Clients with a hypersensitivity to diuretics or their components should not take this classification of drugs. Diuretics should be used cautiously in older clients and clients with hepatic or renal impairment, arrhythmias, or gout.</para>
+      <para id="para-00007"><emphasis effect="bold">Table 18.11</emphasis> is a drug prototype table for diuretics featuring hydrochlorothiazide (a thiazide diuretic). It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+      Thiazide diuretic<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+      Hydrochlorothiazide inhibits sodium chloride transport in the distal convoluted tubules, thereby causing increased sodium excretion in the kidney and lowering blood pressure.
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+      25–100 mg daily orally
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+      To control hypertension<newline/>
+      To control edema<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+      Lowers blood pressure<newline/>
+      Decreases edema
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+      Dofetilide<newline/>
+      Antidiabetic drugs<newline/>
+      Barbiturates<newline/>
+      Cholestyramine<newline/>
+      NSAIDs<newline/>
+      Lithium<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+      Alcohol<newline/>
+      Tobacco
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+      Blurred vision<newline/>
+      Chills/cold sweats<newline/>
+      Headache<newline/>
+      Joint pain/stiffness<newline/>
+      Nausea/vomiting<newline/>
+      Sore throat<newline/>
+      Trembling<newline/>
+      Weakness<newline/>
+      Stevens Johnson syndrome
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+      Anuria, hypersensitivity<newline count="2"/>
+      Caution:<newline/>
+      Orthostatic hypotension<newline/>
+      Impaired renal function<newline/>
+      Pregnancy<newline/>
+      Breastfeeding
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Prototype Table: Hydrochlorothiazide<newline/>source: https://dailymed.nlm.nih.gov/dailymed/</caption>
+      </table>
+      </section>
+      <section id="sect-00005">
+      <title>Nursing Implications</title>
+      <para id="para-00008">The nurse should do the following for clients who are taking diuretics:</para>
+      <list id="list-00002">
+      <item>Assess the client’s blood pressure and pulse on an ongoing basis with initial dosing and intermittently during drug therapy.</item>
+      <item>Assess the client for electrolyte imbalances and hyperglycemia as well as the client’s urine output. Urine output for an adult should be weight based at 0.5 mL/kg/hour.</item>
+      <item>Assess and monitor for adverse effects, drug and food interactions, and contraindications.</item>
+      <item>Provide client teaching regarding the drug and when to call the health care provider. See the chart below for client teaching guidelines.</item>
+      </list>
+      <note class="client-teaching" id="note-00002">
+      <title>Thiazide-Like and Potassium-Sparing Diuretics</title>
+      <para id="para-00009"><emphasis effect="bold">The client should:</emphasis></para>
+      <list list-type="bulleted" id="list-00003">
+      <item>Take diuretics early in the morning to avoid increased urination during the night and sleep disturbance.</item>
+      <item>Take diuretics with food to avoid GI upset, nausea, and vomiting.</item>
+      <item>Report a weight loss or weight gain greater than 2 pounds a day or 5 pounds a week to their health care provider.</item>
+      </list>
+      <para id="para-00009a"><emphasis effect="bold">Thiazide/Thiazide-Like Diuretics:</emphasis></para>
+      <list list-type="bulleted" id="list-00004">
+      <item>The client should report side effects such as low blood pressure, fatigue, bleeding, hypokalemia, weakness, rash, and leg cramps to their health care provider.</item>
+      <item>The client should eat potassium-rich foods such as avocados, bananas, and spinach to replace potassium.</item>
+      <item>Diabetics and pre-diabetics should monitor their blood glucose levels carefully due to these diuretics’ effects on carbohydrate metabolism.</item>
+      </list>
+      <para id="para-00009b"><emphasis effect="bold">Potassium-Sparing Diuretics:</emphasis></para>
+      <list list-type="bulleted" id="list-00005">
+      <item>The client should avoid exposure to direct sunlight because spironolactone can cause photosensitivity.</item>
+      <item>If potassium levels are high, the client should avoid potassium-rich foods such as avocados, bananas, beans, and spinach.</item>
+      </list>
+      </note>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>diuretic</term> <meaning>a classification of drug that induces sodium loss and increase urine flow; typically used to treat hypertension, heart failure, and volume overload states</meaning></definition>
+      </glossary>
+  
 </document>

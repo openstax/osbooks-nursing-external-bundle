@@ -6,8 +6,173 @@
     <md:uuid>20224fa2-8856-470f-ae38-7a0709896739</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the characteristics of the angiotensin-converting enzyme inhibitor drug class used to treat hypertension.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the angiotensin-converting enzyme inhibitor drug class used to treat hypertension.</item>
+      <item>Describe nursing implications of angiotensin-converting enzyme inhibitor drugs used to treat hypertension.</item>
+      <item>Explain the client education related to angiotensin-converting enzyme inhibitor drugs used to treat hypertension.</item>
+      </list>
+      </section>
+      <section id="sect-00002">
+      <title>Introduction and Use</title>
+      <para id="para-00002"><term id="term-00001">Angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II induces oxidative stress and inflammation of cardiac tissue, which contributes to adverse remodeling processes. Angiotensin II also causes vasoconstriction and inhibits the reuptake of norepinephrine, stimulating catecholamine release. The release of catecholamine decreases urinary excretion of sodium and water, which then causes the release of aldosterone. Aldosterone stimulates the hypertrophy of the vascular smooth muscles, causing thickening of the vascular smooth muscle wall and restricting blood flow. ACE inhibitors (see <emphasis effect="bold">Figure 18.5</emphasis>) are used to treat hypertension and cardiovascular diseases by reducing the release of aldosterone as part of the first line of treatment for clients who have hypertension (Goyal et al., 2022).</para>
+      <note class="show-data" id="note-00001">
+      <figure id="fig-00001">
+      <media alt="A diagram shows a healthy artery and heart and an unhealthy artery and heart. In the unhealthy diagrams, the artery walls and heard muscles are thicker than in the healthy drawings.  The diagram indicates that ACE inhibitors reverse this thickening.">
+      <image mime-type="image/png" src="../../media/PHA_Figure_18_00_005.png"/></media>
+      <caption>Angiotensin II constricts blood vessels; ACE inhibitors reverse thickening of the heart muscle. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption></figure>
+      </note>
+      <note class="special-considerations" id="note-00002">
+      <title>ACE Inhibitors</title>
+      <para id="para-00003"><term class="no-emphasis" id="term-00002">Some clients with hypertension</term> demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Black clients often have hypertension, but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies.</para>
+      <para id="para-00004">Source: <link url="https://openstax.org/r/accessdata">https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf</link></para>
+      </note>
+      <table class="vertically-tight" id="table-00001">
+      <title>lists common ACE inhibitors and typical routes and dosing for adult clients</title>   
+      <tgroup cols="2">
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry><term class="no-emphasis" id="term-00003">Benazepril</term> (<term class="no-emphasis" id="term-00004">Lotensin</term>)</entry>
+      <entry>10–40 mg daily orally</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00005">Captopril</term> (<term class="no-emphasis" id="term-00006">Capto</term>)</entry>
+      <entry>25–150 mg 2–3 times daily orally; maximum dose 450 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00007">Enalapril</term> (<term class="no-emphasis" id="term-00008">Vasotec</term>)</entry>
+      <entry>5–40 mg administered in either one or two daily doses. Initial dose: 5 mg orally once daily; maximum dose: 40 mg/day. May divide dose and administer twice daily.</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00009">Lisinopril</term> (<term class="no-emphasis" id="term-00010">Zestril</term>)</entry>
+      <entry>10–40 mg daily orally</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Emphasis Table: ACE Inhibitors (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title>Adverse Effects and Contraindications</title>
+      <para id="para-00006">ACE inhibitors are relatively safe to use and have a low incidence of serious adverse effects. Adverse effects include angioedema, nonproductive cough, neutropenia (low neutrophils in the blood), agranulocytosis (low granulocytes in the blood), proteinuria (protein in the urine), and rash. Clients may develop an ACE inhibitor–associated cough (a persistent, dry, itchy cough), hyperkalemia (elevated potassium level in the blood), or hypotension (Jun et al., 2021).</para>
+      <para id="para-00007">ACE inhibitors should not be taken during pregnancy. Clients with renal impairment should use them cautiously. Clients with a previous hypersensitivity reaction to an ACE inhibitor should not be prescribed this classification of drug.</para>
+      <para id="para-00008"><emphasis effect="bold">Table 18.3</emphasis> is a drug prototype table for ACE inhibitors featuring enalapril. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+      Angiotensin-converting enzyme (ACE) inhibitor<newline/>
+      <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+      Enalapril inhibits the enzyme that converts angiotensin I to angiotensin II and thereby suppresses the renin-angiotensin-aldosterone system.
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+      5–40 mg administered in either one or two daily doses. Initial dose: 5 mg orally once daily; maximum dose: 40 mg/day. May divide dose and administer twice daily.
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+      To control hypertension<newline/>
+      In the treatment of class C heart failure<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+      Lowers blood pressure<newline/>
+      Increases blood supply and oxygen to the heart
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+      Aliskiren<newline/>
+      Sacubitril/Valsartan<newline/>
+      Nonsteroidal anti-inflammatory drugs (NSAIDs) including selective cyclooxygenase-2 inhibitors<newline/>
+      Potassium-sparing diuretics<newline/>
+      Lithium<newline/>
+      Temsirolimus<newline/>
+      Sirolimus<newline/>
+      Everolimus<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+      Alcohol<newline/>
+      Tobacco
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+      Angioedema<newline/>
+      Fatigue<newline/>
+      Orthostatic hypotension<newline/>
+      Asthenia<newline/>
+      Diarrhea<newline/>
+      Nausea/vomiting<newline/>
+      Headache<newline/>
+      Dizziness/vertigo<newline/>
+      Hyperkalemia<newline/>
+      Cough<newline/>
+      Rash<newline/>
+      Abdominal pain<newline/>
+      Angina
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+      Hypersensitivity<newline/>
+      A history of angioedema related to previous treatment with an angiotensin-converting enzyme inhibitor or hereditary or idiopathic angioedema<newline/>
+      Pregnancy<newline count="2"/>
+      Caution:<newline/>
+      Aortic stenosis<newline/>
+      Diabetes<newline/>
+      Syncope<newline/>
+      Orthostatic hypotension<newline/>
+      Impaired renal function<newline/>
+      Breastfeeding
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Prototype Table: Enalapril</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Nursing Implications</title>
+      <para id="para-00009">The nurse should do the following for clients who are taking ACE inhibitors:</para>
+      <list id="list-00002">
+        <item>Assess the client’s blood pressure and pulse on an ongoing basis with initial dosing and intermittently during drug therapy.</item>
+        <item>Monitor serum potassium levels for hyperkalemia.</item>
+        <item>Assess and monitor the client for adverse effects, drug and food interactions, and contraindications.</item>
+        <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+        </list>
+      <note class="safety-alert" id="note-00003">
+      <title>ACE Inhibitors</title>
+      <para id="para-00010">Taking ACE inhibitors with potassium-containing salt substitutes or consuming large amounts of high potassium foods increases the risk of hyperkalemia. Having a blood potassium level above 6.0 mmol/L is considered a medical emergency and can result in cardiac arrest.</para>
+      </note>
+      
+      <note class="client-teaching" id="note-00004">
+      <title>ACE Inhibitors</title>
+      <para id="para-00011"><emphasis effect="bold">The client should</emphasis></para>
+      <list list-type="bulleted" id="list-00003">
+      <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium) due to the aldosterone release.</item>
+      <item>Report side effects such as low blood pressure, cough, heart palpitations, nausea, vomiting, fever, chills, sore throat, swelling of the eyes and lips, or difficulty breathing to their health care provider.</item>
+      <item>Notify their health care provider if pregnant, planning on getting pregnant, or breastfeeding before starting an ACE inhibitor.</item>
+      <item>Report symptoms such as chest pain, slurred speech, hemiparesis, and difficulty speaking or walking to their health care provider immediately because these may be symptoms of a heart attack or stroke.</item>
+      <item>Be aware that a persistent cough may develop when taking ACE inhibitors.</item>
+      </list>
+      </note>
+      <note class="black-box" id="note-00005">
+      <para id="para-00012">Birth defects can occur when taking ACE inhibitors during the second and third trimesters of pregnancy.</para>
+      </note>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>angiotensin-converting enzyme (ACE) inhibitor</term> <meaning>a classification of drug that blocks the body’s production of angiotensin II; the protein that causes vasoconstriction and inhibits the reuptake of norepinephrine, which stimulates catecholamine release</meaning></definition>
+      </glossary>
+  
 </document>

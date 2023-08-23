@@ -6,8 +6,165 @@
     <md:uuid>991d01f9-d2c1-47c3-aa0e-237dfb985be3</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you will be able to:</para>
+      <list id="list-00001">
+      <item>Identify the characteristics of the angiotensin II receptor blocker drug class used to treat hypertension.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the angiotensin II receptor blocker drug class used to treat hypertension.</item>
+      <item>Describe nursing implications of angiotensin II receptor blocker drugs used to treat hypertension.</item>
+      <item>Explain the client education related to angiotensin II receptor blocker drugs used to treat hypertension.</item>
+      </list>
+      </section>
+      <section id="sect-00002">
+      <title>Introduction and Use</title>
+      <para id="para-00002"><term id="term-00001">Angiotensin II receptor blockers (ARBs)</term> are a classification of drug that binds to and inhibits angiotensin II type I receptors. Renin secretion catalyzes the conversion of angiotensinogen to angiotensin in the liver where it is then converted to angiotensin II by the angiotensin-converting enzyme.</para>
+      <para id="para-00003">ARBs resemble ACE inhibitors in how they affect blood pressure and the cardiovascular system. However, there are three notable differences: ARBs are less likely than ACE inhibitors to cause a chronic cough (Carter, 2022); the risk of angioedema is decreased with ARBs as compared with ACE inhibitors; and, ARBs have been shown to be effective in the treatment of chronic kidney disease and heart failure.</para>
+      
+      <table class="vertically-tight" id="table-00001">
+      <title>lists common ARBs and typical routes and dosing for adult clients.</title>
+      <tgroup cols="2">
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry><term class="no-emphasis" id="term-00002">Candesartan</term> (<term class="no-emphasis" id="term-00003">Atacand</term>)</entry>
+      <entry>16 mg daily orally; maximum dose 32 mg daily in 1–2 divided doses</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00004">Losartan</term> (<term class="no-emphasis" id="term-00005">Cozaar</term>)</entry>
+      <entry>25–100 mg daily orally in 1–2 divided doses</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00006">Telmisartan</term> (<term class="no-emphasis" id="term-00007">Micardis</term>)</entry>
+      <entry>40 mg daily orally initially; maximum dose 80 mg daily</entry>
+      </row>
+      <row>
+      <entry><term class="no-emphasis" id="term-00008">Valsartan</term> (<term class="no-emphasis" id="term-00009">Diovan</term>)</entry>
+      <entry>80–320 mg once daily orally</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Emphasis Table: ARBs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+      </section>
+      <section id="sect-00003">
+      <title> Adverse Effects and Contraindications</title>
+      <para id="para-00005">Adverse effects of ARBs include dizziness, muscle cramps, weakness, heartburn, diarrhea, leg swelling, headaches, and weight loss. Serious adverse effects include angioedema, hypotension, hepatic impairment, and hyperkalemia.</para>
+      <note class="special-considerations" id="note-00001">
+      <title>ARBs</title>
+      <para id="para-00006">The renin-angiotensin system has been associated with increased risk of mood disorders. The use of ARBs may be associated with an increased risk of suicide compared with other antihypertensive therapies (Sanches &amp; Teixeira, 2021). Hypertensive clients with low renin (sometimes seen more often in Black client populations) demonstrate a lower response to ARB monotherapy. Concomitant therapy may be required to increase response to antihypertensive therapies. Older adults (65 years and older) and clients with hepatic impairment should start on a low initial dose because ARBs are metabolized by the liver.</para>
+      <para id="para-00007">Source: Colvin et al., 2020</para>
+      </note>
+      <para id="para-00008">ARBs should not be taken during pregnancy. Clients with hepatic impairment should use ARBs cautiously. Clients with a previous hypersensitivity reaction or angioedema to an ARB should not be prescribed this classification of drug. Clients with a history of mood disturbances or who are at risk for mood disturbances should be monitored closely for suicidal ideation.</para>
+      <note class="safety-alert" id="note-00002">
+      <title>ARBs</title>
+      <para id="para-00009">ARBs can have teratogenic effects (causing harm to the embryo or fetus), so clients should avoid being pregnant while taking an ARB.</para>
+      </note>
+      <para id="para-00010"><emphasis effect="bold">Table 18.5</emphasis> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+      <tbody>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+      Angiotensin II receptor blocker (ARB)<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+      Valsartan blocks the binding of angiotensin II to the angiotensin I receptor, thereby decreasing vasoconstriction and lowering blood pressure.
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+      80–320 mg daily orally
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+      To control hypertension<newline/>
+      In the treatment of heart failure<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+      Lowers blood pressure<newline/>
+      Increases blood supply and oxygen to the heart
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+      Aliskiren<newline/>
+      Spironolactone<newline/>
+      Triamterene<newline/>
+      Amiloride<newline/>
+      NSAIDs, including selective COX-2 inhibitors<newline/>
+      ACE inhibitors<newline/>
+      Lithium<newline/>
+      Potassium supplements<newline/>
+      Salt substitutes<newline count="2"/>
+      <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+      Alcohol<newline/>
+      Tobacco
+      </entry>
+      </row>
+      <row>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+      Hematuria<newline/>
+      Dizziness<newline/>
+      Syncope<newline/>
+      Increased thirst<newline/>
+      Decreased urinary output<newline/>
+      Irregular heartbeat<newline/>
+      Angioedema<newline/>
+      Hyperkalemia<newline/>
+      Orthostatic hypotension
+      </entry>
+      <entry>
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+      Hypersensitivity<newline/>
+      Concomitant use with aliskiren in clients with diabetes mellitus<newline/>
+      Pregnancy<newline count="2"/>
+      Caution:<newline/>
+      Hepatic impairment<newline/>
+      Renal impairment<newline/>
+      Hypotension<newline/>
+      Hypovolemia<newline/>
+      Hyperkalemia<newline/>
+      Breastfeeding
+      </entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Drug Prototype Table: Valsartan<newline/>
+      source: https://dailymed.nlm.nih.gov/dailymed/</caption>
+      </table>
+      </section>
+      <section id="sect-00004">
+      <title>Nursing Implications</title>
+      <para id="para-00011">The nurse should do the following for clients who are taking ARBs:</para>
+      <list id="list-00002">
+      <item>Monitor the client’s blood pressure as prescribed.</item>
+      <item>Monitor the client for interactions because many medications and herbal supplements interact with ARBs.</item>
+      <item>Monitor the client for adverse effects, including electrolyte imbalances and alterations in liver and renal function.</item>
+      <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+      </list>
+      <note class="client-teaching" id="note-00003">
+      <title>ARBs</title>
+      <para id="para-00012"><emphasis effect="bold">The client should</emphasis></para>
+      <list list-type="bulleted" id="list-00003">
+      <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium).</item>
+      <item>Report side effects such as low blood pressure, cough, heart palpitations, fever, chills, sore throat, swelling of lips or face, shortness of breath, or difficulty breathing to the health care provider.</item>
+      <item>Notify their health care provider if they experience abdominal pain, joint or muscle aches, muscle weakness, change in the amount of urine produced, or trouble breathing.</item>
+      <item>Notify their health care provider if pregnant, planning on getting pregnant, or breastfeeding before starting an ARB.</item>
+      </list>
+      </note>
+      <note class="black-box" id="note-00004">
+      <para id="para-00013">Birth defects can occur when taking ARBs during pregnancy.</para>
+      </note>
+      </section>
+      </content>
+      <glossary>
+      <definition id="def-00001"><term>angiotensin II receptor blocker (ARB)</term> <meaning>a classification of drug that binds to and inhibits angiotensin II type I receptors</meaning></definition>
+      </glossary>
+  
 </document>

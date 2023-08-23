@@ -7,7 +7,6 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-    <col:module document="m00294"/>
     <col:subcollection>
       <md:title>Introduction to Pharmacology for Nurses</md:title>
       <col:content>
@@ -220,6 +219,16 @@
             <col:module document="m00296"/>
             <col:module document="m00297"/>
             <col:module document="m00298"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anticoagulant, Antiplatelet, and Thrombolytic Drugs</md:title>
+          <col:content>
+            <col:module document="m00318"/>
+            <col:module document="m00294"/>
+            <col:module document="m00315"/>
+            <col:module document="m00316"/>
+            <col:module document="m00317"/>
           </col:content>
         </col:subcollection>
       </col:content>
