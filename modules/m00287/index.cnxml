@@ -19,10 +19,12 @@
       <section id="sect-00002">
       <title>Hypertension</title>
       <para id="para-00002">The cardiovascular system transports blood and oxygen throughout the body. Blood flows from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <emphasis effect="bold">Figure 18.2</emphasis>) represents the force that blood flow exerts on arterial walls.</para>
-      <figure id="fig-00001">
-      <media alt="The cross sections of an artery and vein show the different elements of an artery and vein. Both arteries and veins have tunica externa, tunica media, tunica intima, smooth muscle, vasa vasorum, and endothelium.  An artery also has an internal elastic membrane, external elastic membrane, nervi vasorum, and elastic fiber.">
-      <image mime-type="image/jpg" src="../../media/PHA_Unit05_16_22_001_Splash.jpg"/></media>
-      <caption>The walls of the arteries are much thicker than those of the veins because of the higher pressure of the blood that flows through them. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> 2e. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+      <note class="show-data" id="note-00001a">
+        <figure id="fig-00001">
+        <media alt="The cross sections of an artery and vein show the different elements of an artery and vein. Both arteries and veins have tunica externa, tunica media, tunica intima, smooth muscle, vasa vasorum, and endothelium.  An artery also has an internal elastic membrane, external elastic membrane, nervi vasorum, and elastic fiber.">
+        <image mime-type="image/png" src="../../media/PHA_Figure_18_00_002.png"/></media>
+        <caption>The walls of the arteries are much thicker than those of the veins because of the higher pressure of the blood that flows through them. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> 2e. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+        </note>
       <para id="para-00003">The two elements that determine blood pressure are cardiac output and peripheral vascular resistance. <term id="term-00001">Cardiac output</term> (CO) is the volume of blood pumped by the heart per unit of time, usually measured in liters per minute. The CO is determined by the <term id="term-00002">heart rate</term> (HR), the number of times the heart beats per minute, and <term id="term-00003">stroke volume</term> (SV)—the amount of blood ejected with each heartbeat—and is represented by the following equation: <m:math><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo>×</m:mo><m:mi>SV</m:mi></m:math>.</para>
       <para id="para-00004">Blood pressure is determined by examining both systolic and diastolic blood pressure readings. The <term id="term-00004">systolic blood pressure</term> reading represents the amount of pressure within the arteries when the heart contracts, whereas the <term id="term-00005">diastolic blood pressure</term> reading reflects the amount of pressure when the heart is at rest between beats. The diastolic blood pressure reading, which is the lower pressure within the arteries and vessels, determines the <term id="term-00006">peripheral vascular resistance</term> (also known as systemic vascular resistance) by measuring blood flow and the level of constriction or dilatation within the arteries and vessels. Blood pressure (BP) is measured in millimeters of mercury (mm Hg) and is expressed as the systolic pressure over the diastolic pressure (for instance, 125/90 mm Hg).</para>
       <para id="para-00005">Hypertension occurs when an individual’s blood pressure is above normal limits for a sustained period of time. Hypertension can be either primary (essential) hypertension or secondary hypertension. Primary hypertension is caused by unknown elements; however, some studies have implicated genetics and behavioral and environmental factors, including age, high salt intake, insulin resistance, obesity, high alcohol intake, sedentary lifestyle, smoking, and stress (Aggarwal et al., 2023; Iqbal &amp; Jamal, 2022). According to the Centers for Disease Control and Prevention (n.d.), approximately 116 million adults in the United States have hypertension.</para>
@@ -227,8 +229,8 @@
       </tbody>
       </tgroup>
       </table>
-      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00035"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec02_UCSQ1"/></para></problem></exercise>
-      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00036"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec02_UCSQ2"/></para></problem></exercise>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00035"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec1_UCSQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00036"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec1_UCSQ2"/></para></problem></exercise>
       </note>
       
       </section>
