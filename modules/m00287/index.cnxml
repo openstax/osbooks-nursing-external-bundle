@@ -18,7 +18,7 @@
       </section>
       <section id="sect-00002">
       <title>Hypertension</title>
-      <para id="para-00002">The cardiovascular system transports blood and oxygen throughout the body. Blood flows from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <emphasis effect="bold">Figure 18.2</emphasis>) represents the force that blood flow exerts on arterial walls.</para>
+      <para id="para-00002">The cardiovascular system transports blood and oxygen throughout the body. Blood flows from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <link target-id="fig-00001" document="m00287"/>) represents the force that blood flow exerts on arterial walls.</para>
       <note class="show-data" id="note-00001a">
         <figure id="fig-00001">
         <media alt="The cross sections of an artery and vein show the different elements of an artery and vein. Both arteries and veins have tunica externa, tunica media, tunica intima, smooth muscle, vasa vasorum, and endothelium.  An artery also has an internal elastic membrane, external elastic membrane, nervi vasorum, and elastic fiber.">
@@ -30,101 +30,73 @@
       <para id="para-00005">Hypertension occurs when an individual’s blood pressure is above normal limits for a sustained period of time. Hypertension can be either primary (essential) hypertension or secondary hypertension. Primary hypertension is caused by unknown elements; however, some studies have implicated genetics and behavioral and environmental factors, including age, high salt intake, insulin resistance, obesity, high alcohol intake, sedentary lifestyle, smoking, and stress (Aggarwal et al., 2023; Iqbal &amp; Jamal, 2022). According to the Centers for Disease Control and Prevention (n.d.), approximately 116 million adults in the United States have hypertension.</para>
       <para id="para-00006">Importantly, hypertension is not limited to adults; it can also affect children and adolescents. In the United States and other countries, primary hypertension affects up to 5% of individuals in this younger age group. Developing high blood pressure during childhood can have long-term consequences, potentially leading to hypertension in adulthood and increasing the risk of heart disease, stroke, and kidney damage. Certain modifiable risk factors can be addressed for this population to improve blood pressure levels, including obesity, physical activity, and nutrition. Health care providers should always assess blood pressure in the pediatric population to promote preventive measures within families and foster healthy lifestyle habits (American Heart Association, 2023).</para>
       <para id="para-00007">Secondary hypertension results from other conditions involving the central nervous system, endocrine system, and renal system and is treated along with the underlying condition. Secondary hypertension may be cured if the treatment for the underlying condition is successful.</para>
-      <para id="para-00008">Hormones also impact blood pressure regulation. The <term id="term-00007">renin-angiotensin-aldosterone system (RAAS)</term> and vasopressin are the main physiologic regulatory systems or pathways affecting blood pressure homeostasis. RAAS, as illustrated in <emphasis effect="bold">Figure 18.3</emphasis>, is a compensatory mechanism the body activates during <term id="term-00008">hypotension</term> (when blood pressure is low). Renin is released from the kidneys in response to low blood pressure. Renin interacts with angiotensinogen and converts it to <term id="term-00009">angiotensin I</term>. The angiotensin-converting enzyme in the pulmonary blood vessel endothelium is then triggered to produce <term id="term-00010">angiotensin II</term>, which constricts arterioles, increasing peripheral resistance and increasing blood pressure. Angiotensin II also stimulates the adrenal medulla to produce catecholamine, which yields <term id="term-00011">aldosterone</term>. Aldosterone causes the kidneys to retain water and sodium, which leads to water retention and results in an increased blood volume, cardiac output, and blood pressure. <term id="term-00012">Vasopressin</term> is an antidiuretic hormone that regulates reabsorption of water by the kidneys; it is released by the pituitary gland in response to low blood volume. Vasopressin causes retention of body fluids, vasoconstriction, and increased blood pressure.</para>
+      <para id="para-00008">Hormones also impact blood pressure regulation. The <term id="term-00007">renin-angiotensin-aldosterone system (RAAS)</term> and vasopressin are the main physiologic regulatory systems or pathways affecting blood pressure homeostasis. RAAS, as illustrated in <link target-id="fig-00002" document="m00287"/>, is a compensatory mechanism the body activates during <term id="term-00008">hypotension</term> (when blood pressure is low). Renin is released from the kidneys in response to low blood pressure. Renin interacts with angiotensinogen and converts it to <term id="term-00009">angiotensin I</term>. The angiotensin-converting enzyme in the pulmonary blood vessel endothelium is then triggered to produce <term id="term-00010">angiotensin II</term>, which constricts arterioles, increasing peripheral resistance and increasing blood pressure. Angiotensin II also stimulates the adrenal medulla to produce catecholamine, which yields <term id="term-00011">aldosterone</term>. Aldosterone causes the kidneys to retain water and sodium, which leads to water retention and results in an increased blood volume, cardiac output, and blood pressure. <term id="term-00012">Vasopressin</term> is an antidiuretic hormone that regulates reabsorption of water by the kidneys; it is released by the pituitary gland in response to low blood volume. Vasopressin causes retention of body fluids, vasoconstriction, and increased blood pressure.</para>
       <note class="show-data" id="note-00001">
       <figure id="fig-00002">
       <media alt="A diagram shows the path the renin-angiotensin-aldosterone system (RAAS) follows in the human body in response to low blood pressure. Organs that are involved in RAAS include the kidneys, liver, blood vessels, lungs, adrenal glands, pituitary gland, and the hypothalamus.">
       <image mime-type="image/png" src="../../media/PHA_Figure_18_00_003.png"/></media>
       <caption>The renin-angiotensin-aldosterone system (RAAS) is a compensatory mechanism the body activates when blood pressure is low. (credit: modification of work “Overview of the renin-angiotensin system” by Mikael Häggström/Wikimedia Commons, Public Domain)</caption></figure>
       </note>
-      <para id="para-00009"><emphasis effect="bold">Link to Learning: American Heart Association and Mayo Clinic</emphasis></para>
+      <note class="link-to-learning" id="note-00006">
+       <title>American Heart Association and Mayo Clinic</title>
       <para id="para-00010">The American Heart Association provides an <link url="https://openstax.org/r/watchlearnlive">interactive library on the anatomy of blood pressure</link>. The library includes images and topics to explore such as the anatomy of blood pressure, high blood pressure and the cardiovascular system, and a blood pressure test.</para>
-      <media alt="atoms_isotopes">
+      
+    <media alt="atoms_isotopes">
        <iframe width="560" height="315" src="https://openstax.org/r/mayoclinicexplain"/>
       </media>
       <para id="para-00011">This <link url="https://openstax.org/r/mayoclinicexplain">video with Dr. Leslie Thomas, MD</link>, a nephrologist at Mayo Clinic, discusses facts, questions, and answers about blood pressure to help clients better understand hypertension. This video talks about hypertension, risk factors, symptoms, diagnosis, treatment options, and coping methods to manage the disease process.</para>
+    </note>
       </section>
       <section id="sect-00003">
       <title>Grades of Hypertension</title>
-      <para id="para-00012">The American Heart Association (AHA) (n.d-a.) reports that prolonged elevation of blood pressure leads to the deterioration of blood vessels. The deterioration of blood vessels is measured by <term class="no-emphasis" id="term-00013">grades of hypertension</term>. Normal blood pressure is a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The chart below from the American College of Cardiology and AHA (see <emphasis effect="bold">Table 18.1</emphasis>) demonstrates the blood pressure categories and the readings associated with them.</para>
-      <table summary="" id="table-00001">
-      <title>The Structure of Democratic Regimes</title>
-      <tgroup cols="4">
-      <colspec colnum="1" colname="c1"/>
-      <colspec colnum="2" colname="c2"/>
-      <colspec colnum="3" colname="c3"/>
-      <colspec colnum="4" colname="c4"/>
-      <thead>
-      <row>
-      <entry align="center" namest="c1" nameend="c4">The Structure of Democratic Regimes</entry>
-      </row>
-      <row>
-      <entry align="center" namest="c1" nameend="c4"> </entry>
-      </row>
-      <row>
-      <entry align="center" namest="c1" nameend="c4">Head of Government</entry>
-      </row>
-      </thead>
-      <tbody>
-      <row>
-      <entry align="left"> </entry>
-      <entry align="left">Presidential</entry>
-      <entry align="left">Parliamentary</entry>
-      <entry align="left">Semi-Presidential</entry>
-      </row>
-      <row>
-      <entry align="left">Selection Method</entry>
-      <entry align="left">Popular election</entry>
-      <entry align="left">Selected by the legislature</entry>
-      <entry align="left">Selected by the legislature</entry>
-      </row>
-      <row>
-      <entry align="left">Fixed Term?</entry>
-      <entry align="left">Yes</entry>
-      <entry align="left">No</entry>
-      <entry align="left">No</entry>
-      </row>
-      <row>
-      <entry align="left">Responsible to Legislature?</entry>
-      <entry align="left">No</entry>
-      <entry align="left">Yes</entry>
-      <entry align="left">Yes</entry>
-      </row>
-      <row class="header-row">
-      <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold"> </emphasis></entry>
-      </row>
-      <row class="header-row">
-      <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold">Head of State</emphasis></entry>
-      </row>
-      <row>
-      <entry align="left"> </entry>
-      <entry align="left">Presidential</entry>
-      <entry align="left">Parliamentary</entry>
-      <entry align="left">Semi-Presidential</entry>
-      </row>
-      <row>
-      <entry align="left">Selection Method</entry>
-      <entry align="left">Typically, the head of government is also the head of state.</entry>
-      <entry align="left">There is considerable variation, including elected (e.g., Germany) and unelected (e.g., Great Britain) methods.</entry>
-      <entry align="left">Generally, the head of state is selected by popular election.</entry>
-      </row>
-      <row>
-      <entry align="left">Fixed Term?</entry>
-      <entry align="left">Yes</entry>
-      <entry align="left">Depends if position is elected or unelected. Elected are fixed term; unelected are not fixed term and include hereditary monarchies (e.g., Belgium).</entry>
-      <entry align="left">Yes</entry>
-      </row>
-      <row>
-      <entry align="left">Responsible to Legislature?</entry>
-      <entry align="left">No</entry>
-      <entry align="left">Yes</entry>
-      <entry align="left">In select situations, potentially. Enjoys dual authority with prime minister, but there is considerable variation across countries regarding the scope of authority the head of state has.</entry>
-      </row>
-      </tbody>
-      </tgroup>
-      </table>
-      
-      </section>
+      <para id="para-00012">The American Heart Association (AHA) (n.d-a.) reports that prolonged elevation of blood pressure leads to the deterioration of blood vessels. The deterioration of blood vessels is measured by <term class="no-emphasis" id="term-00013">grades of hypertension</term>. Normal blood pressure is a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The chart below from the American College of Cardiology and AHA (see <link target-id="table-00001" document="m00287"/>) demonstrates the blood pressure categories and the readings associated with them.</para>
+      <table class="alternate-shading" id="table-00001">
+        <title/>
+        <tgroup cols="4">
+        <thead>
+        <row>
+        <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
+        <entry><span class="blue-text"><emphasis>Systolic (mm Hg)</emphasis></span></entry>
+        <entry/>
+        <entry><span class="blue-text"><emphasis>Diastolic (mm Hg)</emphasis></span></entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry>Normal</entry>
+        <entry>&lt; 120</entry>
+        <entry>and</entry>
+        <entry>&lt; 80</entry>
+        </row>
+        <row>
+        <entry>Elevated</entry>
+        <entry>120–129</entry>
+        <entry>and</entry>
+        <entry>&lt; 80</entry>
+        </row>
+        <row>
+        <entry>Stage 1 Hypertension</entry>
+        <entry>130–139</entry>
+        <entry>or</entry>
+        <entry>80–89</entry>
+        </row>
+        <row>
+        <entry>Stage 2 Hypertension</entry>
+        <entry>140–180</entry>
+        <entry>or</entry>
+        <entry>90–120</entry>
+        </row>
+        <row>
+        <entry>Hypertensive Crisis</entry>
+        <entry>> 180</entry>
+        <entry>and/or</entry>
+        <entry>> 120</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>The American College of Cardiology and American Heart Association Categories for Hypertension (source: American Heart Association, https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings; Centers for Disease Control and Prevention, https://www.cdc.gov/bloodpressure/facts.htm)</caption>
+        </table>
+        </section>
       <section id="sect-00004">
       <title>Diagnostics</title>
       <para id="para-00013">A physical examination by a health care provider with a sphygmomanometer (blood pressure cuff or device) will identify an elevated blood pressure, and a 12-lead electrocardiogram (ECG) can assist in determining if the heart has a normal or abnormal rhythm. The health care provider also obtains blood work to determine factors that contribute to the client’s hypertension as well as how the body is reacting to elevated blood pressure. These laboratory tests include a complete blood cell count (CBC), basic electrolyte panel, cholesterol panel, and renal function. An echocardiogram—an ultrasound of the heart—is not typically included in diagnostic procedures to determine hypertension; however, the health care provider may add this diagnostic study to visualize the heart’s chambers, valves, and pumping action to determine the effect of hypertension on the heart, which may cause other disorders such as hypertrophy of the heart. The health care provider bases the diagnosis for hypertension on the findings of the physical examination and the diagnostic study results.</para>

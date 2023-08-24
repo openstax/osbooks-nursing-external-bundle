@@ -18,7 +18,7 @@
       </section>
       <section id="sect-00002">
       <title>Introduction and Use</title>
-      <para id="para-00002"><term id="term-00001">Angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II induces oxidative stress and inflammation of cardiac tissue, which contributes to adverse remodeling processes. Angiotensin II also causes vasoconstriction and inhibits the reuptake of norepinephrine, stimulating catecholamine release. The release of catecholamine decreases urinary excretion of sodium and water, which then causes the release of aldosterone. Aldosterone stimulates the hypertrophy of the vascular smooth muscles, causing thickening of the vascular smooth muscle wall and restricting blood flow. ACE inhibitors (see <emphasis effect="bold">Figure 18.5</emphasis>) are used to treat hypertension and cardiovascular diseases by reducing the release of aldosterone as part of the first line of treatment for clients who have hypertension (Goyal et al., 2022).</para>
+      <para id="para-00002"><term id="term-00001">Angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II induces oxidative stress and inflammation of cardiac tissue, which contributes to adverse remodeling processes. Angiotensin II also causes vasoconstriction and inhibits the reuptake of norepinephrine, stimulating catecholamine release. The release of catecholamine decreases urinary excretion of sodium and water, which then causes the release of aldosterone. Aldosterone stimulates the hypertrophy of the vascular smooth muscles, causing thickening of the vascular smooth muscle wall and restricting blood flow. ACE inhibitors (see <link target-id="fig-00001" document="m00288"/>) are used to treat hypertension and cardiovascular diseases by reducing the release of aldosterone as part of the first line of treatment for clients who have hypertension (Goyal et al., 2022).</para>
       <note class="show-data" id="note-00001">
       <figure id="fig-00001">
       <media alt="A diagram shows a healthy artery and heart and an unhealthy artery and heart. In the unhealthy diagrams, the artery walls and heard muscles are thicker than in the healthy drawings.  The diagram indicates that ACE inhibitors reverse this thickening.">
@@ -30,8 +30,8 @@
       <para id="para-00003"><term class="no-emphasis" id="term-00002">Some clients with hypertension</term> demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Black clients often have hypertension, but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies.</para>
       <para id="para-00004">Source: <link url="https://openstax.org/r/accessdata">https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf</link></para>
       </note>
+      <para id="para-00004a"><link target-id="table-00001" document="m00288"/> lists common ACE inhibitors and typical routes and dosing for adult clients.</para>
       <table class="vertically-tight" id="table-00001">
-      <title>lists common ACE inhibitors and typical routes and dosing for adult clients</title>   
       <tgroup cols="2">
       <thead>
       <row>
@@ -138,7 +138,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Enalapril</caption>
+      <caption>Drug Prototype Table: Enalapril (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00004">
@@ -157,7 +157,7 @@
       
       <note class="client-teaching" id="note-00004">
       <title>ACE Inhibitors</title>
-      <para id="para-00011"><emphasis effect="bold">The client should</emphasis></para>
+      <para id="para-00011"><emphasis effect="bold">The client should:</emphasis></para>
       <list list-type="bulleted" id="list-00003">
       <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium) due to the aldosterone release.</item>
       <item>Report side effects such as low blood pressure, cough, heart palpitations, nausea, vomiting, fever, chills, sore throat, swelling of the eyes and lips, or difficulty breathing to their health care provider.</item>
@@ -167,7 +167,8 @@
       </list>
       </note>
       <note class="black-box" id="note-00005">
-      <para id="para-00012">Birth defects can occur when taking ACE inhibitors during the second and third trimesters of pregnancy.</para>
+        <para id="para-00012a">The FDA has issued the following BLACK BOX WARNING:</para>
+        <para id="para-00012">Birth defects can occur when taking ACE inhibitors during the second and third trimesters of pregnancy.</para>
       </note>
       </section>
       </content>

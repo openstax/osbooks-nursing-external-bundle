@@ -20,10 +20,9 @@
       <title>Introduction and Use</title>
       <para id="para-00002"><term id="term-00001">Angiotensin II receptor blockers (ARBs)</term> are a classification of drug that binds to and inhibits angiotensin II type I receptors. Renin secretion catalyzes the conversion of angiotensinogen to angiotensin in the liver where it is then converted to angiotensin II by the angiotensin-converting enzyme.</para>
       <para id="para-00003">ARBs resemble ACE inhibitors in how they affect blood pressure and the cardiovascular system. However, there are three notable differences: ARBs are less likely than ACE inhibitors to cause a chronic cough (Carter, 2022); the risk of angioedema is decreased with ARBs as compared with ACE inhibitors; and, ARBs have been shown to be effective in the treatment of chronic kidney disease and heart failure.</para>
-      
+      <para id="para-00003a"><link target-id="table-00001" document="m00289"/> lists common ARBs and typical routes and dosing for adult clients.</para> 
       <table class="vertically-tight" id="table-00001">
-      <title>lists common ARBs and typical routes and dosing for adult clients.</title>
-      <tgroup cols="2">
+     <tgroup cols="2">
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
@@ -70,19 +69,19 @@
       <tgroup cols="2">
       <tbody>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Angiotensin II receptor blocker (ARB)<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
       Valsartan blocks the binding of angiotensin II to the angiotensin I receptor, thereby decreasing vasoconstriction and lowering blood pressure.
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
       80–320 mg daily orally
       </entry>
       </row>
       <row>
-      <entry>
+       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
       To control hypertension<newline/>
       In the treatment of heart failure<newline count="2"/>
@@ -90,7 +89,7 @@
       Lowers blood pressure<newline/>
       Increases blood supply and oxygen to the heart
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
       Aliskiren<newline/>
       Spironolactone<newline/>
@@ -107,7 +106,7 @@
       </entry>
       </row>
       <row>
-      <entry>
+       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
       Hematuria<newline/>
       Dizziness<newline/>
@@ -119,7 +118,7 @@
       Hyperkalemia<newline/>
       Orthostatic hypotension
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
       Hypersensitivity<newline/>
       Concomitant use with aliskiren in clients with diabetes mellitus<newline/>
@@ -135,8 +134,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Valsartan<newline/>
-      source: https://dailymed.nlm.nih.gov/dailymed/</caption>
+      <caption>Drug Prototype Table: Valsartan (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00004">
