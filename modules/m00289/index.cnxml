@@ -64,7 +64,7 @@
       <title>ARBs</title>
       <para id="para-00009">ARBs can have teratogenic effects (causing harm to the embryo or fetus), so clients should avoid being pregnant while taking an ARB.</para>
       </note>
-      <para id="para-00010"><emphasis effect="bold">Table 18.5</emphasis> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00010"><link target-id="table-00002" document="m00289"/> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
@@ -157,7 +157,8 @@
       </list>
       </note>
       <note class="black-box" id="note-00004">
-      <para id="para-00013">Birth defects can occur when taking ARBs during pregnancy.</para>
+        <para id="para-00013">The FDA has issued the following BLACK BOX WARNING:</para>
+        <para id="para-00013a">Birth defects can occur when taking ARBs during pregnancy.</para>
       </note>
       </section>
       </content>

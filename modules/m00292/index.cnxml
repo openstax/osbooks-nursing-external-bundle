@@ -25,7 +25,7 @@
       <title>FDA Blood Pressure Booklet</title>
       <para id="para-00002">The US Food and Drug Administration (FDA) provides a client-oriented webpage listing <link url="https://openstax.org/r/consumers">FDA-approved products currently available to treat hypertension</link>. It provides links to drug classifications such as ACE inhibitors, angiotensin II receptor blockers, beta blockers, calcium channel blockers, and diuretics. A <link url="https://openstax.org/r/govmeida">high blood pressure medicines</link> booklet also is available for download.</para>
       </note>
-      </section>
+      
       <section id="sect-00002">
       <title>Thiazide and Thiazide-Like Diuretics</title>
       <para id="para-00003">Thiazide and thiazide-like diuretics inhibit the reabsorption of sodium and chloride in the distal renal tubules. These diuretics increase the excretion of sodium and water by the kidneys, producing diuresis in the client, and also create a potassium loss within the body. Along with ACE inhibitors, thiazide and thiazide-like diuretics are often the first line of treatment for clients diagnosed with hypertension and may be used in conjunction with other antihypertensive drugs (Akbari &amp; Khorasani-Zadeh, 2022).</para>
@@ -69,27 +69,28 @@
       <caption>Drug Emphasis Table: Thiazide-Like and Potassium-Sparing Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
+    </section>
       <section id="sect-00004">
       <title>Adverse Effects and Contraindications</title>
       <para id="para-00006">Diuretics are used to treat various disorders. Common adverse effects include mineral loss, weakness, fatigue, muscle cramps, palpitations, dizziness, and electrolyte imbalances. Adverse effects from hypokalemia (with thiazide and thiazide-like diuretics) and hyperkalemia (with potassium-sparing diuretics) are potentially severe and/or fatal. Clients with a hypersensitivity to diuretics or their components should not take this classification of drugs. Diuretics should be used cautiously in older clients and clients with hepatic or renal impairment, arrhythmias, or gout.</para>
-      <para id="para-00007"><emphasis effect="bold">Table 18.11</emphasis> is a drug prototype table for diuretics featuring hydrochlorothiazide (a thiazide diuretic). It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00007"><link target-id="table-00002" document="m00292"/> is a drug prototype table for diuretics featuring hydrochlorothiazide (a thiazide diuretic). It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
       <row>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Thiazide diuretic<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
       Hydrochlorothiazide inhibits sodium chloride transport in the distal convoluted tubules, thereby causing increased sodium excretion in the kidney and lowering blood pressure.
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
       25–100 mg daily orally
       </entry>
       </row>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
       To control hypertension<newline/>
       To control edema<newline count="2"/>
@@ -97,7 +98,7 @@
       Lowers blood pressure<newline/>
       Decreases edema
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
       Dofetilide<newline/>
       Antidiabetic drugs<newline/>
@@ -111,7 +112,7 @@
       </entry>
       </row>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
       Blurred vision<newline/>
       Chills/cold sweats<newline/>
@@ -123,7 +124,7 @@
       Weakness<newline/>
       Stevens Johnson syndrome
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
       Anuria, hypersensitivity<newline count="2"/>
       Caution:<newline/>
