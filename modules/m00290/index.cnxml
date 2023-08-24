@@ -77,19 +77,19 @@
       <tgroup cols="2">
       <tbody>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Beta-adrenergic blocker<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Enalapril inhibits the enzyme that converts angiotensin I to angiotensin II and thereby suppresses the renin-angiotensin-aldosterone system.
+      Metoprolol tartrate blocks beta 1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure.
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
       50–400 mg orally twice daily
       </entry>
       </row>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
       To control hypertension<newline/>
       In the treatment of angina, acute myocardial infarction, and heart failure<newline count="2"/>
@@ -97,7 +97,7 @@
       Lowers blood pressure<newline/>
       Decreases cardiac workload
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
       Albuterol<newline/> 
       Clonidine<newline/> 
@@ -115,7 +115,7 @@
       </entry>
       </row>
       <row>
-      <entry>
+        <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
       Fatigue/weakness<newline/>
       Dizziness<newline/>
@@ -129,7 +129,7 @@
       Peripheral edema<newline/>
       Erectile dysfunction
       </entry>
-      <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
       Hypersensitivity<newline/>
       AV block<newline/>
@@ -151,7 +151,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Metoprolol Tartrate<newline/>source: https://dailymed.nlm.nih.gov/dailymed/</caption>
+      <caption>Drug Prototype Table: Metoprolol Tartrate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       <note class="clinical-tip" id="note-00002">
       <title>Assessing Comorbidities: Asthma, Chronic Obstructive Pulmonary Disease, and Diabetes</title>
