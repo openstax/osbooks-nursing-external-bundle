@@ -10,8 +10,8 @@
       <title>Learning Outcomes</title>
       <para id="para-00001">By the end of this section, you will be able to:</para>
       <list id="list-00001">
-      <item>Identify the characteristics of the nitrate drug class used to treat hypertension and angina.</item>
-      <item>Explain the indications, actions, adverse reactions, and interactions of the nitrate drug class used to treat hypertension and angina.</item>
+      <item>Identify the characteristics of the nitrate drugs used to treat hypertension and angina.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the nitrate drugs used to treat hypertension and angina.</item>
       <item>Describe nursing implications of nitrate drugs used to treat hypertension and angina.</item>
       <item>Explain the client education related to nitrate drugs used to treat hypertension and angina</item>
       </list>
@@ -22,7 +22,7 @@
       <note class="special-considerations" id="note-00001">
       <title>Nitrates</title>
       <para id="para-00003">Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.</para>
-      <para id="para-00004">Source: <link url="https://openstax.org/r/ncbiniggovbooks">https://www.ncbi.nlm.nih.gov/books/NBK545149/</link></para>
+      <para id="para-00004">Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/</para>
       </note>
       <para id="para-00004a"><link target-id="table-00001" document="m00293"/> lists common nitrates and typical routes and dosing for adult clients.</para>
       <table class="vertically-tight" id="table-00001">
@@ -30,25 +30,25 @@
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
       <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term> (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
-      <entry>Sublingual tablets: 5–10 mg by sublingual route as needed every two to four hours<newline/>Immediate-release tablets: 5–80 mg orally two to three times daily<newline/> Sustained-release capsules: 40 mg one to two times orally daily; maximum dose 160 mg daily</entry>
+      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 5–10 mg by sublingual route as needed every two to four hours<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally two to three times daily<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg one to two times orally daily; maximum dose 160 mg daily</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term> (<term class="no-emphasis" id="term-00005">Imdur</term>)</entry>
-      <entry>Immediate-release tablets: 5–20 mg twice daily Extended-release tablets: 30–60 mg once daily; maximum dose 240 mg daily</entry>
+      <entry><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–20 mg twice daily<newline/><emphasis effect="italics">Extended-release tablets:</emphasis> 30–60 mg once daily; maximum dose 240 mg daily</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term> (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
-      <entry>Sublingual tablets: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain Immediate-release tablets: 2.5–9 mg orally two to three times daily  Sustained-release tablets: 2.5 mg orally three to four times daily  Spray: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain Ointment: 1/2 to 2 inches applied topically every four to eight hours daily Patch (disk): Applied to skin once daily Solution: 5–10 mcg/minute up to 100 mcg/minute intravenously</entry>
+      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally three to four times daily<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every four to eight hours daily<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute intravenously</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00010">Nitroprusside</term> (<term class="no-emphasis" id="term-00011">Nipride</term>)</entry>
-      <entry>Solution: 0.3 mcg/kg/min intravenously and titrate every few minutes until desired effect is achieved; maximum dose 10 mcg/kg/min</entry>
+      <entry><emphasis effect="italics">Solution:</emphasis> 0.3 mcg/kg/min intravenously and titrate every few minutes until desired effect is achieved; maximum dose 10 mcg/kg/min</entry>
       </row>
       </tbody>
       </tgroup>
@@ -63,21 +63,20 @@
       <title>Nitrates</title>
       <para id="para-00008">Nitrates can induce hypotension. They should not be taken with PDE inhibitors because they can cause severe hypotension and cardiac decompensation.</para>
       </note>
-      <para id="para-00009"><emphasis effect="bold">Table 18.13</emphasis> is a drug prototype table for nitrates featuring nitroglycerin. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00009"><link target-id="table-00002" document="m00293"/> is a drug prototype table for nitrates featuring nitroglycerin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
       <row>
-        <entry valign="top">
+        <entry>
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Nitrate<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Nitroglycerin relaxes the smooth muscles and blood vessels, causing vasodilation, and thereby lowering blood pressure, heart rate, and cardiac workload.
+      Relaxes the smooth muscles and blood vessels, causing vasodilation, and thereby lowering blood pressure, heart rate, and cardiac workload
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
       Sublingual tablets: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
-      Immediate-release tablets: 2.5–9 mg orally two to three times daily<newline/>
       Sustained-release tablets: 2.5 mg orally three to four times daily<newline/>
       Spray: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
       Ointment: 1/2 to 2 inches applied topically every four to eight hours daily<newline/>
@@ -155,26 +154,24 @@
       </list>
       <note class="client-teaching" id="note-00003">
       <title>Nitrates</title>
-      <para id="para-00011"><emphasis effect="italics"><emphasis effect="bold">Sublingual Nitrates</emphasis></emphasis></para>
-      <para id="para-00012"><emphasis effect="bold">The client should:</emphasis></para>
+      <para id="para-00011">The client taking sublingual nitrates should:</para>
       <list list-type="bulleted" id="list-00003">
       <item>Take sublingual nitrates if chest pain occurs. They should take one sublingual nitrate every 5 minutes times three doses if chest pain persists. If chest pain continues, the client should call 911.</item>
       <item>Store sublingual nitrate bottles away from the light in a dry place and in the original amber glass bottle.</item>
       </list>
-      <para id="para-00013"><emphasis effect="italics"><emphasis effect="bold">Nitrate Patches</emphasis></emphasis></para>
-      <para id="para-00012a"><emphasis effect="bold">The client should:</emphasis></para>
+      <para id="para-00013">The client using nitrate patches should:</para>
       <list list-type="bulleted" id="list-00004">
       <item>Apply patches once daily as a maintenance medication.</item>
       <item>Avoid hairy areas when applying nitrate patches.</item>
       <item>Remove nitrate patches for 10–12 hours before placing a new one to prevent tolerance.</item>
       <item>Rotate sites of nitrate patches to prevent skin irritation.</item>
       </list>
-      <para id="para-00012b"><emphasis effect="bold">The client <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+      <para id="para-00012b"><emphasis effect="bold">The client using nitrates <emphasis effect="italics">should not</emphasis>:</emphasis></para>
       <list list-type="bulleted" id="list-00005">
       <item>Use patches for acute chest pain.</item>
       <item>Take erectile dysfunction medications with nitrates because this may cause profound hypotension.</item>
       </list>
-      <para id="para-00014"><emphasis effect="italics"><emphasis effect="bold">Other Concern</emphasis></emphasis></para>
+      <para id="para-00014"><emphasis effect="italics"><emphasis effect="bold">Other Concerns</emphasis></emphasis></para>
       <list list-type="bulleted" id="list-00006">
       <item>Headaches may occur with the use of nitrates. Acetaminophen may help in relieving these headaches.</item>
       <item>If low blood pressure develops, the client should lie on their back with legs elevated and notify their health care provider.</item>
@@ -230,7 +227,7 @@
       <section class="references" id="sect-00007">
       <title>References</title>
       <para id="para-00032">Abrahamowicz, A. A., Ebinger, J., Whelton, S. P., Commodore-Mensah, Y., &amp; Yang, E. (2023). Racial and ethnic disparities in hypertension: Barriers and opportunities to improve blood pressure control. <emphasis effect="italics">Current Cardiology Reports</emphasis>, <emphasis effect="italics">25</emphasis>(1), 17–27. https://doi.org/10.1007/s11886-022-01826-x</para>
-      <para id="para-00033">Aggarwal, R., Yeh, R. W., Joynt-Maddox, K. E., &amp; Wadhera, R. K. (2023) Cardiovascular risk factor prevalence, treatment, and control in US adults aged 20 to 44 years, 2009 to March 2020. <emphasis effect="italics">Journal of the American Medical Association</emphasis>, <emphasis effect="italics">329</emphasis>(11), 899–909. https://doi.org/10.1001/jama.2023.2307</para>
+      <para id="para-00033">Aggarwal, R., Yeh, R. W., Joynt-Maddox, K. E., &amp; Wadhera, R. K. (2023). Cardiovascular risk factor prevalence, treatment, and control in US adults aged 20 to 44 years, 2009 to March 2020. <emphasis effect="italics">Journal of the American Medical Association</emphasis>, <emphasis effect="italics">329</emphasis>(11), 899–909. https://doi.org/10.1001/jama.2023.2307</para>
       <para id="para-00034">Akbari, P., &amp; Khorasani-Zadeh, A. (2022).<emphasis effect="italics"> Thiazide diuretics</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557838/ </para>
       <para id="para-00035">American Heart Association. (2022a). <emphasis effect="italics">Angina (chest pain)</emphasis>. https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain</para>
       <para id="para-00036">American Heart Association. (2022b). <emphasis effect="italics">Understanding blood pressure readings</emphasis>. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings</para>
@@ -289,7 +286,7 @@
       <para id="para-00089">Sanches, M., &amp; Teixeira, A. L. (2021). The renin-angiotensin system, mood, and suicide: Are there associations? <emphasis effect="italics">World Journal of Psychiatry</emphasis>, <emphasis effect="italics">11</emphasis>(9), 581–588. https://doi.org/10.5498/wjp.v11.i9.581</para>
       <para id="para-00090">Tucker, W. D., Sankar, P., &amp; Kariyanna, P. T. (2022). <emphasis effect="italics">Selective beta 1 blockers</emphasis>. StatPearls<emphasis effect="italics">. </emphasis>https://www.ncbi.nlm.nih.gov/books/NBK499982/</para>
       <para id="para-00091">Ueng, K. C., Chiang, C. E., Chao, T. H., Wu, Y. W., Lee, W. L., Li, Y. H., Ting, K. H., Su, C. H., Lin, H. J., Su, T. C., Liu, T. J., Lin, T. H., Hsu, P. C., Wang, Y. C., Chen, Z. C., Jen, H. L., Lin, P. L., Ko, F. Y., Yen, H. W., Chen, W. J., &amp; Hou, C. J. (2023). 2023 guidelines of the Taiwan Society of Cardiology on the diagnosis and management of chronic coronary syndrome. <emphasis effect="italics">Acta Cardiologica Sinica</emphasis>, <emphasis effect="italics">39</emphasis>(1), 4–96. https://doi.org/10.6515/ACS.202301_39(1).20221103A</para>
-      <para id="para-00092">Verma, N., Rastogi, S., Chia, Y. C., Siddique, S., Turana, Y., Cheng, H. M., Sogunuru, G. P., Tay, J. C., Teo, B. W., Wang, T. A., Tsoi, K. K. F., &amp; Kario, K. (2021). Non‐pharmacological management of hypertension. <emphasis effect="italics">Journal of Clinical Hypertension</emphasis>, <emphasis effect="italics">18</emphasis>(7), 1275–1283. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678745/</para>
+      <para id="para-00092">Verma, N., Rastogi, S., Chia, Y. C., Siddique, S., Turana, Y., Cheng, H. M., Sogunuru, G. P., Tay, J. C., Teo, B. W., Wang, T. A., Tsoi, K. K. F., &amp; Kario, K. (2021). Non-pharmacological management of hypertension. <emphasis effect="italics">Journal of Clinical Hypertension</emphasis>, <emphasis effect="italics">18</emphasis>(7), 1275–1283. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678745/</para>
       <para id="para-00093">Wake, A. D. (2021). The role of dietary salt and alcohol use reduction in the management of hypertension. <emphasis effect="italics">Expert Review of Cardiovascular Therapy</emphasis>, <emphasis effect="italics">19</emphasis>(1), 27–40. https://doi.org/10.1080/14779072.2021.1850266</para>
       <para id="para-00094">Wenger, N. K., Lloyd-Jones, D. M., Elkind, M. S. V., Fonarow, G. C., Warner, J. J., Alger, H. M., Cheng, S., Kinzy, C., Hall, J. L., &amp; Roger, V. L. (2022). Call to action for cardiovascular disease in women: Epidemiology, awareness, access, and delivery of equitable health care: A presidential advisory from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">145</emphasis>(3). https://doi.org/10.1161/CIR.0000000000001071</para>
       </section>

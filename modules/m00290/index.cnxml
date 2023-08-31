@@ -10,8 +10,8 @@
       <title>Learning Outcomes</title>
       <para id="para-00001">By the end of this section, you will be able to:</para>
       <list id="list-00001">
-      <item>Identify the characteristics of the beta-adrenergic blocker drug class used to treat hypertension.</item>
-      <item>Explain the indications, actions, adverse reactions, and interactions of the beta-adrenergic blocker drug class used to treat hypertension.</item>
+      <item>Identify the characteristics of the beta-adrenergic blocker drugs used to treat hypertension.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the beta-adrenergic blocker drugs used to treat hypertension.</item>
       <item>Describe nursing implications of beta-adrenergic blocker drugs used to treat hypertension.</item>
       <item>Explain the client education related to beta-adrenergic blocker drugs used to treat hypertension.</item>
       </list>
@@ -26,11 +26,11 @@
       <note class="special-considerations" id="note-00001">
       <title>Beta Blockers</title>
       <para id="para-00005">Beta blockers pose an ethical dilemma for health care providers because they cause anxiolytic effects. The FDA, however, does not support this use for beta blockers. The health care provider may prescribe beta blockers <emphasis effect="italics">off-label</emphasis> (against FDA-approved labeling indications for drug use) for anxiety. Therefore, the prescribed use of beta blockers for anxiolysis should be weighed against standards of practice as well as risks and benefits to the client.</para>
-      <para id="para-00006">Source: <link url="https://openstax.org/r/ncbinih">https://www.ncbi.nlm.nih.gov/books/NBK557801/</link></para>
+      <para id="para-00006">Source: https://www.ncbi.nlm.nih.gov/books/NBK557801/</para>
       <para id="para-00007">Beta blockers may mask low blood sugar levels in diabetic clients due to sympathetic nervous system inhibition.</para>
-      <para id="para-00008">Source: <link url="https://openstax.org/r/ncbiniggov">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882013/</link></para>
+      <para id="para-00008">Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882013/</para>
       <para id="para-00009">Asthmatic clients and clients with chronic lung diseases should be monitored carefully while taking beta blockers because lung function can decrease due to beta 2 inhibition.</para>
-      <para id="para-00010">Source: <link url="https://openstax.org/r/ncbiniggovpmc">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801657/</link></para>
+      <para id="para-00010">Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801657/</para>
       </note>
       <para id="para-00010a"><link target-id="table-00001" document="m00290"/> lists common beta blockers and typical routes and dosing for adults.</para>
       <table class="vertically-tight" id="table-00001">
@@ -38,7 +38,7 @@
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
@@ -48,11 +48,11 @@
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00004">Carvediolol</term> (<term class="no-emphasis" id="term-00005">Coreq</term>)</entry>
-      <entry>6.25–25 mg daily orally; maximum dose 25 mg daily</entry>
+      <entry>6.25–25 mg twice daily orally; maximum dose 25 mg daily</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Metoprolol</term> (<term class="no-emphasis" id="term-00007">Lopressor</term>)</entry>
-      <entry>Initial dosage: 100 mg daily orally in single or divided doses. Increase dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. Effective dosage: 100–450 mg daily.</entry>
+      <entry><term class="no-emphasis" id="term-00006">Metoprolol tartrate</term> (<term class="no-emphasis" id="term-00007">Lopressor</term>)</entry>
+      <entry><emphasis effect="italics">Initial dosage:</emphasis> 100 mg daily orally in single or divided doses. Increase dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.<newline/><emphasis effect="italics">Effective dosage:</emphasis> 100–450 mg daily.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00008">Nadolol</term> (<term class="no-emphasis" id="term-00009">Corgard</term>)</entry>
@@ -72,7 +72,7 @@
       <para id="para-00012">Adverse effects of beta blockers are dizziness, fatigue, weight gain, constipation, cold hands and feet, hypercholesterolemia, shortness of breath, depression, nausea, dry mouth, and dry eyes. Serious adverse effects include bradycardia, arrhythmias, hypoglycemia, and hypotension. Rare side effects include sexual and erectile dysfunction.</para>
       <para id="para-00013">Beta blockers are contraindicated in clients with moderate to severe asthma and/or chronic lung diseases due to the potential for causing an exacerbation. Beta blockers should be used cautiously in clients with AV node and sinus bradycardia because they can aggravate these conditions. Beta blockers may exacerbate symptoms of Raynaud’s phenomenon or cause this disease process in clients. Diabetics should use beta blockers cautiously because they can mask the symptoms of hypoglycemia, causing confusion, fainting, or seizures.</para>
       
-      <para id="para-00014"><link target-id="table-00002" document="m00290"/> is a drug prototype table for beta-adrenergic blockers featuring metoprolol tartrate. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00014"><link target-id="table-00002" document="m00290"/> is a drug prototype table for beta-adrenergic blockers featuring metoprolol tartrate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
@@ -81,7 +81,7 @@
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Beta-adrenergic blocker<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Metoprolol tartrate blocks beta 1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure.
+      Blocks beta 1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
@@ -169,8 +169,7 @@
       </list>
       
       <note class="client-teaching" id="note-00003">
-      <title>Beta-Adrenergic Blockers</title>
-      <para id="para-00017"><emphasis effect="bold">The client should:</emphasis></para>
+      <title>The client taking beta-adrenergic blockers should:</title>
       <list list-type="bulleted" id="list-00003">
       <item>Take their pulse as directed before taking a beta-adrenergic blocker and do not administer the drug if the pulse is less than 60 beats/minute or as directed by their health care provider.</item>
       <item>Understand that beta-adrenergic blockers can induce hyperglycemia. Diabetic clients should monitor blood glucose levels closely.</item>
@@ -178,14 +177,14 @@
       <item>Report side effects such as bradycardia, hypotension, fatigue, dizziness, constipation, or sexual dysfunction to their health care provider.</item>
       <item>Monitor for symptoms of worsening heart failure such as fatigue, weight gain, and peripheral edema.</item>
       </list>
-      <para id="para-00017a"><emphasis effect="bold">The client <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+      <para id="para-00017a"><emphasis effect="bold">The client taking beta-adrenergic blockers <emphasis effect="italics">should not</emphasis>:</emphasis></para>
       <list list-type="bulleted" id="list-00004">
       <item>Take beta-adrenergic blockers with OTC drugs or herbal supplements such as ma-huang, ephedra, black cohosh, hawthorn, or licorice without consulting their health care provider because these supplements may interfere with the action of the beta-adrenergic blocker.</item>
       <item>Discontinue use without speaking with the health care provider first because this may cause exacerbation of angina and myocardial infarction.</item>
       </list>
       </note>
       <note class="black-box" id="note-00004">
-        <para id="para-00018a">The FDA has issued the following BLACK BOX WARNING:</para>
+        <para id="para-00018a"><emphasis effect="bold">Beta-Adrenergic Blockers</emphasis></para>
       <para id="para-00018">Beta blocker therapy should not be abruptly stopped but gradually tapered to avoid exacerbation of angina and myocardial infarction. Seek health care provider advice before discontinuing use.</para>
       </note>
       </section>

@@ -10,8 +10,8 @@
       <title>Learning Outcomes</title>
       <para id="para-00001">By the end of this section, you will be able to:</para>
       <list id="list-00001">
-      <item>Identify the characteristics of the calcium channel blocker drug class used to treat hypertension and angina.</item>
-      <item>Explain the indications, actions, adverse reactions, and interactions of the calcium channel blocker drug class used to treat hypertension and angina.</item>
+      <item>Identify the characteristics of the calcium channel blocker drugs used to treat hypertension and angina.</item>
+      <item>Explain the indications, actions, adverse reactions, and interactions of the calcium channel blocker drugs used to treat hypertension and angina.</item>
       <item>Describe nursing implications of calcium channel blocker drugs used to treat hypertension and angina.</item>
       <item>Explain the client education related to calcium channel blocker drugs used to treat hypertension and angina.</item>
       </list>
@@ -36,7 +36,7 @@
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
@@ -46,19 +46,19 @@
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00004">Diltiazem</term> (<term class="no-emphasis" id="term-00005">Cardizem</term>)</entry>
-      <entry>Initial dosage: 30 mg orally four times daily, before meals and at bedtime. Increase dosage gradually (given in divided doses three or four times daily) at one- to two-day intervals until optimum response is obtained.<newline/>Average optimum dosage: 180–360 mg daily.</entry>
+      <entry><emphasis effect="italics">Initial dosage:</emphasis> 30 mg orally four times daily, before meals and at bedtime. Increase dosage gradually (given in divided doses three or four times daily) at one- to two-day intervals until optimum response is obtained.<newline/><emphasis effect="italics">Average optimum dosage:</emphasis> 180–360 mg daily.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00006">Nicardipine</term> (<term class="no-emphasis" id="term-00007">Cardene</term>)</entry>
-      <entry>Sustained release: 30–60 mg daily; maximum dose 120 mg daily Intravenous infusion: 5–15 mg hourly</entry>
+      <entry><emphasis effect="italics">Sustained release:</emphasis> 30–60 mg daily; maximum dose 120 mg daily<newline/><emphasis effect="italics">Intravenous infusion:</emphasis> 5–15 mg hourly.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00008">Nifedipine</term> (<term class="no-emphasis" id="term-00009">Procardia</term>)</entry>
-      <entry>Immediate release: Starting dose 10 mg orally three times daily. The usual effective dose range is 10 to 20 mg three times daily. Doses above 120 mg daily are rarely necessary. More than 180 mg daily is not recommended. Sustained release: 30–60 mg daily orally; maximum dose 120 mg daily</entry>
+      <entry><emphasis effect="italics">Immediate release:</emphasis> Starting dose 10 mg orally three times daily. The usual effective dose range is 10–20 mg three times daily. Doses above 120 mg daily are rarely necessary. More than 180 mg daily is not recommended.<newline/><emphasis effect="italics">Sustained release:</emphasis> 30–60 mg daily orally; maximum dose 120 mg daily.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00010">Verapamil</term> (<term class="no-emphasis" id="term-00011">Calan SR, Verelan</term>)</entry>
-      <entry>Immediate release: 40–120 mg three times daily Sustained release: 180–240 mg daily Intravenous: Follow manufacturer’s instructions and health care provider’s orders</entry>
+      <entry><emphasis effect="italics">Immediate release:</emphasis> 40–120 mg three times daily<newline/><emphasis effect="italics">Sustained release:</emphasis> 180–240 mg daily<newline/><emphasis effect="italics">Intravenous:</emphasis> Follow manufacturer’s instructions and health care provider’s orders.</entry>
       </row>
       </tbody>
       </tgroup>
@@ -68,7 +68,7 @@
       <section id="sect-00003">
       <title>Adverse Effects and Contraindications</title>
       <para id="para-00009">Adverse effects of calcium channel blockers include dizziness, constipation, palpitations, fatigue, flushing, nausea, rash, headache, and swelling in the legs and feet. Serious side effects include thrombocytopenia, hypotension, and hyperglycemia. Clients with a hypersensitivity to calcium channel blockers or their components should not use this classification of drug. Other contraindications include sick sinus syndrome (except in clients with an artificial pacemaker), severe hypotension, a history of myocardial infarction, or a history of pulmonary congestion.</para>
-      <para id="para-00010"><emphasis effect="bold">Table 18.9</emphasis> is a drug prototype table for calcium channel blockers featuring amlodipine. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00010"><link target-id="table-00002" document="m00291"/> is a drug prototype table for calcium channel blockers featuring amlodipine. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
@@ -77,7 +77,7 @@
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Calcium channel blocker<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Amlodipine inhibits the influx of calcium ions into vascular smooth muscle and cardiac muscle, thereby decreasing peripheral vascular resistance and reducing blood pressure.
+      Inhibits the influx of calcium ions into vascular smooth muscle and cardiac muscle, thereby decreasing peripheral vascular resistance and reducing blood pressure
       </entry>
       <entry>
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
@@ -145,14 +145,14 @@
       <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
       </list>
       <note class="client-teaching" id="note-00003">
-      <title>Calcium Channel Blockers</title>
-      <para id="para-00012"><emphasis effect="bold">The client should:</emphasis></para>
+      <title>The client taking calcium channel blockers should:</title>
       <list list-type="bulleted" id="list-00003">
       <item>Report side effects such as severe headaches, dizziness, lightheadedness, flushing, nausea, and leg swelling to their health care provider.</item>
       <item>Take this medication with food to avoid GI upset, nausea, and vomiting.</item>
       </list>
       </note>
       <note class="black-box" id="note-00004">
+      <para id="para-00013a"><emphasis effect="bold">Calcium Channel Blockers</emphasis></para>
       <para id="para-00013">Immediate release nifedipine, a potent calcium blocker, may increase the risk of myocardial infarction, stroke, and arrhythmias.</para>
       </note>
       <note class="unfolding-casestudy" id="note-00006">

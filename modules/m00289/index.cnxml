@@ -26,24 +26,24 @@
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Candesartan</term> (<term class="no-emphasis" id="term-00003">Atacand</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00002">Candesartan</term><newline/>(<term class="no-emphasis" id="term-00003">Atacand</term>)</entry>
       <entry>16 mg daily orally; maximum dose 32 mg daily in 1–2 divided doses</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Losartan</term> (<term class="no-emphasis" id="term-00005">Cozaar</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00004">Losartan</term><newline/>(<term class="no-emphasis" id="term-00005">Cozaar</term>)</entry>
       <entry>25–100 mg daily orally in 1–2 divided doses</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Telmisartan</term> (<term class="no-emphasis" id="term-00007">Micardis</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00006">Telmisartan</term><newline/>(<term class="no-emphasis" id="term-00007">Micardis</term>)</entry>
       <entry>40 mg daily orally initially; maximum dose 80 mg daily</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00008">Valsartan</term> (<term class="no-emphasis" id="term-00009">Diovan</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00008">Valsartan</term><newline/>(<term class="no-emphasis" id="term-00009">Diovan</term>)</entry>
       <entry>80–320 mg once daily orally</entry>
       </row>
       </tbody>
@@ -64,16 +64,16 @@
       <title>ARBs</title>
       <para id="para-00009">ARBs can have teratogenic effects (causing harm to the embryo or fetus), so clients should avoid being pregnant while taking an ARB.</para>
       </note>
-      <para id="para-00010"><link target-id="table-00002" document="m00289"/> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+      <para id="para-00010"><link target-id="table-00002" document="m00289"/> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
       <tbody>
       <row>
-       <entry valign="top">
+       <entry>
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Angiotensin II receptor blocker (ARB)<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Valsartan blocks the binding of angiotensin II to the angiotensin I receptor, thereby decreasing vasoconstriction and lowering blood pressure.
+      Blocks the binding of angiotensin II to the angiotensin I receptor, thereby decreasing vasoconstriction and lowering blood pressure
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
@@ -147,8 +147,7 @@
       <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
       </list>
       <note class="client-teaching" id="note-00003">
-      <title>ARBs</title>
-      <para id="para-00012"><emphasis effect="bold">The client should</emphasis></para>
+      <title>The client taking ARBs should:</title>
       <list list-type="bulleted" id="list-00003">
       <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium).</item>
       <item>Report side effects such as low blood pressure, cough, heart palpitations, fever, chills, sore throat, swelling of lips or face, shortness of breath, or difficulty breathing to the health care provider.</item>
@@ -157,8 +156,8 @@
       </list>
       </note>
       <note class="black-box" id="note-00004">
-        <para id="para-00013">The FDA has issued the following BLACK BOX WARNING:</para>
-        <para id="para-00013a">Birth defects can occur when taking ARBs during pregnancy.</para>
+        <para id="para-00013"><emphasis effect="bold">ARBs</emphasis></para>
+        <para id="para-00013a">ARBs have the potential to harm or even kill a fetus if a woman takes these drugs while pregnant.</para>
       </note>
       </section>
       </content>
