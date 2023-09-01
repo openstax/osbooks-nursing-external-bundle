@@ -262,7 +262,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Designing Culturally and Linguistically Appropriate Programs</md:title>
+          <md:title>Culturally and Linguistically Appropriate Program Design</md:title>
           <col:content>
             <col:module document="m00220"/>
             <col:module document="m00221"/>
@@ -398,5 +398,6 @@
     <col:module document="m00375"/>
     <col:module document="m00376"/>
     <col:module document="m00377"/>
+    <col:module document="m00378"/>
   </col:content>
 </col:collection>
