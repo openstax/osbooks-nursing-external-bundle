@@ -5,9 +5,113 @@
     <md:content-id>m00093</md:content-id>
     <md:uuid>b62a6100-3107-48f1-b93c-8ab023b0d45d</md:uuid>
   </metadata>
- <content class="appendix">
+  <content class="appendix">
     <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+      <title>Appendix A: Apps and Websites to Support Nutritional Wellness</title>
+      <para id="para-00001">The apps in were identified by various sources, such as BuyersGuide.org, Medical News Today, and Active.com. This table does not serve as an exhaustive list.</para>
+  <table class="vertically-tight" id="table-00001">
+  <tgroup cols="2">
+   <tbody> 
+  <row>
+  <entry><emphasis effect="bold">Best Overall Nutrition Apps</emphasis></entry>
+  <entry/>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/PlateJoy" window="new">PlateJoy</link></entry>
+  <entry>Develops nutritionally sound meal plans with associated shopping lists based on personal data input.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/yummly" window="new">Yummly</link></entry>
+  <entry>Offers meal planning, recipes, and easy reads to introduce food exploration.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/lifesum" window="new">Lifesum</link></entry>
+  <entry>Focuses on healthy weight through self-care and better food selection options; tracks food and exercise and develops health goals. Recipes available.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/youate" window="new">Ate</link></entry>
+  <entry>Food journal that promotes mindful eating, exploring driving forces behind food selection and consumption.</entry>
+  </row>
+  <row>
+  <entry><emphasis effect="bold">Weight-Loss Programs</emphasis></entry>
+  <entry/>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/noom" window="new">NOOM</link></entry>
+  <entry>Exploring the psychology behind what, when, and why certain foods are eaten. Provides challenges to promote healthy weight and lifestyle with the goal of integration into consistent healthy decisions.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/nutrisystem" window="new">Nutrisystem</link></entry>
+  <entry>Provides meal and snack delivery based on healthy weight goal. Promotes healthy food substitution.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/ketocycle" window="new">Keto Cycle</link></entry>
+  <entry>Focus on weight loss via mindful integration of ketogenic diet. Meal prep included. Keto-nutritional approaches are not appropriate for everyone.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/dofasting" window="new">DoFasting</link></entry>
+  <entry>Promotes intermittent fasting to lose weight, attain healthy BMI, and improve gut health. Provides recipes, education, and workouts. Fasting nutritional approaches are not appropriate for everyone.</entry>
+  </row>
+  <row>
+  <entry><emphasis effect="bold">Recipes for Specific Pathologies</emphasis></entry>
+  <entry/>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/playdiabetic" window="new">Diabetic App</link></entry>
+  <entry>Diabetic food recipes that assist with blood sugar stabilization.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/playkidney" window="new">Kidney Diet</link></entry>
+  <entry>Renal recipes focusing on tracking phosphorus, protein, and potassium.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/playanti" window="new">Anti Inflammatory Diet Recipes</link></entry>
+  <entry>Anti-inflammatory recipes designed to maximize gut health as a precursor to holistic health promotion.</entry>
+  </row>
+  <row>
+  <entry><emphasis effect="bold">Meal Tracking</emphasis></entry>
+  <entry/>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/weightwatchers" window="new">Weight Watchers</link></entry>
+  <entry>Provides personal, flexible, nutritionally sound meal plans while encouraging lifestyle changes to promote health habits.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/gplanscom" window="new">G-Plans</link></entry>
+  <entry>Meal tracking and planning with focus on metabolic body type, exercise tracking, peer support, and artificial intelligence interactions.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/myfitnesspal" window="new">MyFitnessPal</link></entry>
+  <entry>Food diary that includes the ability to scan barcodes, provides recipes, tracks health habits, and provides peer support.</entry>
+  </row>
+  <row>
+  <entry><emphasis effect="bold">Other</emphasis></entry>
+  <entry/>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/healthharvardedu" window="new">BMI Calculator</link></entry>
+  <entry>Allows for quick BMI calculation.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/playgooglestore" window="new">Water Reminder</link></entry>
+  <entry>Promotes mindfulness of hydration.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/quenzacomblog" window="new">Quenza</link></entry>
+  <entry>Designed for the personal nutrition coach, provides a digital format to share exercises and track client progress; includes video support; and offers peer inspiration. Offers a 30-day free trial.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/heatherbauer" window="new">Nutrition coaching</link></entry>
+  <entry>websiteProvides virtual nutritional coaching from a registered dietician using a personalized plan, coaching, and compliance monitoring.</entry>
+  </row>
+  <row>
+  <entry><link url="https://openstax.org/r/whiskcom" window="new">Whisk</link></entry>
+  <entry>A free meal planner tool with recipes, meal planning, and grocery list creation tools.</entry>
+  </row>
+</tbody>
+  </tgroup>
+  <caption>Nutritional Wellness Apps and Websites</caption>
+  </table>
     </section>
-  </content>
-</document>
+   </content>
+  </document>
