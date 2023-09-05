@@ -1,13 +1,76 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
   <title>Implement Nutritional Strategies to Impact Cardiovascular Wellness</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Implement Nutritional Strategies to Impact Cardiovascular Wellness</md:title>
-    <md:content-id>m00051</md:content-id>
-    <md:uuid>efd4511d-5c10-4735-8a94-52c802309329</md:uuid>
+  <md:title>Implement Nutritional Strategies to Impact Cardiovascular Wellness</md:title>
+  <md:content-id>m00051</md:content-id>
+  <md:uuid>efd4511d-5c10-4735-8a94-52c802309329</md:uuid>
   </metadata>
- <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+  <content>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Objectives</title>
+  <para id="para-00001">By the end of this section, you will be able to:</para>
+  <list id="list-00001">
+  <item>LO 11.3.1 Assess the client for readiness to learn.</item>
+  <item>LO 11.3.2 Teach nutritional strategies to optimize cardiovascular wellness.</item>
+  </list>
+  </section>
+  <section id="sect-00002">
+  <title>Holistic Nursing Assessment of the Client</title>
+  <para id="para-00002">An implementation strategy is necessary for success. To solidify plan compliance, the nurse should involve the client in the creation of the plan, ensure that the client has a clear comprehension of the plan, and evaluate the holistic needs of the client.</para>
+  <para id="para-00003">Maintaining cardiovascular health when no disease is present is also critical. A first step to maintenance is to review diet plans. The <term class="no-emphasis" id="term-00001">MyPlate</term>, <term class="no-emphasis" id="term-00002">DASH</term>, and <term class="no-emphasis" id="term-00003">Mediterranean diet</term>s are well known and can be utilized to maintain cardiovascular health. In addition, reducing alcohol consumption, caffeine intake, red meats, saturated and trans fats, processed food consumptions, refined carbohydrates, sugary foods and drinks, and sodium have all been shown to be protective for cardiovascular health (Harvard University, 2023; Morales-Brown, 2020). Likewise, increasing the intake of fruits and vegetables, whole grains, fish, nuts, poultry, and using monounsaturated or polyunsaturated oils in place of saturated oils will help prevent cardiovascular disease (Harvard University, 2023).</para>
+  <para id="para-00004">If the client wishes to prescribe to one of the recommended diets, the nurse should educate them on inclusions, exclusions, and reductions (<emphasis effect="bold">Table 11.7</emphasis>).</para>
+  
+  <table class="vertically-tight" id="table-00001">
+  <tgroup cols="3">
+  <thead>
+  <row>
+  <entry><span class="blue-text"><emphasis>Diet Type</emphasis></span></entry>
+  <entry><span class="blue-text"><emphasis>Inclusions or Increases</emphasis></span></entry>
+  <entry><span class="blue-text"><emphasis>Exclusions or Reductions</emphasis></span></entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry>Mediterranean</entry>
+  <entry>High intake of olive oil, nuts, vegetables, fruits, whole grains, and cereals<newline/>
+  Moderate intake of fish and poultry in place of red meats</entry>
+  <entry>Restrict red meats, processed meats, sweets, dairy products, and added sugars<newline/>
+  Red wine consumed in moderation with meals</entry>
+  </row>
+  <row>
+  <entry>DASH</entry>
+  <entry>Increase vegetables, fruits, and whole grains<newline/>
+  Include fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils over other oils<newline/>
+  Increase food rich in potassium, calcium, magnesium, fiber, and protein</entry>
+  <entry>Decrease saturated fat, whole-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils<newline/>
+  Decrease sugary beverages and sweets<newline/>
+  Decrease trans fats<newline/>
+  Decrease sodium</entry>
+  </row>
+  <row>
+  <entry>MyPlate</entry>
+  <entry>2 cups fruit daily*<newline/>
+  2.5 cups vegetables daily*<newline/>
+  5-10 ounces of total grains (preferably half of this being whole grains) daily*<newline/>
+  5.5 ounces lean protein/meat daily*<newline/>
+  3 cups dairy per day—preferably low-fat options*<newline/>
+  * Note: These are averages, as sex and age can change recommended amounts</entry>
+  <entry>Decrease added sugars to &lt;50 grams a day<newline/>
+  Decrease saturated fats to &lt;22 grams a day<newline/>
+  Decrease sodium to &lt;2,300 mg a day</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Mediterranean, DASH, and MyPlate Diet Plan Inclusions, Increases, Exclusions, and Reductions<newline/>(source: Harvard University, 2023; Hinzey &amp; Chien, 2023; National Heart, Lung, and Blood Institute, 2021; U.S. Department of Agriculture, 2020)</caption>
+  </table>
+  <para id="para-00005">Holistic care is critical to heart health and should include a review of other lifestyle habits that can contribute to cardiovascular disease. For example, <term class="no-emphasis" id="term-00004">smoking</term> cessation is extremely important, as nicotine constricts blood vessels and reduces blood flow while increasing blood pressure (Srakocic, 2023).</para>
+  <para id="para-00006"><term class="no-emphasis" id="term-00005">Physical activity</term> is also paramount when reducing cardiovascular risks. <term class="no-emphasis" id="term-00006">Exercise</term> helps with weight control, BMI, and waistline management, and reduces the risk for diabetes. Regular <term class="no-emphasis" id="term-00007">physical activity</term> can also help manage stress and improve mood (Harvard University, 2023).</para>
+  <para id="para-00007">Lastly, sleep is a key consideration. Maintaining an adequate <term class="no-emphasis" id="term-00008">sleep</term> schedule contributes to cardiovascular risk reduction. Sleep has been shown to have an impact on factors that relate to cardiovascular health, such as dietary intake, weight, exercise, inflammation, and blood pressure (Harvard University, 2023).</para>
+  </section>
+  <section id="sect-00003">
+  <title>Client Teaching</title>
+  <para id="para-00008">Teaching a client with cardiovascular disease can be challenging. Symptoms like chronic fatigue, weakness, chest pain, and shortness of breath can make it difficult to motivate the client to learn. For these reasons, the nurse should include caretakers and family members whenever possible during education.</para>
+  <para id="para-00009">Teaching should include DASH, Mediterranean, and MyPlate diets. The nurse should help the client decide which would be most appropriate for their lifestyle. The nurse may need to adjust the diet to accommodate specific cultural and religious preferences and allergies, and to accommodate other comorbidities that require special dietary considerations.</para>
+  </section>
   </content>
-</document>
+  </document>

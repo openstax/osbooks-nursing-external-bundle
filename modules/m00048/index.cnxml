@@ -1,13 +1,14 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Introduction</md:title>
-    <md:content-id>m00048</md:content-id>
-    <md:uuid>fa896fa6-8402-4d2b-88df-d1242eaf7f8f</md:uuid>
+  <md:title>Introduction</md:title>
+  <md:content-id>m00048</md:content-id>
+  <md:uuid>fa896fa6-8402-4d2b-88df-d1242eaf7f8f</md:uuid>
   </metadata>
- <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+  <content class="introduction">
+  <figure class="splash" id="fig-00001"><media alt="A wooden bowl contains chopped, raw vegetables that are covered in spices."><image mime-type="image/jpg" src="../../media/NUT_Figure_11_00_001_Splash.jpg"/></media>
+  <caption>Adding spices like garlic or curry powder to foods may improve heart health by reducing cholesterol and improving blood flow. (credit: “Yay, Spices!” by Dennis Sylvester Hurd/Flickr, Public Domain)</caption></figure>
+  <para id="para-00001">Nutrition plays a key role in the proper development and maintenance of the cardiovascular system. When disease exists in a client’s cardiovascular system, the nurse should include nutritional considerations in the client’s care plan.</para>
+  <para id="para-00002">Consider this case: Mr. Jack Thompson, a 65-year-old Caucasian male, has no history of cardiovascular disease and skips annual exams with his primary care provider because he’s always felt healthy and takes good care of himself. While he does have an extensive family history of heart disease, he watches his diet, exercises regularly, and has not smoked in 20 years. He presents today with a personal problem that he refuses to discuss with anyone other than the provider and nurse when he gets in the room.</para>
   </content>
-</document>
+  </document>
