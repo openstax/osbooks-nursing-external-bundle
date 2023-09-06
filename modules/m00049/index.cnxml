@@ -10,8 +10,8 @@
   <title>Learning Objectives</title>
   <para id="para-00001">By the end of this section, you will be able to:</para>
   <list id="list-00001">
-  <item>LO 11.1.1 Recognize cues that indicate the impact of nutrition on the cardiovascular system.</item>
-  <item>LO 11.1.2 Analyze cues to determine the impact of nutrition on the cardiovascular system.</item>
+  <item>Recognize cues that indicate the impact of nutrition on the cardiovascular system.</item>
+  <item>Analyze cues to determine the impact of nutrition on the cardiovascular system.</item>
   </list>
   </section>
   <section id="sect-00002">
@@ -167,7 +167,7 @@
   <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch11_Sec01_UCSQ1"/></para></problem></exercise>
   <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00025"><link class="os-embed" url="#exercise/NUT_Ch11_Sec01_UCSQ2"/></para></problem></exercise>
   <para id="para-00026">The provider orders an ECG that is done at bedside and shows no abnormalities. The provider also orders a fasting lipid panel (serum cholesterol levels) to help determine the client’s risk for heart disease. Because Mr. Thompson is not fasting, the provider instructs him to return in the morning for a blood draw and to return in one week for follow-up. The provider also explains to Mr. Thompson that erectile dysfunction can be directly related to the decreased blood flow caused by hypertension. The client’s hypertension will have to be managed before the erectile dysfunction can be fully evaluated for cause.</para>
-  <para id="para-00027">(Reference: Antipolis, S. (2020). How to Treat High Blood Pressure Without Ruining Your Sex Life. <emphasis effect="italics">European Society of Cardiology</emphasis>. Retrieved from <link url="https://openstax.org/r/escardio" window="new">https://www.escardio.org/The-ESC/Press-Office/Press-releases/how-to-treat-high-blood-pressure-without-ruining-your-sex-life</link>.)</para>
+  <para id="para-00027">(Reference: Antipolis, S. (2020). How to Treat High Blood Pressure Without Ruining Your Sex Life. <emphasis effect="italics">European Society of Cardiology</emphasis>. Retrieved from https://www.escardio.org/The-ESC/Press-Office/Press-releases/how-to-treat-high-blood-pressure-without-ruining-your-sex-life.)</para>
   </note>
   </section>
   </section>
@@ -178,8 +178,7 @@
   <title>Nutritional Analysis and the Impact on the Cardiovascular System</title>
   <para id="para-00029">Nutritional issues can lead to changes in the electrical conduction of the heart. As a result, the client’s telemetry rhythm can become abnormal. Rhythm changes include <term class="no-emphasis" id="term-00028">atrial fibrillation</term>, <term class="no-emphasis" id="term-00029">atrial flutter</term>, <term class="no-emphasis" id="term-00030">T-wave abnormalities</term>, <term class="no-emphasis" id="term-00031">ST segment changes</term> related to AMI, <term class="no-emphasis" id="term-00032">U-wave</term> presence or prominence, <term class="no-emphasis" id="term-00033">torsade de pointes</term>, prolonged QT interval, and supraventricular tachycardia. Rhythm changes can relate to one or more deficiencies. See <link target-id="table-00002" document="m00049"/> for a list of <term class="no-emphasis" id="term-00034">telemetry</term> changes, the nutritional relation, and client symptoms.</para>
   <table class="alternate-shading" id="table-00002">
-  <title/>
-  <tgroup cols="3">
+    <tgroup cols="3">
   <thead>
   <row>   
   <entry><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
@@ -263,7 +262,7 @@
   </tgroup>
   <caption>Nutritional Relationship to Rhythm Changes (source: Akbar, Foth, Kahloon, &amp; Mountfort, 2022; Morales-Brown, 2020; Cohagan &amp; Brandis, 2022; Mayo Clinic, 2023b; Mayo Clinic, 2023a; Kenny &amp; Brown, 2022; Teymouri, et. al., 2022; Lee, et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c)</caption>
   </table>
-  <para id="para-00030">Numerous nutritional factors create or impact <term class="no-emphasis" id="term-00040">cardiovascular disease</term>s such as <term class="no-emphasis" id="term-00041">coronary heart disease</term>, <term class="no-emphasis" id="term-00042">cardiomyopathy</term> (a disease of the heart muscle), and <term class="no-emphasis" id="term-00043">hypertension</term>. <emphasis effect="bold">Table 11.3</emphasis> outlines a handful of cardiovascular diseases, the impact of nutrition, and the effect on the body.</para>
+  <para id="para-00030">Numerous nutritional factors create or impact <term class="no-emphasis" id="term-00040">cardiovascular disease</term>s such as <term class="no-emphasis" id="term-00041">coronary heart disease</term>, <term class="no-emphasis" id="term-00042">cardiomyopathy</term> (a disease of the heart muscle), and <term class="no-emphasis" id="term-00043">hypertension</term>. <link target-id="table-00003" document="m00049"/> outlines a handful of cardiovascular diseases, the impact of nutrition, and the effect on the body.</para>
   <table class="vertically-tight" id="table-00003">
   <tgroup cols="3">
   <colspec colnum="1" colname="c1"/>
