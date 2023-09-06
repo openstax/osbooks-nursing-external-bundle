@@ -34,7 +34,7 @@
  </thead>
   <tbody>
   <row>
-  <entry>Calcium</entry>
+    <entry valign="top">Calcium</entry>
   <entry>Soybeans (edamame)<newline/>
   Collard greens<newline/>
   Spinach<newline/>
@@ -47,7 +47,7 @@
   Plant-based milks</entry>
   </row>
   <row>
-  <entry>Potassium</entry>
+    <entry valign="top">Potassium</entry>
   <entry>Beans<newline/>
   Lentils<newline/>
   Potatoes<newline/>
@@ -57,7 +57,7 @@
   Artichoke</entry>
   </row>
   <row>
-  <entry>Sodium</entry>
+    <entry valign="top">Sodium</entry>
   <entry>Smoked, cured, salted, or canned meat, fish, or poultry<newline/>
   Frozen breaded meats and dinners<newline/>
   Canned entrees<newline/>
@@ -65,7 +65,7 @@
   Beans, canned with salt added</entry>
   </row>
   <row>
-  <entry>Magnesium</entry>
+    <entry valign="top">Magnesium</entry>
   <entry>Soy products<newline/>
   Legumes and seeds<newline/>
   Nuts, peanuts, and peanut butter<newline/>
@@ -75,7 +75,7 @@
   Dried beans</entry>
   </row>
   <row>
-  <entry>Fiber</entry>
+    <entry valign="top">Fiber</entry>
   <entry>Avocado<newline/>
   Brussels sprouts<newline/>
   Broccoli<newline/>
@@ -86,7 +86,7 @@
   Turnip greens</entry>
   </row>
   <row>
-  <entry>Saturated fats</entry>
+    <entry valign="top">Saturated fats</entry>
   <entry>Processed foods such as potato chips<newline/>
   Baked goods with hydrogenated oil or partially hydrogenated oil<newline/>
   Margarines<newline/>
@@ -102,7 +102,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Nutrient Education Table<newline/>(source: American Diabetes Association, 2023; Penn Medicine Lancaster General Health, 2023; University of California San Francisco, 2023; US Department of Health and Human Services, 2023; University of Washington, 2023; University of Rochester Medical Center, 2023)</caption>
+  <caption>Nutrient Education Table (source: American Diabetes Association, 2023; Penn Medicine Lancaster General Health, 2023; University of California San Francisco, 2023; US Department of Health and Human Services, 2023; University of Washington, 2023; University of Rochester Medical Center, 2023)</caption>
   </table>
   </section>
   <section id="sect-00004">
@@ -150,7 +150,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Blood Pressure Ranges<newline/>(source: National Institute on Aging, 2022)</caption></table>
+  <caption>Blood Pressure Ranges (source: National Institute on Aging, 2022)</caption></table>
   <para id="para-00012">Cholesterol levels are also critical. Excessive <term class="no-emphasis" id="term-00019">cholesterol</term> levels can lead to the buildup of plaques along blood vessels, resulting in restricted blood flow and leading to hypertension, peripheral vascular and artery disease, and cardiomyopathies, and can cause embolizing events in the body. <link target-id="table-00003" document="m00050"/> outlines ranges of cholesterol measurements and their meanings. (Johns Hopkins Medicine, 2023a).</para>
   <table class="alternate-shading" id="table-00003">
   <tgroup cols="7">
@@ -195,7 +195,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Cholesterol Levels<newline/>(source: Johns Hopkins Medicine, 2023a)</caption>
+  <caption>Cholesterol Levels (source: Johns Hopkins Medicine, 2023a)</caption>
   </table>
   <note class="unfolding-casestudy" id="note-00002">
   <title>Part B</title>

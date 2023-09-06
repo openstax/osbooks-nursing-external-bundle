@@ -103,8 +103,8 @@
   <entry>Positive deflection/smooth hill shape (most normal telemetry readings do not have a U wave)</entry>
   </row>
   <row>
-  <entry>QRS</entry>
-  <entry>complex 0.06-0.12 seconds</entry>
+  <entry>QRS complex</entry>
+  <entry>0.06-0.12 seconds</entry>
   <entry>Ventricular depolarization</entry>
   <entry>Cluster of QRS waves together</entry>
   </row>
@@ -128,7 +128,7 @@
   </row>
 </tbody>
   </tgroup>
-  <caption>Normal Telemetry Parameters<newline/>(source: UNC Eshelman School of Pharmacy, 2023 at https://apps.media.unc.edu/crashcart/Resources/PhysiologyReview.html)</caption>
+  <caption>Normal Telemetry Parameters (source: UNC Eshelman School of Pharmacy, 2023 at https://apps.media.unc.edu/crashcart/Resources/PhysiologyReview.html)</caption>
   </table>
   <para id="para-00016">There are certain telemetry changes in which nutritional issues and electrolyte abnormalities are often the primary cause. Common examples include:</para>
   <list list-type="bulleted" id="list-00004">
@@ -189,30 +189,30 @@
   </thead>
   <tbody>
   <row>
-  <entry>Atrial fibrillation/atrial flutter</entry>
-  <entry>Excessive <term class="no-emphasis" id="term-00035">caffeine</term> or <term class="no-emphasis" id="term-00036">alcohol</term> intake<newline/>
+   <entry valign="top">Atrial fibrillation/atrial flutter</entry>
+   <entry valign="top">Excessive <term class="no-emphasis" id="term-00035">caffeine</term> or <term class="no-emphasis" id="term-00036">alcohol</term> intake<newline/>
   High cholesterol levels<newline/>
   High blood pressure</entry>
-  <entry>Palpitations<newline/>
+  <entry valign="top">Palpitations<newline/>
   Lightheadedness<newline/>
   Chest pain<newline/>
   Extreme fatigue<newline/>
   Shortness of breath</entry>
   </row>
   <row>
-  <entry>Torsade de pointes</entry>
-  <entry>Primarily <term class="no-emphasis" id="term-00037">magnesium</term> deficiency<newline/>
+    <entry valign="top">Torsade de pointes</entry>
+    <entry valign="top">Primarily <term class="no-emphasis" id="term-00037">magnesium</term> deficiency<newline/>
   Can be related to <term class="no-emphasis" id="term-00038">calcium</term> deficiency<newline/>
   Can be related to magnesium deficiency<newline/>
   Can be related to <term class="no-emphasis" id="term-00039">potassium</term> deficiency<newline/></entry>
-  <entry>Can start with syncope (fainting), palpations, and dizziness<newline/>
+  <entry valign="top">Can start with syncope (fainting), palpations, and dizziness<newline/>
   Cardiac arrest</entry>
   </row>
   <row>
-  <entry>Supraventricular tachycardia</entry>
-  <entry>Excessive caffeine or alcohol intake<newline/>
+    <entry valign="top">Supraventricular tachycardia</entry>
+    <entry valign="top">Excessive caffeine or alcohol intake<newline/>
   Heart disease (high cholesterol, obesity, or blood pressure)</entry>
-  <entry>Palpitations<newline/>
+  <entry valign="top">Palpitations<newline/>
   Pounding sensation in the neck<newline/>
   Weakness<newline/>
   fatigue<newline/>
@@ -224,20 +224,20 @@
   Fainting</entry>
   </row>
   <row>
-  <entry>T-wave changes</entry>
-  <entry>Inverted T waves can relate to cardiac ischemia from heart disease and/or past acute myocardial infarction (AMI) (triggered by high cholesterol and high blood pressure)<newline/>
+    <entry valign="top">T-wave changes</entry>
+    <entry valign="top">Inverted T waves can relate to cardiac ischemia from heart disease and/or past acute myocardial infarction (AMI) (triggered by high cholesterol and high blood pressure)<newline/>
   Peaked T waves can indicate hyperkalemia</entry>
-  <entry>Symptomology related to cause and type of change</entry>
+  <entry valign="top">Symptomology related to cause and type of change</entry>
   </row>
   <row>
-  <entry>U-wave presence/prominence</entry>
-  <entry>Hypokalemia (low potassium levels) can cause tachycardia and U wave prominence</entry>
-  <entry>No symptomology unless it interferes with perfusion</entry>
+    <entry valign="top">U-wave presence/prominence</entry>
+    <entry valign="top">Hypokalemia (low potassium levels) can cause tachycardia and U wave prominence</entry>
+    <entry valign="top">No symptomology unless it interferes with perfusion</entry>
   </row>
   <row>
-  <entry>ST segment changes/AMI</entry>
-  <entry>AMI can result from high cholesterol, obesity, and old ischemia damage to the heart</entry>
-  <entry>Chest pain<newline/>
+    <entry valign="top">ST segment changes/AMI</entry>
+    <entry valign="top">AMI can result from high cholesterol, obesity, and old ischemia damage to the heart</entry>
+    <entry valign="top">Chest pain<newline/>
   Cardiac arrest<newline/>
   Diaphoresis<newline/>
   Shock<newline/>
@@ -249,19 +249,19 @@
   Pain in one or both arms and/or shoulders</entry>
   </row>
   <row>
-  <entry>QT Interval</entry>
-  <entry>Shortened QT intervals can indicate hyperkalemia</entry>
-  <entry>Can trigger a lethal heart rhythm</entry>
+    <entry valign="top">QT Interval</entry>
+    <entry valign="top">Shortened QT intervals can indicate hyperkalemia</entry>
+    <entry valign="top">Can trigger a lethal heart rhythm</entry>
   </row>
   <row>
-  <entry>Many other rhythm disturbances</entry>
-  <entry>Hyperkalemia can cause wide QRS complexes and hidden P waves, prolonged PR interval, decreased P wave amplitude, ventricular fibrillation, and asystole, junctional rhythm, bradycardia, ST depression, atrial fibrillation, in addition to other issues listed<newline count="2"/>
+    <entry valign="top">Many other rhythm disturbances</entry>
+    <entry valign="top">Hyperkalemia can cause wide QRS complexes and hidden P waves, prolonged PR interval, decreased P wave amplitude, ventricular fibrillation, and asystole, junctional rhythm, bradycardia, ST depression, atrial fibrillation, in addition to other issues listed<newline count="2"/>
   Hypoalbuminemia can cause low-voltage wave measurements and abnormal QT interval measurements and has been identified as a factor to increase mortality in AMI, atrial fibrillation events, and heart failure</entry>
-  <entry>Symptomology related to cause and type of change</entry>
+  <entry valign="top">Symptomology related to cause and type of change</entry>
   </row>
   </tbody>
   </tgroup>
-  <caption>Nutritional Relationship to Rhythm Changes<newline/>(source: Akbar, Foth, Kahloon, &amp; Mountfort, 2022; Morales-Brown, 2020; Cohagan &amp; Brandis, 2022; Mayo Clinic, 2023b; Mayo Clinic, 2023a; Kenny &amp; Brown, 2022; Teymouri, et. al., 2022; Lee, et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c)</caption>
+  <caption>Nutritional Relationship to Rhythm Changes (source: Akbar, Foth, Kahloon, &amp; Mountfort, 2022; Morales-Brown, 2020; Cohagan &amp; Brandis, 2022; Mayo Clinic, 2023b; Mayo Clinic, 2023a; Kenny &amp; Brown, 2022; Teymouri, et. al., 2022; Lee, et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c)</caption>
   </table>
   <para id="para-00030">Numerous nutritional factors create or impact <term class="no-emphasis" id="term-00040">cardiovascular disease</term>s such as <term class="no-emphasis" id="term-00041">coronary heart disease</term>, <term class="no-emphasis" id="term-00042">cardiomyopathy</term> (a disease of the heart muscle), and <term class="no-emphasis" id="term-00043">hypertension</term>. <emphasis effect="bold">Table 11.3</emphasis> outlines a handful of cardiovascular diseases, the impact of nutrition, and the effect on the body.</para>
   <table class="vertically-tight" id="table-00003">
@@ -284,27 +284,32 @@
   </row>
   <row>
   <entry>Peripheral vascular disease (PVD)</entry>
+  <entry morerows="1"></entry>
   <entry>Slows return of blood to the heart, leading to pooling of deoxygenated blood in the lower extremities</entry>
   </row>
   <row>
   <entry>Peripheral arterial disease (PAD)</entry>
+  <entry morerows="1"></entry>
   <entry>Slows flow of blood to the body causing ischemia</entry>
   </row>
   <row>
   <entry>Chronic heart failure (CHF)</entry>
+  <entry morerows="1"></entry>
   <entry>Causes weakening of the heart muscle</entry>
   </row>
   <row>
   <entry>Cardiomyopathy</entry>
+  <entry morerows="1"></entry>
   <entry>Causes enlargement and weakening of the heart muscle</entry>
   </row>
   <row>
   <entry>Hypertension</entry>
+  <entry morerows="1"></entry>
   <entry>Increases workload on the heart leading to cardiomyopathy and CHF</entry>
   </row>
   </tbody>
   </tgroup>
-  <caption>Cardiovascular Diseases<newline/>(source: Albakri, 2019; Harvard University, 2023; Centers for Disease Control and Prevention, 2022; Medline Plus, 2022)</caption>
+  <caption>Cardiovascular Diseases (source: Albakri, 2019; Harvard University, 2023; Centers for Disease Control and Prevention, 2022; Medline Plus, 2022)</caption>
   </table>
   </section>
   </section>
