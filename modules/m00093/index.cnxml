@@ -7,7 +7,7 @@
   </metadata>
   <content class="appendix">
     <section id="sect-00001">
-      <title>Appendix A: Apps and Websites to Support Nutritional Wellness</title>
+      <title/>
       <para id="para-00001">The apps in <link target-id="table-00001" document="m00093"/> were identified by various sources, such as BuyersGuide.org, Medical News Today, and Active.com. This table does not serve as an exhaustive list.</para>
   <table class="vertically-tight" id="table-00001">
   <tgroup cols="2">
@@ -15,7 +15,7 @@
     <colspec colnum="2" colname="c2"/>
    <tbody> 
   <row>
-   <entry namest="c1" nameend="c2"><emphasis effect="bold">Best Overall Nutrition Apps</emphasis></entry>
+   <entry namest="c1" nameend="c2"><emphasis effect="bold">Overall Nutrition Apps</emphasis></entry>
   </row>
   <row>
   <entry><link url="https://openstax.org/r/PlateJoy" window="new">PlateJoy</link></entry>
