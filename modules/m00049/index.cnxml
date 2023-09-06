@@ -179,9 +179,9 @@
   <para id="para-00029">Nutritional issues can lead to changes in the electrical conduction of the heart. As a result, the client’s telemetry rhythm can become abnormal. Rhythm changes include <term class="no-emphasis" id="term-00028">atrial fibrillation</term>, <term class="no-emphasis" id="term-00029">atrial flutter</term>, <term class="no-emphasis" id="term-00030">T-wave abnormalities</term>, <term class="no-emphasis" id="term-00031">ST segment changes</term> related to AMI, <term class="no-emphasis" id="term-00032">U-wave</term> presence or prominence, <term class="no-emphasis" id="term-00033">torsade de pointes</term>, prolonged QT interval, and supraventricular tachycardia. Rhythm changes can relate to one or more deficiencies. See <link target-id="table-00002" document="m00049"/> for a list of <term class="no-emphasis" id="term-00034">telemetry</term> changes, the nutritional relation, and client symptoms.</para>
   <table class="alternate-shading" id="table-00002">
     <tgroup cols="3">
-      <colspec colnum="1" colname="c1" colwidth="1*"/>
-      <colspec colnum="2" colname="c2" colwidth="2*"/>
-      <colspec colnum="3" colname="c3" colwidth="2*"/>
+      <colspec colnum="1" colname="c1" colwidth="25%"/>
+      <colspec colnum="2" colname="c2" colwidth="45%"/>
+      <colspec colnum="3" colname="c3" colwidth="30%"/>
   <thead>
   <row>   
   <entry><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
