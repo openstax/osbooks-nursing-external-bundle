@@ -8,7 +8,7 @@
   <content>
   <section class="learning-objectives" id="sect-00001">
   <title>Learning Outcomes</title>
-  <para id="para-00001">By the end of this section, you will be able to:</para>
+  <para id="para-00001">By the end of this section you should be able to:</para>
   <list id="list-00001">
   <item>Describe the pathophysiology of hypertension and angina.</item>
   <item>Explain the blood pressure guidelines for determining hypertension.</item>
@@ -31,7 +31,7 @@
   <para id="para-00006">Importantly, hypertension is not limited to adults; it can also affect children and adolescents. In the United States and other countries, primary hypertension affects up to 5% of individuals in this younger age group. Developing high blood pressure during childhood can have long-term consequences, potentially leading to hypertension in adulthood and increasing the risk of heart disease, stroke, and kidney damage. Certain modifiable risk factors can be addressed for this population to improve blood pressure levels, including obesity, physical activity, and nutrition. Health care providers should always assess blood pressure in the pediatric population to promote preventive measures within families and foster healthy lifestyle habits (American Heart Association, 2023).</para>
   <para id="para-00007">Secondary hypertension results from other conditions involving the central nervous system, endocrine system, and renal system and is treated along with the underlying condition. Secondary hypertension may be cured if the treatment for the underlying condition is successful.</para>
   <para id="para-00008">Hormones also impact blood pressure regulation. The <term id="term-00007">renin-angiotensin-aldosterone system (RAAS)</term> and vasopressin are the main physiologic regulatory systems or pathways affecting blood pressure homeostasis. RAAS, as illustrated in <link target-id="fig-00002" document="m00287"/>, is a compensatory mechanism the body activates during <term id="term-00008">hypotension</term> (when blood pressure is low). Renin is released from the kidneys in response to low blood pressure. Renin interacts with angiotensinogen and converts it to <term id="term-00009">angiotensin I</term>. The angiotensin-converting enzyme in the pulmonary blood vessel endothelium is then triggered to produce <term id="term-00010">angiotensin II</term>, which constricts arterioles, increasing peripheral resistance and increasing blood pressure. Angiotensin II also stimulates the adrenal medulla to produce catecholamine, which yields <term id="term-00011">aldosterone</term>. Aldosterone causes the kidneys to retain water and sodium, which leads to water retention and results in an increased blood volume, cardiac output, and blood pressure. <term id="term-00012">Vasopressin</term> is an antidiuretic hormone that regulates reabsorption of water by the kidneys; it is released by the pituitary gland in response to low blood volume. Vasopressin causes retention of body fluids, vasoconstriction, and increased blood pressure.</para>
-  <figure id="fig-00002">
+<figure class="scaled-down" id="fig-00002">
   <media alt="A diagram shows the path the renin-angiotensin-aldosterone system (RAAS) follows in the human body in response to low blood pressure. Organs that are involved in RAAS include the kidneys, liver, blood vessels, lungs, adrenal glands, pituitary gland, and the hypothalamus.">
   <image mime-type="image/png" src="../../media/PHA_Figure_18_00_003.png"/></media>
   <caption>The renin-angiotensin-aldosterone system (RAAS) is a compensatory mechanism the body activates when blood pressure is low. (credit: modification of work “Overview of the renin-angiotensin system” by Mikael Häggström/Wikimedia Commons, Public Domain)</caption></figure>
@@ -141,7 +141,7 @@
   <section id="sect-00011">
   <title>Self-Monitoring of Hypertension</title>
   <para id="para-00024">Home blood pressure monitoring (<link target-id="fig-00003" document="m00287"/>) contributes to the comprehension of hypertension and facilitates the awareness of the importance of blood pressure management. Clients are now able to monitor their blood pressure with electronic blood pressure devices. Home blood pressure monitoring leads to awareness of one’s blood pressure, better blood pressure control, and adherence to lifestyle changes and drug therapies (Verma et al., 2021).</para>
-  <figure id="fig-00003">
+<figure class="scaled-down-30" id="fig-00003">
   <media alt="A blood pressure monitor cuff is on an arm. The arm rests palm up on a table.">
   <image mime-type="image/jpeg" src="../../media/PHA_Figure_18_00_004.jpg"/></media>
   <caption>Daily blood pressure monitoring at home allows clients to better manage their blood pressure. (credit: “Arm Band Blood Pressure Monitor” by Alabama Extension/flickr, Public Domain)</caption></figure>

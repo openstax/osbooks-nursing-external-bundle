@@ -35,15 +35,18 @@
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term> (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term><newline/>
+	 (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
       <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 5–10 mg by sublingual route as needed every two to four hours<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally two to three times daily<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg one to two times orally daily; maximum dose 160 mg daily</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term> (<term class="no-emphasis" id="term-00005">Imdur</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term><newline/>
+	 (<term class="no-emphasis" id="term-00005">Imdur</term>)</entry>
       <entry><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–20 mg twice daily<newline/><emphasis effect="italics">Extended-release tablets:</emphasis> 30–60 mg once daily; maximum dose 240 mg daily</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term> (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term><newline/>
+	 (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
       <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally three to four times daily<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every four to eight hours daily<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute intravenously</entry>
       </row>
       <row>
@@ -68,7 +71,7 @@
       <tgroup cols="2">
       <tbody>
       <row>
-        <entry>
+      <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Nitrate<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
@@ -153,7 +156,6 @@
       <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
       </list>
       <note class="client-teaching" id="note-00003">
-      <title>Nitrates</title>
       <para id="para-00011"><emphasis effect="bold">The client taking sublingual nitrates should:</emphasis></para>
       <list list-type="bulleted" id="list-00003">
       <item>Take sublingual nitrates if chest pain occurs. They should take one sublingual nitrate every 5 minutes times three doses if chest pain persists. If chest pain continues, the client should call 911.</item>

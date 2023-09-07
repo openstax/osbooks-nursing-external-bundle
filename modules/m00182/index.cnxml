@@ -89,7 +89,7 @@
 <item><term id="term-00010">Reinforcing factors</term> occur in the form of positive or negative feedback, such as rewards or punishments and the influence of a peer, teacher, family, or other person or group perceived as important (<link target-id="fig-00001" document="m00182"/>). Continued receipt of feedback can motivate repetition of behavior. Using the smoking example, a reinforcing factor leading to a negative health outcome would be peer pressure to smoke.</item>
 <item><term id="term-00011">Enabling factors</term> are social and environmental factors that facilitate or motivate attainment of specific behaviors, such as ease of access, availability, health-related laws, resources, and skills. An example of an enabling factor that leads to a negative health outcome would be the easy availability of cigarettes when other members of the family smoke. <link target-id="table-00002" document="m00182"/> provides additional descriptions and examples of these factors.</item>
 </list>
-<figure class="splash" id="fig-00001"><media alt="Three people stand together near windows. All of them wear face masks over their mouth and nose. One of the people is wearing a graduation cap and gown."><image mime-type="image/jpg" src="../../media/PH_Figure_15_00_002.jpg"/></media>
+<figure id="fig-00001"><media alt="Three people stand together near windows. All of them wear face masks over their mouth and nose. One of the people is wearing a graduation cap and gown."><image mime-type="image/jpg" src="../../media/PH_Figure_15_00_002.jpg"/></media>
 <caption>Family members attending a graduation ceremony wear masks to prevent the spread of disease during a crowded event, illustrating the reinforcing factors related to following health guidance. (credit: “More Caps &amp; Gowns &amp; Mask,” by Phil Roeder/Flickr, CC BY 2.0).</caption>
 </figure>
 <table class="vertically-tight" id="table-00002">
@@ -103,13 +103,13 @@
 <row>
 <entry valign="top"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
 <entry valign="top"><span class="blue-text"><emphasis>Description</emphasis></span></entry>
-<entry namest="c3" nameend="c4" valign="top"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
+<entry valign="top"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry morerows="4">Predisposing factors</entry>
-<entry morerows="4">Intellectual and emotional “givens” that tend to make individuals or populations more or less likely to adopt a healthy or risky behavior or lifestyle or to approve of or accept particular environmental conditions</entry>
+<entry valign="top" morerows="4">Predisposing factors</entry>
+<entry valign="top" morerows="4">Intellectual and emotional “givens” that tend to make individuals or populations more or less likely to adopt a healthy or risky behavior or lifestyle or to approve of or accept particular environmental conditions</entry>
 <entry valign="top">Knowledge</entry>
 <entry valign="top">A person is more likely to avoid using smokeless tobacco if they know it can lead to cancer than if they do not know this.</entry>
 </row>
@@ -130,8 +130,8 @@
 <entry valign="top">Failure to attempt to follow a weight loss regimen simply because a person does not feel they are capable of doing so.</entry>
 </row>
 <row>
-<entry morerows="3">Enabling factors</entry>
-<entry morerows="3">Internal and external conditions directly related to the issue that help individuals or populations adopt and maintain healthy or unhealthy behaviors or lifestyles, or to embrace or reject particular environmental conditions</entry>
+<entry valign="top" morerows="3">Enabling factors</entry>
+<entry valign="top" morerows="3">Internal and external conditions directly related to the issue that help individuals or populations adopt and maintain healthy or unhealthy behaviors or lifestyles, or to embrace or reject particular environmental conditions</entry>
 <entry valign="top">Availability of Resources</entry>
 <entry valign="top">A person who abuses drugs is more likely to get help if recovery assistance is readily available to them.</entry>
 </row>
@@ -214,7 +214,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/infodemictestimonies"/>
 </media>
-<para id="para-00020">Watch the video “<link url="https://openstax.org/r/infodemictestimonies">How to Protect Yourself in the Infodemic: Testimonies from Young People</link>” to learn more about the misinformation that spread during the COVID-19 pandemic, and then answer the following questions:</para>
+<para id="para-00020">Watch the video “<link url="https://openstax.org/r/infodemictestimonies" window="new">How to Protect Yourself in the Infodemic: Testimonies from Young People</link>” to learn more about the misinformation that spread during the COVID-19 pandemic, and then answer the following questions:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00004">
 <item>What are some negative consequences of an infodemic?</item>
 <item>Do you see any positive aspects of an infodemic? Explain your answer.</item>
@@ -288,7 +288,7 @@
 <para id="para-00077">U.S. Preventive Services Task Force. (2021, May). <emphasis effect="italics">U.S. Preventive Services Task Force procedure manual.</emphasis> https://www.uspreventiveservicestaskforce.org/uspstf/sites/default/files/inline-files/procedure-manual-2022.pdf</para>
 <para id="para-00078">Walker, S. N., Sechrist, K. R., &amp; Pender, N. J. (1995). <emphasis effect="italics">Psychometric evaluation of the Health-Promoting Lifestyle Profile II</emphasis> [unpublished manuscript]. University of Michigan Library. https://deepblue.lib.umich.edu/handle/2027.42/85349</para>
 <para id="para-00079">Weintraub, W. S., Daniels, S. R., Burke, L. E., Franklin, B. A., Goff, D. C, Jr., Hayman, L. L., Lloyd-Jones, D., Pandey, D. K., Sanchez, E. J., Schram, A. P., Whitsel, L. P., American Heart Association Advocacy Coordinating Committee, Council on Cardiovascular Disease in the Young, Council on the Kidney in Cardiovascular Disease, Council on Epidemiology and Prevention, Council on Cardiovascular Nursing, Council on Arteriosclerosis, Thrombosis and Vascular Biology, … &amp; Stroke Council. (2011, August 23). Value of primordial and primary prevention for cardiovascular disease. A policy statement from the American Heart Association. <emphasis effect="italics">Circulation, 124</emphasis>(8), 967-990. https://doi.org/10.1161/CIR.0b013e3182285a81</para>
-<para id="para-00080">Wilson, A., Barnett, P., Rowbotham, S., &amp; Wutzke, S. (2017, March 30). <emphasis effect="italics">High risk prevention strategies.</emphasis> Oxford Bibliographies: Public Health. https://www.oxfordbibliographies.com/display/document/obo-9780199756797/obo-9780199756797-0159.xml#:~:text=Simply%20stated%2C%20high%20risk%20prevention,individuals%20or%20groups%20that%20are </para>
+<para id="para-00080">Wilson, A., Barnett, P., Rowbotham, S., &amp; Wutzke, S. (2017, March 30). <emphasis effect="italics">High risk prevention strategies.</emphasis> Oxford Bibliographies: Public Health. https://www.oxfordbibliographies.com/display/document/obo-9780199756797/obo-9780199756797-0159.&#8203;xml#:~:text=Simply&#8203;%20stated%2C%20high%20risk%20prevention,individuals%20or%20groups%20that%20are&#8203;</para>
 <para id="para-00081">Woodall, J., &amp; Freeman, C. (2019). Promoting health and well-being in prisons: An analysis of one year’s prison inspection reports. <emphasis effect="italics">Critical Public Health, 30</emphasis>(5), 555-566. https://doi.org/10.1080/09581596.2019.1612516</para>
 <para id="para-00082">Woodard, N., Williams, R. M., Fryer, C. S., Wang, M. Q., Zhang, J., &amp; Knott, C. L. (2020). Correlates of health promotion in a community sample of African American churches. <emphasis effect="italics">Journal of Community Health, 45</emphasis>(4), 828-835. https://link.springer.com/article/10.1007/s10900-020-00799-8</para>
 <para id="para-00083">World Health Organization. (1986). <emphasis effect="italics">Ottawa charter for health promotion, 1986.</emphasis> https://apps.who.int/iris/handle/10665/349652World Health Organization. (2021a). <emphasis effect="italics">Global strategy on digital health 2020-2025</emphasis>. https://www.who.int/docs/default-source/documents/gs4dhdaa2a9f352b0445bafbc79ca799dce4d.pdf</para>
