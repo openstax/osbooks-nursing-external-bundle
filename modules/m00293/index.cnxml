@@ -196,7 +196,7 @@
             </thead>
       <tbody>
       <row>
-        <entry><list list-type="bulleted" bullet-style="none" id="list-00002a">
+        <entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00002a">
   <item>Temperature: 98.4°F</item>
   <item>Blood Pressure: 144/90 mm Hg</item>
   <item>Heart Rate: 78 beats/min</item>
@@ -207,7 +207,7 @@
   </list>
 </entry>
   
-<entry><list list-type="bulleted" bullet-style="none" id="list-00003a">
+<entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00003a">
       <item>Cardiovascular: No jugular vein distention or pedal edema; S1, S2 noted.</item>
         <item>Respiratory: Breath sounds clear on auscultation.</item>
     </list>
