@@ -71,6 +71,8 @@
       <para id="para-00010"><link target-id="table-00002" document="m00291"/> is a drug prototype table for calcium channel blockers featuring amlodipine. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
+        <colspec colname="col1" colnum="1" colwidth="1*"/>
+        <colspec colname="col2" colnum="2" colwidth="1*"/>
       <tbody>
       <row>
       <entry>

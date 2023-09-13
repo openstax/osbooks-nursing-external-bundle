@@ -70,6 +70,8 @@
       <para id="para-00009"><link target-id="table-00002" document="m00293"/> is a drug prototype table for nitrates featuring nitroglycerin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
+        <colspec colname="col1" colnum="1" colwidth="1*"/>
+        <colspec colname="col2" colnum="2" colwidth="1*"/>	 
       <tbody>
       <row>
       <entry valign="top">
