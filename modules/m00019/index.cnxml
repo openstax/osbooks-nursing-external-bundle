@@ -38,9 +38,9 @@
     <tgroup cols="3">
     <thead>
     <row>
-    <entry><span class="blue-text">Organ</span></entry>
-    <entry><span class="blue-text">Nutritional Link</span></entry>
-    <entry><span class="blue-text">Disease or Disorder</span></entry>
+    <entry align="center"><span class="blue-text">Organ</span></entry>
+    <entry align="center"><span class="blue-text">Nutritional Link</span></entry>
+    <entry align="center"><span class="blue-text">Disease or Disorder</span></entry>
     </row>
     </thead>
     <tbody>
