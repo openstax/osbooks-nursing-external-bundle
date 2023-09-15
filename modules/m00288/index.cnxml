@@ -68,8 +68,8 @@
       <para id="para-00008"><link target-id="table-00002" document="m00288"/> is a drug prototype table for ACE inhibitors featuring enalapril. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
-        <colspec colname="col1" colnum="1" colwidth="1*"/>
-        <colspec colname="col2" colnum="2" colwidth="1*"/>
+        <colspec colname="col1" colnum="1" colwidth="50%"/>
+        <colspec colname="col2" colnum="2" colwidth="50%"/>
       <tbody>
       <row>
        <entry>
@@ -156,9 +156,9 @@
       <title>ACE Inhibitors</title>
       <para id="para-00010">Taking ACE inhibitors with potassium-containing salt substitutes or consuming large amounts of high potassium foods increases the risk of hyperkalemia. Having a blood potassium level above 6.0 mmol/L is considered a medical emergency and can result in cardiac arrest.</para>
       </note>
-      
+
       <note class="client-teaching" id="note-00004">
-        <para id="para-00010a"><emphasis effect="bold">The client taking ACE inhibitors should:</emphasis></para>	 
+        <para id="para-00010a"><emphasis effect="bold">The client taking ACE inhibitors should:</emphasis></para>
 	 <list list-type="bulleted" id="list-00003">
       <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium) due to the aldosterone release.</item>
       <item>Report side effects such as low blood pressure, cough, heart palpitations, nausea, vomiting, fever, chills, sore throat, swelling of the eyes and lips, or difficulty breathing to their health care provider.</item>
@@ -176,5 +176,5 @@
       <glossary>
       <definition id="def-00001"><term>angiotensin-converting enzyme (ACE) inhibitor</term> <meaning>a classification of drug that blocks the body’s production of angiotensin II; the protein that causes vasoconstriction and inhibits the reuptake of norepinephrine, which stimulates catecholamine release</meaning></definition>
       </glossary>
-  
+
 </document>
