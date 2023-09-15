@@ -9,8 +9,9 @@
     <section id="sect-00001">
       <title/>
       <para id="para-00001">Drug conversion tables are utilized with dosage calculations to ensure an appropriate dosage of a drug is being administered to the client as ordered.</para>
+      <para id="para-00001a"><link target-id="table-00001" document="m00381"/> shows common metric and U.S. customary units of measurement used in health <link target-id="table-00002" document="m00381"/> shows household equivalents.</para>
   <table id="table-00001">
-<title>shows common metric and U.S. customary units of measurement used in health shows household equivalents.</title>     
+<title>Common Metric and U.S. Customary Units of Measurement</title>
   <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -18,43 +19,43 @@
     <colspec colnum="4" colname="c4"/>    
    <tbody> 
 <row>
-<entry><emphasis effect="bold">Weight</emphasis></entry>
-<entry>1 kilogram (kg)<newline/>
+<entry valign="top"><emphasis effect="bold">Weight</emphasis></entry>
+<entry valign="top">1 kilogram (kg)<newline/>
 1 gram (g)<newline/>
 1 milligram (mg)</entry>
-<entry>1000 grams (g)<newline/>
+<entry valign="top">1000 grams (g)<newline/>
 1000 milligrams (mg)<newline/>
 1000 micrograms (mcg or µg)</entry>
-<entry>2.2 pounds (lb or #)<newline/>
+<entry valign="top">2.2 pounds (lb or #)<newline/>
 0.035274 ounces (oz)</entry>
 </row>
 <row>
-<entry><emphasis effect="bold">Volume</emphasis></entry>
-<entry>1 liter (L)</entry>
-<entry>1000 milliliters (mL)</entry>
-<entry>4.22675 cups</entry>
+<entry valign="top"><emphasis effect="bold">Volume</emphasis></entry>
+<entry valign="top">1 liter (L)</entry>
+<entry valign="top">1000 milliliters (mL)</entry>
+<entry valign="top">4.22675 cups</entry>
 </row>
 <row>
-<entry><emphasis effect="bold">Length</emphasis></entry>
-<entry>1 kilometer (km)<newline/>
+<entry valign="top"><emphasis effect="bold">Length</emphasis></entry>
+<entry valign="top">1 kilometer (km)<newline/>
 1 meter (m)<newline/>
 1 centimeter (cm)<newline/>
 2.54 centimeters (cm)</entry>
-<entry>1000 meters (m)<newline/>
+<entry valign="top">1000 meters (m)<newline/>
 100 centimeters (cm)<newline/>
 10 millimeters (mm)<newline/>
 25.4 millimeters (mm)</entry>
-<entry>3,281 feet (ft)<newline/>
+<entry valign="top">3,281 feet (ft)<newline/>
 3.281 feet (ft)<newline/>
 0.393 inches (in.)<newline/>
 1 inch (in.)</entry>
 </row>
    </tbody>
   </tgroup>
-<caption><emphasis effect="bold">Common Metric and U.S. Customary Units of Measurement</emphasis> (sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>  
+<caption>(sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>  
   </table>
   <table id="table-00002">
-<title/>
+<title>Household Equivalents</title>
   <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -62,29 +63,29 @@
     <colspec colnum="4" colname="c4"/>    
    <tbody> 
 <row>
-<entry morerows="3"><emphasis effect="bold">Volume</emphasis></entry>
-<entry>1 cup</entry>
-<entry>8 fluid ounces (fl oz)</entry>
-<entry>236.6 milliliters (mL)</entry>
+<entry morerows="3" valign="top"><emphasis effect="bold">Volume</emphasis></entry>
+<entry valign="top">1 cup</entry>
+<entry valign="top">8 fluid ounces (fl oz)</entry>
+<entry valign="top">236.6 milliliters (mL)</entry>
 </row>
 <row>
 <entry/>
-<entry>1 fluid ounce (fl oz)</entry>
-<entry>29.57 milliliters (mL)</entry>
+<entry valign="top">1 fluid ounce (fl oz)</entry>
+<entry valign="top">29.57 milliliters (mL)</entry>
 </row>
 <row>
-<entry>1 tablespoon (Tbsp)</entry>
-<entry>3 teaspoons (tsp)</entry>
-<entry>14.79 milliliters (mL)</entry>
+<entry valign="top">1 tablespoon (Tbsp)</entry>
+<entry valign="top">3 teaspoons (tsp)</entry>
+<entry valign="top">14.79 milliliters (mL)</entry>
 </row>
 <row>
-<entry>1 teaspoon (tsp)</entry>
+<entry valign="top">1 teaspoon (tsp)</entry>
 <entry/>
-<entry>4.93 milliliters (mL)</entry>
+<entry valign="top">4.93 milliliters (mL)</entry>
 </row>
    </tbody>
   </tgroup>
-<caption><emphasis effect="bold">Table C2 Household Equivalents</emphasis> (sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>
+<caption>(sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>
   </table>
     </section>
    </content>
