@@ -1,13 +1,126 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
   <title>Plan Nutritional Strategies to Impact Renal and Urological Wellness</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Plan Nutritional Strategies to Impact Renal and Urological Wellness</md:title>
-    <md:content-id>m00068</md:content-id>
-    <md:uuid>16b9213a-ad91-42ed-8a81-94d850b064a9</md:uuid>
+  <md:title>Plan Nutritional Strategies to Impact Renal and Urological Wellness</md:title>
+  <md:content-id>m00068</md:content-id>
+  <md:uuid>16b9213a-ad91-42ed-8a81-94d850b064a9</md:uuid>
   </metadata>
- <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+  <content>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Outcomes</title>
+  <para id="para-00001">By the end of this section you should be able to:</para>
+  <list id="list-00001">
+  <item>Prioritize the hypotheses of nutritional habits that optimize renal wellness.</item>
+  <item>Generate solutions to optimize renal wellness utilizing nutritional habits.</item>
+  </list>
+  </section>
+  <section id="sect-00002">
+  <title>Planning Nutrition Goals</title>
+  <para id="para-00002">The nurse should consider a client’s current renal system when planning nutritional goals; therefore, plans will vary accordingly. For the client with healthy kidneys, the goals of nutrition should focus more on dietary needs for comorbidities, including limiting sodium, trans fats, saturated fats, and alcohol; eating appropriate amounts of protein; and maintaining adequate fluid balance.</para>
+  <para id="para-00003">When creating nutritional plans for clients with compromised kidneys, the nurse should collaborate with a renal dietician and consider all laboratory test values. The plans for these clients should focus on limiting fluid intake, potassium, phosphorus, sodium, trans fat, saturated fats, magnesium, and proteins, while increasing calcium. Note that at the start of <term class="no-emphasis" id="term-00001">dialysis</term>, slightly different restrictions apply.</para>
+  <section id="sect-00003">
+  <title>The Healthy Renal System Goals</title>
+  <para id="para-00004">The nurse should direct clients with a healthy renal system and no comorbidities to consider nutritional goals for renal wellness. A good starting point is to use the MyPlate portioning method with every meal (de Bellefonds, 2021). In addition, it is important to limit sodium intake to no more than 2,300 mg daily. Because the majority of sodium intake comes from processed foods and not table salt, encourage clients to avoid pre-processed foods or, at minimum, choose no-sodium or low-sodium options.</para>
+  <note class="media-feature" id="note-00001">
+  <title>MyPlate</title>
+  <para id="para-00005"><term class="no-emphasis" id="term-00002"><link url="https://openstax.org/r/myplateg">MyPlate</link></term> pictorially represents healthy portion sizes of different food groups in a nutritionally sound diet. This tool is useful as a good starting point for any healthy client trying to improve their nutritional intake to maintain health.</para>
+  </note>
+  <para id="para-00006">Clients should also be aware of <term class="no-emphasis" id="term-00003">protein intake</term> because protein byproducts are filtered through the kidneys. Clients should eat enough protein to maintain overall health, but not consume too much because the kidneys will have to work extra hard.</para>
+  <para id="para-00007">The nurse should encourage the client to choose complex carbohydrates such as whole grains, fruits, vegetables, lentils, and beans over simple carbohydrates such as sweetened beverages, packaged foods, and desserts (de Bellefonds, 2021). Heart health is important to kidney health, so limiting saturated fats and avoiding artificial trans fat is recommended. The client should consider limiting, or even eliminating, their alcohol intake. Alcohol is a waste product that the kidneys need to filter out, making it less efficient to filter out other things during this time; alcohol is also dehydrating, which affects the kidneys’ ability to regulate the body’s hydration status.</para>
+  <para id="para-00008">Another factor the nurse should consider is any <term class="no-emphasis" id="term-00004">comorbidities</term> a client has. For example, a client who has a healthy renal system but has hypertension or diabetes is at much higher risk for developing CKD. Dietary goals should include foods that will keep these pathologies under control, as well as include nutrients that support renal health once a client has developed CKD.</para>
+  <note class="special-considerations" id="note-00002">
+  <title>Fads for Weight Loss—Dangers to Renal System Health</title>
+  <para id="para-00009">Diets that promote excessive or reduced intake of specific nutrients, such as protein or carbohydrates, can be dangerous because they limit many nutrients and promote disease. For example, diets with excess red meats and saturated fats may cause heart disease; diets high in protein can lead to intraglomerular hypertension that may cause renal hyperfiltration, glomerular injury, and proteinuria, which could lead to CKD (Gang-Jee, et al., 2020). Well-known diets that require extreme nutritional changes include Atkins, Keto, Dukan, Montignac, Scarsdale, Stillman, and the Zone.</para>
+  </note>
+  </section>
+  <section id="sect-00004">
+  <title>Goals for Clients with CKD</title>
+  <para id="para-00010">Clients with CKD need to follow the preceding guidelines, but they also have more restrictions. For clients who have CKD and diabetes and/or hypertension, the following restrictions are also required in addition to their original nutritional plan dictated by their comorbidity, categorized by stage <emphasis effect="bold">Table 15.2</emphasis>.</para>
+  
+  <table class="vertically-tight alternate-shading" id="table-00001">
+  <tgroup cols="5">
+  <thead>
+  <row>
+  <entry valign="top"><span class="blue-text">Stage</span></entry>
+  <entry valign="top"><span class="blue-text">GFR</span></entry>
+  <entry valign="top"><span class="blue-text">Function</span></entry>
+  <entry valign="top"><span class="blue-text">Water Intake</span></entry>
+  <entry valign="top"><span class="blue-text">Nutrient Intake</span></entry>
+  </row>
+  </thead>
+  <tbody>  
+  <row>
+  <entry valign="top">1</entry>
+  <entry valign="top">> 90 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top">Working well<newline/>
+  Client unaware of deficiencies</entry>
+  <entry valign="top">Increase water intake</entry>
+  <entry valign="top">Consume low-fat and low-sodium diet</entry>
+  </row>
+  <row>
+  <entry valign="top">2</entry>
+  <entry valign="top">60–89 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top">Still functioning<newline/>
+  Client may be asymptomatic or show signs of hypertension</entry>
+  <entry valign="top">High water intake</entry>
+  <entry valign="top">Continue low-fat and low-sodium diet<newline/>
+  Add foods higher in calcium and magnesium</entry>
+  </row>
+  <row>
+  <entry valign="top">3A</entry>
+  <entry valign="top">45–59 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top">Decrease in function, with kidneys starting to decline<newline/>
+  Client will have hypertension<newline/>
+  Client may have anemia, fatigue, anorexia, malnutrition, and bone pain</entry>
+  <entry valign="top">Continue high water only if no edema or heart failure present<newline/>
+  If client has heart failure or edema, restrict fluids</entry>
+  <entry valign="top">Continue with low-fat and low-sodium diet and food options that are high in calcium and magnesium<newline/>
+  If heart failure or edema is present, restrict foods with phosphorus, potassium, and protein, limiting proteins that are plant-based or from lean meats</entry>
+  </row>
+  <row>
+  <entry valign="top">3B</entry>
+  <entry valign="top">30–44 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top"/>
+  <entry valign="top"/>
+  <entry valign="top"/>
+  </row>
+  <row>
+  <entry valign="top">4</entry>
+  <entry valign="top">15–29 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top">Severe decline in kidney function; may need dialysis<newline/>
+  Client will have hypertension, anemia, malnutrition, altered bone metabolism, edema, metabolic acidosis, hypocalcemia, an elevated BUN and creatinine Client may have uremia and azotemia</entry>
+  <entry valign="top">Restrict fluids</entry>
+  <entry valign="top">Restrict intake of fat, sodium, potassium, phosphorus, magnesium<newline/>
+  Increase intake of calcium<newline/>
+  If not yet on dialysis, restrict protein<newline/>
+  If dialysis has been started, increase protein</entry>
+  </row>
+  <row>
+  <entry valign="top">5</entry>
+  <entry valign="top">&lt; 15 mL/min/1.73 m<sup>2</sup></entry>
+  <entry valign="top">End-stage renal disease (ESRD)<newline/>
+  Client will have complete kidney failure in which all other symptoms are present and worsened<newline/>
+  Client will have azotemia with overt uremia and require dialysis or renal transplantation to survive</entry>
+  <entry valign="top">If on dialysis, follow stage 4 recommendations<newline/>
+  If recipient of a kidney transplantation, follow regular healthy diet</entry>
+  <entry valign="top">If on dialysis, follow stage 4 recommendations<newline/>
+  If recipient of a kidney transplantation, follow regular healthy diet</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Nutrient Intake for Clients with CKD, Dependent on Stage of Failure (source: National Kidney Foundation, 2023a)</caption>
+  </table>
+  </section></section>
+  <section id="sect-00005">
+  <title>Identifying Challenges to Nutritional Goals</title>
+  <para id="para-00011">Many barriers exist for clients with CKD—the more advanced the disease, the higher the likelihood that a client will, either deliberately or accidentally, not follow a nutritional plan. The nutritional plan for clients with CKD restricts fluids, fat, sodium, phosphorus, protein, magnesium, and potassium and increases calcium, which presents many challenges, especially before transplantation. The nurse should counsel the client on the following:</para>
+  <list id="list-00002">
+  <item>Restricting fluids can be extremely difficult; the kidneys will excrete more urine if unable to concentrate solutes in smaller urine amounts. The client will then become extremely thirsty because they are losing much more water than they are permitted to drink each day.</item>
+  <item>Sodium and phosphorus are not only found in certain fresh items but are also added to many processed foods as preservatives. Processed foods are much cheaper and more readily available to clients with busy lives, so it is more difficult to avoid these types of foods. Fast foods—prepared foods that are readily available—are not only extremely high in both sodium and phosphorus, but also in fat content. The nurse should counsel the client to limit their fast-food intake to only once or twice a week</item>
+  <item>The client with CKD also needs to understand how to combine plant protein sources in the right amounts and types to replace proteins easily found in meat. Although lean meat protein sources are acceptable, options tend to be more expensive.</item>
+  <item>The challenge faced when limiting magnesium is that many food sources high in magnesium are high in plant proteins, which can replace meat proteins, making selections more limited. Another difficult balance to achieve with magnesium is that many high calcium foods that need to be increased are also high in magnesium.</item>
+  <item>Lastly, potassium is found naturally in a variety of fresh and healthy food choices. Many foods that the client was taught to eat before they had CKD to manage hypertension, diabetes, or any number of other comorbidities, will be ones they now have to avoid due to high potassium content. Potassium is the opposite of most other foods on the list—it is high in fresh food options and low in processed food options.</item>
+  </list>
+  </section>
   </content>
-</document>
+  </document>
