@@ -41,7 +41,7 @@
   <title>Assessing Electrical Conduction System of the Heart</title>
   <para id="para-00012">The normal electrical pattern of the heart (<link target-id="fig-00001" document="m00049"/>) starts with the initiation of an impulse at the <term id="term-00012">sinoatrial node (SA node)</term>, the pacemaker of the heart. The impulse then travels through the <term id="term-00013">atria</term>, the top two heart chambers, causing atrial contraction, down to the <term id="term-00014">atrioventricular node (AV node)</term>, an electrical gatekeeper that controls a delay between the atrial and ventricular impulse, allowing blood to fill the ventricle. From the AV node, the impulse travels to the <term id="term-00015">bundle of His</term>, a bundle of conducting fibers that branch to each ventricle, then down both bundle branches to the <term id="term-00016">Purkinjean fibers</term>, or terminal-conducting fibers in the ventricles. This action causes the <term id="term-00017">ventricles</term>, or bottom chambers of the heart, to contract (Johns Hopkins Medicine, 2023b).</para>
   
-  <figure class="scaled-down-30" id="fig-00001"><media alt="The path of electrical impulses through the heart is shown."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_002.png"/></media>
+  <figure id="fig-00001"><media alt="The path of electrical impulses through the heart is shown."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_002.png"/></media>
   <caption>The heart muscle and systemic circulation are vital components that work together to deliver oxygen and nutrients to the body’s tissues and organs while removing waste products. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00013">An <term id="term-00018">electrocardiogram (ECG/EKG)</term> or telemetry can be used to evaluate the electrical conduction of the heart. An ECG is a recording of a heart’s electrical activity through electrodes placed on the chest to capture signals. <term id="term-00019">Telemetry</term> is the continual measurement of a heart’s ECG through a portable device that automatically transmits the reading to a monitor.</para>
   <para id="para-00014">A nurse should know several important measurement facts of a telemetry wave (<link target-id="fig-00002" document="m00049"/>):</para>
@@ -59,72 +59,72 @@
   <tgroup cols="4">
   <thead>
   <row>
-  <entry align="center"><span class="blue-text"><emphasis>Wave/Segment</emphasis></span></entry>
-  <entry align="center"><span class="blue-text"><emphasis>Normal Measurement of Segment</emphasis></span></entry>
-  <entry align="center"><span class="blue-text"><emphasis>Part of Cardiac Cycle</emphasis></span></entry>
-  <entry align="center"><span class="blue-text"><emphasis>Wave/Segment Appearance/Shape and Deflection</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Wave/Segment</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Normal Measurement of Segment</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Part of Cardiac Cycle</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Wave/Segment Appearance/Shape and Deflection</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-  <entry>P</entry>
+  <entry valign="top">P</entry>
   <entry/>
-  <entry>Atrial depolarization</entry>
-  <entry>Positive deflection/smooth hill shape</entry>
+  <entry valign="top">Atrial depolarization</entry>
+  <entry valign="top">Positive deflection/smooth hill shape</entry>
   </row>
   <row>
-  <entry>Q</entry>
+  <entry valign="top">Q</entry>
   <entry/>
-  <entry>Start of ventricular depolarization</entry>
-  <entry>Negative deflection/sharp downstroke if shown (some normal telemetry readings do not have a true Q wave)</entry>
+  <entry valign="top">Start of ventricular depolarization</entry>
+  <entry valign="top">Negative deflection/sharp downstroke if shown (some normal telemetry readings do not have a true Q wave)</entry>
   </row>
   <row>
-  <entry>R</entry>
+  <entry valign="top">R</entry>
   <entry/>
-  <entry>Ventricular depolarization</entry>
-  <entry>Positive deflection/sharp mountain peak upward</entry>
+  <entry valign="top">Ventricular depolarization</entry>
+  <entry valign="top">Positive deflection/sharp mountain peak upward</entry>
   </row>
   <row>
-  <entry>S</entry>
+  <entry valign="top">S</entry>
   <entry/>
-  <entry>Ventricular depolarization</entry>
-  <entry>Negative deflection/sharp downward end of the mountain</entry>
+  <entry valign="top">Ventricular depolarization</entry>
+  <entry valign="top">Negative deflection/sharp downward end of the mountain</entry>
   </row>
   <row>
-  <entry>T</entry>
+  <entry valign="top">T</entry>
   <entry/>
-  <entry>Ventricular repolarization</entry>
-  <entry>Positive deflection/ smooth hill shape</entry>
+  <entry valign="top">Ventricular repolarization</entry>
+  <entry valign="top">Positive deflection/ smooth hill shape</entry>
   </row>
   <row>
-  <entry>U</entry>
+  <entry valign="top">U</entry>
   <entry/>
-  <entry>Atrial repolarization: not an expected finding on every client</entry>
-  <entry>Positive deflection/smooth hill shape (most normal telemetry readings do not have a U wave)</entry>
+  <entry valign="top">Atrial repolarization: not an expected finding on every client</entry>
+  <entry valign="top">Positive deflection/smooth hill shape (most normal telemetry readings do not have a U wave)</entry>
   </row>
   <row>
-  <entry>QRS complex</entry>
-  <entry>0.06-0.12 seconds</entry>
-  <entry>Ventricular depolarization</entry>
-  <entry>Cluster of QRS waves together</entry>
+  <entry valign="top">QRS complex</entry>
+  <entry valign="top">0.06-0.12 seconds</entry>
+  <entry valign="top">Ventricular depolarization</entry>
+  <entry valign="top">Cluster of QRS waves together</entry>
   </row>
   <row>
-  <entry>PR interval</entry>
-  <entry>0.12-0.20 seconds</entry>
-  <entry>Beginning of atrial depolarization to beginning of ventricular depolarization</entry>
-  <entry>P wave and segment between P wave and Q wave</entry>
+  <entry valign="top">PR interval</entry>
+  <entry valign="top">0.12-0.20 seconds</entry>
+  <entry valign="top">Beginning of atrial depolarization to beginning of ventricular depolarization</entry>
+  <entry valign="top">P wave and segment between P wave and Q wave</entry>
   </row>
   <row>
-  <entry>QT interval</entry>
-  <entry>0.40-0.44 seconds</entry>
-  <entry>Beginning of ventricular depolarization through ventricular repolarization</entry>
-  <entry>QRS complex, ST segment and to end of T wave</entry>
+  <entry valign="top">QT interval</entry>
+  <entry valign="top">0.40-0.44 seconds</entry>
+  <entry valign="top">Beginning of ventricular depolarization through ventricular repolarization</entry>
+  <entry valign="top">QRS complex, ST segment and to end of T wave</entry>
   </row>
   <row>
-  <entry>ST segment</entry>
-  <entry>Isoelectric line, not measured separately</entry>
-  <entry>Time in-between ventricular depolarization and repolarization</entry>
-  <entry>End of ST segment to beginning of T wave—must be on isoelectric line, no deflection</entry>
+  <entry valign="top">ST segment</entry>
+  <entry valign="top">Isoelectric line, not measured separately</entry>
+  <entry valign="top">Time in-between ventricular depolarization and repolarization</entry>
+  <entry valign="top">End of ST segment to beginning of T wave—must be on isoelectric line, no deflection</entry>
   </row>
 </tbody>
   </tgroup>
@@ -143,7 +143,7 @@
   <figure class="scaled-down" id="fig-00003"><media alt="A diagram of the heart shows how deoxygenated blood flows into the heart, is re-oxygenated in the lungs, and then out to the body for use."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_004.png"/></media>
   <caption>Normal blood flow starts when deoxygenated blood is returned to the heart via the superior vena cava. It travels through the right atrium, through the tricuspid valve, into the right ventricle, and is pumped through the pulmonary valve and into the pulmonary artery to be re-oxygenated in the lungs. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00018">The oxygenated blood is returned to the body through two types of <term class="no-emphasis" id="term-00023">arteries</term>. Elastic arteries are located closer to the heart and are more flexible than <term class="no-emphasis" id="term-00024">muscular arteries</term>. Muscular arteries contain smoother muscle and are farther away from the heart. Both types of arteries must have strong walls, because arteries handle higher pressures from the blood being pumped out of the heart (Cleveland Clinic, 2023b). The main function of arteries is to distribute the oxygenated blood to all body organs and tissues, including the heart itself, through the coronary arteries. Refer to <link target-id="fig-00004" document="m00049"/> for a visual of the artery wall.</para>
-  <figure class="scaled-down" id="fig-00004"><media alt="The artery wall consists of the tunica externa, tunica media, tunica intima, smooth muscle, internal elastic membrane, vasa vasorum, external elastic membrane, nervi vasorum, endothelium, and elastic fiber."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_005.png"/></media>
+  <figure id="fig-00004"><media alt="The artery wall consists of the tunica externa, tunica media, tunica intima, smooth muscle, internal elastic membrane, vasa vasorum, external elastic membrane, nervi vasorum, endothelium, and elastic fiber."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_005.png"/></media>
   <caption>The walls of elastic and muscular arteries must be both strong and flexible to properly handle high-pressure blood flow. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00019">As blood travels through the body via the arteries, the arteries get smaller in diameter until they terminate into <term id="term-00025">arterioles</term>, the smallest arteries. These arterioles link with capillaries and then connect to <term id="term-00026">venules</term>, the smallest veins (Gupta and Shea, 2022). Capillaries are thin-walled vessels that connect arterioles and venules. As shown in <link target-id="fig-00005" document="m00049"/>, they are the vehicle for the final exchange of oxygen and nutrients into tissues and wastes into the blood (Gupta &amp; Shea, 2022).</para>
   <figure class="scaled-down" id="fig-00005"><media alt="Blood from the heart flows into the arteriole and then the capillary. There, it exchanges oxygen and nutrients into the tissues and wastes into the blood. Once this occurs, blood flows into the veins where it travels back to the heart."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_006.png"/></media>
@@ -184,9 +184,9 @@
       <colspec colnum="3" colname="c3" colwidth="2*"/>
   <thead>
   <row>  
-  <entry><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Nutritional Relation(s)</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Client Symptom(s)</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Nutritional Relation(s)</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Client Symptom(s)</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
@@ -273,39 +273,39 @@
     <colspec colnum="3" colname="c3" colwidth="3*"/>
   <thead>
   <row>
-    <entry><span class="blue-text"><emphasis>Disease</emphasis></span></entry>
-    <entry><span class="blue-text"><emphasis>Nutrition Impact</emphasis></span></entry>
-    <entry><span class="blue-text"><emphasis>Effects on the Body</emphasis></span></entry>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis>Disease</emphasis></span></entry>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis>Nutrition Impact</emphasis></span></entry>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis>Effects on the Body</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-  <entry>Coronary artery&#160;disease&#160;(CAD)</entry>
+  <entry valign="top">Coronary artery&#160;disease&#160;(CAD)</entry>
   <entry morerows="5" valign="top">Dietary intake that is high in cholesterol,<newline/>
      sodium, trans fats, added sugars, and low potassium and high<newline/>
      fluid intake (for CHF and cardiomyopathy<newline/>
      and especially with increased sodium specifically)</entry>
-  <entry>Can lead to hypertension, cardiomyopathy, and AMI</entry>
+  <entry valign="top">Can lead to hypertension, cardiomyopathy, and AMI</entry>
   </row>
   <row>
-  <entry>Peripheral&#160;vascular&#160;disease&#160;(PVD)</entry>
-  <entry>Slows return of blood to the heart, leading to pooling of deoxygenated blood in the lower extremities</entry>
+  <entry valign="top">Peripheral&#160;vascular&#160;disease&#160;(PVD)</entry>
+  <entry valign="top">Slows return of blood to the heart, leading to pooling of deoxygenated blood in the lower extremities</entry>
   </row>
   <row>
-  <entry>Peripheral&#160;arterial&#160;disease&#160;(PAD)</entry>
-<entry>Slows flow of blood to the body causing ischemia</entry>
+  <entry valign="top">Peripheral&#160;arterial&#160;disease&#160;(PAD)</entry>
+<entry valign="top">Slows flow of blood to the body causing ischemia</entry>
   </row>
   <row>
-  <entry>Chronic&#160;heart&#160;failure&#160;(CHF)</entry>
-  <entry>Causes weakening of the heart muscle</entry>
+  <entry valign="top">Chronic&#160;heart&#160;failure&#160;(CHF)</entry>
+  <entry valign="top">Causes weakening of the heart muscle</entry>
   </row>
   <row>
-  <entry>Cardiomyopathy</entry>
-  <entry>Causes enlargement and weakening of the heart muscle</entry>
+  <entry valign="top">Cardiomyopathy</entry>
+  <entry valign="top">Causes enlargement and weakening of the heart muscle</entry>
   </row>
   <row>
-  <entry>Hypertension</entry>
-  <entry>Increases workload on the heart leading to cardiomyopathy and CHF</entry>
+  <entry valign="top">Hypertension</entry>
+  <entry valign="top">Increases workload on the heart leading to cardiomyopathy and CHF</entry>
   </row>
   </tbody>
   </tgroup>

@@ -24,9 +24,9 @@
   <tgroup cols="3">
   <thead>
   <row>
-  <entry><span class="blue-text"><emphasis>Diet Type</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Inclusions or Increases</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Exclusions or Reductions</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Diet Type</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Inclusions or Increases</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis>Exclusions or Reductions</emphasis></span></entry>
   </row>
   </thead>
   <tbody>

@@ -24,18 +24,18 @@
   <para id="para-00005">Maintaining adequate <term class="no-emphasis" id="term-00009">fiber</term> intake will help to prevent cardiovascular disease. Fiber has been shown to lower LDL cholesterol levels, lower blood pressure, and create satiety (a feeling of fullness) to help in weight loss (Harvard Health Publishing, 2020). When increasing fiber intake, it important to also increase fluid intake, particularly water intake, to prevent constipation. Adequate fluid intake (particularly water) of at least 6 to 8 cups per day for women and 8 to 12 cups per day for men is needed for many body processes, including proper blood vessel function, blood circulation, effective cardiac pumping, and sodium level maintenance, which can help prevent heart disease risk if maintained at 142 milliequivalents per liter (mEq/L) and below (Dmitrieva, Liu, Wu, &amp; Boehm, 2022; National Institutes of Health, 2022).</para>
   <para id="para-00006">Another important piece of education for the client is the proper regulation of their daily <term class="no-emphasis" id="term-00010">sodium</term> intake. Too much daily intake can increase the risk of <term class="no-emphasis" id="term-00011">hypertension</term>, which can lead to heart failure. Americans consume an average of 3,400 mg per day of sodium, which is well above the recommended limit of 2,300 mg daily for those without heart disease (American Heart Association, 2023). This maximum is still not optimal as the AHA recommends that clients without heart disease move toward a limit of 1,500 mg daily and those with heart disease to 1,000 mg daily. While this is the current recommendation, there is some debate from new findings by the American College of Cardiology (2023) that individuals with heart disease do not benefit from limiting their sodium any more than those without heart disease.</para>
   <para id="para-00007">The nurse should have a nutrition education discussion with the client that includes maintaining a proper diet for healthy BMI, waist circumference, calcium, magnesium, and potassium levels. The nurse can discuss both the use of the MyPlate and DASH diets to accomplish this. The nurse should keep in mind, however, that a fine balance must be maintained between potassium, sodium, magnesium, and calcium for proper conduction and mechanic pumping of the heart to take place. Most clients can maintain these three electrolytes through balanced nutrition, but if they are deficient in any of these and are unable to regulate them through nutritional intake alone, supplementation should be considered. The nurse should discuss types of foods the client should include and limit in their diet for cardiovascular health (<link target-id="table-00001" document="m00050"/>).</para>
-  <table class="vertically-tight alternate-shading" id="table-00001">
+  <table class="alternate-shading" id="table-00001">
   <tgroup cols="2">
   <thead>
   <row>
-  <entry><span class="blue-text">Nutrient</span></entry>
-  <entry><span class="blue-text">Foods High in the Nutrient</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Nutrient</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Foods High in the Nutrient</span></entry>
   </row>
  </thead>
   <tbody>
   <row>
     <entry valign="top">Calcium</entry>
-  <entry>Soybeans (edamame)<newline/>
+  <entry valign="top">Soybeans (edamame)<newline/>
   Collard greens<newline/>
   Spinach<newline/>
   Turnip greens<newline/>
@@ -48,7 +48,7 @@
   </row>
   <row>
     <entry valign="top">Potassium</entry>
-  <entry>Beans<newline/>
+  <entry valign="top">Beans<newline/>
   Lentils<newline/>
   Potatoes<newline/>
   Winter squash (acorn, butternut)<newline/>
@@ -58,7 +58,7 @@
   </row>
   <row>
     <entry valign="top">Sodium</entry>
-  <entry>Smoked, cured, salted, or canned meat, fish, or poultry<newline/>
+  <entry valign="top">Smoked, cured, salted, or canned meat, fish, or poultry<newline/>
   Frozen breaded meats and dinners<newline/>
   Canned entrees<newline/>
   Salted nuts<newline/>
@@ -66,7 +66,7 @@
   </row>
   <row>
     <entry valign="top">Magnesium</entry>
-  <entry>Soy products<newline/>
+  <entry valign="top">Soy products<newline/>
   Legumes and seeds<newline/>
   Nuts, peanuts, and peanut butter<newline/>
   Whole grain breads and cereals<newline/>
@@ -76,7 +76,7 @@
   </row>
   <row>
     <entry valign="top">Fiber</entry>
-  <entry>Avocado<newline/>
+  <entry valign="top">Avocado<newline/>
   Brussels sprouts<newline/>
   Broccoli<newline/>
   Split peas<newline/>
@@ -87,7 +87,7 @@
   </row>
   <row>
     <entry valign="top">Saturated fats</entry>
-  <entry>Processed foods such as potato chips<newline/>
+  <entry valign="top">Processed foods such as potato chips<newline/>
   Baked goods with hydrogenated oil or partially hydrogenated oil<newline/>
   Margarines<newline/>
   Shortening<newline/>
@@ -115,38 +115,38 @@
   </list>
   <note class="media-feature" id="note-00001">
   <title>BMI Measurement</title>
-  <para id="para-00010">The nurse should know a client’s BMI before creating a nutritional plan because a high BMI increases cardiovascular risks. For clients with a high BMI, weight loss should be included in the plan. Harvard Medical School provides a useful <link url="https://openstax.org/r/healthharvaed" window="new">BMI calculator</link>.</para>
+  <para id="para-00010">The nurse should know a client’s BMI before creating a nutritional plan because a high BMI increases cardiovascular risks. For clients with a high BMI, weight loss should be included in the plan. Harvard Medical School provides a useful <link url="https://openstax.org/r/healthharvaed" target-id="blank">BMI calculator</link>.</para>
   </note>
   <para id="para-00011">Another metric is <term class="no-emphasis" id="term-00017">blood pressure</term>, which measures hypertension or the advancement of hypertension. Hypertension is known as the silent killer, because many people often do not have symptoms. Blood pressure is measured in millimeters of mercury, or mmHg. A single high <term class="no-emphasis" id="term-00018">hypertension</term> value may not indicate an issue, but two or more consecutive high readings is considered hypertension (Mayo Clinic, 2023c). Blood pressure ranges and their associated condition are listed in <link target-id="table-00002" document="m00050"/>.</para>
   <table class="alternate-shading" id="table-00002">
   <tgroup cols="3">
   <thead>   
   <row>
-  <entry><span class="blue-text"><emphasis>Blood Pressure</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Systolic</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Diastolic</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Blood Pressure</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Systolic</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Diastolic</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-  <entry>Low</entry>
-  <entry>&lt; 90 mmHg</entry>
-  <entry>Or &lt; 60 mmHg</entry>
+  <entry valign="top">Low</entry>
+  <entry valign="top">&lt; 90 mmHg</entry>
+  <entry valign="top">Or &lt; 60 mmHg</entry>
   </row>
   <row>
-  <entry>Normal</entry>
-  <entry>&lt; 120 mmHg</entry>
-  <entry>And &lt; 80 mmHg</entry>
+  <entry valign="top">Normal</entry>
+  <entry valign="top">&lt; 120 mmHg</entry>
+  <entry valign="top">And &lt; 80 mmHg</entry>
   </row>
   <row>
-  <entry>Elevated</entry>
-  <entry>120-129 mmHg</entry>
-  <entry>Or &lt; 80 mmHg</entry>
+  <entry valign="top">Elevated</entry>
+  <entry valign="top">120-129 mmHg</entry>
+  <entry valign="top">Or &lt; 80 mmHg</entry>
   </row>
   <row>
-  <entry>Hypertensive</entry>
-  <entry>> 129 mmHg</entry>
-  <entry>Or > 80 mmHg</entry>
+  <entry valign="top">Hypertensive</entry>
+  <entry valign="top">> 129 mmHg</entry>
+  <entry valign="top">Or > 80 mmHg</entry>
   </row>
   </tbody>
   </tgroup>
@@ -156,42 +156,42 @@
   <tgroup cols="7">
   <thead>
   <row>
-  <entry><span class="blue-text"><emphasis>Cholesterol Measurement</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Near Optimal<newline/>mg/dL</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Optimal<newline/>mg/dL</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Normal<newline/>mg/dL</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Borderline High<newline/>mg/dL</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>High<newline/>mg/dL</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Very High<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Cholesterol Measurement</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Near Optimal<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Optimal<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Normal<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Borderline High<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>High<newline/>mg/dL</emphasis></span></entry>
+  <entry align="center"><span class="blue-text"><emphasis>Very High<newline/>mg/dL</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-  <entry>Total cholesterol</entry>
+  <entry valign="top">Total cholesterol</entry>
   <entry/>
   <entry/>
-  <entry>&lt; 200</entry>
-  <entry>200-239</entry>
-  <entry>> 239</entry>
+  <entry valign="top">&lt; 200</entry>
+  <entry valign="top">200-239</entry>
+  <entry valign="top">> 239</entry>
   <entry/>
   </row>
   <row>
-  <entry>Low-density lipids (LDL) (“bad” cholesterol)</entry>
-  <entry>100-129</entry>
-  <entry>&lt; 100</entry>
+  <entry valign="top">Low-density lipids (LDL) (“bad” cholesterol)</entry>
+  <entry valign="top">100-129</entry>
+  <entry valign="top">&lt; 100</entry>
   <entry/>
-  <entry>130-159</entry>
-  <entry>160-189</entry>
-  <entry>> 189</entry>
+  <entry valign="top">130-159</entry>
+  <entry valign="top">160-189</entry>
+  <entry valign="top">> 189</entry>
   </row>
   <row>
-  <entry>High-density lipids (HDL) (“good” cholesterol)</entry>
+  <entry valign="top">High-density lipids (HDL) (“good” cholesterol)</entry>
   <entry/>
   <entry/>
-  <entry>&lt; 150</entry>
-  <entry>150-199</entry>
-  <entry>200-499</entry>
-  <entry>> 499</entry>
+  <entry valign="top">&lt; 150</entry>
+  <entry valign="top">150-199</entry>
+  <entry valign="top">200-499</entry>
+  <entry valign="top">> 499</entry>
   </row>
   </tbody>
   </tgroup>
