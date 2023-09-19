@@ -24,7 +24,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/healthpromotion"/>   
 </media>
-<para id="para-00004">The video “<link url="https://openstax.org/r/healthpromotion" window="new">Creating Healthier Populations: Health Promotion and the Ottawa Charter</link>” describes the Ottowa Charter, a landmark document that was influential in providing guidance to the goals and concepts of health promotion for public and population health programs worldwide.</para>
+<para id="para-00004">The video “<link url="https://openstax.org/r/healthpromotion" target-id="blank">Creating Healthier Populations: Health Promotion and the Ottawa Charter</link>” describes the Ottowa Charter, a landmark document that was influential in providing guidance to the goals and concepts of health promotion for public and population health programs worldwide.</para>
 <para id="para-00005">Watch the video, and then respond to the following questions:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00002">
 <item>Which action area in the Ottawa Charter links most closely to the SDOH we address today?</item>
@@ -137,8 +137,11 @@
 <entry valign="top" morerows="1">Referring community members who live with chronic joint pain and limited mobility to a local rehabilitation center, which serves as a community hub for rehabilitation service activities that encourage community members to engage with one another, share experiences, and provide mutual support throughout their rehabilitation journey</entry>
 </row>
 <row>
-<entry valign="top"><term class="no-emphasis" id="term-00017">Recovery/Disability/Death</term></entry>
-<entry valign="top">&#160;</entry>
+
+<entry valign="top"><list list-type="bulleted" id="list-00006a"><item><term class="no-emphasis" id="term-00017">Recovery</term></item>
+  <item><term class="no-emphasis" id="term-00017a">Disability</term></item>
+  <item><term class="no-emphasis" id="term-00017b">Death</term></item></list></entry>
+
 </row>
 <row>
 <entry valign="top"><emphasis effect="bold">Quaternary Prevention</emphasis></entry>
@@ -155,7 +158,7 @@
 </tgroup>
 </table>
 <note class="healthy-people" id="note-00002">
-<title><link url="https://openstax.org/r/healthypeoplevaccina" window="new">Vaccination</link></title>
+<title><link url="https://openstax.org/r/healthypeoplevaccina" target-id="blank">Vaccination</link></title>
 <para id="para-00009">Healthy People 2030 Vaccination Objectives focus on increasing the proportion of children and adults who receive recommended vaccinations and maintain <term class="no-emphasis" id="term-00018">vaccination</term> coverage. This objective category includes recommendations for reducing the number of children who do not get recommended vaccines by age 2 in order to reduce outbreaks of vaccine-preventable diseases like measles, pertussis, and mumps.</para>
 </note>
 <para id="para-00010">While primordial and primary prevention appear similar, a key to differentiating them involves the actual existence of risk factors. <term id="term-00019">Primordial prevention</term> prevents the development of risk factors for disease. <term id="term-00020">Primary prevention</term> modifies existing risk factors to prevent the development of disease (Weintraub et al., 2011). In addition, primordial prevention generally is intersectoral rather than limited to those within the health sector. The other levels of prevention, as noted previously, are mainly limited to the health sector. This information can be useful to the nurse as they plan health promotion and disease prevention interventions.</para>
@@ -166,7 +169,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/anoverviewhealth"/>
 </media>
-<para id="para-00013">To address disease prevention as a whole, it is necessary to look at different levels of prevention as they apply to population health. The video “<link url="https://openstax.org/r/anoverviewhealth" window="new">Levels of Disease Prevention and Approaches</link>” reviews the definition of prevention, the process of prevention, the four levels of prevention, and two approaches to prevention. Watch the video, and then respond to the questions below.</para>
+<para id="para-00013">To address disease prevention as a whole, it is necessary to look at different levels of prevention as they apply to population health. The video “<link url="https://openstax.org/r/anoverviewhealth" target-id="blank">Levels of Disease Prevention and Approaches</link>” reviews the definition of prevention, the process of prevention, the four levels of prevention, and two approaches to prevention. Watch the video, and then respond to the questions below.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00008">
 <item>A client at risk for diabetes has their blood glucose and HgA1C levels tested periodically. Which level of prevention does this describe?</item>
 <item>A public health nurse provides a presentation on healthy eating habits to first-grade children. Which level of prevention does this describe? [END MEDIA FEATURE BOX]</item>
