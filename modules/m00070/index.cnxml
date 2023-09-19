@@ -38,9 +38,9 @@
 <tgroup cols="3">
 <thead>
 <row>
-<entry valign="top">Lab Test</entry>
-<entry valign="top">Normal Range</entry>
-<entry valign="top">Mr. Vasquez’s Lab Results</entry>
+<entry valign="top" align="left">Lab Test</entry>
+<entry valign="top" align="left">Normal Range</entry>
+<entry valign="top" align="left">Mr. Vasquez’s Lab Results</entry>
 </row>
 </thead>
 <tbody>
