@@ -8,7 +8,7 @@
   <content>
 <section class="learning-objectives" id="sect-00001">
 <title>Learning Outcomes</title>
-<para id="para-00001">By the end of this section, you will be able to:</para>
+<para id="para-00001">By the end of this section you should be able to:</para>
 <list id="list-00001">
 <item>Describe the five key action areas of health promotion as defined in the Ottawa Charter.</item>
 <item>Describe the natural history of a disease to identify opportunities for prevention and control.</item>
@@ -24,7 +24,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/healthpromotion"/>   
 </media>
-<para id="para-00004">The video “<link url="https://openstax.org/r/healthpromotion" target-id="blank">Creating Healthier Populations: Health Promotion and the Ottawa Charter</link>” describes the Ottowa Charter, a landmark document that was influential in providing guidance to the goals and concepts of health promotion for public and population health programs worldwide.</para>
+<para id="para-00004">The video “Creating Healthier Populations: Health Promotion and the Ottawa Charter” describes the Ottawa Charter, a landmark document that was influential in providing guidance to the goals and concepts of health promotion for public and population health programs worldwide.</para>
 <para id="para-00005">Watch the video, and then respond to the following questions:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00002">
 <item>Which action area in the Ottawa Charter links most closely to the SDOH we address today?</item>
@@ -33,8 +33,8 @@
 </note>
 </section>
 <section id="sect-00003">
-<title>The Natural History of Disease</title>
-<para id="para-00006">To identify opportunities for prevention and control, it is first necessary to <term id="term-00002">recognize the natural history of disease</term>—that is, the progression of a disease process in an individual over time in the absence of treatment (Kisling et al., 2023). The five stages in the natural history of disease are <term class="no-emphasis" id="term-00003">underlying</term>, <term class="no-emphasis" id="term-00004">susceptible</term>, <term class="no-emphasis" id="term-00005">subclinical</term>, <term class="no-emphasis" id="term-00006">clinical</term>, and <term class="no-emphasis" id="term-00007">recovery/disability/death</term>. (See <link target-id="table-00001" document="m00180"/>.)</para>
+<title>The Natural History of Disease (See Kisling et al., 2023.)</title>
+<para id="para-00006">To identify opportunities for prevention and control, it is first necessary to recognize the <term id="term-00002">natural history of disease</term>—that is, the progression of a disease process in an individual over time in the absence of treatment (Kisling et al., 2023). The five stages in the natural history of disease are <term class="no-emphasis" id="term-00003">underlying</term>, <term class="no-emphasis" id="term-00004">susceptible</term>, <term class="no-emphasis" id="term-00005">subclinical</term>, <term class="no-emphasis" id="term-00006">clinical</term>, and <term class="no-emphasis" id="term-00007">recovery/disability/death</term>. (See <link target-id="table-00001" document="m00180"/>.)</para>
 <table class="vertically-tight" id="table-00001">
 <title>Five Stages in the Natural History of Disease</title>
 <tgroup cols="3">
@@ -80,6 +80,7 @@
 <title>Levels of Prevention</title>
 <para id="para-00008">The five levels of prevention—<term class="no-emphasis" id="term-00008">primordial</term>, <term class="no-emphasis" id="term-00009">primary</term>, <term class="no-emphasis" id="term-00010">secondary</term>, <term id="term-00011">tertiary</term>, and quaternary—described in <link document="m00108">Chapter 2, Foundations of Public/Community Health</link> correspond to the five stages of disease described in <link target-id="table-00001" document="m00180"/>. Combined use of prevention strategies in a community at the macro-level (or upstream) can lead to the prevention of individual (micro-level, or downstream) complications of an exhibited disease (Kisling &amp; Das, 2022). <link target-id="table-00002" document="m00180"/> looks at the levels of prevention as they correspond to the disease stages.</para>
 <table class="vertically-tight" id="table-00002">
+<title>Five Levels of Prevention</title>   
 <tgroup cols="4">
 <thead>
 <row>
@@ -129,7 +130,7 @@
 <row>
 <entry valign="top" morerows="1"><term id="term-00015">Tertiary Prevention</term></entry>
 <entry valign="top"><term class="no-emphasis" id="term-00016">Clinical</term></entry>
-<entry valign="top"><list list-type="bulleted" id="list-00006">
+<entry valign="top" morerows="1"><list list-type="bulleted" id="list-00006">
 <item>Targets both the clinical and outcomes stages of disease</item>
 <item>Implemented in symptomatic individuals</item>
 <item>Aims to reduce the severity of disease and any associated sequelae</item>
@@ -137,11 +138,9 @@
 <entry valign="top" morerows="1">Referring community members who live with chronic joint pain and limited mobility to a local rehabilitation center, which serves as a community hub for rehabilitation service activities that encourage community members to engage with one another, share experiences, and provide mutual support throughout their rehabilitation journey</entry>
 </row>
 <row>
-
 <entry valign="top"><list list-type="bulleted" id="list-00006a"><item><term class="no-emphasis" id="term-00017">Recovery</term></item>
   <item><term class="no-emphasis" id="term-00017a">Disability</term></item>
   <item><term class="no-emphasis" id="term-00017b">Death</term></item></list></entry>
-
 </row>
 <row>
 <entry valign="top"><emphasis effect="bold">Quaternary Prevention</emphasis></entry>
@@ -159,7 +158,7 @@
 </table>
 <note class="healthy-people" id="note-00002">
 <title><link url="https://openstax.org/r/healthypeoplevaccina" target-id="blank">Vaccination</link></title>
-<para id="para-00009">Healthy People 2030 Vaccination Objectives focus on increasing the proportion of children and adults who receive recommended vaccinations and maintain <term class="no-emphasis" id="term-00018">vaccination</term> coverage. This objective category includes recommendations for reducing the number of children who do not get recommended vaccines by age 2 in order to reduce outbreaks of vaccine-preventable diseases like measles, pertussis, and mumps.</para>
+<para id="para-00009">Healthy People 2030 vaccination objectives focus on increasing the proportion of children and adults who receive recommended vaccinations and maintain <term class="no-emphasis" id="term-00018">vaccination</term> coverage. This objective category includes recommendations for reducing the number of children who do not get recommended vaccines by age 2 in order to reduce outbreaks of vaccine-preventable diseases like measles, pertussis, and mumps.</para>
 </note>
 <para id="para-00010">While primordial and primary prevention appear similar, a key to differentiating them involves the actual existence of risk factors. <term id="term-00019">Primordial prevention</term> prevents the development of risk factors for disease. <term id="term-00020">Primary prevention</term> modifies existing risk factors to prevent the development of disease (Weintraub et al., 2011). In addition, primordial prevention generally is intersectoral rather than limited to those within the health sector. The other levels of prevention, as noted previously, are mainly limited to the health sector. This information can be useful to the nurse as they plan health promotion and disease prevention interventions.</para>
 <para id="para-00011">Another important factor the nurse should consider when planning involves the approach to prevention. The <term id="term-00021">high-risk approach</term> targets prevention only to those who are identified to be at high risk for disease. This could be an individual or a group who is likely to have an increased incidence of a disease based on the presence of known risk factors for the disease or characteristics that are associated with a higher incidence of disease. Even when a group is involved, the high-risk approach focuses on the individual and their risk behaviors (Wilson et al., 2017). An example of this approach would be a <term class="no-emphasis" id="term-00022">smoking cessation</term> intervention for a client.</para>
@@ -169,10 +168,10 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/anoverviewhealth"/>
 </media>
-<para id="para-00013">To address disease prevention as a whole, it is necessary to look at different levels of prevention as they apply to population health. The video “<link url="https://openstax.org/r/anoverviewhealth" target-id="blank">Levels of Disease Prevention and Approaches</link>” reviews the definition of prevention, the process of prevention, the four levels of prevention, and two approaches to prevention. Watch the video, and then respond to the questions below.</para>
+<para id="para-00013">To address disease prevention as a whole, it is necessary to look at different levels of prevention as they apply to population health. The video “Levels of Disease Prevention and Approaches” reviews the definition of prevention, the process of prevention, the four levels of prevention, and two approaches to prevention. Watch the video, and then respond to the questions below.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00008">
 <item>A client at risk for diabetes has their blood glucose and HgA1C levels tested periodically. Which level of prevention does this describe?</item>
-<item>A public health nurse provides a presentation on healthy eating habits to first-grade children. Which level of prevention does this describe? [END MEDIA FEATURE BOX]</item>
+<item>A public health nurse provides a presentation on healthy eating habits to first-grade children. Which level of prevention does this describe?</item>
 </list>
 </note>
 <note class="unfolding-casestudy" id="note-00004">
