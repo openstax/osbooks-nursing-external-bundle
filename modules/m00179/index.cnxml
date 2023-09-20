@@ -29,10 +29,10 @@
 <tgroup cols="4">
 <thead>
 <row>
-<entry valign="top"><span class="blue-text"><emphasis>Dimensions</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Definition</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Individual-Level Example</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Community-Level Example</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Dimensions</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Definition</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Individual-Level Example</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Community-Level Example</emphasis></span></entry>
 </row>
 </thead>
 <tbody>

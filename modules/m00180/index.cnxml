@@ -40,9 +40,9 @@
 <tgroup cols="3">
 <thead>
 <row>
-<entry valign="top"><span class="blue-text"><emphasis>Stage</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Definition</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Example</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Stage</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Definition</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Example</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -84,10 +84,10 @@
 <tgroup cols="4">
 <thead>
 <row>
-<entry valign="top"><span class="blue-text"><emphasis>Levels of Prevention</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Targeted Stage of Disease</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Characteristics of Level of Prevention</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Example of Level of Prevention</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Levels of Prevention</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Targeted Stage of Disease</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Characteristics of Level of Prevention</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Example of Level of Prevention</emphasis></span></entry>
 </row>
 </thead>
 <tbody>

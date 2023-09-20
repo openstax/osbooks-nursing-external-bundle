@@ -26,9 +26,9 @@
 <tgroup cols="3">
 <thead>
 <row>
-<entry valign="top"><span class="blue-text"><emphasis>Social Determinants of Health (SDOH)</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Example of an Individual-Level Barrier</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Example of a System-Level Barrier</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Social Determinants of Health (SDOH)</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Example of an Individual-Level Barrier</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Example of a System-Level Barrier</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -101,9 +101,9 @@
 <colspec colnum="4" colname="c4"/>
 <thead>
 <row>
-<entry valign="top"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
-<entry valign="top"><span class="blue-text"><emphasis>Description</emphasis></span></entry>
-<entry namest="c3" nameend="c4" valign="top"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis>Description</emphasis></span></entry>
+<entry namest="c3" nameend="c4" valign="top" align="center"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
