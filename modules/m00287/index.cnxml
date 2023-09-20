@@ -190,25 +190,19 @@
   </thead>
   <tbody>
   <row>
-  <entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00002b">
-  <item>Temperature: 98.4°F</item>
-  <item>Blood pressure: 168/96 mm Hg</item>
-  <item>Heart rate: 88 beats/min</item>
-  <item>Respiratory rate: 16 breaths/min</item>
-  <item>Oxygen saturation: 97% on room air</item>
-  <item>Height: 5'3"</item>
-  <item>Weight: 184 pounds</item>
-  </list>
-</entry>
-<entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00003">
-<item>Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular vein distention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.</item>
-<item>Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.</item>
-<item>GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.</item>
-<item>GU: Deferred</item>
-<item>Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.</item>
-<item>Integumentary: No wounds noted; skin appropriate for age.</item>
-</list>
-</entry>
+  <entry valign="top">Temperature: 98.4°F<newline/>
+  Blood pressure: 168/96 mm Hg<newline/>
+  Heart rate: 88 beats/min<newline/>
+  Respiratory rate: 16 breaths/min<newline/>
+  Oxygen saturation: 97% on room air<newline/>
+  Height: 5'3"<newline/>
+  Weight: 184 pounds</entry>
+<entry valign="top">Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular veindistention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>
+Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>
+GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>
+GU: Deferred<newline/>
+Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>
+Integumentary: No wounds noted; skin appropriate for age.</entry>
 </row>
   </tbody>
   </tgroup>
