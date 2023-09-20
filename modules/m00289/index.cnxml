@@ -20,7 +20,7 @@
       <title>Introduction and Use</title>
       <para id="para-00002"><term id="term-00001">Angiotensin II receptor blockers (ARBs)</term> are a classification of drug that binds to and inhibits angiotensin II type I receptors. Renin secretion catalyzes the conversion of angiotensinogen to angiotensin in the liver where it is then converted to angiotensin II by the angiotensin-converting enzyme.</para>
       <para id="para-00003">ARBs resemble ACE inhibitors in how they affect blood pressure and the cardiovascular system. However, there are three notable differences: ARBs are less likely than ACE inhibitors to cause a chronic cough (Carter, 2022); the risk of angioedema is decreased with ARBs as compared with ACE inhibitors; and, ARBs have been shown to be effective in the treatment of chronic kidney disease and heart failure.</para>
-      <para id="para-00003a"><link target-id="table-00001" document="m00289"/> lists common ARBs and typical routes and dosing for adult clients.</para> 
+      <para id="para-00003a"><link target-id="table-00001" document="m00289"/> lists common ARBs and typical routes and dosing for adult clients.</para>
       <table class="vertically-tight" id="table-00001">
      <tgroup cols="2">
       <thead>
@@ -65,7 +65,7 @@
       <para id="para-00009">ARBs can have teratogenic effects (causing harm to the embryo or fetus), so clients should avoid being pregnant while taking an ARB.</para>
       </note>
       <para id="para-00010"><link target-id="table-00002" document="m00289"/> is a drug prototype table for ARBs featuring valsartan. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-      <table class="vertically-tight" id="table-00002">
+      <table class="vertically-tight" id="table-00002" pgwide="1">
             <tgroup cols="2">
               <colspec colname="col1" colnum="1" colwidth="1*"/>
               <colspec colname="col2" colnum="2" colwidth="1*"/>
@@ -166,5 +166,5 @@
       <glossary>
       <definition id="def-00001"><term>angiotensin II receptor blocker (ARB)</term> <meaning>a classification of drug that binds to and inhibits angiotensin II type I receptors</meaning></definition>
       </glossary>
-  
+
 </document>
