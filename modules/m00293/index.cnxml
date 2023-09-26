@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Outcomes</title>
-      <para id="para-00001">By the end of this section you should be able to:</para>
+      <para id="para-00001">By the end of this section, you should be able to:</para>
       <list id="list-00001">
       <item>Identify the characteristics of the nitrate drugs used to treat hypertension and angina.</item>
       <item>Explain the indications, actions, adverse reactions, and interactions of the nitrate drugs used to treat hypertension and angina.</item>
@@ -22,7 +22,7 @@
       <note class="special-considerations" id="note-00001">
       <title>Nitrates</title>
       <para id="para-00003">Older clients using nitrates are at a higher risk for postural hypotension and should rise from a lying or sitting position slowly to prevent falls and injuries.</para>
-      <para id="para-00004">Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/</para>
+      <para id="para-00004">(Source: https://www.ncbi.nlm.nih.gov/books/NBK545149/)</para>
       </note>
       <para id="para-00004a"><link target-id="table-00001" document="m00293"/> lists common nitrates and typical routes and dosing for adult clients.</para>
       <table class="vertically-tight" id="table-00001">
@@ -82,12 +82,12 @@
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-      Sublingual tablets: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
-      Sustained-release tablets: 2.5 mg orally three to four times daily<newline/>
-      Spray: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
-      Ointment: 1/2 to 2 inches applied topically every four to eight hours daily<newline/>
-      Patch (disk): Applied to skin once daily<newline/>
-      Solution: 5–10 mcg/minute up to 100 mcg/minute intravenously
+      <emphasis effect="italics">Sublingual tablets</emphasis>: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
+      <emphasis effect="italics">Sustained-release tablets</emphasis>: 2.5 mg orally three to four times daily<newline/>
+      <emphasis effect="italics">Spray</emphasis>: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to three times for continued chest pain<newline/>
+      <emphasis effect="italics">Ointment</emphasis>: 1/2 to 2 inches applied topically every four to eight hours daily<newline/>
+      <emphasis effect="italics">Patch (disk)</emphasis>: Applied to skin once daily<newline/>
+      <emphasis effect="italics">Solution</emphasis>: 5–10 mcg/minute up to 100 mcg/minute intravenously
       </entry>
       </row>
       <row>
@@ -159,7 +159,7 @@
       <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
       </list>
       <note class="client-teaching" id="note-00003">
-      <para id="para-00011"><emphasis effect="bold">The client taking sublingual nitrates should:</emphasis></para>
+      <para id="para-00011"><emphasis effect="bold">The client taking a sublingual nitrate should:</emphasis></para>
       <list list-type="bulleted" id="list-00003">
       <item>Take sublingual nitrates if chest pain occurs. They should take one sublingual nitrate every 5 minutes times three doses if chest pain persists. If chest pain continues, the client should call 911.</item>
       <item>Store sublingual nitrate bottles away from the light in a dry place and in the original amber glass bottle.</item>
@@ -171,10 +171,10 @@
       <item>Remove nitrate patches for 10–12 hours before placing a new one to prevent tolerance.</item>
       <item>Rotate sites of nitrate patches to prevent skin irritation.</item>
       </list>
-      <para id="para-00012b"><emphasis effect="bold">The client using nitrates <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+      <para id="para-00012b"><emphasis effect="bold">The client using a nitrate <emphasis effect="italics">should not</emphasis>:</emphasis></para>
       <list list-type="bulleted" id="list-00005">
       <item>Use patches for acute chest pain.</item>
-      <item>Take erectile dysfunction medications with nitrates because this may cause profound hypotension.</item>
+      <item>Take erectile dysfunction medications because this may cause profound hypotension.</item>
       </list>
       <para id="para-00014"><emphasis effect="italics"><emphasis effect="bold">Other Concerns</emphasis></emphasis></para>
       <list list-type="bulleted" id="list-00006">
@@ -184,7 +184,7 @@
       </note>
       <note class="unfolding-casestudy" id="note-00004">
       <title>Part C</title>
-      <para id="para-00015">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study is a follow-up from Case Study Parts A and B.</para>
+      <para id="para-00015">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up from Case Study Parts A and B.</para>
       <para id="para-00016">Ms. Tran is following up with the health care provider 3 months after her initial diagnosis of hypertension stage 2. She reports her headaches and dizziness have improved; however, she is now reporting chest pain when she walks 1–2 miles. The chest pain is relieved by resting on a park bench. Ms. Tran states she experiences a burning in her chest that does not radiate to other areas. Ms. Tran denies nausea, diaphoresis, shortness of breath, or dizziness with chest pain.</para>
       <para id="para-00017">The nurse performs a 12-lead ECG on Ms. Tran, as ordered. The health care provider notes that there are no ischemic changes and diagnoses Ms. Tran with stable angina. The health care provider prescribes verapamil 40 mg orally three times daily and nitroglycerin 0.4 mg sublingually for chest pain. The nurse is developing a teaching care plan for Ms. Tran.</para>
 <table class="unnumbered" id="table-00003">
@@ -193,25 +193,25 @@
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row class="header-row">
-<entry><emphasis effect="bold">Vital signs:</emphasis></entry>
-<entry><emphasis effect="bold">Physical examination:</emphasis></entry>
+<entry><span class="blue-text">Vital Signs</span></entry>
+<entry><span class="blue-text">Physical Examination</span></entry>
 </row>
 </thead>
 <tbody>
 <row>
 <entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00002a">
-  <item>Temperature: 98.4°F</item>
-  <item>Blood Pressure: 9144/90 mm Hg</item>
-  <item>Heart Rate: 78 beats/min</item>
-  <item>Respiratory Rate: 16 breaths/min</item>
-  <item>Oxygen Saturation: 98% on room air</item>
-  <item>Height: 5'3"</item>
-  <item>Weight: 188 pounds</item>
+  <item><emphasis effect="italics">Temperature</emphasis>: 98.4°F</item>
+  <item><emphasis effect="italics">Blood Pressure</emphasis>: 9144/90 mm Hg</item>
+  <item><emphasis effect="italics">Heart Rate</emphasis>: 78 beats/min</item>
+  <item><emphasis effect="italics">Respiratory Rate</emphasis>: 16 breaths/min</item>
+  <item><emphasis effect="italics">Oxygen Saturation</emphasis>: 98% on room air</item>
+  <item><emphasis effect="italics">Height</emphasis>: 5'3"</item>
+  <item><emphasis effect="italics">Weight</emphasis>: 188 pounds</item>
   </list>
 </entry>
 <entry valign="top"><list list-type="bulleted" bullet-style="none" id="list-00003a">
-      <item>Cardiovascular: No jugular vein distention or pedal edema; S1, S2 noted.</item>
-        <item>Respiratory: Breath sounds clear on auscultation.</item>
+      <item><emphasis effect="italics">Cardiovascular</emphasis>: No jugular vein distention or pedal edema; S1, S2 noted.</item>
+        <item><emphasis effect="italics">Respiratory</emphasis>: Breath sounds clear on auscultation.</item>
     </list>
   </entry>
       </row>

@@ -8,7 +8,7 @@
   <content>
   <section class="learning-objectives" id="sect-00001">
   <title>Learning Outcomes</title>
-  <para id="para-00001">By the end of this section you should be able to:</para>
+  <para id="para-00001">By the end of this section, you should be able to:</para>
   <list id="list-00001">
   <item>Describe the pathophysiology of hypertension and angina.</item>
   <item>Explain the blood pressure guidelines for determining hypertension.</item>
@@ -23,7 +23,7 @@
   <figure id="fig-00001">
   <media alt="The cross sections of an artery and vein show the different elements of an artery and vein. Both arteries and veins have tunica externa, tunica media, tunica intima, smooth muscle, vasa vasorum, and endothelium.  An artery also has an internal elastic membrane, external elastic membrane, nervi vasorum, and elastic fiber.">
   <image mime-type="image/png" src="../../media/PHA_Figure_18_00_002.png"/></media>
-  <caption>The walls of the arteries are much thicker than those of the veins because of the higher pressure of the blood that flows through them. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> 2e. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+  <caption>The walls of the arteries are much thicker than those of the veins because of the higher pressure of the blood that flows through them. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e.</emphasis> attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   </note>
   <para id="para-00003">The two elements that determine blood pressure are cardiac output and peripheral vascular resistance. <term id="term-00001">Cardiac output</term> (CO) is the volume of blood pumped by the heart per unit of time, usually measured in liters per minute. The CO is determined by the <term id="term-00002">heart rate</term> (HR), the number of times the heart beats per minute, and <term id="term-00003">stroke volume</term> (SV)—the amount of blood ejected with each heartbeat—and is represented by the following equation: <m:math><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo>×</m:mo><m:mi>SV</m:mi></m:math>.</para>
   <para id="para-00004">Blood pressure is determined by examining both systolic and diastolic blood pressure readings. The <term id="term-00004">systolic blood pressure</term> reading represents the amount of pressure within the arteries when the heart contracts, whereas the <term id="term-00005">diastolic blood pressure</term> reading reflects the amount of pressure when the heart is at rest between beats. The diastolic blood pressure reading, which is the lower pressure within the arteries and vessels, determines the <term id="term-00006">peripheral vascular resistance</term> (also known as systemic vascular resistance) by measuring blood flow and the level of constriction or dilatation within the arteries and vessels. Blood pressure (BP) is measured in millimeters of mercury (mm Hg) and is expressed as the systolic pressure over the diastolic pressure (for instance, 125/90 mm Hg).</para>
@@ -173,7 +173,7 @@
   
   <note class="unfolding-casestudy" id="note-00005">
   <title>Part A</title>
-  <para id="para-00030">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter.</para>
+  <para id="para-00030">Read the following clinical scenario to answer the questions that follow. This case study will evolve throughout the chapter.</para>
   <para id="para-00031">Hahn Tran is a 53-year-old Asian American client who presents to her health care provider’s office with reports of a headache and dizziness. When questioned, Ms. Tran describes her headache as throbbing and that it is worse in the morning when she awakens. She is unable to identify any triggers for the headaches but states they are relieved with acetaminophen.</para>
   <para id="para-00032">Ms. Tran reports trying to follow a healthy diet, but states that she does not really know what that means and that she uses a lot of salt in her cooking. She smokes about six to eight cigarettes daily, which is down from one pack daily three months ago. Ms. Tran does not exercise regularly and reports having one to two glasses of wine on the weekend. She lives with her husband and two teenage children and works in the kitchen at the children’s school.</para>
   <para id="para-00033"><emphasis effect="bold">History</emphasis><newline/>Hyperlipidemia<newline/>Type 2 diabetes</para>
@@ -184,25 +184,26 @@
   <colspec colnum="2" colname="c2" colwidth="3*"/>
   <thead>
   <row class="header-row">
-  <entry align="left"><emphasis effect="bold">Vital Signs</emphasis></entry>
-  <entry align="left"><emphasis effect="bold">Physical Assessment/Signs and Symptoms</emphasis></entry>
+  <entry align="left"><span class="blue-text">Vital Signs</span></entry>
+  <entry align="left"><span class="blue-text">Physical Examination</span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-  <entry valign="top">Temperature: 98.4°F<newline/>
-  Blood pressure: 168/96 mm Hg<newline/>
-  Heart rate: 88 beats/min<newline/>
-  Respiratory rate: 16 breaths/min<newline/>
-  Oxygen saturation: 97% on room air<newline/>
-  Height: 5'3"<newline/>
-  Weight: 184 pounds</entry>
-<entry valign="top">Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular veindistention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>
-Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>
-GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>
-GU: Deferred<newline/>
-Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>
-Integumentary: No wounds noted; skin appropriate for age.</entry>
+  <entry valign="top"><emphasis effect="italics">Temperature</emphasis>: 98.4°F<newline/>
+  <emphasis effect="italics">Blood Pressure</emphasis>: 168/96 mm Hg<newline/>
+  <emphasis effect="italics">Heart Rate</emphasis>: 88 beats/min<newline/>
+  <emphasis effect="italics">Respiratory Rate</emphasis>: 16 breaths/min<newline/>
+  <emphasis effect="italics">Oxygen Saturation</emphasis>: 97% on room air<newline/>
+  <emphasis effect="italics">Height</emphasis>: 5'3"<newline/>
+  <emphasis effect="italics">Weight</emphasis>: 184 pounds</entry>
+<entry valign="top"><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT)</emphasis>: Denies any changes in vision. No difficulty hearing conversations.<newline/>
+<emphasis effect="italics">Cardiovascular</emphasis>: No jugular veindistention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>
+<emphasis effect="italics">Respiratory</emphasis>: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>
+<emphasis effect="italics">GI</emphasis>: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>
+<emphasis effect="italics">GU</emphasis>: Deferred<newline/>
+<emphasis effect="italics">Neurological</emphasis>: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>
+<emphasis effect="italics">Integumentary</emphasis>: No wounds noted; skin appropriate for age.</entry>
 </row>
   </tbody>
   </tgroup>
