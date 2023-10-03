@@ -130,6 +130,7 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
+<entry valign="top" align="left"></entry>
 <entry valign="top" align="left"><span class="blue-text">Phases</span></entry>
 <entry valign="top" align="left"><span class="blue-text">Activities Completed</span></entry>
 </row>
