@@ -15,7 +15,7 @@
     <colspec colnum="2" colname="c2"/>
    <tbody> 
   <row>
-   <entry namest="c1" nameend="c2"><emphasis effect="bold">Overall Nutrition Apps</emphasis></entry>
+   <entry namest="c1" nameend="c2"><span class="blue-text">Overall Nutrition Apps</span></entry>
   </row>
   <row>
   <entry><link url="https://openstax.org/r/PlateJoy">PlateJoy</link></entry>
@@ -34,7 +34,7 @@
   <entry>Food journal that promotes mindful eating, exploring driving forces behind food selection and consumption.</entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c2"><emphasis effect="bold">Weight-Loss Programs</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Weight-Loss Programs</span></entry>
     </row>
   <row>
   <entry><link url="https://openstax.org/r/noom">NOOM</link></entry>
@@ -53,7 +53,7 @@
   <entry>Promotes intermittent fasting to lose weight, attain healthy BMI, and improve gut health. Provides recipes, education, and workouts. Fasting nutritional approaches are not appropriate for everyone.</entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c2"><emphasis effect="bold">Recipes for Specific Pathologies</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Recipes for Specific Pathologies</span></entry>
     </row>
   <row>
   <entry><link url="https://openstax.org/r/playdiabetic">Diabetic App</link></entry>
@@ -68,7 +68,7 @@
   <entry>Anti-inflammatory recipes designed to maximize gut health as a precursor to holistic health promotion.</entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c2"><emphasis effect="bold">Meal Tracking</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Meal Tracking</span></entry>
     </row>
   <row>
   <entry><link url="https://openstax.org/r/weightwatchers">Weight Watchers</link></entry>
@@ -83,7 +83,7 @@
   <entry>Food diary that includes the ability to scan barcodes, provides recipes, tracks health habits, and provides peer support.</entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c2"><emphasis effect="bold">Other</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Other</span></entry>
     </row>
   <row>
   <entry><link url="https://openstax.org/r/healthharvardedu">BMI Calculator</link></entry>
