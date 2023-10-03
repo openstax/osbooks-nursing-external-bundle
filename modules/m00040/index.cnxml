@@ -156,42 +156,74 @@ Complete Metabolic Profile</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00050">Albumin</term>, <term class="no-emphasis" id="term-00051">Pre-albumin</term>, Vitamin D (25OHD)</entry>
-<entry valign="top" align="left">Poor wound healing</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00011">
+<item>Poor wound healing</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00052">Haptoglobin</term>, Lactate Dehydrogenase (LDH), <term class="no-emphasis" id="term-00053">Reticulocyte</term><newline/>
 Vitamin E</entry>
-<entry valign="top" align="left">Hemolytic anemia<newline/>
-Thrombocytosis</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00012">
+<item>Hemolytic anemia</item>
+<item>Thrombocytosis</item>
+</list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left">Ferritin, Iron, Transferrin</entry>
-<entry valign="top" align="left"><emphasis effect="bold"><term id="term-00054">Microcytic anemia</term></emphasis> (small red blood cell)</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00013">
+<item><emphasis effect="bold"><term id="term-00054">Microcytic anemia</term></emphasis> (small red blood cell)</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left">Folate, Vitamin B<sub>12</sub></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><term id="term-00055">Macrocytic anemia</term></emphasis> (large red blood cell)<newline/>
-Neutropenia</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00014">
+<item><emphasis effect="bold"><term id="term-00055">Macrocytic anemia</term></emphasis> (large red blood cell)</item>
+<item>Neutropenia</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left">Vitamin C</entry>
-<entry valign="top" align="left">Excessive bleeding and bruising<newline/>
-Brittle, spoon-shaped nails</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00015">
+<item>Excessive bleeding and bruising</item>
+<item>Brittle, spoon-shaped nails</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left">Vitamin K, PT/PTT</entry>
-<entry valign="top" align="left">Prolonged bleeding<newline/>
-Coagulopathy</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00016">
+<item>Prolonged bleeding</item>
+<item>Coagulopathy</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left">Copper</entry>
-<entry valign="top" align="left">Anemia (normocytic)<newline/>
-Neutropenia<newline/>
-Malabsorption (diarrhea, failure to thrive)</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00017">
+<item>Anemia (normocytic)</item>
+<item>Neutropenia</item>
+<item>Malabsorption (diarrhea, failure to thrive)</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00056">Bone Marrow Aspiration/Biopsy</term></entry>
-<entry valign="top" align="left">Overlapping hematologic abnormalities</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00018">
+<item>Overlapping hematologic abnormalities</item>
+  </list>
+</entry>
 <entry valign="top" align="left">Does the client need sedation?</entry>
 </row>
 </tbody>
@@ -237,67 +269,115 @@ Malabsorption (diarrhea, failure to thrive)</entry>
       <item>Vegans</item>
     </list>
       </entry>
-<entry valign="top" align="left">Ferrous sulfate 100–200 mg/day for adults dosed on severity of anemia<newline/>
-Orally or intravenously<newline/>
-Dose dependent on age and hemoglobin level</entry>
-<entry valign="top" align="left">Take one hour before or two hours after meals<newline/>
-Take with vitamin C to increase absorption<newline/>
-Avoid antacids, proton pump inhibitors (may decrease iron absorption)<newline/>
-Common side effect: constipation; increase fiber in diet<newline/>
-Food sources: red meat, beans, dark green leafy vegetables, iron fortified foods<newline/>
-Monitor labs every three weeks during first two months of therapy</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00019">
+<item>Ferrous sulfate 100–200 mg/day for adults dosed on severity of anemia</item>
+<item>Orally or intravenously</item>
+<item>Dose dependent on age and hemoglobin level</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00020">
+<item>Take one hour before or two hours after meals</item>
+<item>Take with vitamin C to increase absorption</item>
+<item>Avoid antacids, proton pump inhibitors (may decrease iron absorption)</item>
+<item>Common side effect: constipation; increase fiber in diet</item>
+<item>Food sources: red meat, beans, dark green leafy vegetables, iron fortified foods</item>
+<item>Monitor labs every three weeks during first two months of therapy</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00062">Vitamin B<sub>12</sub></term></entry>
-<entry valign="top" align="left">Autoimmune gastritis<newline/>
-Celiac disease<newline/>
-Inflammatory bowel<newline/>
-Gastric bypass or ileal resection<newline/>
-Strict vegans<newline/>
-Pancreatic insufficiency<newline/>
-Alcoholism</entry>
-<entry valign="top" align="left">Vitamin B<sub>12</sub> intramuscularly or<newline/>
-high dose Vitamin B<sub>12</sub> orally daily<newline/>
-Diet modification</entry>
-<entry valign="top" align="left">Clients with malabsorption syndrome or gastric resection require parenteral administration<newline/>
-Protect vials from light<newline/>
-Take with meals to increase absorption<newline/>
-Food sources: animal meat, fish, eggs, dairy</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00021">
+<item>Autoimmune gastritis</item>
+<item>Celiac disease</item>
+<item>Inflammatory bowel</item>
+<item>Gastric bypass or ileal resection</item>
+<item>Strict vegans</item>
+<item>Pancreatic insufficiency</item>
+<item>Alcoholism</item>
+  </list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00022">
+<item>Vitamin B<sub>12</sub> intramuscularly or</item>
+<item>high dose Vitamin B<sub>12</sub> orally daily</item>
+<item>Diet modification</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00023">
+<item>Clients with malabsorption syndrome or gastric resection require parenteral administration</item>
+<item>Protect vials from light</item>
+<item>Take with meals to increase absorption</item>
+<item>Food sources: animal meat, fish, eggs, dairy</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00063">Folate</term></entry>
-<entry valign="top" align="left">Pregnant clients<newline/>
-Clients with alcoholism, malabsorption, hemolytic anemia, eczema</entry>
-<entry valign="top" align="left">Folic acid, orally once daily<newline/>
-Dose dependent on age</entry>
-<entry valign="top" align="left">Take antacids at least two hours after folic acid<newline/>
-Take folic acid early in pregnancy for prevention of neural tube defects<newline/>
-May turn urine intensely yellow<newline/>
-Food sources: green leafy vegetables, fruits, nuts, eggs, meats</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00024">
+<item>Pregnant clients</item>
+<item>Clients with alcoholism, malabsorption, hemolytic anemia, eczema</item>
+  </list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00025">
+<item>Folic acid, orally once daily</item>
+<item>Dose dependent on age</item>
+  </list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00026">
+<item>Take antacids at least two hours after folic acid</item>
+<item>Take folic acid early in pregnancy for prevention of neural tube defects</item>
+<item>May turn urine intensely yellow</item>
+<item>Food sources: green leafy vegetables, fruits, nuts, eggs, meats</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00064">Vitamin K</term></entry>
-<entry valign="top" align="left">Newborns<newline/>
-Liver disease<newline/>
-Cystic fibrosis<newline/>
-Celiac disease<newline/>
-Inflammatory bowel disease</entry>
-<entry valign="top" align="left">Phytonadione may be given intramuscularly, subcutaneously, or orally ; dose is dependent on condition and age<newline/>
-Intravenously in life-threatening bleeding</entry>
-<entry valign="top" align="left">Lab analysis impacted by drugs: warfarin, antacids, antibiotics, aspirin<newline/>
-Food source: cheese, green vegetables, meat, eggs</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00027">
+<item>Newborns</item>
+<item>Liver disease</item>
+<item>Cystic fibrosis</item>
+<item>Celiac disease</item>
+<item>Inflammatory bowel disease</item>
+  </list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00028">
+<item>Phytonadione may be given intramuscularly, subcutaneously, or orally; dose is dependent on condition and age</item>
+<item>Intravenously in life-threatening bleeding</item>
+  </list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00029">
+<item>Lab analysis impacted by drugs: warfarin, antacids, antibiotics, aspirin</item>
+<item>Food source: cheese, green vegetables, meat, eggs</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00065">Vitamin C</term><newline/>
 (scurvy)</entry>
-<entry valign="top" align="left">Food insecurity<newline/>
-Infants only receiving cow’s milk.<newline/>
-Alcoholism<newline/>
-Smoking<newline/>
-Eating disorder<newline/>
-GI tract disorder<newline/>
-Type 1 diabetes<newline/>
-Iron overload</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00030">
+<item>Food insecurity</item>
+<item>Infants only receiving cow’s milk.</item>
+<item>Alcoholism</item>
+<item>Smoking</item>
+<item>Eating disorder</item>
+<item>GI tract disorder</item>
+<item>Type 1 diabetes</item>
+<item>Iron overload</item>
+  </list>
+</entry>
 <entry valign="top" align="left">
   <list list-type="bulleted" id="list-00009">
   <item>Ascorbic acid 100–300 mg daily for children and 500–1,000 mg daily for adults</item>
@@ -314,15 +394,23 @@ Iron overload</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00066">Vitamin D</term></entry>
-<entry valign="top" align="left">Residential/assisted living<newline/>
-Dark-skinned<newline/>
-Obesity<newline/>
-Chronic disease<newline/>
-Decreased exposure to sunlight</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00031">
+<item>Residential/assisted living</item>
+<item>Dark-skinned</item>
+<item>Obesity</item>
+<item>Chronic disease</item>
+<item>Decreased exposure to sunlight</item>
+  </list>
+</entry>
 <entry valign="top" align="left">Vitamin D3 (cholecalciferol) orally daily or high dose orally weekly</entry>
-<entry valign="top" align="left">Order lab as 25(OH)<newline/>
-Laboratory analysis impacted by barbiturates and corticosteroids.<newline/>
-Food source: fatty fish liver, fortified milk</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00032">
+<item>Order lab as 25(OH)</item>
+<item>Laboratory analysis impacted by barbiturates and corticosteroids.</item>
+<item>Food source: fatty fish liver, fortified milk</item>
+  </list>
+</entry>
 </row>
 </tbody>
 </tgroup>
