@@ -155,81 +155,57 @@ Complete Metabolic Profile</entry>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00050">Albumin</term>, <term class="no-emphasis" id="term-00051">Pre-albumin</term>, Vitamin D (25OHD)</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00011">
-<item>Poor wound healing</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00052">Haptoglobin</term>, Lactate Dehydrogenase (LDH), <term class="no-emphasis" id="term-00053">Reticulocyte</term><newline/>
-Vitamin E</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00012">
-<item>Hemolytic anemia</item>
-<item>Thrombocytosis</item>
-</list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left">Ferritin, Iron, Transferrin</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00013">
-<item><emphasis effect="bold"><term id="term-00054">Microcytic anemia</term></emphasis> (small red blood cell)</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left">Folate, Vitamin B<sub>12</sub></entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00014">
-<item><emphasis effect="bold"><term id="term-00055">Macrocytic anemia</term></emphasis> (large red blood cell)</item>
-<item>Neutropenia</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left">Vitamin C</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00015">
-<item>Excessive bleeding and bruising</item>
-<item>Brittle, spoon-shaped nails</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left">Vitamin K, PT/PTT</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00016">
-<item>Prolonged bleeding</item>
-<item>Coagulopathy</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left">Copper</entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00017">
-<item>Anemia (normocytic)</item>
-<item>Neutropenia</item>
-<item>Malabsorption (diarrhea, failure to thrive)</item>
-  </list>
-</entry>
-</row>
-<row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00056">Bone Marrow Aspiration/Biopsy</term></entry>
-<entry valign="top" align="left">
-  <list list-type="bulleted" id="list-00018">
-<item>Overlapping hematologic abnormalities</item>
-  </list>
-</entry>
-<entry valign="top" align="left">Does the client need sedation?</entry>
-</row>
-</tbody>
-</tgroup>
-<caption>Diagnostic Studies</caption>
-</table>
+
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00050">Albumin</term>, <term class="no-emphasis" id="term-00051">Pre-albumin</term>, Vitamin D (25OHD)</entry>
+  <entry valign="top" align="left">Poor wound healing</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00052">Haptoglobin</term>, Lactate Dehydrogenase (LDH), <term class="no-emphasis" id="term-00053">Reticulocyte</term><newline/>
+  Vitamin E</entry>
+  <entry valign="top" align="left">Hemolytic anemia<newline/>
+  Thrombocytosis</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left">Ferritin, Iron, Transferrin</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><term id="term-00054">Microcytic anemia</term></emphasis> (small red blood cell)</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left">Folate, Vitamin B<sub>12</sub></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><term id="term-00055">Macrocytic anemia</term></emphasis> (large red blood cell)<newline/>
+  Neutropenia</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left">Vitamin C</entry>
+  <entry valign="top" align="left">Excessive bleeding and bruising<newline/>
+  Brittle, spoon-shaped nails</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left">Vitamin K, PT/PTT</entry>
+  <entry valign="top" align="left">Prolonged bleeding<newline/>
+  Coagulopathy</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left">Copper</entry>
+  <entry valign="top" align="left">Anemia (normocytic)<newline/>
+  Neutropenia<newline/>
+  Malabsorption (diarrhea, failure to thrive)</entry>
+  <entry/>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00056">Bone Marrow Aspiration/Biopsy</term></entry>
+  <entry valign="top" align="left">Overlapping hematologic abnormalities</entry>
+  <entry valign="top" align="left">Does the client need sedation?</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Diagnostic Studies</caption>
+  </table>
 </section>
 </section>
 <section id="sect-00005">
