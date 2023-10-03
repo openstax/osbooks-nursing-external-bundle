@@ -8,7 +8,7 @@
  <content>
 <section class="learning-objectives" id="sect-00001">
 <title>Learning Outcomes</title>
-<para id="para-00001">By the end of this section you should be able to:</para>
+<para id="para-00001">By the end of this section, you should be able to:</para>
 <list id="list-00001">
 <item>Recognize cues that indicate the impact of nutrition on the hematological system.</item>
 <item>Analyze cues to determine the impact of nutrition on the hematological system.</item>
@@ -137,14 +137,22 @@ Complete within 48 hours of admission</entry>
 <row>
 <entry valign="top" align="left">CBC With Differential<newline/>
 Complete Metabolic Profile</entry>
-<entry valign="top" align="left">Bruising, petechiae<newline/>
-Gingival bleeding<newline/>
-Dyspnea<newline/>
-Tachycardia</entry>
-<entry morerows="7" valign="top" align="left">Total volume of blood obtained in 24 hours; check facility policy<newline/>
-Is there a fasting requirement?<newline/>
-Appropriate collection tube<newline/>
-Handling requirements: specific days processed; temperature of sample once obtained</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00006">
+  <item>Bruising, petechiae</item>
+  <item>Gingival bleeding</item>
+    <item>Dyspnea</item>
+    <item>Tachycardia</item>
+    </list>
+    </entry>
+<entry morerows="7" valign="top" align="left">
+  <list list-type="bulleted" id="list-00007">
+    <item>Total volume of blood obtained in 24 hours; check facility policy</item>
+    <item>Is there a fasting requirement?</item>
+    <item>Appropriate collection tube</item>
+    <item>Handling requirements: specific days processed; temperature of sample once obtained</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00050">Albumin</term>, <term class="no-emphasis" id="term-00051">Pre-albumin</term>, Vitamin D (25OHD)</entry>
@@ -221,11 +229,15 @@ Malabsorption (diarrhea, failure to thrive)</entry>
 <tbody>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00061">Iron</term> deficiency</entry>
-<entry valign="top" align="left">Infants<newline/>
-Menstruating females<newline/>
-Older adults over 65 years<newline/>
-Vegans</entry>
-<entry valign="top" align="left">Ferrous sulfate 2–3 mg/kg daily in adults; infants and children dosed on severity of anemia<newline/>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00008">
+    <item>Infants</item>
+    <item>Menstruating females</item>
+    <item>Older adults over 65 years</item>
+      <item>Vegans</item>
+    </list>
+      </entry>
+<entry valign="top" align="left">Ferrous sulfate 100–200 mg/day for adults dosed on severity of anemia<newline/>
 Orally or intravenously<newline/>
 Dose dependent on age and hemoglobin level</entry>
 <entry valign="top" align="left">Take one hour before or two hours after meals<newline/>
@@ -245,7 +257,7 @@ Strict vegans<newline/>
 Pancreatic insufficiency<newline/>
 Alcoholism</entry>
 <entry valign="top" align="left">Vitamin B<sub>12</sub> intramuscularly or<newline/>
-High dose Vitamin B<sub>12</sub> orally daily<newline/>
+high dose Vitamin B<sub>12</sub> orally daily<newline/>
 Diet modification</entry>
 <entry valign="top" align="left">Clients with malabsorption syndrome or gastric resection require parenteral administration<newline/>
 Protect vials from light<newline/>
@@ -270,7 +282,7 @@ Liver disease<newline/>
 Cystic fibrosis<newline/>
 Celiac disease<newline/>
 Inflammatory bowel disease</entry>
-<entry valign="top" align="left">Phytonadione 2.5–5 mg/day intramuscularly, subcutaneously, orally<newline/>
+<entry valign="top" align="left">Phytonadione may be given intramuscularly, subcutaneously, or orally ; dose is dependent on condition and age<newline/>
 Intravenously in life-threatening bleeding</entry>
 <entry valign="top" align="left">Lab analysis impacted by drugs: warfarin, antacids, antibiotics, aspirin<newline/>
 Food source: cheese, green vegetables, meat, eggs</entry>
@@ -286,11 +298,19 @@ Eating disorder<newline/>
 GI tract disorder<newline/>
 Type 1 diabetes<newline/>
 Iron overload</entry>
-<entry valign="top" align="left">Ascorbic acid 100–500 mg daily for minimum 14 days<newline/>
-Diet modifications</entry>
-<entry valign="top" align="left">May decrease response to warfarin and antibiotics<newline/>
-May interfere with blood and urine glucose test<newline/>
-Food source: citrus fruits, tomatoes, strawberries, cantaloupe, peppers</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00009">
+  <item>Ascorbic acid 100–300 mg daily for children and 500–1,000 mg daily for adults</item>
+  <item>Diet modifications</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00010">
+    <item>May decrease response to warfarin and antibiotics</item>
+    <item>May interfere with blood and urine glucose test</item>
+    <item>Food source: citrus fruits, tomatoes, strawberries, cantaloupe, peppers</item>
+  </list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00066">Vitamin D</term></entry>
@@ -332,6 +352,7 @@ Food source: fatty fish liver, fortified milk</entry>
 </list>
 <note class="unfolding-casestudy" id="note-00002">
 <title>Part A</title>
+<para id="para-00020">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
 <para id="para-00015">Grant continues with his assessment of Ms. Foster. She reports difficulty sleeping for the past several months and poor concentration. Over the past three days, she has been short of breath with little exertion and lightheaded. As Grant discusses her diet history and food preferences, Ms. Foster reports that she constantly craves ice; otherwise, her diet consists of bread, chicken, and canned vegetables. While Grant continues to perform his assessment, her primary care physician (PCP) calls to report Ms. Foster’s hemoglobin as 6.2 gm/dL from the morning labs and requests additional diagnostic evaluation to determine the etiology of her severe anemia. Grant recognizes that older adults are at risk for nutritional anemias and suspects this for Ms. Foster. He understands the importance of a thorough history and assessment to avoid potentially life-threatening complications of anemia. Grant has completed his assessment of Ms. Foster and has obtained the following blood samples as ordered by her PCP:</para>
 <list list-type="bulleted" id="list-00005">
 <item>CBC</item>

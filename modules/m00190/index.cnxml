@@ -5,9 +5,54 @@
     <md:content-id>m00190</md:content-id>
     <md:uuid>97f61aeb-ea60-415a-a012-3fb6d485ef1b</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify health patterns across populations by comparing data at the local, regional, tribal, and national levels to benchmarks.</item>
+<item>Analyze behavioral, environmental, and other factors influencing health.</item>
+<item>Synthesize assessment findings to prioritize education/health promotion/disease prevention needs, resources, and capacity.</item>
+</list>
+<para id="para-00002">The second stage of the nursing process for individual clients, diagnosis, is similar to community diagnosis. Members of the CHA team organize, explore, and synthesize data gathered in the assessment phase. They compare CHA data to previous health assessments and to data from adjacent counties and communities as well as state and national data to determine if benchmarks have been met or if efforts have fallen short. The CHA team reviews the data for specific community health problems and other factors influencing health, areas where the community is doing well, and identified resources. The steps of data analysis of community health data are as follows:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00002">
+<item>Gather collected data into one place.</item>
+<item>Assess collected data for completeness.</item>
+<item>Identify and generate missing data.</item>
+<item>Synthesize data and identify themes.</item>
+<item>Identify community needs and problems.</item>
+<item>Identify community strengths and resources.</item>
+</list>
+<para id="para-00003">Steps 1–3 involve organization and analysis of data to identify health patterns and factors that influence health. The team compares local data to benchmarks at local, regional, tribal, and national levels. Steps 4–6 synthesize the assessment findings to prioritize education, health promotion, and disease prevention needs, resources, and capacity.</para>
+</section>
+<section id="sect-00002">
+<title>Analyze Data to Identify Health Patterns and Factors That Influence Health</title>
+<para id="para-00004">First, the CHA team completes a statistical analysis of survey data and other quantitative information. Most often, the data are presented in frequencies, percentages, and/or central tendencies. Primary and secondary data are organized by topic or health pattern to assess completeness and determine if data are missing. If data appear to be missing, the team collects additional information. For example, if input from an <term class="no-emphasis" id="term-00001">at-risk population</term> is missing, the team may hold a focus group to gather the missing data.</para>
+<para id="para-00005">Morbidity and mortality data collected in the current assessment are presented along with previous assessment, state, and U.S. data, usually in table format. The team may also include other local municipality or county data. If data are available, the specific population at risk is noted. Specific populations at risk may be designated according to age, income level, gender, race/ethnicity, and/or geographical location. These data are used to benchmark state and federal data and evidence-based health standards. CHA teams may use the State Health Assessment/State Health Improvement Plan (refer to [link]Table 17.5[/link]) to benchmark against the state. Healthy People 2030 also contains evidence-based federal standards that can be used for benchmarking.</para>
+<para id="para-00006">Next, the team reports on factors influencing health in written or table format. Factors include health care access, health behaviors, and environmental and social conditions such as economic stability, education, neighborhood and built environment, and social and community context. The report may also include data from other localities, the state, and the United States for benchmarking purposes. Including <link url="https://openstax.org/r/county">the County Health Rankings Model</link> described in <link document="m00140">Social Determinants Affecting Health Outcomes</link> ensures SDOH and other factors that influence health outcomes are part of the CHA and analysis.</para>
+<para id="para-00007">By this point, the CHA team should have a comprehensive picture of the occurrence and distribution of health patterns and health factors and be able to answer the following questions:</para>
+<list list-type="bulleted" id="list-00003">
+<item>What is the health concern (or health factor), and to what extent is it occurring?</item>
+<item>Who is impacted by the health concern (or health factor)? Is one aggregate affected more than others?</item>
+<item>Where is the health concern (or health factor) most prevalent?</item>
+<item>When, if applicable, is the health concern (or health factor) occurring?</item>
+</list>
+</section>
+<section id="sect-00003">
+<title>Synthesize Assessment Findings to Prioritize Needs</title>
+<para id="para-00008"><term class="no-emphasis" id="term-00002">Synthesis</term> aims to critically analyze each health concern to identify why and how the problem is occurring. This step moves past identifying and organizing the data and links factors influencing health to each health concern. The MAPP framework discussed previously offers tools to assist synthesis (NACCHO, 2023). The MAPP strategic issues identification worksheet guides the time to identify an issue and provides a rationale on why it is an issue and the consequences of not addressing it. The strategic issues relationship diagram illustrates how information from different assessments relates to the identified issue.</para>
+<para id="para-00009">Common health needs and themes emerge, and the team creates a problem list of no more than 12 issues based on a synthesis of primary and secondary community assessment data (NACCHO, 2023). This can be managed by merging similar topics into one theme. Each problem should include the aggregate most impacted, community needs or gaps, available community resources, and capacity for change. The problem list is prioritized as part of the next phase of the community nursing process.</para>
+</section>
+<section class="chapter-summary" id="sect-00004">
+<title>Assessment of Individual and Community Needs for Health Education</title>
+<para id="para-00010">Most community health programs use education as a strategy for health promotion and disease prevention. Health literacy and other factors that influence learning and knowledge acquisition should be assessed at the community level within the CHA and at the individual and aggregate levels when planning for interventions. Tools are available to assist in assessment of personal and organizational health literacy. Learning theories and health promotion models guide assessment and planning for education and learning. Factors that infludence or hinder learning acquisition should also be considered during assessment of health education needs and when planning for education.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>aggregate</term> <meaning>a specific subgroup of a community or population</meaning></definition>
+<definition id="def-00002"><term>education</term> <meaning>the establishment and arrangement of events to facilitate learning and skill development</meaning></definition>
+<definition id="def-00003"><term>learning</term> <meaning>the process of gaining knowledge and skills that lead to behavioral changes</meaning></definition>
+<definition id="def-00004"><term>organizational health literacy</term> <meaning>the degree to which organizations equitably enable individuals to find, understand, and use information and services to inform health-related decisions and actions for themselves and others</meaning></definition>
+<definition id="def-00005"><term>personal health literacy</term> <meaning>the degree to which individuals have the ability to find, understand, and use information and services to inform health-related decisions and actions for themselves and others</meaning></definition>
+</glossary>
 </document>

@@ -5,9 +5,146 @@
     <md:content-id>m00189</md:content-id>
     <md:uuid>e8771270-f096-4812-9362-3a14b4f787c4</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Define health literacy.</item>
+<item>Assess the health literacy of a population to guide health promotion and disease prevention activities.</item>
+<item>Examine one or more health literacy assessment tools.</item>
+<item>Examine how people learn and the factors that influence learning and knowledge acquisition.</item>
+</list>
+<para id="para-00002">Nurses working in the community regularly use health education to help clients promote, maintain, and restore health. Effective educators assess the individual or community for learning needs and health literacy, understand how people learn, utilize one or more learning theory models, promote factors that influence learning, and attempt to decrease factors that hinder learning and knowledge acquisition. Assessment of individual and community needs for health education may occur during the CHA process, but a more in-depth assessment is often needed. Identifying community health education needs, including personal and organizational health literacy, is a necessary part of assessment. <term class="no-emphasis" id="term-00001">Limited health literacy</term> is associated with greater emergency care use, increased hospitalizations, reduced preventative screening, lower vaccination rates, poorer ability to interpret health-related messages and labels, and poorer ability to take medications appropriately (Berkman et al., 2011).</para>
+</section>
+<section id="sect-00002">
+<title>Health Literacy</title>
+<para id="para-00003">Only 12 percent of U.S. adults have the health literacy skills to manage the complex U.S. health care system (Agency for Healthcare Research and Quality, 2020). This leads to mismanagement of client conditions, increased risk for disease and disability, reduced health promotion and disease prevention behaviors, and negative client outcomes. One overarching goal of <term class="no-emphasis" id="term-00002">Healthy People 2030</term> is to “eliminate health disparities, achieve health equity, and attain health literacy to improve the health and well-being of all” (Office of Disease Prevention and Health Promotion, 2021, para 1). Healthy People 2023 defines two types of health literacy, personal and organizational. <term id="term-00003">Personal health literacy</term> is the degree to which individuals have the ability to find, understand, and use information and services to inform health-related decisions and actions for themselves and others. <term id="term-00004">Organizational health literacy</term> is the degree to which organizations equitably enable individuals to find, understand, and use information and services to inform health-related decisions and actions for themselves and others.</para>
+<para id="para-00004">These definitions emphasize an individual’s ability to understand and use health information to make well-informed decisions. Health literacy also involves acting on the understanding of health information in all situations, such as making decisions regarding voting on health-related policy, choosing a health care provider, or even choosing where to live (Santana et al., 2021). The organizational definition acknowledges that organizations are responsible for addressing health literacy and ensuring equity of health literacy.</para>
+<note class="culture-conversations" id="note-00001">
+<title>Five Things to Know About Health Literacy</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/5healthliteracy"/>
+</media>
+<para id="para-00005">Health care is a culture with its own language and systems that are unfamiliar to many clients. This includes clients who speak English, those with limited English proficiency, and those who have difficulty reading and using numbers. Health information and health care services may be challenging to find, understand, and use, yet health literacy is key in understanding and applying health information. This video describes populations at greatest risk for health literacy challenges and strategies nurses, other health care professionals, and organizations can use to improve health literacy. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00002">
+<item>What populations are at greatest risk for literacy challenges?</item>
+<item>What can organizations and health professionals do to improve health literacy?</item>
+<item>What are strategies nurses may use to check that clients understand information?</item>
+</list>
+</note>
+</section>
+
+<section id="sect-00003">
+<title>Population Health Literacy Assessment to Guide Health Promotion and Disease Prevention Activities</title>
+<para id="para-00006">Including health literacy assessment as a component of the CHA helps the nurse understand the health education needs of individuals and communities. The health literacy level of individuals, <term id="term-00005">aggregates</term>, and community guides health promotion and disease prevention activities. An aggregate is a specific subgroup of a community or population. Individual, aggregate, and community health literacy skill levels impact health-related decisions and behaviors. Three levels of health literacy include functional, interactive, and critical ([link]Table 17.7[/link]) (Nutbeam &amp; Muscat, 2020). Understanding health literacy levels guides the nurse in choosing appropriate health promotion and disease prevention activities that align with the client’s current health literacy level and enhance health literacy by utilizing activities associated with the next level. Health literacy assessment should be ongoing to evaluate the effectiveness of health promotion and disease promotion activities.</para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Health Literacy Level</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Skills Present</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Activities to Enhance Health Literacy</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Examples of Activities</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Functional health literacy</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00003"><item>Basic skills</item>
+<item>Able to obtain relevant information and apply it to prescribed activities</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00004"><item>Direct education and communication with defined goals and in specific contexts</item>
+<item>Make information available</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Teach clients how to read a new prescription label</item>
+<item>Provide a link to a website that contains evidence-based information about a new diagnosis</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Interactive health literacy</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>More advanced skills</item>
+<item>Able to extract health information and derive meaning from different forms of communication</item>
+<item>Can apply information in varying circumstances</item>
+<item>Interacts with others to assist in decision-making</item>
+<item>Able to discriminate between different sources of information</item>
+<item>Able to use interactive websites and mobile apps</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Education and communication to develop personal skills</item>
+<item>Empowerment to act independently</item>
+<item>Make information available</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Suggest a mobile app to monitor blood glucose trends and dietary patterns</item>
+<item>Discuss the credibility of sources the client has used to gather information regarding treatments for cancer diagnosis</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Critical health literacy</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Most advanced skills</item>
+<item>Able to critically assess information from a wide range of sources relating to a greater range of the determinants of health</item>
+<item>Integrates personal health risks as well as social, economic, and environmental determinants of health</item>
+<item>Uses information for greater control over life events and situations</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>Education to develop transferable skills that allow interactive and critical thinking</item>
+<item>Communication that provides support</item>
+<item>Make information available</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00011"><item>Provide education regarding the SDOH</item>
+<item>Provide resources on how to decrease environmental risks in the home (lead, radon, etc.)</item></list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Health Literacy Levels Guide Health Promotion and Disease Prevention Activities</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Health Literacy Assessment Tools</title>
+<para id="para-00007">Including health literacy assessment as a component of the CHA helps the nurse understand the health education needs of individuals and communities. CHA teams can include health literacy assessment questions in CHA surveys, interviews with key community partners, and focus groups. Individual assessment of health literacy of targeted, high-risk populations can occur using a personal health literacy assessment tool. Organization health literacy assessment tools are available to assess community health systems. Including the results of this information in the final CHA report will highlight a community’s educational health literacy needs and changes needed within community health systems to enhance the health literacy of consumers. Health literacy assessment tools are available to assess health literacy skills at the personal and organizational levels.</para>
+<section id="sect-00005">
+<title>Personal Health Literacy Assessment Tools</title>
+<para id="para-00008"><term class="no-emphasis" id="term-00009">Personal health literacy</term> assessment tools measure an individual’s ability to find, understand, and use health-related information and services and help the nurse determine a client’s health literacy level. The client’s health literacy level will guide interventions, including educational tools the nurse uses to provide health information and to improve health literacy.</para>
+<para id="para-00009">Multiple tools are available that measure different aspects of health literacy. For example, <link url="https://openstax.org/r/healthliteracy">The Health Literacy Tool Shed</link> (Boston University, 2023) is an online database that contains information about health literacy assessment tools. Over 200 free and paid tools are available to measure terminology comprehension, application, information seeking and eHealth, and media comprehension of medicine, dentistry, genetic, and general health literacy. Tools are available for adults and youth in a variety of languages and for specific diagnoses such as cancer, diabetes, high blood pressure, HIV, infectious disease, intellectual disability, kidney transplant, mental health, oral health, and vascular surgery.</para>
+</section>
+<section id="sect-00006">
+<title>Organizational Health Literacy Assessment Tools</title>
+<para id="para-00010"><term class="no-emphasis" id="term-00010">Organizational health literacy</term> assessment guides health promotion and disease prevention activities at the organizational and systems level. Organizational health literacy assessment tools identify areas of strength and areas for improvement. These findings guide the organization in health literacy improvement efforts at the systems level. Assessment findings should be reported to the organization’s committee that deals with health literacy and key organization administrators. For example, <link url="https://openstax.org/r/hsphharvardedu">the Health Literacy Environment of Hospitals and Health Centers (HLE2) tool</link> measures organizational policies, institutional practices (resources, staff orientation and development, and expectations), navigation within the organization (signage and staff assistance), culture and language (respect for diversity, language serves, and staff training), and communication (print materials, forms, websites, and patient portals). The HLE2 suggests focusing on percentage scores for each section of the assessment tool as a way to identify strengths and weaknesses, select priority areas, and generate ideas for action (Rudd et al., 2019).</para>
+<para id="para-00011">The Agency for Healthcare Research and Quality (2020) created <link url="https://openstax.org/r/ahrq">the AHRQ Health Literacy Universal Precautions Toolkit</link> to assist organizations in taking steps to simplify communication and confirm client comprehension, improve navigation of the environment and health care system, and support efforts to improve health. The CDC (2019b) <link url="https://openstax.org/r/cdc">provides additional resources</link> to assess organizational health literacy and tools to train staff, develop client materials, meet the needs of consumers with a range of health literacy skills, improve access to health information and services, and communicate clearly during crises.</para>
+</section>
+</section>
+<section id="sect-00007">
+<title>Learning Process for Knowledge Acquisition</title>
+<para id="para-00012">Disease prevention and health promotion begin with education of the individual and communities. <term id="term-00011">Education</term> is the establishment and arrangement of events to facilitate learning and skill development. <term id="term-00012">Learning</term> is the process of gaining knowledge and skills that lead to behavioral changes. Effective <term class="no-emphasis" id="term-00013">evidence-based</term> community education programs are needed to increase health literacy, decrease health disparities, promote disease prevention, and promote health. Learning theories, health promotion models, and educational principles explain behavior and assist nurses in guiding community health strategies and choosing which intervention will be more likely to increase learning. Nurses should consider the identified health problem, population, and context of the planned program when choosing a learning theory or model. Often disease prevention and health promotion programs utilize one or more theories or models.</para>
+<section id="sect-00008">
+<title>Selected Learning Theories</title>
+<para id="para-00013">To provide effective health education to individuals and communities, nurses must understand the three domains of learning—cognitive, affective, and psychomotor. The <term class="no-emphasis" id="term-00014">cognitive domain</term> is related to knowledge and includes thinking, memory, recognition, understanding, and application, moving from simple to complex. An example is the learner stating three signs of diabetes. The <term class="no-emphasis" id="term-00015">affective domain</term> is related to perceptions and feelings, including changes in attitudes and development values. An example is a client with diabetes stating they feel as if they can manage their symptoms. The <term class="no-emphasis" id="term-00016">psychomotor domain</term> is the performance of skills that require neuromuscular coordination. Learning in this domain depends on ability, a sensory image of how to carry out the skill, and practice. An example is self-administration of insulin.</para>
+<para id="para-00014">Learning theories frequently used in community health education programs include <term class="no-emphasis" id="term-00017">behaviorism</term>, <term class="no-emphasis" id="term-00018">social cognitive learning theory</term>, <term class="no-emphasis" id="term-00019">constructivism</term>, and <term class="no-emphasis" id="term-00020">adult learning theory</term>. <link document="m00196">Planning Community Health Education</link> discusses learning theories in more detail.</para>
+</section>
+<section id="sect-00009">
+<title>Factors That Influence Learning and Knowledge Acquisition</title>
+<para id="para-00015">Nurses must consider factors that influence learning and knowledge acquisition when planning disease prevention and health promotion community educational programs. Age, culture, language, reading and comprehension skills, technology, and learner characteristics and experiences influence learning and knowledge acquisition, as do educator characteristics, experiences, and preparation. Learner characteristics include health literacy, self-efficacy, and motivation. Educator characteristics and preparation are public speaking, teaching or classroom/group management, choice of learning theory and teaching strategy, and planning.</para>
+<para id="para-00016">Educator preparation and planning significantly impact the factors that influence learning and knowledge acquisition. Following the steps in the development of community education programs and choosing effective, evidence-based theories and strategies decrease both learner-related and educator-related barriers to learning ([link]Box 17.1[/link]). The educational method chosen should be the one that meets the learning needs of the population and makes the most impact.</para>
+
+
+<para id="para-00017"><emphasis effect="bold">Box 17.1</emphasis> Steps in Developing a Community-Based Education Program</para>
+<list list-type="enumerated" number-style="arabic" id="list-00012">
+<item>Identify population learning need.</item>
+<item>Establish goals and objectives.</item>
+<item>Select appropriate educational methods.</item></list>
+<list list-type="enumerated" number-style="lower-alpha" id="list-00013">
+<item>Select learning theories to use.</item>
+<item>Consider educational principles that are most appropriate.</item>
+<item>Examine educational issues/barriers.</item></list>
+<list list-type="enumerated" number-style="arabic" id="list-00014">
+<item>Design and implement the educational program.</item>
+<item>Evaluate the educational process and effects of the program.</item></list>
+<para id="para-00018">Identifying a population’s learning needs occurs with community health assessment; these needs are then prioritized in the analysis phase. Assessment also identifies a population’s age, culture and language, educational level, and potential barriers to learning. Individual learner assessment can be used to clarify those learning needs and identify learner characteristics, including learning style, health literacy, and readiness to learn.</para>
+<para id="para-00019">Educational methods should align with the age and developmental level of the target population. <term class="no-emphasis" id="term-00021">Pedagogy</term>, where the teacher holds full responsibility for the teaching-learning process, is appropriate for children. Additionally, younger children require concrete examples, interactive activities, and repetition for knowledge acquisition. In contrast, adults learn best using andragogy, where learners share the responsibility of developing learning goals. This corresponds with the principles of <term class="no-emphasis" id="term-00022">adult learning theory</term>.</para>
+<para id="para-00020">When choosing educational methods, nurses should consider the target population's cultural beliefs, language barriers, educational level, health literacy, and motivation. Content and materials should align with cultural beliefs. Multilingual materials (presentation and written) may be needed. Additionally, because more than half the U.S. population ages 16–74 reads below a sixth-grade reading level (Schmidt, 2022), written educational materials should use plain language and be no higher than a fourth- to sixth-grade reading level (CDC, 2022). Content and materials should also align with health literacy levels. Refer to [link]Table 17.7[/link] for examples of teaching strategies for functional, interactive, or critical health literacy levels. Finally, aligning a learner’s motivation with the chosen teaching strategy facilitates learning.</para>
+<para id="para-00021">Because individuals process information differently, nurses should consider the target population’s learning styles when choosing educational methods. Visual learners think in pictures or images and learn best through seeing and visualization. Appropriate educational methods for visual learners include taking notes and viewing videos, presentations, and pictures or images. Auditory learners process information and learn best through listening; appropriate educational methods are verbal lecture, discussion, music, podcasts, and reading aloud. Tactile-kinesthetic learners process information and learn best through doing and exploration. Appropriate educational methods are learning by trial and error, hands-on or interactive activities, and return demonstration.</para>
+<para id="para-00022">Theory should be a foundation for community program planning and development and is consistent with the current emphasis on using evidence-based interventions in public health (Lhachimi et al., 2016) The chosen theory’s assumptions about a behavior, health problem, target population, or environment should be a good fit, logical, consistent with observations, similar to those used in previous successful programs, and supported by research (National Cancer Institute, 2005).</para>
+<para id="para-00023">Finally, the educator considers the learning environment. To stimulate learning and reduce barriers, nurses should create a comfortable, distraction-free environment that encourages interaction. The educator needs experience managing a learning environment and the skills to minimize distractions, present content to enhance learner comprehension, evaluate teaching methods throughout the learning process, modify plans as needed to meet learner needs, and manage technology.</para>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00010">
+<title>Analyzing Population Health Data and Identifying Patterns</title>
+<para id="para-00024">Analysis of community health assessment data is the second step of the community nursing process using a team approach to organize and synthesize collected data. The team compares local data to previous assessments and other local community, state, and national data. The team organizes the data to to describe the problem, whom it effects, where it occurs, and when it occurs. The team creates a list of no more than 12 community health problems to consider for intervention. Further analysis of the identifed health problems includes answering why and how the problem is occuring. The team gathers information to help answer those questions and prioritize the problems. Information includes community strengths and resources, at-risk populations, health disparities and inequities, and the consequences of not intervening.</para>
+</section>
+</content>
 </document>
