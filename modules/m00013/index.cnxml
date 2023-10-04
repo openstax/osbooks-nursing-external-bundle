@@ -221,7 +221,7 @@
   </thead>
   <tbody>
   <row>
-  <entry valign="top" align="left" morerows="1"><emphasis effect="bold">Water-Soluble</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Water-Soluble</span></entry>
  </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00036">Thiamin</term> (B<sub>1</sub>)</entry>
@@ -289,7 +289,7 @@
   <item>End-stage renal disease on chronic hemodialysis (increase)</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="left" morerows="1"><emphasis effect="bold">Fat-Soluble</emphasis></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text">Fat-Soluble</span></entry>
   </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00047">Vitamin A</term></entry>
