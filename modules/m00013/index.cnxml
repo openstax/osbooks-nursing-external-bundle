@@ -33,7 +33,7 @@
   <title>Vitamins A, D, E, and K</title>
   <para id="para-00005">Fat-soluble vitamins include vitamins A, D, E, and K. Fat-soluble vitamins play essential roles in many physiological processes, such as vision, bone health, immune function, and blood clotting (Reddy &amp; Jialal, 2022). Fat-soluble vitamins, like dietary fat, are absorbed through the lymphatic system and then released into the blood, carried by transport proteins. Because these vitamins are stored, daily intake is not required. Excess intake of fat-soluble vitamins, as found with some supplements, can cause <term id="term-00004">toxicity</term>—side effects from taking large doses of supplements or medications.</para>
   <para id="para-00006">Absorption of fat-soluble vitamins occurs in the small intestine where they are mixed with bile salts, fatty acids, and phospholipids; absorbed by chylomicrons (microproteins); and, carried to the lymphatic system. Since all vitamins require carrier proteins for transportation across the lipid bi-layer, <term class="no-emphasis" id="term-00005">absorption</term> can be affected adversely by a genetic abnormality in the transport molecules (Ofoedu et al., 2021).</para>
-  <para id="para-00007">Vitamin A is active in the genetic development of retinol pigments and contributes to healthy bones, teeth, and soft tissue. Vitamin A also plays a role in reproduction, facilitating semen production and cell differentiation in fetal development. Vitamin A is critical in immune function, helping to grow the cells that produce the mucus that lines the gastrointestinal tracts, sinuses, and genitourinary tract. This mucus traps and protects the human body from the myriad bacteria it encounters daily. <term class="no-emphasis" id="term-00006">Beta-carotene</term>—a precursor to <term class="no-emphasis" id="term-00007">vitamin A</term>—is an <term id="term-00008">antioxidant</term> that protects against certain cancers and aging by stabilizing <term id="term-00009">free radicals</term>; a free radical is an unstable molecule made during normal cell metabolism that has one unpaired electron (<link target-id="fig-00001" document="m00013"/>.</para>
+  <para id="para-00007">Vitamin A is active in the genetic development of retinol pigments and contributes to healthy bones, teeth, and soft tissue. Vitamin A also plays a role in reproduction, facilitating semen production and cell differentiation in fetal development. Vitamin A is critical in immune function, helping to grow the cells that produce the mucus that lines the gastrointestinal tracts, sinuses, and genitourinary tract. This mucus traps and protects the human body from the myriad bacteria it encounters daily. <term class="no-emphasis" id="term-00006">Beta-carotene</term>—a precursor to <term class="no-emphasis" id="term-00007">vitamin A</term>—is an <term id="term-00008">antioxidant</term> that protects against certain cancers and aging by stabilizing <term id="term-00009">free radicals</term>; a free radical is an unstable molecule made during normal cell metabolism that has one unpaired electron (<link target-id="fig-00001" document="m00013"/>).</para>
   <figure id="fig-00001"><media alt="Illustration of a free radical next to an antioxidant. In both, two circles of electrons are arranged around a nucleus. An electron from the antioxidant is donated to an unpaired electron in the free radical."><image mime-type="image/jpg" src="../../media/NUT_Figure_03_00_002.png"/></media>
   <caption>An antioxidant stabilizes a free radical by donating an electron to the unpaired electron of the free radical. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00008">Vitamin D is a fat-soluble vitamin that closely resembles a hormone’s functions. This vitamin can trigger effects in tissue throughout the body, turning on and off the production of proteins. Vitamin D, like vitamin A, plays a role in immunity by promoting the secretion of infection-fighting substances found in white blood cells (Dimitrov et al., 2021).</para>
@@ -220,7 +220,7 @@
   </row>
   </thead>
   <tbody>
-  <row class="header-row">
+  <row>
   <entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold">Water-Soluble</emphasis></entry>
   </row>
   <row>
@@ -288,7 +288,7 @@
   <item>Infants fed evaporated or boiled milk (increase)</item>
   <item>End-stage renal disease on chronic hemodialysis (increase)</item></list></entry>
   </row>
-  <row class="header-row">
+  <row>
   <entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold">Fat-Soluble</emphasis></entry>
   </row>
   <row>
