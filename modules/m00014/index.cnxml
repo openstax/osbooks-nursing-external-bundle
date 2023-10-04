@@ -6,8 +6,136 @@
     <md:uuid>c7dc675b-0c19-43b3-8306-551ee91c1969</md:uuid>
   </metadata>
  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the nutritional function of minerals.</item>
+<item>Identify the impact of minerals on wellness promotion and illness prevention.</item>
+<item>Examine special considerations for populations that face challenges securing adequate mineral intake.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Mineral Function</title>
+<para id="para-00002">Minerals are common in cereals, bread, meat, fish, milk, dairy, nuts, fruit (especially in dried form), and vegetables. About 20 <term class="no-emphasis" id="term-00001">minerals</term> are essential for body function, all in varying amounts depending on their role. The <term class="no-emphasis" id="term-00002">macrominerals</term> are needed at levels higher than 100 mg/day, and <term class="no-emphasis" id="term-00003">trace minerals</term> are needed in amounts less than 100 mg/day (Farag et al., 2023). <link target-id="table-00001" document="m00014"/> lists the macro (M) and trace (T) minerals and their functions.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Mineral</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Function</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Calcium</term> (M)</entry>
+<entry valign="top" align="left">Contributes to the structure of bones and teeth and controls blood vessel contraction and dilation, muscle function, blood clotting, nerve transmission, and hormone secretion</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Phosphorus</term> (M)</entry>
+<entry valign="top" align="left">Contributes to the structure of bones and teeth and to the genetic material of DNA and RNA</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Potassium</term> (M)</entry>
+<entry valign="top" align="left">Maintains intracellular fluid volume and is important for muscle contraction, specifically heart contractions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Sodium</term> (M)</entry>
+<entry valign="top" align="left">Maintains extracellular fluid volume and plays a crucial role in normal nerve and muscle function</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Chloride</term> (M)</entry>
+<entry valign="top" align="left">Plays a role in acid–base homeostasis, contributes to maintenance of urine and plasma electroneutrality, and may even effect neurohormonal activation (Soliman et al., 2022)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Magnesium</term> (M)</entry>
+<entry valign="top" align="left">Responsible for activation of enzymes, membrane function, intracellular signaling, and muscle contraction</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Sulfur</term> (M)</entry>
+<entry valign="top" align="left">Operates as a cofactor involved in regulating oxidative processes and is an endogenous metabolite of the amino acid, methionine</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Iron</term> (T)</entry>
+<entry valign="top" align="left">Helps develop red blood cells, metabolize cellular energy metabolism, and develop the immune system</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Zinc</term> (T)</entry>
+<entry valign="top" align="left">Performs the role of antioxidant by protecting cell membranes from free radical damage as a coenzyme of more than 300 enzymes</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00013">Iodine</term> (T)</entry>
+<entry valign="top" align="left">Serves as a necessary component of thyroid hormones</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Chromium</term> (T)</entry>
+<entry valign="top" align="left">May facilitate the metabolism of carbohydrates, lipids, and proteins by increasing the effectiveness of insulin—the precise mechanism for this activity has yet to be identified</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Copper</term> (T)</entry>
+<entry valign="top" align="left">Operates as a cofactor in the process of cellular oxidation and is required for the oxidation of iron</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Fluoride</term> (T)</entry>
+<entry valign="top" align="left">Promotes remineralization of bones and teeth</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00017">Molybdenum</term> (T)</entry>
+<entry valign="top" align="left">Aids in the metabolism of sulfur-containing amino acids and is an enzyme cofactor</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00018">Manganese</term> (T)</entry>
+<entry valign="top" align="left">Serves as a cofactor for enzyme productions related to protein, fat, and carbohydrate metabolism; functions as antioxidant</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00019">Selenium</term> (T)</entry>
+<entry valign="top" align="left">Removes excess hydrogen peroxide from thyroid and is also needed for DNA synthesis</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Essential Minerals and Their Functions</caption>
+</table>
+<para id="para-00003">Minerals work synergistically. For example, the <term class="no-emphasis" id="term-00020">sodium-to-potassium ratio</term> is essential in maintaining normal blood pressure and impacts <term class="no-emphasis" id="term-00021">blood pressure</term> more than sodium or potassium alone. Likewise, the proper relationship between calcium and phosphorus is vital in maintaining normal bone structure. As with vitamins, one mineral cannot assume the function of another mineral, and a shortage or deficiency of any mineral will impact body function.</para>
+<para id="para-00004">Mineral <term class="no-emphasis" id="term-00022">absorption</term> takes place primarily in the small intestine. For some minerals, absorption efficiency depends on specific needs such as calcium absorption in pregnancy. During pregnancy, calcium absorption takes place actively, which requires energy to transport across the cell membrane. In times of plentiful serum calcium, the body switches to a passive diffusion method of absorption.</para>
+<para id="para-00005">Mineral absorption can be helped or hindered by other dietary components that occur naturally in food. For example, iron is best absorbed in an acid environment, so health professionals recommend taking an <term class="no-emphasis" id="term-00023">iron supplement</term> with orange juice. Juxtaposed is the absorption of minerals in the presence of phytates (found in whole grains) that interfere with calcium, iron, magnesium, and zinc absorption.</para>
+<note class="media-feature" id="note-00001">
+<title>National Institutes of Health</title>
+<para id="para-00006">The NIH provides <link url="https://openstax.org/r/odsod">thorough information on their website</link> about dietary supplements, herbs, vitamins, probiotics, and more.</para>
+</note>
+</section>
+<section id="sect-00003">
+<title>Mineral Intake for Wellness</title>
+<para id="para-00007">Minerals play an essential role in various metabolic and physiologic processes. A deeper dive into cellular nutrition reveals that minerals are critical for the <term class="no-emphasis" id="term-00024">metabolism</term> of every cell in the body. A well-balanced mineral intake is essential throughout the human lifecycle, although specific needs may vary based on age and sex (Farag, et al., 2023). For example, the iron needs of premenopausal clients are higher than postmenopausal clients because of the iron loss during menstruation. A diet comprised of vegetables, legumes, nuts, lean meats, and seafood provides all the essential minerals needed throughout a person’s life.</para>
+<para id="para-00008"><term id="term-00025">Food fortification</term> (the practice of intentionally increasing the content of one or more micronutrients) makes meeting the required mineral DV easier. For example, in the mid-1920s, in response to an increase in <term id="term-00026">goiter</term>, iodine was added to table salt (Leung, Braverman, and Pearce, 2012). Goiter is an increase in thyroid size resulting from either iodine deficiency or hyperthyroidism. Vitamin D was first added to milk in 1933 in response to the presence of childhood rickets (IOM, 2003; United Nations, 2019). Today, food fortification continues. Two more current examples are the addition of calcium to orange juice and iron and folate to breakfast cereals. Even though some breakfast cereals are fortified with essential vitamins and minerals, many should not be considered nutritionally sound because they are high in added sugar. Fortification does not guarantee nutritional excellence.</para>
+<note class="media-feature" id="note-00002">
+<title>Mineral Daily Values</title>
+<para id="para-00009">As with vitamins, there are also mineral DV percentages. You can <link url="https://openstax.org/r/factsheets">find vitamin and mineral information</link> on the NIH website, which contains a list of vitamins and minerals with hyperlinks to more detailed information on each (select the mineral of interest and then proceed to the option of health professional).</para>
+</note>
+<note class="trending-today" id="note-00003">
+<title>Micronutrients</title>
+<para id="para-00010">Research indicates an increasing use of micronutrient supplements, specifically single-nutrient supplements (Cowan et al, 2020). Is it better to take a supplement to ensure you have an adequate supply of micronutrients, or is it possible to get the micronutrients your body needs via food sources? </para>
+<para id="para-00011">Social media influencers promote awareness of micronutrient consumption in a person’s diet as a way to assess their individual levels. TicToker @TheWellnessPharm suggests that individuals use a micronutrient testing kit to help determine if they have consistently low levels of specific nutrients. Once identified, individuals can correct deficiencies to promote wellness and enhance disease prevention. Similarly, Instagram hosts several forums dedicated to the discussion of obtaining daily micronutrient requirements from specific foods, often promoting intuitive or mindful eating practice.</para>
+<para id="para-00012">Review the content for at least two of the following:</para>
+<list list-type="bulleted" id="list-00002">
+<item><emphasis effect="bold">@The WellnessPharm—</emphasis><link url="https://openstax.org/r/tiktok">https://www.tiktok.com/@thewellnesspharm/video/7216156887903997227</link></item>
+<item><emphasis effect="bold">Instagram—</emphasis>Any forum dedicated to the discussion of obtaining daily micronutrient requirements from specific foods</item>
+<item><emphasis effect="bold">Nutrition for Resilience – Micronutrient Forum—</emphasis><link url="https://openstax.org/r/mnforum">https://mnforum2023.org/</link></item>
+</list>
+<para id="para-00013">Now answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>Which account did you prefer when viewing or reading?</item>
+<item>What was the purpose of the content you viewed or read?</item>
+<item>Why were the recommendations realistic or unrealistic?</item>
+<item>How does what you reviewed promote nutritional wellness by emphasizing micronutrient awareness?</item>
+</list>
+</note>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>food fortification</term><meaning>the practice of intentionally increasing the content of one or more micronutrients (i.e., vitamins and minerals)</meaning></definition>
+<definition id="def-00002"><term>goiter</term><meaning>an increase in thyroid size resulting from either iodine deficiency or hyperthyroidism</meaning></definition>
+</glossary>
 </document>
