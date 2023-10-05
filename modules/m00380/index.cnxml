@@ -19,11 +19,11 @@
     <colspec colnum="5" colname="c5" colwidth="1*"/>
    <thead>   
   <row>
-<entry valign="top"><span class="blue-text">Abbreviation</span></entry>
-<entry valign="top"><span class="blue-text">Meaning</span></entry>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
 <entry valign="top">&#160;</entry>
-<entry valign="top"><span class="blue-text">Abbreviation</span></entry>
-<entry valign="top"><span class="blue-text">Meaning</span></entry>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
   </row>
    </thead>
    <tbody>  
@@ -136,7 +136,7 @@
     <colspec colnum="8" colname="c8" colwidth="1*"/>
     <tbody> 
   <row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><span class="blue-text">Arterial Blood Gases</span></entry>
+<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Arterial Blood Gases</span></emphasis></entry>
   </row>
 <row>
 <entry valign="top">pH</entry>
@@ -157,7 +157,7 @@
 <entry valign="top">95%–100%</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><span class="blue-text">Serum Blood Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Serum Blood Tests</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top">Albumin</entry>
@@ -305,7 +305,7 @@ PTT</entry>
 <entry valign="top">5,000–10,000/mL</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><span class="blue-text">Miscellaneous Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top">Sputum culture</entry>
@@ -318,7 +318,7 @@ PTT</entry>
 <entry valign="top">Negative</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><span class="blue-text">Urine Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Urine Tests</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top">Bacteria</entry>
