@@ -7,7 +7,120 @@
   </metadata>
   <content class="appendix">
     <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+      <title/>
+      <para id="para-00001">Nurses are required to review and interpret lab values. Table B1 lists common abbreviations, and Table B2 lists common lab values for nurses to learn.</para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+  <tgroup cols="5">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <colspec colnum="5" colname="c5" colwidth="1*"/>
+   <thead>   
+  <row>
+<entry valign="top"><span class="blue-text">Abbreviation</span></entry>
+<entry valign="top"><span class="blue-text">Meaning</span></entry>
+<entry valign="top"><span class="blue-text">Abbreviation</span></entry>
+<entry valign="top" morerows="15"><span class="blue-text"/></entry>
+<entry valign="top"><span class="blue-text">Meaning</span></entry>
+  </row>
+   </thead>
+   <tbody>   
+<row>
+<entry valign="top">cells/mcL or cells/µL</entry>
+<entry valign="top">Cells per microliter</entry>
+<entry valign="top">mg/dL</entry>
+<entry valign="top">Milligrams per deciliter</entry>
+</row>
+<row>
+<entry valign="top">cells/mL</entry>
+<entry valign="top">Cells per milliliter (cubic centimeter)</entry>
+<entry valign="top">microunits/mL</entry>
+<entry valign="top">Microunits per milliliter</entry>
+</row>
+<row>
+<entry valign="top">cm</entry>
+<entry valign="top">Centimeter</entry>
+<entry valign="top">mL</entry>
+<entry valign="top">Milliliter</entry>
+</row>
+<row>
+<entry valign="top">fl oz</entry>
+<entry valign="top">Fluid ounce</entry>
+<entry valign="top">mL/minute</entry>
+<entry valign="top">Milliliters per minute</entry>
+</row>
+<row>
+<entry valign="top">fL</entry>
+<entry valign="top">Femtoliter</entry>
+<entry valign="top">mm</entry>
+<entry valign="top">Millimeter</entry>
+</row>
+<row>
+<entry valign="top">g</entry>
+<entry valign="top">Gram</entry>
+<entry valign="top">mm<sup>3</sup></entry>
+<entry valign="top">Cubic millimeter</entry>
+</row>
+<row>
+<entry valign="top">g/dL</entry>
+<entry valign="top">Grams per deciliter</entry>
+<entry valign="top">mm Hg</entry>
+<entry valign="top">Millimeters of mercury</entry>
+</row>
+<row>
+<entry valign="top">HPF</entry>
+<entry valign="top">High-power field</entry>
+<entry valign="top">mmol/L</entry>
+<entry valign="top">Millimoles per liter</entry>
+</row>
+<row>
+<entry valign="top">IU</entry>
+<entry valign="top">International unit</entry>
+<entry valign="top">ng/mL</entry>
+<entry valign="top">Nanograms per milliliter</entry>
+</row>
+<row>
+<entry valign="top">kg</entry>
+<entry valign="top">Kilogram</entry>
+<entry valign="top">oz</entry>
+<entry valign="top">Ounce</entry>
+</row>
+<row>
+<entry valign="top">L</entry>
+<entry valign="top">Liter</entry>
+<entry valign="top">pg/mL</entry>
+<entry valign="top">Picograms per milliliter</entry>
+</row>
+<row>
+<entry valign="top">lb or #</entry>
+<entry valign="top">Pound</entry>
+<entry valign="top">Tbsp</entry>
+<entry valign="top">Tablespoon</entry>
+</row>
+<row>
+<entry valign="top">mcg/dL or µg/dL</entry>
+<entry valign="top">Micrograms per deciliter</entry>
+<entry valign="top">tsp</entry>
+<entry valign="top">Teaspoon</entry>
+</row>
+<row>
+<entry valign="top">mEq/L</entry>
+<entry valign="top">Milliequivalents per liter</entry>
+<entry valign="top">units/L</entry>
+<entry valign="top">Units per liter</entry>
+</row>
+<row>
+<entry valign="top">mg</entry>
+<entry valign="top">Milligram</entry>
+<entry valign="top"/>
+<entry valign="top"/>
+</row>
+</tbody>
+  </tgroup>
+<caption>Common Abbreviations</caption>
+</table>
     </section>
   </content>
 </document>
