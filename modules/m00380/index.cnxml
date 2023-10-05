@@ -21,7 +21,6 @@
   <row>
 <entry valign="top"><span class="blue-text">Abbreviation</span></entry>
 <entry valign="top"><span class="blue-text">Meaning</span></entry>
-<entry valign="top" morerows="15"></entry>
 <entry valign="top"><span class="blue-text">Abbreviation</span></entry>
 <entry valign="top"><span class="blue-text">Meaning</span></entry>
   </row>
@@ -30,6 +29,7 @@
 <row>
 <entry valign="top">cells/mcL or cells/µL</entry>
 <entry valign="top">Cells per microliter</entry>
+<entry valign="top" morerows="14"></entry>
 <entry valign="top">mg/dL</entry>
 <entry valign="top">Milligrams per deciliter</entry>
 </row>
@@ -133,17 +133,17 @@
     <colspec colnum="6" colname="c6" colwidth="1*"/>
     <colspec colnum="7" colname="c7" colwidth="1*"/>
     <colspec colnum="8" colname="c8" colwidth="1*"/>
-    <tbody>   
+        <tbody> 
   <row>
-<entry valign="top"><span class="blue-text">Arterial Blood Gases</span></entry>
+<entry namest="c1" nameend="c8" valign="top"><span class="blue-text">Arterial Blood Gases</span></entry>
   </row>
 <row>
 <entry valign="top">pH</entry>
 <entry valign="top">7.35–7.45</entry>
-<entry valign="top" morerows="2"/>
+<entry valign="top" morerows="2"></entry>
 <entry valign="top">PaCO<sub>2</sub></entry>
 <entry valign="top">35–45 mm Hg</entry>
-<entry valign="top"/>
+<entry valign="top" morerows="2"></entry>
 <entry valign="top">Base excess/base deficit</entry>
 <entry valign="top">–2 to +2 mEq/L</entry>
 </row>
@@ -152,28 +152,27 @@
 <entry valign="top">75–100 mm Hg</entry>
 <entry valign="top">HCO<sub>3</sub></entry>
 <entry valign="top">22–26 mEq/L</entry>
-<entry valign="top"/>
 <entry valign="top">SaO<sub>2</sub></entry>
 <entry valign="top">95%–100%</entry>
 </row>
 <row>
-<entry valign="top"><span class="blue-text">Serum Blood Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top"><span class="blue-text">Serum Blood Tests</span></entry>
 </row>
 <row>
 <entry valign="top">Albumin</entry>
 <entry valign="top">3.5–5.5 g/dL</entry>
-<entry valign="top" morerows="18"/>
+<entry valign="top" morerows="17"></entry>
 <entry valign="top">Glucose (fasting)</entry>
 <entry valign="top">70–99 mg/dL</entry>
-<entry valign="top" morerows="18"/>
+<entry valign="top" morerows="17"></entry>
 <entry valign="top">MCV</entry>
 <entry valign="top">80–98 fL</entry>
 </row>
 <row>
 <entry valign="top">Alk phos</entry>
 <entry valign="top">30–120 units/L</entry>
-<entry valign="top" morerows="4">Glucose tolerance test</entry>
-<entry valign="top" morerows="4">(Start) 70–100 mg/dL<newline/>
+<entry valign="top" morerows="3">Glucose tolerance test</entry>
+<entry valign="top" morerows="3">(Start) 70–100 mg/dL<newline/>
 (1 hour) &lt;180 mg/dL<newline/>
 (2 hours) &lt;140 mg/dL</entry>
 <entry valign="top">Monocytes</entry>
@@ -209,8 +208,8 @@
 <row>
 <entry valign="top">Bicarb (HCO<sub>3</sub>)</entry>
 <entry valign="top">23–28 mEq/L</entry>
-<entry valign="top" morerows="2">Hematocrit</entry>
-<entry valign="top" morerows="2">(F) 37%–47%<newline/>
+<entry valign="top" morerows="1">Hematocrit</entry>
+<entry valign="top" morerows="1">(F) 37%–47%<newline/>
 (M) 42%–50%</entry>
 <entry valign="top">Protein</entry>
 <entry valign="top">5.5–9.0 g/dL</entry>
@@ -226,11 +225,11 @@ PTT</entry>
 <row>
 <entry valign="top">BNP</entry>
 <entry valign="top">0–100 pg/mL</entry>
-<entry valign="top" morerows="2">Hemoglobin</entry>
-<entry valign="top" morerows="2">(F) 12–16 g/dL<newline/>
+<entry valign="top" morerows="1">Hemoglobin</entry>
+<entry valign="top" morerows="1">(F) 12–16 g/dL<newline/>
 (M) 14–18 g/dL</entry>
-<entry valign="top" morerows="2">RBC</entry>
-<entry valign="top" morerows="2">(F) 4.2–5.4 million/mm<sup>3</sup><newline/>
+<entry valign="top" morerows="1">RBC</entry>
+<entry valign="top" morerows="1">(F) 4.2–5.4 million/mm<sup>3</sup><newline/>
 (M) 4.7–6.1 million/mm<sup>3</sup></entry>
 </row>
 <row>
@@ -305,28 +304,28 @@ PTT</entry>
 <entry valign="top">5,000–10,000/mL</entry>
 </row>
 <row>
-<entry valign="top"><span class="blue-text">Miscellaneous Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top"><span class="blue-text">Miscellaneous Tests</span></entry>
 </row>
 <row>
 <entry valign="top">Sputum culture</entry>
 <entry valign="top">Negative</entry>
-<entry valign="top" morerows="2"/>
-<entry valign="top" morerows="2"/>
+<entry valign="top" morerows="1"></entry>
+<entry valign="top" morerows="1"></entry>
 </row>
 <row>
 <entry valign="top">Fungal (yeast) culture</entry>
 <entry valign="top">Negative</entry>
 </row>
 <row>
-<entry valign="top"><span class="blue-text">Urine Tests</span></entry>
+<entry namest="c1" nameend="c8" valign="top"><span class="blue-text">Urine Tests</span></entry>
 </row>
 <row>
 <entry valign="top">Bacteria</entry>
 <entry valign="top">Negative</entry>
-<entry valign="top" morerows="4"/>
+<entry valign="top" morerows="6"></entry>
 <entry valign="top">Glucose</entry>
 <entry valign="top">Negative</entry>
-<entry valign="top" morerows="4"/>
+<entry valign="top" morerows="6"></entry>
 <entry valign="top">Specific gravity</entry>
 <entry valign="top">1.002</entry>
 </row>
@@ -351,32 +350,33 @@ PTT</entry>
 <entry valign="top">0–5 HPF</entry>
 <entry valign="top">Nitrates</entry>
 <entry valign="top">Negative</entry>
-<entry valign="top"/>
-<entry valign="top"/>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
 </row>
 <row>
-<entry valign="top"/>
-<entry valign="top"/>
-<entry valign="top"/>
-<entry valign="top"/>
-<entry valign="top"/>
-<entry valign="top"/>
-<entry valign="top"/>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
 </row>
 <row>
 <entry valign="top">Clarity</entry>
 <entry valign="top">Clear</entry>
-<entry valign="top" morerows="2"/>
 <entry valign="top">pH</entry>
 <entry valign="top">4.5–8.0</entry>
-<entry valign="top" morerows="2"/>
-<entry valign="top" morerows="2"/>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
 </row>
 <row>
 <entry valign="top">Color</entry>
 <entry valign="top">Yellow–amber</entry>
 <entry valign="top">Protein</entry>
 <entry valign="top">≤150 mg/dL</entry>
+<entry valign="top"></entry>
+<entry valign="top"></entry>
 </row>
     </tbody>
   </tgroup>
