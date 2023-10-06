@@ -232,7 +232,137 @@
             <col:module document="m00317"/>
           </col:content>
         </col:subcollection>
+        <col:subcollection>
+          <md:title>Lipid Lowering Drugs</md:title>
+          <col:content>
+            <col:module document="m00382"/>
+            <col:module document="m00383"/>
+            <col:module document="m00384"/>
+            <col:module document="m00385"/>
+            <col:module document="m00386"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cardiac Emergency and Shock Drugs</md:title>
+          <col:content>
+            <col:module document="m00387"/>
+            <col:module document="m00388"/>
+            <col:module document="m00389"/>
+            <col:module document="m00390"/>
+          </col:content>
+        </col:subcollection>
       </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Respiratory System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Respiratory System</md:title>
+          <col:content>
+            <col:module document="m00391"/>
+            <col:module document="m00392"/>
+            <col:module document="m00393"/>
+            <col:module document="m00394"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Upper Respiratory Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00395"/>
+            <col:module document="m00396"/>
+            <col:module document="m00397"/>
+            <col:module document="m00398"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Lower Respiratory Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00399"/>
+            <col:module document="m00400"/>
+            <col:module document="m00401"/>
+            <col:module document="m00402"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Endocrine System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Adrenal, Pituitary, and Hypothalamus Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00403"/>
+            <col:module document="m00404"/>
+            <col:module document="m00405"/>
+            <col:module document="m00406"/>
+            <col:module document="m00407"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Thyroid and Parathyroid Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00408"/>
+            <col:module document="m00409"/>
+            <col:module document="m00410"/>
+            <col:module document="m00411"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diabetic Drugs</md:title>
+          <col:content>
+            <col:module document="m00412"/>
+            <col:module document="m00413"/>
+            <col:module document="m00414"/>
+            <col:module document="m00415"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Digestive System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Digestive System</md:title>
+          <col:content>
+            <col:module document="m00416"/>
+            <col:module document="m00417"/>
+            <col:module document="m00418"/>
+            <col:module document="m00419"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Gastrointestinal Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00420"/>
+            <col:module document="m00421"/>
+            <col:module document="m00422"/>
+            <col:module document="m00423"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Hyperacidity and Antiulcer Drugs</md:title>
+          <col:content>
+            <col:module document="m00424"/>
+            <col:module document="m00425"/>
+            <col:module document="m00426"/>
+            <col:module document="m00427"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Weight Management Drugs</md:title>
+          <col:content>
+            <col:module document="m00428"/>
+            <col:module document="m00429"/>
+            <col:module document="m00430"/>
+            <col:module document="m00431"/>
+            <col:module document="m00432"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Renal and Urinary Systems</md:title>
+      <col:content/>
     </col:subcollection>
     <col:module document="m00379"/>
     <col:module document="m00380"/>
