@@ -421,6 +421,40 @@
         </col:subcollection>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Sensory and Dermatologic Systems</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Ophthalmic Drugs</md:title>
+          <col:content>
+            <col:module document="m00459"/>
+            <col:module document="m00460"/>
+            <col:module document="m00461"/>
+            <col:module document="m00462"/>
+            <col:module document="m00463"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Otic Drugs</md:title>
+          <col:content>
+            <col:module document="m00464"/>
+            <col:module document="m00465"/>
+            <col:module document="m00466"/>
+            <col:module document="m00467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dermatologic Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00468"/>
+            <col:module document="m00469"/>
+            <col:module document="m00470"/>
+            <col:module document="m00471"/>
+            <col:module document="m00472"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
     <col:module document="m00379"/>
     <col:module document="m00380"/>
     <col:module document="m00381"/>
