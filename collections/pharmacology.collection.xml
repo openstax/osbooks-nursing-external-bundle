@@ -395,6 +395,32 @@
         </col:subcollection>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Reproductive System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Reproductive Health Drugs</md:title>
+          <col:content>
+            <col:module document="m00448"/>
+            <col:module document="m00449"/>
+            <col:module document="m00450"/>
+            <col:module document="m00451"/>
+            <col:module document="m00452"/>
+            <col:module document="m00453"/>
+            <col:module document="m00454"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Transgender and Non-Binary Drugs</md:title>
+          <col:content>
+            <col:module document="m00455"/>
+            <col:module document="m00456"/>
+            <col:module document="m00457"/>
+            <col:module document="m00458"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
     <col:module document="m00379"/>
     <col:module document="m00380"/>
     <col:module document="m00381"/>
