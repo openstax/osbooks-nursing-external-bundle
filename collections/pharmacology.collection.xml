@@ -362,7 +362,38 @@
     </col:subcollection>
     <col:subcollection>
       <md:title>Renal and Urinary Systems</md:title>
-      <col:content/>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Renal and Urinary Systems</md:title>
+          <col:content>
+            <col:module document="m00433"/>
+            <col:module document="m00434"/>
+            <col:module document="m00435"/>
+            <col:module document="m00436"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Diuretic Drugs</md:title>
+          <col:content>
+            <col:module document="m00437"/>
+            <col:module document="m00438"/>
+            <col:module document="m00439"/>
+            <col:module document="m00440"/>
+            <col:module document="m00441"/>
+            <col:module document="m00442"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Urinary and Bladder Disorder Drugs</md:title>
+          <col:content>
+            <col:module document="m00443"/>
+            <col:module document="m00444"/>
+            <col:module document="m00445"/>
+            <col:module document="m00446"/>
+            <col:module document="m00447"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
     </col:subcollection>
     <col:module document="m00379"/>
     <col:module document="m00380"/>
