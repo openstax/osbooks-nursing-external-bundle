@@ -207,7 +207,7 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
 <section id="sect-00004">
 <title>Nutritional Deficiencies Related to Abnormal Assessment Findings in the Gastrointestinal System</title>
 <para id="para-00017">Abnormal findings in an assessment of the gastrointestinal system and other systems can indicate the presence of disease or nutritional deficit. To best plan nutritional strategies for the client, the nurse should know what each abnormal finding, in conjunction with laboratory results and dietary recall, could indicate. Some abnormal findings and nutritional deficiencies and toxicities related to them are shown in <link target-id="table-00004" document="m00076"/>.</para>
-<table id="table-00004" class="merged-vertically alternate-shading">
+<table id="table-00004" class="vertically-tight alternate-shading">
   <title/>
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -227,25 +227,25 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Deficiency of vitamin B<sub>1</sub> (thiamine), vitamin B<sub>12</sub> (cobalamin), and/or iron</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Tongue</entry>
-  <entry valign="top" align="left" morerows="3">Inflammation of the tonguen<newline/>
+  <entry valign="top" align="left" morerows="3">Tongue</entry>
+  <entry valign="top" align="left">Inflammation of the tonguen<newline/>
   Loss of taste<newline/>
   Halitosis<newline/>
   Red, painful tongue that has a burning sensation</entry>
-  <entry valign="top" align="left" morerows="3">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)<newline/>
   Deficiency of zinc<newline/>
   Deficiency of vitamin B<sub>12</sub> (cobalamin)<newline/>
   Deficiency of iron</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Gums/mouth</entry>
-  <entry valign="top" align="left" morerows="5">Ulcerative gingivitis<newline/>
+  <entry valign="top" align="left" morerows="5">Gums/mouth</entry>
+  <entry valign="top" align="left">Ulcerative gingivitis<newline/>
   Hemorrhagic gingivitis, painful mouth ulcers<newline/>
   Bleeding gingivitis<newline/>
   Stomatitis (mouth inflammation)<newline/>
   Salivary gland dysfunction, dysphagia<newline/>
   Recurrent aphthous stomatitis (canker sores)</entry>
-  <entry valign="top" align="left" morerows="5">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)<newline/>
   Deficiency of vitamin B<sub>12</sub> (cobalamin)<newline/>
   Deficiency of vitamin C<newline/>
   Deficiency of vitamin B complex<newline/>
@@ -258,31 +258,31 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Dehydration or iron deficiency</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Teeth</entry>
-  <entry valign="top" align="left" morerows="3">Pits, grooves, or missing areas in enamel of the teeth, giving teeth a translucent appearance<newline/>
+  <entry valign="top" align="left" morerows="3">Teeth</entry>
+  <entry valign="top" align="left">Pits, grooves, or missing areas in enamel of the teeth, giving teeth a translucent appearance<newline/>
   Periodontal disease<newline/>
   Abnormal bone patterns and shapes<newline/>
   Dental caries (cavities)</entry>
-  <entry valign="top" align="left" morerows="3">Deficiency of vitamin A<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin A<newline/>
   Deficiency of vitamin B<sub>6</sub> (pyridoxine) and/or B<sub>12</sub> (cobalamin)<newline/>
   Deficiency of vitamin D<newline/>
   Deficiency of vitamin D and/or fluoride</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Oropharynx</entry>
-  <entry valign="top" align="left" morerows="2">Recurrent tonsillitis<newline/>
+  <entry valign="top" align="left" morerows="2">Oropharynx</entry>
+  <entry valign="top" align="left">Recurrent tonsillitis<newline/>
   Pharyngitis<newline/>
   Inflammation of the hard and soft palates</entry>
-  <entry valign="top" align="left" morerows="2">Deficiency of vitamin D<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin D<newline/>
   Deficiency of vitamin B<sub>2</sub> (riboflavin)<newline/>
   Deficiency of iron, vitamin B<sub>2</sub> (riboflavin), B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), and/or B<sub>12</sub> (cobalamin), D, and zinc</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Abdomen</entry>
-  <entry valign="top" align="left" morerows="2">Constipation (hypoactive bowel sounds, decreased frequency of bowel movements, hard stools, straining with bowel movements, increased flatus, mild abdominal distention, mild abdominal tenderness)<newline/>
+  <entry valign="top" align="left" morerows="2">Abdomen</entry>
+  <entry valign="top" align="left">Constipation (hypoactive bowel sounds, decreased frequency of bowel movements, hard stools, straining with bowel movements, increased flatus, mild abdominal distention, mild abdominal tenderness)<newline/>
   Diarrhea (hyperactive bowel sounds, increased frequency of bowel movements, loose or watery stools, increased flatus, abdominal tenderness, symptoms of fluid volume deficit from losses)<newline/>
   Abdominal muscle pain and cramping</entry>
-  <entry valign="top" align="left" morerows="2">Deficiency of potassium, magnesium, vitamin B<sub>9</sub> (folate), fiber, and/or fluid volume<newline/>
+  <entry valign="top" align="left">Deficiency of potassium, magnesium, vitamin B<sub>9</sub> (folate), fiber, and/or fluid volume<newline/>
   Deficiency of vitamin B<sub>3</sub> (niacin) or excessive intake of potassium<newline/>
   Deficiency of magnesium, potassium, sodium, vitamin B<sub>1</sub> (thiamine), vitamin D, and/or calcium</entry>
   </row>
@@ -292,15 +292,15 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Deficiency of fiber and/or fluid volume</entry>
   </row>
   <row>
-  <entry valign="top" align="left">General appetite/ weight</entry>
-  <entry valign="top" align="left" morerows="1">Loss of appetite<newline/>
+  <entry valign="top" align="left" morerows="1">General appetite/ weight</entry>
+  <entry valign="top" align="left">Loss of appetite<newline/>
   Weight loss</entry>
-  <entry valign="top" align="left" morerows="1">Deficiency of zinc<newline/>
+  <entry valign="top" align="left">Deficiency of zinc<newline/>
   Deficient caloric intake, protein deficiency, or impaired absorption</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Skin</entry>
-  <entry valign="top" align="left" morerows="1">Skin discoloration<newline/>
+  <entry valign="top" align="left" morerows="1">Skin</entry>
+  <entry valign="top" align="left">Skin discoloration<newline/>
   Ecchymosis</entry>
   <entry valign="top" align="left" morerows="1">Excessive intake of protein, carotene-containing foods, or supplements (vitamin A), causing diffuse hyperpigmentation, or excessive intake of both protein and zinc, causing carotenoderma<newline/>
   Deficiency of vitamin C, vitamin K, or zinc</entry>
@@ -311,40 +311,40 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Deficiency of magnesium, potassium, sodium, vitamin B<sub>1</sub> (thiamine), vitamin D, and/or calcium</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Eyes</entry>
-  <entry valign="top" align="left" morerows="2">Pallor<newline/>
+  <entry valign="top" align="left" morerows="2">Eyes</entry>
+  <entry valign="top" align="left">Pallor<newline/>
   Bitot&#8217;s spots, xerosis<newline/>
   Xanthelasmas</entry>
-  <entry valign="top" align="left" morerows="2">Deficiency of iron, protein, or vitamin B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), or C<newline/>
+  <entry valign="top" align="left">Deficiency of iron, protein, or vitamin B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), or C<newline/>
   Deficiency of vitamin A<newline/>
   Excessive caloric intake, obesity, or hypercholesterolemia</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Hair</entry>
-  <entry valign="top" align="left" morerows="2">Dry hair<newline/>
+  <entry valign="top" align="left" morerows="2">Hair</entry>
+  <entry valign="top" align="left">Dry hair<newline/>
   Brittle hair<newline/>
   Discolored, easily pluckable hair; hair loss</entry>
-  <entry valign="top" align="left" morerows="2">Deficiency of vitamin A or E<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin A or E<newline/>
   Deficiency of vitamin B<sub>7</sub> (biotin)<newline/>
   Deficiency of protein or iron; overall severe malnutrition</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Nails</entry>
-  <entry valign="top" align="left" morerows="2">Dry and brittle nails<newline/>
+  <entry valign="top" align="left" morerows="2">Nails</entry>
+  <entry valign="top" align="left">Dry and brittle nails<newline/>
   Nail discoloration<newline/>
   Koilonychia</entry>
-  <entry valign="top" align="left" morerows="2">Deficiency of vitamin B<sub>7</sub> (biotin), zinc, or protein<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin B<sub>7</sub> (biotin), zinc, or protein<newline/>
   Overall poor nutritional status<newline/>
   Deficiency of iron, causing anemia</entry>
   </row>
   <row>
-  <entry valign="top" align="left">Extremities</entry>
-  <entry valign="top" align="left" morerows="4">Edema<newline/>
+  <entry valign="top" align="left" morerows="4">Extremities</entry>
+  <entry valign="top" align="left">Edema<newline/>
   Paresthesia, muscle weakness<newline/>
   Loss of sensation<newline/>
   Muscle atrophy and wasting<newline/>
   Bowing of the legs (caused by rickets)</entry>
-  <entry valign="top" align="left" morerows="4">Deficiency of vitamin B<sub>1</sub> (thiamine) or protein; excessive sodium<newline/>
+  <entry valign="top" align="left">Deficiency of vitamin B<sub>1</sub> (thiamine) or protein; excessive sodium<newline/>
   Deficiency of vitamin B<sub>1</sub> (thiamine), B<sub>6</sub> (pyridoxine), B<sub>12</sub> (cobalamin), or E<newline/>
   Deficiency of vitamin B<sub>12</sub> (cobalamin)<sub></sub> or E<newline/>
   Severe malnutrition<newline/>
