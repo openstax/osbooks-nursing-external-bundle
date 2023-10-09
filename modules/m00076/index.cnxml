@@ -229,27 +229,43 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <row>
   <entry valign="top" align="left" morerows="3">Tongue</entry>
   <entry valign="top" align="left">Inflammation of the tonguen</entry>
-  <entry valign="top" align="left">Loss of taste</entry>
-  <entry valign="top" align="left">Halitosis</entry>
-  <entry valign="top" align="left">Red, painful tongue that has a burning sensation</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Loss of taste</entry>
   <entry valign="top" align="left">Deficiency of zinc</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Halitosis</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub> (cobalamin)</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Red, painful tongue that has a burning sensation</entry>
   <entry valign="top" align="left">Deficiency of iron</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="5">Gums/mouth</entry>
   <entry valign="top" align="left">Ulcerative gingivitis</entry>
-  <entry valign="top" align="left">Hemorrhagic gingivitis, painful mouth ulcers</entry>
-  <entry valign="top" align="left">Bleeding gingivitis</entry>
-  <entry valign="top" align="left">Stomatitis (mouth inflammation)</entry>
-  <entry valign="top" align="left">Salivary gland dysfunction, dysphagia</entry>
-  <entry valign="top" align="left">Recurrent aphthous stomatitis (canker sores)</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Hemorrhagic gingivitis, painful mouth ulcers</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub> (cobalamin)</entry>
-  <entry valign="top" align="left">Deficiency of vitamin C</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Bleeding gingivitis</entry>
+    <entry valign="top" align="left">Deficiency of vitamin C</entry>
+      </row>
+  <row>
+  <entry valign="top" align="left">Stomatitis (mouth inflammation)</entry>
   <entry valign="top" align="left">Deficiency of vitamin B complex</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Salivary gland dysfunction, dysphagia</entry>
   <entry valign="top" align="left">Deficiency of iron</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Recurrent aphthous stomatitis (canker sores)</entry>
   <entry valign="top" align="left">Deficiency of zinc</entry>
   </row>
   <row>
@@ -260,30 +276,44 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <row>
   <entry valign="top" align="left" morerows="3">Teeth</entry>
   <entry valign="top" align="left">Pits, grooves, or missing areas in enamel of the teeth, giving teeth a translucent appearance</entry>
-  <entry valign="top" align="left">Periodontal disease</entry>
-  <entry valign="top" align="left">Abnormal bone patterns and shapes</entry>
-  <entry valign="top" align="left">Dental caries (cavities)</entry>
   <entry valign="top" align="left">Deficiency of vitamin A</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Periodontal disease</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>6</sub> (pyridoxine) and/or B<sub>12</sub> (cobalamin)</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Abnormal bone patterns and shapes</entry>
   <entry valign="top" align="left">Deficiency of vitamin D</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Dental caries (cavities)</entry>
   <entry valign="top" align="left">Deficiency of vitamin D and/or fluoride</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="2">Oropharynx</entry>
   <entry valign="top" align="left">Recurrent tonsillitis</entry>
-  <entry valign="top" align="left">Pharyngitis</entry>
-  <entry valign="top" align="left">Inflammation of the hard and soft palates</entry>
   <entry valign="top" align="left">Deficiency of vitamin D</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Pharyngitis</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin)</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Inflammation of the hard and soft palates</entry>
   <entry valign="top" align="left">Deficiency of iron, vitamin B<sub>2</sub> (riboflavin), B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), and/or B<sub>12</sub> (cobalamin), D, and zinc</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="2">Abdomen</entry>
   <entry valign="top" align="left">Constipation (hypoactive bowel sounds, decreased frequency of bowel movements, hard stools, straining with bowel movements, increased flatus, mild abdominal distention, mild abdominal tenderness)</entry>
-  <entry valign="top" align="left">Diarrhea (hyperactive bowel sounds, increased frequency of bowel movements, loose or watery stools, increased flatus, abdominal tenderness, symptoms of fluid volume deficit from losses)</entry>
-  <entry valign="top" align="left">Abdominal muscle pain and cramping</entry>
   <entry valign="top" align="left">Deficiency of potassium, magnesium, vitamin B<sub>9</sub> (folate), fiber, and/or fluid volume</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Diarrhea (hyperactive bowel sounds, increased frequency of bowel movements, loose or watery stools, increased flatus, abdominal tenderness, symptoms of fluid volume deficit from losses)</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>3</sub> (niacin) or excessive intake of potassium</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Abdominal muscle pain and cramping</entry>
   <entry valign="top" align="left">Deficiency of magnesium, potassium, sodium, vitamin B<sub>1</sub> (thiamine), vitamin D, and/or calcium</entry>
   </row>
   <row>
@@ -294,8 +324,10 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <row>
   <entry valign="top" align="left" morerows="1">General appetite/ weight</entry>
   <entry valign="top" align="left">Loss of appetite</entry>
-  <entry valign="top" align="left">Weight loss</entry>
   <entry valign="top" align="left">Deficiency of zinc</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Weight loss</entry>
   <entry valign="top" align="left">Deficient caloric intake, protein deficiency, or impaired absorption</entry>
   </row>
   <row>
@@ -311,41 +343,61 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <row>
   <entry valign="top" align="left" morerows="2">Eyes</entry>
   <entry valign="top" align="left">Pallor</entry>
-  <entry valign="top" align="left">Bitot&#8217;s spots, xerosis</entry>
-  <entry valign="top" align="left">Xanthelasmas</entry>
   <entry valign="top" align="left">Deficiency of iron, protein, or vitamin B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), or C</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Bitot&#8217;s spots, xerosis</entry>
   <entry valign="top" align="left">Deficiency of vitamin A</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Xanthelasmas</entry>
   <entry valign="top" align="left">Excessive caloric intake, obesity, or hypercholesterolemia</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="2">Hair</entry>
   <entry valign="top" align="left">Dry hair</entry>
-  <entry valign="top" align="left">Brittle hair</entry>
-  <entry valign="top" align="left">Discolored, easily pluckable hair; hair loss</entry>
   <entry valign="top" align="left">Deficiency of vitamin A or E</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Brittle hair</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>7</sub> (biotin)</entry>
-  <entry valign="top" align="left">Deficiency of protein or iron; overall severe malnutrition</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Discolored, easily pluckable hair; hair loss</entry>
+ <entry valign="top" align="left">Deficiency of protein or iron; overall severe malnutrition</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="2">Nails</entry>
   <entry valign="top" align="left">Dry and brittle nails</entry>
-  <entry valign="top" align="left">Nail discoloration</entry>
-  <entry valign="top" align="left">Koilonychia</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>7</sub> (biotin), zinc, or protein</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Nail discoloration</entry>
   <entry valign="top" align="left">Overall poor nutritional status</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Koilonychia</entry>
   <entry valign="top" align="left">Deficiency of iron, causing anemia</entry>
   </row>
   <row>
   <entry valign="top" align="left" morerows="4">Extremities</entry>
   <entry valign="top" align="left">Edema</entry>
-  <entry valign="top" align="left">Paresthesia, muscle weakness</entry>
-  <entry valign="top" align="left">Loss of sensation</entry>
-  <entry valign="top" align="left">Muscle atrophy and wasting</entry>
-  <entry valign="top" align="left">Bowing of the legs (caused by rickets)</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>1</sub> (thiamine) or protein; excessive sodium</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Paresthesia, muscle weakness</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>1</sub> (thiamine), B<sub>6</sub> (pyridoxine), B<sub>12</sub> (cobalamin), or E</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Loss of sensation</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub> (cobalamin)<sub></sub> or E</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Muscle atrophy and wasting</entry>
   <entry valign="top" align="left">Severe malnutrition</entry>
+    </row>
+  <row>
+  <entry valign="top" align="left">Bowing of the legs (caused by rickets)</entry>
   <entry valign="top" align="left">Deficiency of vitamin D</entry>
   </row>
   </tbody>
