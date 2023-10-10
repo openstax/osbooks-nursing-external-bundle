@@ -5,9 +5,278 @@
     <md:content-id>m00031</md:content-id>
     <md:uuid>1de5a3f0-eac1-4511-a0d0-f983363a4cb1</md:uuid>
   </metadata>
- <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section you should be able to:</para>
+<list id="list-00001">
+<item>Recognize the normal function of the endocrine system.</item>
+<item>Recognize cues of nutritional impact on the endocrine system.</item>
+<item>Analyze cues of nutritional impact on the endocrine system.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Normal Function of the Endocrine System</title>
+<para id="para-00002">The <term id="term-00001">endocrine system</term> is a network of cells, tissues, and organs that regulate and control all processes using <term id="term-00002">hormones</term>. Hormones are secretions that help regulate organ function by exerting their effects on certain cells in the organ. They coordinate biological functions like metabolism, sexual reproduction, blood pressure, body temperature, heart rate, growth, development, and sleeping. Related to nutrition, the endocrine system regulates appetite and how nutrients are used.</para>
+<para id="para-00003">The <term id="term-00003">hypothalamus</term> is a region in the brain that regulates the endocrine system. The <term id="term-00004">pituitary gland</term>, also located in the brain<emphasis effect="italics">,</emphasis> regulates other glands like the adrenal, thyroid, and testicles. These glands include the thyroid, parathyroid, adrenal, pineal, and pancreas which play critical roles in regulating calcium levels in the body, metabolism, sexual development, and blood pressure, and insulin production, respectively. [link]Figure 7.2[/link] shows the pituitary gland and other key parts of the endocrine system. The goal of regulating hormone levels in the blood is to reach a state of balance or <term id="term-00005">homeostasis</term>. Imbalances can lead to health problems like high blood pressure, changes in mood and behavior, and weight gain (Betts et al., 2022).</para>
+<figure class="scaled-down-30" id="fig-00001"><media alt="The primary glands of the endocrine system are the hypothalamus, anterior pituitary, and posterior pituitary (located near the brain); thyroid gland and parathyroid gland (located in the neck); adrenal glands, pancreas, uterus, and ovaries (located in the abdomen); and testes (located in the groin)."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_002.png"/></media>
+<caption>These are the primary glands of the endocrine system. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+<para id="para-00004">Nutrition plays a vital role in maintaining homeostasis and affecting hormone functions. Overall, a balanced diet with limited ultra-processed food, a variety of fruits and vegetables, whole grains, and lean protein sources is important for endocrine health. This diet helps individuals maintain a healthy weight and decrease the risk for hormonal imbalances. [link]Table 7.1[/link] lists the glands that play a key role in secreting and regulating hormones and related nutritional factors.</para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Gland</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Role</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Related Nutritional Factors</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Adrenal glands</term></entry>
+<entry valign="top" align="left">Release <term id="term-00007">cortisol</term> (steroid hormone) commonly referred to as the "stress hormone"</entry>
+<entry valign="top" align="left">Adequate protein intake as part of a balanced diet</entry>
+</row>
+<row>
+<entry valign="top" align="left">Hypothalamus</entry>
+<entry valign="top" align="left">Instructs the pituitary gland when to release hormones</entry>
+<entry valign="top" align="left">Diet low in ultra-processed foods which decreases inflammation</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Ovaries</term></entry>
+<entry valign="top" align="left">Produces the female sex hormones including estrogen and progesterone</entry>
+<entry valign="top" align="left">Balanced diet with limited red meat and poultry</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Pancreas</term></entry>
+<entry valign="top" align="left">Controls the release of insulin and glucagon, which are involved in regulating blood glucose levels and affecting digestion</entry>
+<entry valign="top" align="left">Limited added sugar, refined grains, overall calories</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Pineal gland</term></entry>
+<entry valign="top" align="left">Produces melatonin, which helps regulate sleep</entry>
+<entry valign="top" align="left">Foods containing melatonin have not yet been found to affect pineal gland function</entry>
+</row>
+<row>
+<entry valign="top" align="left">Pituitary gland</entry>
+<entry valign="top" align="left">Known as the "master gland," it influences many other endocrine glands, including the thyroid. It affects various bodily functions such as blood pressure, metabolism, and growth.</entry>
+<entry valign="top" align="left">Limited sodium, diet low in ultra-processed foods which decreases inflammation</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Testes</term></entry>
+<entry valign="top" align="left">Produces the male sex hormone testosterone</entry>
+<entry valign="top" align="left">Omega-3 fatty acid supplements</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Thyroid</term></entry>
+<entry valign="top" align="left">Controls metabolism, heart and digestive function, mood, and muscle and bone development</entry>
+<entry valign="top" align="left">Adequate iodine intake through iodinated salt, fish, shellfish, dairy, seaweed</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Key Endocrine Glands and Their Role in Regulating Hormones (source: Betts et al., 2022; Salas-Huetos A., 2020; Samodien, E. et al., 2019; Tan, D. X. et al., 2018; Xenou, M., &amp; Gourounti, K., 2021. )</caption>
+</table>
+<note class="media-feature" id="note-00001">
+<title>Endocrine System</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/Endocrine"/>
+</media>
+<para id="para-00005">Knowing how the endocrine system works is fundamental to understanding the importance of good nutrition to manage endocrine conditions. <link url="https://openstax.org/r/Endocrine">Watch this video for an overview</link> of the structure and function of the endocrine system.</para>
+</note>
+</section>
+<section id="sect-00003">
+<title>Alterations in Endocrine System Function</title>
+<para id="para-00006">Endocrine disorders develop in one of two ways. <term id="term-00013">Primary endocrine disorders</term> result from problems with the peripheral glands, while <term id="term-00014">secondary endocrine disorders</term> result when the pituitary gland is either over or under stimulated by the hypothalamus causing an alteration in the peripheral gland’s function. The result of all endocrine disorders is either hyper-functioning or hypo-functioning of the affected gland.</para>
+<section id="sect-00004">
+<title>Alterations in Endocrine System Function – Diabetes</title>
+<para id="para-00007">The most prevalent endocrine disorder is <term class="no-emphasis" id="term-00015">diabetes mellitus (DM)</term>. It is estimated that 37.3 million Americans have diabetes, with approximately 8.5 million cases (23%) undiagnosed (National Institute of Diabetes and Digestive and Kidney Diseases, 2023). Diabetes mellitus develops when the body is not able to maintain adequate blood glucose control (Sapra &amp; Bhandari, 2023). <term id="term-00016">Type 1 diabetes mellitus (T1DM)</term> typically develops early in life and occurs when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin. <term id="term-00017">Type 2 diabetes mellitus (T2DM)</term> results from insulin resistance that develops gradually from obesity and aging. The insufficient amount of insulin (T1DM) and/or functionally ineffective amounts of insulin (T2DM) result in elevated blood glucose levels.</para>
+<para id="para-00008"><term id="term-00018">Glycemic control</term>, which is the maintenance of optimal blood glucose levels, is essential to manage potential complications of diabetes effectively. Poorly controlled blood glucose levels lead to vascular and neurological complications including myocardial infarctions, cerebral vascular accidents, renal disease, neuropathies, and retinopathy (Sapra &amp; Bhandari, 2023). These complications result from several different mechanisms triggered by elevated blood glucose levels that either cause buildup within vessels that impede blood flow, reduce the ability of the vessels to autoregulate, or trigger altered biochemical processes that hinder the vessel’s functionality (Brutsaert, 2022). The risk for these conditions developing is increased in clients who have co-morbid conditions.</para>
+<note class="special-considerations" id="note-00002">
+<title>Differences in Insulin Sensitivity Among Diverse Populations</title>
+<para id="para-00009">Members of US racial/ethnic minority groups have higher rates of <term class="no-emphasis" id="term-00019">insulin resistance</term> than non-Hispanic White members of the population. This is most likely attributed to both genetic and lifestyle factors.</para>
+<para id="para-00010">(Source: <link url="https://openstax.org/r/ncbi">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6127640/</link>)</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Alterations in Endocrine System Function – Other Endocrine Disorders</title>
+<para id="para-00011">Other endocrine disorders commonly seen are hypo/hyperthyroidism and adrenal disorders. Hypothyroidism results from the decreased levels of <term id="term-00020">thyroid hormones T4 and T3</term> resulting usually from autoimmune causes, but it could also occur after radioactive iodine therapy or surgery for hyperthyroidism or <term id="term-00021">goiter</term> (Braunstein, 2022). Hyperthyroidism is caused by increased secretion of T4 and T3 caused by <term id="term-00022">Graves’ disease</term>, goiter, or thyroiditis. Adrenal insufficiency is caused by <term id="term-00023">Addison’s disease</term> or a disorder regulating the pituitary gland and results in low cortisol levels in the body (Grossman, 2022). Conversely, <term id="term-00024">Cushing’s disease/syndrome</term> develops when corticosteroid levels in the body are high either from taking corticosteroid medications or from overproduction by the adrenal glands.</para>
+</section>
+</section>
+
+<section id="sect-00006">
+<title>Assessment of Nutrition and the Function of the Endocrine System</title>
+<para id="para-00012">Endocrine disorders can be difficult to diagnose. Frequently these conditions develop over time, and clients present with symptoms that are non-specific. A thorough history and physical is essential.</para>
+<section id="sect-00007">
+<title>Health History and Physical Assessment</title>
+<para id="para-00013">Taking a client’s <term class="no-emphasis" id="term-00025">health history</term> is the first step when assessing the client’s endocrine system. In addition to general health history questions, it is important to assess a family history of endocrine problems (Bickley et al., 2021). When collecting information on the client’s nutritional status for potential effects on the endocrine system, the nurse should ask about changes in appetite, thirst and fluid intake, and bowel function. It is also important to know if the client has experienced any changes in weight or energy levels.</para>
+<para id="para-00014">After obtaining a thorough health history, a physical assessment should be performed to look for signs of endocrine dysfunction.</para>
+<list list-type="bulleted" id="list-00002">
+<item>Inspect the body looking for abnormal hair growth, skin changes, and abnormal body proportions.</item>
+<item>Auscultate heart sounds for rate and rhythm as some endocrine disorders cause tachydysrhythmias. Also listen over the carotid arteries and directly over the thyroid gland for any bruits.</item>
+<item>Palpate the thyroid gland ([link]Figure 7.3[/link]), adrenal glands, and testes for tenderness, size, symmetry, and shape, looking for any nodules, enlargement, or changes in texture.</item>
+<item>Assess weight, height, and body mass index (BMI) for any changes in body composition.</item>
+<item>Assess glucose levels to evaluate glucose metabolism.</item>
+<item>Assess sexual development, including secondary sex characteristics, and menstrual cycles.</item>
+<item>Evaluate the client’s mood and behavior for any changes (Bickley, et al., 2021).</item>
+</list>
+<figure class="scaled-down-30" id="fig-00002"><media alt="An anterior view of the thyroid gland. The thyroid gland is a butterfly-shaped gland wrapped around the trachea. It narrows at its center, just under the thyroid cartilage of the larynx. This narrow area is called the isthmus of the thyroid. Two large arteries, the common carotid arteries, run parallel to the trachea on the outer border of the thyroid. A small artery enters the superior edge of the thyroid, near the isthmus, and branches throughout the two “wings” of the thyroid."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_003.png"/></media>
+<caption>Anterior view of the thyroid gland and adjacent structures. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+</section>
+<section id="sect-00008">
+<title>Laboratory Tests for Endocrine Functioning</title>
+<para id="para-00015">Laboratory testing for <term class="no-emphasis" id="term-00026">endocrine disorders</term> includes tests measuring hormones, vitamin levels, electrolytes, and kidney function among others. [link]Table 7.2[/link] lists the commonly ordered laboratory tests specific to endocrine disorders.</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Laboratory Test</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Normal Range</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Indication</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Adrenocorticotropic hormone (ACTH)</entry>
+<entry valign="top" align="left">9–52 pg/mL (picograms/milliliter)</entry>
+<entry valign="top" align="left">Elevated level consistent with Addison Disease</entry>
+</row>
+<row>
+<entry valign="top" align="left">Cortisol</entry>
+<entry valign="top" align="left">8–20 mcg/dL (micrograms/milliliter; drawn in am)</entry>
+<entry valign="top" align="left">Decreased level consistent with Addison Disease</entry>
+</row>
+<row>
+<entry valign="top" align="left">Glucose</entry>
+<entry valign="top" align="left">70–105 mg/dL (milligrams/deciliter; fasting)</entry>
+<entry valign="top" align="left">Elevated level consistent with diabetes mellitus</entry>
+</row>
+<row>
+<entry valign="top" align="left">Hemoglobin A1C</entry>
+<entry valign="top" align="left">4.7–8.5%</entry>
+<entry valign="top" align="left">Elevated levels consistent with diabetes mellitus</entry>
+</row>
+<row>
+<entry valign="top" align="left">T4</entry>
+<entry valign="top" align="left">0.9–2.4 ng/dL (free; nanograms/deciliter)<newline/>
+5–12 mcg/dL (total; micrograms/deciliter)</entry>
+<entry valign="top" align="left">Increased level consistent with hyperthyroidism</entry>
+</row>
+<row>
+<entry valign="top" align="left">Thyroid-stimulating hormone (TSH)</entry>
+<entry valign="top" align="left">0.5–5.0 mcIU/mL (microinternational units per milliliter)</entry>
+<entry valign="top" align="left">Decreased level consistent with hypothyroidism; increased level consistent with hyperthyroidism</entry>
+</row>
+<row>
+<entry valign="top" align="left">Urinary free cortisol measurement</entry>
+<entry valign="top" align="left">&lt; 90 mcg (micrograms)/24 hours</entry>
+<entry valign="top" align="left">Elevated levels consistent with Cushing syndrome</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Laboratory Tests for Endocrine Disorders (source: Merck Manual Professional Version)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00009">
+<title>Analysis of Nutrition and the Endocrine System</title>
+<para id="para-00016">The endocrine system requires adequate nutrition to function. Nutritional deficits or imbalances can cause various endocrine abnormalities. For example, the most common cause worldwide for <term class="no-emphasis" id="term-00027">goiter</term>, or an enlarged thyroid ([link]Figure 7.4[/link]), is <term class="no-emphasis" id="term-00028">iodine deficiency</term> as <term id="term-00029">iodized salt</term> is not consistently used worldwide. However, in the United States, its use has significantly reduced goiter development (Can &amp; Rehman, 2023). Instead, goiter formation in the United States is usually caused by Hashimoto’s thyroiditis or Graves’ disease. Clients who primarily consume other types of salt (kosher, sea, etc.) need to obtain iodine in their diet through other means.</para>
+<figure class="scaled-down-30" id="fig-00003"><media alt="A woman with a goiter, which is an extreme, irregular swelling on the anterior side of the neck."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_004.jpg"/></media>
+<caption>Iodine deficiencies can lead to goiter, an enlarged thyroid. (credit: “Goitre” by Almazi/ Wikimedia Commons, Public Domain)</caption></figure>
+<para id="para-00017">A thorough analysis of the client’s nutrition status can help identify potential endocrine-related issues. The nurse should review the nutritional assessment to identify any nutrient-related deficiencies. For example, a client with limited fruit and vegetable consumption is at risk for <term class="no-emphasis" id="term-00030">vitamin C deficiency</term>. Vitamin C deficiency is associated with multiple health problems. Specifically related to the endocrine system, vitamin C affects the regulation of several important hormones including insulin growth factor and sex steroids (Shi, Rath, &amp; Niedzwiecki, 2021). Conversely, when evaluating the client’s nutrition status, there is potential to find excessive intake of nutrients. For example, a diet with excessive carbohydrate intake can increase blood glucose levels in individuals contributing to the development of insulin resistance and diabetes mellitus. Once nutritional imbalances are identified, the nurse can work with the client to make dietary changes and reduce the risk for developing endocrine disorders (Bickley et al., 2021). [link]Table 7.3[/link] lists signs and symptoms of common endocrine disorders and their corresponding nutritional factors.</para>
+<table class="vertically-tight" id="table-00003">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Endocrine Disorder</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Signs and Symptoms</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Related Nutritional Factors</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00031">Diabetes mellitus</term></entry>
+<entry valign="top" align="left">Increased thirst and urination, unexplained weight loss, increased hunger, blurred vision, slow-healing sores or infections, fatigue</entry>
+<entry valign="top" align="left">Excessive intake of added sugar, refined grains, or overall calories can cause or worsen this condition</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00032">Hypothyroidism</term></entry>
+<entry valign="top" align="left">Fatigue, weight gain, constipation, dry skin and hair, sensitivity to cold, depression, joint pain</entry>
+<entry valign="top" align="left">Deficient iodine intake can cause or worsen this condition</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00033">Hyperthyroidism</term> (<term class="no-emphasis" id="term-00034">Graves’ disease</term>)</entry>
+<entry valign="top" align="left">Weight loss, increased appetite, rapid heartbeat, trembling hands, nervousness or anxiety, sweating, heat intolerance</entry>
+<entry valign="top" align="left">Excessive iodine intake can cause or worsen this condition</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00035">Adrenal insufficiency</term> (<term class="no-emphasis" id="term-00036">Addison’s disease</term>)</entry>
+<entry valign="top" align="left">Fatigue, weakness, weight loss, nausea and vomiting, low blood pressure, darkening of the skin</entry>
+<entry valign="top" align="left">High sodium diet is beneficial for clients with low aldosterone; adequate calcium and vitamin D intake is essential for clients taking corticosteroids</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00037">Cushing’s disease</term></entry>
+<entry valign="top" align="left">Weight gain, especially in the face, neck, and abdomen, thinning skin, easy bruising, slow healing of wounds, muscle weakness, fatigue</entry>
+<entry valign="top" align="left">Controlled sodium diet and low carbohydrate diet is beneficial</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Common Endocrine Disorders with Signs and Symptoms and Related Nutritional Factors (source: Braunstein, 2022; Brutsaert, 2022; Grossman, 2022; Hoffman &amp; Sullivan, 2020; National Institute of Diabetes and Digestive and Kidney Diseases, 2021a–c and 2-18 a–b)</caption>
+</table>
+<note class="special-considerations" id="note-00003">
+<title>Obtaining Adequate Iodine through Diet Sources</title>
+<para id="para-00018">Dozens of countries, including the United States, add iodine to table salt. Despite this practice, there are still groups who are at risk for <term class="no-emphasis" id="term-00038">iodine deficiency</term>:</para>
+<list list-type="bulleted" id="list-00003">
+<item>People who do not use iodized salt including people in Southeast Asia, sub-Saharan Africa, and Eastern Europe</item>
+<item>Pregnant women</item>
+<item>Vegans and people who eat few or no dairy products, seafood, and eggs</item>
+<item>People living in areas with iodine-deficient soils – primarily mountainous areas (Himalayas, Alps, and Andes regions) or river valleys prone to flooding (South and Southeast Asia)</item>
+<item>People who consume foods that interfere with iodine uptake including soy, cassava, and cruciferous vegetables</item></list>
+<para id="para-00019">Alternative sources of dietary iodine for these groups include:</para>
+<list list-type="bulleted" id="list-00004">
+<item>Seaweed (kelp, nori, kombu, and wakame) (traditionally consumed in China, Japan, and Korea)</item>
+<item>Fish and other seafood</item>
+<item>Dairy products</item>
+</list>
+<para id="para-00020">Fruits and vegetables, although they have a lot of other health benefits, are not a good source of iodine.</para>
+<para id="para-00021">(source: <link url="https://openstax.org/r/odsodnih">https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/)</link></para>
+</note>
+<note class="unfolding-casestudy" id="note-00004">
+<title>Part A</title>
+<para id="para-00022">Meena, a 44-year-old Indian American female was recently diagnosed with hypothyroidism and type 2 diabetes. She has a history of class 1 obesity, with a BMI of 33. Meena lives alone and works as an office administrator . Her hobbies include reading, watching movies, and cooking. Meena presents to the clinic complaining of fatigue and feeling cold even in warm temperatures.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/NUT_Ch07_Sec01_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch07_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>Addison’s disease</term> <meaning>inadequate secretion of hormones by the adrenal glands causing low blood pressure, weakness, and skin discoloration</meaning></definition>
+<definition id="def-00002"><term>cortisol</term> <meaning>a steroid hormone that helps regulate the body’s response to stress</meaning></definition>
+<definition id="def-00003"><term>Cushing’s disease/syndrome</term> <meaning>weight gain, bruising, and weakness caused by excessive cortisol in the body</meaning></definition>
+<definition id="def-00004"><term>endocrine system</term> <meaning>a network of glands that regulate and control all body processes through hormones</meaning></definition>
+<definition id="def-00005"><term>glycemic control</term> <meaning>maintaining optimal blood glucose levels</meaning></definition>
+<definition id="def-00006"><term>goiter</term> <meaning>enlarged, abnormal growth of the thyroid gland</meaning></definition>
+<definition id="def-00007"><term>Graves’ disease</term> <meaning>hyperthyroidism causing eye protrusion, heat intolerance, and anxiety</meaning></definition>
+<definition id="def-00008"><term>homeostasis</term> <meaning>state of balance in the body</meaning></definition>
+<definition id="def-00009"><term>hormones</term> <meaning>body substances that coordinate biological functions like metabolism, sexual reproduction, blood pressure, body temperature, heart rate, , growth, and development, and sleeping</meaning></definition>
+<definition id="def-00010"><term>hypothalamus</term> <meaning>a critical gland found in the brain that controls the endocrine system</meaning></definition>
+<definition id="def-00011"><term>iodized salt</term> <meaning>table salt fortified with iodine</meaning></definition>
+<definition id="def-00012"><term>pituitary gland</term> <meaning>gland in the brain that regulates growth and development as well as the function of other glands</meaning></definition>
+<definition id="def-00013"><term>primary endocrine disorders</term> <meaning>caused by dysfunction in the affected peripheral endocrine gland</meaning></definition>
+<definition id="def-00014"><term>secondary endocrine disorders</term> <meaning>develop when the pituitary gland is either over or under stimulated by the hypothalamus causing an alteration in the peripheral gland’s function</meaning></definition>
+<definition id="def-00015"><term>thyroid hormones T3 and T4</term> <meaning>released by the thyroid gland to help regulate weight, energy levels, and metabolism</meaning></definition>
+<definition id="def-00016"><term>Type 1 diabetes mellitus (T1DM)</term> <meaning>develops when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin</meaning></definition>
+<definition id="def-00017"><term>Type 2 diabetes mellitus (T2DM)</term> <meaning>results from insulin resistance that develops gradually from obesity and aging</meaning></definition>
+</glossary>
 </document>
