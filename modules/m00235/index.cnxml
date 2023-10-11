@@ -6,8 +6,89 @@
     <md:uuid>cfa47d8f-243f-48f3-a621-9f0157a5f59e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Define negative feedback loops as they relate to homeostasis.</item>
+<item>Describe homeostatic responses within the body.</item>
+<item>Explain positive feedback.</item>
+</list>
+<para id="para-00002">Feedback loops provide a mechanism for the body to maintain homeostasis. Feedback loops include <term id="term-00001">negative feedback</term>,the <term id="term-00002">homeostatic response system</term>, and <term id="term-00003">positive feedback</term>.</para>
+</section>
+<section id="sect-00002">
+<title>Negative Feedback and Homeostasis</title>
+<para id="para-00003">Negative feedbackis critical in regulating the body’s <term class="no-emphasis" id="term-00004">homeostasis</term> to promote optimal health and well-being. These inhibitory loops allow the body to self-regulate by counteracting any deviation from normal conditions. The process begins with an increase in output from a body system, leading to higher levels of specific proteins or hormones. This increase subsequently triggers the homeostatic response system to inhibit or reverse the production of those proteins or hormones, preventing their levels from rising further. The body thus reduces the number of these proteins or hormones, maintaining a balance within the normal physiologic limits (Chakravarty et al., 2023; Molnar &amp; Gair, n.d.). An example of negative feedback within the body is depicted in [link]Figure 4.6[/link].</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="">
+<image mime-type="image/png" src="../../media/PHA_Figure_04_03_005.png"/></media>
+<caption>A negative feedback loop regulates body temperature. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+</section>
+<section id="sect-00003">
+<title>Homeostatic Response System</title>
+<para id="para-00004">The homeostatic response system is a biological structure that is in a constant state of flux because of external and internal factors that push the body’s systems away from equilibrium. The homeostatic response system is vital for maintaining a stable internal environment. When the body experiences a stimulus, such as an elevated body temperature, a neuron (nerve cell) within the brain acts as a receptor or sensor, relaying the message to the control center, which may be the hypothalamus, pituitary gland, or nervous system. The control center then activates effectors, whose role is to counteract the stimulus, thereby restoring homeostasis (see [link]Figure 4.3[/link]) (Libretti &amp; Puckett, 2023). In this way, the homeostatic response system enables the body to adjust to changing conditions and maintain stability.</para>
+</section>
+<section id="sect-00004">
+<title>Positive Feedback</title>
+<para id="para-00005">In positive feedback, the bodyresponds to a stimulus by amplifying or enhancing it, rather than inhibiting it. This mechanism leads to a continuous increase in the stimulus, also known as a runaway effect, creating a self-reinforcing cycle. Positive feedback loops are commonly found in processes that require rapid and decisive responses, such as the following:</para>
+<list list-type="bulleted" id="list-00002">
+<item><term class="no-emphasis" id="term-00005">Blood clotting</term>
+<list list-type="bulleted" id="list-00003">
+<item>When an injury occurs, platelets in the blood stick to the damaged area and release chemical signals that attract more platelets. This recruitment of platelets leads to the formation of a blood clot, which further activates more platelets and reinforces the clotting process.</item>
+</list></item>
+<item><term class="no-emphasis" id="term-00006">Lactation</term>
+<list list-type="bulleted" id="list-00004">
+<item>During lactation, the mechanical stimulation of nerve endings in the breast signals the posterior pituitary gland to release oxytocin, which stimulates the contraction of myoepithelial cells within the breast. As milk is released, the sucking action of the baby continues, and this further stimulates the nerve endings in the breast, creating a positive feedback loop.</item>
+</list></item>
+<item><term class="no-emphasis" id="term-00007">Uterine contraction during childbirth</term>
+<list list-type="bulleted" id="list-00005">
+<item>During childbirth, the pressure of the baby against the cervix and the  tissue of the pelvic floor causes contraction of the uterus which then results in the release of oxytocin, which stimulates stronger contractions. As contractions intensify, more oxytocin is released, resulting in positive feedback until the baby is delivered (Libretti &amp; Puckett, 2023)</item>
+</list>
+</item>
+</list>
+<para id="para-00006">Nonetheless, when not properly regulated, positive feedback loops may give rise to instability and potentially adverse consequences.</para>
+<note class="link-to-learning" id="note-00001">
+<title>Homeostasis: The Negative and Positive Feedback Loops</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/homeostasis"/>
+</media>
+<para id="para-00007">In this video, Dr. Mike Todorovic, senior lecturer of anatomy and physiology at Griffith University, Queensland, Australia, discusses the importance of homeostasis and explains the negative and positive feedback loops.</para>
+</note>
+</section>
+<section class="chapter-summary" id="sect-00005">
+<para id="para-00008">This chapter gave an overview of homeostasis, the body’s ability to maintain a stable internal environment despite changes in the internal and external environments. One important component of homeostasis is the regulation of osmolality, which refers to the balance of solutes and water in the body. Homeostatic equilibrium is maintained through negative feedback loops, which involve a stimulus, a control center, and an effector, and positive feedback loops, which amplify a signal and can lead to a runaway effect if uncontrolled. The body’s ability to maintain homeostasis is essential for proper functioning of cells and tissues.</para>
+</section>
+<section class="review-questions" id="sect-00006">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00009"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00010"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec02_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00011"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec01_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00012"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec01_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00013"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec01_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00014"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec04_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00015"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec03_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00016"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec04_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec02_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch04_Sec03_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00007">
+<title>References</title>
+<para id="para-00019">Billman, G. E. (2020). Homeostasis: The underappreciated and far too often ignored central organizing principle of physiology. <emphasis effect="italics">Frontiers in Physiology</emphasis>, <emphasis effect="italics">11</emphasis>, 200. https://doi.org/10.3389/fphys.2020.00200</para>
+<para id="para-00020">Chakravarty, S., Hong, C. I., &amp; Csikász-Nagy, A. (2023). Systematic analysis of negative and positive feedback loops for robustness and temperature compensation in circadian rhythms. <emphasis effect="italics">NPJ Systems Biology and <emphasis effect="bold">A</emphasis>pplications</emphasis>, <emphasis effect="italics">9</emphasis>(1), 5. https://doi.org/10.1038/s41540-023-00268-7</para>
+<para id="para-00021">Hannezo, E., &amp; Heisenberg, C. P. (2019). Mechanochemical feedback loops in development and disease. <emphasis effect="italics">Cell Press.</emphasis> <emphasis effect="italics">178</emphasis>(1), 12–25. https://doi.org/10.1016/j.cell.2019.05.052</para>
+<para id="para-00022">Hoorm, E. J., Gritter, M., Cuevas, C. A., &amp; Fenton, R. A. (2020). Regulation of the renal NaCl cotransporter and its role in potassium homeostasis. <emphasis effect="italics">Physiological Reviews, 100</emphasis>(1), 321–356. https://journals.physiology.org/doi/epdf/10.1152/physrev.00044.2018</para>
+<para id="para-00023">Khan, Y. S., &amp; Farhana, A. Histology, cell. (2023, May 1). StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554382/</para>
+<para id="para-00024">Koeppen, B. M., &amp; Stanton, B. A. (2023). <emphasis effect="italics">Berne and Levy physiology</emphasis> (8th ed.). Elsevier. ISBN: 9780323847926</para>
+<para id="para-00025">Libretti, S., &amp; Puckett, Y. (2022). <emphasis effect="italics">Physiology, homeostasis</emphasis>. National Library of Medicine. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK559138/</para>
+<para id="para-00026">Maldonado, K. A., &amp; Mohiuddin, S. S. (2022). <emphasis effect="italics">Biochemistry, hypertonicity</emphasis>. National Library of Medicine. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK541095/</para>
+<para id="para-00027">Molnar, C., &amp; Gair, J. (n.d.) <emphasis effect="italics">Concepts of Biology</emphasis> (1st Canadian ed.) Gunness. Pressbooks. https://pressbooks.bccampus.ca/conceptsofbiologygunness/</para>
+<para id="para-00028">Pirahanchi, Y., Jessu, R., &amp; Aeddula, N. R. (2023, March 13). <emphasis effect="italics">Physiology, sodium potassium pump</emphasis>. National Library of Medicine. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK537088/</para>
+<para id="para-00029">Valls, P. O., &amp; Esposito, A. (2022). Signaling dynamics, cell decisions, and homeostatic control in health and disease. <emphasis effect="italics">Current Opinion in Cell Biology, 75</emphasis> (article # 102066). https://www.sciencedirect.com/science/article/pii/S0955067422000126</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>homeostatic response system</term> <meaning>a self-regulating process in which the body maintains stability</meaning></definition>
+<definition id="def-00002"><term>negative feedback</term> <meaning>a homeostatic process that counteracts a change, bringing the parameter back toward its set point</meaning></definition>
+<definition id="def-00003"><term>positive feedback</term> <meaning>feedback that amplifies or magnifies a change</meaning></definition>
+</glossary>
 </document>
