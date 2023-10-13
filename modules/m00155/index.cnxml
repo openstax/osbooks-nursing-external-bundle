@@ -20,7 +20,7 @@
 <section id="sect-00002">
 <title>Use of Evidence-Based Decision-Making</title>
 <para id="para-00003">Public health is a sector of health care that seeks to protect and enhance the health of people and the communities in which they live, work, and play. Since public health decisions and initiatives can impact such a large range of people, decisions in public health made by health care providers must use efficient and effective practices to promote optimal results. EBDM is an optimal process to make these decisions by finding and using interventions that work best in public health and then sharing this information with clients and other health care professionals. The <term class="no-emphasis" id="term-00007">National Collaborating Centre for Methods and Tools (NCCMT)</term> has outlined seven steps in the evidence-based decision-making process in public health. These steps are shown in <link target-id="fig-00001" document="m00155"/>. These steps—define, search, appraise, synthesize, adapt, implement, and evaluate—are additionally broken down to describe the process of EBDM.</para>
-<figure id="fig-00001"><media alt="A pyramid shows different types of evidence, with quality of evidence increasing as you move up the pyramid. Starting at the bottom, the types of evidence are studies, synopses of single studies, syntheses, synopses of syntheses, summaries, and systems."><image mime-type="image/jpg" src="../../media/PH_Figure_11_01_002.png"/></media>
+<figure class="scaled-down" id="fig-00001"><media alt="A pyramid shows different types of evidence, with quality of evidence increasing as you move up the pyramid. Starting at the bottom, the types of evidence are studies, synopses of single studies, syntheses, synopses of syntheses, summaries, and systems."><image mime-type="image/jpg" src="../../media/PH_Figure_11_01_002.png"/></media>
 <caption>The National Collaborating Centre for Methods and Tools (NCCMT) has outlined seven steps in the evidence-based decision-making process in public health. These steps include define, search, appraise, synthesize, adapt, implement, and evaluate. (See National Collaborating Centre for Methods and Tools, 2023a; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
 <para id="para-00004">In addition to these steps, EBDM has fundamental characteristics nurses and health care providers must consider (Cincinnati Children’s Hospital Medical Center [CCHMC], 2023):</para>
 <list list-type="bulleted" id="list-00002">
@@ -196,7 +196,7 @@
 <tbody>
 <row>
 <entry valign="middle" align="left" morerows="3"><emphasis effect="bold">Public Health Expertise</emphasis><newline/>
-&#8680;</entry>
+⇨</entry>
 <entry valign="top" align="left">Available public health resources</entry>
 </row>
 <row>
@@ -243,7 +243,7 @@
 </note>
 <para id="para-00032">By utilizing these tools, nurses and other health care providers can make the complex process of EBDM more attainable by breaking these steps into manageable tasks.</para>
 </section>
-<section class="chapter-summary" id="sect-00012">
+<section class="section-summary" id="sect-00012">
 <title>Chapter Summary</title>
 <para id="para-00033">Evidence-based practice and evidence-based decision-making are key resources to help accomplish health care goals. Evidence-based decision-making in public health is outlined by seven steps: define, search, appraise, synthesize, adapt, implement, and evaluate. The EBDM process allows for a more objective decision-making method. The first step, defining the problem, usually formatted as a PICOT question, leads the way for the rest of the process. Often, interventions outlined in research may not fit with the designated community and require adaptation. The NCCMT’s Model for evidence-based decision-making assists with this process.</para>
 </section>
