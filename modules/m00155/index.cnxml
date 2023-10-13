@@ -6,8 +6,251 @@
     <md:uuid>85f43472-cf32-4005-ba21-e64dd4ca72e3</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Describe evidence-based decision-making in public health.</item>
+<item>Describe the steps of evidence-based decision-making.</item>
+<item>Explain the importance of evidence-based decision-making in public health.</item>
+<item>Identify tools to support evidence-based public health decision-making.</item>
+</list>
+<para id="para-00002">At its core, health care is designed to help enhance the quality of life for clients through preventative care, maximization of development, care of acute illness, and guidance toward death. Health care providers should utilize the most up-to-date information on care and treatment plans in these efforts. <term class="no-emphasis" id="term-00001">Evidence-based public health (EBPH)</term> encourages <term class="no-emphasis" id="term-00002">health promotion</term>, <term class="no-emphasis" id="term-00003">disease prevention</term>, and <term class="no-emphasis" id="term-00004">health maintenance</term> by making the best decision possible based on current evidence. Comprehensively, “EBPH involves accessing the best available research to inform decisions, systematically using data and information systems, applying appropriate frameworks in program planning, engaging the community in assessment and decision-making activities, evaluating the program, and disseminating lessons learned to key stakeholders” (Ruebush, 2019, p. 1). A key part of this effective practice is applying evidence-based information. <term id="term-00005">Evidence-based practice (EBP)</term> and <term id="term-00006">evidence-based decision-making (EBDM)</term> are similar, yet each has its nuances for use in nursing. EBP uses the best available research, clinical experience, and client preferences to inform client-care interventions and evaluation. EBDM is the process of using the most recent research and clinical practice experience to make optimal decisions regarding a policy, practice, and/or program. Foundationally, EBDM extends from EBPH as they both consider the context of the community in conjunction with found evidence to identify and implement appropriate interventions. Additional considerations in the process of EBDM are community partner buy-in, feasibility, cost-effectiveness, sustainability, health equity, and public sentiment. EBP is used more commonly in nursing practice to drive interventions. EBDM is used in public health to create policies and programs.</para>
+</section>
+<section id="sect-00002">
+<title>Use of Evidence-Based Decision-Making</title>
+<para id="para-00003">Public health is a sector of health care that seeks to protect and enhance the health of people and the communities in which they live, work, and play. Since public health decisions and initiatives can impact such a large range of people, decisions in public health made by health care providers must use efficient and effective practices to promote optimal results. EBDM is an optimal process to make these decisions by finding and using interventions that work best in public health and then sharing this information with clients and other health care professionals. The <term class="no-emphasis" id="term-00007">National Collaborating Centre for Methods and Tools (NCCMT)</term> has outlined seven steps in the evidence-based decision-making process in public health. These steps are shown in [link]Figure 11.2[/link]. These steps—define, search, appraise, synthesize, adapt, implement, and evaluate—are additionally broken down to describe the process of EBDM.</para>
+<figure id="fig-00001"><media alt="A pyramid shows different types of evidence, with quality of evidence increasing as you move up the pyramid. Starting at the bottom, the types of evidence are studies, synopses of single studies, syntheses, synopses of syntheses, summaries, and systems."><image mime-type="image/jpg" src="../../media/PH_Figure_11_01_002.png"/></media>
+<caption>The National Collaborating Centre for Methods and Tools (NCCMT) has outlined seven steps in the evidence-based decision-making process in public health. These steps include define, search, appraise, synthesize, adapt, implement, and evaluate. (See National Collaborating Centre for Methods and Tools, 2023a; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+<para id="para-00004">In addition to these steps, EBDM has fundamental characteristics nurses and health care providers must consider (Cincinnati Children’s Hospital Medical Center [CCHMC], 2023):</para>
+<list list-type="bulleted" id="list-00002">
+<item>Using the best available <term class="no-emphasis" id="term-00008">peer-reviewed information</term> to make decisions</item>
+<item>Using multiple forms of evidence</item>
+<item>Systematically utilizing data and information systems</item>
+<item>Employing program planning frameworks</item>
+<item>Optimizing community participation in decision-making and assessment, followed by a comprehensive evaluation</item>
+<item>Providing learned information to stakeholders and decision makers</item>
+<item>Implementing successful communication, scientific methods, common sense, and political concerns throughout each step</item>
+</list>
+<section id="sect-00003">
+<title>Defining the Problem</title>
+<para id="para-00005">The first step in the EBDM process is to clearly <term id="term-00009">define</term> the problem or question that needs to be addressed, thus identifying the concern. Questions to consider in this step include the following:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Who is the target group?</item>
+<item>Which problems need to be solved?</item>
+<item>What is the anticipated plan to implement these changes?</item>
+</list>
+<para id="para-00006">The concern is generally formatted to address the population, intervention, comparison, outcome, and time frame in the form of an answerable question or through the development of a <term id="term-00010">PICOT question</term>. [link]Table 11.1[/link] presents the breakdown of a PICOT question.</para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">P</emphasis></entry>
+<entry valign="top" align="left">Population</entry>
+<entry valign="top" align="left">Outlines the client or client population affected by the problem and with whom the nurse will be in contact. Populations may be defined in multiple ways, some of which include the following:<newline/> 
+<list list-type="bulleted" id="list-00004"><item>General population: population as a whole</item>
+<item>Specific community types: rural or urban dwelling</item>
+<item>Population-based descriptors: age, socioeconomic status, risk status, demographics, or literacy levels</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">I</emphasis></entry>
+<entry valign="top" align="left">Intervention</entry>
+<entry valign="top" align="left">Refers to the change or treatment that will be implemented for the outlined client (population).</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">C</emphasis></entry>
+<entry valign="top" align="left">Comparison</entry>
+<entry valign="top" align="left">Outlines the reference groups for whom the population in question will be compared. This would be a comparison for the chosen intervention.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">O</emphasis></entry>
+<entry valign="top" align="left">Outcome</entry>
+<entry valign="top" align="left">The result that the project will be studying or evaluating.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">T</emphasis></entry>
+<entry valign="top" align="left">Time</entry>
+<entry valign="top" align="left">The time interval in which this project will take place, such as when and for how long the intervention will be in place and then compared to the outlined control group.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>PICOT Question Breakdown</caption>
+</table>
+<para id="para-00007">Identifying each component of a PICOT question is necessary to formulate a clearly defined problem. This question will then guide the literature search and the steps in EBDM in public health. As previously noted, the population may include individuals, communities, or a larger population group. From those categories, the nurse must decide if the population will be further refined, such by age, literacy level, or socioeconomic status. Interventions may be a specific change or treatment but may also be viewed under an approach to health not previously used or studied in this specific population with the outlined concern. The comparison may be a different intervention, often the one currently in practice, or the absence of the proposed intervention. Outcomes will contain measurable results or the aftermath of the implemented intervention. Time outlines how long the intervention will be in place and/or how long outcomes will be measured. [link]Table 11.2[/link] provides example PICOT questions as well as the breakdown of the elements for each question.</para>
+<table class="vertically-tight" id="table-00002">
+<title/>
+<tgroup cols="6">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="5" colname="c5" colwidth="1*"/>
+<colspec colnum="6" colname="c6" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Examples</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Population</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Intervention</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Comparison</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Outcome</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Time</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Do early intervention programs provided between 14 and 16 years of age prevent underage drinking among adolescents who live in rural areas within the United States?</entry>
+<entry valign="top" align="left">Adolescents in rural areas within the United States</entry>
+<entry valign="top" align="left">Early intervention programs</entry>
+<entry valign="top" align="left">No early intervention programs</entry>
+<entry valign="top" align="left">Prevent underage drinking</entry>
+<entry valign="top" align="left">14–16 years of age</entry>
+</row>
+<row>
+<entry valign="top" align="left">For adults over age 60, does a daily 20-minute exercise regimen reduce the risk of hypertension compared with no daily exercise regimen over 3 years?</entry>
+<entry valign="top" align="left">Adults over age 60</entry>
+<entry valign="top" align="left">20-minute daily exercise regimen</entry>
+<entry valign="top" align="left">No daily exercise regimen</entry>
+<entry valign="top" align="left">Risk of hypertension</entry>
+<entry valign="top" align="left">3 years</entry>
+</row>
+<row>
+<entry valign="top" align="left">Are women ages 18–25 years who use intrauterine devices (IUDs) for contraception at an increased risk for developing blood clots compared to women 18–25 years who use oral contraception over 5 years?</entry>
+<entry valign="top" align="left">Women ages 18–25 years</entry>
+<entry valign="top" align="left">IUD contraception</entry>
+<entry valign="top" align="left">Oral Contraception</entry>
+<entry valign="top" align="left">Risk for blood clot development</entry>
+<entry valign="top" align="left">5 years</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Example PICOT Questions</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Searching the Literature</title>
+<para id="para-00008">The next step in the process, <term id="term-00011">searching</term>, involves reviewing the literature to examine what research is available to address the defined concern and additional data points, which should consider the population in question. A clearly identified question will be the foundation for nurses to know how to guide their evidence search. <link document="m00156">Section 11.2</link> of this chapter will further discuss where to find evidence-based interventions. Public health may utilize both qualitative and quantitative data or information as they both may apply to this subset of health care, and both may be used to help answer questions in public health. <term id="term-00012">Quantitative research</term> contains numbers and objective data to evaluate outcomes and determine results. Quantitative data are expressed by amounts in numerical terms. Often in public health, this is epidemiologic data. <term id="term-00013">Qualitative research</term> deals with nonnumerical data such as experiences, attitudes, and behaviors. Qualitative data are expressed in word form, cannot be quantified, and describe perspectives of individuals and populations. Another option for seeking information is a focus group. <term id="term-00014">Focus groups</term> are interviews conducted with small groups of participants who share similar traits or interests that will inform the current problem or issue in discussion. These groups are often used to gauge health beliefs, evaluate programs, and provide information fitting the needs assessment.</para>
+<para id="para-00009">A community <term id="term-00015">needs assessment</term> is an appraisal that identifies a community’s strengths and resources. The needs assessment gives reviewers a quick overview of existing systems and policies and areas that need improvement or additional resources. <link document="m00187">Assessment, Analysis, and Diagnosis</link> covers conducting a community needs assessment in more detail. Often a <term class="no-emphasis" id="term-00016">windshield survey</term> is part of the community assessment. This is the process of observing the community while driving or walking through it to obtain a visual overview. <link document="m00183">Creating a Healthy Community</link> discusses windshield surveys in more detail. An additional part of this needs assessment is identifying any possible community partners. Community partners are those individuals or organizations who are impacted by the project's evaluations and outcomes and thus are interested in the process. While selecting search modalities, health care providers should consider all public health angles, such as issues in the community context, community and political actions and preferences, research, and public health resources. These link closely with the NCCMT model for evidence-based decision-making as will be discussed further in Section 11.2. Finally, public health nurses may also obtain information regarding a population’s morbidity and mortality rates <link url="https://openstax.org/r/nchsnvss">through the National Vital Statistics System</link>. Public health care providers may also utilize public health surveillance to obtain data. The four types of broad categories for public health surveillance are noninfectious health conditions, infectious diseases, both infectious and noninfectious diseases and health conditions, and risk factors and exposures (Centers for Disease Control and Prevention [CDC], 2023a).</para>
+<para id="para-00010">While searching the literature, nurses must seek data that precisely notes the experiences and requirements of marginalized communities. Research and scientific work are driven, and thus inhibited, by the perspectives and biases of those who conduct the scientific work. Due to this, there are notable communities and populations that lack accurate representation within studies, scientific theories, policies, and fact statements. To gather accurate information regarding these marginalized communities, nurses should utilize disaggregated data, or data that has been further broken down into subcategories, such as gender or race, to evaluate health inequities. Additionally, nurses must have a full understanding of the <term class="no-emphasis" id="term-00017">social determinants of health</term> and how these apply to the root causes of inequitable health care access and availability. Ultimately, to identify disparities that may go otherwise unnoticed, data should be analyzed from an intersectional vantage point that recognizes the interdependence of different social identities such as gender, race, ethnicity, age, religious beliefs, developmental abilities and disabilities, and socioeconomic status.</para>
+</section>
+<section id="sect-00005">
+<title>Appraising the Literature</title>
+<para id="para-00011">While a significant amount of published research may be available for any given concern, the studies may not be of equal caliber. Critically <term id="term-00018">appraising</term>, or assessing each study for relevance and credibility, is necessary to ensure the information provided is meaningful, trustworthy, and relevant. Literature that is meaningful will be useful in some way and/or produce important information. Information is considered trustworthy based on its confirmability and the reviewer’s confidence in the believability of the information produced in the literature. Finally, relevance considers how pertinent the evidence is to the current problem and population. While there may be literature and evidence that provide valuable information, if the information is irrelevant to the topic in discussion or does not consider similar circumstances for the population, it may not be useful or applicable. This appraisal step should help nurses and other health care providers determine if the methods used in the selected studies or data points are strong enough to use in the problem-solving process. Once each source has been appraised for <term class="no-emphasis" id="term-00019">validity</term> and then reviewed, the information can be synthesized. <link document="m00156">Section 11.2</link> of this chapter will further discuss where to find evidence-based interventions, and <link document="m00157">Section 11.3</link> discusses evaluating the quality of evidence.</para>
+<para id="para-00012">In addition to appraising research articles themselves, all other forms of data should be appraised accordingly. Depending on the population, problem, and resources available, some sources may hold a greater weight based on the specific topic and community in question.</para>
+</section>
+<section id="sect-00006">
+<title>Synthesizing the Data</title>
+<para id="para-00013"><term id="term-00020">Synthesizing</term> the data involves compiling the information to determine what the research says about the concern/issue. The nurse synthesizing the articles and other data points should consider overlapping themes or messages from different sources. If the research offers conflicting messages, referring back to the appraisal step will be helpful in determining which may be more trustworthy or applicable to the current project. Those with strong levels of appraisal should hold more weight in decisions of application as they will have a deeper foundation. Additionally, in this step, health care providers should synthesize the information gathered from their other data sources to identify common themes or attributes of the community or client.</para>
+</section>
+<section id="sect-00007">
+<title>Adapting the Information</title>
+<para id="para-00014">The <term id="term-00021">adapting</term> step of this process involves determining if this synthesized information can apply to the client (which may be a single person, a family, a community, or a population) in discussion. The client will often be a whole community or population in public health. With that type of client, the interventions must work broadly, considering the size of the client. Referring to the synthesizing step, the nurse should identify actionable steps as possible interventions. In the adapting stage, nurses should consider whether these interventions will be successful or relevant to the client in question and/or if the intervention will need adaptation to work efficiently. Components to consider are the identified problem, the identified intervention, the level of client (single person, family, community, or population), and any other stakeholders that need to be considered, such as organizations or partners in the process. Even if an intervention is successful in one community, it may not necessarily be successful in another community. Community and population attributes should be considered to determine applicability across clients. These should be considered and discussed during the dissemination phase of the project. Limitations or additional factors to consider should be discussed to help others determine if the intervention(s) can be applied to their specific population.</para>
+</section>
+<section id="sect-00008">
+<title>Implementing the Intervention</title>
+<para id="para-00015">Once the information has been adapted and planned for the issue at hand, the <term id="term-00022">implementation</term> stage involves acting on this information and carrying out the determined plan. This takes place following the previous steps in which a possible intervention or action is identified, and brainstorming has taken place on how this may need to be adapted to the client in question. In this step, public health nurses will identify actionable and tangible steps for the process. In the public health sector, this often includes changes in practice, programs, or policies. This may mean revision of the previously designed practice, program, or policy, or this could be delivery of a new version of these components. The characteristics of the client are crucial at this step as this is a driving force in how interventions may be implemented. Within this plan, indicators of success will be determined by the measurement tools outlined for success.</para>
+<para id="para-00016">Thinking back to the appraisal step, recall that interventions may seem optimal to implement based on research conducted but may not be the best option for the current problem. For example, literature might state that frequent time away or vacation would benefit the mental health of teens and young adults. Yet this population may have limitations regarding financial means or transportation that would limit the feasibility of this intervention. While multiple strongly supported pieces of evidence may support the intervention, the expertise of the public health nurse would determine that this is not a feasible implementation for this population. If discussed in the adapt stage, this may be able to be altered to meet the needs of the local context. If not, this would not be an efficient intervention for the population.</para>
+</section>
+<section id="sect-00009">
+<title>Evaluating the Effectiveness of the Plan</title>
+<para id="para-00017"><term id="term-00023">Evaluation</term>, the final step in this process, entails determining the effectiveness of the implemented plan by determining if the plan accomplished what was intended and, if not, what may need to be changed moving forward. The previously determined indicators will be used as an objective measurement of success for the project. Once the effectiveness has been reviewed and evaluated, the team may then determine if they should continue with the intervention(s) as designed or adjust them based on the evaluation.</para>
+<note class="theory-action" id="note-00001">
+<title>The Importance of Evidence in Decision-Making</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/usingevidence"/>
+</media>
+<para id="para-00018">The NCCMT has created the video “Using Evidence in Public Health Decisions: Why It Matters” to emphasize why using evidence-informed decision-making is essential in public health. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00005">
+<item>How does EBDM impact financial decisions regarding implementation of health interventions?</item>
+<item>Discuss how EBDM can help build the relationship between health care providers and the public.</item>
+</list>
+</note>
+<para id="para-00019">Additionally, the information should be disseminated for use by other health care providers or systems. An essential step in all health care research is sharing results to benefit the population as a whole. Sharing information within the nursing community increases the scope of knowledge within the field and helps to ensure all parties stay up-to-date with policies, practices, programs, and interventions. This may also optimize the cost and quality of care by sharing what has or has not worked in the past. This eliminates multiple steps of trial and error regarding the same topic.</para>
+<note class="unfolding-casestudy" id="note-00002">
+<title>Part A</title>
+<para id="para-00020">Read the following scenario about Amari and Milo. Then answer the questions that follow.</para>
+<para id="para-00021">Recall from the scenario at the beginning of this chapter that Amari and Milo have noticed an increased rate of anxiety in teens within their community and that the interventions they have used previously are not eliciting the same results. To efficiently identify possible interventions for this population, they know their best option is to use evidence-based practice strategies and that they must first draft a PICOT question as the foundation for their EBP project.</para>
+<para id="para-00022">Amari and Milo develop the following PICOT question: <emphasis effect="italics">Does daily exercise have an impact on anxiety rates in adolescents compared to those who do not engage in daily exercise over three months?</emphasis></para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/COM_Ch11_Sec01_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/COM_Ch11_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+<section id="sect-00010">
+<title>Importance of Evidence-Based Decision-Making</title>
+<para id="para-00025">The intent of health care is to ultimately improve client outcomes with the goal of providing the most effective care available. The EBDM process increases the objectivity of decision-making and decreases its subjectivity. Historically, health care treatments and skills relied on wisdom passed from one person to another through the form of anecdotes and demonstrations, which may be unreliable. This exemplifies a 19th-century technique by American surgeon William Stewart Halsted called “see one, do one, teach one” (Ayub, 2022). Following this philosophy, nurses should see a skill or technique being completed by another nurse, perform this skill or technique themselves, and then teach a less experienced nurse how to do the skill as needed. While this technique has been relatively effective historically and the nursing field as a whole is based on collaboration and knowledge sharing, it has flaws. If the original nurse did not perform the skill safely based on the most recent evidence, any subsequent nurses would follow the same unsafe pattern. For example, if the first nurse demonstrating insertion of a peripheral intravenous line chooses to rip the finger off their glove to touch the vein site after cleaning the identified site, each subsequent nurse may follow this unsafe process, increasing infection risks to all clients moving forward based on this inappropriate protocol. Similarly, this process relies on each nurse’s memory and the efficacy of each nurse who follows, leading to many opportunities for subjective error. Furthermore, this practice is more difficult to implement on a larger scale such as public health nursing where there is often not an opportunity to directly view a technique.</para>
+<para id="para-00026">Thus, EBP and EBDM are more objective and concrete methods for finding relevant information and applying it accordingly to the current problem. In public health, EBDM is used to ensure the interventions are supported by <term class="no-emphasis" id="term-00024">data</term> and thus should be effective and the interventions reach the intended population (CCHMC, 2023). It also considers the available resources within the community. Additionally, the EBDM process provides substantial support for or against certain interventions instead of continuing to practice the way it has always been done for convenience. EBDM provides a more concrete and replicable process. According to NCCMT, evidence-based decision-making in public health should consider research, community health issues (with local context), community and political preference and actions, public health resources, and the public health expertise of decision makers (NCCMT, 2023a) ([link]Table 11.3[/link]). Though there may be more steps involved in EBDM than in historic methods of teaching and decision-making, this allows for the nurse to use informed and objective data to make the best and safest decision for the client (Erwin et al., 2020).</para>
+<table summary="cells merged vertically" id="table-00003">
+<title>Sources of Evidence</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Public Health Expertise</emphasis><newline/>
+ </entry>
+<entry valign="top" align="left" morerows="3">Available public health resources<newline/>
+Community and political preferences and actions<newline/>
+Available research findings<newline/>
+Community health issues and the local context</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Evidence-Based Decision-Making (NCCMT, 2023a)</caption>
+</table>
+<note class="theory-action" id="note-00003">
+<title>Evidence-Informed Decision-Making</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/evidenceinformed"/>
+</media>
+<para id="para-00027">The video “NCCMT - URE - Evidence Informed Decision Making - A Guiding Framework for Public Health” presents an overview of the EIDM model. It examines the five overlapping ovals depicted in the model as types of evidence used to inform decision-making. It uses the example of respiratory illness rates to show how two communities might use other sources of evidence to reach different evidence-informed decisions. Watch the video. Then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00006">
+<item>How might health inequities impact the research phase of the evidence-based decision-making process?</item>
+<item>Discuss how the unique sources of evidence discussed in the model overlap with one another and with public health expertise.</item>
+</list>
+</note>
+</section>
+<section id="sect-00011">
+<title>Tools to Support Evidence-Based Decision-Making</title>
+<para id="para-00028">To help with this complex process, multiple resources and tools are available to assist health care providers. A foundational understanding of the specific client, from a single person up to a whole population, is imperative to begin using these tools and resources. Though much of the information will be gathered from research, to align interventions, these tools must also connect to the designated population and the identified concern for them to prove any value in the decision-making process. Some tools and resources are designed to support clinical decisions, while others are aimed at working through the EBDM process.</para>
+<para id="para-00029">Clinical decision-making support tools are available to support clinical decisions. They are formatted as resources in which health care providers can quickly look up information on clinical practices, assessments, diagnostics, and treatments. One example is <term class="no-emphasis" id="term-00025">UpToDate</term>, which focuses on point-of-care utilizing EBP to make recommendations (Wolters Kluwer, 2023b). This tool provides information for all subspecialties of internal medicine to make this a user-friendly and broadly accepted tool. Another available tool is <term class="no-emphasis" id="term-00026">Lexicomp</term>, which houses detailed drug information in real time (Wolters Kluwer, 2023a). These tools can help health care providers at all levels make and discuss clinical decisions to determine what is currently in practice and help determine what may need to change.</para>
+<para id="para-00030">Just as there are support tools available to facilitate clinical decisions, many tools are available to assist with the multistep process of EBDM. Some tools available will help with the decision-making process to determine a searchable question, while others help with the organization and categorization of identified research articles. Resources to help users define the problem will focus on turning the identified concern into an answerable question and identifying key terms to guide an efficient search. Moving into search tools, these resources help users sift through data points and document results to track trends and highlighted usable factors. Tools for the appraisal step allow users to organize the data and appraise them accordingly. These tools have prompts and helpful formatting templates to keep appraised information organized. Synthesizing tools then help users pull out relevant information from their search and appraisal process. Adapting tools helps users evaluate the evidence for applicability and usability regarding their current concerns. Approaching the tactical aspect of the process, implementation tools help users plan for and carry out implementation based on their specific circumstance. Finally, evaluation tools and resources provide checklists of key aspects of EBDM and how to review the process that has taken place, starting at defining and moving through implementation (NCCMT, 2023b). To complete the process, there are tools that help the reflection process of the evaluation phase. For example, McMaster University’s Health Evidence website has multiple tools specifically designed for this process in the public health sector.</para>
+<note class="media-feature" id="note-00004">
+<title>Tutorial: How to Use healthevidence.org</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/healthevidence"/>
+</media>
+<para id="para-00031">McMaster University’s Health Evidence website offers tools for evidence-informed decision-making. Examples of tools include an EIDM checklist, a resource to guide, a search tracker, and search strategies for developing a PICOT. Watch the video about using their resources. Then answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00007">
+<item>What are the three main methods for searching within Health Evidence?</item>
+<item>Health Evidence is an online database that utilizes sources at which level of evidence to evaluate the effectives of public health interventions? Why is this evidence leveling important?</item>
+<item>Articles in this database are critically appraised and rated for quality. What rating system is used in this database?</item>
+</list>
+</note>
+<para id="para-00032">By utilizing these tools, nurses and other health care providers can make the complex process of EBDM more attainable by breaking these steps into manageable tasks.</para>
+</section>
+<section class="chapter-summary" id="sect-00012">
+<title>11.1 Evidence-Based Decision-Making</title>
+<para id="para-00033">Evidence-based practice and evidence-based decision-making are key resources to help accomplish health care goals. Evidence-based decision-making in public health is outlined by seven steps: define, search, appraise, synthesize, adapt, implement, and evaluate. The EBDM process allows for a more objective decision-making method. The first step, defining the problem, usually formatted as a PICOT question, leads the way for the rest of the process. Often, interventions outlined in research may not fit with the designated community and require adaptation. The NCCMT’s Model for evidence-based decision-making assists with this process.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>adapt</term> <meaning>a part of the EBDM process that determines if synthesized information can apply to the client (which may be a single person or a community) in discussion</meaning></definition>
+<definition id="def-00002"><term>appraise</term> <meaning>a part of the EBDM process that involves critically assessing each study for relevance and credibility to ensure the information provided is meaningful, trustworthy, and relevant</meaning></definition>
+<definition id="def-00003"><term>define</term> <meaning>a part of the EBDM process that clearly identifies the problem or question that needs to be addressed</meaning></definition>
+<definition id="def-00004"><term>evaluation</term> <meaning>a part of the EBDM process that determines the effectiveness of the implemented plan by deciding if it accomplished what was intended and, if not, what may need to be changed</meaning></definition>
+<definition id="def-00005"><term>evidence-based decision-making (EBDM)</term> <meaning>the process of using the most recent research and clinical practice experience to make the most optimal decisions regarding a policy, practice, and/or program</meaning></definition>
+<definition id="def-00006"><term>evidence-based practice (EBP)</term> <meaning>using the best available research, clinical experience, and client preferences to inform patient-care interventions and evaluation</meaning></definition>
+<definition id="def-00007"><term>focus groups</term> <meaning>interviews conducted with small groups of participants who have similar traits or interests; informs the current problem or issue in discussion</meaning></definition>
+<definition id="def-00008"><term>implementation</term> <meaning>a part of the EBDM process that involves acting on research information to carry out the determined plan</meaning></definition>
+<definition id="def-00009"><term>needs assessment</term> <meaning>an appraisal that identifies strengths and resources from the community and gives reviewers a quick overview of existing systems and policies and areas that need improvement or additional resources</meaning></definition>
+<definition id="def-00010"><term>PICOT question</term> <meaning>as part of the EBDM process, involves the problem or concern being formatted to address the population, intervention, comparison, outcome, and time frame in the form of an answerable question</meaning></definition>
+<definition id="def-00011"><term>qualitative research</term> <meaning>deals with nonnumerical data such as experiences, attitudes, and behaviors. Qualitative data are expressed in word form, cannot be quantified, and describe perspectives of individuals and populations.</meaning></definition>
+<definition id="def-00012"><term>quantitative research</term> <meaning>contains numbers and objective data to evaluate outcomes and determine results. Quantitative data are expressed by amount in numerical terms.</meaning></definition>
+<definition id="def-00013"><term>search</term> <meaning>a part of the EBDM process that involves reviewing the literature to examine what research is available to address a concern</meaning></definition>
+<definition id="def-00014"><term>synthesize</term> <meaning>a part of the EBDM process that involves compiling information, looking for specific trends in datato determine what the research says about the concern or issue</meaning></definition>
+</glossary>
 </document>

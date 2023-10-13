@@ -6,8 +6,198 @@
     <md:uuid>5141ae89-28ce-4c33-9d34-f89bd82444bf</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Identify examples of databases and registries to locate research and evidence-based prevention services.</item>
+<item>Identify evidence-based programs that contribute to meeting core public health functions and the 10 Essential Public Health Services.</item>
+<item>Understand how to use data to inform decision-making in public health nursing.</item>
+</list>
+</section>
+<para id="para-00002">Once nurses and other health care professionals understand what EBP and EBDM are and when to use these methods, the next steps are to determine where to find <term class="no-emphasis" id="term-00001">evidence-based practice interventions</term>. The <term class="no-emphasis" id="term-00002">PICOT question</term> is the landmark to use when searching for relevant evidence. This section discusses the different databases and registries nurses may use to find research and information to identify evidence-based prevention services. Additionally, the chapter discusses the <term class="no-emphasis" id="term-00003">10 Essential Public Health Services</term>, <term class="no-emphasis" id="term-00004">social determinants of health</term>, and public health functions in consideration of the core public health functions. In addition to databases of literature available to use for research, additional sources of information or guidance include librarians, advanced practice nurses, nursing faculty, nurse educators, risk managers, and professional nursing societies.</para>
+<section id="sect-00002">
+<title>Databases and Registries</title>
+<para id="para-00003">With the vast amount of research available, it is crucial to be efficient while searching for relevant evidence. <term id="term-00005">Databases</term>, collections of information organized in a systematic method, are helpful during the process of searching for sources of existing literature related to the topic of one’s inquiry. Multiple databases are available to assist nurses and other health care providers through the decision-making process of selecting evidence-based interventions. [link]Table 11.4[/link] provides examples of commonly used and reliable databases.</para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Database</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Agency for Healthcare Research and Quality (AHRQ) <newline/>
+<link url="https://openstax.org/r/ahrqgov">https://www.ahrq.gov/</link></entry>
+<entry valign="top" align="left">Includes evidence summaries and clinical guidelines</entry>
+</row>
+<row>
+<entry valign="top" align="left">Cumulative Index to Nursing and Allied Health Literature (CINAHL) Complete<newline/>
+<link url="https://openstax.org/r/ebsco">https://www.ebsco.com/products/research-databases/cinahl-complete</link></entry>
+<entry valign="top" align="left">Includes scholarly nursing journal articles</entry>
+</row>
+<row>
+<entry valign="top" align="left">Cochrane Library<newline/>
+<link url="https://openstax.org/r/cochranelibrary">https://www.cochranelibrary.com/</link></entry>
+<entry valign="top" align="left">Noted as a core source for EBP. Includes systematic reviews that are regularly updated and clinical trials.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Joanna Briggs Institute EBP Database<newline/>
+<link url="https://openstax.org/r/jbiglobal">https://jbi.global/ebp</link></entry>
+<entry valign="top" align="left">Database specifically designed to house EBP articles. Includes systematic review, recommended practices, evidence summaries, and tools that can be used in professional EBP.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Medline with Full Text <newline/>
+<link url="https://openstax.org/r/ebscoproducts">https://www.ebsco.com/products/research-databases/medline-full-text</link></entry>
+<entry valign="top" align="left">Includes articles covering biomedical and health fields. Specifically noted for public health and public policy.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PubMed (National Library of Medicine)<newline/>
+<link url="https://openstax.org/r/pubmed">https://pubmed.ncbi.nlm.nih.gov/</link></entry>
+<entry valign="top" align="left">Provided by the National Library of Medicine. Specifically noted for reviews of clinical effectiveness.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Commonly Used Databases</caption>
+</table>
+<para id="para-00004">In addition to databases, registries are available to provide guidance and information. <term id="term-00006">Registries</term> are collections of information regarding people and typically outline a specific condition or diagnosis (National Institutes of Health [NIH], 2023). [link]Table 11.5[/link] provides examples of commonly used registries and resources for nurses.</para>
+<table class="vertically-tight" id="table-00002">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Registries</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Description/ Link</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Alzheimer’s Prevention Registry</entry>
+<entry valign="top" align="left">Links researchers with those participating in Alzheimer’s studies and educating the public by sharing factual and reliable information <newline/>
+<link url="https://openstax.org/r/endalznow">https://www.endalznow.org</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">Autoimmune Registry</entry>
+<entry valign="top" align="left">Provides a main hub for statistics, research, and client data for all autoimmune diseases. The goal of this registry is to support research and reduce time of diagnosis for clients all while focusing on establishing appropriate funding for autoimmune disease treatment.<newline/> 
+<link url="https://openstax.org/r/autoimmuneregistry">https://www.autoimmuneregistry.org</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">Breast Cancer Surveillance Consortium</entry>
+<entry valign="top" align="left">Provides a collaborative network of breast imaging and historic registries to improve screening protocols and overall outcomes in the United States <newline/>
+<link url="https://openstax.org/r/bcsc">https://www.bcsc-research.org</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">Clinical Trials Public Data Share Website</entry>
+<entry valign="top" align="left">Hosted by the National Institute on Drug Abuse (NIDA), which shares completed trials with investigators and the public. The goal of this registry is to share information and promote new research.<newline/>
+<link url="https://openstax.org/r/datashare">https://datashare.nida.nih.gov</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">Mother to Baby</entry>
+<entry valign="top" align="left">Provides evidence-based information regarding the safety of drugs and other substances on women who are pregnant or breastfeeding. While information on exposure to chemicals, herbs, and household products is provided here, more specific observational research is conducted and shared regarding medications and vaccines. <newline/>
+<link url="https://openstax.org/r/mothertobaby">https://mothertobaby.org/our-work/</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">National Amyotrophic Lateral Sclerosis (ALS) Registry</entry>
+<entry valign="top" align="left">Compiles research and information provided by clients who have ALS. Direct links to current clinical trials are provided for clients.<newline/>
+<link url="https://openstax.org/r/generalpublic">https://www.cdc.gov/als/GeneralPublic_AboutRegistry.html</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">The National Institutes of Health (NIH) Registry List</entry>
+<entry valign="top" align="left">The National Institutes of Health (NIH) has compiled a list of over 50 registries available for reference. Many of these registries are diagnosis or population specific. This is an excellent resource for nurses and other health care providers seeking specific research to support their EBP intervention.<newline/>
+<link url="https://openstax.org/r/health">https://www.nih.gov/health-information/nih-clinical-research-trials-you/list-registries</link></entry>
+</row>
+<row>
+<entry valign="top" align="left">The Community Guide</entry>
+<entry valign="top" align="left">A collection of evidence-based findings from the Community Preventive Services Task Force. This informative guide helps nurses and other health care providers find interventions to prevent disease and improve health within businesses, schools, health care organizations, communities, or states.<newline/>
+<link url="https://openstax.org/r/communityguide">https://www.thecommunityguide.org</link></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Commonly Used Registries</caption>
+</table>
+<note class="healthy-people" id="note-00001">
+<para id="para-00005"><link url="https://openstax.org/r/healthypeopletools">Evidence-Based Practices Resource Center</link></para>
+<para id="para-00006">As an additional means of finding EBP tools and information, the Healthy People 2030 initiative offers an EBP resource center to support health care providers, public health professionals, and policymakers in incorporating EBP interventions into their communities. These resources center on prevention, treatment, and support services for recovery in substance abuse and mental health disorders.</para>
+</note>
+</section>
+<section id="sect-00003">
+<title>Data to Inform Decision-Making in Public Health</title>
+<para id="para-00007">As discussed previously, public health nurses and other health care providers must consider multiple data points while searching for background and support, including <term class="no-emphasis" id="term-00007">surveillance</term>, <term class="no-emphasis" id="term-00008">interviews</term>, <term class="no-emphasis" id="term-00009">focus groups</term>, and qualitative or quantitative research articles. While considering this information, nurses must also consider the makeup of their community and the overall functions of public health. The <term class="no-emphasis" id="term-00010">World Health Organization (WHO)</term> is the United Nations agency dedicated to global safety and health. The WHO provides multiple sources to help nurses and other health care professionals achieve their public health goals. Within these resources, the WHO has created <term class="no-emphasis" id="term-00011">Essential Public Health Functions (EPHF)</term> for population health, deemed an indispensable set of actions to achieve the goal of public health. These include the following (WHO, 2021, p. xii):</para>
+<list list-type="enumerated" number-style="arabic" id="list-00002">
+<item>Monitoring and evaluating the population’s health status, health service utilization, and surveillance of risk factors and threats to health</item>
+<item>Public health emergency management</item>
+<item>Ensuring effective public health governance, regulation, and legislation</item>
+<item>Supporting efficient and effective health systems and multisectoral planning, financing, and management for population health</item>
+<item>Protecting populations against health threats, including environment and occupational hazards, communicable disease threats, food safety, and chemical and radiation hazards</item>
+<item>Promoting prevention and early detection of diseases, including noncommunicable and communicable diseases</item>
+<item>Promoting health and well-being and actions to address the wider determinants of health and inequity</item>
+<item>Ensuring community engagement, participation, and social mobilization for health and well-being</item>
+<item>Ensuring adequate quantity and quality of the public health workforce</item>
+<item>Ensuring quality of and access to health services</item>
+<item>Advancing public health research</item>
+<item>Ensuring equitable access to and rational use of essential medicines and other health technologies</item>
+</list>
+<para id="para-00008">Overall, the function of public health can be summarized as monitoring the health status of the community to identify problems and hazards related to health, investigate these identified problems and hazards, and educate and empower people about the problems and hazards and what to do for optimal health (WHO, 2023). To do so, public health nurses should use their multiple forms of data to gather the best available information and apply this to program planning frameworks. This evidence may be research articles, <term class="no-emphasis" id="term-00012">community needs assessments</term>, and statistics on medical risk, morbidity, mortality, and the social determinants of health.</para>
+<para id="para-00009">Along with the EPHF, public health services must also be considered in decision-making. Public health is a sector of health care that seeks to protect and enhance the health of people and the communities in which they live, work, and play. To achieve this goal, the CDC has outlined 10 Essential Public Health Services (EPHS) that describe the activities all communities should undertake (CDC, 2023b); see <link document="m00108">Foundations of Public/Community Health</link> for more information. Originally published in 1994, the EPHS framework was revised in 2020. Foundationally, the 10 EPHS actively promote systems, policies, and overall environments to enable optimal health for all who seek to eradicate <term class="no-emphasis" id="term-00013">barriers</term> that have resulted in <term class="no-emphasis" id="term-00014">health inequities</term>. Examples of possible barriers to equity in health care are those based on socioeconomic status, education level, age, sex, disability, location, race, and ethnicity. The 10 EPHS strongly state that all members of the community should have just and fair opportunity to attain optimal health and overall well-being. The 10 EPHS center on monitoring the status of the population’s health, identifying problems for the population, and educating people accordingly about these problems. The foundations of public health center on creating policies, programs, and interventions to address these problems. Additionally, these steps help outline a pathway for nurses and other health care providers to increase equity across the population by building support and organizations to support a diverse population of clients and health care providers.</para>
+<para id="para-00010">Additional considerations within the decision-making process are the social determinants of health (SDOH) and how they may impact these functions. See <link document="m00140">Social Determinants Affecting Health Outcomes</link> for more information. The SDOH ultimately contribute to personal and community-wide disparities and inequities. For example, if clients lack access to stores with nutrient-rich foods or the economic means to obtain them, they are less likely to make healthier food choices, which will then likely increase their risk of conditions such as type 2 diabetes, obesity, metabolic disorders, or heart disease. This will impact their quality of life as well as life expectancy. In the decision-making process for new programs, policies, or interventions, nurses must consider the SDOH within their community.</para>
+<para id="para-00011">All of these factors must be considered in the decision-making process as they impact one another and how interventions may ultimately succeed or fail. While a public health nurse may go through the EBDM process and eventually implement a successful program in their specific community, this may not translate to other communities or populations. For example, if a nurse implements a program or intervention in their community that relies heavily on whole community participation in one physical space, this may not work well in a community where members do not feel safe or where distance and transportation are a concern. Examples of programs that help meet these public health functions are cancer prevention and screenings, behavioral risk factor surveillance systems, injury prevention campaigns, sudden infant death syndrome (SIDS) education and prevention programs, and smoking cessation campaigns.</para>
+</section>
+<section id="sect-00004">
+<title>Ethical and Equitable Research</title>
+<para id="para-00012">If nurses cannot find the information they need, they must do their own research or data extraction to inform their decisions. It is not uncommon for public health nurses to fail to find information fitting their population as the literature often has large gaps in representation. A significant factor to consider here is <term id="term-00015">research ethics</term>. Nurses should already be familiar with the ethical codes that govern nursing practice. These ethical standards direct nursing conduct and allow for trust within the community. Similarly, there are ethical considerations related to research and those who conduct it. Research ethics employ fundamental principles guiding the design and implementation of research. These ethics center on respect for society and participants, resources, and regulation of research to prevent misconduct. These are especially important when research impacts human or animal subjects directly. In this process, there are multiple steps and checkpoints researchers need to make to follow safe channels.</para>
+<para id="para-00013">The emphasis on research ethics can be traced to the <term class="no-emphasis" id="term-00016">National Research Act of 1974</term>, which created the <term class="no-emphasis" id="term-00017">National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research</term>. This commission was formed to identify basic ethical principles that should inform the conduct of biomedical and behavioral research involving human subjects. It was also charged with developing guidelines to ensure that such research is conducted in accordance with those principles (CDC, 2021). The impetus for the law and commission was the government’s discovery of unethical research and practices conducted during the U.S. Public Health Service’s Syphilis Study, known as the <term class="no-emphasis" id="term-00018">Tuskegee Syphilis Study</term>. The aim of the study was to evaluate the natural course of untreated syphilis in Black males. Participants were not informed of the study’s true nature and thus did not give informed consent. Additionally, years into the study, penicillin became available as a treatment for syphilis yet was not offered to the men in the study (CDC, 2022; Brandt, 1978). In 1976, the commission published the <link url="https://openstax.org/r/ohrpregulations"><term class="no-emphasis" id="term-00019">Belmont Report</term></link> to outline principles aimed at protecting subjects in research studies and/or clinical trials. This report outlines three basic ethical principles as well as applications for these principles. These principles include respect for persons, beneficence, and justice. The applications include informed consent, assessment of risk and benefits, and selection of subjects (U.S. Department of Health and Human Services [USDHHS], n.d.). Together, these principles work to protect participants from harm, maintain their autonomy, and distribute benefits from the research. It is important for nurses in their public health setting to obtain information regarding these steps and follow them accordingly. This may look different depending on the community setting and level of research. In addition to research ethics, <term class="no-emphasis" id="term-00020">equity</term> in research is a crucial aspect to consider. Health equity means allowing everyone to have a fair and just opportunity to attain their highest level of health. As public health considers a group of people or a community as a whole, there are many facets to consider while seeking equity of care.</para>
+<note class="healthy-people" id="note-00002">
+<para id="para-00014"><link url="https://openstax.org/r/priorityareashealth">Health Equity in Healthy People 2030</link></para>
+<para id="para-00015">As Healthy People has evolved over the decades to reflect the most current science and addresses the latest public health priorities, it has strengthened its focus on health equity (USDHHS, 2023b, para.1). To find out more about Health Equity within Health People 2030, click on the link above and explore.</para>
+</note>
+<para id="para-00016">Equity in health research specifically means all who are affected by research and/or who may benefit from its outcomes should have an equal opportunity to contribute to the research. These equity concerns can exacerbate already-existing health dipartites. Nurses must consider their role in protecting the population within research and promoting equity in research to better serve their communities. Unfortunately, nurses and other health care providers have historically participated in unethical research and trials, leading to an even stronger urge to eliminate this in the future. One historical example is the participation of nurses and doctors in the ill-treatment and execution of tens of thousands of German citizens who were mentally, physically, and emotionally ill both before and during the <term class="no-emphasis" id="term-00021">Holocaust</term> (Copeland, 2021). Another example is the role public health nurse Eunice Rivers Laurie played in the previously mentioned Tuskegee Syphilis Study conducted from 1932 to 1972. Rivers worked for the study, forming a relationship with the men, providing them with transportation and hot meals, and giving them noneffective treatments. As a Black nurse, she was trusted by the men and provided continuity of care for the duration of the study (Brandt, 1978).</para>
+<note class="media-feature" id="note-00003">
+<title>Interview with Tuskegee Study Nurse Eunice Rivers Laurie</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/player"/>
+</media>
+<para id="para-00017">This 1972 interview from National Public Radio (NPR) features <term class="no-emphasis" id="term-00022">Eunice Rivers Laurie</term>, a public health nurse who worked for the Tuskegee Syphilis Study for 39 years. Laurie discusses her experience working with patients and answers questions about what patients were told. Listen to the interview, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>What was Nurse Laurie’s role as a public health nurse in the Tuskegee Syphilis Study?</item>
+<item>Why were the men in the study not told they had syphilis, according to Nurse Laurie?</item>
+<item>If you had an opportunity to ask Nurse Laurie about her experience in the Tuskegee Syphilis Study, what would you ask her?</item>
+</list>
+</note>
+<para id="para-00018">Research equity in health care is imperative to improve community health and promote social change. Diverse perspectives and backgrounds must be found and utilized in research to broadly provide effective and efficient care to all. Additionally, health interventions and policies are likely to fail to meet the needs of marginalized communities if diverse populations and perspectives are not utilized. Due to the <term class="no-emphasis" id="term-00023">biases</term> and perspectives of those conducting research combined with the historical lack of focus on marginalized communities in health care, there are notable gaps in information and thus solutions for these populations. Researchers must identify biases within the data they are using to support their asked question as well as the power dynamics at each step of the process to support those who may otherwise be overlooked. Accessibility must be considered within each step of the process regarding appropriate education and information sharing per population. This may mean catering to <term class="no-emphasis" id="term-00024">health literacy</term> level, cultural perspectives, and/or resource availability. Foundationally, participants should receive fully transparent information regarding the intent of the research and how this information will be used. Informed consent incorporates fully transparent direction with the option to opt out at any point. As trusted care providers, nurses have a responsibility to advocate for ethical and equitable research. They have a duty to question practices they feel are not following ethical or equitable standards as well as seek to rectify these gaps in research and care. They also have a duty to obtain proper approval before conducting any of their own research and to report any researchers who violate the rights of participants.</para>
+<note class="media-feature" id="note-00004">
+<title>What is public health ethics and why is it important?</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/publichealthethics"/>
+</media>
+<para id="para-00019">The video “What is public health ethics and why is it important?” reviews basic concepts related to public health ethics. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00004">
+<item>What are the four principles of medical ethics?</item>
+<item>What distinguishes public health ethics from medical ethics?</item>
+<item>Why do public health and community health nurses need to be aware of issues related to public health ethics?</item>
+</list>
+</note>
+<note class="unfolding-casestudy" id="note-00005">
+<title>Part B</title>
+<para id="para-00020">Amari and Milo have developed the following PICOT question: <emphasis effect="italics">Does daily exercise have an impact on anxiety rates in adolescents compared to those who do not engage in daily exercise over three months?</emphasis> They are now ready to move on to the next step of the evidence-based decision-making process. Answer the following questions based on the case information provided in the chapter thus far.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00021"><link class="os-embed" url="#exercise/COM_Ch11_Sec01_UCSQ3"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00022"><link class="os-embed" url="#exercise/COM_Ch11_Sec02_UCSQ4"/></para></problem></exercise>
+</note>
+</section>
+<section class="chapter-summary" id="sect-00005">
+<title>11.2 Where to Find Evidence-Based Interventions</title>
+<para id="para-00023">Databases and registries are potential sources of reliable, evidence-based interventions. Additional frames of reference include the WHO’s Essential Public Health Functions (EPHF) and the CDC’s 10 Essential Public Health Services (EPHS). Research ethics are fundamental principles guiding the design and implementation of research. Nurses must consider their role in protecting the population within research and promoting equity in research to better serve their communities.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>database</term> <meaning>collection of information organized in a systematic method that is helpful during the process of searching for sources of existing literature related to the topic of one’s inquiry</meaning></definition>
+<definition id="def-00002"><term>registries</term> <meaning>collections of information regarding people, typically outlining a specific condition or diagnosis</meaning></definition>
+<definition id="def-00003"><term>research ethics</term> <meaning>fundamental principles guiding the design and implementation of research centering on respect for society and participants, resources, and regulation of research to prevent misconduct</meaning></definition>
+</glossary>
 </document>
