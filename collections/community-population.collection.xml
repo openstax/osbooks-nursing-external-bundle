@@ -77,7 +77,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Policies and Regulatory Conditions Impacting Access, Cost, and Quality</md:title>
+          <md:title>Policies and Regulatory Conditions Impacting Health Outcomes</md:title>
           <col:content>
             <col:module document="m00135"/>
             <col:module document="m00136"/>
@@ -98,7 +98,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Health Disparities and Inequities</md:title>
+          <md:title>Health Disparities</md:title>
           <col:content>
             <col:module document="m00146"/>
             <col:module document="m00147"/>
@@ -285,7 +285,7 @@
       <md:title>Caring for Populations and Communities</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Health Promotion and Maintenance across the Lifespan</md:title>
+          <md:title>Health Promotion and Maintenance Across the Lifespan</md:title>
           <col:content>
             <col:module document="m00320"/>
             <col:module document="m00321"/>
@@ -318,7 +318,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Caring across Practice Settings</md:title>
+          <md:title>Caring Across Practice Settings</md:title>
           <col:content>
             <col:module document="m00338"/>
             <col:module document="m00339"/>
