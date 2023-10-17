@@ -463,7 +463,7 @@ See local health department websites for local community health assessments.</en
 <tbody>
 <row>
 <entry valign="top" align="left">People:<newline/>
-<list id="list-00051"><item>Who are the people within the community?</item></list></entry>
+  <list list-type="bulleted" bullet-style="none" id="list-00051"><item>Who are the people within the community?</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00046"><item>Demographics and vital statistics (size and density of population, age, gender, race, ethnicity, income, education level, household makeup)</item>
 <item>Health indicators and health behaviors</item>
 <item>Morbidity and mortality patterns (leading causes of death and disability)</item>
@@ -471,7 +471,7 @@ See local health department websites for local community health assessments.</en
 </row>
 <row>
 <entry valign="top" align="left">Place:<newline/>
-<list id="list-00052"><item>Where is the community?</item>
+  <list list-type="bulleted" bullet-style="none" id="list-00052"><item>Where is the community?</item>
 <item>What is the physical environment?</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00047"><item>Geographical boundaries</item>
 <item>Distance and relation to other communities</item>
@@ -481,7 +481,7 @@ See local health department websites for local community health assessments.</en
 </row>
 <row>
 <entry valign="top" align="left">Community systems:<newline/>
-<list id="list-00053"><item>What services and resources are available?</item></list></entry>
+  <list list-type="bulleted" bullet-style="none" id="list-00053"><item>What services and resources are available?</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00048"><item>Safety (crime, police, fire, EMS, sanitation, laws)</item>
 <item>Transportation</item>
 <item>Politics and government (government buy-in and focus on health)</item>
