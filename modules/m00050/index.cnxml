@@ -150,8 +150,8 @@
   </row>
   <row>
   <entry valign="top">Hypertensive</entry>
-  <entry valign="top">> 129 mmHg</entry>
-  <entry valign="top">Or > 80 mmHg</entry>
+  <entry valign="top">&gt; 129 mmHg</entry>
+  <entry valign="top">Or &gt; 80 mmHg</entry>
   </row>
   </tbody>
   </tgroup>
@@ -184,7 +184,7 @@
   <entry/>
   <entry valign="top">&lt; 200</entry>
   <entry valign="top">200-239</entry>
-  <entry valign="top">> 239</entry>
+  <entry valign="top">&gt; 239</entry>
   <entry/>
   </row>
   <row>
@@ -194,7 +194,7 @@
   <entry/>
   <entry valign="top">130-159</entry>
   <entry valign="top">160-189</entry>
-  <entry valign="top">> 189</entry>
+  <entry valign="top">&gt; 189</entry>
   </row>
   <row>
   <entry valign="top">High-density lipids (HDL) (“good” cholesterol)</entry>
@@ -203,7 +203,7 @@
   <entry valign="top">&lt; 150</entry>
   <entry valign="top">150-199</entry>
   <entry valign="top">200-499</entry>
-  <entry valign="top">> 499</entry>
+  <entry valign="top">&gt; 499</entry>
   </row>
   </tbody>
   </tgroup>
