@@ -27,7 +27,7 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">KHCFBP Goal</span><newline/>
+<entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text">KHCFBP Goal</span><newline/>
 Increase physical activity of adults, adolescents, and children through biking.<newline/>
 Increase adult, adolescent, and child knowledge, skill, confidence, and safety associated with biking.</entry>
 </row>
@@ -54,13 +54,7 @@ Increase adult, adolescent, and child knowledge, skill, confidence, and safety a
 <entry valign="top" align="left">By August 31, 2018, distribute one bike and one bike helmet to each program participant.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Outcome Objectives*</emphasis><newline/>
-*Use baseline data if possible.<newline/>
-The KHCFBP was a new program, so no baseline data were available for short-term and intermediate objectives.</entry>
-<entry valign="top" align="left"/>
-</row>
-<row>
-<entry valign="top" align="right"><emphasis effect="bold">Short-term</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Short-term Outcome Objectives*</emphasis></entry>
 <entry valign="top" align="left">By the end of each session (July 14, 2018, or August 25, 2018), increase participant bike safety knowledge from pre-program to post-program.</entry>
 </row>
 <row>
@@ -68,7 +62,7 @@ The KHCFBP was a new program, so no baseline data were available for short-term 
 <entry valign="top" align="left">By the end of each session (July 14, 2018, or August 25, 2018), attain a positive participant view of the bike program.</entry>
 </row>
 <row>
-<entry valign="top" align="right"><emphasis effect="bold">Intermediate</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Intermediate Outcome Objectives*</emphasis></entry>
 <entry valign="top" align="left">By 30 days post-program (August 13, 2018, or September 24, 2018), increase participant bike helmet use from pre-program.</entry>
 </row>
 <row>
@@ -80,9 +74,7 @@ The KHCFBP was a new program, so no baseline data were available for short-term 
 <entry valign="top" align="left">By 30 days post-program (August 13, 2018, or September 24, 2018), increase participant physical activity from pre-program.</entry>
 </row>
 <row>
-<entry valign="top" align="right"><emphasis effect="bold">Long-term</emphasis><newline/>
-*Physical activity was chosen in this case because biking frequency is not measured in county community health assessment.</entry>
-<entry valign="top" align="left">By August 31, 2023, increase physical activity of Hardin County adults from 30 percent meeting national physical activity goals of at least 30 minutes on five or more days per week to at least 33 percent.</entry>
+<entry valign="top" align="right"><emphasis effect="bold">Long-term Outcome Objectives*</emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="left"/>
@@ -98,13 +90,14 @@ The KHCFBP was a new program, so no baseline data were available for short-term 
 </row>
 </tbody>
 </tgroup>
-<caption>Examples of the KHCFBP’s Process Objectives and Short-Term, Intermediate, and Long-Term Outcome Objectives</caption>
+<caption>Examples of the KHCFBP’s Process Objectives and Short-Term, Intermediate, and Long-Term Outcome Objectives<newline/>
+*Use baseline data if possible. The KHCFBP was a new program, so no baseline data were available for short-term and intermediate objectives.</caption>
 </table>
 </section>
 <section id="sect-00003">
 <title>Writing SMART Objectives</title>
 <para id="para-00005">The <term class="no-emphasis" id="term-00005">SMART</term> method is one approach to ensure that the objectives of community health programs are well-written. Well-written objectives answer “WHO is going to do WHAT, WHEN, and TO WHAT EXTENT?” (DHDSP, 2017, p. 2). The SMART method is used to determine whether the program has achieved what it intended (see <link target-id="table-00001" document="m00195"/>).</para>
-<table class="vertically-tight" id="table-00001">
+<table class="alternate-shading" id="table-00001">
 <title/>
 <tgroup cols="3">
 <tbody>
@@ -137,7 +130,7 @@ The KHCFBP was a new program, so no baseline data were available for short-term 
 </tgroup>
 <caption>Objectives Using the SMART Approach</caption>
 </table>
-<para id="para-00006">The nurse and program team use <term class="no-emphasis" id="term-00006">baseline data</term> to determine change, so it is included within the objective. Baseline data can be local information, such as data gathered during community health assessment, or state or national information, such as data within state health assessment reports, national health data sites, or Healthy People 2030. <link document="m00187">Assessment, Analysis, and Diagnosis</link> discusses methods for gathering baseline data. At times, baseline data is not available. In those instances, it should be stated that baseline data will be gathered as a first activity of the program (DHDSP, 2017).</para>
+<para id="para-00006">The nurse and program team use <term class="no-emphasis" id="term-00006">baseline data</term> to determine change, so it is included within the objective. Baseline data can be local information, such as data gathered during community health assessment, or state or national information, such as data within state health assessment reports, national health data sites, or Healthy People 2030. <link document="m00187">Assessment, Analysis, and Diagnosis</link> discusses methods for gathering baseline data. When baseline data is not available, it should be stated that baseline data will be gathered as a first activity of the program (DHDSP, 2017).</para>
 <para id="para-00007">The nurse and program team determine relevancy and reasonableness by gathering evidence for program activities. Literature, best practice, and theory provide rationale that the objective, and activities stemming from the objective, directly lead to change (DHDSP, 2017). DHDSP (2017) has developed a <link url="https://openstax.org/r/cdcprograms">guide for writing SMART objectives</link> that can be used by the nurse and program team. </para>
 </section>
 <section id="sect-00004">
@@ -153,7 +146,7 @@ The KHCFBP was a new program, so no baseline data were available for short-term 
 <para id="para-00011">The nurse and program team determine program goals and objectives and search for potential evidence-based strategies to meet objectives before creating the program <term id="term-00011">action plan</term>. An action plan provides concrete steps of strategy implementation to achieve program goals and objectives. A written action plan improves efficiency and accountability, helps the team ensure all program details are considered, and provides credibility for program strategies. An action plan should be complete, communicating every step of the program implementation and plan for evaluation; clear; and current. The action plan is a work in progress and may be revised as resource availability and community needs change. The team may also modify the action plan if processes and activities are not working as planned. </para>
 <para id="para-00012">The action plan includes health promotion and disease prevention <term class="no-emphasis" id="term-00012">interventions</term> based on assessment data, health behavioral change and health promotion theories, relevant literature, and input from community members, partners, and the target population (Fernandez et al., 2019). The team writes action steps for each program objective and includes information regarding what intervention will occur, who will carry it out, when the intervention will take place and for how long, what resources are needed to carry out interventions, and what communication should occur (CDC, 2013). According to Issel and Wells (2018), the nurse and program team should choose interventions that</para>
 <list list-type="bulleted" id="list-00002">
-<item>are <term class="no-emphasis" id="term-00013">evidence-based</term> and have been proven to reduce the identified health problem;</item>
+<item>are evidence-based and have been proven to reduce the identified health problem;</item>
 <item>are tailored to the target population, including cultural and linguistic appropriateness, learning needs, and motivation level;</item>
 <item>lead to improved health outcomes;</item>
 <item>are flexible with the ability to adjust activities to the participants’ needs;</item>
