@@ -22,7 +22,7 @@
 <note class="media-feature" id="note-00001">
 <title>The Ottawa Charter</title>
 <media alt="atoms_isotopes">
-<iframe width="560" height="315" src="https://openstax.org/r/healthpromotion"/>   
+<iframe width="560" height="315" src="https://openstax.org/r/healthpromotion"/>
 </media>
 <para id="para-00004">This video describes the Ottawa Charter, a landmark document that was influential in providing guidance to the goals and concepts of health promotion for public and population health programs worldwide.</para>
 <para id="para-00005">Watch the video, and then respond to the following questions:</para>
@@ -38,6 +38,9 @@
 <table class="vertically-tight" id="table-00001">
 <title/>
 <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis>Stage</emphasis></span></entry>
@@ -81,8 +84,12 @@
 <title>Levels of Prevention</title>
 <para id="para-00008">The five levels of prevention—<term class="no-emphasis" id="term-00008">primordial</term>, <term class="no-emphasis" id="term-00009">primary</term>, <term class="no-emphasis" id="term-00010">secondary</term>, <term id="term-00011">tertiary</term>, and quaternary—described in <link document="m00108">Foundations of Public/Community Health</link> correspond to the five stages of disease described in <link target-id="table-00001" document="m00180"/>. Combined use of prevention strategies in a community at the macro-level (or upstream) can lead to the prevention of individual (micro-level, or downstream) complications of an exhibited disease (Kisling &amp; Das, 2022). <link target-id="table-00002" document="m00180"/> looks at the levels of prevention as they correspond to the disease stages.</para>
 <table class="vertically-tight" id="table-00002">
-<title>Five Levels of Prevention</title>   
+<title>Five Levels of Prevention</title>
 <tgroup cols="4">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis>Levels of Prevention</emphasis></span></entry>
@@ -186,7 +193,7 @@
  </section>
   </content>
 <glossary>
-<definition id="def-00001"><term>high-risk approach</term><meaning>an approach to prevention that targets prevention only to those who are identified to be at high risk for disease</meaning></definition>     
+<definition id="def-00001"><term>high-risk approach</term><meaning>an approach to prevention that targets prevention only to those who are identified to be at high risk for disease</meaning></definition>
 <definition id="def-00002"><term>natural history of disease</term><meaning>the progression of a disease process in an individual over time; includes the five stages of underlying, susceptible, subclinical, clinical, and recovery/disability/death</meaning></definition>
 <definition id="def-00003"><term>Ottawa Charter for Health Promotion</term><meaning>created in 1986; provided a common definition of health promotion and the most socio-ecologic conceptualization of health promotion at the time</meaning></definition>
 <definition id="def-00004"><term>population approach</term><meaning>an approach to prevention that implements prevention strategies across an entire population, many of whom are not necessarily at high risk</meaning></definition>

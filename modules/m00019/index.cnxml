@@ -36,6 +36,9 @@
     <para id="para-00010">Many causes of diseases and disorders that impact the gastrointestinal system are linked with nutrition, as are many of their treatments. <link target-id="table-00001" document="m00019"/> lists several organs impacted by nutritional deficit and the corresponding disease(s).</para>
     <table class="vertically-tight" id="table-00001">
     <tgroup cols="3">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
     <thead>
     <row>
     <entry align="center"><span class="blue-text">Organ</span></entry>

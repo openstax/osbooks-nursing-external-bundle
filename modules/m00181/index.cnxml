@@ -35,10 +35,13 @@
   <para id="para-00006">The individual level is the most basic level of health promotion and disease prevention. Individual behavior is the most fundamental unit of group behavior; therefore, individual-level or intrapersonal-level influence is necessary to promote behavior change at the larger levels. <term id="term-00008">Intrapersonal-level</term> theories focus on intrapersonal factors, which are those existing or occurring within the individual self or mind. These factors include knowledge, attitudes, beliefs, motivation, self-concept, developmental history, past experiences, and skills.</para>
   <para id="para-00007">The <term class="no-emphasis" id="term-00009">Health Belief Model (HBM)</term> focuses on an individual’s perceptions of the threat posed by a health problem, the benefits of avoiding the threat, and factors that influence the decision to act. The threat could be related to susceptibility or severity, and factors influencing the decision to act could involve barriers, cues to action, or self-efficacy. One of the first theories of health behavior, the HBM was developed in the 1950s through the U.S. Public Health Service to explain why so few people were participating in free, government-supported programs to prevent and detect disease. The HBM (National Cancer Institute, 2005, p. 13) indicates that an individual is ready to act regarding their health if six constructs are in place (see <link target-id="table-00001" document="m00181"/>).</para>
   <para id="para-00008">The six constructs provide a beneficial framework for designing short-term and long-term behavior change strategies in individuals. They can also be used to design or adapt health promotion or disease prevention programs for groups. The HBM may be used alone or in combination with other theories or models.</para>
-  
+
   <table class="vertically-tight" id="table-00001">
   <title>The Health Belief Model (HBM)</title>
   <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Construct</emphasis></span></entry>
@@ -146,10 +149,13 @@
   <title>Interpersonal Level</title>
   <para id="para-00011">At the interpersonal level, “theories of health behavior assume individuals exist within, and are influenced by, a social environment” (National Cancer Institute, 2005, p. 19). The social environment can include anyone with whom an individual interacts, such as family, friends, coworkers, health professionals, and others. The opinions, thoughts, behaviors, advice, and support of these people influence the individual’s feelings and behavior, and the individual has an equal effect on these people.</para>
   <para id="para-00012">The <term id="term-00017">Social Cognitive Theory</term> (SCT) is the most frequently used example of an interpersonal model. SCT describes the influence of experiences, actions of others, and environmental factors on an individual’s health behaviors. Three main factors that affect the likelihood that a person will change a health behavior, according to the SCT, are self-efficacy, goals, and outcome expectancies. SCT includes six constructs, described in <link target-id="table-00002" document="m00181"/>.</para>
-  
+
   <table class="vertically-tight" id="table-00002">
   <title>Social Cognitive Theory (SCT)</title>
   <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Construct</emphasis></span></entry>
@@ -206,10 +212,12 @@
   <title>Community Level</title>
   <para id="para-00015">Communities are at the heart of public health promotion and disease prevention. Community-level models explore how social systems function and change and how to activate community members and organizations. Models using community-level strategies can be used in numerous settings, including health care institutions, schools, workplaces, community groups, and government agencies. These models use the ecological perspective, as described in <link document="m00151">Socio-ecological Perspectives and Health</link>, addressing individual, group, institutional, and community issues (National Cancer Institute, 2005).</para>
   <para id="para-00016">One of the most frequently used community-level models is the <term id="term-00024">Diffusion of Innovations Theory</term>. It addresses how new ideas, products, and social practices spread within an organization, community, or society or from one society to another (National Cancer Institute, 2005). Diffusion of Innovations is “the process by which an <emphasis effect="italics">innovation</emphasis> is communicated through certain <emphasis effect="italics">channels</emphasis> over <emphasis effect="italics">time</emphasis> among the members of a <emphasis effect="italics">social system</emphasis>” (National Cancer Institute, 2005, p. 27). These four central concepts are defined in <link target-id="table-00003" document="m00181"/>.</para>
-  
+
   <table class="vertically-tight" id="table-00003">
   <title>Concepts in Diffusion of Innovations</title>
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Concept</emphasis></span></entry>
@@ -238,10 +246,12 @@
   <caption>(See National Cancer Institute, 2005.)</caption>
   </table>
   <para id="para-00017">Diffusions of Innovations as it relates to health promotion and disease prevention requires a multilevel change process. At the individual or intrapersonal level, adopting a health behavior innovation usually involves lifestyle change. At the organizational or interpersonal level, it may involve starting programs, changing regulations, or altering roles. At the community level, the media, policies, or beginning initiatives may be involved. Several factors, seen in <link target-id="table-00004" document="m00181"/>, determine how quickly and to what extent an innovation will be adopted and diffused. When considering the benefits of an innovation, these attributes can help health care professionals position it most effectively.</para>
-  
+
   <table class="vertically-tight" id="table-00004">
   <title>Key Attributes Affecting an Innovation’s Diffusion</title>
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
     <entry valign="top" align="center"><span class="blue-text"><emphasis>Attribute</emphasis></span></entry>
@@ -277,6 +287,8 @@
   <table class="vertically-tight" id="table-00005">
   <title>Adopter Categories in Diffusion of Innovations Theory</title>
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Category of Adopter</emphasis></span></entry>
@@ -308,7 +320,7 @@
   </tgroup>
   <caption>(See Ohkubo et al., 2015.)</caption>
   </table>
-  
+
   <para id="para-00019">The Diffusion of Innovations Theory combines all of these elements to guide the health care professional in providing health promotion and disease prevention efforts. For example, a local university designs a program for the county public school system to decrease obesity in elementary school students. In the classroom, students learn about healthy foods, nutrition, and reading nutrition labels. The school cafeteria provides sample lunch menus with nutrition information. In physical education classes, students learn how different physical activities contribute to healthy living. After a few years, the program is considered a success. Program participants continued to have healthier habits than children who graduated before the program began.</para>
   <para id="para-00020">The program’s success, however, is not enough. To broaden its impact, diffusion is necessary. The program’s <emphasis effect="italics">relative advantage</emphasis> could be demonstrated to other school district leaders. The program’s <emphasis effect="italics">compatibility</emphasis> could be demonstrated by illustrating how it meets national and state standards for health and physical education. <emphasis effect="italics">Complexity</emphasis> could be addressed with teaching toolkits that make content easily accessible to educators. Interested educators could access free sample teaching materials via a website for <emphasis effect="italics">trialability</emphasis>. Finally, <emphasis effect="italics">observability</emphasis> could be provided via a video on the same website for demonstration purposes. Once adopted by another school district, leadership at the district could use the categories of adopters to roll out the program to educators.</para>
   </section>
@@ -318,7 +330,7 @@
   <para id="para-00021">Nurses and other health care professionals need frameworks to support the practice of health promotion and disease prevention. Various levels of such frameworks are necessary in order to provide appropriate guidance. The ecological perspective is an overarching approach to both health promotion and disease prevention at the systems level. The CDC developed its socio-ecological model from the ecological perspective as a framework for its health promotion programs. A variety of theories and models exist at the individual (intrapersonal), interpersonal, and community levels. The Health Belief Model (HBM), Stages of Change (Transtheoretical) Model, Social Cognitive Theory (SCT), and Diffusion of Innovations Theory are described, and examples of the frameworks in action are provided.</para>
    </section>
     </content>
-  <glossary>  
+  <glossary>
       <definition id="def-00001"><term>cognitive-behavioral theories</term><meaning>theories at the intrapersonal and interpersonal level with three common concepts, including behavior being mediated by cognition, knowledge necessary for behavior change, and the key influences of perceptions, motivations, skill, and the social environment</meaning></definition>
       <definition id="def-00002"><term>Diffusion of Innovations Theory</term><meaning>a model for behavior change that addresses how new ideas, products, and social practices spread within an organization, community, or society or from one society to another</meaning></definition>
       <definition id="def-00003"><term>Social Cognitive Theory</term><meaning>an interpersonal model for behavior change that describes the influence of experiences, actions of others, and environmental factors on the health behaviors of an individual</meaning></definition>

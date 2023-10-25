@@ -11,6 +11,10 @@
       <table id="table-00001">
       <title/>
       <tgroup cols="4">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <colspec colnum="3" colname="c3" colwidth="1*"/>
+        <colspec colnum="4" colname="c4" colwidth="1*"/>
       <thead>
       <row>
       <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
@@ -134,6 +138,8 @@
       <title>Text heavy/tight spacing – Tagging Legend row 25/26/27 (Example 1)</title>
       <table class="vertically-tight" id="table-00004">
       <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
       <thead>
       <row>
       <entry>Heading 1</entry>
@@ -207,6 +213,8 @@
       <title>Text heavy/tight spacing – Tagging Legend row 25/26/27 (Example 2)</title>
       <table class="vertically-tight" id="table-00005">
       <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
@@ -263,6 +271,8 @@
       <title>Text heavy/tight spacing – Tagging Legend row 25/26/27 (Example 3)</title>
       <table class="vertically-tight" id="table-00006">
       <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
       <tbody>
       <row>
       <entry>
@@ -324,6 +334,10 @@
       <table class="alternate-shading" id="table-00007">
       <title/>
       <tgroup cols="4">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <colspec colnum="3" colname="c3" colwidth="1*"/>
+        <colspec colnum="4" colname="c4" colwidth="1*"/>
       <thead>
       <row>
       <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
@@ -446,6 +460,10 @@
       <table summary="" id="table-00010">
       <title/>
       <tgroup cols="4">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <colspec colnum="3" colname="c3" colwidth="1*"/>
+        <colspec colnum="4" colname="c4" colwidth="1*"/>
       <thead>
       <row>
       <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
@@ -495,6 +513,8 @@
       <title>Cell alignment (top) – Tagging Legend row 32</title>
       <table class="vertically-tight" id="table-00011">
       <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
       <thead>
       <row>
       <entry>Heading 1</entry>

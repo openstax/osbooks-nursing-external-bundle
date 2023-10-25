@@ -14,18 +14,18 @@
       <item>Explain the indications, actions, adverse reactions, and interactions of the diuretic drugs used to treat hypertension.</item>
       <item>Describe nursing implications of diuretic drugs used to treat hypertension.</item>
       <item>Explain the client education related to diuretic drugs used to treat hypertension.</item>
-      
+
       </list>
       </section>
       <section id="sect-00006">
       <title>Introduction and Use</title>
       <para id="para-00005"><term id="term-00012">Diuretics</term> are a classification of drug that induces sodium loss and increase urine flow. They are typically used to treat hypertension, heart failure, and volume overload states. This chapter will cover diuretics as they are prescribed for hypertension and coronary heart disorders, thiazide and thiazide-like diuretics, and potassium-sparing diuretics. (Loop diuretics, which are also prescribed for heart failure, are discussed in <link document="m00314">Heart Failure Drugs</link>.</para>
-        
+
       <note class="link-to-learning" id="note-00001">
       <title>FDA Blood Pressure Booklet</title>
       <para id="para-00002">The U.S. Food and Drug Administration (FDA) provides a client-oriented webpage listing <link url="https://openstax.org/r/consumers">FDA-approved products currently available to treat hypertension</link>. It provides links to drug classifications such as ACE inhibitors, angiotensin II receptor blockers, beta blockers, calcium channel blockers, and diuretics. A <link url="https://openstax.org/r/govmeida">high blood pressure medicines booklet</link> also is available for download.</para>
       </note>
-      
+
       <section id="sect-00002">
       <title>Thiazide and Thiazide-Like Diuretics</title>
       <para id="para-00003">Thiazide and thiazide-like diuretics inhibit the reabsorption of sodium and chloride in the distal renal tubules. These diuretics increase the excretion of sodium and water by the kidneys, producing diuresis in the client, and also create a potassium loss within the body. Along with ACE inhibitors, thiazide and thiazide-like diuretics are often the first line of treatment for clients diagnosed with hypertension and may be used in conjunction with other antihypertensive drugs (Akbari &amp; Khorasani-Zadeh, 2022).</para>
@@ -36,6 +36,9 @@
       <para id="para-00004a"><link target-id="table-00001" document="m00292"/> lists common diuretics and typical routes and dosing for adult clients.</para>
       <table class="vertically-tight" id="table-00001">
       <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
@@ -63,7 +66,7 @@
 	 (<term class="no-emphasis" id="term-00008">Aldactone</term>)</entry>
       <entry>12.5–25 mg daily orally; maximum dose 50 mg daily</entry>
       </row>
-      
+
       <row>
       <entry><term class="no-emphasis" id="term-00009">Triamterene</term> (<term class="no-emphasis" id="term-00010">Dyrenium</term>)</entry>
       <entry>Individualized based on client need. When used alone, the starting dose is 100 mg orally twice daily. Maximum dose should not exceed 300 mg orally daily.</entry>
@@ -179,5 +182,5 @@ increased sodium excretion in the kidney and lowering blood pressure
       <glossary>
       <definition id="def-00001"><term>diuretic</term> <meaning>a classification of drug that induces sodium loss and increase urine flow; typically used to treat hypertension, heart failure, and volume overload states</meaning></definition>
       </glossary>
-  
+
 </document>
