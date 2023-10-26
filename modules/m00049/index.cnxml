@@ -40,7 +40,7 @@
   <section id="sect-00004">
   <title>Assessing Electrical Conduction System of the Heart</title>
   <para id="para-00012">The normal electrical pattern of the heart (<link target-id="fig-00001" document="m00049"/>) starts with the initiation of an impulse at the <term id="term-00012">sinoatrial node (SA node)</term>, the pacemaker of the heart. The impulse then travels through the <term id="term-00013">atria</term>, the top two heart chambers, causing atrial contraction, down to the <term id="term-00014">atrioventricular node (AV node)</term>, an electrical gatekeeper that controls a delay between the atrial and ventricular impulse, allowing blood to fill the ventricle. From the AV node, the impulse travels to the <term id="term-00015">bundle of His</term>, a bundle of conducting fibers that branch to each ventricle, then down both bundle branches to the <term id="term-00016">Purkinjean fibers</term>, or terminal-conducting fibers in the ventricles. This action causes the <term id="term-00017">ventricles</term>, or bottom chambers of the heart, to contract (Johns Hopkins Medicine, 2023b).</para>
-  
+
   <figure class="scaled-down-60" id="fig-00001"><media alt="The path of electrical impulses through the heart is shown."><image mime-type="image/png" src="../../media/NUT_Figure_11_00_002.png"/></media>
   <caption>The heart muscle and systemic circulation are vital components that work together to deliver oxygen and nutrients to the body’s tissues and organs while removing waste products. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00013">An <term id="term-00018">electrocardiogram (ECG/EKG)</term> or telemetry can be used to evaluate the electrical conduction of the heart. An ECG is a recording of a heart’s electrical activity through electrodes placed on the chest to capture signals. <term id="term-00019">Telemetry</term> is the continual measurement of a heart’s ECG through a portable device that automatically transmits the reading to a monitor.</para>
@@ -57,6 +57,10 @@
   <table class="vertically-tight" id="table-00001">
   <title/>
   <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Wave/Segment</emphasis></span></entry>
@@ -184,7 +188,7 @@
       <colspec colnum="2" colname="c2" colwidth="2*"/>
       <colspec colnum="3" colname="c3" colwidth="2*"/>
   <thead>
-  <row>  
+  <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Nutritional Relation(s)</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Client Symptom(s)</emphasis></span></entry>

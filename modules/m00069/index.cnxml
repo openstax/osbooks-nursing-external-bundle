@@ -29,13 +29,15 @@
 
   <table class="vertically-tight alternate-shading" id="table-00001">
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
 <entry valign="top" align="left"><span class="blue-text">Electrolyte/Restrictions</span></entry>
 <entry valign="top" align="left"><span class="blue-text">Substitutions/Hacks</span></entry>
 </row>
   </thead>
-<tbody>  
+<tbody>
 <row>
 <entry valign="top"><term class="no-emphasis" id="term-00004">Fluids</term></entry>
 <entry valign="top">Use small glasses at meals, or do not fill large glasses completely.<newline/>

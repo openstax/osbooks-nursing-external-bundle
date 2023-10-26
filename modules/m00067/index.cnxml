@@ -132,7 +132,10 @@
   <para id="para-00030">When physical assessment findings indicate potential pathologies in the renal system, testing can assist in diagnosing the issue. GFR will indicate if there is a decrease in the function of the kidneys when the results are less than normal. <term class="no-emphasis" id="term-00066">Serum creatinine</term> should be tested with the <term class="no-emphasis" id="term-00067">BUN</term> results to evaluate kidney function. If the creatinine is high and the BUN is high, kidney functioning is insufficient. <link target-id="table-00001" document="m00067"/> lists laboratory tests typically performed to evaluate possible renal system issues and their relationship to the renal system.</para>
   <table class="alternate-shading" id="table-00001">
   <title/>
-  <tgroup cols="3">  
+  <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text"><emphasis>Lab Test</emphasis></span></entry>
@@ -141,7 +144,7 @@
   </row>
   </thead>
   <tbody>
-  <row>  
+  <row>
   <entry valign="top">White blood cell count</entry>
   <entry valign="top">Elevated</entry>
   <entry valign="top">UTI</entry>

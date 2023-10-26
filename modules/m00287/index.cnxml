@@ -35,23 +35,27 @@
   <media alt="A diagram shows the path the renin-angiotensin-aldosterone system (RAAS) follows in the human body in response to low blood pressure. Organs that are involved in RAAS include the kidneys, liver, blood vessels, lungs, adrenal glands, pituitary gland, and the hypothalamus.">
   <image mime-type="image/png" src="../../media/PHA_Figure_18_00_003.png"/></media>
   <caption>The renin-angiotensin-aldosterone system (RAAS) is a compensatory mechanism the body activates when blood pressure is low. (credit: modification of work “Overview of the renin-angiotensin system” by Mikael Häggström/Wikimedia Commons, Public Domain)</caption></figure>
-  
+
   <note class="link-to-learning" id="note-00006">
   <title>American Heart Association and Mayo Clinic</title>
   <para id="para-00010">The American Heart Association provides an <link url="https://openstax.org/r/watchlearnlive">interactive library on the anatomy of blood pressure</link>. The library includes images and topics to explore such as the anatomy of blood pressure, high blood pressure and the cardiovascular system, and a blood pressure test.</para>
-  
+
   <media alt="atoms_isotopes">
   <iframe width="560" height="315" src="https://openstax.org/r/mayoclinicexplain"/>
   </media>
   <para id="para-00011">This video with Dr. Leslie Thomas, MD, a nephrologist at Mayo Clinic, discusses facts, questions, and answers about blood pressure to help clients better understand hypertension. The video talks about hypertension, risk factors, symptoms, diagnosis, treatment options, and coping methods to manage the disease process.</para>
   </note>
-  
+
   <section id="sect-00003">
   <title>Grades of Hypertension</title>
   <para id="para-00012">The American Heart Association (AHA) (n.d-a.) reports that prolonged elevation of blood pressure leads to the deterioration of blood vessels. The deterioration of blood vessels is measured by <term class="no-emphasis" id="term-00013">grades of hypertension</term>. Normal blood pressure is a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The chart below from the American College of Cardiology and AHA (see <link target-id="table-00001" document="m00287"/>) demonstrates the blood pressure categories and the readings associated with them.</para>
   <table class="alternate-shading" id="table-00001">
   <title/>
   <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
   <thead>
   <row>
   <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
@@ -87,9 +91,9 @@
   </row>
   <row>
   <entry>Hypertensive Crisis</entry>
-  <entry>>180</entry>
+  <entry>&gt;180</entry>
   <entry>and/or</entry>
-  <entry>>120</entry>
+  <entry>&gt;120</entry>
   </row>
   </tbody>
   </tgroup>
@@ -100,7 +104,7 @@
   <title>Diagnostics</title>
   <para id="para-00013">A physical examination by a health care provider with a sphygmomanometer (blood pressure cuff or device) will identify an elevated blood pressure, and a 12-lead electrocardiogram (ECG) can assist in determining if the heart has a normal or abnormal rhythm. The health care provider also obtains blood work to determine factors that contribute to the client’s hypertension as well as how the body is reacting to elevated blood pressure. These laboratory tests include a complete blood cell count (CBC), basic electrolyte panel, cholesterol panel, and renal function. An echocardiogram—an ultrasound of the heart—is not typically included in diagnostic procedures to determine hypertension; however, the health care provider may add this diagnostic study to visualize the heart’s chambers, valves, and pumping action to determine the effect of hypertension on the heart, which may cause other disorders such as hypertrophy of the heart. The health care provider bases the diagnosis for hypertension on the findings of the physical examination and the diagnostic study results.</para>
   </section>
-  
+
   <section id="sect-00005">
   <title>Clinical Manifestations</title>
   <para id="para-00014"><term class="no-emphasis" id="term-00014">Symptoms of hypertension</term> may not occur for years, and most of the time, the symptoms can be silent. Symptoms typically associated with hypertension include elevated blood pressure readings, headaches, dizziness, nausea, vomiting, visual disturbances, and neurological disturbances such as disorientation or a decreased level of consciousness. Over time, uncontrolled hypertension can lead to organ damage. Clients can experience symptoms related to the specific organ that is damaged; for example, if hypertension is left untreated, it may cause renal insufficiency, which may then continue to deteriorate, causing kidney damage and leading to end-stage renal disease that requires dialysis.</para>
@@ -113,10 +117,10 @@
   <para id="para-00016">The AHA conducted a critical assessment of research and clinical knowledge on cardiovascular disease across the United States specifically addressing women’s health. In its <link url="https://openstax.org/r/heartorgennews">report to the president</link>, gaps were identified and actions outlined to optimize cardiovascular health in women across their lifespans, with the goal of reaching health equity in health care (Wenger et al., 2022). The AHA has deployed awareness campaigns that are culturally sensitive and focus on the optimization of preventive and clinical care. Community engagement and advocacy in policy change at the legislative level have been encouraged.</para>
   <media alt="atoms_isotopes">
   <iframe width="560" height="315" src="https://openstax.org/r/heartofthematter"/>
-  </media>  
+  </media>
   <para id="para-00017">In a fireside video chat, <emphasis effect="italics">The Heart of the Matter: Racial and Gender Bias in Cardiovascular Care</emphasis>, presented by Abbott Cardiovascular, an expert panel of health care providers and representatives discusses cardiovascular care. The panel identifies gender and racial bias as negatively impacting the client experience for persons with coronary and peripheral artery disease. The chat covers not only cardiovascular health but also technologies that may be utilized to bridge the critical gaps identified.</para>
   </note>
-  
+
   <section id="sect-00007">
   <title>Dietary Modification</title>
   <para id="para-00018">Clients with hypertension should eat a low-sodium diet consisting of whole grains, vegetables, and fruits. Other recommendations include low-fat dairy products and limiting meat intake to about two servings daily of lean meat, such as fish and poultry (Challa &amp; Ameer, 2023). Reducing sweets and red meat is also important. The AHA (n.d-b) recommends 1,500 mg to no more than 2,300 mg of sodium intake daily. Dietary patterns and nutritional therapy should focus on food preferences, social and cultural influences, and appropriate caloric intake.</para>
@@ -166,11 +170,11 @@
   <item><term class="no-emphasis" id="term-00019">Microvascular angina</term> is frequent episodes of angina that occur due to coronary microvascular disease.</item>
   </list>
   <para id="para-00028">Risk factors for stable, unstable, and microvascular angina include age, family history, tobacco use, diabetes, hypertension, high cholesterol, obesity, and metabolic syndrome. Risk factors for Prinzmetal angina may be caused by anything that leads to spasms of the coronary arteries including certain medications such as decongestants, use of substances such as cannabis and cocaine, smoking tobacco, and stress (AHA, 2022a).</para>
-  
+
   <section id="sect-00014">
   <title>Pharmacologic Treatment of Angina</title>
   <para id="para-00029">Pharmacologic treatment for angina is individualized. Client lifestyle, as well as social and cultural influences, impact the health care provider’s treatment choice. The goal for pharmacologic treatment of stable angina is to prevent an ischemic event—like myocardial ischemia or infarction (heart attack)—from occurring. Nitrates are the first line of treatment for angina along with beta-adrenergic blockers and calcium channel blockers (Rousan &amp; Thadani, 2019). Both types of blockers will be discussed further in this chapter.</para>
-  
+
   <note class="unfolding-casestudy" id="note-00005">
   <title>Part A</title>
   <para id="para-00030">Read the following clinical scenario to answer the questions that follow. This case study will evolve throughout the chapter.</para>

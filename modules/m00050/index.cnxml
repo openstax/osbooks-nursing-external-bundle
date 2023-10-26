@@ -26,6 +26,8 @@
   <para id="para-00007">The nurse should have a nutrition education discussion with the client that includes maintaining a proper diet for healthy BMI, waist circumference, calcium, magnesium, and potassium levels. The nurse can discuss both the use of the MyPlate and DASH diets to accomplish this. The nurse should keep in mind, however, that a fine balance must be maintained between potassium, sodium, magnesium, and calcium for proper conduction and mechanic pumping of the heart to take place. Most clients can maintain these three electrolytes through balanced nutrition, but if they are deficient in any of these and are unable to regulate them through nutritional intake alone, supplementation should be considered. The nurse should discuss types of foods the client should include and limit in their diet for cardiovascular health (<link target-id="table-00001" document="m00050"/>).</para>
   <table class="alternate-shading" id="table-00001">
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text">Nutrient</span></entry>
@@ -120,7 +122,10 @@
   <para id="para-00011">Another metric is <term class="no-emphasis" id="term-00017">blood pressure</term>, which measures hypertension or the advancement of hypertension. Hypertension is known as the silent killer, because many people often do not have symptoms. Blood pressure is measured in millimeters of mercury, or mmHg. A single high <term class="no-emphasis" id="term-00018">hypertension</term> value may not indicate an issue, but two or more consecutive high readings is considered hypertension (Mayo Clinic, 2023c). Blood pressure ranges and their associated condition are listed in <link target-id="table-00002" document="m00050"/>.</para>
   <table class="alternate-shading" id="table-00002">
   <tgroup cols="3">
-  <thead>   
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+  <thead>
   <row>
   <entry align="center"><span class="blue-text"><emphasis>Blood Pressure</emphasis></span></entry>
   <entry align="center"><span class="blue-text"><emphasis>Systolic</emphasis></span></entry>
@@ -145,8 +150,8 @@
   </row>
   <row>
   <entry valign="top">Hypertensive</entry>
-  <entry valign="top">> 129 mmHg</entry>
-  <entry valign="top">Or > 80 mmHg</entry>
+  <entry valign="top">&gt; 129 mmHg</entry>
+  <entry valign="top">Or &gt; 80 mmHg</entry>
   </row>
   </tbody>
   </tgroup>
@@ -154,6 +159,13 @@
   <para id="para-00012">Cholesterol levels are also critical. Excessive <term class="no-emphasis" id="term-00019">cholesterol</term> levels can lead to the buildup of plaques along blood vessels, resulting in restricted blood flow and leading to hypertension, peripheral vascular and artery disease, and cardiomyopathies, and can cause embolizing events in the body. <link target-id="table-00003" document="m00050"/> outlines ranges of cholesterol measurements and their meanings (Johns Hopkins Medicine, 2023a).</para>
   <table class="alternate-shading" id="table-00003">
   <tgroup cols="7">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="5" colname="c5" colwidth="1*"/>
+<colspec colnum="6" colname="c6" colwidth="1*"/>
+<colspec colnum="7" colname="c7" colwidth="1*"/>
   <thead>
   <row>
   <entry align="center"><span class="blue-text"><emphasis>Cholesterol Measurement</emphasis></span></entry>
@@ -172,7 +184,7 @@
   <entry/>
   <entry valign="top">&lt; 200</entry>
   <entry valign="top">200-239</entry>
-  <entry valign="top">> 239</entry>
+  <entry valign="top">&gt; 239</entry>
   <entry/>
   </row>
   <row>
@@ -182,7 +194,7 @@
   <entry/>
   <entry valign="top">130-159</entry>
   <entry valign="top">160-189</entry>
-  <entry valign="top">> 189</entry>
+  <entry valign="top">&gt; 189</entry>
   </row>
   <row>
   <entry valign="top">High-density lipids (HDL) (“good” cholesterol)</entry>
@@ -191,7 +203,7 @@
   <entry valign="top">&lt; 150</entry>
   <entry valign="top">150-199</entry>
   <entry valign="top">200-499</entry>
-  <entry valign="top">> 499</entry>
+  <entry valign="top">&gt; 499</entry>
   </row>
   </tbody>
   </tgroup>
@@ -223,5 +235,5 @@
   </content>
   <glossary>
   <definition id="def-00001"><term>hypoalbuminemia</term><meaning>a condition where the body doesn’t produce enough albumin, a protein that keeps fluids in blood vessels</meaning></definition>
-  </glossary> 
+  </glossary>
   </document>
