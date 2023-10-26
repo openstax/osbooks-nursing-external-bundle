@@ -34,7 +34,7 @@
       <table class="vertically-tight" id="table-00001">
       <tgroup cols="2">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
-        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="2*"/>
       <thead>
       <row>
       <entry><span class="blue-text">Drug</span></entry>
@@ -43,19 +43,19 @@
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00003">Benazepril</term> (<term class="no-emphasis" id="term-00004">Lotensin</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00003">Benazepril</term><newline /> (<term class="no-emphasis" id="term-00004">Lotensin</term>)</entry>
       <entry>10–40 mg orally daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00005">Captopril</term> (<term class="no-emphasis" id="term-00006">Capto</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00005">Captopril</term><newline />(<term class="no-emphasis" id="term-00006">Capto</term>)</entry>
       <entry>25–150 mg orally 2–3 times daily; maximum dose 450 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00007">Enalapril</term> (<term class="no-emphasis" id="term-00008">Vasotec</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00007">Enalapril</term><newline />(<term class="no-emphasis" id="term-00008">Vasotec</term>)</entry>
       <entry>5–40 mg administered in 1–2 daily doses. Initial dose: 5 mg orally once daily; maximum dose: 40 mg/day. May divide dose and administer twice daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00009">Lisinopril</term> (<term class="no-emphasis" id="term-00010">Zestril</term>)</entry>
+      <entry><term class="no-emphasis" id="term-00009">Lisinopril</term><newline />(<term class="no-emphasis" id="term-00010">Zestril</term>)</entry>
       <entry>10–40 mg orally daily.</entry>
       </row>
       </tbody>
