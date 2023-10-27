@@ -51,7 +51,7 @@
 </section>
 <section id="sect-00006">
 <title>Hepatitis</title>
-<para id="para-00013">Hepatitis is inflammation of the liver and may result from a viral infection. In the United State, its most common viral forms are hepatitis A, B, and C (<link document="m00169"/>). Viral <term class="no-emphasis" id="term-00013">hepatitis</term> infections affect millions of people globally, with hepatitis B and C resulting in chronic infections and liver cancer, disproportionately affecting lower-income countries. However, progress in treatment is being made globally. Hepatitis C is curable with a three-month course of medication taken once a day, and medications are available to slow the progression of hepatitis B and prevent liver damage (CDC, 2021e). Both hepatitis A and B can be prevented with safe, effective vaccines.</para>
+<para id="para-00013">Hepatitis is inflammation of the liver and may result from a viral infection. In the United State, its most common viral forms are hepatitis A, B, and C (<link target-id="table-00002" document="m00169"/>). Viral <term class="no-emphasis" id="term-00013">hepatitis</term> infections affect millions of people globally, with hepatitis B and C resulting in chronic infections and liver cancer, disproportionately affecting lower-income countries. However, progress in treatment is being made globally. Hepatitis C is curable with a three-month course of medication taken once a day, and medications are available to slow the progression of hepatitis B and prevent liver damage (CDC, 2021e). Both hepatitis A and B can be prevented with safe, effective vaccines.</para>
 <table class="vertically-tight" id="table-00002">
 <title/>
 <tgroup cols="4">
@@ -141,7 +141,7 @@ Chronic disease develops in approximately half of adults yet usually remains asy
 </section>
 <section id="sect-00008">
 <title>Tuberculosis</title>
-<para id="para-00020"><term class="no-emphasis" id="term-00020">Tuberculosis</term> (TB) is caused by a bacterium, <emphasis effect="italics">Mycobacterium tuberculosis</emphasis> (MTB), which often attacks the lungs but can attack any part of the body. TB is spread via airborne transmission. When inhaled, TB bacteria can settle into the lungs, grow, and spread to other parts of the body (CDC, 2022u). Anyone can become infected, but certain populations, such as BIPOC individuals, individuals experiencing homelessness, and those living in congregate settings (correctional facilities, detention centers) are at higher risk of TB disease than the overall population (CDC, 2022p). Because TB infection does not always result in illness, it is often classified as latent TB infection (LTBI) vs. TB disease (<link document="m00169"/>). Individuals infected with MTB have an estimated 5 to 10 percent lifetime risk of becoming ill with TB disease. Some will have LTBI, others will clear the infection, and some, such as those with weakened immune systems (for example, individuals living with HIV, malnutrition, or diabetes) and individuals with alcohol use disorder and tobacco dependence, will have a higher risk of becoming ill with TB disease (WHO, 2022b). See <link document="m00326">Caring for Vulnerable Populations and Communities</link>.</para>
+<para id="para-00020"><term class="no-emphasis" id="term-00020">Tuberculosis</term> (TB) is caused by a bacterium, <emphasis effect="italics">Mycobacterium tuberculosis</emphasis> (MTB), which often attacks the lungs but can attack any part of the body. TB is spread via airborne transmission. When inhaled, TB bacteria can settle into the lungs, grow, and spread to other parts of the body (CDC, 2022u). Anyone can become infected, but certain populations, such as BIPOC individuals, individuals experiencing homelessness, and those living in congregate settings (correctional facilities, detention centers) are at higher risk of TB disease than the overall population (CDC, 2022p). Because TB infection does not always result in illness, it is often classified as latent TB infection (LTBI) vs. TB disease (<link target-id="table-00002" document="m00169"/>). Individuals infected with MTB have an estimated 5 to 10 percent lifetime risk of becoming ill with TB disease. Some will have LTBI, others will clear the infection, and some, such as those with weakened immune systems (for example, individuals living with HIV, malnutrition, or diabetes) and individuals with alcohol use disorder and tobacco dependence, will have a higher risk of becoming ill with TB disease (WHO, 2022b). See <link document="m00326">Caring for Vulnerable Populations and Communities</link>.</para>
 <table class="vertically-tight" id="table-00003">
 <title/>
 <tgroup cols="3">
@@ -241,7 +241,7 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 </section>
 <section id="sect-00009">
 <title>Role of the Nurse in Preventing Communicable Diseases</title>
-<para id="para-00025">Educating the public is the nurse’s first priority in preventing and mitigating many communicable diseases. Primary prevention of illness and disease focuses on the individual and the health and well-being of the entire community. <link document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for communicable diseases.</para>
+<para id="para-00025">Educating the public is the nurse’s first priority in preventing and mitigating many communicable diseases. Primary prevention of illness and disease focuses on the individual and the health and well-being of the entire community. <link target-id="table-00004" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for communicable diseases.</para>
 <table class="vertically-tight" id="table-00004">
 <title/>
 <tgroup cols="5">
@@ -350,7 +350,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </section>
 <section id="sect-00010">
 <title>Foodborne Diseases</title>
-<para id="para-00026">Within the United States, <term class="no-emphasis" id="term-00025">foodborne illness</term> is fairly common, with an estimated one out of every six individuals becoming ill from contaminated food or drinks and approximately 3,000 deaths related to foodborne illnesses each year (CDC, 2022b). <link document="m00169"/> describes the top pathogens responsible for foodborne illnesses and death.</para>
+<para id="para-00026">Within the United States, <term class="no-emphasis" id="term-00025">foodborne illness</term> is fairly common, with an estimated one out of every six individuals becoming ill from contaminated food or drinks and approximately 3,000 deaths related to foodborne illnesses each year (CDC, 2022b). <link target-id="table-00005" document="m00169"/> describes the top pathogens responsible for foodborne illnesses and death.</para>
 <table id="table-00005">
 <title/>
 <tgroup cols="2">
@@ -450,7 +450,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </section>
 <section id="sect-00015">
 <title>Role of the Nurse in Preventing Foodborne Diseases</title>
-<para id="para-00045">The nurse can play a pivotal role in preventing and responding to foodborne illnesses. Providing appropriate education to clients is the number one priority for the nurse in preventing and mitigating many foodborne illnesses. Primary prevention of illness and disease serves not only the individual but also the health and well-being of the entire community. <link document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for foodborne diseases.</para>
+<para id="para-00045">The nurse can play a pivotal role in preventing and responding to foodborne illnesses. Providing appropriate education to clients is the number one priority for the nurse in preventing and mitigating many foodborne illnesses. Primary prevention of illness and disease serves not only the individual but also the health and well-being of the entire community. <link target-id="table-00006" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for foodborne diseases.</para>
 <table class="vertically-tight" id="table-00006">
 <title/>
 <tgroup cols="2">
@@ -516,7 +516,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00017">
 <title>Lyme Disease</title>
 <para id="para-00047"><term class="no-emphasis" id="term-00035">Lyme disease</term> is the most commonly reported vector-borne illness in the United States, with approximately 300,000 annual infections (CDC, 2019i). It is most often found in the upper midwestern, northeastern, and mid-Atlantic states, where it is spread by the Ixodes scapularis tick. The Ixodes pacificus tick is implicated in cases in northern California, Oregon, and Washington (CDC, 2022y), but overall, the geographic range of the ticks that spread Lyme disease is expanding due, in part, to a changing landscape and climate (Johns Hopkins Bloomberg School of Public Health, n.d.).</para>
-<para id="para-00048">Symptoms of early localized disease, within a month after the tick bite, include fever, chills, fatigue, headache, myalgias, arthralgia, lymphadenopathy, and <term id="term-00036">erythema migrans (EM)</term>, a red, ring-shaped rash at the bite site that expands over several days, often to sizes greater than 5 centimeters in diameter with a central clearing that results in a “bull’s eye” appearance, although the rash can vary and appear different on darker skin tones (<link document="m00169"/><emphasis effect="bold">,</emphasis>). EM occurs in up to 80 percent of those infected with Lyme, but the classic rash is not always present (CDC, 2022y). Untreated or undiagnosed early Lyme progresses to disseminated disease in about 60 percent of clients, with symptoms appearing months after the tick bite. Disseminated disease may present with skin, neurologic, cardiac, or rheumatologic manifestations. Performing serologic testing for Lyme disease is recommended when disseminated Lyme disease is being considered. However, clinical diagnosis is recommended over serologic testing for clients who present with an EM rash after frequenting an area where Lyme is common (CDC, 2022y).</para>
+<para id="para-00048">Symptoms of early localized disease, within a month after the tick bite, include fever, chills, fatigue, headache, myalgias, arthralgia, lymphadenopathy, and <term id="term-00036">erythema migrans (EM)</term>, a red, ring-shaped rash at the bite site that expands over several days, often to sizes greater than 5 centimeters in diameter with a central clearing that results in a “bull’s eye” appearance, although the rash can vary and appear different on darker skin tones (<link target-id="fig-00001" document="m00169"/><emphasis effect="bold">,</emphasis>). EM occurs in up to 80 percent of those infected with Lyme, but the classic rash is not always present (CDC, 2022y). Untreated or undiagnosed early Lyme progresses to disseminated disease in about 60 percent of clients, with symptoms appearing months after the tick bite. Disseminated disease may present with skin, neurologic, cardiac, or rheumatologic manifestations. Performing serologic testing for Lyme disease is recommended when disseminated Lyme disease is being considered. However, clinical diagnosis is recommended over serologic testing for clients who present with an EM rash after frequenting an area where Lyme is common (CDC, 2022y).</para>
 <para id="para-00049">In a study by Ly (2021), the researcher found that Black clients with Lyme disease seem to be diagnosed later in the disease process than White clients. Black clients are more often diagnosed with disseminated disease upon initial diagnosis and appear to be diagnosed outside of the months that Lyme disease is most frequently diagnosed, reinforcing the idea that they are diagnosed later in the disease process. A study by Palmiere et al. (2019) looked into missed and delayed Lyme diagnoses in dark-skinned populations of Appalachia with findings that echo the work by Ly. A potential reason for these missed or delayed diagnoses may be related to the varying appearance of EM in individuals with dark skin (Minority Nurse, 2013). The EM is an early sign of Lyme disease, whereas late symptoms include arthritis and neurological symptoms. Ly (2021) found that 34 percent of Black clients were diagnosed with neurological symptoms in comparison to only 9 percent of White clients, reinforcing the earlier diagnosis in White clients (Ly, 2019; Eldred, 2022). Another study showed similar findings among Black children—that they were less likely to be diagnosed with Lyme disease and were more likely to be diagnosed with the arthritis manifestations related to Lyme disease and not the skin or cutaneous manifestations (Hunt et al., 2023). It is imperative that nurses remain aware of the risks of Lyme disease in all clients and educate clients who are darker skinned on the signs and symptoms of Lyme disease to be aware of. Early diagnosis of Lyme disease and proper treatment with antibiotics usually results in a rapid and complete recovery (CDC, 2022y). Education on tick bite prevention and tick removal can help prevent spread of the disease.</para>
 <figure class="scaled-down" id="fig-00001"><media alt="A bullseye-shaped rash spreads down a person's posterior shoulder. It is very dark in the center and gets lighter as it expands out."><image mime-type="image/jpg" src="../../media/PH_Figure_13_02_004.jpg"/></media>
 <caption>A bull’s-eye rash (erythema migrans) is often a characteristic sign of Lyme disease. (credit: “14476: This image depicts the posterior right shoulder region of a patient who had presented with an erythema migrans (EM) rash, characteristic of what was diagnosed as Lyme disease, caused by the bacterium, <emphasis effect="italics">Borrelia burgdorferi</emphasis>. B. burgdorferi bacteria are transmitted to humans through the bite of infected blacklegged ticks” by CDC, Public Domain)</caption>
@@ -544,7 +544,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </section>
 <section id="sect-00021">
 <title>Role of the Nurse in Preventing Vector-Borne Diseases</title>
-<para id="para-00057">The community health nurse is crucial in stemming disease burden from <term class="no-emphasis" id="term-00044">vector-borne diseases</term>. Primary prevention is fundamental to decreasing the number of individuals infected with vector-borne diseases via education campaigns. Because no known treatments aside from supportive care exist for WNV or Zika virus, education and interventions are essential to prevent the spread of these diseases. <link document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for vector-borne diseases.</para>
+<para id="para-00057">The community health nurse is crucial in stemming disease burden from <term class="no-emphasis" id="term-00044">vector-borne diseases</term>. Primary prevention is fundamental to decreasing the number of individuals infected with vector-borne diseases via education campaigns. Because no known treatments aside from supportive care exist for WNV or Zika virus, education and interventions are essential to prevent the spread of these diseases. <link target-id="table-00007" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for vector-borne diseases.</para>
 <table class="vertically-tight" id="table-00007">
 <title/>
 <tgroup cols="4">
@@ -676,7 +676,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </section>
 <section id="sect-00025">
 <title>Role of the Nurse in Preventing Waterborne Diseases</title>
-<para id="para-00067">The nurse, utilizing primary prevention, can educate individuals and communities on how to avoid waterborne diseases, similar to the role of the nurse in foodborne diseases. <link document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for waterborne diseases.</para>
+<para id="para-00067">The nurse, utilizing primary prevention, can educate individuals and communities on how to avoid waterborne diseases, similar to the role of the nurse in foodborne diseases. <link target-id="table-00008" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for waterborne diseases.</para>
 <table class="vertically-tight" id="table-00008">
 <title/>
 <tgroup cols="2">
@@ -692,15 +692,15 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00044"><item>Educate individuals and communities on water safety.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00045"><item>˚ Drink only treated or filtered water.</item>
-<item>˚ Have private home wells checked regularly for water safety reasons.</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00046"><item>˚ Review keys to safe recreational water activities such as:</item>
-<item>▪ Ensure the water is treated.</item>
-<item>▪ Avoid swallowing the water.</item>
-<item>▪ Require all individuals to take a quick shower to rinse off the body prior to entering any pools.</item>
-<item>▪ Educate families to ensure children who are not toilet trained wear swim diapers and are taken for bathroom breaks every hour to avoid defecation in the water.</item>
-<item>▪ Reiterate that anyone with any diarrheal illness should be excluded from swimming in any recreational body of water.</item>
-<item>▪ The CDC offers more <link url="https://openstax.org/r/diarrheal">guidelines on Diarrhea and Swimming</link>.</item></list>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00045"><item>° Drink only treated or filtered water.</item>
+<item>° Have private home wells checked regularly for water safety reasons.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00046"><item>° Review keys to safe recreational water activities such as:</item>
+<item>? Ensure the water is treated.</item>
+<item>? Avoid swallowing the water.</item>
+<item>? Require all individuals to take a quick shower to rinse off the body prior to entering any pools.</item>
+<item>? Educate families to ensure children who are not toilet trained wear swim diapers and are taken for bathroom breaks every hour to avoid defecation in the water.</item>
+<item>? Reiterate that anyone with any diarrheal illness should be excluded from swimming in any recreational body of water.</item>
+<item>? The CDC offers more <link url="https://openstax.org/r/diarrheal">guidelines on Diarrhea and Swimming</link>.</item></list>
 </entry>
 </row>
 <row>
@@ -769,7 +769,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </section>
 <section id="sect-00030">
 <title>Role of the Nurse in Preventing Sexually Transmitted Diseases</title>
-<para id="para-00082">The nurse has an important role to play in preventing STDs, identifying them early, and getting them treated appropriately. The CDC provides guidelines for teaching clients about reducing <link url="https://openstax.org/r/prevention">the risk of getting or transmitting STDs</link>. <link document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for STDs.</para>
+<para id="para-00082">The nurse has an important role to play in preventing STDs, identifying them early, and getting them treated appropriately. The CDC provides guidelines for teaching clients about reducing <link url="https://openstax.org/r/prevention">the risk of getting or transmitting STDs</link>. <link target-id="table-00009" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for STDs.</para>
 <table class="vertically-tight" id="table-00009">
 <title/>
 <tgroup cols="2">
@@ -786,10 +786,10 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00050"><item>˚ Abstinence is the only way to be sure to avoid contracting an STD.</item>
-<item>˚ If sexually active, correctly and consistently using protection, such as a condom, with every sexual encounter can significantly decrease the risk of contracting an STD but does not eliminate the risk.</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00051"><item>˚ Any contact with a syphilitic chancre may result in transmission of syphilis.</item>
-<item>˚ Instruct clients to have conversations with their sexual partner(s) regarding the number of sexual partners and testing frequency.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00050"><item>° Abstinence is the only way to be sure to avoid contracting an STD.</item>
+<item>° If sexually active, correctly and consistently using protection, such as a condom, with every sexual encounter can significantly decrease the risk of contracting an STD but does not eliminate the risk.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00051"><item>° Any contact with a syphilitic chancre may result in transmission of syphilis.</item>
+<item>° Instruct clients to have conversations with their sexual partner(s) regarding the number of sexual partners and testing frequency.</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00063">Secondary Prevention</term></span></entry>
@@ -798,11 +798,11 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00052"><item>Screening for STDs</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00053"><item>˚ Follow the CDC’s screening recommendations
-<list list-type="bulleted" bullet-style="none" id="list-00054"><item>▪ Screen all sexually active women under the age of 25 for chlamydia and gonorrhea and retest 3 months after treatment for these infections.</item>
-<item>▪ Screening sexually active MSM annually at sites of contact (urethra, rectum) for chlamydia, at sites of contact (urethra, rectum, pharynx) for gonorrhea, and for syphilis. Additionally, screen every 3–6 months if at increased risk.</item>
-<item>▪ Adapt screening recommendations for transgender and gender diverse persons to anatomy, meaning extend the annual routine screening for chlamydia in cisgender women under the age of 25 to all transgender men and gender diverse individuals with a cervix.</item></list></item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00055"><item>˚ Educate client at every visit that for any signs and symptoms of an STD, it is important to get evaluated and screened.</item></list>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00053"><item>° Follow the CDC’s screening recommendations
+<list list-type="bulleted" bullet-style="none" id="list-00054"><item>? Screen all sexually active women under the age of 25 for chlamydia and gonorrhea and retest 3 months after treatment for these infections.</item>
+<item>? Screening sexually active MSM annually at sites of contact (urethra, rectum) for chlamydia, at sites of contact (urethra, rectum, pharynx) for gonorrhea, and for syphilis. Additionally, screen every 3–6 months if at increased risk.</item>
+<item>? Adapt screening recommendations for transgender and gender diverse persons to anatomy, meaning extend the annual routine screening for chlamydia in cisgender women under the age of 25 to all transgender men and gender diverse individuals with a cervix.</item></list></item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00055"><item>° Educate client at every visit that for any signs and symptoms of an STD, it is important to get evaluated and screened.</item></list>
 </entry>
 </row>
 <row>
@@ -863,7 +863,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 
 <section id="sect-00032">
 <title>Emerging Infectious Diseases</title>
-<para id="para-00092"><term id="term-00069">Emerging infectious diseases (EIDs)</term> are those that are newly affecting populations or existing diseases that previously only caused isolated disease but are now significantly increasing in incidence and geographic range (National Institute of Allergy and Infectious Diseases [NIAID], 2018; Wang et al., 2021). Bioterrorism Category A, B, and C priority pathogens are also considered EIDs (<link document="m00169"/><emphasis effect="bold">)</emphasis> (NIAID, 2018). Because these diseases are new or were once less common, there are often minimal effective treatments and no cures. Without the benefit of prior knowledge and a lack of immunity, health care providers often contract EIDs as they tend to ill clients (WHO, 2014). Many EIDs are zoonotic in origin, emerging from animals and crossing the species barrier to infect humans (WHO, 2014). EIDs remain a global health threat as they can spread rapidly, posing a risk to the health and development of every country. As the COVID-19 pandemic has demonstrated, infectious diseases can cause significant death and disability and wreak havoc on the world economy, disrupting every level of society. <link document="m00169"/> lists some emerging infectious diseases (Wang et al., 2021).</para>
+<para id="para-00092"><term id="term-00069">Emerging infectious diseases (EIDs)</term> are those that are newly affecting populations or existing diseases that previously only caused isolated disease but are now significantly increasing in incidence and geographic range (National Institute of Allergy and Infectious Diseases [NIAID], 2018; Wang et al., 2021). Bioterrorism Category A, B, and C priority pathogens are also considered EIDs (<link target-id="table-00010" document="m00169"/><emphasis effect="bold">)</emphasis> (NIAID, 2018). Because these diseases are new or were once less common, there are often minimal effective treatments and no cures. Without the benefit of prior knowledge and a lack of immunity, health care providers often contract EIDs as they tend to ill clients (WHO, 2014). Many EIDs are zoonotic in origin, emerging from animals and crossing the species barrier to infect humans (WHO, 2014). EIDs remain a global health threat as they can spread rapidly, posing a risk to the health and development of every country. As the COVID-19 pandemic has demonstrated, infectious diseases can cause significant death and disability and wreak havoc on the world economy, disrupting every level of society. <link target-id="table-00011" document="m00169"/> lists some emerging infectious diseases (Wang et al., 2021).</para>
 <table class="vertically-tight" id="table-00010">
 <title/>
 <tgroup cols="4">
