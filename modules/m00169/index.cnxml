@@ -250,13 +250,11 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <colspec colnum="5" colname="c5" colwidth="1*"/>
-<thead>
+<tbody>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00022">Primary Prevention</term></span><newline/>
+<entry valign="top" align="center" namest="c1" nameend="c5"><span class="blue-text"><term class="no-emphasis" id="term-00022">Primary Prevention</term></span><newline/>
 Educate individuals and communities on the importance of these disease-prevention behaviors</entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left">Seasonal influenza and pneumonia</entry>
@@ -300,7 +298,7 @@ Educate individuals and communities on the importance of these disease-preventio
 </entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><term class="no-emphasis" id="term-00023">Secondary Prevention</term></emphasis><newline/>
+<entry valign="top" align="center" namest="c1" nameend="c5"><emphasis effect="bold"><term class="no-emphasis" id="term-00023">Secondary Prevention</term></emphasis><newline/>
 Identify diseases early via screening, before the onset of signs and symptoms, allowing for early treatment to delay or avoid potential complications and helping decrease potential transmission to others</entry>
 </row>
 <row>
@@ -323,7 +321,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <item>STDs as this may indicate unprotected sexual activity, thereby increasing risk of disease transmission</item>
 </list>
 </entry>
-<entry valign="top" align="left">TB with either the tuberculin skin test or one of the blood tests</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00058"><item>TB with either the tuberculin skin test or one of the blood tests</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00015"><item>HIV at least once, more if necessary for risk factors or exposures</item>
 <item>Risky sexual behaviors</item>
 <item>STDs as this may indicate unprotected sexual activity, thereby increasing risk of HIV transmission</item>
@@ -335,7 +333,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="center" namest="c1" nameend="c4"><term class="no-emphasis" id="term-00024">Tertiary Prevention</term></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold">Treatment to manage the disease post-diagnosis to slow or stop disease progression:</emphasis>
+<entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold">Treatment to manage the disease post-diagnosis to slow or stop disease progression:</emphasis>
 <list list-type="bulleted" id="list-00016">
 <item>Referrals for Hep A, B, or C treatment</item>
 <item>Referrals for HIV treatment</item>
@@ -481,7 +479,8 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <list list-type="bulleted" id="list-00023"><item>Heat deli meats and cheeses prior to eating</item>
 <item>Avoid eating soft cheeses or cheeses made with unpasteurized milk</item>
 <item>Heat all raw sprouts prior to eating</item>
-<item>Avoid consuming unpasteurized milk or juice and avoid eating deli salads if at high risk for severe listeriosis, such as pregnant women or immunocompromised individuals</item></list></item></list></entry>
+<item>Avoid consuming unpasteurized milk or juice and avoid eating deli salads if at high risk for severe listeriosis, such as pregnant women or immunocompromised individuals</item></list></item></list></entry></row>
+<row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00024"><item>Decrease community spread
 <list list-type="bulleted" id="list-00025"><item>When ill and for 48 hours after symptoms stop, stay home and avoid preparing food for others</item>
 <item>Disinfect potentially contaminated areas within the household</item></list></item></list></entry>
@@ -498,7 +497,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><term class="no-emphasis" id="term-00033">Tertiary Prevention</term> Against Foodborne Illnesses Requiring Hospital-Level Care</emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00027"><item>Treatment and prevention of complications
+<entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00027"><item>Treatment and prevention of complications
 <list list-type="bulleted" id="list-00028"><item>Close monitoring for evidence of complications</item>
 <item>Antibiotics as indicated or ordered</item>
 <item>Oral hydrating solutions</item>
@@ -552,12 +551,10 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
-<thead>
+<tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text"><term class="no-emphasis" id="term-00045">Primary Prevention</term></span></entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry valign="top" align="left"><span class="blue-text"/></entry>
 <entry valign="top" align="left"><span class="blue-text">Lyme Disease</span></entry>
@@ -595,7 +592,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00046">Secondary Prevention</term></span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text"><term class="no-emphasis" id="term-00046">Secondary Prevention</term></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"/>
@@ -619,7 +616,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00039"><item>Screening is generally not recommended for asymptomatic pregnant clients regardless of travel status.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00047">Tertiary Prevention</term></span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text"><term class="no-emphasis" id="term-00047">Tertiary Prevention</term></span></entry>
 </row>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00040"><item>Lyme disease, WNV, and Zika require referral for treatment and support.</item>
@@ -689,31 +686,31 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00044"><item>Educate individuals and communities on water safety.</item></list></entry>
+<entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00044"><item>Educate individuals and communities on water safety.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00045"><item>° Drink only treated or filtered water.</item>
-<item>° Have private home wells checked regularly for water safety reasons.</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00046"><item>° Review keys to safe recreational water activities such as:</item>
-<item>? Ensure the water is treated.</item>
-<item>? Avoid swallowing the water.</item>
-<item>? Require all individuals to take a quick shower to rinse off the body prior to entering any pools.</item>
-<item>? Educate families to ensure children who are not toilet trained wear swim diapers and are taken for bathroom breaks every hour to avoid defecation in the water.</item>
-<item>? Reiterate that anyone with any diarrheal illness should be excluded from swimming in any recreational body of water.</item>
-<item>? The CDC offers more <link url="https://openstax.org/r/diarrheal">guidelines on Diarrhea and Swimming</link>.</item></list>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00045"><item>˚ Drink only treated or filtered water.</item>
+<item>˚ Have private home wells checked regularly for water safety reasons.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00046"><item>˚ Review keys to safe recreational water activities such as:</item>
+<item>▪ Ensure the water is treated.</item>
+<item>▪ Avoid swallowing the water.</item>
+<item>▪ Require all individuals to take a quick shower to rinse off the body prior to entering any pools.</item>
+<item>▪ Educate families to ensure children who are not toilet trained wear swim diapers and are taken for bathroom breaks every hour to avoid defecation in the water.</item>
+<item>▪ Reiterate that anyone with any diarrheal illness should be excluded from swimming in any recreational body of water.</item>
+<item>▪ The CDC offers more <link url="https://openstax.org/r/diarrheal">guidelines on Diarrhea and Swimming</link>.</item></list>
 </entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00054">Secondary Prevention</term></span></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">No screening tests or secondary prevention measures are recommended for waterborne diseases, but reinforcing the signs and symptoms that require follow-up from a health care provider can help ensure ill individuals receive timely assistance.</entry>
+<entry valign="top" align="left" namest="c1" nameend="c2">No screening tests or secondary prevention measures are recommended for waterborne diseases, but reinforcing the signs and symptoms that require follow-up from a health care provider can help ensure ill individuals receive timely assistance.</entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00055">Tertiary Prevention</term></span></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Tertiary prevention efforts focus on reducing the burden of disease by treating illnesses promptly and avoiding complications.</entry>
+<entry valign="top" align="left" namest="c1" nameend="c2">Tertiary prevention efforts focus on reducing the burden of disease by treating illnesses promptly and avoiding complications.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -782,34 +779,34 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00049"><item>Education regarding the transmission of STDs and how to avoid them</item></list>
+<entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00049"><item>Education regarding the transmission of STDs and how to avoid them</item></list>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00050"><item>° Abstinence is the only way to be sure to avoid contracting an STD.</item>
-<item>° If sexually active, correctly and consistently using protection, such as a condom, with every sexual encounter can significantly decrease the risk of contracting an STD but does not eliminate the risk.</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00051"><item>° Any contact with a syphilitic chancre may result in transmission of syphilis.</item>
-<item>° Instruct clients to have conversations with their sexual partner(s) regarding the number of sexual partners and testing frequency.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00050"><item>˚ Abstinence is the only way to be sure to avoid contracting an STD.</item>
+<item>˚ If sexually active, correctly and consistently using protection, such as a condom, with every sexual encounter can significantly decrease the risk of contracting an STD but does not eliminate the risk.</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00051"><item>˚ Any contact with a syphilitic chancre may result in transmission of syphilis.</item>
+<item>˚ Instruct clients to have conversations with their sexual partner(s) regarding the number of sexual partners and testing frequency.</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00063">Secondary Prevention</term></span></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00052"><item>Screening for STDs</item></list></entry>
+<entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00052"><item>Screening for STDs</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00053"><item>° Follow the CDC’s screening recommendations
-<list list-type="bulleted" bullet-style="none" id="list-00054"><item>? Screen all sexually active women under the age of 25 for chlamydia and gonorrhea and retest 3 months after treatment for these infections.</item>
-<item>? Screening sexually active MSM annually at sites of contact (urethra, rectum) for chlamydia, at sites of contact (urethra, rectum, pharynx) for gonorrhea, and for syphilis. Additionally, screen every 3–6 months if at increased risk.</item>
-<item>? Adapt screening recommendations for transgender and gender diverse persons to anatomy, meaning extend the annual routine screening for chlamydia in cisgender women under the age of 25 to all transgender men and gender diverse individuals with a cervix.</item></list></item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00055"><item>° Educate client at every visit that for any signs and symptoms of an STD, it is important to get evaluated and screened.</item></list>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00053"><item>˚ Follow the CDC’s screening recommendations
+<list list-type="bulleted" bullet-style="none" id="list-00054"><item>▪ Screen all sexually active women under the age of 25 for chlamydia and gonorrhea and retest 3 months after treatment for these infections.</item>
+<item>▪ Screening sexually active MSM annually at sites of contact (urethra, rectum) for chlamydia, at sites of contact (urethra, rectum, pharynx) for gonorrhea, and for syphilis. Additionally, screen every 3–6 months if at increased risk.</item>
+<item>▪ Adapt screening recommendations for transgender and gender diverse persons to anatomy, meaning extend the annual routine screening for chlamydia in cisgender women under the age of 25 to all transgender men and gender diverse individuals with a cervix.</item></list></item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00055"><item>▪ Educate client at every visit that for any signs and symptoms of an STD, it is important to get evaluated and screened.</item></list>
 </entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00064">Tertiary Prevention</term></span></entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Prompt referral for treatment for any positive STD screening.</entry>
+<entry valign="top" align="left" namest="c1" nameend="c2">Prompt referral for treatment for any positive STD screening.</entry>
 </row>
 </tbody>
 </tgroup>
