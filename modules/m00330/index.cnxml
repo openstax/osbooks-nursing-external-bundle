@@ -94,8 +94,6 @@
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Food insecurity</item></list></entry>
-</row>
-<row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Lack of access to an adequate variety of healthy foods because of economic circumstances</item>
 <item>Lack of transportation to grocery stores</item>
 <item>Consumption of highly processed, easily stored foods related to a lack of a means to store and cook fresh food appropriately</item></list>
@@ -132,6 +130,8 @@
 <item>Accumulated sun exposure places individuals at higher risk for skin cancer.</item>
 <item>Poor indoor and outdoor air quality puts individuals at increased risk for respiratory illnesses.</item>
 </list></entry>
+</row>
+<row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00016"><item>Educational Environment</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00017"><item>Migrating between May and November causes interrupted schooling.</item>
 <item>Children working in agriculture can work an unlimited number of hours outside of school hours, starting at ages 10–11.</item>
@@ -159,7 +159,7 @@
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><term class="no-emphasis" id="term-00014">Primary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00014">Primary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00019"><item>Educate migrant workers on measures to reduce pesticide exposure</item>
@@ -170,7 +170,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><term class="no-emphasis" id="term-00015">Secondary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00015">Secondary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00020"><item>Screen for tuberculosis</item>
@@ -181,7 +181,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><term class="no-emphasis" id="term-00016">Tertiary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00016">Tertiary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00021"><item>Treat for pesticide exposure and tuberculosis</item>

@@ -24,7 +24,7 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold">What is LGBTQIA+?</emphasis></entry>
@@ -86,7 +86,7 @@ Sometimes, the Q in LGBTQ can also describe someone questioning their sexual ori
 <entry valign="top" align="left">Describes an individual who does not identify exclusively as a man or a woman. Nonbinary individuals may identify as both a man and a woman, somewhere between, or outside of these categories.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Source: https://gaycenter.org/about/lgbtq/, https://www.hrc.org/resources/glossary-of-terms<newline/>
+<entry valign="top" align="left" namest="c1" nameend="c2">Source: https://gaycenter.org/about/lgbtq/, https://www.hrc.org/resources/glossary-of-terms<newline/>
 Note: Throughout this section, a variety of acronyms are used based on the source material where the information was retrieved.</entry>
 </row>
 </tbody>
@@ -155,7 +155,7 @@ Note: Throughout this section, a variety of acronyms are used based on the sourc
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00023">Primary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00023">Primary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>The school nurse should emphasize bullying prevention with educational sessions and posters and should encourage administrators to adopt a zero-tolerance policy for bullying behaviors.</item>
@@ -165,7 +165,7 @@ Note: Throughout this section, a variety of acronyms are used based on the sourc
 <item>The community and public health nurse can advocate for laws and policies that specifically protect the rights of LGBTQIA+ individuals, such as anti-bullying laws to protect all students.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00024">Secondary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00024">Secondary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Screen students who are at risk for being bullied or at risk for academic or emotional problems.</item>
@@ -174,7 +174,7 @@ Note: Throughout this section, a variety of acronyms are used based on the sourc
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00025">Tertiary Prevention</term></emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00025">Tertiary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Refer individuals who are experiencing significant social and emotional challenges to appropriate community services.</item></list>
