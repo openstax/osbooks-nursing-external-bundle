@@ -30,10 +30,10 @@
 
 <note class="boxed-feature" id="note-00001">
 <title>Box 12.1: Calculating Ratios</title>
-<para id="para-00007">Recall that:
-<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">0</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn></m:math>
-<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">1</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn></m:math>10<sup>2</sup> = 10 × 10 = 100
-<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">3</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">000</m:mn></m:math></para>
+<para id="para-00007"><emphasis effect="bold">Recall that:</emphasis></para>
+<para id="para-00153"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">0</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn></m:math></para>
+<para id="para-00154"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">1</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn></m:math>10<sup>2</sup> = 10 × 10 = 100</para>
+<para id="para-00155"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">3</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">000</m:mn></m:math></para>
 <para id="para-00008"><emphasis effect="bold">Basic Calculation for Ratios</emphasis></para>
 <m:math><m:mo>(</m:mo><m:mi>Numerator</m:mi><m:mo>÷</m:mo><m:mi>Denominator</m:mi><m:mo>)</m:mo><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>
 <para id="para-00009"><emphasis effect="bold">Calculating Ratios: Example 1</emphasis></para>
@@ -79,7 +79,8 @@
 <para id="para-00037">In 2020, 70,000 new cases of disease X were reported in the United States. The estimated midyear United States population was approximately 319,000,000. Calculate the incidence rate of disease X in the United States in 2020.</para>
 <para id="para-00038">Numerator: 70,000 new cases of disease X</para>
 <para id="para-00039">Denominator: 319,000,000 estimated midyear population</para>
-<para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math>Incidence rate = (70,000/319,000,000) × 100,000</para>
+<para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></para>
+<para id="para-00156">Incidence rate = (70,000/319,000,000) × 100,000</para>
 <para id="para-00041">Incidence rate = (70,000/319,000,000) × 100,000</para>
 <para id="para-00042">Incidence rate = 21.94 new cases of disease X per 100,000 population</para>
 <para id="para-00043">(See Centers for Disease Control and Prevention, 2012.)</para>
@@ -102,17 +103,17 @@
 <para id="para-00053"><emphasis effect="bold">Attack Rate (Incidence Proportion)</emphasis></para>
 <para id="para-00054">The attack rate is the proportion of a population that develops an illness during an outbreak. Another term for an attack rate is <term id="term-00019">incidence proportion</term>, and it can be thought of as a measure of risk.</para>
 <para id="para-00055"><emphasis effect="bold">Calculating Attack Rate</emphasis></para>
-<para id="para-00056">In a food poisoning outbreak, 50 out of 150 individuals develop nausea, vomiting, and diarrhea (n/v/d) after attending a party where the 150 individuals all ate cheddar cheese. To measure the food-specific attack rate, the numerator is the number of individuals who ate a specific food and became ill divided by the total number of individuals who ate that food.</para>
+<para id="para-00056">In a food poisoning outbreak, 50 out of 150 individuals develop nausea, vomiting, and diarrhea (n/v/d) after attending a party where the 150 individuals all ate cheddar cheese. To measure the <emphasis effect="italics">food-specific attack rate</emphasis>, the numerator is the number of individuals who ate a specific food and became ill divided by the total number of individuals who ate that food.</para>
 <para id="para-00057">Numerator: 50 individuals who ate the cheddar cheese and developed n/v/d</para>
 <para id="para-00058">Denominator: 150 individuals who ate the cheddar cheese</para>
-<para id="para-00059">Multiply by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:mn>102</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math>.</para>
+<para id="para-00059">Multiply by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math>.</para>
 <para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo><m:mo> </m:mo><m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>33</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:mo>%</m:mo></m:math></para>
 <para id="para-00061"><emphasis effect="bold">Calculating Incidence Proportion (also known as risk)</emphasis></para>
 <para id="para-00062">In a study of men with and without hypertension, 165 of the men with hypertension (out of a total of 305 men with hypertension) had died during the follow-up study 10 years later. Calculate the risk of death for these men.</para>
 <para id="para-00063">Men with hypertension: 305</para>
 <para id="para-00064">Numerator: 165 deaths among men with hypertension</para>
 <para id="para-00065">Denominator: 305 men with hypertension</para>
-<para id="para-00066"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:mn>102</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math></para>
+<para id="para-00066"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math></para>
 <para id="para-00067">Incidence proportion (Risk) <m:math><m:mo> </m:mo><m:mo>(</m:mo><m:mi>Risk</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mfenced><m:mfrac><m:mn>165</m:mn><m:mn>305</m:mn></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>54</m:mn><m:mo>.</m:mo><m:mn>1</m:mn><m:mo>%</m:mo></m:math></para> 
 <para id="para-00068">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
@@ -132,7 +133,7 @@
 <para id="para-00077">Denominator = Size of the population where deaths occurred</para>
 <para id="para-00078">Multiply the result by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. Values of 1,000 or 100,000 are often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math> or <m:math><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math>.</para>
 <para id="para-00079"><emphasis effect="bold">Commonly Used Measures of Mortality:</emphasis></para>
-<para id="para-00080">Crude death rate is the mortality rate from all causes of death for a population.</para>
+<para id="para-00080"><emphasis effect="italics">Crude death rate</emphasis> is the mortality rate from all causes of death for a population.</para>
 <para id="para-00081">Numerator: Total number of deaths during a given time interval</para>
 <para id="para-00082">Denominator: Mid-interval population</para>
 <para id="para-00083"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo> </m:mo></m:math> or <m:math><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></para>
