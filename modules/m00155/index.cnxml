@@ -15,8 +15,8 @@
 <item>Explain the importance of evidence-based decision-making in public health.</item>
 <item>Identify tools to support evidence-based public health decision-making.</item>
 </list>
-<para id="para-00002">At its core, health care is designed to help enhance the quality of life for clients through preventative care, maximization of development, care of acute illness, and guidance toward death. Health care providers should utilize the most up-to-date information on care and treatment plans in these efforts. <term class="no-emphasis" id="term-00001">Evidence-based public health (EBPH)</term> encourages <term class="no-emphasis" id="term-00002">health promotion</term>, <term class="no-emphasis" id="term-00003">disease prevention</term>, and <term class="no-emphasis" id="term-00004">health maintenance</term> by making the best decision possible based on current evidence. Comprehensively, “EBPH involves accessing the best available research to inform decisions, systematically using data and information systems, applying appropriate frameworks in program planning, engaging the community in assessment and decision-making activities, evaluating the program, and disseminating lessons learned to key stakeholders” (Ruebush, 2019, p. 1). A key part of this effective practice is applying evidence-based information. <term id="term-00005">Evidence-based practice (EBP)</term> and <term id="term-00006">evidence-based decision-making (EBDM)</term> are similar, yet each has its nuances for use in nursing. EBP uses the best available research, clinical experience, and client preferences to inform client-care interventions and evaluation. EBDM is the process of using the most recent research and clinical practice experience to make optimal decisions regarding a policy, practice, and/or program. Foundationally, EBDM extends from EBPH as they both consider the context of the community in conjunction with found evidence to identify and implement appropriate interventions. Additional considerations in the process of EBDM are community partner buy-in, feasibility, cost-effectiveness, sustainability, health equity, and public sentiment. EBP is used more commonly in nursing practice to drive interventions. EBDM is used in public health to create policies and programs.</para>
 </section>
+<para id="para-00002">At its core, health care is designed to help enhance the quality of life for clients through preventative care, maximization of development, care of acute illness, and guidance toward death. Health care providers should utilize the most up-to-date information on care and treatment plans in these efforts. <term class="no-emphasis" id="term-00001">Evidence-based public health (EBPH)</term> encourages <term class="no-emphasis" id="term-00002">health promotion</term>, <term class="no-emphasis" id="term-00003">disease prevention</term>, and <term class="no-emphasis" id="term-00004">health maintenance</term> by making the best decision possible based on current evidence. Comprehensively, “EBPH involves accessing the best available research to inform decisions, systematically using data and information systems, applying appropriate frameworks in program planning, engaging the community in assessment and decision-making activities, evaluating the program, and disseminating lessons learned to key stakeholders” (Ruebush, 2019, p. 1). A key part of this effective practice is applying evidence-based information. <term id="term-00005">Evidence-based practice (EBP)</term> and <term id="term-00006">evidence-based decision-making (EBDM)</term> are similar, yet each has its nuances for use in nursing. EBP uses the best available research, clinical experience, and client preferences to inform client-care interventions and evaluation. EBDM is the process of using the most recent research and clinical practice experience to make optimal decisions regarding a policy, practice, and/or program. Foundationally, EBDM extends from EBPH as they both consider the context of the community in conjunction with found evidence to identify and implement appropriate interventions. Additional considerations in the process of EBDM are community partner buy-in, feasibility, cost-effectiveness, sustainability, health equity, and public sentiment. EBP is used more commonly in nursing practice to drive interventions. EBDM is used in public health to create policies and programs.</para>
 <section id="sect-00002">
 <title>Use of Evidence-Based Decision-Making</title>
 <para id="para-00003">Public health is a sector of health care that seeks to protect and enhance the health of people and the communities in which they live, work, and play. Since public health decisions and initiatives can impact such a large range of people, decisions in public health made by health care providers must use efficient and effective practices to promote optimal results. EBDM is an optimal process to make these decisions by finding and using interventions that work best in public health and then sharing this information with clients and other health care professionals. The <term class="no-emphasis" id="term-00007">National Collaborating Centre for Methods and Tools (NCCMT)</term> has outlined seven steps in the evidence-based decision-making process in public health. These steps are shown in <link target-id="fig-00001" document="m00155"/>. These steps—define, search, appraise, synthesize, adapt, implement, and evaluate—are additionally broken down to describe the process of EBDM.</para>
@@ -41,7 +41,7 @@
 <item>What is the anticipated plan to implement these changes?</item>
 </list>
 <para id="para-00006">The concern is generally formatted to address the population, intervention, comparison, outcome, and time frame in the form of an answerable question or through the development of a <term id="term-00010">PICOT question</term>. <link target-id="table-00001" document="m00155"/> presents the breakdown of a PICOT question.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="alternate-shading" id="table-00001">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -81,7 +81,7 @@
 <caption>PICOT Question Breakdown</caption>
 </table>
 <para id="para-00007">Identifying each component of a PICOT question is necessary to formulate a clearly defined problem. This question will then guide the literature search and the steps in EBDM in public health. As previously noted, the population may include individuals, communities, or a larger population group. From those categories, the nurse must decide if the population will be further refined, such by age, literacy level, or socioeconomic status. Interventions may be a specific change or treatment but may also be viewed under an approach to health not previously used or studied in this specific population with the outlined concern. The comparison may be a different intervention, often the one currently in practice, or the absence of the proposed intervention. Outcomes will contain measurable results or the aftermath of the implemented intervention. Time outlines how long the intervention will be in place and/or how long outcomes will be measured. <link target-id="table-00002" document="m00155"/> provides example PICOT questions as well as the breakdown of the elements for each question.</para>
-<table class="vertically-tight" id="table-00002">
+<table class="alternate-shading" id="table-00002">
 <title/>
 <tgroup cols="6">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -190,13 +190,13 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Sources of Evidence</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Public Health Expertise</emphasis></span> ⇨</entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Sources of Evidence</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry valign="middle" align="left" morerows="3"><emphasis effect="bold">Public Health Expertise</emphasis><newline/>
-⇨</entry>
+<entry valign="middle" align="left" morerows="3">Decision makers use their public health expertise and consider evidence from these sources</entry>
 <entry valign="top" align="left">Available public health resources</entry>
 </row>
 <row>
