@@ -5,9 +5,43 @@
     <md:content-id>m00159</md:content-id>
     <md:uuid>dfad3b47-ff5f-410d-ba87-eab76e3b370e</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Define epidemiology.</item>
+<item>Explain the objectives of epidemiology.</item>
+<item>Examine the role of epidemiology in public health.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Epidemiology</term> is the scientific study of the distribution and <term class="no-emphasis" id="term-00002">determinants</term> of diseases and health outcomes in populations in order to develop methods of controlling health problems, limit the consequences of illness, and maximize health. Epidemiology relies on a methodical and unbiased approach to <term class="no-emphasis" id="term-00003">data collection</term>, analysis, and interpretation. It is multidisciplinary, drawing from the biologic, economic, social, and behavioral sciences and the scientific disciplines of <term class="no-emphasis" id="term-00004">biostatistics</term> and <term class="no-emphasis" id="term-00005">informatics</term>. It is described as the basic science of public health because it provides the foundation for overseeing public health interventions (Centers for Disease Control and Prevention [CDC], 2012).</para>
+<para id="para-00003">Epidemiology strives to establish causal factors for <term id="term-00006">health events</term>, defined as disease, injury, or death (CDC, 2012). The epidemiologist defines the populations to be studied. These populations may be as small as one town or as large as an entire country. They may be selected for study based on geography, biologic factors such as gender or age, or social factors such as race, lifestyles choices, or income level. Epidemiologists view the entire health spectrum, from safety and injury prevention such as bicycle or motor vehicle safety to disease prevention and control.</para>
+<section id="sect-00002">
+<title>Epidemiological Objectives</title>
+<para id="para-00004">Epidemiology is founded on principles of health, safety, and wellness. By studying patterns of disease frequency and distribution and determinants of health and illness, epidemiology focuses on the overall health and welfare of populations of individuals (Frérot et al., 2018). Epidemiological objectives include the following (Celentano &amp; Szklo, 2019):</para>
+<list list-type="bulleted" id="list-00002">
+<item>Identifying the causes of disease or factors that increase an individual’s risk for disease</item>
+<item>Identifying how diseases are transmitted</item>
+<item>Determining the extent of disease in a community or specified population</item>
+<item>Evaluating preventive and therapeutic measures of health care delivery</item>
+<item>Providing the foundation for developing public policy regarding disease prevention and health promotion</item>
+</list>
+</section>
+<section id="sect-00003">
+<title>Application of Epidemiology to Public Health</title>
+<para id="para-00005">By identifying causes and <term class="no-emphasis" id="term-00007">risk factors</term> for disease development, public health nurses can use evidence-based information to intervene early to reduce <term class="no-emphasis" id="term-00008">morbidity</term> and <term class="no-emphasis" id="term-00009">mortality</term>. For example, in 1950, epidemiologists <term class="no-emphasis" id="term-00010">Doll and Hill</term> demonstrated a causal link between the development of lung cancer and smoking cigarettes. Their ongoing studies served as the foundation for major public health initiatives to decrease rates of cigarette smoking. In 1965, 42 percent of adults in the United States smoked cigarettes, but by 2021 the rate had fallen to 11.5 percent (CDC, 2023; CDC, 1999).</para>
+<para id="para-00006">Epidemiologic studies can identify how diseases are transmitted, affording public health nurses the ability to advocate for appropriate control programs. Diseases can be transmitted from person to person or from nonhuman reservoirs, such as ticks or mosquitoes, to the human population. Well-designed epidemiologic studies have demonstrated how major <term class="no-emphasis" id="term-00011">communicable diseases</term> are transmitted. For example, measures to ensure staff and client safety where tuberculosis may be present have their basis in the 1956 work of epidemiologists <term class="no-emphasis" id="term-00012">Riley and Wells</term> (Thomas, 2020).</para>
+<para id="para-00007">Determining the prevalence and extent of disease in a community is another function of epidemiology. Public health nurses can use this information to prepare for communicable disease outbreaks. For example, by using epidemiological statistical models, public health nurses can prepare adequate vaccine supplies and plan health services needed to respond to seasonal influenza outbreaks.</para>
+<para id="para-00008">Public health nurses can also use evidence-based epidemiological information in health promotion education. For example, epidemiologists study whether <term class="no-emphasis" id="term-00013">screening</term> improves survival for men with prostate cancer. Nurses can use the results of those epidemiological inquiries to assist them in educating at-risk communities. Epidemiological studies, such as studies seeking to discover whether high levels of radon in homes causes disease, can also inform nurses’ work to advocate for public policy at the local, state, and federal levels.</para>
+</section>
+<section class="section-summary" id="sect-00004">
+<title>Chapter Summary</title>
+<para id="para-00009">Epidemiology is the scientific study of the distribution and determinants of diseases and health outcomes in populations with the goal of improving the health and safety of populations by establishing causal factors for health issues. Epidemiological objectives include identifying the cause of disease or factors that increase an individual’s risk for disease, identifying how diseases are transmitted, determining the extent of disease in a community, evaluating preventive and therapeutic measures of health care delivery, and providing the foundation for developing public policy regarding disease prevention and health promotion. By identifying causes and risk factors of disease development, public health nurses can intervene early to reduce morbidity and mortality from the disease. Epidemiology provides the opportunity to develop an evidence-based foundation for prevention programs.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>epidemiology</term> <meaning>scientific study of the distribution and determinants of diseases and health outcomes in populations</meaning></definition>
+<definition id="def-00002"><term>health events</term> <meaning>disease, injury, or death</meaning></definition>
+</glossary>
 </document>

@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Epidemiologic Measures</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Epidemiologic Measures</md:title>
@@ -6,8 +6,378 @@
     <md:uuid>779c4ed3-6dd6-4204-9771-4913b7f6b2a4</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Define significant terms related to disease occurrence in a population.</item>
+<item>Discuss mathematical terms used in epidemiology.</item>
+<item>Describe epidemiological measures used to define and quantify health problems in and across defined populations.</item>
+<item>Identify analytic methods for calculating key measures of morbidity, mortality, and measures of association.</item>
+<item>Describe possible sources of error in epidemiological studies.</item>
+<item>Understand epidemiological criteria used to establish causal relationships.</item>
+</list>
+</section>
+<para id="para-00002">Epidemiologists often categorize the amount of a disease present in a community as a specific level of disease: endemic, hyperendemic, sporadic, epidemic, outbreak, or pandemic. Public health officials use this information to assist in planning appropriate interventions. The <term id="term-00001">endemic</term> level is the continual and constant presence of a disease within a geographic area— the observed level in a defined area; it may also be referred to as the usual rate of disease at any given time or the baseline level.</para>
+<para id="para-00003">Persistent high levels of disease in a defined area are characterized as <term id="term-00002">hyperendemic</term>. Diseases that occur occasionally at irregular intervals are considered <term id="term-00003">sporadic</term> or infrequent. When the level of disease in a defined area rises above the endemic levels—a sudden increase in the number of cases of a disease above what is normally expected—it is referred to as an <term id="term-00004">epidemic</term>. Both infectious and noninfectious diseases can become epidemics. An <term id="term-00005">outbreak</term> is an epidemic that affects a limited geographic area. A pandemic is a worldwide epidemic. See <link document="m00167">Pandemics and Infectious Disease Outbreaks</link>.</para>
+<section id="sect-00002">
+<title>Common Epidemiological Measures</title>
+<para id="para-00004">Using epidemiological measures is one way of knowing when there is an excess of what is expected (Celentano &amp; Szklo, 2019). Common <term class="no-emphasis" id="term-00006">frequency</term> measures in epidemiology are ratios, proportions, and rates.</para>
+<section id="sect-00003">
+<title>Ratios</title>
+<para id="para-00005">A <term id="term-00007">ratio</term> is a comparison of any two values, calculated by dividing one interval by the other. The numerator and denominator do not have to be related. After dividing the denominator with the numerator, the result is expressed as the result “to one” or “:1” See [link]Box 12.1[/link] for more detail on the calculation.</para>
+<para id="para-00006">Ratios can be used as a descriptive measure, such as describing the male-to-female ratio of participants in a study. They can also be used in calculations for the occurrence of illness or death between two groups. <term id="term-00008">Death-to-case ratio</term> is used as a measure of illness severity as it refers to the number of deaths attributed to a disease during a specific period of time divided by the number of new cases during the same period. As an example, rabies has a death-to-case ratio of almost 1, meaning that almost everyone who develops it dies from it (CDC, 2012).</para>
+
+<note class="boxed-feature" id="note-00001">
+<title>Box 12.1: Calculating Ratios</title>
+<para id="para-00007">Recall that:
+<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">0</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn></m:math>
+<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">1</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn></m:math>10<sup>2</sup> = 10 × 10 = 100
+<m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">3</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">000</m:mn></m:math></para>
+<para id="para-00008"><emphasis effect="bold">Basic Calculation for Ratios</emphasis></para>
+<m:math><m:mo>(</m:mo><m:mi>Numerator</m:mi><m:mo>÷</m:mo><m:mi>Denominator</m:mi><m:mo>)</m:mo><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>
+<para id="para-00009"><emphasis effect="bold">Calculating Ratios: Example 1</emphasis></para>
+<para id="para-00010">You are a research nurse reviewing the medical histories of the study participants. Given this study’s parameters, they are categorized as having hypertension or not having hypertension.</para>
+<para id="para-00011">Men with hypertension: 305</para>
+<para id="para-00012">Men without hypertension: 4,702</para>
+<para id="para-00013">Based on the data, calculate the ratio of men without hypertension to men with hypertension. Since this will be a one-to-one ratio, you will use 10<sup>0</sup>.</para>
+<para id="para-00014">Ratio <m:math><m:mo>=</m:mo><m:mo> </m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn></m:mrow><m:mn>305</m:mn></m:mfrac><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo>.</m:mo><m:mn>4</m:mn><m:mo>:</m:mo><m:mn>1</m:mn></m:math> (15.4 men without hypertension to 1 with hypertension)</para>
+<para id="para-00015"><emphasis effect="bold">Calculating Ratios: Example 2</emphasis></para>
+<para id="para-00016">Imagine you are the public health nurse for a county in a rural part of the United States. You have been tasked with calculating the ratio of county citizens to the number of health clinics in the county—in other words, how many county residents each health clinic must serve.</para>
+<para id="para-00017">Number of health clinics: 8</para>
+<para id="para-00018">County population: 9,000</para>
+<para id="para-00019">Ratio <m:math><m:mo>=</m:mo><m:mo> </m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>125</m:mn><m:mo>:</m:mo><m:mn>1</m:mn><m:mo> </m:mo></m:math> (Each clinic must serve 1,125 county citizens.)</para>
+<para id="para-00020">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+</section>
+<section id="sect-00004">
+<title>Proportions</title>
+<para id="para-00021">A <term id="term-00009">proportion</term> is a form of ratio, but the difference is the numerator is always included in the denominator. An example is looking at the percentage of a population that is younger than 18 years of age. Proportions can be communicated as a decimal, fraction, or percentage. See [link]Box 12.2[/link] for more details on the calculation. Proportions are often used as descriptive measures, such as the proportion of children in a community vaccinated against the flu or the proportion of individuals at a boarding school who developed illness (CDC, 2012). Proportions also describe the extent of disease attributable to a particular exposure. <term class="no-emphasis" id="term-00010">Proportionate mortality</term> is the proportion of deaths in a defined population during a defined time period that are attributed to different causes. Each cause is communicated as a percentage of all deaths, where the sum of causes equals 100 percent (CDC, 2012). These proportions are not rates, as the denominator is all deaths.</para>
+<note class="boxed-feature" id="note-00002">
+<title>Box 12.2: Calculating Proportions</title>
+<para id="para-00022"><emphasis effect="bold">Basic Calculation for a Proportion</emphasis></para>
+<para id="para-00023">(Number of persons or events with a particular characteristic ÷ Total number of persons or events, with the numerator being a subset of this total number) <m:math><m:mo>×</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math></para>
+<para id="para-00024">With proportions, 10<sup><emphasis effect="italics">n</emphasis></sup> is usually expressed with <m:math><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>, or 100, and conveyed as a percentage.</para>
+<para id="para-00025"><emphasis effect="bold">Calculating a Proportion</emphasis></para>
+<para id="para-00026">Refer to [link]Box 12.1[link] Calculating Ratios and the study looking at hypertension.</para>
+<para id="para-00027">Men with hypertension: 305</para>
+<para id="para-00028">Men without hypertension: 4,702</para>
+<para id="para-00029">Based on the data, calculate the proportion of men who had hypertension.</para>
+<para id="para-00030">Numerator (305) and Denominator (4,702) = Total number of men <m:math><m:mo>(</m:mo><m:mn>305</m:mn><m:mo> </m:mo><m:mo>+</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn><m:mo>)</m:mo><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>007</m:mn></m:math></para>
+<para id="para-00031">Proportion of men who had hypertension <m:math><m:mo>=</m:mo><m:mo> </m:mo><m:mfrac><m:mn>305</m:mn><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>007</m:mn></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mn>102</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>09</m:mn><m:mo>%</m:mo></m:math> (See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Rates</title>
+<para id="para-00032">In epidemiology, a rate is a measure of how often an event occurs in a specified population over a defined period of time. Rates are useful for comparing disease frequency in different locations, at different times, or among different groups of individuals, often considered a measure of risk (CDC, 2012). Epidemiologists use rates to describe incidence, prevalence, case-fatality, and attack rates. It is important to note that attack rate, prevalence rate, and <term id="term-00011">case-fatality rate</term> are not considered “true” rates by some as they are not expressed in units of time, but these proportions provide valuable information in looking for patterns and using data for comparison (CDC, 2012).</para>
+<para id="para-00033"><term id="term-00012">Morbidity</term> is another term for having a disease, illness, or medical condition and includes disease, injury, and disability. Measures of morbidity characterize the number of individuals in a population who become ill or are ill at a specified time. Commonly used measures of morbidity are <term id="term-00013">attack rate</term>, also known as incidence proportion, <term class="no-emphasis" id="term-00014">secondary attack rate</term>, <term id="term-00015">incidence rate</term>, point prevalence, and period prevalence. See [link]Boxes 12.3–12.6[/link] for more detailed definitions of these rates. The <term id="term-00016">mortality rate</term> measures the frequency of death in a defined population during a specific time interval. See [link]Box 12.7[/link] for more details on the various mortality rates often used.</para>
+<note class="boxed-feature" id="note-00003">
+<title>Box 12.3: Incidence Rate</title>
+<para id="para-00034"><term id="term-00017">Incidence Rate</term></para>
+<para id="para-00035">An incidence rate is a proportion in which the numerator is all new cases of a disease or health condition appearing during a given period of time. The denominator is the population at risk during the same period. Incidence rates describe how quickly a disease or illness occurs in a specified population. When calculating incidence rates of a health condition in a population, it is often expressed as the incidence rate per 100,000 population.</para>
+<para id="para-00036"><emphasis effect="bold">Example</emphasis>:</para>
+<para id="para-00037">In 2020, 70,000 new cases of disease X were reported in the United States. The estimated midyear United States population was approximately 319,000,000. Calculate the incidence rate of disease X in the United States in 2020.</para>
+<para id="para-00038">Numerator: 70,000 new cases of disease X</para>
+<para id="para-00039">Denominator: 319,000,000 estimated midyear population</para>
+<para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math>Incidence rate = (70,000/319,000,000) × 100,000</para>
+<para id="para-00041">Incidence rate = (70,000/319,000,000) × 100,000</para>
+<para id="para-00042">Incidence rate = 21.94 new cases of disease X per 100,000 population</para>
+<para id="para-00043">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+<note class="boxed-feature" id="note-00004">
+<title>Box 12.4: Prevalence Rate</title>
+<para id="para-00044"><emphasis effect="bold">Prevalence Rate</emphasis></para>
+<para id="para-00045">A <term id="term-00018">prevalence rate</term> is the proportion of a population with a health condition at a certain point in time or over an interval of time. An example is how many individuals in a population have or have had influenza in the month of February. Unlike incidence, prevalence includes all cases of a particular disease, both new and preexisting, in the population at the specified time. Incidence is limited to new cases only. Prevalence is often measured for chronic diseases as they have long durations and unclear onsets.</para>
+<para id="para-00046"><emphasis effect="bold">Calculating Prevalence of a Disease</emphasis></para>
+<para id="para-00047">Numerator: All new and pre-existing cases during an established time period</para>
+<para id="para-00048">Denominator: Population during the same period</para>
+<para id="para-00049">Multiply that by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math>.</para>
+<para id="para-00050"><emphasis effect="italics">Point prevalence</emphasis> refers to the prevalence measured at a specified point in time, the proportion of individuals with a disease on a specified date.</para>
+<para id="para-00051"><emphasis effect="italics">Period prevalence</emphasis> refers to prevalence measured over a span of time.</para>
+<para id="para-00052">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+
+<note class="boxed-feature" id="note-00005">
+<title>Box 12.5: Attack Rate</title>
+<para id="para-00053"><emphasis effect="bold">Attack Rate (Incidence Proportion)</emphasis></para>
+<para id="para-00054">The attack rate is the proportion of a population that develops an illness during an outbreak. Another term for an attack rate is <term id="term-00019">incidence proportion</term>, and it can be thought of as a measure of risk.</para>
+<para id="para-00055"><emphasis effect="bold">Calculating Attack Rate</emphasis></para>
+<para id="para-00056">In a food poisoning outbreak, 50 out of 150 individuals develop nausea, vomiting, and diarrhea (n/v/d) after attending a party where the 150 individuals all ate cheddar cheese. To measure the food-specific attack rate, the numerator is the number of individuals who ate a specific food and became ill divided by the total number of individuals who ate that food.</para>
+<para id="para-00057">Numerator: 50 individuals who ate the cheddar cheese and developed n/v/d</para>
+<para id="para-00058">Denominator: 150 individuals who ate the cheddar cheese</para>
+<para id="para-00059">Multiply by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:mn>102</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math>.</para>
+<para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo><m:mo> </m:mo><m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>33</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:mo>%</m:mo></m:math></para>
+<para id="para-00061"><emphasis effect="bold">Calculating Incidence Proportion (also known as risk)</emphasis></para>
+<para id="para-00062">In a study of men with and without hypertension, 165 of the men with hypertension (out of a total of 305 men with hypertension) had died during the follow-up study 10 years later. Calculate the risk of death for these men.</para>
+<para id="para-00063">Men with hypertension: 305</para>
+<para id="para-00064">Numerator: 165 deaths among men with hypertension</para>
+<para id="para-00065">Denominator: 305 men with hypertension</para>
+<para id="para-00066"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo> </m:mo><m:mn>102</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>100</m:mn></m:math></para>
+<para id="para-00067">Incidence proportion (Risk) <m:math><m:mo> </m:mo><m:mo>(</m:mo><m:mi>Risk</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mfenced><m:mfrac><m:mn>165</m:mn><m:mn>305</m:mn></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>54</m:mn><m:mo>.</m:mo><m:mn>1</m:mn><m:mo>%</m:mo></m:math></para> 
+<para id="para-00068">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+<note class="boxed-feature" id="note-00006">
+<title>Box 12.6: Case-Fatality Rate</title>
+<para id="para-00069"><emphasis effect="bold">Case-Fatality Rate</emphasis></para>
+<para id="para-00070">A <term class="no-emphasis" id="term-00020">case-fatality rate</term> is the proportion of individuals with a disease who die from it. With this proportion, the numerator can only include deaths among individuals included in the denominator, but the time periods do not need to be the same. It is a measure of disease severity.</para>
+<para id="para-00071">For example, a multistate outbreak of hepatitis A was traced to contaminated strawberries. There were 300 cases and two deaths as a result of the infection.</para>
+<para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>/</m:mo><m:mn>300</m:mn><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>%</m:mo><m:mo> </m:mo></m:math></para>
+<para id="para-00073">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+<note class="boxed-feature" id="note-00007">
+<title>Box 12.7: Mortality Rate</title>
+<para id="para-00074"><emphasis effect="bold">Mortality Rate</emphasis></para>
+<para id="para-00075">A mortality rate is the measure of death in a defined population during a specific time period.</para>
+<para id="para-00076">Numerator = Deaths occurring during a specific time period</para>
+<para id="para-00077">Denominator = Size of the population where deaths occurred</para>
+<para id="para-00078">Multiply the result by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. Values of 1,000 or 100,000 are often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math> or <m:math><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math>.</para>
+<para id="para-00079"><emphasis effect="bold">Commonly Used Measures of Mortality:</emphasis></para>
+<para id="para-00080">Crude death rate is the mortality rate from all causes of death for a population.</para>
+<para id="para-00081">Numerator: Total number of deaths during a given time interval</para>
+<para id="para-00082">Denominator: Mid-interval population</para>
+<para id="para-00083"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo> </m:mo></m:math> or <m:math><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></para>
+<para id="para-00084">For example, suppose that a total of 3,000,0000 deaths occurred in 2020. The estimated population was 400,000,000 at the midpoint of 2020. Therefore, the crude mortality/crude death rate in 2020 was <m:math><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>/</m:mo><m:mn>400</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>750</m:mn></m:math>, or 750 deaths per 100,000 population.</para>
+<para id="para-00085"><emphasis effect="italics">Cause-specific death rate</emphasis> is the mortality rate from a specific cause in a population.</para>
+<para id="para-00086">Numerator: Number of deaths assigned to a specific cause during a given time interval</para>
+<para id="para-00087">Denominator: Mid-interval population</para>
+<para id="para-00088"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></para>
+<para id="para-00089">For example, in 2020, there were 91,799 drug overdose deaths in the United States (CDC, 2022b). The midyear population of 2020 was 333,287,557. Therefore, the cause-specific (drug overdose) mortality rate was 27.5 per 100,000 population.</para>
+<para id="para-00090"><emphasis effect="bold">Infant mortality rate</emphasis></para>
+<para id="para-00091">Numerator: Number of deaths among children &lt;1 year of age during a specified time period</para>
+<para id="para-00092">Denominator: Number of live births during the same time period</para>
+<para id="para-00093"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math></para>
+<para id="para-00094"><emphasis effect="bold">Maternal mortality rate</emphasis></para>
+<para id="para-00095">Numerator: Number of deaths assigned to pregnancy-related causes during a specified time period</para>
+<para id="para-00096">Denominator: Number of live births during the same time period</para>
+<para id="para-00097"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></para>
+<para id="para-00098">(See Centers for Disease Control and Prevention, 2012.)</para>
+</note>
+</section>
+</section>
+<section id="sect-00006">
+<title>Measures of Association</title>
+<para id="para-00099">Epidemiologists seek to identify <term class="no-emphasis" id="term-00021">causal relationships</term> between agents and disease occurrence by first assessing whether they are associated. An observed association between an exposure or an agent and a disease may indicate a causal relationship, but it may be a result of an error with the sampling method used (Green et al., 2011). Measures of association, such as relative risk (risk ratio), rate ratio, odds ratio, and attributable risk, assess the degree to which the risk of disease increases when exposed to an agent, thereby demonstrating the strength of an association—or, put another way, the strength of a causal relationship. Measures of association essentially compare disease occurrence among two groups—one being the primary interest group and the other being the comparison group—and serve as epidemiological criteria to establish causal relationships (CDC, 2012).</para>
+<section id="sect-00007">
+<title>Relative Risk</title>
+<para id="para-00100"><term id="term-00022">Relative risk (RR)</term>, or <term id="term-00023">risk ratio</term>, compares the risk of a health event among one group with the risk among another group, the comparison group. It is the ratio of the incidence proportion of the health event in exposed individuals (or the group of primary interest) to the incidence proportion in unexposed individuals (or the comparison group). A risk ratio of 1.0 indicates equal risk between the two groups. A risk ratio greater than 1 indicates an increased risk for the group in the numerator, the exposed group. A risk ratio less than 1 indicates a decreased risk for the exposed group, signaling the exposure may protect against the disease or health event occurrence. See [link]Box 12.8[/link] for more information on the calculation of RR and an example.</para>
+<note class="boxed-feature" id="note-00008">
+<title>Box 12.8: Relative Risk</title>
+<para id="para-00101"><emphasis effect="bold">Calculating Relative Risk (RR)</emphasis></para>
+<para id="para-00102">Numerator: Risk of disease or health event, the incidence proportion, in primary interest group</para>
+<para id="para-00103">Denominator: Risk of disease or health event, the incidence proportion, in comparison group</para>
+<para id="para-00104"><emphasis effect="bold">Example</emphasis></para>
+<para id="para-00105">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease, and 75 of the unexposed individuals are also diagnosed with the disease. The relative risk of contracting the disease is calculated by:</para>
+<para id="para-00106">Incidence proportion of the primary interest group (exposed group) is <m:math><m:mfenced><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac></m:mfenced><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:math></para>
+<para id="para-00107">Incidence proportion of the comparison group (unexposed group) is <m:math><m:mfenced><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac></m:mfenced><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:math></para>
+<para id="para-00108">Therefore, the RR is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo>=</m:mo><m:mo> </m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>8</m:mn></m:math>. This RR of 2.8 suggests the risk of disease in the exposed group is 2.8 times as high as the risk of disease in the unexposed group.</para>
+</note>
+</section>
+<section id="sect-00008">
+<title>Rate Ratio</title>
+<para id="para-00109">A <term id="term-00024">rate ratio</term> compares the incidence rates or mortality rates of two groups. Similar to the risk ratio, the two groups are usually differentiated by exposure to a suspected causative agent and a comparison group or are differentiated by demographic factors such as gender or age. The rate for the primary interest group (<term class="no-emphasis" id="term-00025">exposure group</term>) is divided by the rate for the <term class="no-emphasis" id="term-00026">comparison group</term>. A rate ratio of 1.0 indicates equal risk between the two groups. A rate ratio greater than 1 indicates an increased risk for the group in the numerator, the exposed group. A rate ratio less than 1 indicates a decreased risk for the exposed group, signaling the exposure may protect against the disease or health event occurrence. See [link]Box 12.9[/link] for more information on the calculation of rate ratio and an example.</para>
+<note class="boxed-feature" id="note-00009">
+<title>Box 12.9: Rate Ratio</title>
+<para id="para-00110"><emphasis effect="bold">Calculating Rate Ratio</emphasis></para>
+<para id="para-00111">Numerator: Incidence rate (or mortality rate) in primary interest group (exposure group)</para>
+<para id="para-00112">Denominator: Incidence rate (or mortality rate) in comparison group (non-exposed group)</para>
+<para id="para-00113"><emphasis effect="bold">Example</emphasis></para>
+<para id="para-00114">A public health nurse is investigating a perceived increase in flu-related deaths in January–March of 2022 in a large city compared to flu-related deaths the year prior in January–March 2021 in the same city. In 2021 there were 129 flu-related deaths among a midyear population of 500,000. In 2022 there were 310 flu-related deaths among a midyear population of 502,000. Calculate the rate ratio as follows:</para>
+<para id="para-00115">Mortality rate of the primary interest group (2022 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>310</m:mn><m:mrow><m:mn>502</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:math></para>
+<para id="para-00116">Mortality rate of the comparison group (2021 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>129</m:mn><m:mrow><m:mn>500</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:math></para>
+<para id="para-00117">Therefore, the rate ratio is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo>=</m:mo><m:mo> </m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>4</m:mn></m:math>. This suggests the risk of disease in the primary interest group is 2.4 times as high as the risk of disease in the comparison group, suggesting that in 2022 there was a higher mortality rate due to flu than in the year prior.</para>
+</note>
+</section>
+<section id="sect-00009">
+<title>Odds Ratio</title>
+<para id="para-00118">The <term id="term-00027">odds ratio (OR)</term> is similar to the RR as it quantitatively expresses the association between an exposure and a disease or health outcome. It is most often used to estimate the RR in case-control studies when the disease being investigated is rare. It is the ratio of the odds of developing a disease when exposed to an agent to the odds of developing the disease when not exposed. Investigators can use the OR to estimate the RR since RRs cannot be calculated from a typical case-control study. See [link]Box 12.10[/link] for more information on the calculation of the odds ratio and an example.</para>
+<note class="boxed-feature" id="note-00010">
+<title>Box 12.10: Odds Ratio</title>
+<para id="para-00119"><emphasis effect="bold">Calculating Odds Ratio in a Case-Control Study</emphasis></para>
+<para id="para-00120">Numerator: Odds a case was exposed</para>
+<para id="para-00121">Denominator: Odds a control was exposed</para>
+<para id="para-00122">Odds ratio <m:math><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>d</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:mrow></m:mfrac></m:math> where</para>
+<para id="para-00123"><emphasis effect="italics">a</emphasis> = number of individuals exposed and with disease</para>
+<para id="para-00124"><emphasis effect="italics">b</emphasis> = number of individuals exposed but without disease</para>
+<para id="para-00125"><emphasis effect="italics">c</emphasis> = number of individuals unexposed but with disease</para>
+<para id="para-00126"><emphasis effect="italics">d</emphasis> = number of individuals unexposed and without disease</para>
+<para id="para-00127"><emphasis effect="bold">Example</emphasis></para>
+<table class="vertically-tight" id="table-00001">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"/></entry>
+<entry valign="top" align="left"><span class="blue-text">Cases with disease</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Controls with no disease</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Totals</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Exposed</entry>
+<entry valign="top" align="left"><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>190</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
+<entry valign="top" align="left">2,190</entry>
+</row>
+<row>
+<entry valign="top" align="left">Not exposed</entry>
+<entry valign="top" align="left"><m:math><m:mi>C</m:mi><m:mo>=</m:mo><m:mn>140</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
+<entry valign="top" align="left">10,140</entry>
+</row>
+<row>
+<entry valign="top" align="left">Total</entry>
+<entry valign="top" align="left">330</entry>
+<entry valign="top" align="left">12,000</entry>
+<entry valign="top" align="left">12,330</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00128">Calculate the OR as follows:</para>
+<para id="para-00129"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>190</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>140</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>79</m:mn></m:math></para>
+<para id="para-00130">Now, using the same data in the table, calculate the RR as follows:</para>
+<para id="para-00131"><m:math><m:mfrac><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mn>190</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle><m:mo>,</m:mo><m:mn>190</m:mn></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mn>140</m:mn><m:mn>10</m:mn></m:mfrac></m:mstyle><m:mo>,</m:mo><m:mn>140</m:mn></m:mrow></m:mfenced></m:mfrac><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>28</m:mn></m:math></para>
+<para id="para-00132">The OR and the RR are close as the OR provides a realistic estimation of the RR.</para>
+</note>
+</section>
+<section id="sect-00010">
+<title>Attributable Risk</title>
+<para id="para-00133">The <term id="term-00028">attributable risk (AR)</term> is an often-used measurement of risk, representing the amount of disease among exposed individuals attributed to the exposure. AR represents the maximum proportion of disease that can be attributed to the exposure and is the maximum proportion of disease that can possibly be prevented by eliminating the exposure (Green et al., 2011). AR can also be stated as the attributable proportion of risk, the proportion of the disease among exposed individuals that is associated with the exposure, and can be used as a measure of the public health impact of a causative factor. It assumes the incidence of disease in the unexposed group is the baseline and expected risk for that disease. It also assumes that if there is a difference between the incidence of disease in the two groups, the difference is due to the exposure. This is a fine tool to measure risk when a single risk factor or exposure is being considered but does not work well when there are multiple exposures to various agents. See [link]Box 12.11[/link] for more information on the calculation of attributable risk and an example.</para>
+<note class="boxed-feature" id="note-00011">
+<title>Box 12.11: Attributable Risk</title>
+<para id="para-00134">Calculating Attributable Risk (AR)</para>
+<para id="para-00135">Numerator: (Incidence in the exposed) – (Incidence in the unexposed)</para>
+<para id="para-00136">Denominator: Incidence in the exposed</para>
+<para id="para-00137"><emphasis effect="bold">Example</emphasis></para>
+<para id="para-00138">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease and 75 of the unexposed individuals are also diagnosed with the disease.</para>
+<para id="para-00139">The incidence of disease in the exposed group is 125 individuals out of <m:math><m:mn>300</m:mn><m:mo> </m:mo><m:mfenced><m:mrow><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac><m:mo>=</m:mo><m:mo> </m:mo><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>7</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo> </m:mo></m:math> who contract the disease.</para>
+<para id="para-00140">The incidence of disease in the unexposed group is 75 individuals out of <m:math><m:mn>500</m:mn><m:mo> </m:mo><m:mfenced><m:mrow><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo> </m:mo></m:math> who contract the disease.</para>
+<para id="para-00141">To calculate the AR:</para>
+<para id="para-00142"><m:math><m:mo>(</m:mo><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>)</m:mo><m:mo> </m:mo><m:mo>–</m:mo><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>15</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>64</m:mn></m:math> or 64%, meaning that the proportion of disease that is attributable to the exposure is 64%. <emphasis effect="italics">Attributable</emphasis> to does not equate to <emphasis effect="italics">caused by</emphasis>, as this calculation is addressing association, not inferring causation.</para>
+</note>
+</section>
+</section>
+<section id="sect-00011">
+<title>Sources of Error</title>
+<para id="para-00143">While reviewing epidemiological studies, the nurse must assess the strength of associations demonstrated in the study. A source of error can be a positive association discovered between an exposure and a health event when there is no true association. Another potential source of error occurs when no association is found between an exposure and health event when there is an association. A study may also find an association, but the strength of the association is greater or less than the actual association. These types of errors may be a result of chance, bias, or confounding. The nurse has a duty to examine each study for the possibility of these types of errors, which are explained in the following sections.</para>
+<section id="sect-00012">
+<title>Chance</title>
+<para id="para-00144"><term id="term-00029">Chance</term> refers to a random error that may occur within any study. The larger the <term id="term-00030">sample size</term> (the higher the number of participants), the less likelihood of a random error, but a large sample size does not eliminate the risk of a random error (Green et al., 2011). To assess for random error, epidemiologists use <term id="term-00031">statistical significance</term> and confidence intervals to permit an assessment of the study’s risk for random error (Green et al., 2011). Studies with statistically significant results are unlikely to be the result of random error. <term id="term-00032">Confidence intervals</term> provide the relative risk (or other risk measure) found in the study and an interval within which the risk would most likely fall if the study were repeated multiple times. If a 95 percent confidence interval is chosen, the range includes results expected 95 percent of the time if the samples for new studies were continually drawn from the same population.</para>
+<para id="para-00145">A <term id="term-00033">p-value</term> represents the <term class="no-emphasis" id="term-00034">probability</term> that the observed association could be the result of random error (Green et al., 2011). A p-value of 0.2 means there is a 20 percent chance the values found could have occurred by random error with no actual association present. Epidemiologists strive to minimize false positives by using p-values that fall below a selected level—often 0.05—known as the <term id="term-00035">alpha</term>, or significance, level, for the results of the study to be statistically significant (Green et al., 2011). The 0.05 alpha level means there is a 5 percent probability that the association found in the study would occur without an actual association, occurring by chance. The outcome will be deemed statistically significant if the observed alpha (p-value) falls below the preselected significance level (Green et al., 2011). Note that the p-value does not give the probability that the risk estimate in the study is correct; similarly, the confidence interval does not provide the range within which the true risk lies.</para>
+</section>
+<section id="sect-00013">
+<title>Bias</title>
+<para id="para-00146"><term id="term-00036">Bias</term>, also referred to as a <term class="no-emphasis" id="term-00037">systematic error</term> (tendency to underestimate or overestimate the value of a parameter), is another source of error in a study’s outcome, arising in the design or conduct of the study, data collection, or data analysis (Green et al., 2011). Researchers attempt to minimize bias through strong data collection protocols and overall study design. Bias results in a non-random error in a study result. When present, it may invalidate the results.</para>
+<para id="para-00147">The two common categories of bias are <term class="no-emphasis" id="term-00038">selection bias</term> and <term class="no-emphasis" id="term-00039">information bias</term>. Selection bias results from an inappropriate method of selecting study participants, particularly the control group, as this group should be drawn from the same population as the participants with the health event or health exposure that is under study. Additionally, selection bias occurs when participants decline to participate after agreeing to do so or when they drop off before study completion. This is an issue as many studies have demonstrated that individuals who participate in studies differ significantly from those who do not.</para>
+<para id="para-00148">An example of selection bias occurred in a study looking at the effect of hormone replacement therapy (HRT) on coronary heart disease (CHD) in women. Several observational studies demonstrated a decrease in CHD in women using HRT. Later randomized controlled trials found the opposite effect—that HRT may increase the risk for CHD in this population. The difference in the findings was related to selection bias. Among the women in the observational studies, those taking HRT tended to be younger, more health conscious, and more physically active than those who were not using HRT. This resulted in a health-conscious bias as the observational studies represented the usual woman who initiated HRT (Catalogue of Bias Collaboration et al., 2017). Women who participated in the randomized control trials were older, more likely to be overweight or obese, and were using HRT for a much shorter duration than the women in the observational studies (Hodis &amp; Mack, 2022).</para>
+<para id="para-00149">Information bias results from a weakness in measuring the exposure or disease in the study group. In particular, in a case-control study, information bias is a consideration as the researcher depends on information from the past to determine exposure and disease and their relationship (Green et al., 2011). Research has demonstrated individuals with disease (cases) recall past exposure better than individuals without disease (control), creating a potential for recall bias. With case-control studies, researchers sometimes need to rely on interviews with surrogates when study subjects have died of the disease under investigation or are not well enough to be interviewed (Green et al., 2011). For example, in a case-control study looking at Alzheimer’s-type dementia, determining past exposures between the case and control groups could lead to information bias. In the cases, clients with Alzheimer’s-type dementia may have difficulty recalling past exposures compared to the control group, clients without Alzheimer’s-type dementia. Due to this recall bias, the presence of potential exposures as risk factors may be underreported in the case group, resulting in the researchers miscalculating the importance of these potential risk factors in disease development.</para>
+</section>
+<section id="sect-00014">
+<title>Confounding</title>
+<para id="para-00150"><term id="term-00040">Confounding</term> is another type of error that may result in an incorrect causation or conclusion. This occurs when another factor (the <term class="no-emphasis" id="term-00041">confounder</term>) is mistakenly identified as the agent associated with the outcome (Green et al., 2011). Confounding occurs when a confounder is both a risk factor for the disease and a factor associated with the exposure being investigated. This may result in an incorrect conclusion about causation, since the misidentified agent is not the true causal factor (Green et al., 2011). Confounding can be more of an issue with observational studies as the participants are not assigned randomly to the comparison groups. <term class="no-emphasis" id="term-00042">Randomization</term> helps to ensure that exposures, outside of the one being investigated, are evenly distributed between groups. Other techniques to limit confounding occur in the design stage with appropriate and thoughtful methods for selecting participants. If factors of age, gender, or certain lifestyle habits are potential confounders in a study, the investigators can limit the impact by selecting controls that match cases (Green et al., 2011). An example of confounding occurred when researchers were trying to link cigarette smoking to lung cancer. There was an established association that cigarette smokers had higher lung cancer rates, but this could have been due to other exposures or lifestyle factors and not the cigarette smoking. An argument could be made that individuals who smoke cigarettes are more likely to live in areas of higher pollution and that the pollution is causing the cancer. The confounding variable here is air pollution.</para>
+</section>
+</section>
+<section id="sect-00015">
+<title>Establishing Causation</title>
+<para id="para-00151"><term class="no-emphasis" id="term-00043">Causation</term> refers to an increase in disease incidence among exposed subjects that would not have occurred if these subjects had not been exposed. Epidemiology cannot prove causation, but causation can be inferred from the data that epidemiologists and public health professionals analyze and interpret. In assessing causation, epidemiologists look for alternative explanations for the association, such as chance, bias, or confounding as mentioned previously. After this process has ruled out these sources of error, epidemiologists use the following nine factors—the Bradford Hill criteria, commonly referred to as Hill’s criteria for causation—to guide them in making judgments about causation ([link]Table 12.2[/link]).</para>
+<table class="alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<tbody>
+<row>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">Temporal relationship</entry>
+<entry valign="top" align="left">The exposure (causal factor) must occur prior to disease development.</entry>
+</row>
+<row>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">Strength of the association</entry>
+<entry valign="top" align="left">The stronger the association (the higher the relative risk), the more likely the relationship is causal.</entry>
+</row>
+<row>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">Dose-response relationship</entry>
+<entry valign="top" align="left">The greater the exposure to the causal factor, the higher the risk of disease.</entry>
+</row>
+<row>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">Replication of the findings</entry>
+<entry valign="top" align="left">If the relationship is causal, the study results will have been replicated in different populations with consistent study results.</entry>
+</row>
+<row>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">Biological plausibility (coherence with existing knowledge)</entry>
+<entry valign="top" align="left">The causal relationship should be consistent with current biologic information.</entry>
+</row>
+<row>
+<entry valign="top" align="left">6</entry>
+<entry valign="top" align="left">Consideration of alternative explanations</entry>
+<entry valign="top" align="left">The causal relationship is reinforced when bias and confounding have been ruled out and other possible explanations have been considered.</entry>
+</row>
+<row>
+<entry valign="top" align="left">7</entry>
+<entry valign="top" align="left">Cessation of exposure</entry>
+<entry valign="top" align="left">If a causal factor results in disease, the risk of the disease is decreased when the causal factor is removed.</entry>
+</row>
+<row>
+<entry valign="top" align="left">8</entry>
+<entry valign="top" align="left">Specificity of the association</entry>
+<entry valign="top" align="left">The causal factor or exposure is associated with one disease.</entry>
+</row>
+<row>
+<entry valign="top" align="left">9</entry>
+<entry valign="top" align="left">Consistency with other knowledge</entry>
+<entry valign="top" align="left">If the relationship is causal, the findings would fit and be consistent with other information and data.</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c3">(See Green et al., 2011.)</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Hill Criteria for Causation</caption>
+</table>
+</section>
+<section class="section-summary" id="sect-00016">
+<title>Chapter Summary</title>
+<para id="para-00152">Common epidemiological frequency measures are ratios, proportions, and rates. Ratios can be used as a descriptive measure or in calculations for the occurrence of illness or death between two groups. Proportions are often used as descriptive measures and to describe the extent of disease attributable to a particular exposure. A rate measures the frequency of an event’s occurrence in a specified population over a defined time period. Epidemiologists use rates to describe incidence, prevalence, case-fatality, and attack rates. Measures of morbidity characterize how many individuals in a population become ill or are ill at a specified time. Mortality rate measures the frequency of death in a defined population during a specific time interval. Finally, measures of association assess the degree to which the risk of disease increases when exposed to an agent, thereby demonstrating the strength of a causal relationship.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>alpha</term> <meaning>the p-value or the significance level for the results of a study to be deemed statistically significant</meaning></definition>
+<definition id="def-00002"><term>attack rate</term> <meaning>the proportion of a population that develops an illness during an outbreak (synonym of incidence proportion)</meaning></definition>
+<definition id="def-00003"><term>attributable risk (AR)</term> <meaning>a measurement of the amount of disease among exposed individuals that is attributed to the exposure</meaning></definition>
+<definition id="def-00004"><term>bias</term> <meaning>a systematic error that underestimates or overestimates the value of a parameter; a source of error in a study’s outcome arising in the design or conduct of the study, data collection, or data analysis</meaning></definition>
+<definition id="def-00005"><term>case-fatality rate</term> <meaning>the proportion of individuals with a disease who die from it</meaning></definition>
+<definition id="def-00006"><term>chance</term> <meaning>a random error that may occur within any study</meaning></definition>
+<definition id="def-00007"><term>confounding</term> <meaning>a type of error that may result in an incorrect causation or conclusion</meaning></definition>
+<definition id="def-00008"><term>confidence intervals</term> <meaning>the relative risk (or other risk measure) found in the study and an interval within which the risk would most likely fall if the study were repeated multiple times</meaning></definition>
+<definition id="def-00009"><term>death-to-case ratio</term> <meaning>the number of deaths attributed to a disease during a specific period of time divided by the number of new cases of that disease during the same period</meaning></definition>
+<definition id="def-00010"><term>endemic</term> <meaning>the continual and constant presence of a disease within a given geographic area</meaning></definition>
+<definition id="def-00011"><term>epidemic</term> <meaning>when the level of disease in a defined area rises above endemic levels</meaning></definition>
+<definition id="def-00012"><term>hyperendemic</term> <meaning>persistent high levels of disease in a defined area</meaning></definition>
+<definition id="def-00013"><term>incidence proportion</term> <meaning>the proportion of a population that develops an illness during an outbreak (synonym of attack rate)</meaning></definition>
+<definition id="def-00014"><term>incidence rate</term> <meaning>all new cases of a disease or health condition appearing during a given period of time divided by the population at risk during the same period</meaning></definition>
+<definition id="def-00015"><term>morbidity</term> <meaning>having a disease, illness, or medical condition; includes disease, injury, and disability</meaning></definition>
+<definition id="def-00016"><term>mortality rate</term> <meaning>the frequency of death in a defined population during a specific time interval</meaning></definition>
+<definition id="def-00017"><term>odds ratio (OR)</term> <meaning>odds a case was exposed divided by the odds a control was exposed; quantitatively expresses the association between an exposure and a disease or health outcome; most often used to estimate the relative risk in case-control studies when the disease being investigated is rare</meaning></definition>
+<definition id="def-00018"><term>outbreak</term> <meaning>an epidemic affecting a limited geographic area</meaning></definition>
+<definition id="def-00019"><term>prevalence rate</term> <meaning>proportion of a population that has a health condition at a certain point in time or over a time interval</meaning></definition>
+<definition id="def-00020"><term>proportion</term> <meaning>a form of a ratio in which the numerator is always included in the denominator</meaning></definition>
+<definition id="def-00021"><term>p-value</term> <meaning>the probability that an observed association could be the result of random error</meaning></definition>
+<definition id="def-00022"><term>rate ratio</term> <meaning>compares the incidence rates or mortality rates of two groups</meaning></definition>
+<definition id="def-00023"><term>ratio</term> <meaning>a comparison of any two values, calculated by dividing one interval by the other</meaning></definition>
+<definition id="def-00024"><term>relative risk (RR)</term> <meaning>the ratio of the incidence proportion of the health event in exposed individuals (or the group of primary interest) to the incidence proportion in unexposed individuals (or the comparison group); compares the risk of a health event among one group with the risk among another group, the comparison group. See also risk ratio.</meaning></definition>
+<definition id="def-00025"><term>risk ratio</term> <meaning>synonym of relative risk</meaning></definition>
+<definition id="def-00026"><term>sample size</term> <meaning>the number of participants in a study</meaning></definition>
+<definition id="def-00027"><term>sporadic</term> <meaning>diseases that occur occasionally at irregular intervals</meaning></definition>
+<definition id="def-00028"><term>statistical significance</term> <meaning>an assessment for random error in a study</meaning></definition>
+</glossary>
 </document>

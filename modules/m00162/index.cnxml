@@ -5,9 +5,91 @@
     <md:content-id>m00162</md:content-id>
     <md:uuid>7d29b86a-66b0-481c-8efb-95117a37f24d</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Describe the differences between descriptive and analytic epidemiology.</item>
+<item>Discuss the purpose of experimental studies.</item>
+<item>Describe the purpose of observational studies.</item>
+<item>Discuss the different types of observational studies.</item>
+<item>Describe how epidemiologists interpret epidemiological studies.</item>
+</list>
+</section>
+<para id="para-00002">Epidemiology has two main branches: descriptive and analytical. <term id="term-00001">Descriptive epidemiology</term> considers time, place, and person of health events and seeks to describe disease variables (CDC, 2012). <term id="term-00002">Analytic epidemiology</term> searches for the why and how of diseases or other public health issues by testing hypotheses about causal relationships (CDC, 2012). <term id="term-00003">Causality</term> is the relationship between a cause and its effect. Data from descriptive studies suggest hypotheses that analytic epidemiologists test by assessing for causation patterns.</para>
+<para id="para-00003">Descriptive epidemiology depicts the occurrence of health events within a population, focusing on the frequency and pattern of these events by examining the characteristics of person, place, and time in relation to each event (CDC, 2012). Descriptive epidemiology evaluates all the conditions surrounding a person who is affected by a health event and may look at factors such as age, education, health care access, race, gender, and socioeconomic position concerning that health event (CDC, 2012). When the people and places affected and the timing of an event are described, patterns may emerge that can be considered potential risk factors for similar events.</para>
+<para id="para-00004">Analytic epidemiology searches for causes and effects of diseases or other health events, asking <emphasis effect="italics">why</emphasis> and <emphasis effect="italics">how,</emphasis> attempting to quantify a relationship between two variables (CDC, 2012). Since it focuses on the quality and the amount of influence that determinants have on the occurrence of diseases or other health events, analytic epidemiology requires a comparison, or control, group (CDC, 2012). Epidemiologists use analytic epidemiology to measure associations between exposures or risk factors and outcomes and to test hypotheses regarding causal relationships. The results of analytic epidemiology provide the evidence necessary to recommend appropriate prevention and control measures. The goal of analytic epidemiology is to reduce the incidence of health events or diseases by understanding their risk factors.</para>
+<section id="sect-00002">
+<title>Types of Epidemiological Studies</title>
+<para id="para-00005">The purpose of analytic epidemiologic studies is to identify and quantify the relationship between an exposure to a variable and a health outcome. Such studies require using two groups as one serves as the control or comparison group. Analytic epidemiologic studies fall into two broad categories: experimental and observational.</para>
+<note class="media-feature" id="note-00001">
+<title>Epidemiological Studies: A Beginner’s Guide</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/epidemiological"/>
+</media>
+<para id="para-00006">This video provides an overview of the many types of widely used epidemiological studies, including interventional studies, cohort studies, case-control studies, and cross-sectional studies, described in this chapter. The video also discusses ecological studies, case series studies, and systemic reviews that are beyond the scope of this chapter. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00002">
+<item>If you had to come up with a topic for an epidemiologic study question, what would it be? Why?</item>
+<item>The video notes that all studies must be done in an “ethical way.” What do you think this means?</item>
+<item>What are some advantages of a case-control study?</item>
+</list>
+</note>
+<section id="sect-00003">
+<title>Experimental Studies</title>
+<para id="para-00007"><term id="term-00004">Experimental studies</term>, also known as interventional studies, are considered the gold standard for a study when they are randomized and conducted under rigorous conditions. In experimental studies, the investigator controls or changes the factors thought to cause the health event under investigation and then observes what happens to the health state. These studies are conducted under carefully controlled conditions. An example is a <term class="no-emphasis" id="term-00005">clinical trial</term> of a new vaccine. The investigator randomly assigns some participants to the placebo group (control group, those who do not receive the new vaccine) and others to the group that will receive the new vaccine (experimental group). The investigator then tracks all the participants over time to observe which participants get the disease that the new vaccine is intended to prevent. The researcher then compares the two groups to see if the intervention group (experimental vaccine group) has a lower rate of disease ([link]Figure 12.6[/link]) (CDC, 2012).</para>
+<para id="para-00008">A <term class="no-emphasis" id="term-00006">community trial</term> is an experimental study conducted at the community level where one community is assigned an intervention and another community serves as the control, non-intervention group. The two communities are compared to determine whether the intervention demonstrated a positive change.</para>
+<figure class="scaled-down" id="fig-00001"><media alt="Two researchers wearing white lab coats work together in a lab setting."><image mime-type="image/jpg" src="../../media/PH_Figure_12_04_006.jpg"/></media>
+<caption>Vaccines undergo experimental testing with randomized controlled trials. In this photo, researchers engage in vaccine development. (credit: “NMRC Continues Phase 1 Testing of Diarrhea Vaccine 230127-N-GC612-0006” by Michael Wilson/Navy Medicine/Flickr, Public Domain)</caption></figure>
+</section>
+<section id="sect-00004">
+<title>Observational Studies</title>
+<para id="para-00009"><term id="term-00007">Observational studies</term> are based on investigator observations of exposure and disease status. These are commonly used when investigators suspect an agent’s effects are harmful, as it is unethical to knowingly expose individuals to potentially harmful agents. John Snow’s cholera studies were observational. Cohort studies, case-control studies, and cross-sectional studies are the most common types of observational studies used in epidemiological research (CDC, 2012).</para>
+<para id="para-00010">A <term id="term-00008">cohort study</term> is an observational study of a cohort, a group of individuals who all share a certain characteristic. For instance, a group of people who have all contracted Lyme disease is a cohort.</para>
+<para id="para-00011">In some ways, a cohort study is similar to an experimental study. As in an experimental study, the investigator documents whether or not study participants were exposed to what is being studied. For example, investigators might recruit a cohort of participants who have been exposed to cigarette smoke. The investigators would then compare the cohort’s rate of disease with the rate of disease of a group that has not been exposed to cigarette smoke. The investigator would then track participants of both groups to see if they developed the disease of interest.</para>
+<para id="para-00012">A cohort study differs from an experimental study, however, in that the investigator in a cohort study only observes participants whose exposure status is already known. The investigator does not actively determine the participants’ exposure status (for example, by deliberately exposing a study group to cigarette smoke). After a set period, the investigator in a cohort study compares the disease rate in the exposed group to that of the unexposed group. The unexposed group acts as the comparison group and serves as an estimate of the expected amount of disease in a community. If the disease rate is significantly different in the exposed group, then the said exposure is considered to be associated with the disease (CDC, 2012).</para>
+<para id="para-00013">Cohort studies may be classified as prospective or retrospective. In a <term class="no-emphasis" id="term-00009">prospective cohort study</term>, participants are enrolled as the study begins and followed over time, whereas in a retrospective study, the participants’ exposure and outcome have already occurred. <term class="no-emphasis" id="term-00010">Retrospective cohort studies</term> are helpful in disease investigations of distinct groups, such as investigations into outbreaks of uncommon diseases in health care or residential facilities. A major drawback of cohort studies is the possibility of differences between the two groups being studied with regard to risk factors and other exposures outside of the agent of interest, whereas experimental studies avoid this problem with randomization of subjects.</para>
+<note class="theory-action" id="note-00002">
+<title>The Framingham Heart Study</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/framingham"/>
+</media>
+<para id="para-00014">This short video highlights one of the largest and longest prospective cohort studies ever undertaken in the United States. In the video, study director Dr. Ramachandran discusses how it was not until this study that smoking cigarettes, hypertension, and hypercholesterolemia were implicated as risk factors for heart disease and stroke. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>Had you ever wondered how hypertension and hypercholesterolemia were identified as major risk factors for heart disease and stroke?</item>
+<item>Why do you think this study employed a prospective cohort study design?</item>
+<item>Why do you feel it is still beneficial today to have this study ongoing?</item>
+</list>
+<para id="para-00015">Further information on the <term class="no-emphasis" id="term-00011">Framingham Heart Study</term> can be found at <link url="https://openstax.org/r/framinghamheartstudy">Honoring Their Legacy: The Framingham Heart Study’s Original Cohort</link>.</para>
+</note>
+<para id="para-00016">In a <term id="term-00012">case-control study</term>, investigators enroll a group of individuals with a disease and a control group of individuals without the disease and compare previous exposures between the groups. While cohort studies measure and compare the incidence of disease in exposed and unexposed groups, case-control studies compare the frequency of exposure in a group that already has the disease to a group without the disease. The rates of exposure in the cases and in the controls are compared. Similar to the cohort study, if the amount of exposure among the case group is significantly higher than the amount in the control group, then the disease or illness is thought to be associated with that exposure. In this study design, it is important to identify an appropriate control group that is comparable to the case group in most ways in order to provide a fair estimate of the baseline exposures in a given population (CDC, 2012). Case-control studies can often be completed in less time and with less expense than cohort studies and tend to work well in the study of uncommon diseases (Omair, 2016).</para>
+<note class="theory-action" id="note-00003">
+<title>Analytic Epidemiology in Action: Case-Control Study</title>
+<para id="para-00017">This vignette is based on an example of a real-world scenario of a 2003 outbreak of hepatitis A in Pennsylvania. Public health epidemiologists had been asked to investigate a cluster of hepatitis A cases. Investigators found that almost all affected individuals had eaten at a specific restaurant before the onset of their illness. Discovering the location of the likely outbreak source helped refine the hypothesis, but investigators did not know which foods were contaminated. Instead of assessing only the foods consumed by the ill individuals, the investigators knew they needed to compare the foods consumed by the ill individuals to foods consumed by well individuals who had eaten at the same restaurant during the same time period, looking for significant differences in the foods consumed by the two groups.</para>
+<para id="para-00018">The investigation found that 94 percent of the affected individuals ate mild salsa compared with 39 percent in the control group. This narrowed the investigation, and ultimately the green onions in the salsa were found to be the source of infection. Shortly after, the FDA issued an advisory to the public about the risk of hepatitis A and green onions.</para>
+<para id="para-00019">(See Centers for Disease Control and Prevention, 2003; Wheeler et al., 2005.)</para>
+</note>
+<para id="para-00020">In a <term id="term-00013">cross-sectional study</term>, investigators enroll sample individuals from a specified population and simultaneously measure each participant's exposure and disease outcome to get a snapshot of a specified population at a given time. Cross-sectional studies do not determine the long-term development or risk of a disease. In this study approach, the identified cases are considered <term class="no-emphasis" id="term-00014">prevalent cases</term> (the proportion of people with a disease at a certain time) because investigators know only that the cases existed at the time of the study but do not know their duration or whether the exposure happened before the outcome. These types of studies are used to document the prevalence of health behaviors (prevalence of smoking), health states (prevalence of obesity), and health outcomes (chronic conditions like hypertension) in a community at a given time (CDC, 2012). These studies are an excellent tool for descriptive epidemiological purposes.</para>
+</section>
+</section>
+<section id="sect-00005">
+<title>Interpretation of Epidemiological Studies</title>
+<para id="para-00021">Epidemiologists seek to understand and discover whether a causal relationship exists between an agent or exposure and a disease. Therefore, the study’s first question is whether an association exists between the agent or exposure and the disease. Using comparison, an association exists when the agent or exposure and disease occur together more frequently than the baseline occurrence. A causal relationship is one possible explanation for observed associations, but an association by itself does not equate to a causal relationship. The next section describes frequency measures, the mathematical means of expressing risk, and the strength of associations between exposure and disease.</para>
+<para id="para-00022">Epidemiology often uses frequency measures such as ratios, proportions, and rates. Ratios and proportions describe the characteristics of populations, while proportions and rates quantify morbidity and mortality. Frequency measures permit inferences to suggest risk among different groups, detect groups at high risk, and develop hypotheses about why these groups might be at increased risk. With any epidemiologic study, comparison is the foundation for analysis, comparing the observed amount of disease in a population with the expected amount of disease. The comparisons are then further quantified using such measures of association as risk ratios, rate ratios, and odds ratios that provide evidence regarding causal relationships between exposures and disease. The next section will look at epidemiologic measures in more detail.</para>
+</section>
+<section class="section-summary" id="sect-00006">
+<title>Chapter Summary</title>
+<para id="para-00023">Descriptive and analytical are the two main branches of epidemiology. Descriptive epidemiology covers the time, place, and person of epidemiologic events and seeks to describe disease variables. Analytic epidemiology searches for the why and the how of diseases or other public health issues by testing hypotheses about causal relationships. Analytic epidemiologic studies fall into two broad categories—experimental and observational—and their purpose is to identify and quantify the relationship between an exposure and a health outcome. In experimental studies, the investigator determines the exposure for the participants. In an observational study, the participants are exposed under natural conditions. Cohort studies, case-control studies, and cross-sectional studies are the most common types of observational studies used in epidemiological research.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>analytic epidemiology</term> <meaning>the study of the causes and effects of diseases or other health events, looking for the why and the how, attempting to quantify a relationship between two variables</meaning></definition>
+<definition id="def-00002"><term>case-control study</term> <meaning>a study design in which investigators enroll a group of individuals with a disease and a group of individuals without the disease and compare previous exposures between the groups</meaning></definition>
+<definition id="def-00003"><term>causality</term> <meaning>the relationship between cause and effect</meaning></definition>
+<definition id="def-00004"><term>cohort study</term> <meaning>a study in which the investigator documents whether or not study participants were exposed to what is being studied</meaning></definition>
+<definition id="def-00005"><term>cross-sectional study</term> <meaning>a study in which a sample of individuals from a specified population is enrolled and the exposure and disease outcome are measured simultaneously for each participant; provides a snapshot of any specified population at a given point in time</meaning></definition>
+<definition id="def-00006"><term>descriptive epidemiology</term> <meaning>the frequency and pattern of health events within a population according to the characteristics of person, place, and time</meaning></definition>
+<definition id="def-00007"><term>experimental studies</term> <meaning>in epidemiology, studies in which the investigator controls or changes the factors thought to cause a health event and then observes what happens to the health state</meaning></definition>
+<definition id="def-00008"><term>observational studies</term> <meaning>epidemiological studies based on investigator observations of exposure and disease status</meaning></definition>
+</glossary>
 </document>
