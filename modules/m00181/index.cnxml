@@ -216,7 +216,9 @@
   <table class="alternate-shading" id="table-00003">
   <title>Concepts in Diffusion of Innovations</title>
   <tgroup cols="2">
-     <thead>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Concept</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Definition</emphasis></span></entry>
@@ -248,7 +250,9 @@
   <table class="alternate-shading" id="table-00004">
   <title>Key Attributes Affecting an Innovation’s Diffusion</title>
   <tgroup cols="2">
-    <thead>
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
   <row>
     <entry valign="top" align="center"><span class="blue-text"><emphasis>Attribute</emphasis></span></entry>
     <entry valign="top" align="center"><span class="blue-text"><emphasis>Key Question</emphasis></span></entry>
@@ -283,6 +287,8 @@
   <table class="alternate-shading" id="table-00005">
   <title>Adopter Categories in Diffusion of Innovations Theory</title>
   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis>Category of Adopter</emphasis></span></entry>
