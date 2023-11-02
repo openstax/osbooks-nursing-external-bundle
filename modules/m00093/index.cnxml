@@ -14,7 +14,7 @@
     <colspec colnum="1" colname="c1"  colwidth="1*"/>
     <colspec colnum="2" colname="c2"  colwidth="1*"/>
    <tbody>
-  <row>
+    <row class="header-row">
    <entry namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Overall Nutrition Apps</span></emphasis></entry>
   </row>
   <row>
@@ -33,7 +33,7 @@
   <entry><link url="https://openstax.org/r/youate">Ate</link></entry>
   <entry>Food journal that promotes mindful eating, exploring driving forces behind food selection and consumption.</entry>
   </row>
-  <row>
+  <row class="header-row">
     <entry namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Weight-Loss Programs</span></emphasis></entry>
     </row>
   <row>
@@ -52,7 +52,7 @@
   <entry><link url="https://openstax.org/r/dofasting">DoFasting</link></entry>
   <entry>Promotes intermittent fasting to lose weight, attain healthy BMI, and improve gut health. Provides recipes, education, and workouts. Fasting nutritional approaches are not appropriate for everyone.</entry>
   </row>
-  <row>
+  <row class="header-row">
     <entry namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Recipes for Specific Pathologies</span></emphasis></entry>
     </row>
   <row>
@@ -67,7 +67,7 @@
   <entry><link url="https://openstax.org/r/playanti">Anti Inflammatory Diet Recipes</link></entry>
   <entry>Anti-inflammatory recipes designed to maximize gut health as a precursor to holistic health promotion.</entry>
   </row>
-  <row>
+  <row class="header-row">
     <entry namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Meal Tracking</span></emphasis></entry>
     </row>
   <row>
@@ -82,7 +82,7 @@
   <entry><link url="https://openstax.org/r/myfitnesspal">MyFitnessPal</link></entry>
   <entry>Food diary that includes the ability to scan barcodes, provides recipes, tracks health habits, and provides peer support.</entry>
   </row>
-  <row>
+  <row class="header-row">
     <entry namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Other</span></emphasis></entry>
     </row>
   <row>
