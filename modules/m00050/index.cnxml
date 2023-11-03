@@ -183,27 +183,36 @@
   <entry/>
   <entry/>
   <entry valign="top">&lt; 200</entry>
-  <entry valign="top">200-239</entry>
+  <entry valign="top">200&#8211;239</entry>
   <entry valign="top">&gt; 239</entry>
   <entry/>
   </row>
   <row>
   <entry valign="top">Low-density lipids (LDL) (“bad” cholesterol)</entry>
-  <entry valign="top">100-129</entry>
+  <entry valign="top">100&#8211;129</entry>
   <entry valign="top">&lt; 100</entry>
   <entry/>
-  <entry valign="top">130-159</entry>
-  <entry valign="top">160-189</entry>
+  <entry valign="top">130&#8211;159</entry>
+  <entry valign="top">160&#8211;189</entry>
   <entry valign="top">&gt; 189</entry>
+  </row>
+  <row>
+  <entry valign="top">Triglycerides</entry>
+  <entry/>
+  <entry/>
+  <entry valign="top">&lt; 150</entry>
+  <entry valign="top">150&#8211;199</entry>
+  <entry valign="top">200&#8211;499</entry>
+  <entry valign="top">&gt; 499</entry>
   </row>
   <row>
   <entry valign="top">High-density lipids (HDL) (“good” cholesterol)</entry>
   <entry/>
+  <entry valign="top">&gt; 60</entry>
+  <entry valign="top">&gt; 40</entry>
   <entry/>
-  <entry valign="top">&lt; 150</entry>
-  <entry valign="top">150-199</entry>
-  <entry valign="top">200-499</entry>
-  <entry valign="top">&gt; 499</entry>
+  <entry/>
+  <entry/>
   </row>
   </tbody>
   </tgroup>
