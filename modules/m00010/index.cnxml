@@ -229,7 +229,7 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Stages of <term class="no-emphasis" id="term-00024">Kidney Disease</term></span></entry>
+<entry valign="top" align="left"><span class="blue-text">Stages of <term id="term-00024">Kidney Disease</term></span></entry>
 <entry valign="top" align="left"><span class="blue-text">Clinical Indicators</span></entry>
 <entry valign="top" align="left"><span class="blue-text">Amount of Protein (g/kg of Ideal Body Weight)</span></entry>
 </row>
