@@ -6,8 +6,247 @@
     <md:uuid>faa517f9-ea21-4bbd-8cf6-a67c8fddcb90</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of glucocorticoid and mineralocorticoid drugs used to treat adrenal disorders.</item>
+<item>Explain the indications, actions, adverse reactions, contraindications, and interactions of glucocorticoid and mineralocorticoid drugs used to treat adrenal disorders.</item>
+<item>Describe nursing implications of glucocorticoid and mineralocorticoid drugs used to treat adrenal disorders.</item>
+<item>Explain the client education related to glucocorticoid and mineralocorticoid drugs used to treat adrenal disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Glucocorticoids</title>
+<para id="para-00002"><term class="no-emphasis" id="term-00001">Glucocorticoids</term> and <term class="no-emphasis" id="term-00002">mineralocorticoids</term> are two types of steroid hormones that are produced by the adrenal cortex and play distinct roles in regulating the body’s metabolism, fluid balance, and stress response. <term id="term-00003">Glucocorticoids</term> are produced in response to stress and help regulate metabolism and the immune system.</para>
+<para id="para-00003">The primary glucocorticoid in the body is <term id="term-00004">cortisol</term>. Cortisol helps regulate glucose uptake in other tissues—such as muscles and fat—and has an anti-inflammatory and immunosuppressive effect, making it an important medication in the treatment of many inflammatory and autoimmune disorders and in preventing transplantation rejection. Nurses should note that there are many corticosteroids within this class of drugs, and they vary by potency, route of administration, and other non-anti-inflammatory activity. These properties help the health care provider choose the appropriate corticosteroid agent to prescribe for the client. Synthetic glucocorticoids—such as prednisone, dexamethasone, and hydrocortisone—are commonly used in medicine to treat conditions such as asthma, rheumatoid arthritis, and inflammatory bowel disease.</para>
+<para id="para-00004">Although glucocorticoids can be effective at treating certain conditions, they can have significant toxic effects over time that limit use. As such, their use is typically reserved for short-term treatment of acute conditions or as a last resort for long-term conditions that have not responded to other treatments. Short-term use is tapered quickly to avoid rebound symptoms. Long-term use also requires tapering due to HPA axis suppression resulting in inadequate cortisol production.</para>
+<section id="sect-00003">
+<title>Cortisone Acetate</title>
+<para id="para-00005">Cortisone acetate is a glucocorticoid that also has salt-retaining properties. It is indicated for use with primary or secondary adrenocortical insufficiency, hypercalcemia associated with cancer, rheumatic disorders, collagen disorders, allergic states, inflammatory bowel disorders, and various respiratory, hematologic, integumentary, and neoplastic disorders. Adverse effects include fluid retention, sodium retention, hypertension, muscle weakness, osteoporosis, headache, and weight gain.</para>
+</section>
+<section id="sect-00004">
+<title>Hydrocortisone</title>
+<para id="para-00006">Hydrocortisone, a synthetic form of cortisol, is a short-acting glucocorticoid that is used to reduce inflammation and swelling in the body. Hydrocortisone is used to treat a variety of conditions including skin disorders, allergic reactions, asthma, arthritis, and certain types of cancer. It can be applied topically, as a cream or ointment, and has ophthalmic, otic, and rectal routes available. Adverse effects include headache, dizziness, nausea, weight gain, mood changes, increased blood pressure, hyperglycemia, difficulty sleeping, dry skin, acne, skin irritation, and increased risk of infections.</para>
+<note class="clinical-tip" id="note-00001">
+<para id="para-00007"><emphasis effect="bold">Hydrocortisone Administration</emphasis></para>
+<para id="para-00008">Systemic administration of steroids is often recommended to take place in the morning to avoid insomnia (Hodgens &amp; Sharman, 2023).</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Methylprednisolone</title>
+<para id="para-00009">Methylprednisolone is an intermediate-acting synthetic glucocorticoid that is used as an anti-inflammatory and immunosuppressant. It is commonly used to treat a variety of inflammatory and autoimmune conditions. Methylprednisolone—available in oral, injectable, and topical forms—works by binding to glucocorticoid receptors in the cells of the body, which leads to a reduction in the release of inflammatory molecules, such as cytokine<emphasis effect="bold">s</emphasis>, and inhibits the immune response and decreases inflammation. Dosing is based on the condition being treated and the severity of symptoms.</para>
+</section>
+<section id="sect-00006">
+<title>Prednisolone</title>
+<para id="para-00010">Prednisolone, an intermediate-acting synthetic form of cortisol, is used to decrease inflammation and to treat a variety of conditions including rheumatic conditions, allergic reactions, asthma, and certain types of cancer. The medication comes in an oral form and as an injectable. Adverse effects include increased glucose levels, injection site reactions, weight gain, and mood changes.</para>
+</section>
+<section id="sect-00007">
+<title>Prednisone</title>
+<para id="para-00011">Prednisone is an intermediate-acting steroid medication and a synthetic form of cortisol used to reduce inflammation. Like prednisolone, it is used in the treatment of a variety of conditions including asthma, allergic reactions, rheumatic disorders, respiratory disorders, and certain types of cancer. Adverse effects include weight gain, mood changes, increased blood sugar levels, and osteoporosis.</para>
+</section>
+<section id="sect-00008">
+<title>Betamethasone</title>
+<para id="para-00012">Betamethasone is a long-acting synthetic cortisol that reduces inflammation and swelling in the body and is used to treat various disorders including skin and inflammatory disorders such as rheumatoid arthritis. Adverse effects include skin irritation, increased risk of infection, and elevated blood glucose levels.</para>
+</section>
+<section id="sect-00009">
+<title>Dexamethasone</title>
+<para id="para-00013">Dexamethasone is a long-acting synthetic form of cortisol that is used to reduce inflammation in the body and may also be used as an immunosuppressant. Dexamethasone, which comes in an oral and injectable form, is used to treat numerous disorders including rheumatic, respiratory, asthma, and allergic reactions. This drug is also used in the diagnosis of Cushing’s syndrome as a suppressive test. Adverse effects include increased risk of infection, weight gain, irritability and mood changes, increased blood sugar levels, GI upset, and osteoporosis.</para>
+<para id="para-00014">[link]Table 26.6[/link] lists common glucocorticoids and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Drug</span></span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Routes and Dosage Ranges</span></span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Cortisone acetate (Cortison, Cortisyl)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose</emphasis>: 25–300 mg orally daily depending on the specific disease entity being treated.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Hydrocortisone (Cortisporin, Cortizone, Solu-Cortef, Proctocort)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Topical cream:</emphasis> Depends on formulation, typically 1%, 3–4 times/daily.<newline/><emphasis effect="italics">IV:</emphasis> 100–500 mg; dose extremely variable based on patient and indication.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Methylprednisolone (Medrol, Solu-Medrol)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose</emphasis>: 4–200 mg daily depending on the specific disease entity being treated. Routes include oral (dose-pack, tablets, solution), intravenous, intra-articular, and intramuscular.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Prednisolone (Millipred, Omnipred, Prelone)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose</emphasis>: 5–60 mg orally daily depending on the specific disease entity being treated.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Prednisone (Deltasone)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose</emphasis>: 5–60 mg orally daily depending on the specific disease entity being treated.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Betamethasone (Celestone, Betaject)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose for injectable</emphasis>: 0.25–0.9 mg/day intravenously or intramuscularly.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00011">Dexamethasone (Decadron, Dexasone)</term></entry>
+<entry valign="top" align="left">4–20 mg intravenously or intramuscularly, 2–4 times a day.<newline/><emphasis effect="italics">Maximum dose</emphasis>: 40 mg/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Glucocorticoids (source: <link url="https://openstax.org/r/nlmnih">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
+</table>
+</section>
+<section id="sect-00010">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00015">Short-term adverse effects include insomnia, hunger, and mood changes. Long-term adverse effects include weight gain, high blood pressure, osteoporosis, hyperglycemia, skin atrophy (topical application), iatrogenic <term id="term-00012">Cushing’s syndrome</term>, and increased risk of infection.</para>
+<para id="para-00016">Glucocorticoids are contraindicated in clients with hypersensitivity to any component of the formulation, those who have an active systemic fungal infection, or someone with uncontrolled hyperglycemia.</para>
+<para id="para-00017">[link]Table 26.7[/link] is a drug prototype table for glucocorticoids featuring methylprednisolone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Synthetic glucocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to glucocorticoid receptors, decreasing the release of inflammatory molecules, and inhibiting the immune response</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">Typical dose:</emphasis> 4–200 mg. Routes include oral (dose-pack, tablets, solution), intravenous, intra-articular, and intramuscular.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>Inflammatory conditions<newline/>Autoimmune disorders<newline count="2"/><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>Decreases inflammation<newline/>Suppresses the immune response</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>Oral anticoagulants<newline/>Aspirin<newline count="2"/><emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>Weight gain<newline/>High blood pressure<newline/>Osteoporosis<newline/>Increased risk of infection<newline/>Skin atrophy<newline/>Hyperglycemia/glycosuria</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>Hypersensitivity<newline/>Systemic active fungal infections<newline count="2"/>Caution:<newline/>May increase risk of infection</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype: Methylprednisolone<newline/>(source: <link url="https://openstax.org/r/nlmnih">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00011">
+<title>Mineralocorticoids</title>
+<para id="para-00018"><term id="term-00013">Mineralocorticoids</term> are a type of steroid hormones that are produced by the adrenal cortex and are involved in regulating the body’s fluid balance and electrolyte levels. The primary mineralocorticoid in the body is aldosterone.</para>
+<para id="para-00019">Disorders of mineralocorticoid production or activity can lead to imbalances in fluid and electrolyte levels: two such conditions exist. The first is hyperaldosteronism, which is characterized by excess aldosterone production. An excess of aldosterone causes an increase in blood pressure and serum sodium levels along with a decrease in serum potassium levels. The other condition is hypoaldosteronism, which is characterized by insufficient aldosterone production. Hypoaldosteronism leads to a decrease in blood pressure and serum sodium levels along with an increase in serum potassium levels.</para>
+<section id="sect-00012">
+<title>Aldosterone</title>
+<para id="para-00020">Aldosterone works by binding to mineralocorticoid receptors in the cells of the kidney, which increases the reabsorption of sodium ions and the excretion of potassium ions. This leads to an increase in blood volume and blood pressure. In addition to regulating fluid and electrolyte balance, aldosterone plays a role in the <term id="term-00014">renin-angiotensin-aldosterone system (RAAS)</term>. The RAAS is a complex hormonal system that helps to regulate blood pressure by controlling the balance of sodium and water in the body.</para>
+</section>
+<section id="sect-00013">
+<title>Fludrocortisone</title>
+<para id="para-00021">Fludrocortisone is a synthetic adrenocortical steroid that binds to mineralocorticoid receptors in the cells of the kidney and supports fluid and electrolyte balance within the body. This medication is used to treat primary and secondary adrenocortical insufficiency in <term id="term-00015">Addison’s disease</term>. Adverse effects include hyperglycemia, hypokalemia, hypertension, muscle weakness, and impaired wound healing. It is contraindicated in clients with fungal infections and hypersensitivity.</para>
+</section>
+<section id="sect-00014">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00022">Common adverse effects of mineralocorticoid drugs include fluid retention because they promote sodium and water reabsorption in the kidneys; hypokalemia where symptoms include muscle weakness, fatigue, irregular heartbeat, and muscle cramps; elevated blood pressure; gastrointestinal disturbances such as stomach discomfort, nausea, and diarrhea; and mood and behavioral changes such as mood swings, irritability, or anxiety.</para>
+<para id="para-00023">Contraindications include hypersensitivity to the drug or any of its components, systemic fungal infections, heart failure, and severe kidney impairment. Mineralocorticoids can suppress the immune system and worsen systemic fungal infections; heart failure is contraindicated because these drugs can cause fluid retention and lead to worsening of fluid volume overload; and, severe kidney impairment can occur in clients with kidney disease as these drugs are excreted through the urine and can cause further renal insufficiency.</para>
+<para id="para-00024">[link]Table 26.8[/link] is a drug prototype table for mineralocorticoids featuring fludrocortisone acetate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Mineralocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to mineralocorticoid receptors in the cells of the kidney, which increases the reabsorption of sodium ions and the excretion of potassium ions, helping to regulate fluid and electrolyte balance</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">For salt-losing adrenogenital syndrome:</emphasis> Typical dose: 0.1–0.2 mg orally daily.<newline/><emphasis effect="italics">For Addison’s disease:</emphasis> Usual dose: 0.1 mg orally daily, although dosage ranging from 0.1 mg 3 times a week to 0.2 mg daily has been employed.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>Primary and secondary adrenocortical insufficiency in Addison’s disease<newline/>Treatment of salt-losing adrenogenital syndrome<newline count="2"/><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>Generalized extracellular fluid volume expansion</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>Amphotericin B<newline/>Potassium depleting diuretics<newline/>Digitalis glycosides<newline/>Oral anticoagulants<newline/>Antidiabetic drugs<newline/>Aspirin<newline/>Barbiturates<newline/>Phenytoin<newline/>Rifampin<newline/>Anabolic steroids<newline/>Vaccines<newline/>Estrogen<newline count="2"/><emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>Edema<newline/>Cardiac enlargement<newline/>Potassium loss<newline/>Muscle weakness<newline/>Abdominal distention<newline/>Impaired wound healing<newline/>Growth suppression<newline/>Hyperglycemia<newline/>Urticaria</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>Systemic fungal infections<newline/>Hypersensitivity<newline count="2"/>Caution:<newline/>May mask infections</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype: Fludrocortisone Acetate</emphasis> (source: <link url="https://openstax.org/r/nlmnih">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00015">
+<title>Nursing Implications</title>
+<para id="para-00025">The nurse should do the following when administering glucocorticoids and mineralocorticoids drugs to clients:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Educate the client regarding glucocorticoid and mineralocorticoid therapy.</item>
+<item>Assess the client’s knowledge about signs and symptoms of over and under treatment, adverse reactions, and contraindications, and clarify any gaps in knowledge.</item>
+<item>Monitor vital signs and electrolytes, especially sodium and potassium, renal function, glucose levels, serum aldosterone levels, serum cortisol levels, and bone density test closely.</item>
+<item>Report any abnormalities or symptoms such as weight gain, edema, crackles, jugular vein distention, fever, tachycardia, tachypnea, shortness of breath, or a change in mental status to the health care provider.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00026"><emphasis effect="bold">The client taking a glucocorticoid or mineralocorticoid should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Take drugs as prescribed by their health care provider.</item>
+<item>If using the drug systemically, they should avoid people who are sick—especially those who have chickenpox, measles, or tuberculosis—because they are at an increased risk of contracting the condition.</item>
+<item>Report signs of fluid volume overload such as a weight gain of 2 pounds in 3 days or 5 pounds in a week.</item>
+<item>Limit salt intake.</item>
+<item>Report symptoms of infection, such as a fever greater than 100.4°F, a fast heartbeat, fast breathing, and symptoms of electrolyte imbalances such as weight gain, edema, a change in mental status, or shortness of breath, and symptoms of cardiovascular issues including jugular vein distention, tachycardia, and/or palpitations to the health care provider.</item>
+</list>
+<para id="para-00027"><emphasis effect="bold">The client taking a glucocorticoid or mineralocorticoid <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Stop taking this medication without consulting with the health care provider because this drug must be tapered to decrease adverse effects.</item>
+</list>
+</note>
+<note class="black-box" id="note-00003">
+<para id="para-00028"><emphasis effect="bold">Corticosteroids</emphasis></para>
+<para id="para-00029">Injection into the epidural space of the spine may result in rare but serious adverse events including loss of vision, stroke, paralysis, and death.</para>
+</note>
+</section>
+<section id="sect-00016">
+<title>Chapter Summary</title>
+<para id="para-00030">This chapter provided an overview of the hypothalamus, pituitary gland, and adrenal cortex, which are essential components of the endocrine system. The hypothalamus is a small region of the brain that plays a key role in the regulation of many physiological processes in the body including hunger, thirst, and body temperature. It is also responsible for the regulation and release of pituitary hormones from the pituitary gland, which is sometimes referred to as the “master gland” because it controls the release of hormones from other endocrine glands. The adrenal cortex, part of the adrenal gland, is responsible for regulating fluid and electrolyte balance, glucose metabolism, adaptation to stress, and immune function.</para>
+<para id="para-00031">This chapter covered drugs that are commonly used to treat conditions related to the hypothalamus, pituitary, and adrenal cortex. Overall, the hypothalamus, pituitary, and adrenal cortex play critical roles in the regulation of many physiological processes in the body. Disorders affecting the function of these structures can have significant impacts on health and wellbeing.</para>
+</section>
+<section class="review-questions" id="sect-00017">
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00032"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec03_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00033"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00034"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00035"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00036"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00037"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00038"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00040"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec02_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00041"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec04_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00018">
+<para id="para-00042">Alatzoglou, K. S., Gregory, L. C., &amp; Dattani, M. T. (2020). Development of the pituitary gland. <emphasis effect="italics">Comprehensive Physiology</emphasis>, <emphasis effect="italics">10</emphasis>(2), 389–413. https://doi.org/10.1002/cphy.c150043</para>
+<para id="para-00043">Christ-Crain, M., &amp; Gaisl, O. (2021). Diabetes insipidus. <emphasis effect="italics">Presse Medicale (Paris, France: 1983)</emphasis>, <emphasis effect="italics">50</emphasis>(4), 104093. https://doi.org/10.1016/j.lpm.2021.104093</para>
+<para id="para-00044">DailyMed. (Updated December 31, 2022). <emphasis effect="italics">Aldactone (spironolactone) tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc</para>
+<para id="para-00045">DailyMed. (Updated May 19, 2023). <emphasis effect="italics">Betamethasone injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=024cd444-04e2-441 a-9863-9e5db741e657</para>
+<para id="para-00046">DailyMed. (Updated October 13, 2021). <emphasis effect="italics">Bromocriptine mesylate capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72d8eefe-c066-41b6-8922-9586f1cf47a1</para>
+<para id="para-00047">DailyMed. (Updated January 19, 2023). <emphasis effect="italics">Cortisone acetate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cc158d11-f356-4696-8b73-5d2681dcbcf2</para>
+<para id="para-00048">DailyMed. (Updated January 15, 2019). <emphasis effect="italics">Cortisporin suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9c6fc1c7-3350-42ae-b999-aca48e704bb1</para>
+<para id="para-00049">DailyMed. (Updated December 28, 2020). <emphasis effect="italics">Demeclocycline tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ff23e3b-e111-47fd-9776-1d89d6da049b</para>
+<para id="para-00050">DailyMed. (Updated November 30, 2019). <emphasis effect="italics">Desmopressin acetate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=15179e0c-f677-307f-d1e1-5910de4c212f</para>
+<para id="para-00051">DailyMed. (Updated November 22, 2022). <emphasis effect="italics">Dexamethasone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b997c26-e6a3-403c-93fb-b1290cf5dbad</para>
+<para id="para-00052">DailyMed. (Updated October 19, 2021). <emphasis effect="italics">Dextenza insert.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7514e6b8-c33f-4fbf-8810-ef520e1eb4bd</para>
+<para id="para-00053">DailyMed. (Updated January 11, 2023). <emphasis effect="italics">Fludrocortisone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=51363453-6d33-4aee-8426-37ac0bf3cc10</para>
+<para id="para-00054">DailyMed. (Updated August 14, 2023). <emphasis effect="italics">Hydrocortisone cream.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d57a59fb-c8f2-f73b-e053-2995a90a4cdb</para>
+<para id="para-00055">DailyMed. (Updated January 19, 2023). <emphasis effect="italics">Lanreotide acetate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11da176a-99bc-4ada-8b3f-6bd2b37a6313</para>
+<para id="para-00056">DailyMed. (Updated July 28, 2022). <emphasis effect="italics">Methylprednisolone acetate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d944240d-2c19-46ba-ad4f-3fbee7b8629c</para>
+<para id="para-00057">DailyMed. (Updated November 22, 2022). <emphasis effect="italics">Octreotide acetate injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffaf9462-cdd8-433b-8b03-464a35577fe9</para>
+<para id="para-00058">DailyMed. (Updated September 1, 2021). <emphasis effect="italics">Prednisone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=931ceb82-23b9-46c6-a00b-4cd66ed6f88f</para>
+<para id="para-00059">DailyMed. [(Updated December 13, 2021). <emphasis effect="italics">Millipred prednisolone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b9a97cfa-53a3-4080-98da-7cca8ba1e0fb</para>
+<para id="para-00060">DailyMed. (Updated October 01, 2019). <emphasis effect="italics">Proctocort cream.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8c318d15-30e4-4395-9aa9-4157d349fe70</para>
+<para id="para-00061">DailyMed. (Updated August 19, 2021). <emphasis effect="italics">Solu-Cortef hydrocortisone sodium succinate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=65eefd58-b166-4d71-ade6-45c8fdf86922</para>
+<para id="para-00062">DailyMed. (Updated November 18, 2021). <emphasis effect="italics">Somavert (pegvisomant) kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3cbb485b-6df1-49ce-8747-592b395b1988</para>
+<para id="para-00063">DailyMed. (Updated December 20, 2022). <emphasis effect="italics">Tolvaptan tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9fd11d0-4269-12fb-95cf-b3c11d75e479</para>
+<para id="para-00064">DailyMed. (Updated January 20, 2023). <emphasis effect="italics">Vasopressin injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9869345-b02c-4225-a97b-656f14c86dec</para>
+<para id="para-00065">Hodgens, A., &amp; Sharman, T. (2023). <emphasis effect="italics">Corticosteroids</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554612/</para>
+<para id="para-00066">Huecker, M. R., Bhutta, B. S., &amp; Dominique, E. (2023). <emphasis effect="italics">Adrenal insufficiency</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK441832/</para>
+<para id="para-00067">Mentrasti, G., Scortichini, L., Torniai, M., Giampieri, R., Morgese, F., Rinaldi, S., &amp; Berardi, R. (2020). Syndrome of inappropriate antidiuretic hormone secretion (SIADH): Optimal management. <emphasis effect="italics">Therapeutics and Clinical Risk Management</emphasis>, <emphasis effect="italics">16</emphasis>, 663–672. https://doi.org/10.2147/TCRM.S206066</para>
+<para id="para-00068">National Institutes of Health. (2017). <emphasis effect="italics">About adrenal gland disorders</emphasis>. https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo</para>
+<para id="para-00069">Shahid, Z., Asuka, E., &amp; Singh, G. (2022). <emphasis effect="italics">Physiology, hypothalamus</emphasis>. StatPearls. https://pubmed.ncbi.nlm.nih.gov/30571001/</para>
+<para id="para-00070">Yasir, M., &amp; Mechanic, O. J. (2023). <emphasis effect="italics">Syndrome of inappropriate antidiuretic hormone secretion</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK507777/</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>Addison’s disease</term> <meaning>a long-term condition in which the adrenal glands do not produce enough cortisol and aldosterone</meaning></definition>
+<definition id="def-00002"><term>cortisol</term> <meaning>the hormone produced by the two adrenal glands that plays an important role in stress response</meaning></definition>
+<definition id="def-00003"><term>Cushing’s syndrome</term> <meaning>a condition in which the body overproduces the hormone cortisol</meaning></definition>
+<definition id="def-00004"><term>glucocorticoids</term> <meaning>a group of steroids involved in carbohydrate, protein, and fat metabolism that has anti-inflammatory properties</meaning></definition>
+<definition id="def-00005"><term>mineralocorticoids</term> <meaning>steroids that are involved in maintaining fluid, sodium, and potassium balance within the body</meaning></definition>
+<definition id="def-00006"><term>renin-angiotensin-aldosterone system (RAAS)</term> <meaning>a hormone system that regulates fluid and electrolyte balance, blood pressure, and systemic vascular resistance</meaning></definition>
+</glossary>
 </document>
