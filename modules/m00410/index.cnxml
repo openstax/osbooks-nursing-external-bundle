@@ -185,8 +185,8 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <tbody>
   <row>
-  <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
-  <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00015">Methimazole</term> (<term class="no-emphasis" id="term-00016">Tapazole</term>)</entry>
@@ -308,7 +308,7 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <tbody>
   <row>
-  <entry valign="top" align="center" namest="c1" nameend="c2">Ellis Dominico is a 40-year-old client who visits their primary health care provider’s office for a checkup. Ellis reports fatigue and decreased energy, constipation, and having an intolerance to cold temperatures.<newline count="2"/><emphasis effect="bold">History</emphasis><newline count="2"/>Hyperthyroidism (diagnosed 6 months ago)<newline count="2"/><emphasis effect="bold">Current Medications</emphasis><newline count="2"/>Methimazole, 15 mg orally daily.</entry>
+  <entry valign="top" align="left" namest="c1" nameend="c2">Ellis Dominico is a 40-year-old client who visits their primary health care provider’s office for a checkup. Ellis reports fatigue and decreased energy, constipation, and having an intolerance to cold temperatures.<newline count="2"/><emphasis effect="bold">History</emphasis><newline count="2"/>Hyperthyroidism (diagnosed 6 months ago)<newline count="2"/><emphasis effect="bold">Current Medications</emphasis><newline count="2"/>Methimazole, 15 mg orally daily.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><emphasis effect="bold">Vital Signs</emphasis></entry>
