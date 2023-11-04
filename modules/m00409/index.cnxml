@@ -6,8 +6,234 @@
     <md:uuid>a6c2d8b5-1800-4e2c-bbd4-94ac6627c8b7</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the function of the thyroid and parathyroid glands.</item>
+<item>Discuss hormones associated with the thyroid and parathyroid glands.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Thyroid and Parathyroid Glands</title>
+<para id="para-00002">The <term id="term-00001">thyroid gland</term> is a butterfly-shaped gland located at the front of the neck below the voice box (see [link]Figure 27.2[/link]). This important gland regulates metabolism in the body through the production and secretion of thyroid hormones, which require iodine for synthesis. The thyroid gland produces the active thyroid hormone,<term id="term-00002"> triiodothyronine (T3)</term>, and the inactive thyroid hormone, <term id="term-00003">thyroxine (T4)</term>. Thyroid follicular cells secrete T3 and T4, while parafollicular cells secrete <term id="term-00004">calcitonin</term> cells that aid calcium metabolism. Follicular cells line the follicles, which are small spherical structures in the thyroid gland. They absorb iodine from the blood and combine it with T3 and T4. Parafollicular cells are scattered between the follicles of the thyroid gland. Their main function is to secrete calcitonin for calcium regulation. Calcitonin lowers the levels of calcium in the blood by inhibiting the activity of osteoclasts—cells that break down bone tissue and release calcium into the blood. When calcium levels in the blood rise, the thyroid gland releases calcitonin, which binds to receptors on the surface of osteoclasts and inhibits their activity, reducing the amount of calcium released from the bone into the blood, thereby lowering calcium levels in the blood (McLaughlin &amp; Jialal, 2022).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="The thyroid gland is a butterfly shaped gland located in the neck. Parathyroid glands are smaller glands found within the thyroid glands."><image mime-type="image/png" src="../../media/PHA_Figure_27_01_002.png"/></media>
+<caption>The thyroid and parathyroid play an important role in body functioning and metabolism. (credit: modification of work from <emphasis effect="italics">Biology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00003">Thyroid hormones affect multiple body systems:</para>
+<list list-type="bulleted" id="list-00002">
+<item>the cardiac system—they have a positive inotropic effect on cardiac output and stroke volume;</item>
+<item>metabolism—they play an important role through heat production and oxygen consumption;</item>
+<item>the respiratory system—they help by normalizing arterial oxygen;</item>
+<item>the nervous system—they stimulate the peripheral nervous system, and</item>
+<item>the reproductive system—they are necessary for growth and development.</item>
+</list>
+<para id="para-00004">The parathyroid glands are four tiny glands that are located on the upper and lower parts of the sides of the thyroid gland (see [link]Figure 27.2[/link]). The parathyroid glands secrete <term id="term-00005">parathyroid hormone (PTH)</term>, which along with <term id="term-00006">dihydroxy-vitamin D<sub>3</sub></term> (vitamin D<sub>3</sub>) and calcitonin, are responsible for calcium homeostasis within the body. The major target organs for PTH are the kidneys, skeletal system, and intestines. The primary responses to PTH by the kidneys is to increase renal calcium reabsorption and phosphate excretion, as well as to enhance the kidney’s ability to activate vitamin D so that more calcium is absorbed through the intestine. In addition, it increases the activity of osteoclasts, thereby increasing the resorption of bone. (Lofrese et al., 2022; Khan et al, 2022).</para>
+<para id="para-00005">When thyroid hormone levels are insufficient within the body, a series of responses are initiated. The process begins with the hypothalamus releasing thyrotropin-releasing hormone (TRH). This hormone acts as a communicator by interacting with the anterior pituitary gland, a small pea-sized gland located at the brain's base. In response to TRH, the anterior pituitary gland releases thyrotropin, also known as <term id="term-00007">thyroid-stimulating hormone (TSH)</term>. TSH stimulates the thyroid gland, prompting it to either increase or decrease the production of both T4 and T3, essential thyroid hormones.</para>
+<para id="para-00006">Conversely, in cases where an excess of thyroid hormones is present, a crucial negative feedback system comes into play. Excessive levels of T4 and T3 instruct the anterior pituitary and hypothalamus to restrain the release of their respective hormones. This control mechanism is of paramount importance in maintaining a balanced hormonal environment. The influence of thyroid hormones extends beyond their impact on metabolism and energy regulation. These hormones also interact with the parathyroid glands. The secretion of calcitonin, for instance, directly interacts with calcium ions and affects parathyroid hormones. Calcitonin, functioning as an antagonist to the parathyroid gland, contributes to the intricate balance of calcium in the body. [link]Figure 27.3[/link] illustrates thyroid hormones that control metabolism and parathyroid hormones that control calcium homeostasis.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="Thyroid hormones control metabolism using a negative feedback loop. The diagram shows the general steps of a negative feedback loop at the center (imbalance, hormone release, correction, and negative feedback) using the example of the hormone cascade that regulates metabolic rate. The hypothalamus releases TRH in response to low metabolic rate and or low T three and T four concentrations in the blood (imbalance). This triggers TSH release by the pituitary (hormone release). The TSH travels to the thyroid where it triggers T three and T four release by the thyroid cells. T three and T four increase basal metabolic rate of the body cells and cause a rise in body temperature (the calorigenic effect). T three and T four then feed back to the hypothalamus and inhibits TRH and TSH release. If metabolic rate is high and or T three and T four concentrations are low, then the hypothalamus stops releasing TRH (negative feedback). As a result, the anterior pituitary will not release TSH and no T three or T four will be produced by the thyroid."><image mime-type="image/png" src="../../media/PHA_Figure_27_01_003.png"/></media>
+<caption>Thyroid hormones control metabolism and impact parathyroid hormones that control calcium homeostasis within the body. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00003">
+<title>Hypothyroidism</title>
+<para id="para-00007"><term class="no-emphasis" id="term-00008">Hypothyroidism</term> arises from an inadequate secretion of T3 and T4 into the bloodstream, prompting the pituitary gland to release TSH. This dynamic is part of the Hypothalamus-Pituitary axis, in which the hypothalamus triggers the release of TRH to stimulate the anterior pituitary in the secretion of TSH. <term id="term-00009">Hashimoto thyroiditis</term> is the most common cause of hypothyroidism. This condition is caused by an autoimmune-mediated destruction of the thyroid gland, which leads to a dysfunctional thyroid gland and decreased secretion of thyroid hormones. If hypothyroidism is left untreated, the client may develop a <term id="term-00010">myxedema coma</term>, which is a severe life-threatening disorder that leads to hypothermia, cardiovascular collapse, hypoventilation, hyponatremia, hypoglycemia, lactic acidosis, and coma.</para>
+<para id="para-00008">Symptoms of hypothyroidism include the following:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Bradycardia
+<list list-type="bulleted" id="list-00004">
+<item>Thyroid hormones stimulate the heart, which increases the heart rate. However, in hypothyroidism, the reduced levels of thyroid hormone cause the heart rate to decrease.</item></list></item>
+<item>Cold intolerance
+<list list-type="bulleted" id="list-00005">
+<item>When thyroid hormones are low, the body’s ability to generate and maintain heat is reduced. This can result in feeling excessively cold, often with a decreased tolerance to cold environments.</item></list></item>
+<item>Constipation
+<list list-type="bulleted" id="list-00006">
+<item>Thyroid hormones play a role in promoting gastric motility. With hypothyroidism, the decreased levels of thyroid hormones cause slower movement in the digestive tract, resulting in constipation.</item></list></item>
+<item>Fatigue and decreased energy
+<list list-type="bulleted" id="list-00007">
+<item>Thyroid hormones are responsible for cellular metabolism and energy production. When the thyroid hormone levels are insufficient, it slows the metabolic process, resulting in decreased energy and fatigue.</item></list></item>
+<item>Weight gain
+<list list-type="bulleted" id="list-00008">
+<item>Thyroid hormones influence the body’s metabolic rate and the breakdown of fat. With reduced levels of thyroid hormones, the metabolic rate slows, resulting in a decreased ability to burn calories and fat.</item></list></item></list>
+<para id="para-00009">Treatment for hypothyroidism involves replacing the body’s natural thyroid hormone when the levels are low or absent within the body and will be discussed later in this chapter.</para>
+</section>
+<section id="sect-00004">
+<title>Hyperthyroidism</title>
+<para id="para-00010">Hyperthyroidism occurs when the body secretes too much T3 and T4 into the blood. The autoimmune disorder, <term id="term-00011">Graves’ disease</term>, is the most common cause of hyperthyroidism. In Grave’s disease, the production of TSH receptor antibodies stimulate the thyroid gland to grow and secrete additional thyroid hormone release. <term id="term-00012">Thyroid storm (thyrotoxic crisis)</term> is a rare but severe complication of hyperthyroidism, which leads to severe tachycardia, fever, dehydration, heart failure, and coma. It occurs in clients who are inadequately treated for hyperthyroidism or initially after the removal of the thyroid.</para>
+<para id="para-00011">Symptoms of hyperthyroidism include the following:</para>
+<list list-type="bulleted" id="list-00009">
+<item>Weight loss
+<list list-type="bulleted" id="list-00010">
+<item>Increased levels of thyroid hormones can accelerate the body’s metabolic rate, causing an increase in calorie burning. This can lead to unintended weight loss, even with a normal or increased appetite.</item></list></item>
+<item>Heat intolerance
+<list list-type="bulleted" id="list-00011">
+<item>Thyroid hormones influence thermoregulation and can affect how the body generates and dissipates heat. In hyperthyroidism, the elevated levels of thyroid hormones can lead to an increased sensitivity to heat, resulting in an intolerance to hot temperatures.</item></list></item>
+<item>Diarrhea
+<list list-type="bulleted" id="list-00012">
+<item>Excessive thyroid hormones speed up gastric motility, leading to frequent bowel movements and diarrhea.</item></list></item>
+<item>Fine tremors
+<list list-type="bulleted" id="list-00013">
+<item>Increased thyroid hormones cause an increased excitability within the nervous system, leading to tremors, usually in the hands and fingers.</item></list></item>
+<item>Tachycardia
+<list list-type="bulleted" id="list-00014">
+<item>Thyroid hormones have a stimulatory effect on the heart, thereby increasing the heart rate and the force of contractions.</item></list></item>
+<item>Frequent mood changes
+<list list-type="bulleted" id="list-00015">
+<item>Thyroid hormones can influence neurotransmitters in the brain, affecting mood regulation. In hyperthyroidism, fluctuations in thyroid hormones levels contribute to mood swings, irritability, and anxiety.</item></list></item>
+<item>Muscle weakness
+<list list-type="bulleted" id="list-00016">
+<item>Elevated thyroid hormone levels can cause increased breakdown of muscle protein and impair muscle function, which leads to muscle wasting and weakness.</item></list></item>
+</list>
+<para id="para-00012">Treatment for hyperthyroidism includes surgery to remove all or part of the thyroid gland and antithyroid drugs, which will be discussed later in this chapter.</para>
+<note class="link-to-learning" id="note-00001">
+<title><emphasis effect="bold">Autoimmune Thyroid Disease</emphasis></title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/thyroid"/>
+</media>
+<para id="para-00013">Access Health presents an educational video on autoimmune thyroid disease.</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Hypoparathyroidism</title>
+<para id="para-00014"><term class="no-emphasis" id="term-00013">Hypoparathyroidism</term> occurs when the body does not secrete enough PTH in the blood. This leads to dangerously low levels of calcium in the blood. Because calcium and phosphate have an inverse reaction, the phosphate levels in the body increase. Hypoparathyroidism is typically caused by an autoimmune disorder, can be idiopathic, or is a result of thyroid/parathyroid surgery.</para>
+<para id="para-00015">Symptoms of hypoparathyroidism are tetany, contraction of facial muscles after tapping the facial nerve (<term id="term-00014">Chvostek sign</term>), induction of carpal pedal spasm (<term id="term-00015">Trousseau sign</term>), paresthesia, and a prolonged QT wave (total time from ventricular depolarization to complete repolarization) on an electrocardiogram. Treatment for hypoparathyroidism includes intravenous calcium gluconate, oral calcium, and vitamin D supplements, which will be discussed later in this chapter.</para>
+</section>
+<section id="sect-00006">
+<title>Hyperparathyroidism</title>
+<para id="para-00016"><term class="no-emphasis" id="term-00016">Hyperparathyroidism</term> occurs when the body secretes too much PTH in the blood, leading to dangerously elevated levels of calcium in the blood. The inverse reaction of calcium and phosphate causes the phosphate levels in the body to decrease. Hyperparathyroidism is typically caused by a lack of response to the normal feedback mechanism of the calcium homeostasis cycle.</para>
+<para id="para-00017">Symptoms of hyperparathyroidism include:</para>
+<list list-type="bulleted" id="list-00017">
+<item>Nausea and vomiting
+<list list-type="bulleted" id="list-00018">
+<item>Elevated levels of PTH can disrupt the normal balance of calcium in the body, leading to gastrointestinal symptoms.</item></list></item>
+<item>Constipation
+<list list-type="bulleted" id="list-00019">
+<item>Excessive PTH slows gastric motility resulting in constipation.</item></list></item>
+<item>Kidney stones
+<list list-type="bulleted" id="list-00020">
+<item>Increased levels of calcium in the blood due to hyperparathyroidism can lead to the deposition of calcium crystals in the kidneys, leading to the development of kidney stones.</item></list></item>
+<item>Polyuria
+<list list-type="bulleted" id="list-00021">
+<item>Elevated PTH levels increase the excretion of water in the urine, leading to increased urination.</item></list></item>
+<item>Impaired sodium-water reabsorption
+<list list-type="bulleted" id="list-00022">
+<item>Elevated PTH levels can interfere with the normal resorption of sodium and water in the kidneys, leading to fluid imbalance.</item></list></item>
+<item>Muscle weakness
+<list list-type="bulleted" id="list-00023">
+<item>Excessive PTH promotes the loss of calcium from muscles, impairing muscle function and causing muscle weakness.</item></list></item>
+<item>Bone pain and <term id="term-00017">osteoporosis</term>
+<list list-type="bulleted" id="list-00024">
+<item>Increased PTH causes increased calcium release from bones, resulting in bone pain, osteoporosis, and an increased risk of fractures.</item></list></item>
+<item>Depression, psychosis, or an altered mental status
+<list list-type="bulleted" id="list-00025">
+<item>High levels of PTH can affect neurotransmitter function, contributing to mood changes, cognitive function impairment, and affects overall mental wellbeing.</item></list></item>
+</list>
+<para id="para-00018">Treatment for hyperparathyroidism includes increasing fluid intake and supplementing with <term id="term-00018">calcimimetics</term>, vitamin D supplements, phosphate binders, and calcitriol, which will be discussed later in this chapter.</para>
+<note class="link-to-learning" id="note-00002">
+<title><emphasis effect="bold">Parathyroid Disease</emphasis></title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/parathyroid"/>
+</media>
+<para id="para-00019">The Center for Advanced Parathyroid Surgery presents an animation video describing the parathyroid gland and causes, symptoms, and treatment for Hyperparathyroidism.</para>
+</note>
+</section>
+<section id="sect-00007">
+<title>Diagnostic Testing</title>
+<para id="para-00020"><term class="no-emphasis" id="term-00019">Diagnostic testing</term> can help determine if the thyroid and parathyroid glands are functioning appropriately. [link]Table 27.1[/link] provides a list of tests used to diagnose common thyroid and parathyroid conditions.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold">Thyroid Function Test Interpretation</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold">TSH</emphasis><newline/>(Reference range: 0.4–4.5 mIU/mL)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">T4</emphasis><newline/>(Reference range: 5–11 ug/dL)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">T3</emphasis>><newline/>(Reference range: 100–200 ug/dL)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">Condition</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">None</entry>
+</row>
+<row>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">Hyperthyroidism</entry>
+</row>
+<row>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">Hypothyroidism</entry>
+</row>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold">Parathyroid Function Test Interpretation</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold">PTH</emphasis><newline/>(Reference range: 10–65 ng/L)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">Calcium (total serum)</emphasis><newline/>(Reference range: 8.5–10.2 mg/dL)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">Phosphate</emphasis><newline/>(Reference range: 2.8–4.5 mg/dL)</entry>
+<entry valign="top" align="center"><emphasis effect="bold">Condition</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">Normal</entry>
+<entry valign="top" align="center">None</entry>
+</row>
+<row>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">Hypoparathyroidism</entry>
+</row>
+<row>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">High</entry>
+<entry valign="top" align="center">Low</entry>
+<entry valign="top" align="center">Hyperparathyroidism</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Thyroid and Parathyroid Diagnostic Testing (sources: Armstrong et al., 2022; Khan, Jose, &amp; Sharma, 2022; Shahid et al., 2022; Singh &amp; Correa, 2022)</caption>
+</table>
+<note class="link-to-learning" id="note-00003">
+<title><emphasis effect="bold">Diagnostic Testing</emphasis></title>
+<para id="para-00021">Diagnostic testing is key in determining thyroid and parathyroid conditions. Review the article <link url="https://openstax.org/r/practitioner">Clinical Algorithm for Thyroid Function Tests for Diagnosis and Monitoring in Symptomatic Non-Pregnant Patients</link>. The first figure in the article illustrates an algorithm commonly used when diagnosing thyroid and parathyroid disorders.</para>
+</note>
+<para id="para-00022">Other diagnostic tests that assist in diagnosing thyroid and parathyroid conditions include:</para>
+<list list-type="bulleted" id="list-00026">
+<item><emphasis effect="italics">Ionized serum calcium:</emphasis> This test is performed for conditions that affect the body’s ability to balance the amounts of ionized calcium and bound calcium in the blood. The normal range is 4.65–5.25 mg/dL, although ranges may vary slightly depending on the laboratory.</item>
+<item><emphasis effect="italics">Vitamin D (calciferol):</emphasis> This test is performed to determine the amount of vitamin D in the blood, which helps the body to absorb calcium. The normal range is 50–125 mmol/L, although ranges may vary slightly depending on the laboratory.</item>
+</list>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>calcimimetics</term> <meaning>drugs that mimic the action of calcium in the parathyroid glands or other tissues</meaning></definition>
+<definition id="def-00002"><term>calcitonin</term> <meaning>a hormone secreted by the thyroid gland that lowers blood calcium</meaning></definition>
+<definition id="def-00003"><term>Chvostek sign</term> <meaning>a twitch of the facial muscles that occurs with gentle tapping of the cheek and in front of the ear</meaning></definition>
+<definition id="def-00004"><term>dihydroxyvitamin D<sub>3</sub></term> <meaning>an active form of vitamin D<sub>3</sub> that increases uptake of calcium absorption in the intestine</meaning></definition>
+<definition id="def-00005"><term>endocrine glands</term> <meaning>glands within the endocrine system that release hormones to control processes that occur within the body</meaning></definition>
+<definition id="def-00006"><term>Graves’ disease</term> <meaning>an immune disorder that results in the overproduction of thyroid hormones</meaning></definition>
+<definition id="def-00007"><term>Hashimoto thyroiditis</term> <meaning>an autoimmune disorder that involves chronic inflammation of the thyroid gland, resulting in hypothyroidism</meaning></definition>
+<definition id="def-00008"><term>myxedema coma</term> <meaning>a rare life-threatening condition caused by advanced hypothyroidism that affects the body’s temperature, growth, heart rate, and metabolism</meaning></definition>
+<definition id="def-00009"><term>osteoporosis</term> <meaning>a condition that leads to the loss of bone mass, which thereby weakens bone</meaning></definition>
+<definition id="def-00010"><term>parathyroid hormone (PTH)</term> <meaning>a peptide hormone secreted by the parathyroid glands that regulates serum calcium within the body</meaning></definition>
+<definition id="def-00011"><term>thyroid gland</term> <meaning>a butterfly-shaped gland located in front of the neck below the voice box that is responsible for metabolism and iodine homeostasis within the body</meaning></definition>
+<definition id="def-00012"><term>thyroid -stimulating hormone (TSH)</term> <meaning>a hormone that stimulates the production of thyroxine and triiodothyronine; also known as thyrotropin</meaning></definition>
+<definition id="def-00013"><term>thyroid storm (thyrotoxic crisis)</term> <meaning>a rare life-threatening condition that occurs when the thyroid gland releases too much thyroid hormone</meaning></definition>
+<definition id="def-00014"><term>thyroxine (T4)</term> <meaning>a hormone released by the thyroid gland that contains iodine and which increases the rate of chemical reactions within cells</meaning></definition>
+<definition id="def-00015"><term>triiodothyronine (T3)</term> <meaning>a hormone released by the thyroid gland that plays a role in controlling the body’s metabolic rate, heart and digestive functions, muscle control, brain development and function, and bone maintenance</meaning></definition>
+<definition id="def-00016"><term>Trousseau sign</term> <meaning>an involuntary contraction of the muscles in the hand and wrist</meaning></definition>
+</glossary>
 </document>
