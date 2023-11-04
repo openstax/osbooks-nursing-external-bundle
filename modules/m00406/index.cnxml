@@ -35,6 +35,7 @@
 <section id="sect-00006">
 <title>Tolvaptan</title>
 <para id="para-00007">Tolvaptan is used to treat a condition called hyponatremia (low serum sodium levels). This drug works by blocking the action of vasopressin, which helps the body to retain water and maintain electrolyte homeostasis, and is used to treat conditions such as SIADH, heart failure, liver disease, and kidney disease. Tolvaptan should be initiated and re-initiated in a hospital setting where serum sodium levels can be monitored closely. A too rapid correction of hyponatremia can cause osmotic demyelination, resulting in seizures, coma, and death. Adverse effects include dry mouth, constipation, thirst, hyperglycemia, and polyuria. It is contraindicated in clients with hypovolemic hyponatremia or hypersensitivity.</para>
+<para id="para-00017"><link target-id="table-00001" document="m00406"/> lists common antidiuretic hormones and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -45,19 +46,19 @@
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00003"><span class="blue-text">Desmopressin (DDAVP, Stimate)</span></term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Desmopressin (DDAVP, Stimate)</term></entry>
 <entry valign="top" align="left">Individualized based on condition being treated and severity of symptoms.<newline/>Typical dose: 2–4 mcg orally in 1–2 daily doses. Close monitoring is recommended.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00004"><span class="blue-text">Vasopressin (ADH, Vasostrict)</span></term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Vasopressin (ADH, Vasostrict)</term></entry>
 <entry valign="top" align="left">Individualized based on condition being treated and severity of symptoms.<newline/><emphasis effect="italics">For diabetes insipidus (injectable):</emphasis> Recommended starting dose: 2–4 mcg in 1–2 divided doses subcutaneously or intravenously.<newline/>The morning and evening doses should be separately adjusted for an adequate diurnal rhythm of water turnover. Adjust dose based on response to treatment, estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.<newline/><emphasis effect="italics">For diabetes insipidus (intranasal):</emphasis> Recommended dose: 10 mcg once daily into one nostril up to 40 mcg once daily (or 40 mcg divided into 2–3 daily doses). If administered more than once a day, adjust for an adequate diurnal rhythm of urine output.<newline/><emphasis effect="italics">For shock (diluted):</emphasis> 0.01–0.03 units/minute intravenously, titrated every hour.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00005"><span class="blue-text">Demeclocycline (Declomycin)</span></term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Demeclocycline (Declomycin)</term></entry>
 <entry valign="top" align="left">4 divided doses of 150 mg each or 2 divided doses of 300 mg each orally daily. Maximum dose: 600 mg/day.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00006"><span class="blue-text">Tolvaptan (Jynarque, Samsca)</span></term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Tolvaptan (Jynarque, Samsca)</term></entry>
 <entry valign="top" align="left">15–30 mg orally daily. Maximum dose: 60 mg/day.</entry>
 </row>
 </tbody>

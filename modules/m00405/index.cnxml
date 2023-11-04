@@ -15,6 +15,8 @@
 <item>Describe nursing implications of growth hormone drugs used to treat pituitary disorders.</item>
 <item>Explain the client education related to growth hormone drugs used to treat pituitary disorders.</item>
 </list>
+</section>
+
 <section id="sect-00002">
 <title>Growth Hormone</title>
 <para id="para-00002">Growth hormones and suppressants are used to treat various growth and development disorders. Growth hormone, also known as somatotropin or human growth hormone, is essential for the body’s growth and development. Growth hormone stimulates the production of the insulin-like growth factor-1 (IGF-1) in the liver, which promotes the growth of bone, muscle, and other tissues. Growth hormone also helps to regulate metabolism and breakdown fats. Growth hormone is particularly important during childhood and adolescence when it promotes the growth and development of the body. However, growth hormone continues to be important throughout adulthood, helping to maintain healthy bone density, muscle mass, and overall wellbeing.</para>
@@ -55,19 +57,19 @@
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Bromocriptine mesylate (Parlodel)</term></entry>
-<entry valign="top" align="center"><emphasis effect="bold">Acromegaly</emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase by 1.25–2.5 mg every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 20–30 mg/day, in divided doses. Maximum dose: 100 mg/day.<newline/><emphasis effect="italics">Children:</emphasis> Not Food and Drug Administration (FDA) approved for children.<newline/><emphasis effect="bold"><span class="blue-text">Prolactin-Secreting Pituitary Adenoma</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 2.5–15 mg/day.<newline/><emphasis effect="italics">Children 11–15 years of age:</emphasis> Initial dose: One-half to one, 2–5 mg scored tablet, orally once daily. Dosing may need to be increased as tolerated until a therapeutic response is achieved. Therapeutic dosage: 2.5–10 mg daily.</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Acromegaly</emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase by 1.25–2.5 mg every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 20–30 mg/day, in divided doses. Maximum dose: 100 mg/day.<newline/><emphasis effect="italics">Children:</emphasis> Not Food and Drug Administration (FDA) approved for children.<newline/><emphasis effect="bold"><span class="blue-text">Prolactin-Secreting Pituitary Adenoma</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 2.5–15 mg/day.<newline/><emphasis effect="italics">Children 11–15 years of age:</emphasis> Initial dose: One-half to one, 2–5 mg scored tablet, orally once daily. Dosing may need to be increased as tolerated until a therapeutic response is achieved. Therapeutic dosage: 2.5–10 mg daily.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Lanreotide acetate (Somatuline)</term></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><emphasis effect="italics">Acromegaly</emphasis></emphasis></span><newline/><emphasis effect="italics">Adults:</emphasis> 90 mg subcutaneously, every 4 weeks for 3 months; thereafter, dosing is based on growth hormone levels.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold"><emphasis effect="italics">Acromegaly</emphasis></emphasis></span><newline/><emphasis effect="italics">Adults:</emphasis> 90 mg subcutaneously, every 4 weeks for 3 months; thereafter, dosing is based on growth hormone levels.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00011">Octreotide acetate (Sandostatin)</term></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Acromegaly</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Initial dose: 50 mcg subcutaneously, 2–3 times daily; no added benefit from doses beyond 300 mcg/day.<newline/>Other routes of administration include intramuscular (depot) and oral.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Acromegaly</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Initial dose: 50 mcg subcutaneously, 2–3 times daily; no added benefit from doses beyond 300 mcg/day.<newline/>Other routes of administration include intramuscular (depot) and oral.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00012">Pegvisomant (Somavert)</term></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Acromegaly</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Loading dose: 40 mg subcutaneously; on the following day begin 10 mg subcutaneously daily.<newline/>Adjust in 5-mg increments every 4–6 weeks based on serum IGF-1 concentrations.<newline/>Recommended dosage: 10–30 mg/day subcutaneously; maximum dose: 30 mg/day.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Acromegaly</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Loading dose: 40 mg subcutaneously; on the following day begin 10 mg subcutaneously daily.<newline/>Adjust in 5-mg increments every 4–6 weeks based on serum IGF-1 concentrations.<newline/>Recommended dosage: 10–30 mg/day subcutaneously; maximum dose: 30 mg/day.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -86,7 +88,7 @@
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Growth hormone suppressant<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Exerts pharmacologic actions similar to the natural hormone somatostatin and inhibits growth hormone, glucagon, and insulin</entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Initial dose: 50 mcg subcutaneously, 2–3 times daily; no added benefit from doses beyond 300 mcg/day.<newline/>Other routes of administration include intramuscular (depot) and oral.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> Initial dose: 50 mcg subcutaneously, 2–3 times beyond 300 mcg/day.<newline/>Other routes of administration include intramuscular (depot) and oral.<newline/><emphasis effect="italics">Children:</emphasis> Safety not established in children.</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>Acromegaly<newline/>Carcinoid tumors<newline/>Vasoactive intestinal peptide tumors<newline count="2"/><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>Reduces growth hormone<newline/>Reduces tumor size or and improves symptoms of carcinoid tumors</entry>
@@ -136,7 +138,6 @@
 <item>Stop taking the drug unless directed by the health care provider, because this drug class replaces or suppresses the body’s growth hormone.</item>
 </list>
 </note>
-</section>
 </section>
 </content>
 <glossary>
