@@ -34,7 +34,7 @@
   </section>
   <section id="sect-00005">
   <title>Desiccated Thyroid Extract</title>
-  <para id="para-00007"><term class="no-emphasis" id="term-00002">Desiccated thyroid extract</term> is a thyroid hormone developed from pig glands that is often used as an over-the-counter remedy for thyroid hormone replacement. Desiccated thyroid extract has not been approved by the Food and Drug Administration (FDA) due to a complex manufacturing process leading to issues with safety, effectiveness, and quality, with inconsistent or inaccurate dosage. [link]Table 27.2[/link] lists common thyroid drugs and typical routes and dosing for adult clients.</para>
+  <para id="para-00007"><term class="no-emphasis" id="term-00002">Desiccated thyroid extract</term> is a thyroid hormone developed from pig glands that is often used as an over-the-counter remedy for thyroid hormone replacement. Desiccated thyroid extract has not been approved by the Food and Drug Administration (FDA) due to a complex manufacturing process leading to issues with safety, effectiveness, and quality, with inconsistent or inaccurate dosage. <link target-id="table-00001" document="m00410"/> lists common thyroid drugs and typical routes and dosing for adult clients.</para>
   <table class="vertically-tight" id="table-00001">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -67,7 +67,7 @@
   <title>Adverse Effects and Contraindications</title>
   <para id="para-00008">Common adverse effects among the thyroid drug classification include cardiac effects—such as tachycardia, palpitations, and arrhythmias—weight loss, nervousness and irritability, heat intolerance, diarrhea, abdominal cramping, headaches, and sleep disturbances.</para>
   <para id="para-00009">Contraindications for thyroid drug classification include hypersensitivity to the drug or any of its components as well as any recent myocardial infarction because thyroid drugs can increase heart rate and heart contractility. Untreated adrenal insufficiency is a contraindication because impaired adrenal glands cannot handle the increased metabolic rate cause by thyroid drugs, as is hyperthyroidism since the drugs would increase thyroid hormone levels that are already elevated.</para>
-  <para id="para-00010">[link]Table 27.3[/link] is a drug prototype table for thyroid drugs featuring levothyroxine sodium. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <para id="para-00010"><link target-id="table-00002" document="m00410"/> is a drug prototype table for thyroid drugs featuring levothyroxine sodium. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   
   
   <table class="vertically-tight" id="table-00002">
@@ -178,7 +178,7 @@
   <section id="sect-00013">
   <title>Potassium Iodide</title>
   <para id="para-00021">Potassium iodide prevents iodine from getting into the thyroid gland. As a medication, potassium iodine is used two separate ways: 1) to treat hyperthyroidism by inhibiting thyroid hormone secretion in very acute situations, and 2) to prevent the uptake of radioactive iodine in the event of a nuclear emergency. Additional use includes radioactive iodine to ablate a hyperactive thyroid gland. Adverse effects include skin rash, shortness of breath, wheezing, swelling, fever, and joint pain. It is contraindicated in those who have had an allergic reaction to iodine and those with nodular thyroid disease. <term class="no-emphasis" id="term-00013">ThyroShield</term> and <term class="no-emphasis" id="term-00014">Thyrosafe</term> are the only FDA-approved brands of potassium iodide.</para>
-  <para id="para-00022">[link]Table 27.4[/link] lists common antithyroid drugs and typical routes and dosing for adult clients.</para>
+  <para id="para-00022"><link target-id="table-00003" document="m00410"/> lists common antithyroid drugs and typical routes and dosing for adult clients.</para>
   <table class="vertically-tight" id="table-00003">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -221,7 +221,7 @@
   <item>Hypothyroidism—increased fatigue, weight gain, cold intolerance, constipation</item>
   </list>
   <para id="para-00024">Contraindications include hypersensitivity to the drug or any of its components, severe liver disease or impairment, and with pregnancy or breastfeeding because the drugs can cross the placenta, be excreted in breast milk, and potentially affect the development of the fetus or infant.</para>
-  <para id="para-00025">[link]<emphasis effect="bold">Table 27.5</emphasis>[/link] is a drug prototype table for antithyroid drugs featuring methimazole. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <para id="para-00025"><link target-id="table-00004" document="m00410"/> is a drug prototype table for antithyroid drugs featuring methimazole. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   <table class="vertically-tight" id="table-00004">
   <tgroup cols="4">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
