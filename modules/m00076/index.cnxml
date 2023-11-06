@@ -207,7 +207,7 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
 <section id="sect-00004">
 <title>Nutritional Deficiencies Related to Abnormal Assessment Findings in the Gastrointestinal System</title>
 <para id="para-00017">Abnormal findings in an assessment of the gastrointestinal system and other systems can indicate the presence of disease or nutritional deficit. To best plan nutritional strategies for the client, the nurse should know what each abnormal finding, in conjunction with laboratory results and dietary recall, could indicate. Some abnormal findings and nutritional deficiencies and toxicities related to them are shown in <link target-id="table-00004" document="m00076"/>.</para>
-<table id="table-00004" class="vertically-tight alternate-shading">
+<table id="table-00004" class="vertically-tight">
   <title/>
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -226,20 +226,20 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Fissures, crusts, or scales on the lips or in the corners of the lips, cracked lips, angular cheilitis</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>1</sub> (thiamine), vitamin B<sub>12</sub> (cobalamin), and/or iron</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left" morerows="3">Tongue</entry>
-  <entry valign="top" align="left">Inflammation of the tonguen</entry>
+  <entry valign="top" align="left">Inflammation of the tongue</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin) and/or B<sub>3</sub> (niacin)</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Loss of taste</entry>
   <entry valign="top" align="left">Deficiency of zinc</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Halitosis</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub> (cobalamin)</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Red, painful tongue that has a burning sensation</entry>
   <entry valign="top" align="left">Deficiency of iron</entry>
   </row>
@@ -268,7 +268,7 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Recurrent aphthous stomatitis (canker sores)</entry>
   <entry valign="top" align="left">Deficiency of zinc</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Salivary glands</entry>
   <entry valign="top" align="left">Dry salivary glands</entry>
   <entry valign="top" align="left">Dehydration or iron deficiency</entry>
@@ -290,16 +290,16 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Dental caries (cavities)</entry>
   <entry valign="top" align="left">Deficiency of vitamin D and/or fluoride</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left" morerows="2">Oropharynx</entry>
   <entry valign="top" align="left">Recurrent tonsillitis</entry>
   <entry valign="top" align="left">Deficiency of vitamin D</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Pharyngitis</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>2</sub> (riboflavin)</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Inflammation of the hard and soft palates</entry>
   <entry valign="top" align="left">Deficiency of iron, vitamin B<sub>2</sub> (riboflavin), B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), and/or B<sub>12</sub> (cobalamin), D, and zinc</entry>
   </row>
@@ -316,7 +316,7 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Abdominal muscle pain and cramping</entry>
   <entry valign="top" align="left">Deficiency of magnesium, potassium, sodium, vitamin B<sub>1</sub> (thiamine), vitamin D, and/or calcium</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Anus</entry>
   <entry valign="top" align="left">Hemorrhoids and fissures (caused by chronic constipation and straining to pass stools)</entry>
   <entry valign="top" align="left">Deficiency of fiber and/or fluid volume</entry>
@@ -330,7 +330,7 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Weight loss</entry>
   <entry valign="top" align="left">Deficient caloric intake, protein deficiency, or impaired absorption</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left">Skin</entry>
   <entry valign="top" align="left">Skin discoloration Ecchymosis</entry>
   <entry valign="top" align="left">Excessive intake of protein, carotene-containing foods, or supplements (vitamin A), causing diffuse hyperpigmentation, or excessive intake of both protein and zinc, causing carotenoderma Deficiency of vitamin C, vitamin K, or zinc</entry>
@@ -340,16 +340,16 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Muscle pain, cramps</entry>
   <entry valign="top" align="left">Deficiency of magnesium, potassium, sodium, vitamin B<sub>1</sub> (thiamine), vitamin D, and/or calcium</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left" morerows="2">Eyes</entry>
   <entry valign="top" align="left">Pallor</entry>
   <entry valign="top" align="left">Deficiency of iron, protein, or vitamin B<sub>6</sub> (pyridoxine), B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), or C</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Bitot&#8217;s spots, xerosis</entry>
   <entry valign="top" align="left">Deficiency of vitamin A</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Xanthelasmas</entry>
   <entry valign="top" align="left">Excessive caloric intake, obesity, or hypercholesterolemia</entry>
   </row>
@@ -366,16 +366,16 @@ Flat, rounded but not distended or scaphoid (sunken); no protrusions or evidence
   <entry valign="top" align="left">Discolored, easily pluckable hair; hair loss</entry>
  <entry valign="top" align="left">Deficiency of protein or iron; overall severe malnutrition</entry>
   </row>
-  <row>
+  <row class="alternate-shading">
   <entry valign="top" align="left" morerows="2">Nails</entry>
   <entry valign="top" align="left">Dry and brittle nails</entry>
   <entry valign="top" align="left">Deficiency of vitamin B<sub>7</sub> (biotin), zinc, or protein</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Nail discoloration</entry>
   <entry valign="top" align="left">Overall poor nutritional status</entry>
     </row>
-  <row>
+    <row class="alternate-shading">
   <entry valign="top" align="left">Koilonychia</entry>
   <entry valign="top" align="left">Deficiency of iron, causing anemia</entry>
   </row>
