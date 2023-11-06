@@ -90,7 +90,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Neighborhood and <term class="no-emphasis" id="term-00011">Built Environment</term></emphasis></entry>
+<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Neighborhood and <term id="term-00011">Built Environment</term></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Food insecurity</item></list></entry>
@@ -117,7 +117,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Environmental Conditions</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Environmental conditions</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00014"><item>Inhaling or absorbing pesticides through their skin while on the job</item>
 <item>Inhaling or absorbing pesticides within the homes via application drift</item>
 <item>Inhaling or absorbing toxic household and industrial cleaners and industrial chemicals</item>
@@ -132,7 +132,7 @@
 </list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00016"><item>Educational Environment</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00016"><item>Educational environment</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00017"><item>Migrating between May and November causes interrupted schooling.</item>
 <item>Children working in agriculture can work an unlimited number of hours outside of school hours, starting at ages 10–11.</item>
 <item>Children 12 and older can work on tobacco farms, a practice banned in many other countries due to the work’s toxic nature.</item></list>
@@ -140,12 +140,9 @@
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00018"><item>This population’s high school dropout rate is four times the national rate.</item>
 <item>Children exposed to pesticides are at increased risk for learning delays and long-term disabilities.</item></list></entry>
 </row>
-<row>
-<entry valign="top" align="left" namest="c1" nameend="c3">(MCN, 2023a; NCFH, 2018a; NCFH, 2021a)</entry>
-</row>
 </tbody>
 </tgroup>
-<caption>Intersectionality of Migrant Workers with the SDOH</caption>
+<caption>Intersectionality of Migrant Workers with the SDOH (See MCN, 2023a; NCFH, 2018a; NCFH, 2021a.)</caption>
 </table>
 </section>
 <section id="sect-00005">
@@ -153,13 +150,13 @@
 <para id="para-00015">Migrant health needs are often managed within community settings where community health nurses can make a lasting positive impact. To ensure better health outcomes, nurses need to advocate for the health of migrant workers, who have very little economic or political power. Nurses can help these individuals navigate the complex health system and push for more access and affordable care options. To address transportation barriers to accessing health care, public health nurses can advocate for mobile health units to visit migrant housing centers, a great upstream intervention to address this barrier. School nurses and nurses working within the community have a duty to advocate for the health and welfare of the children in their communities. These nurses can advocate for fair labor laws and policies that govern other nonagricultural work, free school breakfasts and lunches, and appropriate health screenings and care.</para>
 <para id="para-00016">MSAW clients frequently experience chronic diseases such as being overweight or obese, hypertension, diabetes, asthma, and eczema as well as mental health disorders like anxiety and depression (NCFH, 2021c). Community and public health nurses can tailor nursing interventions to address these health issues. For example, education and advocacy efforts can target improving policies, providing healthy food options at little to no cost, and funding accessible telehealth mental health services. Community nurses can work with local businesses, officials, and community food programs to address food insecurity. Nurses can also partner with migrant and seasonal head start programs or farm-to-preschool programs to help provide children with appropriate education, health resources, and food (NCFH, 2021a).</para>
 <para id="para-00017"><term class="no-emphasis" id="term-00012">Community health centers</term> (CHC) are a resource for populations with limited access to health care, such as migrant workers, in some communities. These community-based organizations are classified as CHCs rather than MHCs because they do not receive federal migrant health funding. <term class="no-emphasis" id="term-00013">Community health workers</term> (CHWs) often play a key role in promoting migrant health by facilitating health promotion and disease prevention activities and programs to increase access to services, provide translators, and enhance the cultural competency of health programs (Emery, 2022). Community and public health nurses should become familiar with local migrant and community health centers, especially in rural areas, to spread awareness of their services and help migrant workers access and coordinate care. Nurses have a role in primary, secondary, and tertiary prevention for caring for migrant workers (<link target-id="table-00002" document="m00330"/>).</para>
-<table class="alternate-shading" id="table-00002">
+<table class="vertically-tight" id="table-00002">
 <title/>
 <tgroup cols="1">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00014">Primary Prevention</term></emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term id="term-00014">Primary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00019"><item>Educate migrant workers on measures to reduce pesticide exposure</item>
@@ -170,7 +167,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00015">Secondary Prevention</term></emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term id="term-00015">Secondary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00020"><item>Screen for tuberculosis</item>
@@ -181,7 +178,7 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00016">Tertiary Prevention</term></emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold"><term id="term-00016">Tertiary Prevention</term></emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00021"><item>Treat for pesticide exposure and tuberculosis</item>
