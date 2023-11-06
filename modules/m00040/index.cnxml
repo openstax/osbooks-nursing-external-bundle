@@ -71,7 +71,7 @@ Prolonged menstrual cycle</entry>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00035">Vitamin K</term>, Vitamin C, Vitamin E, Vitamin B<sub>12</sub></entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00036">Neutropenia</term></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00036">Neutropenia</term>:</emphasis><newline/>
 Frequent fevers<newline/>
 Frequent infections<newline/>
 Delayed <term class="no-emphasis" id="term-00037">wound healing</term></entry>
@@ -85,7 +85,7 @@ Delayed <term class="no-emphasis" id="term-00037">wound healing</term></entry>
 <title>Ask Open-ended Questions</title>
 <para id="para-00008">Nurses should always ask clients open-ended questions to elicit a more informative history. For example, the nurse could ask “How often do you eat red meat each month?” instead of “Do you eat red meat?”.</para>
 </note>
-<figure class="scaled-down" id="fig-00001"><media alt="A close-up of skin shows numerous pinpoint spots."><image mime-type="image/jpg" src="../../media/NUT_Figure_09_00_002.jpg"/></media>
+<figure class="scaled-down" id="fig-00001"><media alt="A close-up of skin shows numerous pinpoint spots."><image mime-type="image/jpg" src="../../media/NUT_Figure_09_01_002.jpg"/></media>
 <caption>Petechia from a client with <term class="no-emphasis" id="term-00039">Vitamin C deficiency</term> (credit: “This photograph depicts a close view of a patient’s skin revealing the presence of numerous perifollicular petechiae, the etiology had yet to be determined”/Centers for Disease Control and Prevention, Public Domain)</caption></figure>
 </section>
 <section id="sect-00004">
@@ -109,29 +109,29 @@ Delayed <term class="no-emphasis" id="term-00037">wound healing</term></entry>
 <tbody>
 <row>
 <entry valign="top" align="left">Nutritional <term class="no-emphasis" id="term-00045">Screening Tools</term></entry>
-<entry valign="top" align="left">More than 5 percent weight loss over past three months</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00033"><item>More than 5 percent weight loss over past three months</item></list></entry>
 <entry valign="top" align="left">Age and population specific<newline/>
 Client language<newline/>
 Complete within 48 hours of admission</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00046">Nutritional Risk Screening 2002 (NRS2002)</term></entry>
-<entry valign="top" align="left">All hospitalized clients</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00034"><item>All hospitalized clients</item></list></entry>
 <entry valign="top" align="left">Not applicable</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00047">Malnutrition Universal Screening Tool (MUST)</term></entry>
-<entry valign="top" align="left">Community clients</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00035"><item>Community clients</item></list></entry>
 <entry valign="top" align="left">Not applicable</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00048">Mini Nutritional Assessment (MNA-SF)</term></entry>
-<entry valign="top" align="left">Older clients</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00036"><item>Older clients</item></list></entry>
 <entry valign="top" align="left">Not applicable</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00049">Nutritional Risk in Critically Ill (NUTRIC)</term></entry>
-<entry valign="top" align="left">Critically ill clients</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00037"><item>Critically ill clients</item></list></entry>
 <entry valign="top" align="left">Not applicable</entry>
 </row>
 <row>
@@ -303,8 +303,8 @@ Vitamin E</entry>
 </entry>
 <entry valign="top" align="left">
   <list list-type="bulleted" id="list-00022">
-<item>Vitamin B<sub>12</sub> intramuscularly or</item>
-<item>high dose Vitamin B<sub>12</sub> orally daily</item>
+<item>Vitamin B<sub>12</sub> intramuscularly or<newline/>
+high dose Vitamin B<sub>12</sub> orally daily</item>
 <item>Diet modification</item>
 </list>
 </entry>
@@ -336,7 +336,7 @@ Vitamin E</entry>
 <item>Take antacids at least two hours after folic acid</item>
 <item>Take folic acid early in pregnancy for prevention of neural tube defects</item>
 <item>May turn urine intensely yellow</item>
-<item>Food sources: green leafy vegetables, fruits, nuts, eggs, meats</item>
+<item>Food sources: leafy green vegetables, fruits, nuts, eggs, meats</item>
   </list>
 </entry>
 </row>
@@ -360,7 +360,7 @@ Vitamin E</entry>
 <entry valign="top" align="left">
   <list list-type="bulleted" id="list-00029">
 <item>Lab analysis impacted by drugs: warfarin, antacids, antibiotics, aspirin</item>
-<item>Food source: cheese, green vegetables, meat, eggs</item>
+<item>Food sources: cheese, green vegetables, meat, eggs</item>
   </list>
 </entry>
 </row>
@@ -389,7 +389,7 @@ Vitamin E</entry>
   <list list-type="bulleted" id="list-00010">
     <item>May decrease response to warfarin and antibiotics</item>
     <item>May interfere with blood and urine glucose test</item>
-    <item>Food source: citrus fruits, tomatoes, strawberries, cantaloupe, peppers</item>
+    <item>Food sources: citrus fruits, tomatoes, strawberries, cantaloupe, peppers</item>
   </list>
 </entry>
 </row>
@@ -404,12 +404,12 @@ Vitamin E</entry>
 <item>Decreased exposure to sunlight</item>
   </list>
 </entry>
-<entry valign="top" align="left">Vitamin D3 (cholecalciferol) orally daily or high dose orally weekly</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00038"><item>Vitamin D<sup>3</sup> (cholecalciferol) orally daily or high dose orally weekly</item></list></entry>
 <entry valign="top" align="left">
   <list list-type="bulleted" id="list-00032">
 <item>Order lab as 25(OH)</item>
 <item>Laboratory analysis impacted by barbiturates and corticosteroids.</item>
-<item>Food source: fatty fish liver, fortified milk</item>
+<item>Food sources: fatty fish liver, fortified milk</item>
   </list>
 </entry>
 </row>
