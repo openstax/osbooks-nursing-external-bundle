@@ -40,7 +40,7 @@
       <row>
       <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term><newline/>
 	 (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
-      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 5–10 mg by sublingual route as needed every 2&#8211;4 hours.<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally 2&#8211;3 times daily.<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg orally 1&#8211;2 times daily; maximum dose 160 mg daily.</entry>
+      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 5–10 mg by sublingual route as needed every 2–4 hours.<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally 2–3 times daily.<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg orally 1–2 times daily; maximum dose 160 mg daily.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term><newline/>
@@ -50,7 +50,7 @@
       <row>
       <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term><newline/>
 	 (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
-      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally 3&#8211;4 times daily.<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every 4&#8211;8 hours daily.<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily.<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute IV.</entry>
+      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally 3–4 times daily.<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every 4–8 hours daily.<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily.<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute IV.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00010">Nitroprusside</term><newline/>
@@ -86,9 +86,9 @@
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
       <emphasis effect="italics">Sublingual tablets</emphasis>: 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/>
-      <emphasis effect="italics">Sustained-release tablets</emphasis>: 2.5 mg orally 3&#8211;4 times daily.<newline/>
+      <emphasis effect="italics">Sustained-release tablets</emphasis>: 2.5 mg orally 3–4 times daily.<newline/>
       <emphasis effect="italics">Spray</emphasis>: 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/>
-      <emphasis effect="italics">Ointment</emphasis>: 1/2 to 2 inches applied topically every 4&#8212;8 hours daily.<newline/>
+      <emphasis effect="italics">Ointment</emphasis>: 1/2 to 2 inches applied topically every 4—8 hours daily.<newline/>
       <emphasis effect="italics">Patch (disk)</emphasis>: Applied to skin once daily.<newline/>
       <emphasis effect="italics">Solution</emphasis>: 5–10 mcg/minute up to 100 mcg/minute IV.
       </entry>
@@ -203,17 +203,20 @@
 <tbody>
 <row>
 <entry valign="top">
-  <emphasis effect="italics">Temperature:</emphasis> 98.4°F<newline/>
-  <emphasis effect="italics">Blood pressure:</emphasis> 144/90 mm Hg<newline/>
-  <emphasis effect="italics">Heart rate:</emphasis> 78 beats/min<newline/>
-  <emphasis effect="italics">Respiratory rate:</emphasis> 16 breaths/min<newline/>
-  <emphasis effect="italics">Oxygen saturation:</emphasis> 98% on room air<newline/>
-  <emphasis effect="italics">Height:</emphasis> 5'3"<newline/>
-  <emphasis effect="italics">Weight:</emphasis> 188 pounds</entry>
+  <emphasis effect="italics">Temperature:</emphasis><newline/>98.4°F<newline/>
+  <emphasis effect="italics">Blood pressure:</emphasis><newline/>144/90 mm Hg<newline/>
+  <emphasis effect="italics">Heart rate:</emphasis><newline/>78 beats/min<newline/>
+  <emphasis effect="italics">Respiratory rate:</emphasis><newline/>16 breaths/min<newline/>
+  <emphasis effect="italics">Oxygen saturation:</emphasis><newline/>98% on room air<newline/>
+  <emphasis effect="italics">Height:</emphasis><newline/>5'3"<newline/>
+  <emphasis effect="italics">Weight:</emphasis><newline/>188 pounds</entry>
 <entry valign="top">
-      <emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention or pedal edema; S1, S2 noted.<newline/>
-       <emphasis effect="italics">Respiratory:</emphasis> Breath sounds clear on auscultation.</entry>
-      </row>
+  <list list-type="bulleted" id="list-00007">
+      <item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention or pedal edema; S1, S2 noted.</item>
+      <item><emphasis effect="italics">Respiratory:</emphasis> Breath sounds clear on auscultation.</item>
+    </list>  
+    </entry>
+            </row>
       </tbody>
       </tgroup>
       </table>

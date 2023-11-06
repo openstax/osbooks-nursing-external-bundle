@@ -194,20 +194,23 @@
   </thead>
   <tbody>
   <row>
-  <entry valign="top"><emphasis effect="italics">Temperature:</emphasis> 98.4°F<newline/>
-  <emphasis effect="italics">Blood pressure:</emphasis> 168/96 mm Hg<newline/>
-  <emphasis effect="italics">Heart rate:</emphasis> 88 beats/min<newline/>
-  <emphasis effect="italics">Respiratory rate:</emphasis> 16 breaths/min<newline/>
-  <emphasis effect="italics">Oxygen saturation:</emphasis> 97% on room air<newline/>
-  <emphasis effect="italics">Height:</emphasis> 5'3"<newline/>
-  <emphasis effect="italics">Weight:</emphasis> 184 pounds</entry>
-<entry valign="top"><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Denies any changes in vision. No difficulty hearing conversations.<newline/>
-<emphasis effect="italics">Cardiovascular:</emphasis> No jugular veindistention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>
-<emphasis effect="italics">Respiratory:</emphasis> Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>
-<emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>
-<emphasis effect="italics">GU:</emphasis> Deferred.<newline/>
-<emphasis effect="italics">Neurological:</emphasis> Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>
-<emphasis effect="italics">Integumentary:</emphasis> No wounds noted; skin appropriate for age.</entry>
+  <entry valign="top"><emphasis effect="italics">Temperature:</emphasis><newline/>98.4°F<newline/>
+  <emphasis effect="italics">Blood pressure:</emphasis><newline/>168/96 mm Hg<newline/>
+  <emphasis effect="italics">Heart rate:</emphasis><newline/>88 beats/min<newline/>
+  <emphasis effect="italics">Respiratory rate:</emphasis><newline/>16 breaths/min<newline/>
+  <emphasis effect="italics">Oxygen saturation:</emphasis><newline/>97% on room air<newline/>
+  <emphasis effect="italics">Height:</emphasis><newline/>5'3"<newline/>
+  <emphasis effect="italics">Weight:</emphasis><newline/>184 pounds</entry>
+<entry valign="top">
+<list list-type="bulleted" id="list-00003">
+<item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Denies any changes in vision. No difficulty hearing conversations.</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular veindistention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.</item>
+  <item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.</item>
+    <item><emphasis effect="italics">GU:</emphasis> Deferred.</item>
+      <item><emphasis effect="italics">Neurological:</emphasis> Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.</item>
+        <item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted; skin appropriate for age.</item>
+</list></entry>
 </row>
   </tbody>
   </tgroup>
