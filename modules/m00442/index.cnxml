@@ -154,20 +154,17 @@ Anuria</entry>
 <note class="case-study" id="note-00005">
 <title>Part C</title>
 <para id="para-00021">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up from Case Study Parts A and B.</para>
-
+<para id="para-00080">Gordon Jefferson is following up with the health care provider 3 months after his initial diagnosis of edema. He reports that the swelling in his legs has improved; however, he is now reporting generalized weakness. The health care provider examines the client and reviews the chemistry panel results from laboratory work drawn earlier in the morning. Gordon says he has been taking his prescribed medications, which include the following:<newline count="2"/>
+Losartan 50 mg orally every day<newline/>
+Dapagliflozin 10 mg orally every day<newline/>
+Metolazone 10 mg orally every day</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="4" colname="c4" colwidth="2*"/>
 <tbody>
-<row>
-<entry valign="top" align="left" namest="c1" nameend="c4">Gordon Jefferson is following up with the health care provider 3 months after his initial diagnosis of edema. He reports that the swelling in his legs has improved; however, he is now reporting generalized weakness. The health care provider examines the client and reviews the chemistry panel results from laboratory work drawn earlier in the morning. Gordon says he has been taking his prescribed medications, which include the following:<newline count="2"/>
-Losartan 50 mg orally every day<newline/>
-Dapagliflozin 10 mg orally every day<newline/>
-Metolazone 10 mg orally every day</entry>
-</row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
@@ -187,10 +184,10 @@ Metolazone 10 mg orally every day</entry>
 <emphasis effect="italics">Potassium:</emphasis> 2.9 mEq/L<newline/>
 <emphasis effect="italics">BUN</emphasis>: 24 mg/dL<newline/>
 <emphasis effect="italics">Creatinine:</emphasis> 1.4 mg/dL<newline/>
-<emphasis effect="italics">eGFR:</emphasis> 40 mL/minute/1.73 m<sup>2</sup><newline/></entry>
+<emphasis effect="italics">eGFR:</emphasis> 40 mL/minute/1.73 m<sup>2</sup></entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
 <entry valign="top" align="left">138/88 mm Hg</entry>
 </row>
 <row>
@@ -198,11 +195,11 @@ Metolazone 10 mg orally every day</entry>
 <entry valign="top" align="left">76 beats/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
 <entry valign="top" align="left">16 breaths/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
 <entry valign="top" align="left">98% on room air</entry>
 </row>
 <row>
@@ -213,12 +210,10 @@ Metolazone 10 mg orally every day</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
 <entry valign="top" align="left">191 lb</entry>
 </row>
-<row>
-<entry valign="top" align="center" namest="c1" nameend="c4">The health care provider diagnoses the client with hypokalemia, prescribes a potassium supplement, and recommends a low-sodium diet with potassium-rich foods.</entry>
-</row>
 </tbody>
 </tgroup>
 </table>
+<para id="para-00081">The health care provider diagnoses the client with hypokalemia, prescribes a potassium supplement, and recommends a low-sodium diet with potassium-rich foods.</para>
 <exercise id="exer-00013"><problem id="prob-00013"><para id="para-00078"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec01_UCSQ3"/></para></problem></exercise>
 <exercise id="exer-00014"><problem id="prob-00014"><para id="para-00079"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec05_UCSQ4"/></para></problem></exercise>
 </note>
