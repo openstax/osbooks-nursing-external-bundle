@@ -197,8 +197,8 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" namest="c1" nameend="c2"><span class="blue-text">Vital Signs</span></entry>
-<entry valign="top"><span class="blue-text">Physical Examination</span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">Vital Signs</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Physical Examination</span></entry>
 </row>
 </thead>
 <tbody>
