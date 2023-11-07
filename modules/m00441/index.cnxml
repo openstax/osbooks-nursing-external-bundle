@@ -6,8 +6,169 @@
     <md:uuid>4d362057-8112-4b26-9d46-10270361be1f</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of potassium-sparing diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of potassium-sparing diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Describe nursing implications of potassium-sparing diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Explain the client education related to potassium-sparing diuretic drugs used for fluid volume excess and renal system disorders.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Potassium-sparing diuretics</term> increase urinary output by inhibiting sodium reabsorption in the distal tubules and by decreasing potassium and hydrogen ion secretion and blocking the mineral corticoid sites. These drugs are commonly used in combination with other diuretics to modify potassium losses.</para>
+<section id="sect-00002">
+<title>Introduction and Use</title>
+<para id="para-00003">Potassium-sparing diuretics affect the reabsorption of sodium and the excretion of potassium in the connecting and collecting tubules by inhibiting the sodium transporters and blocking the mineral corticoid receptors. In contrast to the actions of other diuretics, when the potassium-sparing drugs inhibit sodium reabsorption in this area of the nephron, potassium excretion is decreased, thus preserving serum potassium levels.</para>
+<para id="para-00004">All potassium-sparing diuretics are used to treat or prevent hypokalemia associated with the use of loop diuretics and thiazide diuretics. The diuretic action of potassium-sparing diuretics is weaker than in other diuretic types, and the onset of action is delayed by as much as 3 days; however, the drugs are often used in combination with more potent diuretics to prevent or treat hypokalemia, heart failure, and hypertension.</para>
+<para id="para-00005">Spironolactone is a potassium-sparing diuretic that competes with the aldosterone (mineralocorticoid) receptors in the distal tubule and collecting duct of the nephron. It is approved to treat hypokalemia, primary hyperaldosteronism, heart failure, edema resulting from cirrhosis, and edema resulting from nephrotic syndrome that is resistant to other treatments. Spironolactone is often added as the fourth drug to treat resistant hypertension, which is defined as failure to reach blood pressure target levels when the client is receiving adequate doses of three antihypertensive drugs. In the early landmark Randomized Aldactone Evaluation Study (RALES), spironolactone was found to reduce mortality from all causes by 30% in clients with heart failure (Patibandla et al., 2022)<emphasis effect="italics">.</emphasis> In 2017, the American Heart Association recommended spironolactone as the treatment of choice in clients with class II–IV heart failure with a potassium level less than 5 mEq/L and creatinine clearance greater than 30 mL/hr (Patibandla et al., 2022). In this client population, spironolactone decreased hospital readmission rates, myocardial fibrosis, hypertrophy of cardiac muscle, and extracellular fluid volume. The drug is used off-label as part of gender-affirming hormone therapy and to treat hirsutism (excessive hair growth in a male growth pattern) and acne.</para>
+<para id="para-00006">Amiloride is recommended for the treatment of uncomplicated essential hypertension and chronic heart failure (Almajid &amp; Cassagnol, 2022). Several potential off-label uses for amiloride include treatment of increased urinary output associated with lithium therapy, insulin-induced edema, and multiple myeloma. Triamterene is a potassium-sparing diuretic that also increases the excretion of magnesium. Triamterene is used to treat edema associated with heart failure, nephrotic syndrome, ascites due to cirrhosis, hypertension, and hyperkalemia.</para>
+<para id="para-00007">[link]Table 34.4[/link] lists common potassium-sparing diuretics and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Spironolactone (Aldactone)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Heart failure:</emphasis> 25–50 mg orally once daily.<newline/>
+<emphasis effect="italics">Hypertension:</emphasis> 25–100 mg orally once daily or in divided doses.<newline/>
+<emphasis effect="italics">Edema:</emphasis> 100 mg orally in single or divided doses of 25–200 mg daily.<newline/>
+<emphasis effect="italics">Hyperaldosteronism:</emphasis> 100–400 mg daily.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Amiloride (Midamor)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">CHF or hypertension:</emphasis> 5–20 mg orally daily with food.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Triamterene (Dyrenium)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema associated with congestive heart failure, liver cirrhosis, nephrotic syndrome, secondary hyperaldosteronism, steroid use, or idiopathic causes:</emphasis> 100 mg orally twice daily titrated to effect up to 300 mg daily.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Eplerenone (Inspra)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Heart failure post–myocardial infarction:</emphasis> Initial dose: 25 mg orally once daily, titrated upward to 50 mg once daily; dose may need to be adjusted depending on potassium levels.<newline/>
+<emphasis effect="italics">Hypertension:</emphasis> 50 mg orally once daily; can be increased to 50 mg twice daily if needed.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Potassium-Sparing Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00003">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00008">Adverse effects related to the diuretic action of these drugs include hyperkalemia, hyponatremia, and hyperuricemia, as well as renal tubular necrosis, glucose intolerance, and metabolic acidosis. Endocrine effects of spironolactone therapy include gynecomastia (enlarged breasts), decreased libido, and other feminizing effects in male clients and menstrual alterations in female clients.</para>
+<para id="para-00009">Contraindications include anuria, hyperkalemia, and renal insufficiency. These medications should be used with caution in older adults and individuals who have diabetes or gout.</para>
+<para id="para-00010">[link]Table 34.5[/link] is a drug prototype table for potassium-sparing diuretics featuring spironolactone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Potassium-sparing diuretics<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Opposes the mineralocorticoid receptors that block the action of aldosterone, resulting in decreased reabsorption of sodium and retention of potassium</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis> <newline/>
+<emphasis effect="italics">Heart failure:</emphasis> 25–50 mg orally once daily.<newline/>
+<emphasis effect="italics">Hypertension:</emphasis> 25–100 mg orally once daily or in divided doses.<newline/>
+<emphasis effect="italics">Edema:</emphasis> 100 mg orally in single or divided doses of 25–200 mg daily.<newline/>
+<emphasis effect="italics">Hyperaldosteronism:</emphasis> 100–400 mg daily.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Heart failure with reduced ejection fraction<newline/>
+Resistant hypertension<newline/>
+Primary hyperaldosteronism<newline/>
+Edema secondary to cirrhosis or nephrotic syndrome<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Relieves fluid excess<newline/>
+Increases urinary output<newline/>
+Reduces potassium excretion</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Medications that increase serum potassium, including potassium supplements, ACE inhibitors, and angiotensin II receptor blockers (ARBs)<newline/>
+Lithium<newline/>
+Nonsteroidal anti-inflammatory drugs<newline/>
+Digoxin<newline/>
+Cholestyramine<newline/>
+Acetylsalicylic acid (aspirin)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Can be taken with or without food but should be taken consistently with respect to food<newline/>
+Potassium salt substitutes<newline/>
+Potassium-rich food</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Hyperkalemia<newline/>
+Hyponatremia<newline/>
+Hypotension<newline/>
+Bradycardia<newline/>
+Hepatic failure<newline/>
+Worsening renal function<newline/>
+Electrolyte abnormalities such as hyponatremia<newline/>
+Gynecomastia</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Anuria<newline/>
+Hyperkalemia<newline/>
+Severe hypovolemia<newline/>
+<emphasis effect="bold">Addison–s disease</emphasis></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Spironolactone (source: https://dailymed.nlm.nih.gov/dailymed/)caption</caption>
+</table>
+<note class="safety-alert" id="note-00001">
+<title>Potassium-Sparing Diuretics</title>
+<para id="para-00011">Clients taking potassium-sparing diuretics are accordingly at risk for hyperkalemia and its associated adverse effects. Hyperkalemia can cause arrhythmias and cardiac arrest if untreated.</para>
+<para id="para-00012">(Source: Simon et al., 2023)</para>
+</note>
+</section>
+<section id="sect-00004">
+<title>Nursing Implications</title>
+<para id="para-00013">The nurse should do the following for clients taking potassium-sparing diuretics:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Assess and monitor the client’s heart rate and blood pressure and perform a physical assessment to auscultate lung sounds and check for the presence of edema.</item>
+<item>Monitor the client’s weight for any significant increases (2 pounds in one day or 5 pounds in 1 week), which could indicate fluid retention.</item>
+<item>Monitor laboratory tests for electrolyte imbalances.</item>
+<item>Monitor the client’s ECG for any changes in cardiac rhythm.</item>
+<item>Assess and monitor for drug and food interactions.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional teaching guidelines.</item>
+</list>
+<note class="clinical-tip" id="note-00002">
+<title>Dietary Potassium</title>
+<para id="para-00014">Clients should be cautioned about consuming salt substitutes, bananas, and other potassium-rich foods when taking potassium-sparing diuretics. Clients often associate “water pills” with the need for additional dietary potassium.</para>
+<para id="para-00015">(Source: DailyMed, <emphasis effect="italics">Spironolactone,</emphasis> 2020)</para>
+</note>
+
+<note class="client-teaching" id="note-00003">
+<para id="para-00016"><emphasis effect="bold">The client taking a potassium-sparing diuretic should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Follow a balanced diet with limited intake of potassium-rich foods to decrease the risk of hyperkalemia.</item>
+<item>Take medications consistently regarding food (take either with or without food).</item>
+<item>Report gynecomastia, menstrual irregularities, and the onset of any additional endocrine alterations.</item>
+</list>
+<para id="para-00017"><emphasis effect="bold">The client taking a potassium-sparing diuretic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Use potassium-based salt substitutes.</item>
+<item>Take nonsteroid anti-inflammatory medications without consulting their health care provider because these can increase potassium levels.</item>
+</list>
+</note>
+<note class="black-box" id="note-00004">
+<para id="para-00018"><emphasis effect="bold">Potassium-Sparing Diuretics</emphasis></para>
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="bold">Spironolactone</emphasis>, a potassium-sparing diuretic that also antagonizes aldosterone receptor sites, may cause the development of several tumor types when administered at high doses that exceed current recommendations.</item>
+<item><emphasis effect="bold">Amiloride</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide and ACE inhibitors.</item>
+<item><emphasis effect="bold">Triamterene</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide. This is more likely to develop in clients with renal impairment and diabetes.</item>
+</list>
+</note>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>potassium-sparing diuretics</term> <meaning>drugs that interrupt sodium and water reabsorption while retaining potassium and increasing urinary output</meaning></definition>
+</glossary>
 </document>

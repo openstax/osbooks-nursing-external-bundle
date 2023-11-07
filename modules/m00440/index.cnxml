@@ -6,8 +6,119 @@
     <md:uuid>35e0ceee-d9d9-4a3a-a88b-2142d4b63108</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of osmotic diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of osmotic diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Describe nursing implications of osmotic diuretic drugs used for fluid volume excess and renal system disorders.</item>
+<item>Explain the client education related to osmotic diuretic drugs used for fluid volume excess and renal system disorders.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Osmotic diuretics</term> decrease sodium and water reabsorption in the proximal tubule and the loop of Henle, increasing water loss. Mannitol, the primary osmotic diuretic, is typically used to treat increased intracranial and intraocular pressure.</para>
+<section id="sect-00002">
+<title>Introduction and Use</title>
+<para id="para-00003"><term class="no-emphasis" id="term-00002">Mannitol</term> is a large sugar molecule that is readily filtered by the glomeruli and is not reabsorbed by the tubules. The resulting osmotic force increases the loss of sodium and water. Although mannitol is also approved to promote diuresis for acute renal failure and for excretion of toxic substances, it is used most commonly to treat increased intracranial pressure and increased intraocular pressure (Tenny et al., 2022). Mannitol reduces intracranial and intraocular pressures by moving water from the cells into the circulation. In the brain, mannitol creates an osmotic gradient that draws water across the blood–brain barrier. In the eye, mannitol draws water from the vitreous humor into the circulation, which decreases the pressure on the retina. Mannitol therapy requires close monitoring because of the risks for fluid volume excess, electrolyte imbalances, and adverse renal and neurologic effects of increased osmotic pressure.</para>
+<para id="para-00004">Hypertonic saline solutions may be used in place of mannitol therapy because the saline solution does not cause hypovolemia in critically ill clients who may already be hypovolemic, hypotensive, or actively bleeding. There is some evidence that hypertonic saline solutions also improve cerebral perfusion and cellular oxygenation (Shi et al., 2020). In addition, in contrast to mannitol, the saline solution can be infused temporarily through a peripheral vein until central venous access is available, and it does not require special reconstitution or delivery systems. Moreover, the therapies are associated with similar clinical outcomes.</para>
+</section>
+<section id="sect-00003">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00005">Mannitol, like other diuretics, can cause electrolyte abnormalities and dehydration. It can cause heart failure secondary to the rapid fluid shift of water into the intravascular space. Administration of the drug has also been associated with the development of AKI in clients with normal renal function. If warm temperatures are not maintained during administration, mannitol can precipitate into crystals, causing vascular and end-organ damage. It is also possible for leakage of mannitol across the blood–brain barrier to cause a rebound increase in intracranial pressure (Tenny et al., 2022).</para>
+<para id="para-00006">The client’s kidney function must be adequate to manage the increased diuresis that mannitol will produce. It should be avoided in clients with anuria or previous renal damage caused by mannitol, and it should be used with caution in clients with decreased renal function. It should not be used for clients who are severely dehydrated or who have existing electrolyte abnormalities that could be exacerbated by its administration. Mannitol should not be used in clients with congestive heart failure or pulmonary edema.</para>
+<note class="safety-alert" id="note-00001">
+<title>Osmotic Diuretics</title>
+<para id="para-00007">Table GridRenal function should be monitored in all clients receiving mannitol. Acute renal failure can occur not only in clients with preexisting renal disease but also in clients with normal renal function.</para>
+<para id="para-00008">(Source: DailyMed, <emphasis effect="italics">Mannitol</emphasis>, 2023)</para>
+</note>
+<para id="para-00009">[link]Table 34.3[/link] is a drug prototype table for osmotic diuretics featuring mannitol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Osmotic diuretic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Increases osmotic pressure, which increases urinary output</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis> <newline/>
+<emphasis effect="italics">Increased intracranial pressure:</emphasis> Bolus injection of 0.25 g/kg IV every 6–8 hours as needed.<newline/>
+<emphasis effect="italics">Increased intraocular pressure:</emphasis> 0.25–2 g/kg IV of 20% solution over at least 30 minutes.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Increased intracranial pressure<newline/>
+Increased intraocular pressure<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Relieves edema<newline/>
+Increases urinary output</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Acetaminophen<newline/>
+Acetylsalicylic acid (aspirin)<newline/>
+Acyclovir<newline/>
+Use with caution with all nephrotoxic drugs due to the cumulative effect.<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Alcohol<newline/>
+Black licorice</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Hypokalemia<newline/>
+Hyponatremia<newline/>
+Orthostatic hypotension<newline/>
+Hypovolemia<newline/>
+Azotemia<newline/>
+Oliguria<newline/>
+Agranulocytosis<newline/>
+Hyperuricemia<newline/>
+Heart failure</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline/>
+Anuria<newline/>
+Severe hypovolemia<newline/>
+Preexisting pulmonary edema<newline/>
+Intracranial bleeding<newline/>
+Congestive heart failure<newline/>
+Impaired renal function<newline/>
+Existing electrolyte abnormalities</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Mannitol (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Nursing Implications</title>
+<para id="para-00010">The nurse should do the following for clients who are taking mannitol:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Administer the medication through a dedicated IV line in a large central vein (DailyMed, <emphasis effect="italics">Mannitol</emphasis>, 2023).</item>
+<item>Use only filtered tubing to administer the medication (DailyMed, <emphasis effect="italics">Mannitol</emphasis>, 2023).</item>
+<item>Avoid administering mannitol simultaneously with blood products.</item>
+<item>Check the medication vial for the presence of crystals. If they are present, warm the solution to 140ºF, vigorously agitate the vial, and then cool the medication to body temperature before administering (DailyMed, <emphasis effect="italics">Mannitol</emphasis>, 2023).</item>
+<item>Monitor the infusion site for signs of extravasation during administration.</item>
+<item>Carefully monitor the client’s fluid volume status by assessing vital signs and weight.</item>
+<item>Monitor lung sounds for congestion and other signs of heart failure or circulatory overload.</item>
+<item>Monitor laboratory values for electrolyte imbalances.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="clinical-tip" id="note-00002">
+<title>Mannitol Administration</title>
+<para id="para-00011">Monitor the insertion site during the infusion for signs of extravasation because extravasation of mannitol can result in the development of compartment syndrome in the arm in which it is infusing. Compartment syndrome is a state of increased pressure in a closed compartment containing bone and fascia, resulting in tissue injury.</para>
+<para id="para-00012">(Source: DailyMed, <emphasis effect="italics">Mannitol</emphasis>, 2023)</para>note
+</note>
+<note class="client-teaching" id="note-00003">
+<para id="para-00013"><emphasis effect="bold">The client taking an osmotic diuretic should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Avoid potential food interactions, including black licorice and alcohol.</item>
+<item>Report any pain, especially headaches or pain at the infusion site.</item>
+<item>Report changes in vision (in clients being treated for increased intraocular pressure).</item>
+</list>
+</note>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>osmotic diuretics</term> <meaning>drugs that draw fluid from the cells by increasing osmotic pressure</meaning></definition>
+</glossary>
 </document>
