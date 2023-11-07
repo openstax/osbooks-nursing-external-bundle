@@ -183,10 +183,10 @@
   <para id="para-00033"><emphasis effect="bold">History</emphasis><newline/>Hyperlipidemia<newline/>Type 2 diabetes</para>
   <para id="para-00034"><emphasis effect="bold">Current Medications</emphasis><newline/>Atorvastatin, 20 mg once daily<newline/>Metformin, 500 mg twice daily</para>
   <table class="vertically-tight" id="table-00002">
-  <tgroup cols="2">
+  <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="2*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">Vital Signs</span></entry>
