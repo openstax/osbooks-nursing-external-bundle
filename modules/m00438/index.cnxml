@@ -126,7 +126,7 @@ Dapagliflozin 10 mg orally every day</para>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></span></entry>
@@ -171,9 +171,9 @@ Dapagliflozin 10 mg orally every day</para>
 </tbody>
 </tgroup>
 </table>
-</note>
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec01_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
 </section>
 </section>
 </section>
