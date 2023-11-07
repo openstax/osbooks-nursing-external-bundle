@@ -55,7 +55,7 @@
   <section id="sect-00009">
   <title>Premixed Insulin</title>
   <para id="para-00012">Premixed insulin combines intermediate- and short-acting insulin into a single injection. These injections are usually taken 10 to 30 minutes before breakfast and dinner to provide both basal and mealtime coverage.</para>
-  <para id="para-00013">Table 28.1 lists common <term class="no-emphasis" id="term-00002">insulins</term> and their actions.</para>
+  <para id="para-00013"><link target-id="table-00001" document="m00414"/> lists common <term class="no-emphasis" id="term-00002">insulins</term> and their actions.</para>
   <table class="vertically-tight" id="table-00001">
   <tgroup cols="5">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -123,7 +123,7 @@
   </section>
   <section id="sect-00010">
   <title>Administration of Insulin</title>
-  <para id="para-00014">Insulin typically comes as an injectable source because it needs to bypass the first pass of digestion for absorbtion, but to its instability in the presence of gastric acid. Insulin is injected into the <term id="term-00007">subcutaneous</term> tissue via an insulin syringe, insulin pen, or insulin pump. Injection sites for insulin are located primarily on the abdomen, back of the upper arm, lower back, buttocks, and upper outer thigh (see Figure 28.4. The rate of absorption depends on the injection site. Insulin injection sites should be rotated to prevent fatty deposits and site irritation (American Diabetes Association, n.d.-d.).</para>
+  <para id="para-00014">Insulin typically comes as an injectable source because it needs to bypass the first pass of digestion for absorbtion, but to its instability in the presence of gastric acid. Insulin is injected into the <term id="term-00007">subcutaneous</term> tissue via an insulin syringe, insulin pen, or insulin pump. Injection sites for insulin are located primarily on the abdomen, back of the upper arm, lower back, buttocks, and upper outer thigh (see <link target-id="fig-00001" document="m00414"/> The rate of absorption depends on the injection site. Insulin injection sites should be rotated to prevent fatty deposits and site irritation (American Diabetes Association, n.d.-d.).</para>
   <figure class="scaled-down" id="fig-00001">
   <media alt="The common injection sites for insulin on the human body are the upper arms, abdomen, thighs, and buttocks (highlighted in the color orange in the diagram)."><image mime-type="image/png" src="../../media/PHA_Figure_28_02_004.png"/></media>
   <caption>The most common insulin injection sites are upper outer arms, abdomen, upper outer thighs, and the buttocks. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
@@ -167,9 +167,8 @@
   <para id="para-00030">Insulin is a natural hormone present in the body. In clients with diabetes, insulin use as a medication is generally safe and effective; however, there can be certain adverse effects and contraindications associated with its use.</para>
   <para id="para-00031">Typical adverse effects of all types of insulin include hypoglycemia (symptoms include shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), weight gain (due to an increased glucose uptake and storage in cells), injection site reactions (such as redness, swelling, or itching), lipodystrophy (fat tissue changes from repeated use of the same injection site), and fluid retention (swelling in the legs and feet).</para>
   <para id="para-00032">Contraindications include hypersensitivity to the components in the insulin, especially animal-derived insulins. Caution should be used in clients with medical conditions that cause fluid retention, such as heart failure and renal failure (as insulin can cause additional fluid retention leading to volume overload), and in clients with liver failure (as insulin is metabolized by the liver).</para>
-  <para id="para-00033">Table 28.2 is a drug prototype table for the diabetes drug insulin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-  
-  <table class="vertically-tight" id="table-00002">
+  <para id="para-00033"><link target-id="table-00002" document="m00414"/> is a drug prototype table for the diabetes drug insulin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -248,7 +247,7 @@
   <section id="sect-00023">
   <title>Semaglutide (Ozempic)</title>
   <para id="para-00044">Semaglutide (Ozempic) is taken once a week at any time of the day, regardless of mealtimes. It can be used in combination with sulfonylureas, non-sulfonylureas biguanides, thiazolidinediones, and insulin. Adverse effects include nausea, diarrhea, abdominal pain, decreased appetite, weight loss, and constipation (Smits &amp; Van Raalte, 2021).</para>
-  <para id="para-00045">Table 28.3 lists common <term class="no-emphasis" id="term-00020">non-insulin injectable drugs</term> and typical routes and dosing for adult clients.</para>
+  <para id="para-00045"><link target-id="table-00003" document="m00414"/> lists common <term class="no-emphasis" id="term-00020">non-insulin injectable drugs</term> and typical routes and dosing for adult clients.</para>
   <table class="vertically-tight" id="table-00003">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -297,7 +296,7 @@
   <title>Adverse Effects and Contraindications</title>
   <para id="para-00046">Adverse effects of amylin analogs include hypoglycemic symptoms (shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), gastrointestinal symptoms (nausea, vomiting, diarrhea, abdominal pain, and loss of appetite), and injection site reactions.</para>
   <para id="para-00047">Contraindications include hypersensitivity to the drug or any of its components and in clients with medullary thyroid cancer and multiple endocrine neoplasia (as these drugs can exacerbate these conditions). Caution should be used in clients with gastroparesis, as amylin analogs may further slow down gastric emptying, in clients with severe renal impairment as the drugs are excreted in the urine and can further impair renal function, and in clients with hepatic insufficiency, due to the drugs being metabolized by the liver and thus can impede liver functioning.</para>
-  <para id="para-00048">Table 28.4 is a drug prototype table for non-insulin injectable drugs featuring dulaglutide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <para id="para-00048"><link target-id="table-00004" document="m00414"/> is a drug prototype table for non-insulin injectable drugs featuring dulaglutide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   <table class="vertically-tight" id="table-00004">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
