@@ -135,12 +135,12 @@
   <colspec colnum="3" colname="c3" colwidth="1*"/>
   <tbody>
   <row>
-  <entry valign="top" align="center" namest="c1" nameend="c3">Alaina Sanders was diagnosed with type 2 diabetes, and the health care provider prescribed extended-release glipizide 5 mg orally and lifestyle modifications. The client returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.</entry>
-  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Laboratory Results</span></emphasis><newline/>
-  Glycosylated hemoglobin</entry>
-  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">6 Months Ago</span></emphasis><newline/>
-  7.8%</entry>
-  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Today</span></emphasis><newline/>
+ <entry valign="top" align="left" namest="c1" nameend="c3">Alaina Sanders was diagnosed with type 2 diabetes, and the health care provider prescribed extended-release glipizide 5 mg orally and lifestyle modifications. The client returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Laboratory Results</span></emphasis><newline/>
+  Glycosylated hemoglobin<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">6 Months Ago</span></emphasis><newline/>
+  7.8%<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Today</span></emphasis><newline/>
   6.9%</entry>
   </row>
   <row>
