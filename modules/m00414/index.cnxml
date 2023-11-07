@@ -1,13 +1,393 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
   <title>Insulin and Non-Insulin Injectable Diabetes Drugs</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Insulin and Non-Insulin Injectable Diabetes Drugs</md:title>
-    <md:content-id>m00414</md:content-id>
-    <md:uuid>90f4bc96-4e35-4467-906d-1232c4903659</md:uuid>
+  <md:title>Insulin and Non-Insulin Injectable Diabetes Drugs</md:title>
+  <md:content-id>m00414</md:content-id>
+  <md:uuid>90f4bc96-4e35-4467-906d-1232c4903659</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Outcomes</title>
+  <para id="para-00001">By the end of this section, you should be able to:</para>
+  <list id="list-00001">
+  <item>Identify the characteristics of insulin and non-insulin injectable drugs used to treat diabetes.</item>
+  <item>Explain the indications, actions, adverse reactions, contraindications, and interactions of insulin and non-insulin injectable drugs used to treat diabetes.</item>
+  <item>Describe nursing implications of insulin and non-insulin injectable drugs used to treat diabetes.</item>
+  <item>Explain the client education related to insulin and non-insulin injectable drugs used to treat diabetes.</item>
+  </list>
+  </section>
+  <section id="sect-00002">
+  <title>Insulin</title>
+  <para id="para-00002">Insulin is released by β cells from the islets of Langerhans in the pancreas after eating a meal. The carbohydrates from the meal are broken down into glucose. As glucose enters the bloodstream, insulin is secreted and allows the cells in muscles, fat, and the liver to absorb the glucose for energy (American Diabetes Association, n.d.-d.). Insulin not only is important for glucose homeostasis, but it also plays a role in lipid metabolism through lipolysis and assists in protein metabolism through downregulation of hepatic and muscle enzymes, and its action within endothelial cells and macrophages has an anti-inflammatory effect on the body. </para>
+  <para id="para-00003">Insulin has three characteristics: onset, peak, and duration. Onset is the length of time before insulin reaches the bloodstream and begins to lower glucose levels. Peak time is discussed below. Duration is how long insulin continues to lower blood glucose levels. </para>
+  <section id="sect-00003">
+  <title>Peak Time</title>
+  <para id="para-00004"><term id="term-00001">Peak time</term> is when insulin is at its maximum strength in terms of lowering blood glucose levels. Individuals are at a higher risk of developing hypoglycemia symptoms when insulin is peaking (American Diabetes Association, n.d.-d.).</para>
+  </section>
+  <section id="sect-00004">
+  <title>Types of Insulin</title>
+  <para id="para-00005">There are different types of insulin based on the client’s needs. In this chapter, rapid-acting, short-acting, intermediate-acting, and long-acting insulins, as well as premixed insulins, will be discussed. Insulins are typically clear except for insulin isophane NPH, which is cloudy.</para>
+  <note class="safety-alert" id="note-00001">
+  <para id="para-00006"><emphasis effect="bold">Insulin-Independent Double Checks</emphasis></para>
+  <list list-type="bulleted" id="list-00002">
+  <item>Double-check to ensure the correct type of insulin is being administered, especially if the client is taking more than one type of insulin. Perform independent double checks on the vial and dose of insulin.</item>
+  <item>Only use insulin syringes to administer insulin.</item>
+  <item>Double check client identifiers, type, product, dose, and measured dose of insulin prior to administering the drug to the client to decrease the risk of medication error.</item>
+  </list>
+  <para id="para-00007">(Source: Institute for Safe Medication Practices, 2019).</para>
+  </note>
+  <section id="sect-00005">
+  <title>Rapid-Acting Insulin</title>
+  <para id="para-00008">Rapid-acting insulin begins to work approximately 15–30 minutes after injection. It peaks in 1–2 hours after injection, and its duration is 2–4 hours. Insulin aspart (Novolog), insulin glulisine (Apidra), and insulin lispro (Humalog) are rapid-acting insulins (DailyMed, <emphasis effect="italics">Novolog</emphasis>, 2021; DailyMed <emphasis effect="italics">Apidra</emphasis>, 2022; DailyMed, <emphasis effect="italics">Humalog</emphasis>, 2022).</para>
+  </section>
+  <section id="sect-00006">
+  <title>Short-Acting Insulin</title>
+  <para id="para-00009">Short-acting insulin, also known as regular insulin, begins to work within 30 minutes to 1 hour after injection. It peaks in 2–3 hours after injection, and its duration is 3–6 hours. Human regular insulin (Humulin R and Novolin R) is a short-acting insulin (DailyMed, <emphasis effect="italics">Humulin R</emphasis>, 2022; DailyMed, <emphasis effect="italics">Novolin R</emphasis>, 2022).</para>
+  </section>
+  <section id="sect-00007">
+  <title>Intermediate-Acting Insulin</title>
+  <para id="para-00010">Intermediate-acting insulin begins to work 2–4 hours after injection. It peaks in 4–12 hours, and its duration is 12–18 hours. Insulin isophane NPH (Humulin N and Novolin N) is a type of intermediate-acting insulin (DailyMed, <emphasis effect="italics">Humulin N</emphasis>, 2022; DailyMed, <emphasis effect="italics">Novolin N</emphasis>, 2022).</para>
+  </section>
+  <section id="sect-00008">
+  <title>Long-Acting Insulin</title>
+  <para id="para-00011">Long-acting insulin begins to work 1–2 hours after injection. It has no peak time and acts to lower blood glucose levels up to 24 hours. Insulin degludec (Tresiba), insulin detemir (Levemir), and insulin glargine (Lantus) are long-acting insulins (DailyMed, <emphasis effect="italics">Tresiba</emphasis>, 2022; DailyMed, <emphasis effect="italics">Lantus</emphasis>, 2022). </para>
+  </section>
+  <section id="sect-00009">
+  <title>Premixed Insulin</title>
+  <para id="para-00012">Premixed insulin combines intermediate- and short-acting insulin into a single injection. These injections are usually taken 10 to 30 minutes before breakfast and dinner to provide both basal and mealtime coverage.</para>
+  <para id="para-00013">Table 28.1 lists common <term class="no-emphasis" id="term-00002">insulins</term> and their actions.</para>
+  <table class="vertically-tight" id="table-00001">
+  <tgroup cols="5">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Onset</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Peak</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Duration</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Method</span></emphasis></entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00003"><emphasis effect="bold"><emphasis effect="italics">Rapid-acting insulin</emphasis></emphasis><newline/>
+  Insulin aspart<newline/>
+  (Novolog)<newline/>
+  Insulin glulisine<newline/>
+  (Apidra)<newline/>
+  Insulin lispro<newline/>
+  (Humalog)</term></entry>
+  <entry valign="top" align="center">15–30 minutes</entry>
+  <entry valign="top" align="center">1–2 hours</entry>
+  <entry valign="top" align="center">2–4 hours</entry>
+  <entry valign="top" align="left">Take 15 minutes before a meal or immediately after a meal. Often used with a longer-acting insulin.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00004"><emphasis effect="bold"><emphasis effect="italics">Short-acting insulin</emphasis></emphasis><newline/>
+  Human regular insulin<newline/>
+  (Humulin R, Novolin R)</term></entry>
+  <entry valign="top" align="center">30 minutes–1 hour</entry>
+  <entry valign="top" align="center">2–3 hours</entry>
+  <entry valign="top" align="center">3–6 hours</entry>
+  <entry valign="top" align="left">Take 30–60 minutes before a meal. May be used with a longer-acting insulin.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00005"><emphasis effect="bold"><emphasis effect="italics">Intermediate-acting insulin</emphasis></emphasis><newline/>
+  Insulin isophane NPH<newline/>
+  (Humulin N, Novolin N)</term></entry>
+  <entry valign="top" align="center">2–4 hours</entry>
+  <entry valign="top" align="center">4–12 hours</entry>
+  <entry valign="top" align="center">12–18 hours</entry>
+  <entry valign="top" align="left">Covers insulin needs for 12 hours or longer, or overnight. Often used with a rapid- or short-acting insulin.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00006"><emphasis effect="bold"><emphasis effect="italics">Long-acting insulin</emphasis></emphasis><newline/>
+  Insulin degludec<newline/>
+  (Tresiba)<newline/>
+  Insulin detemir<newline/>
+  (Levemir)<newline/>
+  Insulin glargine<newline/>
+  (Lantus)</term></entry>
+  <entry valign="top" align="center">1–2 hours</entry>
+  <entry valign="top" align="center">Does not peak</entry>
+  <entry valign="top" align="center">Up to 24 hours</entry>
+  <entry valign="top" align="left">Covers insulin needs for approximately an entire day. Often used with a rapid- or short-acting insulin.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption><emphasis effect="bold">Types of Insulin </emphasis>(source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  </section>
+  </section>
+  <section id="sect-00010">
+  <title>Administration of Insulin</title>
+  <para id="para-00014">Insulin typically comes as an injectable source because it needs to bypass the first pass of digestion for absorbtion, but to its instability in the presence of gastric acid. Insulin is injected into the <term id="term-00007">subcutaneous</term> tissue via an insulin syringe, insulin pen, or insulin pump. Injection sites for insulin are located primarily on the abdomen, back of the upper arm, lower back, buttocks, and upper outer thigh (see Figure 28.4. The rate of absorption depends on the injection site. Insulin injection sites should be rotated to prevent fatty deposits and site irritation (American Diabetes Association, n.d.-d.).</para>
+  <figure class="scaled-down" id="fig-00001">
+  <media alt="The common injection sites for insulin on the human body are the upper arms, abdomen, thighs, and buttocks (highlighted in the color orange in the diagram)."><image mime-type="image/png" src="../../media/PHA_Figure_28_02_004.png"/></media>
+  <caption>The most common insulin injection sites are upper outer arms, abdomen, upper outer thighs, and the buttocks. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+  </figure>
+  </section>
+  <section id="sect-00011">
+  <title>Methods of Insulin Dosing</title>
+  <para id="para-00015">Most insulin is given on a carbohydrate-to-insulin ratio via a fixed-dose insulin method with an insulin syringe (American Diabetes Association, n.d.-d.). Fixed dose therapy can apply to clients who take one injection a day and to clients taking multiple injections per day. With fixed dose insulin therapy, a client will take the same amount of insulin at a specific time each day; for example, take 30 units of insulin at breakfast each day and 20 units at dinner each day. Because the doses stay the same from one day to another, the client will need to eat a specific amount of carbohydrates for each meal (Diabetes.co.uk, 2023)</para>
+  <para id="para-00016">In health care settings such as a hospital or a nursing home, insulin may also be administered via a <term id="term-00008">sliding scale coverage</term> method. The sliding scale method typically uses a short-acting insulin (Migdal et al., 2021). The dose of insulin is based on the blood glucose level just before a meal, which is taken using a glucometer. </para>
+  <para id="para-00017">Although still commonly used in health care settings, sliding scale insulin has become controversial in recent years because it has not been shown to control blood glucose levels very well. Sliding scale insulin dosing not only has demonstrated poor blood glucose control, but also does not reflect a person’s current insulin needs based on their diet, weight, and insulin history. Currently, it is recommended that <term id="term-00009">basal insulin dosing</term> be used instead of sliding scale for glycemic control. With basal dosing, a long-acting insulin is administered to keep insulin levels steady throughout the day, and then a rapid-acting insulin is administered during mealtimes to regulate spikes in blood glucose levels after meals (Migdal et al., 2021).</para>
+  <section id="sect-00012">
+  <title>Insulin Pen</title>
+  <para id="para-00018">An <term id="term-00010">insulin pen</term> is a pen-shaped injector device that combines insulin and a syringe in one unit. Insulin pens are prefilled with an insulin cartridge or have a prefilled insulin reservoir. The pens have a dial, and disposable needles can be attached to the pen. Insulin pens are relatively easy to use and convenient. To use an insulin pen, the client should twist on a needle, dial the dose as prescribed by the health care provider, and inject into the subcutaneous site. The needle is then thrown away into a sharps container, and the pen is placed in a safe area until the next dose of insulin is due (American Diabetes Association, n.d.-d.).</para>
+  <para id="para-00019">Pens are disposable after all of the insulin in the pen has been used or the pen has expired. Pens are often color-coded to make it easier to recognize the type of insulin the pen contains. Pens are portable and can be used discreetly in public places when needed (American Diabetes Association, n.d.-d.).</para>
+  <note class="clinical-tip" id="note-00002">
+  <para id="para-00020"><emphasis effect="bold">Insulin Pens</emphasis></para>
+  <para id="para-00021">Insulin pens should never be used for more than one person or for someone other than the person they were prescribed for. Regurgitation of blood into the insulin cartridge or reservoir can occur after injection. The risk of blood-borne pathogen transmission increases if the insulin pen is used on more than one person (CDC, 2022a).</para>
+  </note>
+  </section>
+  <section id="sect-00013">
+  <title>Insulin Pump and Continuous Glucose Monitoring</title>
+  <para id="para-00022">An <term id="term-00011">insulin pump</term> is a small, computerized infusion set device that delivers insulin. Doses of a rapid-acting insulin are supplied through a flexible catheter that has been inserted through the skin into the subcutaneous tissue. Insulin pumps are often integrated with a <term id="term-00012">continuous glucose monitor (CGM)</term>, which is a device that monitors blood glucose levels on a continual basis. CGMs decrease the need for finger sticks and blood sampling with a glucometer. CGMs are applied to the back of the arm, abdomen, or upper gluteal areas and covered with a bandage. These devices need to be changed every 10–14 days. CGMs are accompanied by an app that synchronizes with the sensor in the device. This allows for easy and portable blood glucose tracking. Insulin pumps and CGMs have been successfully utilized across all age groups (American Diabetes Association, n.d.-d.).</para>
+  <para id="para-00023">Insulin pumps are set to deliver a small dose of insulin continuously. This is called a basal dose insulin, and it mimics the body’s normal release of insulin. The basal dose insulin is calculated and programmed by the health care provider based on the client’s glycemic needs. A <term id="term-00013">bolus</term> dose insulin may also be delivered by the insulin pump close to mealtimes to control the rise in blood glucose levels after a meal (American Diabetes Association, n.d.-d.).</para>
+  <note class="link-to-learning" id="note-00003">
+  <para id="para-00024">The <link url="https://openstax.org/r/clevelandclinicorg">Cleveland Clinic presents information</link> on insulin pumps, reasons they are used, and how to wear an insulin pump. It provides a video on insulin pumps as well as information on risks and benefits. </para>
+  </note>
+  </section>
+  <section id="sect-00014">
+  <title>Intravenous Insulin</title>
+  <para id="para-00025"><term class="no-emphasis" id="term-00014">Intravenous insulin</term> is administered by a health care professional to a client in a health care setting. Insulin is administered directly into the bloodstream via an intravenous catheter. Intravenous insulin is used to treat hyperglycemic emergencies and other conditions such as diabetic ketoacidosis, hyperosmolar (extremely high glucose) states, and hyperkalemia. Human regular insulin is typically the only insulin given intravenously; however, according to Rubin, Khanna, and McIver (2022), insulin aspart, a rapid acting insulin, may be administered through a subcutaneous infusion via pump, or intravenously as a diluted solution with close monitoring of blood glucose and serum potassium levels. Once the insulin is injected into the intravenous catheter, it only takes a few minutes for it to enter the bloodstream and to start working to lower blood glucose levels. Intravenous insulin therapy is typically administered short term for a period of 3–12 hours and requires close monitoring by a health care professional (Thota &amp; Akbar, 2022).</para>
+  <para id="para-00026">Intravenous insulin can be administered via a bolus dose method and/or as a <term id="term-00015">titrated</term> insulin drip requiring an infusion device. A bolus dose of insulin is administered via the intravenous line when rapid reduction of blood glucose levels is needed, such as with a severe hyperglycemic state like diabetic ketoacidosis (Dhatariya et al., 2020). </para>
+  <para id="para-00027">A titrated intravenous insulin drip, also called an insulin infusion, may be required to assist with reducing severely elevated blood glucose levels, when a bolus dose of intravenous insulin alone does not assist in reaching the targeted blood glucose level for the client. Titrated insulin drips provide 1 unit of a rapid-acting or short-acting insulin per mL of 0.9% sodium chloride. The titrated insulin drips are typically started at 1 unit/hour and titrated based on the facility’s protocol in association with the client’s blood glucose level. For example, if the client’s blood glucose level is 111–140 mg/dL, the titrated insulin drip is set to infuse at 1 unit/hour; if the client’s blood glucose level is 141–175 mg/dL, the titrated insulin drip is set to infuse at 2 units/hour. Blood glucose levels are checked hourly, and the insulin infusion is titrated based on the blood glucose levels until the client reaches glucose homeostasis. Once the client has reached glucose homeostasis, subcutaneous insulin is administered, and the client is weaned off of the titrated insulin drip (Dhatariya et al., 2020). </para>
+  <note class="clinical-tip" id="note-00004">
+  <para id="para-00028"><emphasis effect="bold">Titrate Insulin Drip to Subcutaneous Insulin</emphasis></para>
+  <para id="para-00029">The nurse or health care provider should check blood glucose levels one hour prior to discontinuing the titrated insulin drip. The first dose of subcutaneous insulin should be administered prior to discontinuing the titrated insulin drip. The titrated insulin drip should be continued for 30–60 minutes after the subcutaneous insulin injection to prevent rebound hyperglycemia (Dhatariya et al., 2020). </para>
+  </note>
+  </section>
+  </section>
+  <section id="sect-00015">
+  <title>Adverse Effects and Contraindications</title>
+  <para id="para-00030">Insulin is a natural hormone present in the body. In clients with diabetes, insulin use as a medication is generally safe and effective; however, there can be certain adverse effects and contraindications associated with its use.</para>
+  <para id="para-00031">Typical adverse effects of all types of insulin include hypoglycemia (symptoms include shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), weight gain (due to an increased glucose uptake and storage in cells), injection site reactions (such as redness, swelling, or itching), lipodystrophy (fat tissue changes from repeated use of the same injection site), and fluid retention (swelling in the legs and feet).</para>
+  <para id="para-00032">Contraindications include hypersensitivity to the components in the insulin, especially animal-derived insulins. Caution should be used in clients with medical conditions that cause fluid retention, such as heart failure and renal failure (as insulin can cause additional fluid retention leading to volume overload), and in clients with liver failure (as insulin is metabolized by the liver).</para>
+  <para id="para-00033">Table 28.2 is a drug prototype table for the diabetes drug insulin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  
+  <table class="vertically-tight" id="table-00002">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+  Insulin<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+  Lowers the level of glucose in the blood and provides cells with glucose for energy by helping cells to absorb glucose</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+  Varies based on client’s glycemic need, blood glucose levels, and health status.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+  Hyperglycemia<newline/>
+  Glucose homeostasis<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+  Lowers blood glucose levels<newline/>
+  Promotes use of glucose by cells</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+  Alcohol<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+  No significant interactions</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+  Weakness<newline/>
+  Headache<newline/>
+  Nausea/diarrhea/abdominal pain<newline/>
+  Cough<newline/>
+  Weight gain/edema<newline/>
+  Injection site irritation and reaction<newline/>
+  Lipodystrophy</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+  Hypoglycemia<newline count="2"/>
+  Caution:<newline/>
+  Monitor closely for signs of hypoglycemic reaction during insulin peak time</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Drug Prototype Table: Insulin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  </section>
+  <section id="sect-00016">
+  <title>Non-Insulin Injectable Drugs</title>
+  <para id="para-00034"><term class="no-emphasis" id="term-00016">Non-insulin injectable drugs</term> provide an alternative to insulin therapy for clients with diabetes. They act on hormones that are secreted along with insulin by the pancreas to control glucose homeostasis. These drugs were first approved for use in the United States in 2005 (Feingold, 2022; Campbell, 2021).</para>
+  <section id="sect-00017">
+  <title><term class="no-emphasis" id="term-00017">Amylin Analogs</term></title>
+  <para id="para-00035">Amylin is a hormone secreted along with insulin by the pancreas in response to food intake. In 2005, pramlintide (Symlin) was the first FDA-approved amylin analog non-insulin injectable drug. This drug can be used for clients with diabetes who are taking insulin. Pramlintide slows gastric emptying and blocks the release of glucagon from the liver after a meal. This drug is administered before mealtimes. Adverse effects include nausea, loss of appetite, fatigue, headache, and weight loss. It is contraindicated in clients with hypersensitivity to amylin analogs, have hypoglycemia, or gastroparesis (Maikawa et al., 2020; Campbell, 2021). </para>
+  </section>
+  <section id="sect-00018">
+  <title><term class="no-emphasis" id="term-00018">Glucagon-Like Peptide (GLP-1) Receptor Agonists</term></title>
+  <para id="para-00036"><term class="no-emphasis" id="term-00019">GLP-1 receptor agonists</term> are a class of non-insulin injectable drugs that impact the gut hormone incretin, which works to increase insulin secretion in response to meals. These drugs help the pancreas release insulin after eating, limit glucagon, and slow down digestion. GLP-1 receptor agonists are approved for type 2 diabetes treatment. They have not yet been approved for type 1 diabetes management. Adverse effects include nausea, vomiting, diarrhea, abdominal discomfort, and loss of appetite. Contraindications include hypersensitivity to GLP-1 receptor agonists, medullary thyroid carcinoma, and multiple endocrine neoplasia (Feingold, 2022). </para>
+  <note class="clinical-tip" id="note-00005">
+  <para id="para-00037"><emphasis effect="bold">GLP-1 Receptor Agonists </emphasis></para>
+  <para id="para-00038">Hypoglycemic reactions are greater when GLP-1 receptor agonists are used with sulfonylureas and insulin. Clients should be monitored closely for signs of hypoglycemia (Feingold, 2022).</para>
+  </note>
+  </section>
+  <section id="sect-00019">
+  <title>Dulaglutide (Trulicity)</title>
+  <para id="para-00039">Dulaglutide (Trulicity) is taken once a week at any time of day, with or without food. It can be used in combination with sulfonylureas, non-sulfonylurea biguanides, thiazolidinediones, and insulin. Adverse effects include nausea, diarrhea, vomiting, abdominal pain, decreased appetite, indigestion, fatigue, and weight loss (Jódar et al., 2022). </para>
+  </section>
+  <section id="sect-00020">
+  <title>Exenatide (Byetta, Bydureon)</title>
+  <para id="para-00040">Exenatide (Byetta) is taken twice a day, 1 to 2 hours before a meal. It can be used in combination with sulfonylureas, non-sulfonylureas biguanides, thiazolidinediones, and insulin. Adverse effects include nausea, vomiting, decreased appetite, and weight loss (Wysham et al., 2020).</para>
+  <para id="para-00041">Exenatide extended release (Bydureon) is taken once every 7 days. It can be used in combination with sulfonylureas, non-sulfonylureas biguanides, and thiazolidinediones. It should not be administered with exenatide (Byetta) or used in combination with insulin. Adverse effects include nausea, vomiting, decreased appetite, and weight loss (Wysham et al., 2020).</para>
+  </section>
+  <section id="sect-00021">
+  <title>Liraglutide (Victoza)</title>
+  <para id="para-00042">Liraglutide (Victoza) is taken once a day at any time of the day, regardless of mealtimes. It can be used in combination with sulfonylureas, non-sulfonylureas biguanides, and thiazolidinediones. Adverse effects include headache, nausea, diarrhea, decreased appetite, and weight loss (He et al., 2019). </para>
+  </section>
+  <section id="sect-00022">
+  <title>Tirzepatide (Mounjaro)</title>
+  <para id="para-00043">Tirzepatide (Mounjaro) is taken once a week at any time of day, with or without meals. Adverse effects include nausea, diarrhea, decreased appetite, vomiting, constipation, dyspepsia, and abdominal pain (DailyMed, <emphasis effect="italics">Mounjaro</emphasis>, 2023).</para>
+  </section>
+  <section id="sect-00023">
+  <title>Semaglutide (Ozempic)</title>
+  <para id="para-00044">Semaglutide (Ozempic) is taken once a week at any time of the day, regardless of mealtimes. It can be used in combination with sulfonylureas, non-sulfonylureas biguanides, thiazolidinediones, and insulin. Adverse effects include nausea, diarrhea, abdominal pain, decreased appetite, weight loss, and constipation (Smits &amp; Van Raalte, 2021).</para>
+  <para id="para-00045">Table 28.3 lists common <term class="no-emphasis" id="term-00020">non-insulin injectable drugs</term> and typical routes and dosing for adult clients.</para>
+  <table class="vertically-tight" id="table-00003">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Drug</span></span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Routes and Dosage Ranges</span></span></emphasis></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Pramlintide (Symlin)</term></entry>
+  <entry valign="top" align="left"><emphasis effect="italics">Type 1 diabetes:</emphasis> 15 mcg subcutaneously before major meals. Increase in 15-mcg increments to a maximum pre-meal dose of 30–60 mcg.<newline/>
+  <emphasis effect="italics">Type 2 diabetes:</emphasis> 60 mcg subcutaneously before major meals, then increase to 120 mcg before meals as tolerated.<newline/>
+  *Note: Wait at least 3 days between dose titrations to minimize nausea.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00022">Dulaglutide (Trulicity)</term></entry>
+  <entry valign="top" align="left">0.75 mg subcutaneously once weekly. Increase dosage by 1.5-mg increments after at least 4 weeks.<newline/>
+  <emphasis effect="italics">Maximum dose:</emphasis> 4.5 mg subcutaneously once weekly.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00023">Exenatide (Byetta, Bydureon)</term></entry>
+  <entry valign="top" align="left">5 mcg subcutaneously within 60 minutes prior to morning and evening meals at least 6 hours apart. Increase to 10 mcg twice daily after 1 month based on clinical response.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Liraglutide (Victoza)</term></entry>
+  <entry valign="top" align="left">0.6 mg subcutaneously daily for one week, then increase to 1.2 mg daily.<newline/>
+  <emphasis effect="italics">Maximum dose:</emphasis> 1.8 mg daily.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00025">Tirzepatide (Mounjaro)</term></entry>
+  <entry valign="top" align="left"><emphasis effect="italics">Initial dose</emphasis>: 2.5 mg injected subcutaneously once weekly. After 4 weeks, increase the dosage to 5 mg injected subcutaneously once weekly. If additional glycemic control is needed, increase the dosage in 2.5 mg increments after at least 4 weeks on the current dose. Maximum dose: 15 mg injected subcutaneously once weekly.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00026">Semaglutide (Ozempic)</term></entry>
+  <entry valign="top" align="left">0.25 mg subcutaneously once weekly; after 4 weeks increase to 0.5 mg once weekly; <emphasis effect="italics">Maximum dose:</emphasis> 2 mg once weekly.<newline/>
+  *Note: Wait 5 days between dose titrations.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Drug Emphasis Table: Non-insulin Injectables (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  </section>
+  </section>
+  <section id="sect-00024">
+  <title>Adverse Effects and Contraindications</title>
+  <para id="para-00046">Adverse effects of amylin analogs include hypoglycemic symptoms (shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), gastrointestinal symptoms (nausea, vomiting, diarrhea, abdominal pain, and loss of appetite), and injection site reactions.</para>
+  <para id="para-00047">Contraindications include hypersensitivity to the drug or any of its components and in clients with medullary thyroid cancer and multiple endocrine neoplasia (as these drugs can exacerbate these conditions). Caution should be used in clients with gastroparesis, as amylin analogs may further slow down gastric emptying, in clients with severe renal impairment as the drugs are excreted in the urine and can further impair renal function, and in clients with hepatic insufficiency, due to the drugs being metabolized by the liver and thus can impede liver functioning.</para>
+  <para id="para-00048">Table 28.4 is a drug prototype table for non-insulin injectable drugs featuring dulaglutide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <table class="vertically-tight" id="table-00004">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+  Glucagon-like peptide (GLP-1) receptor agonist<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+  Increases insulin secretion when glucose levels are elevated, decreases glucagon secretion, and delays gastric emptying in an effort to lower postprandial glucose levels</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+  0.75 mg subcutaneously once weekly. Increase dosage by 1.5-mg increments after at least 4 weeks.<newline/>
+  <emphasis effect="italics">Maximum dose:</emphasis> 4.5 mg subcutaneously once weekly.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+  As an adjunct to diet and exercise to improve glycemic control in individuals older than 10 years of age<newline/>
+  To reduce the risk of major cardiovascular events in adults with type 2 diabetes who have established cardiovascular disease or multiple cardiovascular risk factors<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+  Lowers postprandial glucose levels</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+  Delays gastric emptying and has the potential to reduce the rate of absorption of concomitantly administered oral drugs<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+  No significant interactions</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+  Nausea<newline/>
+  Vomiting<newline/>
+  Diarrhea<newline/>
+  Abdominal pain<newline/>
+  Decreased appetite</entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+  Medullary thyroid carcinoma<newline/>
+  Multiple endocrine neoplasia<newline/>
+  Hypersensitivity<newline count="2"/>
+  Caution:<newline/>
+  Thyroid C cell tumors<newline/>
+  Pancreatitis<newline/>
+  Hypoglycemia<newline/>
+  Aute kidney injury<newline/>
+  Severe gastrointestinal disease<newline/>
+  Diabetic retinopathy<newline/>
+  Acute gallbladder disease</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption><emphasis effect="bold">Drug Prototype: Dulaglutide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  </section>
+  </section>
+  <section id="sect-00025">
+  <title>Nursing Implications</title>
+  <para id="para-00049">The nurse should do the following for clients who are taking insulin and non-insulin injectable diabetes drugs: </para>
+  <list list-type="bulleted" id="list-00003">
+  <item>Assess the client’s knowledge about diabetes, signs and symptoms, and treatment and clarify any gaps in knowledge.</item>
+  <item>Assess and monitor the client for adverse effects, drug and food interactions, and contraindications.</item>
+  <item>Refer client to social services for obstacles in obtaining prescribed drugs, test strips, or a glucometer.</item>
+  <item>Provide client teaching regarding the drug, how to administer an injection, and when to call the health care provider. See below for client teaching.</item>
+  </list>
+  <note class="client-teaching" id="note-00006">
+  <para id="para-00050"><emphasis effect="bold">The client using an insulin or non-insulin injectable diabetes drug should:</emphasis></para>
+  <list list-type="bulleted" id="list-00004">
+  <item>Report symptoms of hypoglycemia such as headache, nervousness, sweating, clammy skin, tremor, and tachycardia.</item>
+  <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, and sweet fruity breath odor. </item>
+  <item>Keep 15 grams of carbohydrates on hand in case of a hypoglycemic reaction. Orange juice, graham crackers, and hard candy are appropriate carbohydrate choices during hypoglycemia.</item>
+  <item>Show family members and their support system how to administer glucagon during a hypoglycemic reaction if the client cannot eat or drink or is unconscious.</item>
+  <item>Store insulin in a refrigerator at approximately 36–46°F.</item>
+  <item>Store non-insulin injectables per manufacturer’s packaging.</item>
+  <item>Ask the health care provider prior to taking any OTC drugs or herbal supplements with insulin and non-insulin injectables, because they may increase the risk of hypoglycemia or hyperglycemia.</item>
+  <item>Keep a blood glucose journal for tracking blood glucose levels.</item>
+  <item>Rotate insulin injection sites to prevent fatty deposits and injection site reactions.</item>
+  <item>Eat an appropriate diet as prescribed and as scheduled with their insulin routine.</item>
+  <item>Use safety with injectable syringes and needles and dispose of them properly.</item></list>
+  </note>
+  <note class="black-box" id="note-00007">
+  <para id="para-00051"><emphasis effect="bold">GLP-1 Receptor Agonists</emphasis></para>
+  <para id="para-00052">GLP-1 receptor agonists should not be taken if a client has a history of medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2.</para>
+  </note>
+  </section>
   </content>
-</document>
+  <glossary>
+  <definition id="def-00001"><term>basal insulin dosing</term> <meaning>an important component in diabetes management because it acts as a background insulin that is designed to stabilize blood glucose levels during times of fasting</meaning></definition>
+  <definition id="def-00002"><term>bolus</term> <meaning>a single dose of a drug being administered</meaning></definition>
+  <definition id="def-00003"><term>continuous glucose monitor</term> <meaning>a device that monitors blood glucose levels on a continual basis </meaning></definition>
+  <definition id="def-00004"><term>insulin pen</term> <meaning>a pen-shaped injector device that combines insulin and a syringe in one unit; insulin pens are prefilled with an insulin cartridge or have a prefilled insulin reservoir</meaning></definition>
+  <definition id="def-00005"><term>insulin pump</term> <meaning>a small, computerized infusion set device that delivers insulin </meaning></definition>
+  <definition id="def-00006"><term>sliding scale coverage</term> <meaning>varying the dose of insulin based on the blood glucose level</meaning></definition>
+  <definition id="def-00007"><term>subcutaneous</term> <meaning>situated or applied under the skin</meaning></definition>
+  <definition id="def-00008"><term>titrated</term> <meaning>continuously measuring and adjusting the balance of a drug dosage</meaning></definition>
+  <definition id="def-00009"><term>peak time</term> <meaning>the time during which insulin is at its maximum strength in terms of lowering blood glucose levels; individuals are at a higher risk of developing hypoglycemic symptoms when insulin is peaking</meaning></definition>
+  </glossary>
+  </document>

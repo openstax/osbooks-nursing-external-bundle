@@ -6,8 +6,179 @@
     <md:uuid>37ca1d58-ac33-4ba2-b79b-67ca16f66571</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Describe the pathophysiology of type 1 and type 2 diabetes.</item>
+    <item>Identify clinical manifestations of diabetes.</item>
+    <item>Identify the etiology and diagnostic studies related to diabetes.</item>
+    </list>
+    </section>
+    <para id="para-00002">The islets of Langerhans are clusters of cells located in the pancreas. They are composed of alpha and beta cells, which are crucial for glucose homeostasis. Alpha (α) cells produce glucagon, which breaks down glycogen into glucose in the liver. Beta (β) cells secrete insulin, which regulates glucose metabolism and facilitates absorption of glucose from the bloodstream into cells (see Figure 28.2. Diabetes mellitus is a metabolic disease that is characterized by hyperglycemia associated with alterations in carbohydrate, protein, and fat metabolism (Dilworth et al., 2021).</para>
+    
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="The anatomy of the pancreas. The left, larger side of the pancreas is seated within the curve of the duodenum of the small intestine. The smaller, rightmost tip of the pancreas is located near the spleen. The splenic artery is seen traveling to the spleen. However, it has several branches connecting to the pancreas. An interior view of the pancreas shows that the pancreatic duct is a large tube running through the center of the pancreas. It branches throughout its length into several horseshoe-shaped pockets of acinar cells. These cells secrete digestive enzymes, which travel down the bile duct and into the small intestine. There are also small pancreatic islets scattered throughout the pancreas. The pancreatic islets secrete the pancreatic hormones insulin and glucagon into the splenic artery."><image mime-type="image/png" src="../../media/PHA_Figure_27_01_002.png"/></media>
+    <caption>The primary function of the pancreas is to maintain blood sugar homeostasis within the body by producing glucagon, insulin, and other hormones. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <section id="sect-00002">
+    <title>Type 1 Diabetes</title>
+    <para id="para-00003"><term id="term-00001">Type 1 diabetes</term> is an autoimmune disorder that causes the body’s immune system to attack and destroy the β cells in the pancreas that make insulin. As a consequence, the pancreas stops making insulin. Without insulin, glucose homeostasis is disrupted, resulting in glucose not being able to get into the cells of the body, thus causing elevated glucose levels in the blood. Because the body is destroying the β cells in the pancreas, clients with type 1 diabetes will need to take insulin for the rest of their lives to survive (Holt et al., 2021).</para>
+    <note class="trending-today" id="note-00001">
+    <para id="para-00004"><emphasis effect="bold">Type I Diabetes and Lantidra</emphasis></para>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00002">U.S. Food and Drug Administration (2023)</term> approved <link url="https://openstax.org/r/fdagovnewsevents">Lantidra (donislecel-jujn)</link>, the first allogeneic (donor) pancreatic islet cellular therapy made from deceased donor pancreatic cells to treat type 1 diabetes. Lantidra is approved for the treatment of adults with type 1 diabetes who are unable to approach target glycated hemoglobin (average blood glucose levels) because of current repeated episodes of severe hypoglycemia (low blood sugar) despite intensive diabetes management and education.</para>
+    </note>
+    <para id="para-00006">According to the Centers for Disease Control and Prevention (n.d.-a.), 1.6 million U.S. adults aged 20 years or older have type 1 diabetes. The onset of symptoms with type 1 diabetes is often sudden. It typically appears in adolescents and young adults but can occur in childhood as well. Symptoms of type 1 diabetes can be severe, and the disease process can be difficult to control. Risk factors include family history and age. <term class="no-emphasis" id="term-00003">White people</term> are more likely to develop type 1 diabetes than <term class="no-emphasis" id="term-00004">Black</term>, <term class="no-emphasis" id="term-00005">Asian American</term>, <term class="no-emphasis" id="term-00006">Hispanic</term>, or <term class="no-emphasis" id="term-00007">Latino/Latina</term> people (CDC, 2022b).</para>
+    </section>
+    <section id="sect-00003">
+    <title>Type 2 Diabetes</title>
+    <para id="para-00007"><term id="term-00008">Type 2 diabetes</term> occurs when the pancreas does not produce enough insulin, or the body is not using insulin effectively. Figure 28.2 shows the mechanism of normal blood sugar absorption versus insulin resistance with type 2 diabetes. The β cells in the pancreas continue to have some degree of functionality with varying amounts of insulin secretion, resulting in elevated blood glucose levels and insulin resistance. Type 2 diabetes may be managed with healthy eating and being active, or the healthcare provider may prescribe insulin, other injectable medications, or oral diabetic medicines to help clients manage blood sugar and avoid complications (CDC, n.d.-b.).</para>
+    <para id="para-00008">The Centers for Disease Control and Prevention (n.d.-b.) reported that of the approximately 37 million U.S. adults who have diabetes, approximately 90%–95% of them have type 2 diabetes. Unlike type 1 diabetes, type 2 diabetes symptoms are gradual in onset. The disease typically appears in <term class="no-emphasis" id="term-00009">people over age 45</term>; however, it is becoming more common in children, adolescents, and young adults. Risk factors include having prediabetes, obesity, age 45 or older, family history, sedentary lifestyle, fatty liver, and a history of gestational diabetes. <term class="no-emphasis" id="term-00010">Black</term>, <term class="no-emphasis" id="term-00011">Alaska Native</term>, <term class="no-emphasis" id="term-00012">American Indian</term>, <term class="no-emphasis" id="term-00013">Hispanic</term>, and <term class="no-emphasis" id="term-00014">Latino/Latina</term> people are more likely to develop type 2 diabetes (CDC, 2022b).</para>
+    </section>
+    <section id="sect-00004">
+    <title>Gestational Diabetes</title>
+    <para id="para-00009">Gestational diabetes is a type of diabetes that can develop during pregnancy in clients who do not already have diabetes. Testing for <term class="no-emphasis" id="term-00015">gestational diabetes</term> usually occurs between 24 and 28 weeks of pregnancy (NIH, n.d.). Gestational diabetes causes high blood glucose levels that can affect the pregnancy and the fetus. Symptoms are usually unnoticeable; however, the client may exhibit signs of increased thirst and increased urination. Gestational diabetes is controlled with dietary management and exercise. Pharmacologic methods are incorporated only if the disease process is unmanageable with diet and exercise and only introduced if safe for both the mother and the fetus. Blood sugar levels typically return to baseline soon after the delivery of the baby. Clients with gestational diabetes are at a higher risk of developing type 2 diabetes as they age (American Diabetes Association, n.d.-a.).</para>
+    </section>
+    <section id="sect-00005">
+    <title>Complications of Diabetes</title>
+    <para id="para-00010">Complications from diabetes can affect all body systems. They include cerebrovascular disease, cardiovascular disease, diabetic neuropathy, diabetic retinopathy, cataracts, glaucoma, periodontal disease, peripheral vascular disease, foot damage, stroke, increased risk of infection, and poor wound healing.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Prevention</title>
+    <para id="para-00011">There is no known way to prevent type 1 diabetes. Type 2 diabetes can be prevented with lifestyle modifications such as diet, exercise, weight loss, and developing a diabetes prevention program with the health care provider (American Diabetes Association, n.d.-a.).</para>
+    </section>
+    <section id="sect-00007">
+    <title>Clinical Manifestations of Diabetes</title>
+    <para id="para-00012">Typical clinical manifestations of diabetes include polyuria (increased urination), polydipsia (increased thirst), weight loss without trying, blurry vision or vision changes, paresthesia or tingling in the feet and hands, dry skin, and fatigue (see Figure 28.3. Hypoglycemia and hyperglycemia play a role in diabetes management and are discussed in the following sections.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="A diagram of the human body shows the different manifestations of diabetes and their associated system within the body.  Signs associated with the central nervous system include lethargy, stupor, excessive thirst, and excessive hunger. A sign associated with the respiratory system is hyperventilation. Signs associated with the urinary system are frequent urination and glucose in urine. Signs associated with the gastric system are nausea, vomiting, and abdominal pain.  In addition, vision may be blurred, breath may smell of acetone, and there may be weight loss."><image mime-type="image/png" src="../../media/PHA_Figure_28_01_003.png"/></media>
+    <caption>There are a number of clinical manifestations of diabetes affecting the respiratory, gastric, urinary, and central nervous system. (credit: modification of work from <emphasis effect="italics">Biology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Hypoglycemia</title>
+    <para id="para-00013"><term id="term-00016">Hypoglycemia</term> occurs when the blood glucose level in the body falls below the normal range. The expected values for normal fasting blood glucose concentration are between 70 mg/dL and 100 mg/dL (WHO, n.d.). When blood glucose levels are too low, the brain does not get enough glucose to function, which in its most severe form can cause coma and death. Signs and symptoms of hypoglycemia include feeling shaky, sweating/chills, clammy skin, dizziness/feeling faint, agitation, confusion, blurred or impaired vision, slurred speech, and tachycardia/bradycardia (American Diabetes Association, n.d.-c.). </para>
+    <para id="para-00014">Treatment of hypoglycemia includes the “15–15 rule”: 15 grams of carbohydrates to raise the blood glucose level and a blood glucose monitoring check 15 minutes after administration of the carbohydrates. If the blood glucose level remains under 70 mg/dL, then <term class="no-emphasis" id="term-00017">glucose tablets</term> or 15 grams of <term class="no-emphasis" id="term-00018">carbohydrates</term> may be repeated until the blood glucose is at least 70 mg/dL. <term class="no-emphasis" id="term-00019">Glucagon</term> may be used to treat clients with diabetes when their blood glucose is too low to treat using the 15–15 rule (American Diabetes Association, n.d.-c.). Glucagon can be given intravenously, intramuscularly, or subcutaneously if the client is unable to eat or drink, or if the client is unconscious.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Hyperglycemia</title>
+    <para id="para-00015"><term id="term-00020">Hyperglycemia</term> occurs when the blood glucose level in the body is above the normal range and the body has too little insulin or is too insulin resistant to lower the blood glucose level on its own. This causes a disruption in glucose homeostasis. If a blood glucose level is above 110 mg/dL, it is considered hyperglycemia. Symptoms vary per individual. Some clients may have mild symptoms with blood glucose levels between 110 mg/dL and 240 mg/dL. Severe symptoms can result in diabetic <term id="term-00021">ketoacidosis</term>, coma, and death. Signs and symptoms of hyperglycemia include frequent urination (<term id="term-00022">polyuria</term>), increased thirst (<term id="term-00023">polydipsia</term>), increased hunger (<term id="term-00024">polyphagia</term>), blurred vision, restlessness, unintentional weight loss, abdominal pain, vomiting, drowsiness, hot/dry skin, hypotension, and coma (American Diabetes Association, n.d.-b.; Sapra &amp; Bhandari, 2023).</para>
+    <para id="para-00016">Treatment of hyperglycemia can be as simple as dietary management and exercise if blood glucose levels are 110–240 mg/dL. However, if increasing fluid intake, diet, and exercise do not lower blood glucose levels, the individual will require an oral diabetes agent, insulin, and/or a non-insulin injectable drug to lower the blood glucose levels (American Diabetes Association, n.d.-b.; Feingold, 2022).</para>
+    <note class="link-to-learning" id="note-00002">
+    <title>Race and Diabetes Risk</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/raceethnicity"/>
+    </media>
+    <para id="para-00017">In this video, Dr. Margrethe Horlyck-Romanovsky discusses intra-ethnic diabetes disparities and how to improve diabetes risk assessments for diverse populations. She also discusses the ways in which immigrant status, ethnicity, and race can influence diabetes risk in populations of <term class="no-emphasis" id="term-00025">African</term> descent. </para>
+    </note>
+    </section>
+    <section id="sect-00010">
+    <title>Diagnostic Testing for Diabetes</title>
+    <para id="para-00018">There are several diagnostic tests to determine if a person has diabetes. Health care providers will typically use one or more of the following tests to determine if an individual has diabetes.</para>
+    <section id="sect-00011">
+    <title>Glycosylated Hemoglobin (A1<sub>C</sub> or HbA1<sub>C</sub>)</title>
+    <para id="para-00019">A <term id="term-00026">glycosylated hemoglobin (A1c)</term> test, also known as a hemoglobin A1c or HbA1c test, measures the blood sugar level over the past 90 days. It determines the amount of hemoglobin proteins that are coated with glucose. A HbA1c below 5.7% is normal. A HbA1c between 5.7% and 6.4% represents prediabetes, and a level of 6.5% or higher indicates diabetes (American Diabetes Association, n.d.-a.).</para>
+    </section>
+    <section id="sect-00012">
+    <title>Fasting Blood Glucose</title>
+    <para id="para-00020">A <term id="term-00027">fasting blood glucose</term> test measures the blood sugar level after an overnight fasting period. A fasting blood glucose level of 99 mg/dL or lower is normal, 100–125 mg/dL indicates prediabetes, and 126 mg/dL or higher indicates diabetes (American Diabetes Association, n.d.-a.).</para>
+    </section>
+    <section id="sect-00013">
+    <title>Random Blood Glucose</title>
+    <para id="para-00021">A <term id="term-00028">random blood glucose</term> test measures the blood sugar level at the time tested. This test can be taken at any time of the day, and the individual being tested does not need to fast. A blood sugar level of 200 mg/dL or higher indicates diabetes (American Diabetes Association, n.d.a.).</para>
+    </section>
+    <section id="sect-00014">
+    <title><term class="no-emphasis" id="term-00029">Comorbidity Tests</term></title>
+    <para id="para-00022">Diabetes impacts multiple systems within the body. The health care provider may order additional testing to determine the impact of diabetes on other body systems. These diagnostic tests will not determine if a client has diabetes; however, they will help show how diabetes is impacting other systems. Typical diagnostic testing includes complete blood cell count, basic metabolic panel, chest x-ray, echocardiogram, electrocardiogram, electromyography, and other radiologic tests such as a computed tomography (CT) scan or magnetic resonance imaging (MRI).</para>
+    <note class="trending-today" id="note-00003">
+    <para id="para-00023"><emphasis effect="bold">Prediabetes</emphasis></para>
+    <para id="para-00024">More than one in three U.S. adults have <term class="no-emphasis" id="term-00030">prediabetes</term>. As defined by the CDC, “a person with prediabetes has a blood sugar level higher than normal, but not high enough for a diagnosis of diabetes. He or she is at higher risk for developing type 2 diabetes and other serious health problems, including heart disease and stroke” (Alvarez et al., 2023). To better address the growing numbers and problems associated with prediabetes and diabetes, U.S. Congress authorized the CDC to implement the National Diabetes Prevention Program. This program provides individuals with guidance regarding diabetes and lifestyle changes to reduce the risk of developing type 2 diabetes and to better manage the disease process for those who already have type 2 diabetes.</para>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/nationaldiabetes"/>
+    </media>
+    <para id="para-00025">Watch the video Changing Lifestyles to Prevent Type 2 Diabetes, which discusses how diabetes is a public health crisis, the prevention program, and reducing risks for serious complications as a result of diabetes.</para>
+    <para id="para-00026">Visit the <link url="https://openstax.org/r/coveragetoolkitorg">National Diabetes Prevention Program website</link> to learn more about key milestones, research conducted, and why the program was authorized. This website gives an overview of the <term class="no-emphasis" id="term-00031">National Diabetes Prevention Program</term> and provides valuable information for those with prediabetes and type 2 diabetes.</para>
+    </note>
+    <note class="case-study" id="note-00004">
+    <para id="para-00027">Part A</para>
+    <para id="para-00028">Read the following clinical scenario to answer the questions that follow. This case will evolve throughout the chapter.</para>
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c3">Alaina Sanders is a 65-year-old Black client who presented to her health care provider’s office reporting fatigue, an increase in urination, feeling thirsty all the time, and blurred vision for the past three months.<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">History</span></emphasis><newline/>
+    Hyperlipidemia<newline/>
+    Hypertension<newline/>
+    Does not exercise or follow a special diet<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Current Medications</span></emphasis><newline/>
+    Atorvastatin 20 mg once daily<newline/>
+    Amlodipine 10 mg once daily</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></span></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+    <entry valign="top" align="left">97.8°F</entry>
+    <entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00002">
+    <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
+    <item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention or peripheral edema noted. S1, S2 heard on auscultation.</item>
+    
+     <item><emphasis effect="italics">Respiratory:</emphasis> Clear to auscultation bilaterally</item>
+     <item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended</item>
+     <item><emphasis effect="italics">GU:</emphasis> See history of present illness (HPI)</item>
+     <item><emphasis effect="italics">Neurological:</emphasis> Within normal limits</item>
+     <item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted. Skin appropriate for age and ethnicity.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+    <entry valign="top" align="left">102/74 mm Hg</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+    <entry valign="top" align="left">78 beats/min</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+    <entry valign="top" align="left">20 breaths/min</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+    <entry valign="top" align="left">95% on room air</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
+    <entry valign="top" align="left">5’5”</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
+    <entry valign="top" align="left">188 lb</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec1_UCSQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec1_UCSQ2"/></para></problem></exercise>
+    </note>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>fasting blood glucose</term> <meaning>a test that measures the blood sugar level after an overnight fasting period</meaning></definition>
+<definition id="def-00002"><term>glycosylated hemoglobin (A1<sub>C</sub>)</term> <meaning>a test that measures the blood sugar level over the past 60 to 90 days </meaning></definition>
+<definition id="def-00003"><term>hyperglycemia</term> <meaning>a condition that occurs when the blood glucose level in the body is above the normal range of 70–110 mg/dL and the body has too little insulin or is insulin resistant, making it unable to lower the blood glucose level on its own </meaning></definition>
+<definition id="def-00004"><term>hypoglycemia</term> <meaning>a condition that occurs when the blood glucose level in the body falls below the normal range of 70–110 mg/dL</meaning></definition>
+<definition id="def-00005"><term>ketoacidosis</term> <meaning>a life-threatening condition that occurs when the body breaks down fat too quickly, causing the liver to produce ketones, which in turn causes the blood to become acidic</meaning></definition>
+<definition id="def-00006"><term>polydipsia</term> <meaning>increased thirst</meaning></definition>
+<definition id="def-00007"><term>polyphagia</term> <meaning>increased hunger</meaning></definition>
+<definition id="def-00008"><term>polyuria</term> <meaning>frequent urination</meaning></definition>
+<definition id="def-00009"><term>random blood glucose</term> <meaning>a test that measures the blood sugar level at the time tested </meaning></definition>
+<definition id="def-00010"><term>type 1 diabetes</term> <meaning>an autoimmune disorder in which the body’s immune system attacks and destroys the β cells in the pancreas that make insulin, resulting in elevated blood glucose levels </meaning></definition>
+<definition id="def-00011"><term>type 2 diabetes</term> <meaning>a disorder that occurs as a result of the body not making enough insulin or not using insulin well</meaning></definition>
+</glossary>
 </document>

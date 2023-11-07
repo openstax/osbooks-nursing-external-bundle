@@ -23,7 +23,7 @@
 <para id="para-00004">All potassium-sparing diuretics are used to treat or prevent hypokalemia associated with the use of loop diuretics and thiazide diuretics. The diuretic action of potassium-sparing diuretics is weaker than in other diuretic types, and the onset of action is delayed by as much as 3 days; however, the drugs are often used in combination with more potent diuretics to prevent or treat hypokalemia, heart failure, and hypertension.</para>
 <para id="para-00005">Spironolactone is a potassium-sparing diuretic that competes with the aldosterone (mineralocorticoid) receptors in the distal tubule and collecting duct of the nephron. It is approved to treat hypokalemia, primary hyperaldosteronism, heart failure, edema resulting from cirrhosis, and edema resulting from nephrotic syndrome that is resistant to other treatments. Spironolactone is often added as the fourth drug to treat resistant hypertension, which is defined as failure to reach blood pressure target levels when the client is receiving adequate doses of three antihypertensive drugs. In the early landmark Randomized Aldactone Evaluation Study (RALES), spironolactone was found to reduce mortality from all causes by 30% in clients with heart failure (Patibandla et al., 2022)<emphasis effect="italics">.</emphasis> In 2017, the American Heart Association recommended spironolactone as the treatment of choice in clients with class II–IV heart failure with a potassium level less than 5 mEq/L and creatinine clearance greater than 30 mL/hr (Patibandla et al., 2022). In this client population, spironolactone decreased hospital readmission rates, myocardial fibrosis, hypertrophy of cardiac muscle, and extracellular fluid volume. The drug is used off-label as part of gender-affirming hormone therapy and to treat hirsutism (excessive hair growth in a male growth pattern) and acne.</para>
 <para id="para-00006">Amiloride is recommended for the treatment of uncomplicated essential hypertension and chronic heart failure (Almajid &amp; Cassagnol, 2022). Several potential off-label uses for amiloride include treatment of increased urinary output associated with lithium therapy, insulin-induced edema, and multiple myeloma. Triamterene is a potassium-sparing diuretic that also increases the excretion of magnesium. Triamterene is used to treat edema associated with heart failure, nephrotic syndrome, ascites due to cirrhosis, hypertension, and hyperkalemia.</para>
-<para id="para-00007">[link]Table 34.4[/link] lists common potassium-sparing diuretics and typical routes and dosing for adult clients.</para>
+<para id="para-00007"><link target-id="table-00001" document="m00441"/> lists common potassium-sparing diuretics and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -62,7 +62,7 @@
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00008">Adverse effects related to the diuretic action of these drugs include hyperkalemia, hyponatremia, and hyperuricemia, as well as renal tubular necrosis, glucose intolerance, and metabolic acidosis. Endocrine effects of spironolactone therapy include gynecomastia (enlarged breasts), decreased libido, and other feminizing effects in male clients and menstrual alterations in female clients.</para>
 <para id="para-00009">Contraindications include anuria, hyperkalemia, and renal insufficiency. These medications should be used with caution in older adults and individuals who have diabetes or gout.</para>
-<para id="para-00010">[link]Table 34.5[/link] is a drug prototype table for potassium-sparing diuretics featuring spironolactone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00010"><link target-id="table-00002" document="m00441"/> is a drug prototype table for potassium-sparing diuretics featuring spironolactone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -116,7 +116,7 @@ Gynecomastia</entry>
 Anuria<newline/>
 Hyperkalemia<newline/>
 Severe hypovolemia<newline/>
-<emphasis effect="bold">Addison–s disease</emphasis></entry>
+Addison–s disease</entry>
 </row>
 </tbody>
 </tgroup>

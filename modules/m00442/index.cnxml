@@ -26,7 +26,7 @@
 <item>Thiazide and thiazide-like diuretics block sodium reabsorption from the distal convoluted tubule; this can result in hyponatremia, which increases water loss. The drugs also create mild extracellular fluid loss, which can decrease the tubular volume in the loop of Henle, resulting in decreased free water loss.</item>
 </list>
 <para id="para-00004">Hydrochlorothiazide is one of the most commonly used diuretics. Metolazone is a thiazide-like diuretic that, unlike the thiazide drugs, is also effective in chronic renal disease because it does not affect the GFR. In addition, metolazone does not trigger the RAAS, which means that the use of metolazone combined with a loop diuretic can minimize diuretic resistance and increase renal response with fewer adverse effects (Bond et al., 2022). Chlorthalidone is a thiazide-like diuretic with prolonged action (48–72 hours).</para>
-<para id="para-00005">[link]Table 34.6[/link] lists common thiazide and thiazide-like diuretics and typical routes and dosing for adult clients.</para>
+<para id="para-00005"><link target-id="table-00001" document="m00442"/> lists common thiazide and thiazide-like diuretics and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -64,7 +64,7 @@
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00006">The adverse effects of thiazide diuretics are related to the sodium losses and the ionic imbalance created by those losses (Akbari &amp; Khorasani-Zedah, 2022). Adverse effects include metabolic alkalosis, hypercalcemia, hyperglycemia, hyperuricemia, hyperlipidemia, photosensitivity reactions, hyponatremia due to decreased reabsorption, and hypokalemia due to action of the sodium–potassium pump in the distal convoluted tubule. Their photosensitizing effects also appear to increase the risk of skin cancer (Shin et al., 2019).</para>
 <para id="para-00007">Thiazide and thiazide-like diuretics are contraindicated in individuals with sulfonamide allergy. Sensitivity reactions occur most commonly in clients who experience frequent allergic reactions and less commonly than previously believed in sulfa-sensitive clients. Reactions can include rash, hives, angioedema, wheezing, and anaphylaxis (Akbari &amp; Khorasani-Zedah, 2022). Thiazide and thiazide-like diuretics can increase the risk of digoxin toxicity, and the drugs also should not be administered with lithium. Thiazide and thiazide-like diuretics should be used with caution in clients with renal disease and are contraindicated for clients who are anuric.</para>
-<para id="para-00008">[link]Table 34.7[/link] is a drug prototype table for thiazide and thiazide-like diuretics featuring hydrochlorothiazide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00008"><link target-id="table-00002" document="m00442"/> is a drug prototype table for thiazide and thiazide-like diuretics featuring hydrochlorothiazide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -104,8 +104,8 @@ Photosensitivity reactions<newline/>
 Erythema multiforme, including Stevens–Johnson syndrome<newline/>
 Aplastic anemia</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-<emphasis effect="bold">Sulfa sensitivity</emphasis><newline/>
-<emphasis effect="bold">Anuria</emphasis></entry>
+Sulfa sensitivity<newline/>
+Anuria</entry>
 </row>
 </tbody>
 </tgroup>
@@ -163,7 +163,7 @@ Aplastic anemia</entry>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c4">Gordon Jefferson is following up with the health care provider 3 months after his initial diagnosis of edema. He reports that the swelling in his legs has improved; however, he is now reporting generalized weakness. The health care provider examines the client and reviews the chemistry panel results from laboratory work drawn earlier in the morning. Gordon says he has been taking his prescribed medications, which include the following:<newline count="2"/>
+<entry valign="top" align="left" namest="c1" nameend="c4">Gordon Jefferson is following up with the health care provider 3 months after his initial diagnosis of edema. He reports that the swelling in his legs has improved; however, he is now reporting generalized weakness. The health care provider examines the client and reviews the chemistry panel results from laboratory work drawn earlier in the morning. Gordon says he has been taking his prescribed medications, which include the following:<newline count="2"/>
 Losartan 50 mg orally every day<newline/>
 Dapagliflozin 10 mg orally every day<newline/>
 Metolazone 10 mg orally every day</entry>
@@ -173,7 +173,6 @@ Metolazone 10 mg orally every day</entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Chemistry Panel</span></emphasis></entry>
 </row>
-
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
 <entry valign="top" align="left">98.0°F</entry>
@@ -184,7 +183,7 @@ Metolazone 10 mg orally every day</entry>
 <item><emphasis effect="italics">GU:</emphasis> Within normal limits</item>
 <item><emphasis effect="italics">Neurologic:</emphasis> Within normal limits</item>
 <item><emphasis effect="italics">Integumentary:</emphasis> No abnormal findings</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00007">
+<entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00007">
 <item><emphasis effect="italics">Sodium:</emphasis> 140 mEq/L</item>
 <item><emphasis effect="italics">Potassium:</emphasis> 2.9 mEq/L</item>
 <item><emphasis effect="italics">BUN</emphasis>: 24 mg/dL</item>
@@ -221,6 +220,8 @@ Metolazone 10 mg orally every day</entry>
 </tbody>
 </tgroup>
 </table>
+<exercise id="exer-00013"><problem id="prob-00013"><para id="para-00078"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec01_UCSQ3"/></para></problem></exercise>
+<exercise id="exer-00014"><problem id="prob-00014"><para id="para-00079"><link class="os-embed" url="#exercise/PHAR_Ch34_Sec05_UCSQ4"/></para></problem></exercise>
 </note>
 </section>
 <section id="sect-00005">

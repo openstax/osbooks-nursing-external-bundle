@@ -6,8 +6,16 @@
     <md:uuid>f742a297-4e20-4090-bb7f-26ed11a6d7bf</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+      <media alt="The organs of the endocrine system, including the pituitary gland, thyroid, adrenal glands, and pancreas are shown in their anatomical location (in the head and torso). The pituitary gland is located below the brain. The thyroid starts in the throat and goes down toward the lungs. The adrenal glands are below the lungs, and the pancreas is located between the adrenal glands."><image mime-type="image/jpeg" src="../../media/PHA_Unit07_26_28_001_Splash.jpg"/></media>
+      <caption>The endocrine system regulates all biological processes related to development of the brain and nervous system, reproduction, growth, and metabolism. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+      </figure>
+      <para id="para-00001"><term id="term-00001">Diabetes</term> is a long-term chronic health condition that affects millions of people worldwide. It alters how the body regulates glucose from food and uses it for energy. Diabetes affects people of all races, sexes, and ages. According to the Centers for Disease Control and Prevention (CDC, n.d.-a), diabetes and diabetes-related health complications can be serious and costly. The eighth leading cause of death in the United States, diabetes costs a total estimated $327 billion in medical costs and lost work and wages (CDC, n.d.-a). Along with dietary modifications, diabetes management includes <term id="term-00002">insulin</term>, <term id="term-00003">non-insulin injectable diabetes drugs</term>, and <term id="term-00004">oral diabetes drugs</term>. This chapter will explore diabetes and the pharmacologic and non-pharmacologic treatments for this disease process.</para>
+        </content>
+        <glossary>
+          <definition id="def-00001"><term>diabetes </term> <meaning>a disease that results from a deficiency in insulin that leads to alterations in the metabolism of glucose, fats, and proteins </meaning></definition>
+          <definition id="def-00002"><term>insulin</term> <meaning>a hormone released by β cells from the islets of Langerhans in the pancreas after eating a meal that helps the body’s cells absorb glucose for energy</meaning></definition>
+          <definition id="def-00003"><term>non-insulin injectable diabetes drugs</term> <meaning>drugs that provide an alternative to insulin therapy for those with type II diabetes; they act on hormones that are secreted along with insulin by the pancreas to control glucose homeostasis</meaning></definition>
+          <definition id="def-00004"><term>oral diabetes drugs</term> <meaning>drugs used to treat type 2 diabetes by lowering blood glucose levels </meaning></definition>
+          </glossary>
 </document>

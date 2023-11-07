@@ -23,7 +23,7 @@
 <para id="para-00004">Furosemide, a frequently prescribed loop diuretic, treats edematous conditions and fluid volume excess in heart failure, liver failure, and acute and chronic renal disease, including nephrotic syndrome (Khan et al., 2023). It can be given orally, subcutaneously, intramuscularly, or intravenously. The bioavailability of oral doses of furosemide is approximately 50%, and the drug has a shorter half-life (1.5–2 hours) than other loop diuretics, which means that a continuous intravenous infusion may be more effective than intermittent doses in critically ill clients (Khan et al., 2023). Furoscix was approved in 2022 for subcutaneous delivery of a daily metered dose of furosemide by an on-body infuser for outpatient clients with New York Heart Association class II or III chronic heart failure (Dahiya et al., 2022).This delivery system is intended for clients in the home setting for whom oral furosemide administration has limited effectiveness.</para>
 <para id="para-00005">Torsemide exhibits a stronger diuretic effect than furosemide does (Yifan et al., 2021). The drug is used to treat heart failure, hepatic cirrhosis, and chronic renal disease, and it is used with other antihypertensive drugs to treat hypertension (Kanderi &amp; Vaitla, 2022). It can be administered orally or intravenously. The bioavailability of torsemide given by mouth or intravenously is 80%, and the duration of action is 6–8 hours (Kanderi &amp; Vaitla, 2022).</para>
 <para id="para-00006">Bumetanide is used to treat clients who do not respond to other loop diuretics, have severe renal disease, or require larger diuretic doses (Sidhu &amp; Puckett, 2023). It is used to manage heart failure, hypertension, hypercalcemia, oliguria, and <term id="term-00003">ascites</term> associated with liver failure, and it may also replace furosemide in clients with additional risk factors for <term id="term-00004">ototoxicity</term>. The drug can be administered orally, intramuscularly, or intravenously.</para>
-<para id="para-00007">[link]Table 34.1[/link] lists common loop diuretics and typical routes and dosing for adult clients.</para>
+<para id="para-00007"><link target-id="table-00001" document="m00439"/> lists common loop diuretics and typical routes and dosing for adult clients.</para>
 
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
@@ -64,7 +64,7 @@
 <para id="para-00008">Loop diuretics primarily cause diuresis-induced electrolyte imbalances (Huxel et al., 2022). These alterations are more common in older adults and clients with inadequate fluid intake. Other common adverse effects include headache, dizziness, and postural hypotension. Metabolic effects may include hyperlipidemia, metabolic alkalosis, and hyperglycemia due to impaired glucose tolerance. Drug-induced pancreatitis also has been reported, most often in clients with a history of pancreatitis. Less common reactions include impotence, thrombocytopenia due to the secretion of antibodies, thrombotic events related to <term id="term-00008">hypovolemia</term>, and ototoxicity due to rapid intravenous administration.</para>
 <para id="para-00009">Loop diuretics should be used with care in <term class="no-emphasis" id="term-00009">older adults</term> and clients with cardiovascular disease, diabetes, and other risk factors for fluid volume and electrolyte alterations, such as dehydration and increased glucose tolerance. Clients who are allergic to sulfa may possibly experience a mild reaction when using loop diuretics.</para>
 <para id="para-00010">Severe dehydration or anuria is a contraindication to any diuretic (Arumugham &amp; Shahin, 2023). Loop diuretics are contraindicated in clients with sensitivity to one of the individual drugs (furosemide, torsemide, or bumetanide) and in clients with Stevens–Johnson syndrome due to the probability of a sensitivity reaction.</para>
-<para id="para-00011">[link]Table 34.2[/link] is a drug prototype table for loop diuretics featuring furosemide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00011"><link target-id="table-00002" document="m00439"/> is a drug prototype table for loop diuretics featuring furosemide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -94,16 +94,16 @@ Lowers blood pressure<newline/>
 Decreases edema</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 ACE inhibitors<newline/>
-<emphasis effect="bold">Metformin</emphasis><newline/>
-<emphasis effect="bold">Cisapride</emphasis><newline/>
-<emphasis effect="bold">Diethylpropion</emphasis><newline/>
-<emphasis effect="bold">Digoxin</emphasis><newline/>
-<emphasis effect="bold">Dofetilide</emphasis><newline/>
-<emphasis effect="bold">Ephedrine</emphasis><newline/>
+Metformin<newline/>
+Cisapride<newline/>
+Diethylpropion<newline/>
+Digoxin<newline/>
+Dofetilide<newline/>
+Ephedrine<newline/>
 Lithium<newline/>
 Methotrexate<newline/>
 Phenytoin<newline/>
-<emphasis effect="bold">Cidofovir</emphasis><newline count="2"/>
+Cidofovir<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
 Foods with high salt content<newline/>
 Alcohol<newline/>
@@ -124,8 +124,8 @@ Ototoxicity<newline/>
 Agranulocytosis<newline/>
 Hyperuricemia</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-<emphasis effect="bold">Anuria</emphasis><newline/>
-<emphasis effect="bold">Stevens–Johnson syndrome</emphasis><newline count="2"/>
+Anuria<newline/>
+Stevens–Johnson syndrome<newline count="2"/>
 Caution:<newline/>
 Renal impairment<newline/>
 Older adults<newline/>
