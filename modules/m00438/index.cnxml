@@ -115,6 +115,13 @@
 <note class="unfolding-casestudy" id="note-00003">
 <title>Part A</title>
 <para id="para-00024">Read the following clinical scenario to answer the questions that follow. This case study will evolve throughout the chapter.</para>
+<para id="para-00027">Gordon Jefferson is a 74-year-old Black client who presents to his health care provider’s office reporting a recent weight gain and lower leg swelling for approximately 1 week.</para>
+<para id="para-00028"><emphasis effect="bold">History</emphasis><newline/>
+Chronic renal disease<newline/>
+Hypertension</para>
+<para id="para-00029"><emphasis effect="bold">Current Medications</emphasis><newline/>
+Losartan 50 mg orally every day<newline/>
+Dapagliflozin 10 mg orally every day</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -122,21 +129,11 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left" namest="c1" nameend="c3">Gordon Jefferson is a 74-year-old Black client who presents to his health care provider’s office reporting a recent weight gain and lower leg swelling for approximately 1 week.<newline count="2"/>
-<emphasis effect="bold"><span class="blue-text">History</span></emphasis><newline/>
-Chronic renal disease<newline/>
-Hypertension<newline count="2"/>
-<emphasis effect="bold"><span class="blue-text">Current Medications</span></emphasis><newline/>
-Losartan 50 mg orally every day<newline/>
-Dapagliflozin 10 mg orally every day</entry>
-</row>
-<row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></span></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
 </row>
-
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature</emphasis>:</entry>
   <entry valign="top" align="left">97.8°F</entry>
   <entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00004">
 <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
@@ -148,7 +145,7 @@ Dapagliflozin 10 mg orally every day</entry>
 <item><emphasis effect="italics">Integumentary:</emphasis> No abnormal findings</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Blood&#160;pressure:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure</emphasis>:</entry>
 <entry valign="top" align="left">178/92 mm Hg<newline/></entry>
 </row>
 <row>
@@ -156,11 +153,11 @@ Dapagliflozin 10 mg orally every day</entry>
 <entry valign="top" align="left">76 beats/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Respiratory&#160;rate</emphasis>:</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate</emphasis>:</entry>
 <entry valign="top" align="left">20 breaths/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Oxygen&#160;saturation</emphasis>:</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation</emphasis>:</entry>
 <entry valign="top" align="left">98% on room air</entry>
 </row>
 <row>
