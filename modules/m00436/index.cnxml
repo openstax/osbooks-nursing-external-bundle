@@ -6,8 +6,158 @@
     <md:uuid>6b22756f-1206-4069-bacb-a4ee6a1cc7cb</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section you should be able to:</para>
+<list id="list-00001">
+<item>Describe the structure and function of the urinary system.</item>
+<item>Discuss common conditions that affect the urinary system.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Urethra</title>
+<para id="para-00002">Newly formed urine exits the kidney pelvis, flows through the ureters (see [link]Figure 33.4[/link]), and enters the bladder at the trigone on the posterior surface. The volume of urine in the bladder triggers the micturition response, and the urine exits the body through the urethra.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram shows both the male and female urinary systems. In both diagrams, urine travels from the urinary bladder through the urethra in order to exit the body. The female urinary tract is surrounded by the parts of the female reproductive system: uterus, clitoris, labium minora, labium majora, vagina, and cervix. The male urinary tract is surrounded by the parts of the male reproductive system: ductus deferens, penis, epididymis, testis, foreskin, prostate gland, and seminal vesicle."><image mime-type="image/png" src="../../media/PHA_Figure_33_03_004.png"/></media>
+<caption>The urethra transports urine from the bladder to the outside of the body. This diagram shows (a) the female and (b) the male urinary systems. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00003">
+<title>Bladder</title>
+<para id="para-00003">The urinary bladder is a hollow organ suspended from the parietal peritoneum and positioned posterior to the symphysis pubis in the pelvic cavity. The bladder collapses when empty and can expand to accommodate 500–600 mL of urine. The wall of the bladder is composed of three layers. The outer layer, the adventitia, is areolar connective tissue. The middle layer, the detrusor muscle, is composed of multidirectional smooth muscle tissue encircling the urethra at the base of the bladder. The bladder lining is a mucous membrane that is continuous with the urethra. Rugae, or internal folds of the mucosa, are visible when the bladder is empty and accommodate the stretch of the bladder as it fills with urine.</para>
+<para id="para-00004">Urine moves from the kidneys through the two ureters, which are approximately 25–30 cm long and 3–4 mm in diameter, and enters the inferior surface of the bladder at the trigone. The ureters tunnel into the bladder surface, and pressure on this area prevents the backflow of urine into the ureter. In addition, internally, sections of bladder mucosal tissue covering the entry of the ureters also inhibit the backflow of urine; this backflow is called <term id="term-00001">vesicoureteral reflux</term>.</para>
+<section id="sect-00004">
+<title>Micturition Mechanism</title>
+<para id="para-00005"><term id="term-00002">Micturition</term>, commonly called <emphasis effect="italics">urination</emphasis>, is the process by which urine is discharged from the bladder. The process is coordinated by the action of the central and peripheral nervous systems on the stretch receptors in the bladder wall, the detrusor muscle fibers, and the internal and external urinary sphincters. Degenerative conditions such as Parkinson disease, multiple sclerosis, and stroke are commonly associated with altered micturition. Spinal cord injuries can disrupt signals to the bladder, causing alterations in the micturition process.</para>
+<para id="para-00006">The urge to void is sensed when the bladder contains 150 mL of urine. If this urge is not accommodated, the loss of voluntary control, resulting in urinary incontinence, can occur when the bladder contains 300–400 mL of urine. Once micturition is complete, there is a normal residual volume of up to 50 mL of urine remaining in the bladder (Nandy &amp; Ranganathan, 2022).</para>
+</section>
+<section id="sect-00005">
+<title>Innervation of the Urinary System</title>
+<para id="para-00007">The brain and spinal cord must direct the bladder and lower part of the urinary tract to release stored urine. [link]Table 33.1[/link] identifies the three different sets of nerves involved in the micturition process.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nervous System</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Fibers</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left" morerows="1">CNS</entry>
+<entry valign="top" align="left">PMC</entry>
+<entry valign="top" align="left">Promotes micturition by coordinating the contraction of the bladder with relaxation of the internal urinary sphincter</entry>
+</row>
+<row>
+<entry valign="top" align="left">Cerebral cortex</entry>
+<entry valign="top" align="left">Inhibits micturition by voluntary control of the external sphincter</entry>
+</row>
+<row>
+<entry valign="top" align="left" morerows="2">PNS Autonomic System</entry>
+<entry valign="top" align="left">Sympathetic fibers</entry>
+<entry valign="top" align="left">Control vascular supply, mediate the pain receptors, and contribute to relaxation of the bladder</entry>
+</row>
+<row>
+<entry valign="top" align="left">Parasympathetic sensory fibers</entry>
+<entry valign="top" align="left">Detect the stretch of the bladder walls as the bladder fills with urine</entry>
+</row>
+<row>
+<entry valign="top" align="left">Parasympathetic motor fibers</entry>
+<entry valign="top" align="left">Stimulate contraction of the detrusor muscle</entry>
+</row>
+<row>
+<entry valign="top" align="left">PNS Somatic System</entry>
+<entry valign="top" align="left">Motor fibers (via the pudendal nerves)</entry>
+<entry valign="top" align="left">Enable conscious or voluntary control of the external urinary sphincter and micturition</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>The Innervation of the Micturition Process (CNS = central nervous system; PNS = peripheral nervous system; PMC = pontine micturition center)</caption>
+</table>
+</section>
+<section id="sect-00006">
+<title>Common Conditions Affecting the Urinary System</title>
+<para id="para-00008">A number of problems that can affect the urinary system, including conditions that affect the ability to void properly and infections resulting from bacterial contamination of a normally sterile tract. This section will describe two common conditions – incontinence and urinary tract infection.</para>
+<section id="sect-00007">
+<title>Incontinence</title>
+<para id="para-00009">As noted in the previous section, micturition is a complex process that requires coordination between the central nervous system and the peripheral nervous system, adequate structure and function of the bladder and urethra, and cognitive control of the process. <term class="no-emphasis" id="term-00003">Urinary incontinence (UI)</term> is defined as the involuntary loss of urine (Tran &amp; Puckett, 2022). The condition is more common in female clients; however, male clients also experience incontinence with associated conditions of the urinary system.</para>
+<para id="para-00010">There are multiple forms of UI, including the following:</para>
+<list list-type="bulleted" id="list-00002">
+<item><emphasis effect="italics">Urge incontinence:</emphasis> The client experiences a sudden strong urge to void and frequently does not have sufficient time to respond to the urge before urine leaks from the bladder. It is often the result of an overactive detrusor muscle. Risk factors include age, infection, and obstruction of the bladder outlet by an enlarged prostate gland. This form of UI is also common in clients with degenerative nerve diseases such as Parkinson disease, multiple sclerosis, or a history of stroke, due to CNS damage.</item>
+<item><emphasis effect="italics">Stress incontinence:</emphasis> This is caused by a sudden increase in intra-abdominal pressure as with sneezing, coughing, and bending, causing the urine to leak from the bladder. This form of UI may be due to loss of pelvic muscle support of the bladder and urethra. Risk factors include estrogen depletion, obesity, childbirth trauma, and cancer therapies. There is also evidence that damage to the spinal nerves due to diabetes may also contribute to the loss of support.</item>
+<item><emphasis effect="italics">Mixed incontinence:</emphasis> This<emphasis effect="bold"/> presents with combined symptoms of urge and stress incontinence. This type of incontinence is prevalent in older female clients.</item>
+<item><emphasis effect="italics">Overflow incontinence:</emphasis> This type of UI<emphasis effect="bold"/> results from obstruction of the urethra, which limits the amount of urine that is emptied with each void. This increases the residual volume of urine, which can lead to stasis of the urine and infection. This condition is most common in older adult male clients with benign prostatic hypertrophy.</item>
+<item><emphasis effect="italics">Functional incontinence:</emphasis> This form of incontinence results from a factor other than urinary system alterations. It often presents with other deficits such as immobility. The client has an intact urinary system but cannot respond quickly enough to avoid incontinence.</item>
+</list>
+<para id="para-00011">Diagnosis of the type of UI is made through review of the client’s voiding diary, review of the client’s history, and urodynamic studies. Treatment is aimed at eliminating the underlying cause, strengthening the pelvic floor structures, the use of drugs to modify detrusor activity, and surgery.</para>
+<note class="clinical-tip" id="note-00001">
+<title>Assessing Incontinence</title>
+<para id="para-00012">The voiding diary is one of the most important assessment tools for the diagnosis and treatment of all types of incontinence. The nurse provides the client with basic instructions and a template for recording liquid intake, urinary output, and any occurrences of incontinence. This information can be used by the health care providers to evaluate the client’s symptoms.</para>
+</note>
+</section>
+<section id="sect-00008">
+<title>Urinary Tract Infection</title>
+<para id="para-00013">A <term class="no-emphasis" id="term-00004">urinary tract infection (UTI)</term> develops when bacteria enter the urinary system, causing an infection in any part of the urinary tract. As described earlier, pyelonephritis is a kidney infection. Cystitis is bladder inflammation usually caused by bacteria. Risk factors for urinary tract infections include increasing age, female sex, diabetes, obesity, congenital defects, neurogenic bladder, vesicoureteral reflux, and catheterization of the urinary tract. Careful monitoring of susceptible clients is required to prevent recurrent infections. The use of urinary catheters is a significant concern for hospitalized clients. The current recommendation is for short-term use only when necessary. Successful treatment depends on identifying the causative agent and ensuring that all prescribed anti-infectives are consumed.</para>
+<note class="link-to-learning" id="note-00002">
+<para id="para-00014"><emphasis effect="bold">Urinary Stress Incontinence</emphasis></para>
+<para id="para-00015">This <link url="https://openstax.org/r/picmonic">Picmonic online resource</link> reviews the causes and treatments of urinary stress incontinence.</para>
+</note>
+</section>
+</section>
+</section>
+<section id="sect-00009">
+<title>Urethra</title>
+<para id="para-00016">The urethra transports urine from the base of the bladder to outside the body. The mucosal lining is composed of transitional epithelium, smooth muscle, and connective tissue. The urine exits the urethra at the external meatus. The internal urinary sphincter, consisting of smooth muscle, surrounds the urethra as it exits the bladder. Control of the internal sphincter is involuntary. The location of the external urinary sphincter is sex-specific and is discussed in the following sections. The two sphincters coordinate the flow of urine from the bladder.</para>
+<section id="sect-00010">
+<title>Female Urethra</title>
+<para id="para-00017">The female urethra is approximately 3–4 cm long, and the external urinary sphincter surrounds the urethra as it exits the pelvic diaphragm just behind the pubic bone. The urethra is then connected to the anterior vaginal wall, which is a critical requirement for urinary continence. The external urinary meatus is anterior to the vaginal orifice.</para>
+</section>
+<section id="sect-00011">
+<title>Male Urethra</title>
+<para id="para-00018">The male urethra is approximately 20 cm in length and carries urine and semen. It consists of four areas. The first section, the preprostatic urethra, which is composed of transitional epithelium tissue, passes from the inferior surface of the bladder to the prostate gland. The second section, the prostatic urethra, is completely encircled by the prostate gland and is approximately 3–4 cm long. The third section, the membranous urethra, goes through the floor of the pelvis and the external urinary urethra and then enters the penis. The final section, the spongy urethra, extends to the tip of the penis, traveling through the corpus spongiosum. This segment of the urethra is approximately 15 cm long.</para>
+</section>
+</section>
+<section id="sect-00012">
+<title>Chapter Summary</title>
+<para id="para-00019">This chapter discussed the renal system, which is responsible for fluid balance, blood pressure regulation, fluid and electrolyte balance, and red blood cell production. It is also responsible for removing metabolic waste products and excess water from the body. The text explained that the nephron is the functional unit of the kidney, and each section of the nephron is responsible for some part of filtration, reabsorption, or secretion. Common conditions affecting these systems were identified. Fluid volume excess, a common manifestation of altered renal system function, was explained as being caused by systemic conditions such as hypertension and heart failure.</para>
+</section>
+<section class="review-questions" id="sect-00013">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec03_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec02_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec03_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec02_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ10"/></para></problem></exercise>
+</section>
+<section id="sect-00014">
+<para id="para-00030">American Board of Internal Medicine. (2023). <emphasis effect="italics">ABIM laboratory test reference ranges – July 2023.</emphasis> https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf</para>
+<para id="para-00031">Gewin, L. (2021). Sugar or fat? Renal tubular metabolism reviewed in health and disease. <emphasis effect="italics">Nutrients,</emphasis> <emphasis effect="italics">13</emphasis>(5), 1580. doi: 10.3390/nu13051580</para>
+<para id="para-00032">Kim, S., Brodsky, I., Chatterjee, R., Kashyap, S., Knowler, W., Liao, E., Nelson, J., Pratley, R., Rasouli, N., Vickery, E., Sarnak, M., &amp; Pittas, A. (2021). Effect of vitamin D supplementation on kidney function in adults with prediabetes: A secondary analysis of a randomized trial. <emphasis effect="italics">Clinical Journal of the American Society of Nephrology, 16</emphasis>(8), 1201–1209. doi: 10.2215/CJN.00420121</para>
+<para id="para-00033">Legouis, D., Faivre, A., Cippà, P.E., &amp; de Seigneux, S. (2022). <emphasis effect="italics">Nephrology Dialysis Transplantation</emphasis>, Volume 37, Issue 8, August 2022, Pages 1417–1425, https://doi.org/10.1093/ndt/gfaa302</para>
+<para id="para-00034">Lewis, J. (2022).<emphasis effect="italics"/> Volume overload. In <emphasis effect="italics">Merck Manual Professional Version.</emphasis> Merck &amp; Co., Inc. Retrieved August 27, 2023, from https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/fluid-metabolism/volume-overload</para>
+<para id="para-00035">Najem, O., Shah, M., &amp; De Jesus, O. (2022). <emphasis effect="italics">Serum osmolality.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK567764/</para>
+<para id="para-00036">Nandy, S. &amp; Ranganathan, S. (2022). <emphasis effect="italics">Urge incontinence.</emphasis> StatPearls.<emphasis effect="italics"/> https://www.ncbi.nlm.nih.gov/books/NBK563172/</para>
+<para id="para-00037">National Institute of Diabetes and Digestive Kidney Diseases. (n.d.). <emphasis effect="italics">Estimating glomerular filtration rate.</emphasis> https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/laboratory-evaluation/glomerular-filtration-rate/estimating</para>
+<para id="para-00038">National Institute of Diabetes and Digestive Kidney Diseases. (2021, September). Kidney disease statistics for the United States. Retrieved from https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease#:~:text=Chronic%20kidney%20disease%20(CKD)%20affects,an%20estimated%2037%20million%20Americans.&amp;text=For%20Americans%20with%20diabetes%20or,for%20CKD%20is%20even%20greater.</para>
+<para id="para-00039">National Kidney Foundation. (2019). <emphasis effect="italics">Kidney stone diet plan and prevention.</emphasis> A to Z. https://www.kidney.org/atoz/content/diet#what-most-important-factor-to-prevent-kidney-stone-formation</para>
+<para id="para-00040">Ogobuiro, T., &amp; Tuma, F. (2022). <emphasis effect="italics">Physiology—renal.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK538339/</para>
+<para id="para-00041">Padilla, O. &amp; Abadie, J. (2022). Blood tests: Normal values. In <emphasis effect="italics">Merck Manual Professional Version</emphasis>. Merck &amp; Co., Inc. Retrieved May 7, 2023, from https://www.merckmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values#v60535116</para>
+<para id="para-00042">Pickkers, P., Darmon, M., Hoste, E., Joannidis, M., Legrand, M., Ostermann, M., Prowle, J. R., Schneider, A., &amp; Schetz, M. (2021). Acute kidney injury in the critically ill: an updated review on pathophysiology and management. <emphasis effect="italics">Intensive care medicine</emphasis>, <emphasis effect="italics">47</emphasis>(8), 835–850. https://doi.org/10.1007/s00134-021-06454-7</para>
+<para id="para-00043">Schoener B., &amp; Borger J. (2022). <emphasis effect="italics">Erythropoietin stimulating agents.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK536997/</para>
+<para id="para-00044">Stickel, S., Gin-Sing, W., Wagenaar, M., &amp; Gibbs, J. (2019). The practical management of fluid retention in adults with right heart failure due to pulmonary arterial hypertension. <emphasis effect="italics">Eur Heart J Suppl</emphasis>. <emphasis effect="italics">21</emphasis>(Suppl K): K46-K53. doi: 10.1093/eurheartj/suz207</para>
+<para id="para-00045">Tran L. &amp; Puckett Y. (2022). <emphasis effect="italics">Urinary incontinence.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK559095/</para>
+<para id="para-00046">Zhang, S., &amp; Mahler, G. J. (2021). Modelling renal filtration and reabsorption processes in a human glomerulus and proximal tubule microphysiological system. <emphasis effect="italics">Micromachines</emphasis>, <emphasis effect="italics">12</emphasis>(8), 983. https://doi.org/10.3390/mi12080983</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>micturition</term> <meaning>the process through which urine is released from the bladder</meaning></definition>
+<definition id="def-00002"><term>vesicoureteral reflux</term> <meaning>abnormal backflow of urine from the bladder up through the ureters</meaning></definition>
+</glossary>
 </document>

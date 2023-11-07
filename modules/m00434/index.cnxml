@@ -6,8 +6,225 @@
     <md:uuid>04fe3636-b44b-4c41-8033-85a511c839a7</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the structure and function of the renal system.</item>
+<item>Name common conditions that affect the renal system.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Kidneys</title>
+<para id="para-00002">The <term class="no-emphasis" id="term-00001">kidneys</term> have three main functions: filtration, reabsorption, and secretion. The kidneys filter 200 liters of fluid daily to remove waste products that exit the body in the urine. Collecting important nutrients, ions, and proteins protects the body against deficiencies. The individual processes for the three main functions are listed here and explained in greater detail in later sections of this chapter:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Removal of the waste products of metabolism</item>
+<item>Regulation of electrolytes and fluid</item>
+<item>Acid–base balance regulation</item>
+<item>Maintenance of systemic blood pressure</item>
+<item>Erythropoietin secretion</item>
+<item>Vitamin D<sub>3</sub> metabolism</item>
+<item>Gluconeogenesis</item>
+</list>
+<section id="sect-00003">
+<title>Kidneys’ Anatomical Structure</title>
+<para id="para-00003">The kidneys are two bean-shaped organs positioned in the retroperitoneum slightly above the waist, between the T12 and L3 vertebrae. The right kidney sits slightly lower than the left to accommodate the liver. Each kidney weighs approximately 135 to 150 g and is approximately 10 to 12 cm long. The adrenal glands are located on the upper pole of each kidney, and the spleen is connected anteriorly to the upper pole of the left kidney by the splenorenal ligaments.</para>
+<para id="para-00004">The exterior of the kidney has three protective layers: the renal fascia, which is the outermost layer; the perirenal fat capsule; and the renal capsule, which consists of fibrous connective tissue. The interior of the kidney is divided into three distinct areas: the outermost cortex, the medulla, and the renal pelvis. The <term id="term-00002">renal cortex</term> contains <term id="term-00003">nephrons</term>, the functional units of the kidney, which merge into the collecting ducts and the convoluted tubules. The <term id="term-00004">renal medulla</term> contains 8 to 18 renal pyramids with the bases located adjacent to the cortex and the apices connecting to the minor calyces (Sorano et al., 2023). The minor calyces drain into the major calyces, which are large collecting spaces near the ureters’ superior edge. The renal papillae are openings at the bottom of the renal pyramids where urine enters the collecting ducts. The renal columns are cortical tissues that separate the pyramids and provide space for the interlobar arteries. The urine moves from the pyramids to the funnel-shaped <term id="term-00005">renal pelvis</term> in the center of the kidney to the ureters (see [link]Figure 33.2[/link]).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram of a kidney shows 6 pyramids separated by renal columns. The narrower end of the pyramids point toward each other, forming almost a semi-circle shape. The pyramids connect to the minor calyces, which connect to the major calyces, moving the urine from the pyramids to the renal pelvis and then the ureter. The renal hilum, consisting of the renal vein, renal nerve, and renal artery enters the kidneys near the renal pelvis. The renal vein and artery branch off throughout the kidney, becoming interlobar blood vessels, cortical blood vessels, and arcuate blood vessels."><image mime-type="image/png" src="../../media/PHA_Figure_33_01_002.png"/></media>
+<caption>The renal columns serve to divide the kidney into 6–8 lobes and provide a supportive framework for vessels that enter and exit the cortex. The pyramids and renal columns taken together constitute the kidney lobes. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00004">
+<title>Kidneys’ Vascular Structure</title>
+<para id="para-00005">The renal arteries branch off the aorta at the L1/L2 intervertebral disk level just inferior to the mesenteric artery. Each artery is 4–6 cm long and 5–6 mm in diameter. The renal artery divides into anterior and posterior branches before entering the kidney at the <term id="term-00006">hilum</term>, an indentation on the medial side of the organ that allows blood vessels, lymphatic vessels, and nerves to enter and exit the kidney. The segmental arteries eventually form the arterioles that supply the glomerular capillaries. The <term id="term-00007">vasa recta</term> is the network of capillaries that supply the proximal and distal tubules and the <term id="term-00008">loop of Henle</term>.</para>
+</section>
+<section id="sect-00005">
+<title>Kidneys’ Lymphatic Structure</title>
+<para id="para-00006">Two separate lymphatic systems supply the kidney. One branch supplies the interior and the exterior of the renal capsule in the cortex, and the other surrounds the arterial blood vessels. Both systems drain from the hilum into the para-aortic lymph nodes.</para>
+</section>
+<section id="sect-00006">
+<title>Kidneys’ Neural Structure</title>
+<para id="para-00007">The sympathetic division of the autonomic nervous system innervates the kidney. The splanchnic nerves from the renal plexus control the constriction of the arterioles in the renal cortex. These nerves travel from the renal vessels to the smooth muscle of the remaining areas of the nephron, including the juxtaglomerular cells that secrete renin. Sympathetic stimulation results in constriction of the renal vessels and the release of renin. In addition, there are pain receptors in the renal and urinary structures from the renal pelvis to the urinary meatus.</para>
+<note class="link-to-learning" id="note-00001">
+<title>Kidney Function</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/kidneys"/>
+</media>
+<para id="para-00008">This <term class="no-emphasis" id="term-00009">National Kidney Foundation</term> video provides a brief but interesting overview of kidney function and kidney disease.</para>
+</note>
+</section>
+</section>
+<section id="sect-00007">
+<title>Nephrons</title>
+<para id="para-00009">The nephron is the functional unit of the kidney and contains the following structures (see [link]Figure 33.3[/link]):</para>
+<list list-type="bulleted" id="list-00003">
+<item>Glomerulus and Bowman’s capsule, which together comprise the renal corpuscle</item>
+<item>Proximal convoluted tubule, located in the renal cortex</item>
+<item>Descending loop of Henle</item>
+<item>Ascending limb in the renal medulla</item>
+<item>Thick ascending limb</item>
+<item>Distal convoluted tubule</item>
+<item>Collecting duct</item>
+</list>
+<figure class="scaled-down" id="fig-00002">
+<media alt="A diagram of the nephron shows that it is a narrow, tubular structure. It begins with the glomerular and bowman's capsule, shaped like a backward C. This connects to the proximal convoluted tubule, which consists of a few small folds of the tubular structure. Next is the loop of Henley, a long, narrow loop. The descending loop of Henley goes down from the proximal convoluted tubule, while the ascending loop of Henley goes back up. Next, a few more small folds of the tubular structure make up the distal convoluted tubule, which connects to the collecting duct, a long, straight narrow tubule."><image mime-type="image/png" src="../../media/PHA_Figure_33_01_003.png"/></media>
+<caption>Various portions of the nephron differ in their capacity to reabsorb water and specific solutes. While much of the reabsorption and secretion occur passively based on concentration gradients, the amount of water that is reabsorbed or lost is tightly regulated. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00010">There are approximately 1 million nephrons in each kidney. There are two types of nephrons, which are labeled according to their anatomical position. Eighty-five percent of the nephrons are <term id="term-00010">cortical nephrons</term>, located in the outer renal cortex and extend partially into the medulla. The nephron loops are short and are supplied by the peritubular capillaries. The <term id="term-00011">juxtamedullary nephrons</term> are positioned at the junction of the renal cortex and the renal medulla. The nephron loop extends into the medulla and is surrounded by the vasa recta, a network of capillaries originating from the efferent arteriole. The cortical portion of the juxtamedullary nephron is also surrounded by the peritubular capillaries, which aid in the concentration and volume control of urine.</para>
+<para id="para-00011">Blood is filtered by the globe-shaped renal corpuscle, which contains the <term id="term-00012">glomerulus</term> and <term id="term-00013">Bowman’s capsule</term>. The glomerulus<emphasis effect="bold"/> is a tufted structure of <term id="term-00014">fenestrated capillaries</term> essential to filtration. The glomerulus is enclosed in a double-layered structure, the Bowman’s capsule, which has two surfaces, the exterior parietal layer, and the interior visceral layer. The parietal layer is composed of squamous epithelial cells. The visceral layer is composed of specialized epithelial cells called podocytes that encircle the glomerular capillaries. Extensions of the podocytes called pedicles also surround the capillaries, forming filtration slits or pores that also aid filtration. The space between the visceral and parietal layers, the capsular space or Bowman’s space, becomes the lumen of the renal tubule. The fluid that is filtered from the glomerular capillaries moves to the renal tubule as filtrate.</para>
+<para id="para-00012">The <term id="term-00015">mesangial cells</term>, located around the glomerular capillaries, regulate the surface area that is available for glomerular filtration. The cells contract in response to the stretch of increased blood in the capillaries, decreasing the surface area. Conversely, the filtration surface area increases when the cells are relaxed. The cells contract in response to angiotensin II and endothelin and relax in response to atrial natriuretic peptides (ANPs) and nitric oxide.</para>
+<para id="para-00013">The renal tubule consists of three different areas with specialized structures and functions. Initially, the filtrate flows through the proximal tubule, which has straight sections and ’convoluted’ sections. This is the longest segment of the renal tubule, and the surface of the lumen has microvilli that increase the filtration surface area.</para>
+<para id="para-00014">The second area, the nephron loop (loop of Henle), has two sections: the descending limb and the ascending limb. The descending limb, which consists of simple squamous cells, is often identified as the thin descending limb, whereas the ascending limb is mostly composed of cuboidal epithelial cells and is called the thick ascending limb.</para>
+<para id="para-00015">The terminal portion of the nephron, the distal tubule,<emphasis effect="bold"/> also contains straight and convoluted sections; however, the structure is composed of simple cuboidal epithelial cells without the microvilli. The fluid leaves the distal tubule and enters the collection system.</para>
+<section id="sect-00008">
+<title>The Juxtaglomerular Apparatus</title>
+<para id="para-00016">The macula densa cells are located at the boundary between the ascending loop of Henle and the distal tubules. These cells contact the juxtaglomerular cells of the smooth muscles of afferent and efferent arterioles to control <term id="term-00016">glomerular filtration rate (GFR)</term> and blood pressure.</para>
+</section>
+<section id="sect-00009">
+<title>Additional Regulatory Functions of the Nephron</title>
+<para id="para-00017">Three additional functions of the nephron are important to discuss:</para>
+<list list-type="bulleted" id="list-00004">
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00017">Erythropoietin production</term>:</emphasis> When the partial pressure of dissolved oxygen in the blood (pO2) is decreased, erythropoietin (EPO), a hormone produced by the peritubular cells in the renal cortex, is released. The EPO stimulates the production of red blood cells by the bone marrow (Schoener &amp; Borger, 2022).</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00018">Gluconeogenesis</term>:</emphasis> The proximal tubules of the kidney are responsible for producing 40% of the glucose needed to maintain homeostatic glucose levels. The kidney increases glucose production in response to acidosis or when stimulated by stress hormones such as cortisol (Legouis et al., 2022).</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00019">Vitamin D<sub>3</sub> conversion</term>:</emphasis> Vitamin D from the diet and skin absorption is converted to 25-hydroxyvitamin D (25[OH]D) in the liver, and then to 1,25-dihydroxyvitamin D, the active form of the vitamin in the kidneys. Deficient vitamin D levels are associated with altered calcium balance and bone metabolism (Kim et al., 2021).</item>
+</list>
+</section>
+</section>
+<section id="sect-00010">
+<title>Glomerular Filtration</title>
+<para id="para-00018"><term id="term-00020">Glomerular filtration</term> is the initial step in removing waste and concentrating the urine. The filtration membrane consists of three layers: the fenestrated glomerular capillary endothelial cells, the basal lumina, and the podocytes in the visceral layer of the glomerular or Bowman’s capsule. The first layer, the openings in the fenestrated glomerular capillary endothelial cells, allows the movement of molecules up to 100 nanometers in size, which means that platelets and blood cells are not filtered from the capillaries. The basal lumina is a thin layer of tissue between the glomerular endothelial cells and the podocytes. The collagen fibers from this layer generate a mesh that creates a second barrier. This collagen mesh blocks most plasma proteins by size and also blocks negatively charged proteins regardless of size. The filtration slits or pores formed by the podocytes provide the third barrier to filtration. These openings block plasma proteins from entering the filtrate. The filtrate consists of the fluids and solutes that progress through the filtration membrane. Substances that are commonly included in the filtrate include water, glucose, electrolytes, amino acids, and smaller proteins.</para>
+</section>
+<section id="sect-00011">
+<title>The Glomerular Filtration Rate (GFR)</title>
+<para id="para-00019">The kidneys filter approximately 200 liters of fluid every day (Ogobuiro &amp; Tuma, 2023). The normal glomerular filtration rate is 120–125 mL per minute (Ogobuiro &amp; Tuma, 2023). This value is influenced by the client’s age, weight, and muscle mass. Filtration is <emphasis effect="italics">increased</emphasis> by the glomerular capillary hydrostatic pressure and Bowman’s capsule oncotic pressure, and filtration is <emphasis effect="italics">opposed</emphasis> by the glomerular oncotic pressure and the Bowman’s capsule hydrostatic pressure. Note that the oncotic pressure in the Bowman’s capsule is normally near zero because proteins and cells do not enter the capsule.</para>
+<para id="para-00020">Three elements determine the critical net filtration pressure required for homeostatic glomerular filtration:</para>
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00021">Glomerular capillary hydrostatic pressure</term>:</emphasis> The pressure in the glomerular capillary bed is 55 mm Hg and is the major filtration force (Ogobuiro &amp; Tuma, 2022).</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Glomerular capillary oncotic pressure</term></emphasis>: This pressure is determined by the oncotic pressure of the blood in the glomerulus. This pressure is higher than the average oncotic pressure because water is quickly filtered from the blood. This pressure opposes filtration because the increased osmotic pressure can pull the water from the filtrate into the arterioles.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00023">Bowman’s capsule hydrostatic pressure</term>:</emphasis> The hydrostatic pressure is determined by the amount of fluid in the capsular space. The amount of fluid is determined by the rate at which the filtrate enters the capsular space, which is greater than the rate at which the filtrate empties into the lumen of the tubule. This pressure opposes filtration.</item>
+</list>
+<section id="sect-00012">
+<title>Autoregulation of the Glomerular Filtration Rate</title>
+<para id="para-00021">Autoregulation of the GFR maintains homeostatic renal function when the systemic blood pressure (BP) is abnormally increased or decreased. There are two intrinsic or local renal responses that respond to these alterations: the myogenic response and tubuloglomerular feedback.</para>
+<section id="sect-00013">
+<title>Myogenic Response</title>
+<para id="para-00022">The <term class="no-emphasis" id="term-00024">myogenic response</term> maintains the renal blood flow at homeostatic levels in response to the stretch of the vascular smooth muscles of the afferent arterioles. When the systemic BP is elevated, the afferent arterioles are stretched and the GFR is increased. The kidney responds by constricting the afferent arterioles, which decreases the blood being filtered, returning the GFR to normal. When the systemic BP is decreased, the afferent arterioles are stretched less than normal and the GFR declines. The kidney responds by dilating the smooth muscles of the arterioles, which increases the renal blood flow and the GFR.</para>
+<para id="para-00023">The myogenic response rapidly addresses alterations in the GFR; however, the response only occurs when the systolic blood pressure is 80–180 mm Hg. When the systolic BP is above 180 mm Hg, additional smooth muscle constriction is not possible. Conversely, when the pressure falls below 80 mm Hg, additional dilation of the arterioles will not increase the GFR.</para>
+</section>
+<section id="sect-00014">
+<title><term class="no-emphasis" id="term-00025">Tubuloglomerular Feedback</term></title>
+<para id="para-00024">The macula densa cells located around the distal tubule react to the changes in the glomerular filtration rate. When the filtration rate increases the amount of sodium and chloride, the ultrafiltrate also increases, which results in additional absorption of these ions by the macula densa cells. The cells respond to these changes by releasing ATP (adenosine triphosphate) from the basolateral membrane, which directly or indirectly constricts the afferent arterioles. The ATP directly constricts the arterioles, and ATP converted to adenosine indirectly constricts the afferent arterioles. This constriction decreases renal blood flow and returns the GFR to normal. When the filtration rate decreases, less sodium and chloride are delivered to the macula densa cells, which triggers dilation of the afferent arterioles and constriction of the efferent arterioles. This results in increased hydrostatic pressure that returns the GFR to normal. In addition to autoregulation, the tubuloglomerular feedback mechanism also contributes to renal homeostasis by regulating sodium secretion and renin release.</para>
+</section>
+</section>
+<section id="sect-00015">
+<title>Hormonal Actions Affecting the Glomerular Filtration Rate</title>
+<para id="para-00025">Several hormones regulate kidney function by stimulating or inhibiting renal blood flow. Two of these processes are described below.</para>
+<section id="sect-00016">
+<title><term class="no-emphasis" id="term-00026">Renin-Angiotensin-Aldosterone System (RAAS)</term></title>
+<para id="para-00026">The primary function of the RAAS is to control systemic blood pressure and fluid balance; however, the system also contributes to homeostasis of the glomerular filtration rate and tubular reabsorption of electrolytes. Three conditions can trigger the system: sympathetic nerve stimulation, decreased glomerular hydrostatic pressure, and feedback from the macula densa cells in the glomerular feedback system.</para>
+<para id="para-00027">In response to decreased renal blood flow caused by decreased systemic blood pressure, the juxtaglomerular cells in the afferent arteriole trigger the release of renin. This action results in the conversion of angiotensinogen from the liver to angiotensin I. In the lung, the angiotensin-converting enzyme converts angiotensin I, activating angiotensin II. Angiotensin II constricts systemic and renal efferent arterioles; prompts reabsorption of sodium, chloride, and water by osmosis from the proximal tubule; releases aldosterone, which further increases sodium ion and water reabsorption in the distal tubule; and stimulates the thirst response.</para>
+</section>
+<section id="sect-00017">
+<title>Atrial Natriuretic Peptides</title>
+<para id="para-00028">The <term class="no-emphasis" id="term-00027">atrial natriuretic peptides (ANPs)</term> are released from the atria in response to increased atrial blood volume. The primary purpose of the ANPs is regulation of the systemic blood pressure; however, one part of that process involves increasing the GFR. In the glomerulus, the ANPs dilate the afferent arterioles and constrict the efferent arterioles. This increases the glomerular hydrostatic pressure, resulting in increased GFR, which increases the urinary output and decreases the blood pressure.</para>
+</section>
+</section>
+<section id="sect-00018">
+<title>Sympathetic Nervous System Effect on the GFR</title>
+<para id="para-00029">Stimulation of the sympathetic nervous system regulates blood pressure by constricting systemic blood vessels, including the afferent arterioles. The effect of this stimulation on the GFR varies according to the level of sympathetic response. When the sympathetic stimulation is low due to mild exercise, the juxtaglomerular cells release a weaker form of angiotensin II, which increases the GFR and the systemic BP. Conversely, when sympathetic stimulation is high due to blood loss or strenuous physical activity, large amounts of angiotensin II are secreted, constricting both the afferent and efferent arterioles, which decreases the GFR. This response protects the circulating blood volume.</para>
+<note class="link-to-learning" id="note-00002">
+<title>Tubular Reabsorption</title>
+<para id="para-00030">This article from Khan Academy discusses <link url="https://openstax.org/r/khanacademy">the process of tubular reabsorption</link> in the nephron.</para>
+</note>
+</section>
+</section>
+<section id="sect-00019">
+<title>Tubular Reabsorption</title>
+<para id="para-00031">The tubules are responsible for selective reabsorption of electrolytes, nutrients, and water from the filtrate and the return of these substances to the circulating blood volume. The following mechanisms are responsible for moving water and substances from one area to another:</para>
+<list list-type="bulleted" id="list-00006">
+<item><emphasis effect="italics">Active transport:</emphasis> Active transport uses energy, ATP, to move a substance across a membrane from an area of low concentration to an area of higher concentration of that substance.</item>
+<item><emphasis effect="italics">Diffusion:</emphasis> Simple diffusion follows the concentration gradient and moves substances across a membrane from an area of higher concentration to an area of lower concentration. This process does not require energy expenditure.</item>
+<item><emphasis effect="italics">Facilitated diffusion:</emphasis> This process also moves substances along a concentration gradient; however, membrane receptors or channel proteins are required for the transfer (Ogobuiro &amp; Tuma, 2022).</item>
+<item><emphasis effect="italics">Secondary transport systems:</emphasis> Secondary transport systems, including symport and antiport structures, each require energy. Symport structures move two or more substances in the same direction simultaneously. Antiport structures move two or more substances across the cell membrane in different directions.</item>
+</list>
+<section id="sect-00020">
+<title>The Proximal Tubule</title>
+<para id="para-00032">Approximately 65% of the filtrate is reabsorbed in the proximal tubule. The active transport of elements by the sodium/potassium pumps consumes 6%–8% of the daily ATP expenditure. The microvilli lining the tubule facilitate rapid reabsorption of the following elements to support homeostasis (Zhang &amp; Mahler, 2021):</para>
+<list list-type="bulleted" id="list-00007">
+<item>Proximal tubular reabsorption
+<list list-type="bulleted" id="list-00008">
+<item><emphasis effect="italics">Glucose:</emphasis> Secondary active transport with sodium</item>
+<item><emphasis effect="italics">Proteins and amino acids:</emphasis> Secondary active transport with sodium</item>
+<item><emphasis effect="italics">Sodium:</emphasis> Two-thirds actively reabsorbed</item>
+<item><emphasis effect="italics">Chloride:</emphasis> Symport reabsorption with sodium, diffusion</item>
+<item><emphasis effect="italics">Vitamins and lactate:</emphasis> Reabsorbed</item>
+<item><emphasis effect="italics">Bicarbonate ions:</emphasis> Symport reabsorption with sodium</item>
+<item><emphasis effect="italics">Water:</emphasis> Two-thirds reabsorbed osmotically</item></list></item>
+<item>Loop of Henle reabsorption
+<list list-type="bulleted" id="list-00009">
+<item><emphasis effect="italics">Water:</emphasis> Reabsorbed by osmosis</item>
+<item><emphasis effect="italics">Sodium:</emphasis> Reabsorbed by active transport</item>
+<item><emphasis effect="italics">Chloride:</emphasis> Reabsorbed by diffusion</item></list></item>
+<item>Distal convoluted tubule and collecting duct reabsorption
+<list list-type="bulleted" id="list-00010">
+<item><emphasis effect="italics">Water:</emphasis> Reabsorbed by osmosis</item>
+<item><emphasis effect="italics">Sodium:</emphasis> Reabsorbed by active transport</item>
+<item><emphasis effect="italics">Chloride:</emphasis> By symport and diffusion</item>
+<item><emphasis effect="italics">Bicarbonate:</emphasis> By antiport with chloride</item>
+<item><emphasis effect="italics">Calcium:</emphasis> Reabsorbed</item>
+<item><emphasis effect="italics">Potassium and hydrogen:</emphasis> Directed by hormones</item></list></item></list>
+</section>
+<section id="sect-00021">
+<title>Concentration of the Urine</title>
+<para id="para-00033">The cells in the distal convoluted tubule are responsible for the final concentration of water and solutes in the urine. The remaining water, sodium, chloride, calcium, and bicarbonate ions are reabsorbed as noted above. The cells are hormonally controlled by aldosterone, antidiuretic hormone (ADH), and ANPs. Aldosterone, released by the adrenal cortex, increases cellular permeability to sodium and increases the number of sodium and potassium pumps, which increases sodium reabsorption from the filtrate. ADH is released from the posterior pituitary gland and facilitates water reabsorption by opening the aquaporins<emphasis effect="bold"/> in the tubular cells. These cells are impermeable to water when ADH is absent, resulting in large volumes of water in the urine. The ANPs inhibit the action of aldosterone and ADH, resulting in water retention and sodium absorption (Gewin, 2021).</para>
+</section>
+</section>
+<section id="sect-00022">
+<title>Tubular Secretion</title>
+<para id="para-00034">Tubular secretion is the movement of substances from the peritubular vessels into the tubular lumen to be excreted in the urine. The substances either are moved by passive diffusion from the peritubular capillaries into the interstitial space or are transported across the epithelial lumen of the nephron by active transport requiring ATPase. The proximal tubules secrete nitrogenous waste products such as urea, ammonia, and creatinine; excess hydrogen ions; and toxic substances including many protein-bound drugs that do not cross the glomerular basement membrane. The distal tubules secrete potassium and hydrogen ions in response to the hormonal control noted previously.</para>
+</section>
+<section id="sect-00023">
+<title>Common Conditions Affecting Kidney Function</title>
+<para id="para-00035">Kidney function is affected by systemic disease, as discussed in the following section; however, several intrinsic/intrarenal conditions can affect renal homeostasis:</para>
+<list list-type="bulleted" id="list-00011">
+<item><emphasis effect="italics">Congenital abnormalities:</emphasis> These are alterations in anatomy or physiology that are present at birth. With renal agenesis and renal hypoplasia, the kidneys fail to develop in utero and the infant is born without kidneys (renal agenesis) or with only one kidney (renal hypoplasia). Renal agenesis is incompatible with extrauterine life, and the infant is often stillborn. The infant can survive with a single kidney; however, additional congenital abnormalities usually threaten the infant’s survival.</item>
+<item><emphasis effect="italics">Genetic disorders:</emphasis> Multiple forms of polycystic kidney disease can present in childhood or adulthood. These fluid-filled cysts interfere with urine formation and increase the risk of infection and hemorrhage. The disease course is complicated by hypertension, progressive loss of kidney function, and pain. Additional renal conditions, such as renal calculi, are also common in this client population.</item>
+<item><emphasis effect="italics">Neoplasms:</emphasis> General risk factors for renal neoplasms are similar to other types of cancer: smoking, obesity, hypertension, history of renal dialysis or transplant, and exposure to environmental toxins.
+<list list-type="bulleted" id="list-00012">
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00028">Wilms tumor/nephroblastoma:</term></emphasis> Presents in childhood with the onset of hypertension and kidney enlargement. It is the most common renal cancer in children and has a 90% five-year survival rate.</item></list></item>
+<item><emphasis effect="italics">Acute and chronic <term class="no-emphasis" id="term-00029">pyelonephritis</term> (infection):</emphasis> The renal system has multiple protective mechanisms against infection; however, the most common infections ascend from the ureters, bladder, and urethra. The usual causative agent is <emphasis effect="italics">Escherichia coli.</emphasis> Infections associated with indwelling urinary catheters are common in hospitalized clients, and these infections can progress to chronic renal failure in susceptible clients.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00030">Glomerulopathies:</term></emphasis> Glomerulopathies are disorders of the glomerular capillaries. These disorders can be due to systemic, autoimmune, or intrinsic renal alterations. Common manifestations include proteinuria, decreased GFR, hypertension, and edema. These disorders are progressive and commonly result in end stage renal disease (ESRD).
+<list list-type="bulleted" id="list-00013">
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00031">Nephrotic syndrome:</term></emphasis> A disorder associated with massive proteinuria, edema, and hypertension. It commonly progresses to ESRD.</item></list></item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00032">Renal calculi</term>:</emphasis> Also called nephrolithiasis, urolithiasis, or kidney stones, are commonly composed of calcium crystals. Risk factors for stone formation include hypertension, red meat ingestion, obesity, family history of nephrolithiasis, prolonged immobility, vesicoureteral reflux, and hyperparathyroidism. Stones may be asymptomatic and excreted without further intervention; however, large stones can move from the kidney pelvis to the ureteral junction or further in the ureter, causing obstruction and pain (<term id="term-00033">renal colic</term>). Lithotripsy or endoscopy may be necessary to remove the obstruction. Preventive measures include maintaining oral fluid intake at 64–96 fluid ounces per day (or approximately 2–3 liters), avoiding additional calcium intake, and limiting dietary sodium and protein (National Kidney Foundation, 2019). Clients with recurrent stone formation require chemical analysis of the stones to address dietary restrictions.</item></list>
+<note class="link-to-learning" id="note-00003">
+  <title>Renal Calculi</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/kidneystones"/>
+</media>
+<para id="para-00036">This brief Medline Plus video explains how renal calculi form.</para>
+</note>
+</section>
+</content>
+
+
+<glossary>
+<definition id="def-00001"><term>Bowman’s capsule</term> <meaning>part of the nephron that contains the glomerulus</meaning></definition>
+<definition id="def-00002"><term>cortical nephrons</term> <meaning>comprise a majority of the functional units of the kidney located in the outer renal cortex</meaning></definition>
+<definition id="def-00003"><term>fenestrated capillaries</term> <meaning>small blood vessels in the glomerulus that filter waste</meaning></definition>
+<definition id="def-00004"><term>glomerular filtration</term> <meaning>initial step in making urine involving the filtering of excess fluid and waste products from blood</meaning></definition>
+<definition id="def-00005"><term>glomerular filtration rate (GFR)</term> <meaning>the rate at which the kidneys filter the blood, calculated using the results of blood tests that measure renal function</meaning></definition>
+<definition id="def-00006"><term>glomerulus</term> <meaning>located in nephrons, a tuft of capillaries surrounded by the Bowman’s capsule that filters blood</meaning></definition>
+<definition id="def-00007"><term>hilum</term> <meaning>indentation on the medial side of the kidney that allows blood vessels, lymphatic vessels, and nerves to enter and exit</meaning></definition>
+<definition id="def-00008"><term>juxtamedullary nephrons</term> <meaning>nephrons with longer loops of Henle that extend into the medulla</meaning></definition>
+<definition id="def-00009"><term>loop of Henle</term> <meaning>part of the nephron that contributes to absorption of sodium</meaning></definition>
+<definition id="def-00010"><term>mesangial cells</term> <meaning>cells that increase the body surface area for glomerular filtration by limiting the size of molecules that can be filtered</meaning></definition>
+<definition id="def-00011"><term>nephrons</term> <meaning>the functional units of the kidney that produce urine</meaning></definition>
+<definition id="def-00012"><term>renal colic</term> <meaning>acute pain associated with kidney stones</meaning></definition>
+<definition id="def-00013"><term>renal cortex</term> <meaning>outermost layer of the internal areas of the kidney containing nephrons</meaning></definition>
+<definition id="def-00014"><term>renal medulla</term> <meaning>inner part of the kidney containing structures essential for regulating urine concentration</meaning></definition>
+<definition id="def-00015"><term>renal pelvis</term> <meaning>funnel-shaped area of the kidney that collects urine and is connected to the ureter</meaning></definition>
+<definition id="def-00016"><term>vasa recta</term> <meaning>long, hairpin-shaped blood vessels that run parallel to the loops of Henle and facilitate water reabsorption</meaning></definition>
+</glossary>
 </document>
