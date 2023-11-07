@@ -41,9 +41,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nervous System</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Fibers</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Nervous System</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Fibers</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="left" morerows="1">CNS</entry>
@@ -136,14 +136,14 @@
 <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec02_RQ9"/></para></problem></exercise>
 <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch33_Sec01_RQ10"/></para></problem></exercise>
 </section>
-<section id="sect-00014">
+<section class="references" id="sect-00014">
 <para id="para-00030">American Board of Internal Medicine. (2023). <emphasis effect="italics">ABIM laboratory test reference ranges – July 2023.</emphasis> https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf</para>
 <para id="para-00031">Gewin, L. (2021). Sugar or fat? Renal tubular metabolism reviewed in health and disease. <emphasis effect="italics">Nutrients,</emphasis> <emphasis effect="italics">13</emphasis>(5), 1580. doi: 10.3390/nu13051580</para>
 <para id="para-00032">Kim, S., Brodsky, I., Chatterjee, R., Kashyap, S., Knowler, W., Liao, E., Nelson, J., Pratley, R., Rasouli, N., Vickery, E., Sarnak, M., &amp; Pittas, A. (2021). Effect of vitamin D supplementation on kidney function in adults with prediabetes: A secondary analysis of a randomized trial. <emphasis effect="italics">Clinical Journal of the American Society of Nephrology, 16</emphasis>(8), 1201–1209. doi: 10.2215/CJN.00420121</para>
 <para id="para-00033">Legouis, D., Faivre, A., Cippà, P.E., &amp; de Seigneux, S. (2022). <emphasis effect="italics">Nephrology Dialysis Transplantation</emphasis>, Volume 37, Issue 8, August 2022, Pages 1417–1425, https://doi.org/10.1093/ndt/gfaa302</para>
-<para id="para-00034">Lewis, J. (2022).<emphasis effect="italics"/> Volume overload. In <emphasis effect="italics">Merck Manual Professional Version.</emphasis> Merck &amp; Co., Inc. Retrieved August 27, 2023, from https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/fluid-metabolism/volume-overload</para>
+<para id="para-00034">Lewis, J. (2022). Volume overload. In <emphasis effect="italics">Merck Manual Professional Version.</emphasis> Merck &amp; Co., Inc. Retrieved August 27, 2023, from https://www.merckmanuals.com/professional/endocrine-and-metabolic-disorders/fluid-metabolism/volume-overload</para>
 <para id="para-00035">Najem, O., Shah, M., &amp; De Jesus, O. (2022). <emphasis effect="italics">Serum osmolality.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK567764/</para>
-<para id="para-00036">Nandy, S. &amp; Ranganathan, S. (2022). <emphasis effect="italics">Urge incontinence.</emphasis> StatPearls.<emphasis effect="italics"/> https://www.ncbi.nlm.nih.gov/books/NBK563172/</para>
+<para id="para-00036">Nandy, S. &amp; Ranganathan, S. (2022). <emphasis effect="italics">Urge incontinence.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK563172/</para>
 <para id="para-00037">National Institute of Diabetes and Digestive Kidney Diseases. (n.d.). <emphasis effect="italics">Estimating glomerular filtration rate.</emphasis> https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/laboratory-evaluation/glomerular-filtration-rate/estimating</para>
 <para id="para-00038">National Institute of Diabetes and Digestive Kidney Diseases. (2021, September). Kidney disease statistics for the United States. Retrieved from https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease#:~:text=Chronic%20kidney%20disease%20(CKD)%20affects,an%20estimated%2037%20million%20Americans.&amp;text=For%20Americans%20with%20diabetes%20or,for%20CKD%20is%20even%20greater.</para>
 <para id="para-00039">National Kidney Foundation. (2019). <emphasis effect="italics">Kidney stone diet plan and prevention.</emphasis> A to Z. https://www.kidney.org/atoz/content/diet#what-most-important-factor-to-prevent-kidney-stone-formation</para>
