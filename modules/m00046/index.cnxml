@@ -6,8 +6,159 @@
     <md:uuid>333845df-33c6-4640-b991-ff548cd7c137</md:uuid>
   </metadata>
  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Discuss the impact of nutrition on congenital hematologic disorders.</item>
+<item>Discuss the impact of nutrition on cancers.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Congenital Hematologic Disorders</title>
+<para id="para-00002"><term id="term-00001">Sickle cell disease (SCD)</term>, a genetic <term id="term-00002">hemoglobinopathy</term> with chronic anemia, is the most common inherited blood disorder in the United States (McCaskill et al., 2018). Individuals with SCD are more prone to micronutrient and macronutrient (carbohydrate, fat, and protein) deficiencies related to <term class="no-emphasis" id="term-00003">hyperreactive hematopoiesis</term>, the physiologic response caused by chronic anemia. Nutrient deficiencies ([link]Table 10.5[/link]) further increase systemic <term id="term-00004">oxidative stress</term> and contribute to severe and frequent sickle cell <term class="no-emphasis" id="term-00005">vaso-occlusive crises</term>. These deficiencies can cause the following in people with SCD (Umeakunne &amp; Hibbert, 2019):</para>
+<list list-type="bulleted" id="list-00002">
+<item>Delayed growth and development</item>
+<item>Decreased quality of life</item>
+<item>Chronic inflammation</item>
+<item>Painful vaso-occlusive crises</item>
+<item>Increased occurrence of stroke, pulmonary hypertension, heart disease, and renal disease</item>
+</list>
+<para id="para-00003">As with SCD, <term id="term-00006">thalassemia</term> is a genetic hemoglobinopathy. There are multiple genetic forms ranging in severity. Thalassemia carries the same nutritional risks as SCD does.</para>
+<para id="para-00004">[link]Table 10.5[/link] outlines additional <term class="no-emphasis" id="term-00007">micronutrient deficiencies</term> and recommended interventions.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Micronutrient Deficiency</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Recommended Foods/Interventions</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Vitamin D*</entry>
+<entry valign="top" align="left">Milk, yogurt, cheese</entry>
+</row>
+<row>
+<entry valign="top" align="left">Vitamin A</entry>
+<entry valign="top" align="left">Carrots, sweet potatoes, kale, spinach</entry>
+</row>
+<row>
+<entry valign="top" align="left">Vitamin C</entry>
+<entry valign="top" align="left">Kiwis, oranges</entry>
+</row>
+<row>
+<entry valign="top" align="left">Vitamin E</entry>
+<entry valign="top" align="left">Mustard greens, sunflower seeds</entry>
+</row>
+<row>
+<entry valign="top" align="left">Zinc</entry>
+<entry valign="top" align="left">Nuts, fish, whole grains, dairy products</entry>
+</row>
+<row>
+<entry valign="top" align="left">Folic acid</entry>
+<entry valign="top" align="left">1 mg daily supplement<newline/>
+Leafy green vegetables</entry>
+</row>
+<row>
+<entry valign="top" align="left">Vitamin B<sub>12</sub></entry>
+<entry valign="top" align="left">Steamed shrimp, baked snapper, whole grain breads</entry>
+</row>
+<row>
+<entry valign="top" align="left">Omega-3 fatty acids</entry>
+<entry valign="top" align="left">Meats, beans, nuts, seeds, vegetable oils</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Common Nutrient Deficiencies in Congenital Hematologic Disorders (source: Sickle-Cell.com, 2023)</caption>
+</table>
+<para id="para-00005">*Vitamin D deficiency is five times more likely to occur in children with SCD than in children without SCD and is associated with increased hospitalizations (McCaskill et al, 2018).</para>
+<section id="sect-00003">
+<title>Genetic Hemochromatosis</title>
+<para id="para-00006"><term class="no-emphasis" id="term-00008">Genetic hemochromatosis</term> causes excessive absorption of dietary iron secondary to decreased expression of the peptide hormone hepcidin. It is the most common autosomal recessive disorder in White individuals, affecting one in 300–500 people of northern European descent (Porter &amp; Prashanth, 2023). It is twice as common in males as females and can result in multiple organ dysfunction. Excessive intestinal dietary intake of heme and nonheme iron is primarily managed by dietary modifications (Milman, 2021). These modifications are extensive and require nutritional counseling and reinforcement by health care professionals:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Consider a vegetarian or semivegetarian diet.</item>
+<item>Consume 21 oz of fruit and vegetables daily; fresh is best.</item>
+<item>Avoid red meat from mammals; instead, choose lean, white poultry.</item>
+<item>Avoid processed meat. Consume no more than 7 oz of meat from poultry per week. Consider additional protein sources such as fish, eggs, and legumes.</item>
+<item>Choose whole grains; avoid iron-enriched grains.</item>
+<item>Beverages should consist of water, green or black tea, coffee, and low-fat milk. Avoid alcoholic beverages.</item>
+</list>
+</section>
+<section id="sect-00004">
+<title>Hemophilia</title>
+<para id="para-00007"><term class="no-emphasis" id="term-00009">Hemophilia</term> is an inherited X-linked blood disorder resulting in decreased levels of clotting factor VIII or IX. Occurring in one in 5,000 male births, this deficiency results in spontaneous <term class="no-emphasis" id="term-00010">bleeding</term>, often in <term class="no-emphasis" id="term-00011">joints</term>, and severe bleeding following injury or trauma (CDC, 2023a). Nutritional considerations include managing weight and maintaining iron levels to avoid IDA. Obesity is common secondary to a sedentary lifestyle to avoid <term class="no-emphasis" id="term-00012">injury-induced bleeding</term>; however, consequences of decreased <term class="no-emphasis" id="term-00013">physical activity</term> include more stress on the joints and muscle strains that can result in musculoskeletal bleeding (Lim et al., 2020). A recommended diet includes iron-rich foods such as lean red meat, leafy green vegetables, broccoli, dried beans, grains, and raisins. It is important to consume foods containing vitamin C, such as orange juice, to enhance iron absorption.</para>
+<note class="media-feature" id="note-00001">
+<title>Effect of Misshapen Red Blood Cells on Blood Flow</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/hematology"/>
+</media>
+<para id="para-00008">The American Society of Hematology offers a video that demonstrates how blood flow is affected by misshapen red blood cells. (American Society of Hematology, 2009)</para>
+</note>
+</section>
+</section>
+<section id="sect-00005">
+<title>Impact of Cancer on Nutrition and Hematologic Function</title>
+<para id="para-00009">Advanced age is a risk factor for nutritional deficiency; the addition of chronic diseases, including malignancy, can quickly lead to malnourishment. These comorbidities can contribute to reduced tolerance of <term class="no-emphasis" id="term-00014">anticancer therapy</term>, impacting survival (Stauder et al., 2020).</para>
+<para id="para-00010">The prevalence of anemia in cancer can exceed 90% across all ages and is generally considered to be related to medications, infections, or disorders of hematopoiesis. Common concerns are alterations in <term class="no-emphasis" id="term-00015">activities of daily living</term> affecting quality of life, decreased productivity, and inability to work. Fatigue is reported as the most common troubling symptom of cancer and is directly linked to anemia (Gilreath &amp; Rodgers, 2020). <term class="no-emphasis" id="term-00016">Fatigue</term> and lack of appetite commonly coexist, resulting in an inability to prepare meals, further exacerbating anemia.</para>
+<para id="para-00011">Anemia was traditionally believed to be primarily related to the adverse effects of anticancer therapy; however, recent research has shown a direct correlation with chronic, low-grade inflammation. <term id="term-00017">Functional iron deficiency</term>, malnutrition, and anorexia contribute to <term class="no-emphasis" id="term-00018">cancer-associated anemia</term> (Natalucci et al., 2021). See [link]Table 10.6[/link] for types of IDA in cancer. In contrast, iron overload can occur in clients with symptomatic anemia receiving <term class="no-emphasis" id="term-00019">red blood cell transfusions</term> and can alter the function of effective hematopoiesis, contributing to anemia (Gilreath &amp; Rodgers, 2020). Other micronutrient deficiencies affecting hematologic function in individuals with cancer include folate and vitamin B<sub>12</sub>.</para>
+<para id="para-00012">Approximately 50% of adults with <term class="no-emphasis" id="term-00020">colon cancer</term> have anemia due to chronic blood loss from the gastrointestinal tract (Chardalias et al., 2023). The prevalence of anemia in other cancers ranges from 29% to 46%, mainly related to chronic disease, chemotherapy-induced anemia, nutrient-related anemia, chronic <term class="no-emphasis" id="term-00021">anorexia</term>, and gastrointestinal adverse effects such as nausea, vomiting, and diarrhea (Busti et.al., 2018).</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Iron Deficiency</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Etiology</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00022">Absolute</term> iron deficiency anemia</entry>
+<entry valign="top" align="left">Associated with bleeding; total body <term class="no-emphasis" id="term-00023">iron stores</term> diminish</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00024">Iron sequestration</term>*</entry>
+<entry valign="top" align="left">Inflammation results in iron being unavailable for <term class="no-emphasis" id="term-00025">erythropoiesis</term></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00026">Iron-restricted erythropoiesis</term>*</entry>
+<entry valign="top" align="left">Erythropoiesis therapy (epoetin) outspaces iron delivery from storage</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>*Functional iron deficiency anemia<newline/>
+Types of Iron Deficiency Anemia in Cancer</caption>
+</table>
+<section id="sect-00006">
+<title>Nutritional Interventions</title>
+<para id="para-00013">Chronic illness has a significant impact on nutrition and, consequently, hematologic wellness. Recommendations have evolved due to more emphasis on a holistic approach to caring for those with hemoglobinopathies and cancer.</para>
+<para id="para-00014">The Mediterranean diet has gained popularity in the United States as a way to manage weight, lower cholesterol, and stabilize blood sugar. Close investigation of the constituents of this eating lifestyle reveals significant anti-inflammatory properties that translate well to chronic hematologic illness. Extra-virgin olive oil is has been found to block the proinflammatory cascade (Natalucci et al., 2021).</para>
+<para id="para-00015">The following foods and substances rich in antioxidants contribute to anti-inflammatory and microbiota-modulating properties:</para>
+<list list-type="bulleted" id="list-00004">
+<item>Phytochemical vitamins in red, orange, and yellow fruits and dark green leafy vegetables</item>
+<item>Ginger</item>
+<item>Green tea</item>
+<item>Garlic</item>
+<item>Black pepper</item>
+<item>Turmeric</item>
+</list>
+<para id="para-00016">To avoid severe nutritional deficiencies, a high-calorie, nutrient-rich diet is essential for people living with SCD and <term class="no-emphasis" id="term-00027">thalassemia</term>. Increased oral hydration is vital in SCD to decrease the frequency of painful vaso-occlusive events. Additional recommendations include daily supplements of omega-3 fatty acids, folic acid, high-dose vitamin D, and a multivitamin without iron. For clients with thalassemia specifically, drinking black tea may decrease the gastrointestinal absorption of iron (Goldberg et al., 2018; Physicians Committee for Responsible Medicine, 2020b; Srichairatanakool et al., 2020).</para>
+<para id="para-00017">People with SCD and vitamin D deficiency consuming a diet rich in fish, milk, cheese, and eggs were found to have decreased hospital and emergency department visits (McCaskill et al., 2018). High-dose <term class="no-emphasis" id="term-00028">vitamin D replacement</term> (greater than 3000 units per day) has been found to augment immune response and decrease the risk of respiratory infections in SCD (Umeakunne &amp; Hibbert, 2019). Recent literature strongly correlates that vitamin D and chronic inflammation play an important role in regulating iron homeostasis, which can improve anemia (Natalucci et al., 2021).</para>
+<para id="para-00018">Adults living with hemoglobinopathies should avoid drinking alcohol because it potentiates the oxidative damage caused by iron overload (Milman, 2021).</para>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>functional iron deficiency</term> <meaning>a state in which iron is insufficiently incorporated into erythroid precursors even though body iron stores are apparently adequate</meaning></definition>
+<definition id="def-00002"><term>hemoglobinopathy</term> <meaning>a group of disorders in which the hemoglobin molecule has abnormal production or structure</meaning></definition>
+<definition id="def-00003"><term>oxidative stress</term> <meaning>disturbance in the balance between the production of reactive oxygen species (free radicals) and antioxidant defenses</meaning></definition>
+<definition id="def-00004"><term>sickle cell disease</term> <meaning>an inherited red blood cell disorder affecting the shape of hemoglobin, resulting in blocked blood flow</meaning></definition>
+<definition id="def-00005"><term>thalassemia</term> <meaning>an inherited blood disorder characterized by less oxygen-carrying protein (hemoglobin) and fewer red blood cells in the body than usual</meaning></definition>
+</glossary>
 </document>

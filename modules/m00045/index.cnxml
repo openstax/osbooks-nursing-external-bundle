@@ -6,8 +6,412 @@
     <md:uuid>471c186a-233e-4466-b619-f3444cdfe283</md:uuid>
   </metadata>
  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the impact of nutrition on the hematologic system during pregnancy.</item>
+<item>Describe the impact of nutrition on the hematologic system during infancy.</item>
+<item>Describe the impact of nutrition on the hematologic system during childhood.</item>
+<item>Describe the impact of nutrition on the hematologic system during adolescence.</item>
+<item>Describe the impact of nutrition on the hematologic system during adulthood.</item>
+<item>Describe the impact of nutrition on the hematologic system during later adulthood.</item>
+</list>
+</section>
+<para id="para-00002">The most common hematologic consequence throughout the lifespan is <term class="no-emphasis" id="term-00001">anemia</term>, affecting approximately 1.8 billion individuals worldwide (Safiri et al., 2021). Although the specific nutrient responsible for nutritional anemia can vary, the condition is characterized by a deficiency in healthy <term class="no-emphasis" id="term-00002">red blood cells</term>. This can lead to various health conditions and is a major public health issue with significant implications for quality of life, productivity, and mortality.</para>
+<para id="para-00003">Less common than anemia, nutritional <term class="no-emphasis" id="term-00003">bleeding disorders</term> are a group of conditions that can lead to problems involving prolonged bleeding and thrombosis caused by a lack of nutrients in the diet, such as vitamin K, vitamin C, or iron. Recognizing signs and symptoms related to these deficiencies is critical to avoid life-threatening complications, particularly during health emergencies such as trauma or sepsis. Although seen less frequently, macronutrient and micronutrient deficiencies can also impair immune system function and <term class="no-emphasis" id="term-00004">tissue healing</term>, effects that can be particularly problematic for individuals living with acute or chronic illnesses such as infections or autoimmune diseases.</para>
+<para id="para-00004">Controlling anemia requires collaborative interventions among nurses, health care providers, and dietitians to prioritize the highest-risk groups, including young children and individuals of reproductive age. Despite the nature of the disease, dietary iron deficiency (ID) remains the leading cause of anemia in all regions. Recent reports indicate an increased trend in anemia and <term class="no-emphasis" id="term-00005">iron deficiency</term> among pregnant clients and young children over the past two decades (National Center for Health Statistics, 2023). According to the World Health Organization (WHO) criteria, anemia and iron deficiency among pregnant individuals and U.S. children have reached the significance of mild and moderate public health problems, respectively (Jefferds et al., 2022). More attention must therefore be paid to nutritional interventions for these high-risk groups.</para>
+<section id="sect-00002">
+<title>Impact on Health During Pregnancy</title>
+<para id="para-00005">Red blood cell production increases by 30% during <term class="no-emphasis" id="term-00006">pregnancy</term> to support blood volume expansion and fetal growth (Benson et al., 2022). Iron is preferentially used for <term id="term-00007">erythropoiesis</term>; therefore, iron deficits can quickly occur, resulting in maternal and fetal anemia.</para>
+<para id="para-00006">Anemia affects approximately 36% of pregnant women worldwide and approximately 12% of pregnant women in the United States. The most common causes of anemia in pregnancy are iron deficiency and acute <term class="no-emphasis" id="term-00008">blood loss</term> (Smith et al., 2019; WHO, n.d.-a). [link]Figure 10.2[/link] is an image of human blood from a case of iron deficiency. If iron needs are not met, there is an increased chance of maternal and fetal adverse outcomes. As the severity of anemia worsens, so do the associated risks, which can result in prolonged hospitalization for postpartum clients (Smith et al., 2019; Jefferds et al., 2022). Clients who have <term class="no-emphasis" id="term-00009">multiple births</term> are twice as likely as those who have single births to develop iron deficiency anemia (IDA) due to increased <term class="no-emphasis" id="term-00010">blood volume</term> expansion and utilization of <term class="no-emphasis" id="term-00011">iron stores</term>.</para>
+<figure class="scaled-down-30" id="fig-00001"><media alt="Anemic blood under the microscope. Most of the smaller red blood cells are pale, although there are a few that are darker. These red blood cells surround the larger white blood cells."><image mime-type="image/jpg" src="../../media/NUT_Figure_10_01_002.jpg"/></media>
+<caption>Human blood from a case of iron deficiency anemia. The red blood cells are pale and smaller than the larger white blood cells shown in the image. (credit: “This photomicrograph of a Prussian blue stained bone marrow sample, revealed that there was a lack of iron stores. Prussian blue staining for iron particles, which reveals little or no stainable iron in the bone marrow reticulum cells, and normoblasts, is the definitive test for iron deficiency, in the case of iron deficiency anemia (IDA)” by CDC/ Dr. Gordon D. McLaren, Public Domain)</caption></figure>
+<para id="para-00007">The third trimester of pregnancy is the highest risk period of <term class="no-emphasis" id="term-00012">gestation</term>. If the pregnant client has anemia (any type) during pregnancy, they will have a decreased tolerance of blood loss occurring during birth, increasing their risk for <term class="no-emphasis" id="term-00013">hypovolemic shock</term>, <term class="no-emphasis" id="term-00014">heart failure</term>, <term class="no-emphasis" id="term-00015">infection</term>, and the need for <term class="no-emphasis" id="term-00016">blood transfusion</term> (Sharma et al., 2021; Smith et al., 2019). See [link]Table 10.1[/link] for complications and risks associated with anemia in pregnancy.</para>
+<para id="para-00008">Race disparities in nutritional anemia exist both globally and within the United States. According to data from the <term id="term-00017">National Health and Nutrition Examination Survey (NHANES</term>, a program conducted by the National Center for Health Statistics to assess the health and nutritional status of adults and children in the United States, non-Hispanic Black pregnant women have the highest prevalence of IDA, particularly during the third trimester of pregnancy (Sharma et al., 2021).</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Maternal Risks for Developing Anemia in Pregnancy</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Maternal Complications of Anemia</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Fetal Complications of Anemia</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Maternal age less than 20 years</entry>
+<entry valign="top" align="left">Maternal death</entry>
+<entry valign="top" align="left">Preterm birth</entry>
+</row>
+<row>
+<entry valign="top" align="left">Maternal age greater than 40 years</entry>
+<entry valign="top" align="left">Cesarean delivery</entry>
+<entry valign="top" align="left">Low <term class="no-emphasis" id="term-00018">birth weight</term></entry>
+</row>
+<row>
+<entry valign="top" align="left">Multiparous</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00019">Preeclampsia</term></entry>
+<entry valign="top" align="left">Small for gestational age</entry>
+</row>
+<row>
+<entry valign="top" align="left">Multiple pregnancy</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00020">Placenta previa</term> with hemorrhage</entry>
+<entry valign="top" align="left">Fetal death</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00021">In vitro fertilization</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00022">Placental abruption</term></entry>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">Underweight before pregnancy</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00023">Hypovolemic shock</term></entry>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">Prior <term class="no-emphasis" id="term-00024">cesarean delivery</term></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00025">Hypertension</term></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">Chronic disease</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+</tbody>
+</tgroup>
+<caption>Complications and Risks Associated With Anemia in Pregnancy</caption>
+</table>
+<para id="para-00009">Screening for anemia and ID in pregnant clients to improve maternal and infant health outcomes is a <term id="term-00026">secondary health promotion</term> intervention. The American College of Obstetricians and Gynecologists (2021) now recommends screening for anemia in all pregnant clients at the first prenatal visit and, if detected, screening for iron deficiency. However, current guidelines do not recommend prepregnancy iron screening. This decreases the chance of early identification because individuals may not be aware they are pregnant until later in the pregnancy.</para>
+<para id="para-00010">Iron deficiency and IDA are found equally often among pregnant individuals; however, ID alone doubles in the third trimester and might go completely undetected if the client is asymptomatic (Cochrane et. al, 2022; Nour, 2022). Iron requirements gradually increase during pregnancy from 0.8 mg daily to 7.5 mg daily by the third trimester. The average Western diet includes 1–5 mg of iron daily from food sources; therefore, <term class="no-emphasis" id="term-00027">iron stores</term> will be depleted quickly from a pregnant client if not supplemented (Means, 2020). The Centers for Disease Control and Prevention (CDC) recommends 30 mg daily of <term class="no-emphasis" id="term-00028">elemental iron</term> at the start of pregnancy, and the WHO recommends 60 mg daily. If the pregnant client is diagnosed with anemia during pregnancy, iron should be increased to 60–120 mg daily (National Institutes of Health [NIH], 2023; WHO, n.d.-b).</para>
+<note class="clinical-tip" id="note-00001">
+<title>Elemental vs. Nonelemental Iron</title>
+<para id="para-00011">Elemental iron is a natural substance (heavy metal) directly used by erythrocytes in the body. <term class="no-emphasis" id="term-00029">Nonelemental iron</term> is a chemical compound of iron bound to salt, such as ferrous sulfate. Iron supplements contain an iron salt compound because it is absorbed better than natural iron (Harvard T. H. Chan School of Public Health, 2023). Various iron supplements are available over the counter, which is often confusing for patients and health care professionals. Although health care providers often write prescriptions for iron supplementation, most pharmacies do not carry a “prescription-strength” <term class="no-emphasis" id="term-00030">iron supplement</term>, and clients are directed to over-the-counter products. These product labels will contain two different amounts of iron, elemental and nonelemental; therefore, when providing patient education, nurses must be aware of the amount of elemental iron prescribed and teach clients how to read the labels.</para>
+</note>
+<section id="sect-00003">
+<title>Folate and Vitamin B<sub>12</sub> Requirements</title>
+<para id="para-00012">Before the United States FDA began mandating folate fortification in 1998, <term class="no-emphasis" id="term-00031">folate</term> (vitamin B<sub>9</sub>) deficiency was a common cause of anemia during pregnancy (Ismail et al., 2023). Folate demands increase during pregnancy to support fetal and maternal tissue development (Ballestín et al., 2021). Both anemia and <term class="no-emphasis" id="term-00032">folic acid deficiency</term> can place the fetus at risk for neurologic compromise, including defects in brain development and in the myelination of nerve fibers (Jefferds et al., 2022). Although not a common cause of anemia in most women, <term class="no-emphasis" id="term-00033">vitamin B<sub>12</sub></term> deficiency can cause serious maternal-fetal consequences for women with gastrointestinal malabsorption.</para>
+<para id="para-00013">Folate and vitamin B<sub>12</sub> deficiencies do not always result in <term class="no-emphasis" id="term-00034">macrocytic anemia</term> during pregnancy; however, a physiologic decline is expected (Achebe &amp; Gafter-Gvili, 2017). Folate deficiency in pregnant clients can result in low <term class="no-emphasis" id="term-00035">birth weight</term> and small-for-gestational age (SGA) newborns. Adequate maternal intake of vitamin B<sub>12</sub> is necessary to support fetal growth and development. Signs and symptoms of vitamin B<sub>12</sub> deficiency include fatigue, pallor, tachycardia, poor exercise tolerance, and suboptimal work performance and should be considered in clients with a history of malabsorption conditions (Achebe &amp; Gafter-Gvili, 2017).</para>
+<para id="para-00014">As a <term id="term-00036">primary health promotion</term> intervention, the WHO recommends 400 mcg daily of folic acid in pregnant clients until 3 months postpartum. The CDC recommends 400 mcg daily of folic acid for all individuals of childbearing age to prevent neural tube defects in the event of pregnancy. <term class="no-emphasis" id="term-00037">Prenatal vitamins</term> generally contain 1 mg of folate; however, doses of up to 5 mg daily are recommended for those with higher demands, such as during pregnancy in women who have previously had a pregnancy affected by a neural tube defect (Khan, 2023).</para>
+<note class="special-considerations" id="note-00002">
+<title>Vitamin B<sub>12</sub> Deficiency</title>
+<para id="para-00015">Vitamin B<sub>12</sub> is readily stored in excess in the <term class="no-emphasis" id="term-00038">liver</term>, so most pregnant clients are not deficient. However, when vitamin B<sub>12</sub> cannot be obtained or absorbed, such as with dietary insufficiency or malabsorption, <term class="no-emphasis" id="term-00039">hepatic stores</term> are depleted, and deficiency occurs. This includes pregnant clients with a history of a strict <term class="no-emphasis" id="term-00040">vegan diet</term> for the previous 3 years and those who have undergone <term class="no-emphasis" id="term-00041">bariatric surgery</term>. The WHO and the NIH recommend 2.6 mcg of vitamin B<sub>12</sub> daily during pregnancy, increasing to 2.8 mcg postpartum if breastfeeding (NIH, 2022).</para>
+<para id="para-00016">The risk of developing vitamin B<sub>12</sub> deficiency is higher for people who do not get vitamin B<sub>12</sub> from their diet, such as those who are vegetarian or vegan and those with health conditions or medication regimens that interfere with absorption of the vitamin:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Intestinal diseases</item>
+<item>Previous <term class="no-emphasis" id="term-00042">gastric or ileac resection</term></item>
+<item>History of <term class="no-emphasis" id="term-00043">celiac disease</term> or <term class="no-emphasis" id="term-00044">inflammatory bowel disease</term></item>
+<item><term class="no-emphasis" id="term-00045">Autoimmune disorders</term> (<term class="no-emphasis" id="term-00046">Graves’ disease</term>, <term class="no-emphasis" id="term-00047">thyroiditis</term>, <term class="no-emphasis" id="term-00048">vitiligo</term>)</item>
+<item>Prolonged use of <term class="no-emphasis" id="term-00049">proton pump inhibitors</term> or <term class="no-emphasis" id="term-00050">H2 receptor antagonists</term></item>
+</list>
+<para id="para-00017">Clients with a proven deficiency will need higher doses of replacement therapy as follows:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Deficiency from diet: 1000 mcg orally once daily</item>
+<item>Deficiency from malabsorption: 1000 mcg parenterally (intramuscular injection) once every 3–4 weeks (Ankar, 2022).</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00004">
+<title>Infancy</title>
+<para id="para-00018">Infancy, from birth to 12 months, is a period of intense physical and developmental growth. <term id="term-00051">Hematopoiesis</term> and <term id="term-00052">hemostasis</term> are incomplete at birth, and <term class="no-emphasis" id="term-00053">micronutrient deficiencies</term> can impair the child’s long-term potential. Requirements for macronutrients and micronutrients are higher during infancy and childhood than at any other developmental stage and are influenced by the rapid cell division occurring during growth. Research indicates that micronutrient deficiencies negatively affect the <term class="no-emphasis" id="term-00054">thymus</term>, which can impact lymphocyte function, increasing the risk of infection and inflammatory disease in children (Pai et al., 2018).</para>
+<para id="para-00019">Infants receive <term id="term-00055">passive immunity</term> from their mothers before birth and through <term class="no-emphasis" id="term-00056">breast milk</term>. This is partially the basis of the American Academy of Pediatrics (AAP) recommendations for breast milk as the “sole source of nutrition for the first 6 months of life, or as long as both mother and baby desire” (Meek et al., 2022). After 6 months, infants should be introduced to supplemental solid foods, including iron-fortified infant cereal. Introducing supplemental foods can be challenging for caregivers, leaving infants and toddlers at additional risk for nutritional deficiencies, especially if food allergies or intolerances are identified. To ensure that infants and young children achieve desirable physical and social milestones, nurses must be well versed in the nutritional considerations affecting this vulnerable population. Educating potential and new parents regarding all health benefits for the breastfed infant is an essential client-centered nursing intervention.</para>
+<note class="special-considerations" id="note-00003">
+<title>Infant Benefits of Breastfeeding</title>
+<para id="para-00020">According to the AAP Section on Breastfeeding (Meek et al., 2022), exclusive <term class="no-emphasis" id="term-00057">breastfeeding</term> for the first 6 months of an infant’s life can decrease risk for the following:</para>
+<list list-type="bulleted" id="list-00004">
+<item>Acute and chronic infections, including lower respiratory and ear infections and tooth decay</item>
+<item>Food allergies</item>
+<item>Sudden infant death syndrome (SIDS)</item>
+<item>Otitis media</item>
+<item>Eczema</item>
+<item>Asthma</item>
+<item>Childhood and adult obesity</item>
+<item>Types 1 and 2 diabetes</item>
+<item>Gastrointestinal discomfort, including vomiting, diarrhea, and colic</item>
+</list>
+</note>
+<section id="sect-00005">
+<title>Anemia</title>
+<para id="para-00021">According to the WHO, infantile and childhood <term class="no-emphasis" id="term-00058">anemia</term> in the United States ranges from 6–18%, with higher rates among low-income families. As with other age groups, ID is the most common cause of anemia, followed by other nutritional anemias, vitamin B<sub>12</sub>, and folate (NIH, 2022).</para>
+<para id="para-00022">Iron deficiency occurs in 12% of infants aged 6–11 months and 8% of toddlers in the United States. Among toddlers, IDA ranges from 0.9–4.4%, depending on the racial and ethnic makeup and socioeconomics of the household (NIH, 2023). During the first 2 years of life, <term class="no-emphasis" id="term-00059">iron</term> needs are high to build iron stores and support the child’s rapid physical and cognitive development rate. Premature infants, infants born to iron-deficient mothers, and infants with low birth weight have been shown to have lifelong learning and memory deficits because of damage to the hippocampus, the brain’s memory center. Accordingly, clinical consequences of ID and IDA in children include the following (Benson et al., 2022; Drakesmith et al., 2021):</para>
+<list list-type="bulleted" id="list-00005">
+<item>Impaired psychomotor development and cognitive function</item>
+<item>Delayed attention skills</item>
+<item>Social withdrawal</item>
+<item>Decreased leukocyte and lymphocyte function</item>
+<item>Decreased response to childhood vaccines</item>
+<item>Increased neurotoxicity when ID is associated with high lead blood concentrations</item>
+</list>
+<para id="para-00023">Infant iron stores start to diminish at 6 months of age. After this time, breastfed infants are at greater risk for anemia because the iron content of breast milk depends on the lactating person’s diet, whereas infant formula is fortified with iron. Full-term infants are at the highest risk between ages 6 months and 9 months if they are not consuming iron-fortified formula or successfully introduced to solid foods rich in iron (NIH, 2023). Additionally, children younger than 2 years are more likely than older children to have IDA associated with a transition to solid foods. Recommendations for preventing and treating ID and IDA are shown in [link]Table 10.2[/link].</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Recommending Organization</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Infant Considerations</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Iron Dosing</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Iron-Fortified Foods</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left" morerows="2">Centers for Disease Control and Prevention</entry>
+<entry valign="top" align="left">Less than 12 months old, not exclusively breastfed</entry>
+<entry valign="top" align="left">Iron-fortified formula</entry>
+<entry valign="top" align="left">Label will indicate “with iron”</entry>
+</row>
+<row>
+<entry valign="top" align="left">Less than 12 months old, preterm or small for gestational age, exclusively breastfed</entry>
+<entry valign="top" align="left">2–4 mg/kg/day elemental iron until 12 months old</entry>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">Less than 12 months old, full-term, and appropriate for gestational age, exclusively breastfed</entry>
+<entry valign="top" align="left">Consult health care provider for recommendations.<newline/>
+*If eating iron-fortified foods starting at 6 months old, iron supplement may be discontinued</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Infant rice cereal</item>
+<item>Commercially prepared baby food beef, turkey, pork, lamb, spinach</item>
+<item>Mashed chickpeas, white beans, broccoli</item>
+<item>Pureed or mashed sweet potatoes, soft, cooked beans, green peas</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left" morerows="1">American Academy of Pediatrics</entry>
+<entry valign="top" align="left">4–12 months old, full-term, exclusively breastfed</entry>
+<entry valign="top" align="left">1 mg/kg/day elemental iron until eating iron-fortified solid foods</entry>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">1–12 months old, preterm, exclusively breastfed</entry>
+<entry valign="top" align="left">2 mg/kg/day elemental iron until 12 months old</entry>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">World Health Organization</entry>
+<entry valign="top" align="left">6–23 months old if diet does not include iron-fortified foods, or if living in a region where anemia prevalence is greater than 40%.</entry>
+<entry valign="top" align="left">2 mg/kg/day elemental iron until 24 months old</entry>
+<entry valign="top" align="left"/>
+</row>
+</tbody>
+</tgroup>
+<caption>Recommendations for Iron Supplementation in Infants</caption>
+</table>
+<para id="para-00024">Individuals living at high altitudes (greater than 1,500 m) are at increased risk for anemia secondary to increased <term class="no-emphasis" id="term-00060">erythropoiesis</term>. This is a compensatory response to a lower <term class="no-emphasis" id="term-00061">oxygen saturation</term> of the blood, so health care professionals must interpret hemoglobin carefully by using altitude-adjusted algorithms (Mairbäurl et al., 2023). Children living at high altitudes may need a greater intake of iron and micronutrients to avoid growth and development delays (Sharma et al., 2019).</para>
+</section>
+<section id="sect-00006">
+<title>Bleeding Risks</title>
+<para id="para-00025">Vitamin K is an essential fat-soluble vitamin required for adequate blood clotting. Infants have minimal vitamin K stored at birth because only small amounts pass through the placenta. Vitamin K comes from one of two sources: diet or synthesis by <term id="term-00062">anaerobic</term> bacteria located in the stomach (Yan et al., 2022). A newborn with a healthy gut will not have bacteria-producing vitamin K until approximately 1 week of life. In addition, breast milk contains low quantities of vitamin K. All infants are therefore at high risk for <term id="term-00063">vitamin K deficiency bleeding (VKDB)</term> until they start eating solid foods, which usually occurs at age 4–6 months (Araki &amp; Shirahata, 2020).</para>
+<para id="para-00026">To prevent VKDB, the American Academy of Pediatrics (2022) recommends <term class="no-emphasis" id="term-00064">intramuscular (IM) vitamin K prophylaxis</term> as follows:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00007">
+<item>Infant birth weight greater than 1500 g: 1 mg vitamin K IM within 6 hours of birth</item>
+<item>Infant birth weight less than 1500 g: 0.3–0.5 mg/kg IM within 6 hours of birth</item>
+</list>
+<para id="para-00027">This risk for VKDB is increased for the following infants:</para>
+<list list-type="bulleted" id="list-00008">
+<item>Premature infants</item>
+<item>Infants who did not receive vitamin K replacement shortly after birth</item>
+<item>Infants born to mothers with malabsorption or use of antiseizure drugs, antibiotics, <term class="no-emphasis" id="term-00065">warfarin</term>, or antitubercular medications</item>
+<item>Infants with malabsorption, <term id="term-00066">cholestasis</term>, or liver disease</item>
+</list>
+<para id="para-00028">[link]Table 10.3[/link] outlines the three types of VKDB according to the time of presentation. Early and classic VKDB are more common, occurring in 1 in 60 to 1 in 250 newborns ([link]Table 10.3[/link]). Late VKDB is rarer, occurring in 1 in 14,000 to 1 in 25,000 infants. Infants who do not receive a <term class="no-emphasis" id="term-00067">vitamin K injection</term> at birth are 81 times more likely to develop late VKDB than infants who do receive it (Hand et al., 2022).</para>
+<table class="vertically-tight alternate-shading" id="table-00003">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Type</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Timing</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Associated Factors</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Early</entry>
+<entry valign="top" align="left">Within 24 hours after birth</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Maternal malabsorption or maternal use of specific medications</item>
+<item>A spectrum of symptoms from simple bruising to life-threatening cranial hemorrhage</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Classic</entry>
+<entry valign="top" align="left">Within 1 week after birth</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>No prophylaxis was received or poorly feeding, exclusively breastfed</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Late</entry>
+<entry valign="top" align="left">Between 2 weeks and 6 months after birth</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00011"><item>Peaks 2–8 weeks after birth</item>
+<item>No prophylaxis was received and infant exclusively breastfed</item>
+<item>Infant malabsorption or cholestasis</item>
+<item>Most life-threatening: cranial hemorrhage in 30–60%</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Types of Vitamin K Deficiency Bleeding (source: Araki &amp; Shirahata, 2020; CDC, 2023b)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00007">
+<title>Childhood</title>
+<para id="para-00029">A variety of nutritional inadequacies exist among school-aged children (aged 5–12 years), ranging from overeating (caloric excess) to undereating, often due to food insecurity. Children who overeat or undereat are at risk for hematologic consequences from nutritional deficiencies. Iron deficiency is the most common micronutrient deficiency in school-aged children, although this age group has the lowest prevalence overall among all children. Anemia in school-aged children is highest among non-Hispanic Black children, and <term class="no-emphasis" id="term-00068">iron deficiency</term> is explicitly highest among Mexican American children. The etiology of deficiency is mostly diet related, apart from children with malabsorption conditions (Jefferds et al., 2022).</para>
+<para id="para-00030">Iron plays an essential role in <term class="no-emphasis" id="term-00069">brain metabolism</term> and <term class="no-emphasis" id="term-00070">neurotransmitter function</term>, and deficiencies can lead to cognitive dysfunction (Pivina et al., 2019). School-aged children are undergoing steady linear growth and a high amount of <term class="no-emphasis" id="term-00071">cognitive processing</term>. Iron deficiency with or without anemia can cause decreased school performance due to poor attention span, poor memory, and visual and auditory deficits, compromising “socioemotional development” (Rodríguez-Mañas et al., 2023). Children participating in extracurricular activities may have low energy, negatively impacting their physical performance. Signs and symptoms related to IDA often have a gradual onset in school-aged children and may not be easily detected. Research has shown a positive link between children with <term class="no-emphasis" id="term-00072">attention-deficit hyperactivity disorder (ADHD)</term> and IDA. Therefore, children over 4 years of age demonstrating poor attention or impulsivity should be evaluated for ID (Mattiello et al., 2020). If it is detected, treatment and dietary changes are recommended to ensure intake of 3–6 mg/kg/day of elemental iron for 2–3 months.</para>
+<section id="sect-00008">
+<title>Vitamin D Deficiency</title>
+<para id="para-00031">Fat-soluble vitamin D is essential for calcium absorption, which takes place in the gastrointestinal tract. It is necessary for optimal bone growth; in addition, vitamin D modulates adaptive immunity, and deficiency is associated with an increased risk of infection (Giannini et al., 2022). The fortification of milk with vitamin D significantly decreased the prevalence of rickets, a softening and weakening of bones that can result in bone deformities. However, with fewer children playing outside and an increase in the use of sunscreen, <term class="no-emphasis" id="term-00073">vitamin D deficiency</term> is once again a public health problem, affecting 15% of children aged 1–11 years (Porto &amp; Abu-Alreesh, 2022). Children at increased risk for vitamin D deficiency include those with the following:</para>
+<list list-type="bulleted" id="list-00012">
+<item>Decreased dietary intake of vitamin D</item>
+<item>Dark skin</item>
+<item>Excess weight</item>
+<item>Decreased sun exposure</item>
+<item>Malabsorption diseases, including <term class="no-emphasis" id="term-00074">celiac disease</term>, <term class="no-emphasis" id="term-00075">cystic fibrosis</term>, <term class="no-emphasis" id="term-00076">pancreatic insufficiency</term>, and <term class="no-emphasis" id="term-00077">short bowel syndrome</term></item>
+</list>
+<para id="para-00032">The AAP recommends that all infants younger than 12 months old receive 400 units of supplemental vitamin D daily and that children older than 12 months old receive 600 units daily (Porto &amp; Abu-Alreesh, 2022). Children with risks for deficiency or known deficiency will need higher doses.</para>
+</section>
+<section id="sect-00009">
+<title>Zinc Deficiency</title>
+<para id="para-00033">Zinc is a mineral that is essential for growth in children. Deficiencies can impact hematopoiesis, resulting in poor immunity and poor wound healing. Zinc deficiency affects approximately 31% of toddlers 1–3 years old in the United States and up to 80% globally, usually due to poor diet or situations of food insecurity (Vreugdenhil et al., 2021). Zinc is naturally found in meats, poultry, fish, dairy, eggs, and dry legumes, and in the United States, grains and infant cereals are fortified with zinc. Strict vegetarians are at high risk for <term class="no-emphasis" id="term-00078">zinc deficiency</term> because the body does not readily absorb the zinc found in fruits, vegetables, and bread.</para>
+</section>
+</section>
+<section id="sect-00010">
+<title>Adolescence</title>
+<para id="para-00034">Adolescence is the second time in childhood when rapid growth and development occur. Physically, socially, and psychologically, the energy and micronutrient demands are high. However, parental influence on food choices diminishes during this time, often leading to nutritional deficiencies, most commonly iron.</para>
+<para id="para-00035">Adolescence is a time of increased iron needs because of the expansion of blood volume and increase in muscle mass. There are sex differences in ID without anemia in adolescents: 9–20% in females but less than 1% in males. The prevalence of IDA in adolescent females who are not menstruating is 3% (Mattiello et al., 2020). Young women are at particular risk for developing iron deficiency because of <term class="no-emphasis" id="term-00079">menstruation</term>. Approximately 7% of menstruating adolescents have IDA, and those who experience <term id="term-00080">menorrhagia</term> (heavy menstrual bleeding) are at increased risk (Eiduson et al., 2021; Mattiello et.al., 2020). It is difficult to quantify heavy menstrual bleeding outside of clinical trials; however, excessive menstrual blood loss that affects quality of life requires further evaluation and treatment (Mansour et al., 2021). Counting how often sanitary pads or tampons are changed can aid in estimating the amount of blood loss; for example, changing sanitary pads or tampons every 1–2 hours is consistent with heavy menstrual bleeding (Fulton, 2022). Common signs and symptoms of ID and IDA in adolescents include the following:</para>
+<list list-type="bulleted" id="list-00013">
+<item>Decreased <term class="no-emphasis" id="term-00081">psychomotor skills</term></item>
+<item>Poor <term class="no-emphasis" id="term-00082">concentration</term></item>
+<item>Decreased academic performance</item>
+<item><term class="no-emphasis" id="term-00083">Shortness of breath</term></item>
+<item>Rapid <term class="no-emphasis" id="term-00084">heart rate</term></item>
+<item><term class="no-emphasis" id="term-00085">Headaches</term></item>
+<item><term class="no-emphasis" id="term-00086">Dizziness</term> and <term class="no-emphasis" id="term-00087">fainting</term></item>
+<item><term class="no-emphasis" id="term-00088">Restless leg syndrome</term></item>
+<item><term class="no-emphasis" id="term-00089">Irritability</term></item>
+<item>Mild <term class="no-emphasis" id="term-00090">weakness</term></item>
+<item>Fatigue and the need to nap more frequently</item>
+</list>
+<para id="para-00036"><term class="no-emphasis" id="term-00091">Oral iron replacement</term> is recommended as the first step for treating ID and IDA in adolescents, at a dosage of 3–6 mg/kg of elemental iron daily for 2–3 months (Miniero et al., 2019). Adolescents will also need counseling regarding dietary modifications and ways to manage potential adverse effects of iron replacement. Long-term dietary changes will be necessary for female adolescents with ID or IDA associated with menstruation. For therapy to be successful, dietary modifications should reflect individual preferences. Vegetarian options may include legumes, beans, tofu, rolled oats, and quinoa.</para>
+<note class="unfolding-casestudy" id="note-00004">
+<title>Part A</title>
+<para id="para-00037">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
+<para id="para-00038">The nurse prepares to assess Catalina for more details about her past medical history and current health concerns. Catalina reports that prior to the past few months, she had felt great and had managed her grades and social life well. She does not take any medications regularly, including daily vitamins. Her mother confirms that she has no significant past medical issues, which makes her current symptoms more concerning. Catalina never complains and has always prioritized her grades. Catalina and her mother confirm that nothing has changed in their social circumstances, and Catalina denies symptoms of depression.</para>
+<para id="para-00039">The nurse is aware that adolescent girls are at risk for anemia and ID once menstruation begins and therefore takes a detailed menstrual bleeding history. Catalina reports that she has had regular menstrual cycles lasting 5–7 days since age 13 years but has noticed an increase in the heaviness of her flow this school year. She further says that her use of sanitary pads has increased, and she must change her pad every 1–2 hours during the day and night. The nurse recognizes this as a sign of heavy menstrual bleeding and notifies the health care provider of her concern that Catalina may be anemic and iron deficient.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00040"><link class="os-embed" url="#exercise/NUT_Ch10_Sec01_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00041"><link class="os-embed" url="#exercise/NUT_Ch10_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
+<section id="sect-00011">
+<title>The Adolescent Athlete</title>
+<para id="para-00042">Adolescent <term class="no-emphasis" id="term-00092">athletes</term> face unique challenges related to nutritional needs. They are already at risk for nutritional deficiencies because of rapid growth, unhealthy food choices, and high-risk behaviors. Adolescent athletes have a high nutritional demand due to the daily energy expenditure associated with training and having less time to make healthy food choices. Additionally, many athletes strive for a lean body composition for a competitive edge, setting them up for disordered eating patterns that can have lifelong effects on their overall health (Kontele &amp; Vassilakou, 2021). Adolescent athletes who limit their intake of meat products are at even higher risk for iron imbalance. Because of increased iron needs combined with potentially low iron intake and increased blood loss from menstruation, ID and IDA are common problems among adolescent female athletes and can affect their physical endurance and cognitive performance. In males, ID is often associated with higher physiologic needs from excessive training rather than from diet alone (Desbrow, 2021).</para>
+<para id="para-00043">Iron deficiency can manifest as extreme fatigue, increased susceptibility to infection, impaired skeletal muscle function, and poor decision-making (Berg, 2019). Assessment for ID and IDA should be considered for both male and female athletes demonstrating these symptoms. Athletes at the highest risk for iron deficiency include those who are female; are underweight or undernourished; are vegetarian or consume limited amounts of iron-rich foods; have underlying malabsorption conditions; or compete in endurance sports.</para>
+</section>
+</section>
+<section id="sect-00012">
+<title>Adulthood</title>
+<para id="para-00044">As in other age groups, ID and IDA remain the highest cause of <term class="no-emphasis" id="term-00093">anemia</term> in young and middle adults, although other nutrient deficiencies such as folate and vitamin B<sub>12</sub> contribute (NIH, 2023). Micronutrient needs affecting the hematologic well-being of adults 19–50 years of age differ slightly according to sex. Men require more zinc and vitamins C, K, and B complex. Menstruating women require more iron than men of similar age. Females are twice as likely as males to have nutritional anemia, and moderate to severe anemia is five times more common in nonpregnant females than in males. Race differences are prevalent, with the highest incidence in non-Hispanic Black adults, followed by Hispanic and White individuals (Malek et.al, 2019; Physicians Committee for Responsible Medicine, 2020a; Rodríguez-Mañas et al., 2023).</para>
+<para id="para-00045">Modern health care relies on healthy adults to maintain the blood supply. However, 25–35% of frequent blood donors will develop ID, which may not be detected if it is present without anemia (NIH, 2023). This raises concern for the frequent blood donor’s health and the quality of blood they donate (Hod et al., 2022).</para>
+<para id="para-00046">Folic acid, vitamin B<sub>12</sub>, and vitamin K deficiencies in adults can also be secondary to chronic liver disease and excessive alcohol intake. Middle adults in the United States consume less than the recommended daily requirements for most essential micronutrients, leading to deficiencies that increase the risk for certain chronic conditions. Chronic diseases are now increasingly common among young adults, often because of poor nutrition, lack of physical activity, and smoking (Rodríguez-Mañas et al., 2023). Sixty percent of adults with chronic <term class="no-emphasis" id="term-00094">heart failure</term> have ID, and 17% of those have IDA. The etiology of this is multifactorial and may be related to the following:</para>
+<list list-type="bulleted" id="list-00014">
+<item>Poor nutrition</item>
+<item>Malabsorption</item>
+<item>Defective mobilization of iron stores</item>
+<item><term id="term-00095">Cardiac cachexia</term> (unintentional severe weight loss caused by heart failure)</item>
+<item>Use of <term class="no-emphasis" id="term-00096">aspirin</term> or other <term class="no-emphasis" id="term-00097">anticoagulant medications</term> that can lead to microscopic blood loss in the gastrointestinal tract</item>
+</list>
+<para id="para-00047">The economic burden on adults with IDA includes reduced physical productivity and work capacity due to associated symptoms such as fatigue, weakness, and shortness of breath (Jefferds et al., 2022).</para>
+</section>
+<section id="sect-00013">
+<title>Later Adulthood</title>
+<para id="para-00048">Aging naturally impacts physical changes, even in the healthiest adults, but healthy <term class="no-emphasis" id="term-00098">aging</term> depends on proper nutrition (Kaur et al., 2019). Although energy needs decrease with age, specific micronutrient needs increase. As they age, adults become susceptible to nutrient-deficient <term class="no-emphasis" id="term-00099">blood abnormalities</term> secondary to a decreased production of hormones and red blood cells, as well as decreased appetite and food intake related to delayed <term class="no-emphasis" id="term-00100">gastric emptying</term> and declining <term class="no-emphasis" id="term-00101">oral health</term>. Some older adults have difficulty getting adequate nutrition because of age- or disease-related impairments in chewing, swallowing, digestion, and nutrient absorption. Malnutrition in this phase of life can result in lower physical function, poor quality of life, a greater risk for loss of muscle mass, and a shorter lifespan (Kaur et al., 2019; Rodríguez-Mañas et al., 2023).</para>
+<para id="para-00049"><term class="no-emphasis" id="term-00102">Zinc deficiency</term> occurs in approximately 60% of adults older than 70 years, leading to an increased risk for infection. Decreased dietary zinc intake and the physiologic decline in gastrointestinal absorption are the most likely reasons for this deficiency (Kaur et al., 2019).</para>
+<section id="sect-00014">
+<title>Iron Deficiency</title>
+<para id="para-00050">Older adults have the greatest incidence of nutritional anemia overall, with those aged 80–85 years having the highest. This is the only age group in which males have a greater incidence of anemia than females—as much as two times more. Older adults with anemia have increased hospitalization rates and mortality. Approximately 25–30% of older adults with <term class="no-emphasis" id="term-00103">congestive heart failure</term> have anemia, worsening functional capacity, and are at increased risk of death (Ambrosy et al., 2019). With advancing age, iron stores diminish. This, along with decreased dietary intake of iron-rich foods and increased incidence of gastrointestinal malabsorption and occult blood loss, contributes to ID and IDA in older adults (Burton et al., 2020; Kaur et al., 2019). The prevalence of IDA in older adults is detailed in [link]Table 10.4[/link].</para>
+<table class="vertically-tight alternate-shading" id="table-00004">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Age</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Male</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Female</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">65–75 years</entry>
+<entry valign="top" align="left">11%</entry>
+<entry valign="top" align="left">10.2%</entry>
+</row>
+<row>
+<entry valign="top" align="left">76–85 years</entry>
+<entry valign="top" align="left">15%</entry>
+<entry valign="top" align="left">7–12%</entry>
+</row>
+<row>
+<entry valign="top" align="left">Older than 85 years</entry>
+<entry valign="top" align="left">30%</entry>
+<entry valign="top" align="left">17%</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Prevalence of Iron Deficiency Anemia in Older Adults (Kaur et al., 2019)</caption>
+</table>
+<para id="para-00051">Signs and symptoms of IDA in older adults may include the following:</para>
+<list list-type="bulleted" id="list-00015">
+<item><term class="no-emphasis" id="term-00104">Depression</term></item>
+<item><term class="no-emphasis" id="term-00105">Fatigue</term></item>
+<item>Loss of <term class="no-emphasis" id="term-00106">muscle strength</term></item>
+<item>Decreased <term class="no-emphasis" id="term-00107">cognitive function</term>.</item>
+</list>
+<para id="para-00052">Iron-rich foods such as fortified grains and cereals and oral replacement are the first step once a deficiency is confirmed; however, <term class="no-emphasis" id="term-00108">parenteral iron replacement</term> may be required due to the frequency of gastrointestinal malabsorption in this population (Burton et al., 2020).</para>
+</section>
+<section id="sect-00015">
+<title>Folate and Vitamin B Deficiencies</title>
+<para id="para-00053">Vitamin B<sub>12</sub> and <term class="no-emphasis" id="term-00109">folate deficiencies</term> among older adults remain a significant challenge. Approximately 10–30% of older adults are affected by atrophic gastritis, which can interfere with the <term class="no-emphasis" id="term-00110">absorption</term> of <term class="no-emphasis" id="term-00111">vitamin B<sub>12</sub></term> and folate (NIH, 2022). Additionally, the metabolic processes of each micronutrient are interconnected, so it is difficult to distinguish the source of physical manifestations (Socha et al., 2020). Signs and symptoms include the following:</para>
+<list list-type="bulleted" id="list-00016">
+<item>Risk for cardiovascular disease</item>
+<item>Cognitive impairment</item>
+<item>Insomnia</item>
+<item>Impaired mood</item>
+<item>Decreased decision-making ability</item>
+<item>Decreased physical performance, leading to increased risk for falls and fractures</item>
+</list>
+<para id="para-00054">Folate deficiency is more likely to be related to decreased <term class="no-emphasis" id="term-00112">absorption</term> and reduced dietary intake, whereas vitamin B<sub>12</sub> deficiency is more often associated with diseases of <term class="no-emphasis" id="term-00113">malabsorption</term> and <term class="no-emphasis" id="term-00114">polypharmacy</term>. Mild vitamin B<sub>12</sub> deficiency occurs in 20% of adults older than 60, and severe deficiency occurs in 6% of adults older than 70 (<emphasis effect="italics">Office of Dietary Supplements - Vitamin B12</emphasis>, 2022). Nonhematologic symptoms range from vague and nonspecific to severe neurologic and neuropsychiatric disorders (Stauder et al., 2018). Folate deficiency is reported to occur in 5–20% of older adults and is more common in those who smoke, consume excessive amounts of alcohol, are obese, or live alone (Rotstein et al., 2022). Vitamin B<sub>12</sub> deficiency anemia is more likely to be associated with neurologic symptoms not seen in individuals with folate deficiency anemia (Stauder et al., 2018). Anemia associated with both of these deficiencies can be distinguished from IDA based on the size of red blood cells; iron deficiency anemia is microcytic, whereas folate and vitamin B<sub>12</sub> deficiencies are macrocytic. Treatment is focused on nutrient replacement and diet modification.</para>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>anaerobic</term> <meaning>relating to the absence of oxygen</meaning></definition>
+<definition id="def-00002"><term>cardiac cachexia</term> <meaning>unintentional severe weight loss caused by heart failure</meaning></definition>
+<definition id="def-00003"><term>cholestasis</term> <meaning>the slowing or halt of bile flow from the liver</meaning></definition>
+<definition id="def-00004"><term>erythropoiesis</term> <meaning>the production of red blood cells</meaning></definition>
+<definition id="def-00005"><term>hematopoiesis</term> <meaning>the formation of blood cellular components</meaning></definition>
+<definition id="def-00006"><term>hemostasis</term> <meaning>the usual reaction to a bleeding injury to stop the blood flow</meaning></definition>
+<definition id="def-00007"><term>menorrhagia</term> <meaning>heavy menstrual bleeding lasting more than 7 days</meaning></definition>
+<definition id="def-00008"><term>National Health and Nutrition Examination Survey (NHANES)</term> <meaning>a health-related program conducted by the Centers for Disease Control and Prevention’s National Center for Health Statistics designed to assess the health and nutritional status of adults and children in the United States</meaning></definition>
+<definition id="def-00009"><term>passive immunity</term> <meaning>a type of immunity conferred when a person is given antibodies rather than making them via their own immune system</meaning></definition>
+<definition id="def-00010"><term>primary health promotion</term> <meaning>an intervention to prevent disease or injury before it occurs</meaning></definition>
+<definition id="def-00011"><term>secondary health promotion</term> <meaning>an intervention that emphasizes early disease detection through screening</meaning></definition>
+<definition id="def-00012"><term>vitamin K deficiency bleeding (VKDB)</term> <meaning>uncontrolled bleeding due to lack of sufficient vitamin K to form a blood clot</meaning></definition>
+</glossary>
 </document>
