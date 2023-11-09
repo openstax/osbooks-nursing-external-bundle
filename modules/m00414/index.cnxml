@@ -74,11 +74,11 @@
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00003"><emphasis effect="bold"><emphasis effect="italics">Rapid-acting insulin</emphasis></emphasis></term><newline/>
   <term class="no-emphasis" id="term-00027">Insulin aspart</term><newline/>
-  (Novolog)<newline/>
-  <term class="no-emphasis" id="term-00028">Insulin glulisine</term><newline/>
-  (Apidra)<newline/>
-  <term class="no-emphasis" id="term-00029">Insulin lispro</term><newline/>
-  (Humalog)</entry>
+  (<term class="no-emphasis" id="term-00028">Novolog</term>)<newline/>
+  <term class="no-emphasis" id="term-00029">Insulin glulisine</term><newline/>
+  (<term class="no-emphasis" id="term-00030">Apidra</term>)<newline/>
+  <term class="no-emphasis" id="term-00031">Insulin lispro</term><newline/>
+  (<term class="no-emphasis" id="term-00032">Humalog</term>)</entry>
   <entry valign="top" align="center">15–30 minutes</entry>
   <entry valign="top" align="center">1–2 hours</entry>
   <entry valign="top" align="center">2–4 hours</entry>
@@ -86,8 +86,8 @@
   </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00004"><emphasis effect="bold"><emphasis effect="italics">Short-acting insulin</emphasis></emphasis></term><newline/>
-  <term class="no-emphasis" id="term-00030">Human regular insulin</term><newline/>
-  (Humulin R, Novolin R)</entry>
+  <term class="no-emphasis" id="term-00033">Human regular insulin</term><newline/>
+  (<term class="no-emphasis" id="term-00034">Humulin R, Novolin R</term>)</entry>
   <entry valign="top" align="center">30 minutes–1 hour</entry>
   <entry valign="top" align="center">2–3 hours</entry>
   <entry valign="top" align="center">3–6 hours</entry>
@@ -95,8 +95,8 @@
   </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00005"><emphasis effect="bold"><emphasis effect="italics">Intermediate-acting insulin</emphasis></emphasis></term><newline/>
-  <term class="no-emphasis" id="term-00031">Insulin isophane NPH</term><newline/>
-  (Humulin N, Novolin N)</entry>
+  <term class="no-emphasis" id="term-00035">Insulin isophane NPH</term><newline/>
+  (<term class="no-emphasis" id="term-00036">Humulin N, Novolin N</term>)</entry>
   <entry valign="top" align="center">2–4 hours</entry>
   <entry valign="top" align="center">4–12 hours</entry>
   <entry valign="top" align="center">12–18 hours</entry>
@@ -104,12 +104,12 @@
   </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00006"><emphasis effect="bold"><emphasis effect="italics">Long-acting insulin</emphasis></emphasis></term><newline/>
-  <term class="no-emphasis" id="term-00032">Insulin degludec</term><newline/>
-  (Tresiba)<newline/>
-  <term class="no-emphasis" id="term-00033">Insulin detemir</term><newline/>
-  (Levemir)<newline/>
-  <term class="no-emphasis" id="term-00034">Insulin glargine</term><newline/>
-  (Lantus)</entry>
+  <term class="no-emphasis" id="term-00037">Insulin degludec</term><newline/>
+  (<term class="no-emphasis" id="term-00038">Tresiba</term>)<newline/>
+  <term class="no-emphasis" id="term-00039">Insulin detemir</term><newline/>
+  (<term class="no-emphasis" id="term-00040">Levemir</term>)<newline/>
+  <term class="no-emphasis" id="term-00041">Insulin glargine</term><newline/>
+  (<term class="no-emphasis" id="term-00042">Lantus</term>)</entry>
   <entry valign="top" align="center">1–2 hours</entry>
   <entry valign="top" align="center">Does not peak</entry>
   <entry valign="top" align="center">Up to 24 hours</entry>
@@ -254,8 +254,8 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <tbody>
   <row>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Drug</span></span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text"><span class="blue-text">Routes and Dosage Ranges</span></span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Pramlintide</term><newline/>(Symlin)</entry>
