@@ -39,15 +39,18 @@
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Diphenhydramine</term> (<term class="no-emphasis" id="term-00008">Benadryl</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Diphenhydramine</term><newline/>
+(<term class="no-emphasis" id="term-00008">Benadryl</term>)</entry>
 <entry valign="top" align="left">25–50 mg orally every 4–6 hours; not more than 12 capsules in 24 hours.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Chlorpheniramine</term> (<term class="no-emphasis" id="term-00010">Chlor-Trimeton</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Chlorpheniramine</term><newline/>
+(<term class="no-emphasis" id="term-00010">Chlor-Trimeton</term>)</entry>
 <entry valign="top" align="left">4 mg orally every 4–6 hours, not to exceed 6 tablets in 24 hours.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00011">Brompheniramine</term> (<term class="no-emphasis" id="term-00012">Dimetapp</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00011">Brompheniramine</term><newline/>
+(<term class="no-emphasis" id="term-00012">Dimetapp</term>)</entry>
 <entry valign="top" align="left">20 mL orally every 4 hours not to exceed 6 doses in 24 hours; measure only with dosage cup provided.</entry>
 </row>
 </tbody>
@@ -137,15 +140,18 @@ Prostatic hyperplasia</entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00017">Cetirizine</term> (<term class="no-emphasis" id="term-00018">Zyrtec</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00017">Cetirizine</term><newline/>
+(<term class="no-emphasis" id="term-00018">Zyrtec</term>)</entry>
 <entry valign="top" align="left">One 10 mg tablet orally once daily. Do not take more than one 10 mg tablet per day. A 5 mg product may be used for less severe symptoms and for older clients.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00019">Levocetirizine</term> (<term class="no-emphasis" id="term-00020">Xyzal</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00019">Levocetirizine</term><newline/>
+(<term class="no-emphasis" id="term-00020">Xyzal</term>)</entry>
 <entry valign="top" align="left">One 5 mg tablet orally once daily in the evening. Do not take more than one 5 mg tablet in 24 hours. One-half of a tablet (2.5 mg) once daily may be appropriate for less severe symptoms.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Loratadine</term>(<term class="no-emphasis" id="term-00022">Claritin</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Loratadine</term><newline/>
+(<term class="no-emphasis" id="term-00022">Claritin</term>)</entry>
 <entry valign="top" align="left">One 10 mg tablet orally daily, not to exceed more than one tablet in a 24-hour period. Also available in chewable and dissolving tablets and oral solution.</entry>
 </row>
 </tbody>
@@ -164,7 +170,7 @@ Prostatic hyperplasia</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis><newline count="1"/>
 Antihistamine, second generation<newline count="1"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Blocks effects of histamine at H1 receptor sites</entry>
@@ -196,8 +202,8 @@ Nervousness<newline/>
 Dry mouth</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
 Hypersensitivity<newline count="1"/>
-Caution:<newline count="1"/>
-<newline count="1"/>Hepatic or renal impairment</entry>
+Caution:<newline count="2"/>
+Hepatic or renal impairment</entry>
 </row>
 </tbody>
 </tgroup>
@@ -343,7 +349,7 @@ Causes vasoconstriction of the nasal mucosa to alleviate nasal congestion</entry
 Nasal congestion caused by common colds, allergies, and other respiratory conditions<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
 Reduces nasal congestion</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Drug Interactions</emphasis><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
 Albuterol<newline/>
 Bupropion<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
@@ -381,7 +387,7 @@ Hypersensitivity</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00035">Pseudoephedrine</term><newline/>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00035">Pseudoephedrine</term><newline/>
 (<term class="no-emphasis" id="term-00036">Sudafed</term>)</entry>
 <entry valign="top" align="left">One 120 mg tablet orally every 12 hours; do not take more than 2 tablets in 24 hours. <newline/>
 One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline/>
@@ -440,7 +446,7 @@ Nervousness<newline/>
 Dizziness<newline/>
 Insomnia</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
-Hypersensitivity<newline count="1"/>
+Hypersensitivity<newline count="2"/>
 Caution: <newline count="1"/>
 Heart disease<newline/>
 High blood pressure<newline/>
@@ -465,7 +471,7 @@ Diabetes</entry>
 <title><emphasis effect="bold">Decongestant Education</emphasis></title>
 <para id="para-00044">When educating clients on the use of decongestants, the nurse should tell them to call their health care provider if their symptoms last for more than 1 week, worsen, or are accompanied by other symptoms such as a headache that will not go away, a fever, or a rash. These may indicate a more serious medical condition.</para>
 </note>
-<note class="Special Considerations" id="note-00008">
+<note class="special-considerations" id="note-00008">
 <title><emphasis effect="bold">Decongestants</emphasis></title>
 <para id="para-00045">Decongestants and nasal drops should be used per the label instructions and not more, to avoid rebound congestion.</para>
 <para id="para-00046">Decongestants are not safe for <term class="no-emphasis" id="term-00040">children</term> under age 6.</para>
