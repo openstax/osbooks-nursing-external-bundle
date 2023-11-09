@@ -32,27 +32,27 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Opioid antitussive<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Opioid antitussive<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Acts on the cough center in the medulla to suppress the cough reflex</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 30 mg orally every 4–6 hours as needed.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Nonproductive cough, especially chronic cough<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Reduces coughing episodes</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Other CNS depressants<newline/>
 Benzodiazepines<newline/>
 Bupropion<newline/>
 Macrolide antibiotics<newline/>
 Muscle relaxers<newline/>
 Serotonergic drugs<newline/>
-St. John’s wort<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+St. John’s wort<newline/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Alcohol</entry>
 </row>
 <row>
@@ -63,9 +63,9 @@ Confusion<newline/>
 Hypotension<newline/>
 Constipation<newline/>
 Respiratory depression</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline count="2"/>
-Caution: <newline count="1"/>
+Caution: <newline/>
 Angle-closure glaucoma<newline/>
 Stenosing peptic ulcer<newline/>
 Prostatic hyperplasia</entry>
@@ -124,21 +124,21 @@ Prostatic hyperplasia</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Nonopioid antitussive<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Nonopioid antitussive<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Main action is not well known, but thought to act on the site in the brainstem that acts as the gate for the cough reflex</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 10–20 mg orally every 4 hours or 30 mg orally every 6–8 hours. Maximum dose: 120 mg/day.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Nonproductive coughs<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Temporarily relieves cough caused by throat and bronchial irritation due to colds or allergies</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 MAOIs<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Grapefruit juice</entry>
 </row>
 <row>
@@ -148,10 +148,10 @@ Dizziness<newline/>
 Confusion<newline/>
 Nausea<newline/>
 Vomiting</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline/>
 Children under age 4<newline count="2"/>
-Caution: <newline count="1"/>
+Caution: <newline/>
 Clients who are sedated or must remain in a supine position (these clients may have an inability to clear their airway appropriately)</entry>
 </row>
 </tbody>

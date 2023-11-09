@@ -69,8 +69,8 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Antihistamine<newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Antihistamine<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Antagonizes histamine H1 receptor sites, thereby hindering the actions triggered by histamine</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
@@ -170,25 +170,25 @@ Prostatic hyperplasia</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Antihistamine, second generation<newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Antihistamine, second generation<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Blocks effects of histamine at H1 receptor sites</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
-One 10 mg tablet orally daily, not to exceed more than one tablet in a 24-hour period. <newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+One 10 mg tablet orally daily, not to exceed more than one tablet in a 24-hour period. <newline/>
 Also available in chewable and dissolving tablet and oral solution.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Allergic rhinitis<newline/>
 To relieve itching due to hives (urticaria)<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Relieves runny nose, sneezing, and itchy watery eyes caused by allergies<newline/>
 Relieves itching due to hives</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Ketoconazole<newline/>
 Macrolide antibiotics (may increase loratadine level)<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Alcohol</entry>
 </row>
 <row>
@@ -200,8 +200,8 @@ Fatigue<newline/>
 Insomnia<newline/>
 Nervousness<newline/>
 Dry mouth</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
-Hypersensitivity<newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity<newline/>
 Caution:<newline count="2"/>
 Hepatic or renal impairment</entry>
 </row>
@@ -251,32 +251,32 @@ Hepatic or renal impairment</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Antihistamine, third generation<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Antihistamine, third generation<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits peripheral H1 receptors</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
-<emphasis effect="italics">12-hour tablet:</emphasis> 60 mg orally with water every 12 hours; no more than 2 tablets in 24 hours.<newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">12-hour tablet:</emphasis> 60 mg orally with water every 12 hours; no more than 2 tablets in 24 hours.<newline/>
 <emphasis effect="italics">24-hour tablet:</emphasis> 180 mg orally with water once a day; no more than 1 tablet in 24 hours.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Seasonal allergies<newline/>
 Chronic idiopathic urticaria<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Relief of allergy symptoms such as runny nose and itchy, watery eyes<newline/>
 Relief of itching from chronic urticaria</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Aluminum or magnesium antacids <newline/>
 Erythromycin<newline/>
 Ketoconazole<newline/>
 Rifampin<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Fruit juices (may decrease drug effects)<newline/>
 Alcohol</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Adverse Effects</emphasis><newline/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
 Fatigue<newline/>
 Fever<newline/>
 Headache<newline/>
@@ -286,9 +286,9 @@ Otitis media<newline/>
 Rhinorrhea<newline/>
 Nausea<newline/>
 Abdominal pain</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline count="2"/>
-Caution: <newline count="1"/>
+Caution: <newline/>
 Impaired renal function</entry>
 </row>
 </tbody>
@@ -337,29 +337,29 @@ Impaired renal function</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Nasal decongestant<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Nasal decongestant<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Causes vasoconstriction of the nasal mucosa to alleviate nasal congestion</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 2–3 sprays in each nostril not more often than every 10–12 hours. Do not exceed 2 doses in any 12-hour period. Do not use for longer than 3 days to avoid rebound congestion.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Nasal congestion caused by common colds, allergies, and other respiratory conditions<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Reduces nasal congestion</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Albuterol<newline/>
 Bupropion<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Caffeine</entry>
 </row>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
 Temporary discomfort such as burning or stinging <newline/>
 Rebound congestion (if used for more than 3 days)</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity</entry>
 </row>
 </tbody>
@@ -416,27 +416,27 @@ One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 ho
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="1"/>
-Systemic nasal decongestant <newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Systemic nasal decongestant<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Acts directly on adrenergic receptors and produces vasoconstriction, which shrinks nasal mucosa</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 One 120 mg tablet orally every 12 hours; do not take more than 2 tablets in 24 hours. <newline/>
-One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline count="1"/>
+One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline/>
 <emphasis effect="italics">Immediate release:</emphasis> 30–60 mg orally every 4–6 hours; maximum dose: 240 mg/day.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Relief of nasal congestion caused by colds, flu, and allergies<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Relief of nasal congestion</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Metoprolol<newline/>
 Albuterol<newline/>
 Metformin<newline/>
 Guaifenesin<newline/>
 <term id="term-00039">Monoamine oxidase inhibitors (MAOIs)</term><newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Caffeine<newline/>
 Alcohol</entry>
 </row>
@@ -445,9 +445,9 @@ Alcohol</entry>
 Nervousness<newline/>
 Dizziness<newline/>
 Insomnia</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline count="2"/>
-Caution: <newline count="1"/>
+Caution: <newline/>
 Heart disease<newline/>
 High blood pressure<newline/>
 Diabetes</entry>

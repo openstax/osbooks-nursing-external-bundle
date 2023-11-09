@@ -32,24 +32,24 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline count="1"/>
-Expectorant<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Expectorant<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Increases production of respiratory tract fluids to liquefy mucus</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
-200–400 mg orally every 4 hours. <newline count="1"/>
-<emphasis effect="italics">Extended-release tablets:</emphasis> 600–1200 mg orally every 12 hours. <newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+200–400 mg orally every 4 hours. <newline/>
+<emphasis effect="italics">Extended-release tablets:</emphasis> 600–1200 mg orally every 12 hours. <newline/>
 Maximum dose: 2400 mg daily.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Productive coughs where there is a need to clear the airway of mucus<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Thinner mucus that is easy to cough up and expel</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Cimetidine<newline/>
 Naltrexone <newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
 </row>
 <row>
@@ -62,7 +62,7 @@ Urticaria</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline/>
 Children under age 12 (extended-release preparations)<newline count="2"/>
-Caution: <newline count="1"/>
+Caution: <newline/>
 Pregnancy</entry>
 </row>
 </tbody>
@@ -122,23 +122,23 @@ Pregnancy</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="1"/>
-Mucolytic<newline count="1"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Mucolytic<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Reduces viscosity of pulmonary secretions</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 <emphasis effect="italics">For removal of secretions in clients with cystic fibrosis, bronchitis, and other respiratory disorders:</emphasis> 1–2 mL of 10%–20% solution inhalant instilled into trachea as often as every hour. <newline/>
 <emphasis effect="italics">Prior to diagnostic studies:</emphasis> 2–3 administrations of 1–2 mL of 20% solution inhalant or 2–4 mL of 10% solution inhalant prior to procedure.<newline/>
 <emphasis effect="italics">Routine tracheostomy care:</emphasis> 1–2 mL of 10%–20% solution inhalant by direct instillation into tracheostomy every 1–4 hours.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 Adjunctive therapy for pneumonia, bronchitis, and cystic fibrosis<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Thins pulmonary secretions and allows for easier clearance</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
 Activated charcoal<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline count="1"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
 </row>
 <row>
@@ -150,11 +150,11 @@ Vomiting<newline/>
 Pharyngitis<newline/>
 Bronchospasm<newline/>
 Dyspnea</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="1"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline/>
 Peptic ulcer disease<newline count="2"/>
-Caution: <newline count="1"/>
-Older adults with debilitation or severe respiratory insufficiency <newline count="1"/>
+Caution: <newline/>
+Older adults with debilitation or severe respiratory insufficiency <newline/>
 Asthma (IV form)</entry>
 </row>
 </tbody>
