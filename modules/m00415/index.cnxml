@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Oral Diabetes Drugs</title>
+  <title>Oral Antidiabetic Drugs</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:title>Oral Diabetes Drugs</md:title>
+  <md:title>Oral Antidiabetic Drugs</md:title>
   <md:content-id>m00415</md:content-id>
   <md:uuid>fa3dff46-f2f3-44f8-b7d3-ddac12d342d0</md:uuid>
   </metadata>
@@ -136,11 +136,11 @@
   <tbody>
   <row>
  <entry valign="top" align="left" namest="c1" nameend="c3">Alaina Sanders was diagnosed with type 2 diabetes, and the health care provider prescribed extended-release glipizide 5 mg orally and lifestyle modifications. The client returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.<newline count="2"/>
-<emphasis effect="bold"><span class="blue-text">Laboratory Results</span></emphasis><newline/>
+<emphasis effect="bold">Laboratory Results</emphasis><newline/>
   Glycosylated hemoglobin<newline count="2"/>
-  <emphasis effect="bold"><span class="blue-text">6 Months Ago</span></emphasis><newline/>
+  <emphasis effect="bold">6 Months Ago</emphasis><newline/>
   7.8%<newline count="2"/>
-  <emphasis effect="bold"><span class="blue-text">Today</span></emphasis><newline/>
+  <emphasis effect="bold">Today</emphasis><newline/>
   6.9%</entry>
   </row>
   <row>
@@ -305,11 +305,11 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <tbody>
   <row>
-  <entry valign="top" align="left"><emphasis effect="bold">Drug Class</emphasis><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
   Non-sulfonylurea biguanide<newline count="2"/>
   <emphasis effect="bold">Mechanism of Action</emphasis><newline/>
   Decreases intestinal absorption of glucose and improves insulin sensitivity by increasing glucose uptake</entry>
-  <entry valign="top" align="left"><emphasis effect="bold">Drug Dosage</emphasis><newline count="2"/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline count="2"/>
   <emphasis effect="bold">Immediate Release</emphasis><newline/>
   <emphasis effect="italics">Adults:</emphasis> 500–1,000 mg orally once daily.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 2,000 mg daily.<newline/>
@@ -321,12 +321,12 @@
   <emphasis effect="italics">Adults and children: </emphasis>500 mg/5 mL daily up to a maximum dose of 2000 mg/day.</entry>
   </row>
   <row>
-  <entry valign="top" align="left"><emphasis effect="bold">Indications</emphasis><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
   To control hyperglycemia in those with type 2 diabetes<newline count="2"/>
   <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
   Decreases glucose production in the liver by reducing gluconeogenesis<newline/>
   Reduces glucose absorption from the intestines</entry>
-  <entry valign="top" align="left"><emphasis effect="bold">Drug Interactions</emphasis><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
   Alcohol<newline/>
   Dolutegravir<newline/>
   Ginseng<newline/>
@@ -338,7 +338,7 @@
   Guar gum</entry>
   </row>
   <row>
-  <entry valign="top" align="left"><emphasis effect="bold">Adverse Effects</emphasis><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
   Dizziness/weakness<newline/>
   Headache<newline/>
   Hypoglycemia<newline/>
@@ -348,7 +348,7 @@
   Abdominal pain<newline/>
   Weight loss<newline/>
   Vitamin B<sub>12</sub> deficiency</entry>
-  <entry valign="top" align="left"><emphasis effect="bold">Contraindications</emphasis><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
   Renal and hepatic impairment<newline/>
   Metabolic acidosis<newline/>
   Megaloblastic anemia<newline/>
@@ -369,8 +369,8 @@
   <item>Monitor blood glucose levels as ordered and as needed when symptoms of hypoglycemia/hyperglycemia are present.</item>
   <item>Provide client teaching regarding how the drug is administered and when to call the health care provider. See below for client teaching guidelines.</item>
   </list>
-  <note class="clinical-tip" id="note-00006">
-  <para id="para-00049"><emphasis effect="bold">The client taking an oral diabetes drug should:</emphasis></para>
+  <note class="client-teaching" id="note-00006">
+  <title>The client taking an oral diabetes drug should:</title>
   <list list-type="bulleted" id="list-00005">
   <item>Report symptoms of hypoglycemia such as headache, nervousness, sweating, clammy skin, tremor, and tachycardia.</item>
   <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, and sweet fruity breath odor, and ketones in urine.</item>
@@ -385,7 +385,7 @@
   </list>
   </note>
   </section>
-  <section id="sect-00029">
+  <section class="chapter-summary" id="sect-00029">
   <para id="para-00051">This chapter focused on managing diabetes with the use of drugs and insulin products. Type 1, type 2, and gestational diabetes were defined, along with the importance of recognizing the difference between hypoglycemia and hyperglycemia. Specific diagnostic tests for diabetes were described. Disease prevention was briefly discussed. </para>
   <para id="para-00052">Common diabetic drugs were covered in this chapter. Insulin was defined, and types of insulin were discussed. Insulin administration sites were also presented. Additional drug classifications covered included non-insulin injectable drugs, oral drugs, and drugs to treat hypoglycemic reactions. </para>
   </section>
@@ -402,8 +402,7 @@
   <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00061"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec3_RQ9"/></para></problem></exercise>
   <exercise id="exer-00012"><problem id="prob-00012"><para id="para-00062"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec3_RQ10"/></para></problem></exercise>
   </section>
-  <section id="sect-00031">
-  <title>References</title>
+  <section class="references" id="sect-00031">
   <para id="para-00063">Akmal, M., &amp; Wadhwa, R. (2022). <emphasis effect="italics">Alpha glucosidase inhibitors</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557848/</para>
   <para id="para-00064">Alvarez, S., Coffey, R., &amp; Algotar, A.M. (2023). <emphasis effect="italics">Prediabetes</emphasis>. StatPearls https://www.ncbi.nlm.nih.gov/books/NBK459332/ </para>
   <para id="para-00065">American Diabetes Association. (n.d.-a). <emphasis effect="italics">Diagnosis</emphasis>. https://diabetes.org/diabetes/a1c/diagnosis </para>
