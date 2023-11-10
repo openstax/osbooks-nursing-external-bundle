@@ -25,7 +25,7 @@
 <title>Impact on Health During Pregnancy</title>
 <para id="para-00005">Red blood cell production increases by 30% during <term class="no-emphasis" id="term-00006">pregnancy</term> to support blood volume expansion and fetal growth (Benson et al., 2022). Iron is preferentially used for <term id="term-00007">erythropoiesis</term>; therefore, iron deficits can quickly occur, resulting in maternal and fetal anemia.</para>
 <para id="para-00006">Anemia affects approximately 36% of pregnant women worldwide and approximately 12% of pregnant women in the United States. The most common causes of anemia in pregnancy are iron deficiency and acute <term class="no-emphasis" id="term-00008">blood loss</term> (Smith et al., 2019; WHO, n.d.-a). <link target-id="fig-00001" document="m00045"/> is an image of human blood from a case of iron deficiency. If iron needs are not met, there is an increased chance of maternal and fetal adverse outcomes. As the severity of anemia worsens, so do the associated risks, which can result in prolonged hospitalization for postpartum clients (Smith et al., 2019; Jefferds et al., 2022). Clients who have <term class="no-emphasis" id="term-00009">multiple births</term> are twice as likely as those who have single births to develop iron deficiency anemia (IDA) due to increased <term class="no-emphasis" id="term-00010">blood volume</term> expansion and utilization of <term class="no-emphasis" id="term-00011">iron stores</term>.</para>
-<figure class="scaled-down-30" id="fig-00001"><media alt="Anemic blood under the microscope. Most of the smaller red blood cells are pale, although there are a few that are darker. These red blood cells surround the larger white blood cells."><image mime-type="image/jpg" src="../../media/NUT_Figure_10_01_002.jpg"/></media>
+<figure id="fig-00001"><media alt="Anemic blood under the microscope. Most of the smaller red blood cells are pale, although there are a few that are darker. These red blood cells surround the larger white blood cells."><image mime-type="image/jpg" src="../../media/NUT_Figure_10_01_002.jpg"/></media>
 <caption>Human blood from a case of iron deficiency anemia. The red blood cells are pale and smaller than the larger white blood cells shown in the image. (credit: “This photomicrograph of a Prussian blue stained bone marrow sample, revealed that there was a lack of iron stores. Prussian blue staining for iron particles, which reveals little or no stainable iron in the bone marrow reticulum cells, and normoblasts, is the definitive test for iron deficiency, in the case of iron deficiency anemia (IDA)” by CDC/ Dr. Gordon D. McLaren, Public Domain)</caption></figure>
 <para id="para-00007">The third trimester of pregnancy is the highest risk period of <term class="no-emphasis" id="term-00012">gestation</term>. If the pregnant client has anemia (any type) during pregnancy, they will have a decreased tolerance of blood loss occurring during birth, increasing their risk for <term class="no-emphasis" id="term-00013">hypovolemic shock</term>, <term class="no-emphasis" id="term-00014">heart failure</term>, <term class="no-emphasis" id="term-00015">infection</term>, and the need for <term class="no-emphasis" id="term-00016">blood transfusion</term> (Sharma et al., 2021; Smith et al., 2019). See <link target-id="table-00001" document="m00045"/> for complications and risks associated with anemia in pregnancy.</para>
 <para id="para-00008">Race disparities in nutritional anemia exist both globally and within the United States. According to data from the <term id="term-00017">National Health and Nutrition Examination Survey (NHANES</term>, a program conducted by the National Center for Health Statistics to assess the health and nutritional status of adults and children in the United States, non-Hispanic Black pregnant women have the highest prevalence of IDA, particularly during the third trimester of pregnancy (Sharma et al., 2021).</para>
@@ -163,10 +163,10 @@
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Recommending Organization</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Infant Considerations</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Iron Dosing</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Iron-Fortified Foods</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Recommending Organization</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Infant Considerations</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Iron Dosing</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Iron-Fortified Foods</span></entry>
 </row>
 </thead>
 <tbody>
@@ -234,12 +234,12 @@
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Type</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Timing</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Associated Factors</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Type</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Timing</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Associated Factors</span></entry>
 </row>
 </thead>
 <tbody>
