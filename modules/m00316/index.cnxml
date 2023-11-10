@@ -6,8 +6,173 @@
     <md:uuid>77dcbd82-b6d9-4d3e-bd0a-be0653bbe49e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-    </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of the antiplatelet drugs used to treat thrombus formation.</item>
+<item>Explain the indications, actions, adverse reactions, contraindications, and interactions of antiplatelet drugs used to treat thrombus formation.</item>
+<item>Describe nursing implications of antiplatelet drugs used to treat thrombus formation.</item>
+<item>Explain the client education related to antiplatelet drugs used to treat thrombus formation.</item>
+</list>
+</section>
+<para id="para-00002">Antiplatelet drugs work by decreasing platelet activation and/or platelet adhesion. They are used for various indications including prevention and treatment of cardiovascular disease and prevention of ischemic stroke. One of the most common uses for antiplatelets is therapy after a client has an acute coronary syndrome and/or coronary artery stent placed.</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Antiplatelet Drugs</title>
+<para id="para-00003">There are many antiplatelet drugs available. They will be discussed as grouped by mechanism of action.</para>
+<section id="sect-00004">
+<title>Aspirin</title>
+<para id="para-00004">Aspirin is an over-the-counter antiplatelet agent used for many indications. Some of those indications are secondary prevention of stroke, coronary artery disease, acute coronary syndromes, primary prevention of cardiovascular disease, peripheral artery disease, and prevention of thromboembolism in clients with certain heart valves. It also has anti-inflammatory and analgesic properties, which allow it to be used for pain, inflammatory conditions, and fever. Aspirin works as an antiplatelet agent by inhibiting the cyclooxygenase enzyme in platelets, which is responsible for production of prostaglandin precursors of thromboxane A2. Thromboxane A2 is a substance that activates platelets. Aspirin should not be routinely used in <term class="no-emphasis" id="term-00001">pediatric clients</term> due to the risk of Reye syndrome. Like all antiplatelet agents, bleeding is a concerning side effect. However, in addition to the effect on platelets, aspirin can also increase the risk of gastric ulcer formation through inhibition of gastric prostaglandin synthesis. Subsequently, gastrointestinal effects are a major adverse effect, and it has additive gastrointestinal bleeding risk beyond its antiplatelet effect.</para>
+<note class="clinical-tip" id="note-00001">
+<title>Chew Aspirin for Faster Absorption</title>
+<para id="para-00005">If acute effects of aspirin are needed, such as during a heart attack, it is recommended that aspirin be chewed and swallowed for faster absorption (Mayo Clinic, n.d.).</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>P2Y12 Inhibitors</title>
+<para id="para-00006"><term class="no-emphasis" id="term-00002">P2Y12 inhibitors</term> are potent antiplatelet agents that work as antagonists at the P2Y12 subunit of the ADP receptor on the platelet surface, which decreases platelet activation at the site of vessel injury. Because of their effect on bleeding, it is recommended that P2Y12 inhibitors be discontinued 5–7 days prior to surgery, depending on the agent. There are currently four P2Y12 inhibitors available in the United States: clopidogrel, prasugrel, ticagrelor, and cangrelor. P2Y12 inhibitors require a loading dose if immediate therapeutic effect is needed (e.g., in an acute myocardial infarction). Onset is slower without loading doses.</para>
+<para id="para-00007">Clopidogrel is a prodrug, meaning it must be metabolized to become biologically active. This activation is accomplished through the enzyme CYP2C19. This is significant because clients can have a genetic alteration in this enzyme that inhibits clopidogrel activation, which could lead to therapeutic failure. It is also important because it confers drug interactions. If clients without any genetic alteration take a concomitant drug that inhibits CYP2C19, the enzyme will not be available to activate clopidogrel, which could lead to therapeutic failure.</para>
+<note class="safety-alert" id="note-00002">
+<para id="para-00008"><emphasis effect="bold">Clopidogrel</emphasis></para>
+<para id="para-00009">Clopidogrel requires a loading dose if immediate onset is desired, such as during an acute coronary syndrome. Initiating clopidogrel without a loading dose will result in a delayed effect up to several days, putting the client at risk for a thromboembolic event.</para>
+</note>
+<para id="para-00010">Ticagrelor and prasugrel are two additional oral P2Y12 inhibitors that are stronger in their antiplatelet effect compared to clopidogrel. Prasugrel is a prodrug that must be activated in the body, but it does not rely on CYP2C19 for activation, so it is less susceptible to drug interactions or therapeutic failure due to genetics. However, prasugrel has a comparatively higher risk of bleeding, and the highest risk of fatal bleeding of these agents. It is also contraindicated in clients with a history of a stroke or transient ischemic attack, clients who are <term class="no-emphasis" id="term-00003">older</term> than 75 years of age unless they are at very high risk of thromboembolism, and clients who weigh less than 60 kg.</para>
+<para id="para-00011">Ticagrelor does not require activation, so like prasugrel, it is not susceptible to CYP2C19 mediated drug interactions or genetic polymorphisms. A noteworthy side effect of ticagrelor is dyspnea, which can limit activities of daily living. It also has a boxed warning from the FDA regarding concomitant aspirin doses, which should not exceed 100 mg orally per day. It is contraindicated in clients with a history of intracranial hemorrhage.</para>
+<para id="para-00012">Cangrelor is the only intravenous P2Y12 inhibitor. It is approved for use during percutaneous coronary intervention. The advantage of cangrelor is that it inhibits platelets nearly immediately upon administration, and platelet function recovers within an hour of medication discontinuation.</para>
+</section>
+<section id="sect-00006">
+<title>Eptifibatide</title>
+<para id="para-00013"><term class="no-emphasis" id="term-00004">Eptifabitide</term> inhibits the GPIIbIIIa receptor on the platelet surface, preventing activation by von Willebrand’s factor and fibrinogen. This receptor is responsible for the final step in platelet-to-platelet adhesion; thus, this is a very potent antiplatelet agent. It is FDA approved for use during percutaneous coronary intervention in clients experiencing a non-ST-elevation acute coronary syndrome. The major side effect of eptifibatide is profound thrombocytopenia. Nurses should monitor the client’s platelet count closely and discontinue eptifibatide if the platelet count decreases to under 100,000/mm<sup>3</sup>.</para>
+<para id="para-00014">[link]Table 20.4[/link] lists common antiplatelets and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Aspirin</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical maintenance dose for ischemic heart disease:</emphasis> 81 mg orally daily (often referred to as low-dose or “baby” aspirin).<newline/>
+<emphasis effect="italics">Acute myocardial infarction:</emphasis> 325 mg orally once for aspirin-naïve clients experiencing acute myocardial infarction.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Clopidogrel</term><newline/>
+(<term class="no-emphasis" id="term-00007">Plavix</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Maintenance dose for ischemic heart disease:</emphasis> 75 mg orally daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Prasugrel</term><newline/>
+(<term class="no-emphasis" id="term-00009">Effient</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Maintenance dose for ischemic heart disease</emphasis> <newline/>
+<emphasis effect="italics">Clients >60 kg:</emphasis> 10 mg orally once daily.<newline/>
+<emphasis effect="italics">Clients &lt;60 kg:</emphasis> 5 mg orally once daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Ticagrelor</term><newline/>
+(<term class="no-emphasis" id="term-00011">Brilinta</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical maintenance dose for ischemic heart disease:</emphasis> 90 mg orally twice daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Cangrelor</term><newline/>
+(<term class="no-emphasis" id="term-00013">Kengreal</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Antiplatelet agent during percutaneous coronary intervention:</emphasis> 30 mcg/kg IV bolus followed by 4 mcg/kg/min IV infusion.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Eptifibatide</term><newline/>
+(<term class="no-emphasis" id="term-00015">Integrelin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acute coronary syndrome or percutaneous coronary intervention (PCI):</emphasis> 180 mcg/kg IV bolus followed by 2 mcg/kg/min IV infusion. (For PCI, add a second 180 mcg/kg bolus at 10 minutes.)</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Antiplatelets (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00007">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00015">Like anticoagulants, the major side effect of all antiplatelet medications are bleeding complications. This can manifest in many different ways, including excessive bleeding in response to trauma or during surgery, gastrointestinal bleeding, or spontaneous intracranial hemorrhage. Some symptoms of bleeding are blood in the stool; dark, tarry-appearing stools; blood in the urine; epistaxis; gingival bleeding; very severe headache; coffee-ground emesis; and hemoptysis.</para>
+<para id="para-00016">A history of bleeding complications, such as intracranial hemorrhage or gastrointestinal bleeding, may be considered a contraindication to further antiplatelet therapy, depending on the circumstances and the drug. Concomitant medications that further increase bleeding risk such as non-steroidal anti-inflammatory drugs (e.g., ibuprofen and naproxen) or antiplatelet agents (e.g., aspirin) may also be considered contraindicated with antiplatelet medications.</para>
+<para id="para-00017">[link]Table 20.5[/link] is a drug prototype table for antiplatelet agents featuring clopidogrel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/> 
+Antiplatelet agent; P2Y12 inhibitor <newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Inhibits platelet activation through binding to the P2Y12 class of ADP receptors on platelets</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Maintenance dose for ischemic heart disease:</emphasis> 75 mg orally daily.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Acute coronary syndromes<newline/>
+To reduce the rate of myocardial infarction and stroke in clients with recent myocardial infarction, stroke, or established peripheral artery disease <newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Decreases platelet activation<newline/>
+Decreases clotting risk</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+CYP2C19 inhibitors.<newline/>
+Opioids.<newline/>
+NSAIDS, warfarin, SSRIs, SNRIs.<newline/>
+Other antiplatelet or anticoagulant agents<newline/>
+Repaglinide <newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Grapefruit juice*</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Bleeding<newline/>
+Life-threatening bleeding<newline/>
+Fatal bleeding</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity.<newline/>
+Active pathological bleeding, such as peptic ulcer or intracranial hemorrhage <newline count="2"/>
+Caution: <newline/>
+Premature discontinuation increases risk of cardiovascular events <newline/>
+Thrombocytopenic purpura has been reported</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Clopidogrel (source: https://dailymed.nlm.nih.gov/dailymed/; * Holmberg et al., 2014)</caption>
+</table>
+</section>
+<section id="sect-00008">
+<title>Nursing Implications</title>
+<para id="para-00018">The nurse should do the following for clients who are receiving antiplatelets:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Monitor the client for bleeding via a complete blood count and monitoring for other signs/symptoms</item>
+<item>Monitor the client for bleeding via decreases in hemoglobin and/or hematocrit and monitoring for other signs/symptoms; monitor platelets to identify bleeding risk.</item>
+<item>Pay special attention to dosing; initial doses of antiplatelet medications may be higher as a single loading-dose to accelerate the onset of effect.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00019">The client taking an antiplatelet drug should:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Recognize the signs and symptoms of bleeding as described under adverse effects. Providers should be notified immediately if any of these signs and symptoms occur.</item>
+<item>Recognize the signs and symptoms of therapeutic failure, depending on the disease state being treated.</item>
+<item>Avoid high-risk behaviors that could result in falls (such as working on rooftops or on tall ladders). Clients must be educated that injuries, especially head injuries, may be more severe in clients who take antiplatelets.</item>
+<item>Wear medical identification, such as a medical alert bracelet, so that if there is an emergency, their providers are aware of the client’s propensity to bleed.</item>
+</list>
+</note>
+<note class="black-box" id="note-00004">
+<para id="para-00020"><emphasis effect="bold">Clopidogrel</emphasis></para>
+<para id="para-00021">The antiplatelet effect of clopidogrel is diminished in clients with two loss-of-function alleles of the CYP2C19 gene. Consider use of another platelet P2Y12 inhibitor in clients identified as CYP2C19 poor metabolizers.</para>
+<para id="para-00022"><emphasis effect="bold">Ticagrelor</emphasis></para>
+<para id="para-00023">Ticagrelor can cause significant and sometimes fatal bleeding. It should be avoided in clients with active pathological bleeding or a history of intracranial hemorrhage. It should not be started in clients undergoing urgent coronary artery bypass graft surgery. If possible, manage bleeding without discontinuing ticagrelor, since discontinuation will increase the risk of subsequent cardiovascular events. Ticagrelor also has a boxed warning stating that the maintenance dose of aspirin over 100 mg daily reduces the effectiveness of ticagrelor and should be avoided.</para>
+<para id="para-00024"><emphasis effect="bold">Prasugrel</emphasis></para>
+<para id="para-00025">Prasugrel can cause significant and sometimes fatal bleeding. It should not be used in clients with active pathological bleeding or a history of transient ischemic attack or stroke. It is generally not recommended in clients 75 years old or older, unless the client is at particularly high risk. Do not start prasugrel in clients likely to undergo urgent coronary artery bypass grafting, and discontinue at least 7 days prior to any surgery. If possible, manage bleeding without discontinuing prasugrel, as discontinuation increases the risk of subsequent cardiovascular events.</para>
+</note>
+</section>
+</section>
+</content>
 </document>

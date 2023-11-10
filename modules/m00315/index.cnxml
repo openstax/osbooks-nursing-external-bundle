@@ -5,9 +5,384 @@
     <md:content-id>m00315</md:content-id>
     <md:uuid>3bda42af-15f4-4ece-ae9a-3f7aa31260d1</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-   </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of the anticoagulant drugs used to treat thrombus formation.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of the anticoagulant drugs used to treat thrombus formation.</item>
+<item>Describe nursing implications of anticoagulant drugs used to treat thrombus formation.</item>
+<item>Explain the client education related to anticoagulant drugs used to treat thrombus formation.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Anticoagulants Used as Blood Thinners</title>
+<para id="para-00002"><term id="term-00001">Anticoagulants</term> are commonly referred to as <emphasis effect="italics">blood thinners</emphasis>. They work in different parts of the coagulation cascade to decrease the propensity of the blood to form a clot. There are many types of anticoagulants that work in various ways and can be administered by intravenous, subcutaneous, or oral routes, depending on clients’ circumstances and needs. One important note is that anticoagulants do not dissolve existing clots. Instead, they prevent further clot formation and allow the body to naturally dissolve any existing clots over time. <term id="term-00002">Thrombolytics</term>, or drugs that dissolve existing clots, will be discussed later in this chapter.</para>
+<para id="para-00003">Many anticoagulants have a narrow therapeutic index, meaning that the dose must be individualized, monitored, and controlled to ensure that clients do not experience therapeutic failure (e.g., a clotting complication from their disease) or adverse events. Because of this, anticoagulants are classified as high-alert medications (Institute for Safe Medication Practices, 2018). High-alert medications often have specific nursing precautions during use. Many hospitals require manual independent double-checks and utilize automated alerts to ensure safe use. Additionally, extra monitoring is often required to ensure the drug levels are appropriate and the blood is not “too thin” (over-anticoagulated) or “too thick” (under-anticoagulated). The specific anticoagulant used and the clinical scenario determines which drug-specific monitoring may be required. Some of the monitoring parameters are listed here:</para>
+<list list-type="bulleted" id="list-00002">
+<item><term id="term-00003">Partial thromboplastin time (PTT)</term> <emphasis effect="bold">or activated partial thromboplastin time (aPTT)</emphasis>: A PTT is a laboratory test obtained via venous blood sample that measures how much time the blood takes to clot. A PTT of a non-anticoagulated client without a clotting disease is 25-35 seconds (Rountree &amp; Lopez, 2018). A higher PTT indicates that the blood is thinner, less likely to form a clot, and the client is more prone to bleeding. An aPTT is considered a more sensitive version of a PTT.</item>
+<item><term id="term-00004">International normalized ratio (INR)</term>: This is a laboratory test obtained via venous blood sample that provides another measurement of the time it takes for the blood to clot, calculated using the <term id="term-00005">prothrombin time (PT)</term>. The INR of an un-anticoagulated client without a clotting disease is 1. It should be noted that point-of-care machines are available for INR monitoring so that clients can obtain results in real time, either in a clinic or at home. A higher INR indicates that the blood is thinner and less likely to form a clot, and the client is more prone to bleeding.</item>
+<item><term id="term-00006">Anti-factor Xa level (Anti-Xa)</term>: The anti-Xa level provides a measurement of the concentration of drugs that inhibit factor Xa in the clotting cascade. A higher anti-Xa level indicates that there is more drug in the blood, the blood is thinner and less likely to form a clot, and the client is more prone to bleeding.</item>
+<item><term id="term-00007">Activated clotting time (ACT)</term>: The ACT is another way to measure clotting time. This test is frequently done as a point of care test and can be done during procedures or surgeries where immediate knowledge of anticoagulant effect is necessary. This is often used in the cardiac catheterization laboratory and during cardiopulmonary bypass in open-heart surgery. A higher ACT indicates that the blood is thinner and less likely to form a clot, and the client is more prone to bleeding.</item>
+</list>
+<para id="para-00004">There are many different anticoagulants, available as injectable or oral medications.</para>
+<section id="sect-00004">
+<title>Injectable Anticoagulants</title>
+<para id="para-00005"><term class="no-emphasis" id="term-00008">Injectable anticoagulant medications</term> have the advantage of avoiding the oral route of administration, which may be important for clients who are unable to take oral medications or have issues with gastrointestinal absorption. The most common injectable anticoagulants are heparin and the low molecular weight heparin, enoxaparin.</para>
+<section id="sect-00005">
+<title>Heparin</title>
+<para id="para-00006"><term class="no-emphasis" id="term-00009">Heparin</term> is an injectable anticoagulant used primarily in the hospital setting. It is FDA approved for the treatment and prevention of thromboembolism. Heparin works by inactivating clotting factors in the coagulation cascade. It binds to antithrombin and the complex inactivates IIa (thrombin), Xa, IXa, XIa, and XIIa. Heparin is primarily administered via an intravenous or subcutaneous route. Subcutaneous use is limited because the absorption by that route is erratic and the bioavailability, or amount of drug that makes it into systemic circulation, is low. The dosing for heparin is complicated. For treatment of a thromboembolism, it is typically given as a weight-based continuous infusion that is titrated based on client response. Response is measured using either the PTT or anti-Xa level, depending on the institutional protocol.</para>
+<para id="para-00007">The goal level of heparin varies based on the institution, indication, and client-specific doses. The goal level typically corresponds to 1.5–2.5 times the baseline PTT. Typically monitoring of the anti-Xa level or PTT level is completed every 6 hours during an infusion. If the PTT or anti-Xa level is lower than the goal, it is described as subtherapeutic, meaning the blood is “too thick.” In this situation, a bolus dose may be given and/or the infusion rate increased with subsequent monitoring. If the PTT or anti-Xa level is higher than the goal, it is described as supratherapeutic, meaning the blood is “too thin.” The infusion may be held for a period of time and/or the infusion rate decreased. Some institutions have protocols for nurse-driven management of heparin. In these protocols, the nurse monitors the PTT or anti-Xa level as directed in the protocol, then adjusts the dose as directed without a new order from the provider.</para>
+<para id="para-00008">An example of a heparin dosing protocol is shown in [link]Table 20.1[/link], utilizing PTT monitoring and potential dose adjustment every 6 hours.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">PTT</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Dosing</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"><emphasis effect="italics">Initial dose:</emphasis> 80 units/kg bolus, then 18 units/kg/hr.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PTT &lt;35 seconds</entry>
+<entry valign="top" align="left">80 units/kg bolus, then increase rate by 4 units/kg/hr.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PTT 35–45 seconds</entry>
+<entry valign="top" align="left">40 units/kg bolus, then increase rate by 2 units/kg/hr.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PTT 46–70 seconds</entry>
+<entry valign="top" align="left">No change.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PTT 71–90 seconds</entry>
+<entry valign="top" align="left">Decrease infusion rate by 2 units/kg/hr.</entry>
+</row>
+<row>
+<entry valign="top" align="left">PTT >90 seconds</entry>
+<entry valign="top" align="left">Interrupt infusion for 1 hour, then decrease infusion rate by 3 units/kg/hr.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>A Sample Heparin Dosing Protocol (Hirsh et al., 2001)</caption>
+</table>
+<para id="para-00009">Heparin can also be monitored using the ACT, although less frequently. This is typically limited to monitoring during procedures and surgeries by a point-of-care device. It allows for quick, fine-tuning of the heparin dosage in real time.</para>
+<para id="para-00010">If long-term anticoagulation is needed, an oral anticoagulant is usually started. The transition to oral anticoagulation depends on the agent being initiated. For example, warfarin takes several days to achieve therapeutic anticoagulation, so overlap with a parenteral agent (e.g., continuation of heparin or initiation of enoxaparin) is warranted until then. Other chronic agents may take action immediately; thus, heparin can be discontinued without overlap.</para>
+<para id="para-00011"><term id="term-00010">Heparin-induced thrombocytopenia (HIT)</term> is a rare although major complication of heparin therapy. It is characterized by an immune-mediated decrease in platelets, often with concomitant thrombosis. Although the platelets are decreased, the client is in a highly hypercoagulable state. Heparin must be discontinued immediately, and alternative anticoagulation with a non-heparin-based anticoagulant is required. Argatroban, an intravenous direct thrombin inhibitor anticoagulant, is FDA approved to treat HIT. Bivalirudin is another intravenous direct thrombin inhibitor anticoagulant that has been studied for off-label use in treating clients with HIT. After the acute phase of HIT, clients can be transitioned to a long-term oral or subcutaneous non-heparin anticoagulant. Clients with a history of HIT should not receive heparin in the future. Other adverse effects of heparin include hyperkalemia and osteoporosis with prolonged use.</para>
+<note class="clinical-tip" id="note-00001">
+<para id="para-00012"><emphasis effect="bold">Assess for Heparin-Induced Thrombocytopenia (HIT).</emphasis></para>
+<para id="para-00013">It can be difficult to predict which clients are experiencing HIT. The 4T scoring system estimates the risk for HIT based on the degree, timing, and potential etiology of the client’s platelet decrease, and the presence of thrombosis. <link url="https://openstax.org/r/mdcal">Online calculators for the 4T score</link> are available. The diagnosis of HIT is more likely and should be considered when the platelet count drops by 50% or more.</para>
+</note>
+<note class="safety-alert" id="note-00002">
+<title><emphasis effect="bold">Heparin Concentrations</emphasis></title>
+<para id="para-00014">There are many different heparin products and strengths available, which <link url="https://openstax.org/r/ismp">can lead to medication errors</link> if the incorrect concentration or formulation is selected.</para>
+</note>
+</section>
+<section id="sect-00006">
+<title>Enoxaparin</title>
+<para id="para-00015"><term class="no-emphasis" id="term-00011">Enoxaparin</term> is a derivative of heparin and referred to as a low molecular weight heparin. It is FDA approved to treat thromboembolism and acute coronary syndromes. It is also approved to decrease the rate of thromboembolism after surgery and during prolonged immobilization. It works similarly to heparin; however, it targets factor Xa specifically. Enoxaparin can be administered intravenously and subcutaneously. A major advantage to using enoxaparin as compared to heparin is that it has more reliable subcutaneous absorption and a longer half-life; thus, it can more reliably be administered as an intermittent subcutaneous injection without continuous titration. It can be self-administrated by the client at home using a pre-filled syringe. Under most circumstances, specific monitoring is not required. A major disadvantage of enoxaparin is that it is eliminated by the kidneys and therefore the dose must be adjusted, or the drug must be avoided in those with kidney dysfunction. Although enoxaparin can cause HIT, the incidence is less than therapy with heparin.</para>
+<para id="para-00016">As enoxaparin can be self-administered by the client, there are many client education points to emphasize with its use. The client should:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Learn appropriate injection technique. <link url="https://openstax.org/r/lovenox">The manufacturer for <term class="no-emphasis" id="term-00012">Lovenox</term> provides a client-education video</link> for injection. The product labeling also includes pictorial representations of injection technique.</item>
+<item>Inject into subcutaneous abdomen and alternate injection sites between the left and right anterolateral and left and right posterolateral abdominal wall.</item>
+<item>Inject into a skin fold held between the thumb and forefinger, holding the skin fold throughout the injection.</item>
+<item>Avoid injecting through clothing or into skin that is bruised or scarred.</item>
+<item>Avoid ejecting the air bubble from the syringe.</item>
+<item>Avoid rubbing the injection site after administration.</item>
+</list>
+</section>
+</section>
+<section id="sect-00007">
+<title>Oral Anticoagulants</title>
+<para id="para-00017">As their name indicates, <term class="no-emphasis" id="term-00013">oral anticoagulants</term> are administered by the oral route. They have the benefit of convenience for home administration and can be helpful for clients with a fear of needles. Warfarin was the first oral anticoagulant medication, approved in 1954. Newer oral anticoagulant medications, referred to as direct-acting oral anticoagulants (DOACs), came on the market in 2010 and have supplanted much of warfarin use. These newer medications include dabigatran, apixaban, rivaroxaban, and edoxaban.</para>
+<section id="sect-00008">
+<title>Warfarin</title>
+<para id="para-00018"><term class="no-emphasis" id="term-00014">Warfarin</term> is an oral anticoagulant that is FDA approved to treat and prevent thromboembolism disorders. Warfarin inhibits the production of vitamin K in the body. Vitamin K is needed for production of clotting factors II, VII, IX, and X. When warfarin is administered, the production of those clotting factors is decreased, which leads to an anticoagulated state. It is available as an oral tablet in many strengths to allow for individualized dosing. Each tablet of the same dose is the same color regardless of manufacturer. For example, all warfarin 1 mg tablets are pink. (For more information, see this online chart of <link url="https://openstax.org/r/ucsd">standard warfarin tablet colors and strengths</link>.) Dosing of warfarin is individualized, variable, and complicated by pharmacokinetic properties and food and drug interactions. Doses are titrated based on INR. The therapeutic goal INR varies per indication but is usually 2–3. Some clients with mechanical heart valves have an INR goal of 2.5–3.5. Clients are typically started on anywhere from 1–10 mg of warfarin depending on client-specific factors including genetic polymorphisms, if known. The full effect of warfarin is not apparent until 5–7 days after administration; thus, dose adjustments based on INR are limited before that time frame. Warfarin also has a long half-life, and effects can persist for 5 or more days after discontinuation. Many clients who take warfarin attend clinics that specialize in warfarin dose adjustments. For most clients, the INR is monitored frequently during initiation and during any lifestyle or medication changes.</para>
+<para id="para-00019">Warfarin has numerous drug and food interactions. Drugs interacting with warfarin can cause an increase in bleeding risk via effects on the metabolism of warfarin through the cytochrome P450 enzyme or through a decrease production of vitamin K. Some notable interacting drugs/drug classes are listed in [link]Table 20.3[/link]; however, this list is not inclusive and merely points out a few examples. It is important for clients who take warfarin to maintain a consistent amount of vitamin K intake. Since warfarin decreases vitamin K production, dietary intake of vitamin K opposes the anticoagulant effect and can decrease warfarin’s effect. Conversely, if a client regularly consumes vitamin K foods but abruptly stops, their blood can quickly become over-anticoagulated.</para>
+<para id="para-00020">Because of all the extra monitoring and food and drug interaction, warfarin requires in-depth client education. The nurse should instruct the client to:</para>
+<list list-type="bulleted" id="list-00004">
+<item>Maintain a consistent amount of vitamin K in their diet. It does not need to be avoided altogether, but a consistent amount is important. Green leafy vegetables are known for their high vitamin K content. Some of these foods are broccoli, Brussels sprouts, coleslaw, kale, and collard greens, and they should not be eaten in excess. The American Heart Association provides a <link url="https://openstax.org/r/heart">list of foods that are high and low in vitamin K</link>.</item>
+<item>Be educated on drug interactions that can occur. Any time a new medication is started, all involved providers should be notified so that the warfarin dose and monitoring can be proactively addressed. This is especially important with acute antibiotics that may otherwise go unnoticed when prescribed by a new provider.</item>
+<item>Send for <link url="https://openstax.org/r/arrhythmia">a guide similar to this AHA warfarin guide</link> to help them manage their medication.</item>
+<item>Have their liver enzymes monitored for early signs of hepatotoxicity and jaundice.</item>
+<item>Have their hemoglobin and hematocrit levels checked regularly.</item>
+<item>Abstain from alcohol to reduce risk of bleeding, as alcohol can thin the blood</item>
+<item>Wear a medical alert bracelet indicating warfarin use.</item>
+<item>Use a soft-bristle toothbrush and an electric razor.</item>
+</list>
+</section>
+<section id="sect-00009">
+<title>Direct-Acting Oral Anticoagulants</title>
+<para id="para-00021"><term class="no-emphasis" id="term-00015">Direct-acting oral anticoagulants (DOACs)</term> have the advantage of more standardized dosing than warfarin, without the need for regular INR monitoring. They also have minimal food and drug interactions in comparison.</para>
+<para id="para-00022">The first DOAC, dabigatran, was approved in 2010. It works by directly inhibiting thrombin in the coagulation cascade. It is an oral drug used for the treatment of DVT (deep vein thrombosis)/PE (pulmonary embolism), stroke prevention in atrial fibrillation, and thromboembolism prophylaxis after hip arthroplasty. The capsules must be swallowed whole and cannot be crushed, opened, or chewed. It also must be stored in the original packaging and discarded four months after opening. It has a high risk of gastrointestinal side effects. When treating a DVT/PE, an initial period of parenteral anticoagulation is required before initiating dabigatran. The other DOACs are all selective factor Xa inhibitors. These drugs include apixaban, rivaroxaban, and edoxaban.</para>
+<para id="para-00023">Apixaban is FDA approved to reduce stroke risk in clients with atrial fibrillation, to treat DVT/PE both acutely and to reduce the risk of recurrent thromboembolism after the initial treatment period, and for prevention of DVT after hip or knee replacement surgery. It is administered twice daily, whereas the other anti-Xa DOACs are administered only once daily. When treating atrial fibrillation, the dosing must be adjusted if the client meets certain thresholds based on renal function, age, and weight. When treating an acute DVT, a higher dose of apixaban is required for the first week of therapy.</para>
+<para id="para-00024">Rivaroxaban is FDA approved for several thromboembolic related indications. Some of the approved indications are reduction of stroke risk in clients with atrial fibrillation, stable coronary artery disease, treatment of DVT/PE, reduction of risk for recurrent DVT/PE, prophylaxis of DVT in clients undergoing hip or knee surgery, treatment of peripheral artery disease, and venous thromboembolism prophylaxis in acutely ill medical clients. For most indications, rivaroxaban must be taken with food to improve absorption.</para>
+<para id="para-00025">Edoxaban is the newest anti-Xa DOAC, approved in 2015. It is FDA approved for stroke prevention in clients with atrial fibrillation and treatment of DVT/PE. When treating an acute DVT, an initial period of parenteral anticoagulation for 5–10 days is required before initiation of edoxaban. The most noteworthy aspects of edoxaban treatment are the renal considerations. Edoxaban carries a black box warning because it should not be used in clients with a creatinine clearance over 95 mL/min. It also should not be used in clients with severe renal dysfunction (creatinine clearance under 15 mL/min). Dose adjustments should be made based on moderate renal dysfunction or low body weight.</para>
+<para id="para-00026">[link]Table 20.2[/link] lists common anticoagulants and typical routes and dosing for adult clients. Dose adjustments may be necessary for renal or hepatic impairment. Package inserts should be consulted accordingly.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Heparin</term></entry>
+<entry valign="top" align="left">Complicated and variable. Typical starting dose 18 units/kg/hour administered by continuous intravenous (IV) infusion, titrate to goal PTT or anti-Xa range. See [link]Table 20.3[/link] for sample heparin titration protocol. (Protocols are usually site specific and should be utilized accordingly.)<newline/>
+<emphasis effect="italics">Venous prophylaxis of thromboembolism in acutely ill medical clients:</emphasis> 5000 units subcutaneously every 8 hours.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Argatroban</term></entry>
+<entry valign="top" align="left">Complicated and variable. Typical starting dose 2 mcg/kg/min administered as a continuous IV infusion, titrate to goal PTT. (Protocols are usually site specific and should be utilized accordingly.)</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Bivalirudin</term><newline/>
+<term class="no-emphasis" id="term-00019">(Angiomax)</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Treatment of heparin-induced thrombocytopenia (off-label):</emphasis> Starting dose 0.15–0.20 mg/kg/hour as a continuous IV infusion, titrate to PTT goal.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Enoxaparin</term><newline/>
+(<term class="no-emphasis" id="term-00021">Lovenox</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Treatment of venous thromboembolism:</emphasis> 1 mg/kg subcutaneously every 12 hours.<newline/>
+<emphasis effect="italics">Venous thromboembolism prophylaxis in acutely ill medical clients:</emphasis> 40 mg subcutaneously once daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Dalteparin</term><newline/>
+(<term class="no-emphasis" id="term-00023">Fragmin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Treatment of deep vein thrombosis or pulmonary embolism:</emphasis> 200 units/kg subcutaneously once daily or 100 units/kg subcutaneously twice daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Warfarin</term><newline/>
+(<term class="no-emphasis" id="term-00025">Coumadin</term>)</entry>
+<entry valign="top" align="left">Complicated and variable. Dietary considerations for vitamin K content must be considered. Typical initial dose: 5 mg daily. Titrate to goal INR range (commonly 2–3).</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00026">Apixaban</term><newline/>
+(<term class="no-emphasis" id="term-00027">Eliquis</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 5 mg orally twice daily.<newline/>
+<emphasis effect="italics">Treatment of deep vein thrombosis or pulmonary embolism:</emphasis> 10 mg orally twice daily for 7 days, followed by 5 mg twice daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00028">Rivaroxaban</term><newline/>
+(<term class="no-emphasis" id="term-00029">Xarelto</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 20 mg orally once daily with the evening meal.<newline/>
+<emphasis effect="italics">Treatment of deep vein thrombosis or pulmonary embolism:</emphasis> 15 mg orally twice daily with food for 21 days, followed by 20 mg once daily with food.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Edoxaban</term><newline/>
+(<term class="no-emphasis" id="term-00031">Savaysa</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 60 mg orally once daily.<newline/>
+<emphasis effect="italics">Treatment of deep vein thrombosis:</emphasis> 60 mg orally once daily for clients >60 kg or 30 mg orally once daily for clients &lt;30 kg (after at least 5 days of parenteral anticoagulation).</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00032">Dabigatran</term><newline/>
+(<term class="no-emphasis" id="term-00033">Pradaxa</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 150 mg orally twice daily.<newline/>
+<emphasis effect="italics">Treatment of deep vein thrombosis:</emphasis> 150 mg orally twice daily (after at least 5 days of parenteral therapy).</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Anticoagulants (sources: https://dailymed.nlm.nih.gov/dailymed/; Linkins et al., 2012; Jaff et al., 2011)</caption>
+</table>
+</section>
+</section>
+</section>
+<section id="sect-00010">
+<title><term class="no-emphasis" id="term-00034">Anticoagulant Reversal Agents</term></title>
+<para id="para-00027">Sometimes clients who have been administered anticoagulant medications experience serious bleeding complications or need urgent surgery that should not be performed while the blood is anticoagulated. In those cases, reversal agents may be administered to counteract the effect of the anticoagulant. The decision to administer a reversal agent is individualized and must consider the risk of continued bleeding (or potential surgical bleeding) as compared to the client’s underlying thrombotic risk. The reversal agents do not work perfectly; they may not completely reverse the anticoagulant effect and additional risks may be present. This section will focus on protamine (reversal agent for heparins), vitamin K (reversal agent for warfarin), and monoclonal antibody reversal agents for the DOACs.</para>
+<section id="sect-00011">
+<title>Protamine</title>
+<para id="para-00028"><term class="no-emphasis" id="term-00035">Protamine</term> is a protein that neutralizes heparin. It works via electrostatic interactions; it is a positively charged molecule that attracts and forms a salt with the negatively charged heparin molecules. Protamine has weak anticoagulant activity when given alone, but not when it forms a complex with heparin. Thus, dosing of protamine is important to neutralize the effect of heparin without allowing excess protamine to exert its anticoagulant effect. It is FDA approved to treat heparin overdose and is used off-label to partially neutralize low molecular weight heparins. An example of when this might be used is a client who has an intracranial hemorrhage and who cannot wait for the effect of heparin to wear off over time.</para>
+<note class="safety-alert" id="note-00003">
+<title>Protamine</title>
+<para id="para-00029">Protamine is administered by <emphasis effect="italics">slow</emphasis> IV push, no faster than 50 mg per 10 minutes, because faster infusion causes hypotension. It also can cause severe hypersensitivity reactions, so the nurse should have resuscitation equipment and epinephrine available during administration for potential emergency response. The nurse should also monitor for heparin rebound, which can occur several hours later (typically 8–9 hours but can be as long as 18 hours later). Checking a PTT or anti-Xa level can help to monitor for this potential complication.</para>
+</note>
+</section>
+<section id="sect-00012">
+<title><term class="no-emphasis" id="term-00036">Vitamin K (Phytonadione)</term></title>
+<para id="para-00030">Vitamin K is also known as phytonadione. It is the same substance present in food and is an antidote for the effect of warfarin. It is FDA approved for the reversal of anticoagulation due to warfarin, vitamin K deficiency, and for prophylaxis and treatment of vitamin K deficiency related bleeding in newborns. It is available in oral and intravenous forms. The dose given and route of administration varies based on clinical need. Intravenous vitamin K reverses the effect of warfarin faster than oral vitamin K (onset within 1–2 hours vs. 6–10 hours) and is used during acute bleeding if urgent reversal is needed. When reversing the effect of warfarin, a higher dose is generally used for higher INR elevations. However, high doses can lead to difficulty anticoagulating a client with warfarin in the future. It is important to avoid confusion of vitamin K with potassium, which can also be abbreviated with “K.”</para>
+</section>
+<section id="sect-00013">
+<title><term class="no-emphasis" id="term-00037">DOAC Reversal Agents</term></title>
+<para id="para-00031">Specific agents for DOAC reversal have been approved. Idarucizumab is used for life-threatening or uncontrolled bleeding in clients that have taken dabigatran. It is a humanized monoclonal antibody that binds dabigatran to remove it from the blood, ceasing its anticoagulant effect. Andexanet alfa is used for life-threatening or uncontrolled bleeding in clients who have taken apixaban or rivaroxaban. It is a recombinant inactive form of factor Xa. It binds the factor Xa inhibitors, ceasing their anticoagulant effect. Prothrombin complex concentrates, which are the components of blood containing clotting factors, are also used for reversal of DOACs at some institutions.</para>
+</section>
+</section>
+<section id="sect-00014">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00032">The major side effect of all anticoagulant medications are bleeding complications. This can manifest in many different ways, including excessive bleeding in response to trauma or during surgery, gastrointestinal bleeding, or spontaneous intracranial hemorrhage. Some symptoms of bleeding are blood in the stool; dark, tarry-appearing stools; blood in the urine; epistaxis (nosebleed); gingival bleeding; very severe headache; coffee-ground emesis; and hemoptysis.</para>
+<para id="para-00033">A history of bleeding complications such as intracranial hemorrhage or gastrointestinal bleeding may be considered a contraindication to further anticoagulant therapy. Concomitant medications that further increase bleeding risk, such as non-steroidal anti-inflammatory drugs (e.g., ibuprofen and naproxen) or antiplatelet agents (e.g. aspirin, discussed later in this chapter) should also be avoided with anticoagulants, when possible. However, since anticoagulants treat life-threatening diseases, contraindications must be carefully considered. The risks and benefits of avoiding an anticoagulant due to a relative contraindication must be carefully weighed in the context of the risk of their primary disease state. For example, clients who have experienced multiple embolic strokes may still need anticoagulant therapy despite experiencing bleeding complications. For those clients, a lower intensity of anticoagulation or increased monitoring may be utilized to mitigate bleeding risk and balance risks/benefits. A client who has atrial fibrillation and a recent stent placed may need concomitant anticoagulant and antiplatelet medications, although it increases the risk of bleeding.</para>
+<para id="para-00034">[link]Table 20.3[/link] is a drug prototype table for anticoagulants featuring warfarin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Anticoagulant<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Inhibits the production of vitamin K, which is needed for synthesis of clotting factors II, VII, IX, and X</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+Variable: INR must be frequently monitored and dose adjusted as needed.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Prophylaxis and treatment of venous thromboembolism and pulmonary embolism <newline count="2"/>
+Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement<newline count="2"/>
+Reduction in the risk of death, recurrent myocardial infarction (MI), and thromboembolic events such as stroke or systemic embolism after myocardial infarction <newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Anticoagulates the blood; increases INR to “thin” the blood</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Many drugs that interact through effects on metabolism by cytochrome P450 enzymes (e.g., amiodarone, rifampin).<newline/>
+Many drugs that further increase bleeding risk (e.g., non-steroidal anti-inflammatory drugs, antiplatelet drugs).<newline/>
+Many antibiotics and antifungals.<newline/>
+Many herbal products (e.g., St. John’s wort, ginseng, garlic, ginkgo biloba).<newline/>
+Recommended to consult a pharmacist for evaluation of drug interactions with warfarin.<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Foods that contain vitamin K (e.g., spinach, kale, broccoli) <newline/>
+Grapefruit juice <newline/>
+Alcohol</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Bleeding, sometimes fatal hemorrhaging <newline/>
+Tissue necrosis<newline/>
+Systemic atheroemboli and cholesterol microemboli <newline/>
+Hypersensitivity/allergic reactions<newline/>
+Vasculitis<newline/>
+Hepatitis, elevated liver enzymes<newline/>
+Nausea, vomiting, taste perversion<newline/>
+Rash, dermatitis, pruritis, alopecia</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity <newline/>
+Pregnancy, except with mechanical heart valves <newline/>
+Hemorrhagic tendencies or blood dyscrasias <newline/>
+Recent or contemplated surgery of the central nervous system or eye, or traumatic surgery resulting in large open surfaces <newline count="2"/>
+Caution: <newline/>
+Do not use as initial therapy in clients with acute HIT until after platelets recover</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Warfarin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00015">
+<title>Nursing Implications</title>
+<para id="para-00035">The nurse should do the following for clients who are receiving anticoagulants:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Monitor the drug effect via PTT, anti-Xa level, INR, or ACT depending on the specific anticoagulant use, as ordered by the provider or per the institutional protocol.</item>
+<item>Monitor the client for bleeding via decreases in hemoglobin and/or hematocrit and for other signs/symptoms; monitor platelets to identify bleeding risk.</item>
+<item>Familiarize themselves with institutional dosing protocols, especially any nurse-driven protocols.</item>
+<item>Utilize independent double checks for dose adjustments, especially heparin.</item>
+<item>Administer warfarin at the same time each day according to institutional policies.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00004">
+<para id="para-00036">The client taking an anticoagulant should:</para>
+<list list-type="bulleted" id="list-00006">
+<item>Recognize the signs and symptoms of bleeding as described under adverse effects and notify providers immediately if any of these signs or symptoms occur.</item>
+<item>Differentiate signs of typical bleeding, such as minor bruising, from signs of dangerous bleeding as described above.</item>
+<item>Recognize the signs and symptoms of therapeutic failure, depending on the disease state being treated.</item>
+<item>Avoid high-risk behaviors that could result in falls (such as working on rooftops or on tall ladders); injuries, especially head injuries, may be more severe in clients who take anticoagulants.</item>
+<item>Wear medical identification, such as a medical alert bracelet, so that if there is an emergency, providers are aware of the client’s propensity to bleed.</item>
+<item>Avoid injecting through clothing or into skin that is bruised or scarred.</item>
+<item>Avoid ejecting the air bubble from the syringe.</item>
+<item>Avoid rubbing the injection site after administration.</item>
+</list>
+</note>
+<note class="black-box" id="note-00005">
+<para id="para-00037"><emphasis effect="bold">Enoxaparin, Dalteparin, Apixaban, Rivaroxaban, Edoxaban, Dabigatran</emphasis></para>
+<para id="para-00038">There is a risk for epidural or spinal hematomas in clients who take these anticoagulants and are undergoing spinal puncture or receiving neuraxial anesthesia. These can be very serious and result in long-term or permanent paralysis. These risks should be considered when scheduling clients for spinal procedures.</para>
+<para id="para-00039"><emphasis effect="bold">Warfarin</emphasis></para>
+<para id="para-00040">Warfarin can cause major or fatal bleeding. INRs should be monitored in all treated clients. Drugs, dietary changes, or other factors can affect INR levels. Instruct clients to minimize bleeding risk and report signs and symptoms to their provider.</para>
+<para id="para-00041"><emphasis effect="bold">Apixaban, Rivaroxaban, Edoxaban, Dabigatran</emphasis></para>
+<para id="para-00042">Premature discontinuation of these drugs can lead to increased risk of thrombotic events. Consider coverage with another anticoagulant if discontinued for reasons other than pathological bleeding or completion of therapy.</para>
+<para id="para-00043"><emphasis effect="bold">Edoxaban</emphasis></para>
+<para id="para-00044">Edoxaban should not be used in clients with creatinine clearance (CrCl) over 95 mL/min, due to a higher rate of ischemic stroke in clients with atrial fibrillation. Another anticoagulant should be used.</para>
+</note>
+<note class="unfolding-casestudy" id="note-00006">
+<title>Anticoagulants</title>
+<para id="para-00045">Read the following clinical scenario to answer the questions that follow.</para>
+<para id="para-00046">Thomas Schmidt, [IR12]a 48-year-old male client, presents to the emergency department with reports of stabbing chest pain and is diagnosed with pulmonary embolism using computed tomography pulmonary angiography. Thomas client is started on heparin. He is given an initial dose of 80 units/kg IV as a bolus, then started on a continuous infusion of 18 units/kg/hour.<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">History:</emphasis></span><newline/>
+Diabetes mellitus type 2<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Current medications:</emphasis></span><newline/>
+Metformin 500 mg orally daily</para>
+<table class="vertically-tight" id="table-00004">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+  <row>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Vital Signs</emphasis></span></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">98.6°F</entry>
+<entry valign="top" align="left" morerows="5"><list list-type="bulleted" id="list-00007"><item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Denies any changes in vision. No difficulty hearing conversations.</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear to auscultation. Describes 8/10 stabbing chest pain.</item>
+<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.</item>
+<item><emphasis effect="italics">GU:</emphasis> Deferred.</item>
+<item><emphasis effect="italics">Neurological:</emphasis> Alert and oriented to time, place, person, and events.</item>
+<item>No reports of numbness, dizziness, vertigo, weakness, or seizures.</item>
+<item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted; skin appropriate for age.</item>
+</list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left">125/85 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left">90 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left">98% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
+<entry valign="top" align="left">5’10”</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
+<entry valign="top" align="left">253 lb</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00047"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00048"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>activated clotting time (ACT)</term> <meaning> a way to measure the time it takes to form a clot; available as a point-of-care test</meaning></definition>
+<definition id="def-00002"><term>anticoagulants</term> <meaning>drugs that work in different parts of the coagulation cascade to decrease the propensity of the blood to form a clot</meaning></definition>
+<definition id="def-00003"><term>anti-factor xa level (anti-Xa)</term> <meaning> measurement of the concentration of drugs that inhibit factor xa in the clotting cascade</meaning></definition>
+<definition id="def-00004"><term>heparin-induced thrombocytopenia (HIT)</term> <meaning>major complication of heparin therapy characterized by a decrease in platelets and concomitant hypercoagulable state</meaning></definition>
+<definition id="def-00005"><term>international normalized ratio</term> <meaning>provides another measurement of the length of time the blood takes to clot, calculated using the prothrombin time (PT)</meaning></definition>
+<definition id="def-00006"><term>partial thromboplastin time (PTT)</term> <meaning>laboratory test obtained via venous blood sample that provides a measurement of the length of time the blood takes to clot</meaning></definition>
+<definition id="def-00007"><term>prothrombin time (PT)</term> <meaning>a measurement of the time it takes to form a clot; used to calculate the international normalized ratio (INR)</meaning></definition>
+</glossary>
 </document>

@@ -6,8 +6,204 @@
     <md:uuid>71c32855-a8b6-49d5-8ad1-cf713954d340</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-    </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of the thrombolytic drugs used to treat thrombus formation.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of the thrombolytic drugs used to treat thrombus formation.</item>
+<item>Describe nursing implications of thrombolytic drugs used to treat thrombus formation.</item>
+<item>Explain the client education related to thrombolytic drugs used to treat thrombus formation.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Thrombolytics to Break Down an Existing Clot</title>
+<para id="para-00002">Anticoagulant and antiplatelet medications work in the clotting cascade to prevent clotting in clients without a thromboembolism or to prevent worsening of an existing clot while the body breaks the clot down over time. Conversely, thrombolytics work to quickly break down an existing clot, which is often needed when the clot is blocking blood flow to a major organ. They work by facilitating conversion of plasminogen to plasmin. Plasmin then initiates fibrinolysis, or fibrin clot break down.</para>
+<note class="safety-alert" id="note-00001">
+<title><emphasis effect="bold">Alteplase</emphasis></title>
+<para id="para-00003">Alteplase is frequently referred to as tPA as an abbreviation for tissue plasminogen activator (which refers to the mechanism of action). However, this can be confused with TNK, an abbreviation sometimes used for tenecteplase, or TPN, the abbreviation for total parenteral nutrition, which has led to medication errors and/or medication delays in circumstances where timing is crucial. The nurse should avoid using tPA as an abbreviation for alteplase.</para>
+<para id="para-00004">See this Institute for Safe Medication Practices (ISMP) report for more information on <link url="https://openstax.org/r/confusion">potential medication errors associated with alteplase</link>.</para>
+</note>
+<section id="sect-00004">
+<title>Alteplase</title>
+<para id="para-00005">Alteplase is an intravenous thrombolytic drug that is approved to treat acute ischemic stroke, acute myocardial infarction, and pulmonary embolism. Alteplase works quickly upon administration, and the half-life is less than 5 minutes. It requires reconstitution prior to administration, which is somewhat complicated and further explained in the product labeling and <link url="https://openstax.org/r/activase">manufacturer website</link>. Because of the high risk of bleeding, the risks and benefits must be carefully weighed prior to administration. Alteplase has many contraindications, which are listed in [link]Table 20.7[/link]. These contraindications are clinical characteristics or disease states that put the client at an unacceptable risk for bleeding complications. For example, severe uncontrolled hypertension increases the risk of intracranial hemorrhage in clients receiving alteplase. Thus, alteplase should be avoided in those clients. Prior to administering alteplase, the nurse should confirm that the client does not have any contraindications to therapy.</para>
+<para id="para-00006">In small doses, alteplase can also be used as an agent to restore function of central venous access devices that are unable to draw blood due to thrombus formation. For this use, it is known by the brand name Cathflo Activase.</para>
+</section>
+<section id="sect-00005">
+<title>Tenecteplase</title>
+<para id="para-00007">Tenecteplase is approved for treatment of ST-elevation myocardial infarction (STEMI). The most common adverse effects are bleeding and hypersensitivity. Like alteplase, it has many contraindications that would put the client at an unacceptable risk of bleeding: active internal bleeding, history of cerebrovascular accident, intracranial or intraspinal surgery or trauma within 2 months, intracranial neoplasm, arteriovenous malformation, or aneurysm, known bleeding diathesis, and severe uncontrolled hypertension. Although not FDA approved, off-label use of tenecteplase for acute ischemic stroke is gaining popularity and is listed as an option in the guidelines for treatment of acute ischemic stroke (Powers, 2019). Some of the practical advantages of tenecteplase as compared to alteplase are that it is quicker to prepare, does not require a dedicated intravenous line or pump, and can be administered as an IV bolus.</para>
+<para id="para-00008">[link]Table 20.6[/link] lists common thrombolytics and typical routes and dosing for adult clients. Protocols are usually site specific and should be utilized accordingly.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00001">Alteplase</term><newline/>
+ (<term class="no-emphasis" id="term-00002">Activase, Cathflo Activase</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acute ischemic stroke:</emphasis> 0.9 mg/kg (not to exceed 90 mg total) IV over 60 minutes, with 10% of the dose administered as an initial bolus over 1 min.<newline/>
+<emphasis effect="italics">Acute myocardial infarction:</emphasis> Weight-based dosing up to maximum of 100 mg.<newline/>
+<emphasis effect="italics">Acute massive pulmonary</emphasis> <emphasis effect="italics">embolism:</emphasis> 100 mg IV infusion over 2 hours.<newline/>
+<emphasis effect="italics">Restoration of function of central venous access devices (Cathflo Activase):</emphasis> Instill 2 mg/2 mL into the dysfunctional catheter.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Tenecteplase</term><newline/>
+(<term class="no-emphasis" id="term-00004">TNKase</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acute ST elevation myocardial infarction:</emphasis> Weight-based dosing; 30–50 mg administered as a single IV bolus based on the client’s weight.<newline/>
+<emphasis effect="italics">Acute-ischemic stroke (off-label)*:</emphasis> 0.25 mg/kg IV; maximum dose: 25 mg.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Thrombolytics (sources: https://dailymed.nlm.nih.gov/dailymed/; *Powers et al., 2019)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00009">The main adverse effect of thrombolytic therapy is bleeding, which is sometimes severe and can be fatal. This is especially frequent at arterial and venous puncture sites, which leads to nursing implications regarding vascular access described in the next section. Hypersensitivity reactions are also possible. When used to treat coronary thrombus in a client with an acute myocardial infarction, there is an increased risk of dysrhythmias after blood flow is restored. The specific contraindications to thrombolytics are discussed within the content for the specific drugs but are mostly related to bleeding risk.</para>
+<para id="para-00010">[link]Table 20.7[/link] is a drug prototype table for thrombolytics featuring alteplase. It lists drug class, mechanism of action, adult dosage[IR16], indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span> <newline/>
+Thrombolytic<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Converts plasminogen to plasmin, which breaks down clot-bound fibrin</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Acute ischemic stroke:</emphasis> 0.9 mg/kg (not to exceed 90 mg total) IV over 60 minutes, with 10% of the dose administered as an initial bolus over 1 min.<newline/>
+<emphasis effect="italics">Acute myocardial infarction:</emphasis> Weight-based dosing up to maximum of 100 mg.<newline/>
+<emphasis effect="italics">Acute massive pulmonary embolism:</emphasis> 100 mg IV infusion over 2 hours.<newline/>
+<emphasis effect="italics">Restoration of function of central venous access devices (Cathflo Activase):</emphasis> Instill 2 mg/2 mL into the dysfunctional catheter.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Acute ischemic stroke<newline/>
+Acute myocardial infarction<newline/>
+Acute massive pulmonary embolism<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Breaks down thrombus to restore blood flow</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Anticoagulants<newline/>
+Antiplatelets<newline/>
+ACE inhibitors<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Bleeding, including severe bleeding and fatal bleeding</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+<emphasis effect="italics">General:</emphasis><newline/>
+Active internal bleeding<newline/>
+Recent intracranial or intraspinal surgery or serious head trauma<newline/>
+Intracranial conditions that may increase risks for bleeding<newline/>
+Current severe uncontrolled hypertension<newline count="2"/>
+<emphasis effect="italics">Acute ischemic stroke:</emphasis><newline/>
+Current intracranial hemorrhage<newline/>
+Subarachnoid hemorrhage<newline count="2"/>
+<emphasis effect="italics">Acute myocardial infarction or pulmonary embolism:</emphasis><newline/>
+History of recent stroke<newline count="2"/>
+Caution: <newline/>
+Increase risk for bleeding<newline/>
+Monitor for hypersensitivity<newline/>
+Reembolization risk from lysis of DVT<newline/>
+Cholesterol embolism (rare)</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Alteplase (sources: https://dailymed.nlm.nih.gov/dailymed/; *Powers et al., 2019)</caption>
+</table>
+</section>
+<section id="sect-00007">
+<title>Nursing Implications</title>
+<para id="para-00011">The nurse should do the following for clients who are taking thrombolytics:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Obtain baseline vital signs.</item>
+<item>Avoid intramuscular injections, internal jugular, and subclavian venous punctures during infusion. If an arterial puncture is necessary during infusion, the nurse should use an upper extremity blood vessel that can be compressed and should apply pressure applied for 30 minutes afterward. The nurse should also monitor the puncture site closely.</item>
+<item>Ensure clients remain on bedrest following thrombolytic administration to reduce falls and subsequent bleeding risk.</item>
+<item>Monitor the client for bleeding via a complete blood count and monitoring for other signs/symptoms.</item>
+<item>Notify the provider immediately if signs or symptoms of bleeding occur; treatments such as cryoprecipitate (blood-derived clotting factors) or antifibrinolytic medications (medications that prevent fibrin breakdown, such as aminocaproic acid or tranexamic acid) may be warranted.</item>
+<item>Monitor for hypersensitivity reactions.</item>
+<item>Initiate an additional IV line for clients receiving alteplase, because alteplase requires a dedicated IV line</item>
+<item>Monitor for changes in the client’s condition depending on the indication for use,</item>
+<item>Administer thrombolytic therapy promptly; there are specific time frames that the drug must be administered for full therapeutic effect, depending on the disease state being treated.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00012"><emphasis effect="bold">The client taking a thrombolytic should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Recognize the signs/symptoms of bleeding as described under adverse effects. Providers should be notified immediately if any of these signs and symptoms occur.</item>
+<item>Recognize the signs/symptoms of therapeutic failure, depending on the disease state being treated.</item>
+<item>Remain on bedrest after thrombolytic administration to reduce falls and subsequent bleeding risk.</item>
+<item>Follow drug-specific dietary guidelines.</item>
+</list>
+<para id="para-00013"><emphasis effect="bold">The client taking a thrombolytic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Discontinue therapy unless following specific instructions from the HCP.</item>
+<item>Schedule any invasive procedure without direct communication with the HCP, including but not limited to dental procedures.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00008">
+<title>Chapter Summary</title>
+<para id="para-00014">This chapter described the physiology of forming a blood clot, including review of the coagulation cascade and platelet activation. It examined the various medications for prevention and treatment of thromboembolism. Anticoagulant mediations were summarized, including both injectable and oral forms. Special attention was paid to client education on warfarin therapy and enoxaparin injection technique. Antiplatelet medications were also described. Finally, thrombolytics were discussed. Bleeding risk was central to the discussion of each of these classes of medications.</para>
+</section>
+<section class="review-questions" id="sect-00009">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00015"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00016"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec04_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec01_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec02_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch20_Sec04_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00010">
+<para id="para-00025">American Stroke Association. (2021, June 17). <emphasis effect="italics">Atherosclerosis and stroke</emphasis>. https://www.stroke.org/en/about-stroke/stroke-risk-factors/atherosclerosis-and-stroke</para>
+<para id="para-00026">Ashorobi, D., Ameer, M. A., &amp; Fernandez, R. (2022). Thrombosis. <emphasis effect="italics">StatPearls.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK538430/</para>
+<para id="para-00027">Centers for Disease Control and Prevention. (2020, February 10). <emphasis effect="italics">What is venous thromboembolism?</emphasis> https://www.cdc.gov/ncbddd/dvt/facts.html</para>
+<para id="para-00028">DailyMed. (Updated September 13, 2022). <emphasis effect="italics">Activase–alteplase kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c669f77c-fa48-478b-a14b-80b20a0139c2</para>
+<para id="para-00029">DailyMed. (Updated June 30, 2019). <emphasis effect="italics">Angiomax–bivalirudin injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f133813-f74e-4508-bc64-debbf104ff1e</para>
+<para id="para-00030">DailyMed. (Updated June 15, 2021). <emphasis effect="italics">Apixaban tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=095a08ac-cf0e-497e-a682-ddef38d6b29c</para>
+<para id="para-00031">DailyMed. (Updated November 7, 2022). <emphasis effect="italics">Argatroban injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=46cdf9e6-839c-49c8-9ee1-c30cfdd9368d</para>
+<para id="para-00032">DailyMed. (Updated October 18, 2022). <emphasis effect="italics">Aspirin 81 tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bfc4fd55-45db-41f4-b878-a6b7155f0849</para>
+<para id="para-00033">DailyMed. (Updated October 13, 2020). <emphasis effect="italics">Cathflo activase–alteplase injection, powder for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9</para>
+<para id="para-00034">DailyMed. (Updated July 14, 2021). <emphasis effect="italics">Eptifibatide injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f48ecd1e-a2c3-45d1-9e2e-d9a8fb71a770</para>
+<para id="para-00035">DailyMed. (Updated October 11, 2022). <emphasis effect="italics">Fragmin–dalteparin sodium injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7</para>
+<para id="para-00036">DailyMed. (Updated September 13, 2021). <emphasis effect="italics">Heparin sodium injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=83a59e7d-63e9-4eb8-87f0-52039d6893a5</para>
+<para id="para-00037">DailyMed. (Updated September 6, 2022). <emphasis effect="italics">Kengreal injection, powder for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88b434fa-8891-4fd5-9d86-7ea64667c08f</para>
+<para id="para-00038">DailyMed. (Updated January 11, 2022). <emphasis effect="italics">Lovenox–enoxaparin sodium injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59</para>
+<para id="para-00039">DailyMed. (Updated September 22, 2022). <emphasis effect="italics">Plavix tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227</para>
+<para id="para-00040">DailyMed. (Updated June 8, 2021). <emphasis effect="italics">Pradaxa–dabigatran etexilate mesylate capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ba74e3cd-b06f-4145-b284-5fd6b84ff3c9</para>
+<para id="para-00041">DailyMed. (Updated January 26, 2023). <emphasis effect="italics">Savaysa–edoxaban tosylate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e77d3400-56ad-11e3-949a-0800200c9a66</para>
+<para id="para-00042">DailyMed. (Updated April 12, 2023<emphasis effect="italics">). Tnkase–tenecteplase kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=739a3c53-caf6-40d6-a6af-84ce733a948b</para>
+<para id="para-00043">DailyMed. (Updated July 21, 2020). <emphasis effect="italics">Ticagrelor tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7cee944f-e2ca-4fc8-bb97-f46ca28728c5</para>
+<para id="para-00044">DailyMed. (Updated August 30, 2021). <emphasis effect="italics">Warfarin sodium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cbce382-9c88-4f58-ae0f-532a841e8f95</para>
+<para id="para-00045">DailyMed. (Updated February 15, 2023). <emphasis effect="italics">Xarelto–rivaroxaban tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610</para>
+<para id="para-00046">Hirsh, J., Anand, S. S., Halperin, J. L., Fuster, V., &amp; American Heart Association. (2001). Guide to anticoagulant therapy: Heparin: A statement for healthcare professionals from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">103</emphasis>(24), 2994–3018. https://doi.org/10.1161/01.cir.103.24.2994)</para>
+<para id="para-00047">Holmberg, M. T., Tornio, A., Neuvonen, A., Neuvonen, M., Backman, P. J., &amp; Niemi, M. (2014). Grapefruit juice inhibits the metabolic activation of clopidogrel. <emphasis effect="italics">Clinical Pharmacology and Therapeutics</emphasis>, <emphasis effect="italics">95</emphasis>(3), 307–313. https://doi.org/10.1038/clpt.2013.192</para>
+<para id="para-00048">Institute for Safe Medication Practices (2018, July 23). <emphasis effect="italics">High-alert medications in the acute care settings</emphasis>. https://www.ismp.org/recommendations/high-alert-medications-acute-list</para>
+<para id="para-00049">Jaff, M. R., McMurtry, M. S., Archer, S. L., Cushman, M., Goldenberg, N., Goldhaber, S. Z., Jenkins, J. S., Kline, J. A., Michaels, A. D., Thistlethwaite, P., Vedantham, S., White, R. J., Zierler, B. K. (2011). Management of massive and submassive pulmonary embolism, iliofemoral deep vein thrombosis, and chronic thromboembolic pulmonary hypertension: A scientific statement from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">123</emphasis>(16), 1788–1830. https://doi.org/10.1161/CIR.0b013e318214914f</para>
+<para id="para-00050">Linkins, L. A., Dans, A. L., Moores, L. K., Bona, R., Davidson, B. L., Schulman, S., &amp; Crowther, M. (2012). Treatment and prevention of heparin-induced thrombocytopenia: Antithrombotic therapy and prevention of thrombosis. <emphasis effect="italics">Chest</emphasis>, <emphasis effect="italics">141</emphasis>(2 Suppl), e495S–e530S. https://doi.org/10.1378/chest.11-2303</para>
+<para id="para-00051">Mayo Clinic (n.d) Heart attack. https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106</para>
+<para id="para-00052">Parsons, C., Patel, S. I., Cha, S., Shen, W. K., Desai, S., Chamberlain, A. M., Luis, S. A., Aguilar, M. I., Demaerschalk, B. M., Mookadam, F., &amp; Shamoun, F. (2017). CHA<sub>2</sub>DS<sub>2</sub>-VASc score: A predictor of thromboembolic events and mortality in patients with an implantable monitoring device without atrial fibrillation. <emphasis effect="italics">Mayo Clinic Proceedings</emphasis>, <emphasis effect="italics">92</emphasis>(3), 360–369. https://doi.org/10.1016/j.mayocp.2016.10.008</para>
+<para id="para-00053">Powers, W. J., Rabinstein, A. A., Ackerson, T., Adeoye, O. M., Bambakidis, N. C., Becker, K., Biller, J., Brown, M., Demaerschalk, B. M., Hoh, B., Jauch, E. C., Kidwell, C. S., Leslie-Mazwi, T. M., Ovbiagele, B., Scott, P. A., Sheth, K. N., Southerland, A. M., Summers, D. V., &amp; Tirschwell, D. L. (2019). Guidelines for the early management of clients with acute ischemic stroke: 2019 Update to the 2018 guidelines for the early management of acute ischemic stroke: A Guideline for healthcare professionals from the American Heart Association/American Stroke Association. <emphasis effect="italics">Stroke</emphasis>, <emphasis effect="italics">50</emphasis>(12), e344–e418. https://doi.org/10.1161/STR.0000000000000211</para>
+<para id="para-00054">Rountree, K. M., &amp; Lopez, P. P. (2018). Partial thromboplastin time. <emphasis effect="italics">StatPearls</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK507772/</para>
+</section>
+</content>
 </document>

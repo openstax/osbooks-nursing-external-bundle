@@ -6,8 +6,20 @@
     <md:uuid>1790d59c-1fb5-4673-981e-05870b37d534</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-    <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<figure class="splash" id="fig-00001">
+<media alt="The heart with the main arteries and veins."><image mime-type="image/jpeg" src="../../media/PHA_Unit05_16_22_001_Splash.jpg"/></media>
+<caption>The heart is the primary organ of the cardiovascular system, controlling circulation and blood flow for the entire body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00001">Blood moves through the cardiovascular system to deliver oxygen and nutrients to the various tissues, including those that make up the body’s organs. It is pumped by the heart into arteries, which carry oxygenated and nutrient-rich blood to each tissue. Arteries branch into smaller arteries called arterioles, then into capillaries. Capillaries are thinned-walled blood vessels that facilitate gas exchange, or the exchange of oxygen for carbon dioxide in the tissues. Blood is collected into small veins called venules, which drain into larger veins that eventually bring blood back to the heart for oxygenation. See <link document="m00314">Heart Failure Drugs</link> for more information on the circulatory system.</para>
+<para id="para-00002">Blood is made up of many components, such as <term id="term-00001">erythrocytes</term> (red blood cells), leukocytes (white blood cells, which are important in the immune system), and <term id="term-00002">platelets</term>. Erythrocytes contain <term id="term-00003">hemoglobin</term>, which is the substance that binds with oxygen and facilitates its transport in the blood. Platelets are the sticky substances in the blood that form a scab when a client has a cut or injury. More information on platelets will be discussed later in this chapter. Blood also contains plasma, which is the fluid surrounding the cellular components of blood and is made up of water, electrolytes, and proteins.</para>
+<para id="para-00003">The amount of the various components of blood can be monitored by a laboratory blood test called a <term id="term-00004">complete blood count (CBC)</term>. The CBC measures the amount of red blood cells, white blood cells, hemoglobin, <term id="term-00005">hematocrit</term>, and platelets. Hematocrit is another way to assess the amount of red blood cells by measuring the ratio of red blood cells to the overall volume of blood. Low hemoglobin and/or hematocrit can signal blood loss or anemia, among other etiologies.</para>
+</content>
+<glossary>
+<definition id="def-00001"><term>complete blood count</term> <meaning>laboratory blood test that measures the amount of red blood cells, white blood cells, hemoglobin, hematocrit, and platelets</meaning></definition>
+<definition id="def-00002"><term>erythrocytes</term> <meaning>red blood cells</meaning></definition>
+<definition id="def-00003"><term>hemoglobin</term> <meaning>substance that binds oxygen and facilitates oxygen transport in the blood</meaning></definition>
+<definition id="def-00004"><term>hematocrit</term> <meaning>percentage or proportion of red blood cells in the blood</meaning></definition>
+<definition id="def-00005"><term>platelets</term> <meaning>component of the blood that bind together and to endothelial tissue to form a clot</meaning></definition>
+<definition id="def-00006"><term>thrombolytics</term> <meaning>drugs that dissolve existing clots</meaning></definition>
+</glossary>
 </document>
