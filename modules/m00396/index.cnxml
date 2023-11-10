@@ -16,6 +16,7 @@
 <item>Explain the client education related to antihistamine and decongestant drugs used to treat respiratory disorders.</item>
 </list>
 </section>
+<section id="sect-00021">
 <section id="sect-00002">
 <title>Antihistamines</title>
 <para id="para-00002"><term id="term-00001">Histamines</term> are chemicals in the <term class="no-emphasis" id="term-00002">immune system</term>. Histamines are released by the body as part of the immune response to a foreign substance such as an allergen or pathogen. Histamine receptors are activated, and reactions occur. <term class="no-emphasis" id="term-00003">H1 receptors</term> are found in smooth muscle cells, endothelial cells, and nerve endings. Activation of these receptors leads to various responses, including smooth muscle contraction, increased vascular permeability, itching, and sensory nerve stimulation. These receptors are involved in allergic reactions as well as regulating sleep–wake cycles and maintaining blood pressure. H2 receptors are mostly located in the stomach parietal cells, regulating gastric acid secretion. When these receptors are blocked, allergy symptoms can be reduced and stomach acid can be controlled.</para>
@@ -59,8 +60,6 @@
 </tgroup>
 <caption>Drug Emphasis Table: First-Generation Antihistamines (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-</section>
-</section>
 <section id="sect-00004">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00007">First-generation antihistamines can cause drowsiness, dizziness, confusion, and urinary retention. Clients with a history of urinary retention or prostatic hyperplasia should use first-generation antihistamines cautiously. First-generation antihistamines should be avoided in older adults because they can increase the risk of dementia.</para>
@@ -117,6 +116,11 @@ Prostatic hyperplasia</entry>
 <title><emphasis effect="bold">Antihistamines and Older Clients</emphasis></title>
 <para id="para-00009">First-generation antihistamines should be avoided in <term class="no-emphasis" id="term-00013">older clients</term>. Their highly anticholinergic properties can increase the risk of dementia, and clearance of the drug is reduced in clients of advanced age.</para>
 </note>
+</section>
+</section>
+</section>
+</section>
+<section id="sect-00022"><title/>
 <section id="sect-00005">
 <title>Second-Generation Antihistamines</title>
 <para id="para-00010">The mechanism of action and side effects of <term class="no-emphasis" id="term-00014">second-generation antihistamines</term> are distinct from those of first-generation antihistamines. Unlike first-generation antihistamines, which block both histaminic and <term id="term-00015">muscarinic</term> receptors and can penetrate the blood–brain barrier, second-generation antihistamines primarily target histamine receptors and do not cross the blood–brain barrier, which therefore diminishes the likelihood of central nervous system–related adverse effects. This distinction leads to a significantly reduced occurrence of first-generation side effects, especially drowsiness, in second-generation antihistamines (Naqvi &amp; Gerriets, 2023).</para>
@@ -231,15 +235,15 @@ Hepatic or renal impairment</entry>
 </thead>
 <tbody>
 <row>
-<entry valign="middle" align="left"><term class="no-emphasis" id="term-00025">Fexofenadine</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00025">Fexofenadine</term><newline/>
 (<term class="no-emphasis" id="term-00026">Allegra</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="italics">12-hour tablet:</emphasis> 60 mg orally with water every 12 hours. No more than 2 tablets in 24 hours.<newline/>
+<entry valign="top" align="center"><emphasis effect="italics">12-hour tablet:</emphasis> 60 mg orally with water every 12 hours. No more than 2 tablets in 24 hours.<newline/>
 <emphasis effect="italics">24-hour tablet:</emphasis> 180 mg orally with water once a day. No more than 1 tablet in 24 hours.</entry>
 </row>
 <row>
-<entry valign="middle" align="left"><term class="no-emphasis" id="term-00027">Desloratadine</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00027">Desloratadine</term><newline/>
 (<term class="no-emphasis" id="term-00028">Clarinex</term>)</entry>
-<entry valign="top" align="left">5 mg tablet orally once daily; if using the syrup, 2 teaspoonfuls (5 mg in 10 mL) orally once daily.</entry>
+<entry valign="top" align="center">5 mg tablet orally once daily; if using the syrup, 2 teaspoonfuls (5 mg in 10 mL) orally once daily.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -408,8 +412,7 @@ One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 ho
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Emphasis Table: Topical Decongestants<newline/> 
-(sources: https://dailymed.nlm.nih.gov/dailymed/; MedlinePlus, 2018)</caption>
+<caption>Drug Emphasis Table: Topical Decongestants (sources: https://dailymed.nlm.nih.gov/dailymed/; MedlinePlus, 2018)</caption>
 </table>
 </section>
 </section>
