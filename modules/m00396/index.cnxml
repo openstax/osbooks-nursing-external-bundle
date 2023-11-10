@@ -32,12 +32,14 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Diphenhydramine</term><newline/>
 (<term class="no-emphasis" id="term-00008">Benadryl</term>)</entry>
@@ -133,12 +135,14 @@ Prostatic hyperplasia</entry>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Cetirizine</term><newline/>
 (<term class="no-emphasis" id="term-00018">Zyrtec</term>)</entry>
@@ -218,12 +222,14 @@ Hepatic or renal impairment</entry>
 <table class="vertically-tight" id="table-00005">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="middle" align="left"><term class="no-emphasis" id="term-00025">Fexofenadine</term><newline/>
 (<term class="no-emphasis" id="term-00026">Allegra</term>)</entry>
@@ -248,7 +254,7 @@ Hepatic or renal impairment</entry>
 <table class="vertically-tight" id="table-00006">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
@@ -319,7 +325,7 @@ Impaired renal function</entry>
 <para id="para-00032"><term class="no-emphasis" id="term-00031">Nasal decongestants</term> are typically available as drops or sprays applied directly to the nasal passage (see <link target-id="fig-00002" document="m00396"/>). These remedies are regarded as topical agents and do not have any widespread impacts on the body. They are usually favored over oral drugs since they deliver prompt relief from nasal congestion. Nasal decongestants should be used for 3 days or less, as <term id="term-00032">rebound congestion</term> can occur. Rebound congestion is worsened congestion after the medication wears off.</para>
 <figure class="scaled-down" id="fig-00002">
 <media alt="A close-up of an individual's face as they lie down with their eyes closed. A gloved hand places the nozzle of a small plastic tube inside their nose."><image mime-type="image/png" src="../../media/PHA_Figure_24_01_003.jpg"/></media>
-<caption>Nasal decongestants come in many forms including sprays, inhalers, and pills. [/caption] (credit: “A medical professional applied nose drops” by Glynda Rees Doyle and Jodie Anita McCutcheon/(BCIT), CC BY 4.0 International)</caption>
+<caption>Nasal decongestants come in many forms including sprays, inhalers, and pills. (credit: “A medical professional applied nose drops” by Glynda Rees Doyle and Jodie Anita McCutcheon/(BCIT), CC BY 4.0 International)</caption>
 </figure>
 <section id="sect-00014">
 <title>Oxymetazoline</title>
@@ -380,17 +386,19 @@ Hypersensitivity</entry>
 <table class="vertically-tight" id="table-00008">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00035">Pseudoephedrine</term><newline/>
 (<term class="no-emphasis" id="term-00036">Sudafed</term>)</entry>
 <entry valign="top" align="left">One 120 mg tablet orally every 12 hours; do not take more than 2 tablets in 24 hours. <newline/>
-One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline/>
+One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline count="2"/>
 <emphasis effect="italics">Immediate release:</emphasis> 30–60 mg orally every 4–6 hours; maximum dose: 240 mg/day.</entry>
 </row>
 <row>

@@ -89,14 +89,16 @@ Pregnancy</entry>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="middle" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="middle" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
 <tbody>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
-</row>
-<row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Acetylcysteine</term><newline/>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Acetylcysteine</term><newline/>
 (<term class="no-emphasis" id="term-00007">Mucomyst</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">For removal of secretions in clients with cystic fibrosis, bronchitis, and other respiratory disorders:</emphasis> 1–2 mL of 10%–20% solution inhalant instilled into trachea as often as every hour. <newline/>
 <emphasis effect="italics">Prior to diagnostic studies:</emphasis> 2–3 administrations of 1–2 mL of 20% solution inhalant or 2–4 mL of 10% solution inhalant prior to procedure.<newline/>
