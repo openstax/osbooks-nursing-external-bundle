@@ -40,7 +40,7 @@
 <table class="vertically-tight alternate-shading" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">PTT</span></entry>
@@ -292,7 +292,7 @@ Do not use as initial therapy in clients with acute HIT until after platelets re
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
 </list>
 <note class="client-teaching" id="note-00004">
-<para id="para-00036">The client taking an anticoagulant should:</para>
+<para id="para-00036"><emphasis effect="bold">The client taking an anticoagulant should:</emphasis></para>
 <list list-type="bulleted" id="list-00006">
 <item>Recognize the signs and symptoms of bleeding as described under adverse effects and notify providers immediately if any of these signs or symptoms occur.</item>
 <item>Differentiate signs of typical bleeding, such as minor bruising, from signs of dangerous bleeding as described above.</item>
@@ -317,10 +317,10 @@ Do not use as initial therapy in clients with acute HIT until after platelets re
 <note class="unfolding-casestudy" id="note-00006">
 <title>Anticoagulants</title>
 <para id="para-00045">Read the following clinical scenario to answer the questions that follow.</para>
-<para id="para-00046">Thomas Schmidt, [IR12]a 48-year-old male client, presents to the emergency department with reports of stabbing chest pain and is diagnosed with pulmonary embolism using computed tomography pulmonary angiography. Thomas client is started on heparin. He is given an initial dose of 80 units/kg IV as a bolus, then started on a continuous infusion of 18 units/kg/hour.<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">History:</emphasis></span><newline/>
+<para id="para-00046">Thomas Schmidt, a 48-year-old male client, presents to the emergency department with reports of stabbing chest pain and is diagnosed with pulmonary embolism using computed tomography pulmonary angiography. Thomas client is started on heparin. He is given an initial dose of 80 units/kg IV as a bolus, then started on a continuous infusion of 18 units/kg/hour.<newline count="2"/>
+<emphasis effect="bold">History:</emphasis><newline/>
 Diabetes mellitus type 2<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Current medications:</emphasis></span><newline/>
+<emphasis effect="bold">Current medications:</emphasis><newline/>
 Metformin 500 mg orally daily</para>
 <table class="vertically-tight" id="table-00004">
   <tgroup cols="3">
