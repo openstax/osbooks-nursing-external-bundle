@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Pumping Action of the Heart</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Pumping Action of the Heart</md:title>
@@ -6,8 +6,63 @@
     <md:uuid>3b98ece5-6ae9-471f-a946-87670eabe92d</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Discuss the pumping action of the heart.</item>
+<item>Describe the cardiac cycle.</item>
+<item>Explain hemodynamics</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>An Introduction to the Pumping Action of the Heart</title>
+<para id="para-00002">The heart pumps in a complex and coordinated cycle to move blood between the chambers of the heart, the lungs, and the associated blood vessels.</para>
+<para id="para-00003">Ventricular systole (or just systole if not specified) refers to the active pumping or contraction of the ventricles. The contraction of the heart muscle increases pressure within the ventricles. When the pressure in the ventricles exceeds the pressure in the attached blood vessel (right ventricle: pulmonary artery; left ventricle: aorta), it causes the connected semilunar valve to open, and blood is ejected into the vessel. On the right side of the heart, contraction of the right ventricle during systole causes the pulmonary valve to open, and blood then flows through the open valve into the pulmonary artery. On the left side of the heart, contraction of the left ventricle during systole causes the aortic valve to open, and blood then flows through the open valve and into the aorta. After systole, the ventricular heart muscle relaxes, and the chamber refills with blood. This phase of relaxation and filling is referred to as <emphasis effect="italics"><term class="no-emphasis" id="term-00001">ventricular diastole</term></emphasis>, or just <term id="term-00002">diastole</term>.</para>
+<para id="para-00004"><emphasis effect="italics">Note:</emphasis> When reading the terms <emphasis effect="italics">systole</emphasis> and <emphasis effect="italics">diastole</emphasis>, it is reasonable to assume this is referring to ventricular systole and diastole. Typically, atrial systole and atrial diastole will be noted as such.</para>
+<para id="para-00005">Generally, the right and left sides of the heart pump simultaneously, with the two ventricles contracting nearly in tandem. While the ventricles are contracting during ventricular systole, both of the atria are filling with blood (which will next travel to the associated ventricles during ventricular diastole or filling). The atria undergo systole (contraction) and diastole (relaxation/filling) as well.</para>
+<para id="para-00006">The left and right sides of the heart have similar functions but vary considerably in their pumping ability. For example, the left ventricle must pump blood into the high-pressure arterial circulation (~90 mm Hg), whereas the right ventricle pumps blood only through the low-pressure pulmonary circulation (8–20 mm Hg). Accordingly, the left ventricle must work harder as compared to the right. When clients experience heart failure, it is commonly an issue with the left ventricle’s ability to pump (e.g., heart failure with reduced ejection fraction; see <link document="m00314">Heart Failure Drugs</link>). One way to alleviate heart failure symptoms is by reducing systemic arterial pressure with drugs, making it easier for the left ventricle to pump blood out.</para>
+</section>
+<section id="sect-00003">
+<title>Cardiac Cycle</title>
+<para id="para-00007">The <term class="no-emphasis" id="term-00003">cardiac cycle</term> is a complex cycle that relies on pressure gradients and valves to direct blood through the heart and pulmonary circuit and into the systemic circulation. Blood flows from areas of higher pressure to areas of lower pressure based on pressure gradients, or differences in pressure among different spaces. The phases of the cardiac cycle are systole (contraction/pumping) and diastole (relaxation/filling), as described in the previous section. This section will follow the path of blood through the heart, pulmonary, and circulatory system (see [link]Figure 16.4[/link]):</para>
+<list list-type="bulleted" id="list-00002"> 
+<item><emphasis effect="italics">Right atrial diastole (i.e., filling the right atrium):</emphasis> Blood enters the heart via the superior and inferior venae cavae. Blood flows directly into the right atrium. The right atrium fills with blood, and during this time the tricuspid valve is closed. Concurrently, the right ventricle is pumping a different portion of blood.</item>
+<item><emphasis effect="italics">Right atrial systole/right ventricular diastole (i.e., pumping blood from the right atrium to fill the right ventricle):</emphasis> The atria are then triggered to contract by the electrical conduction system of the heart. During atrial contraction (known as atrial systole or atrial kick), the pressure increases within the cavity of the atrium and eventually exceeds the pressure in the right ventricle. This causes the tricuspid valve to open, and blood flows into the right ventricle (ventricular diastole). The pulmonary valve is closed.</item>
+<item><emphasis effect="italics">Right ventricular systole (i.e., pumping blood from the right ventricle to the pulmonary artery):</emphasis> The ventricles are triggered to contract by the electrical conduction system of the heart, starting ventricular systole. During ventricular systole, the pressure in the ventricle increases and becomes greater than the pressure within the pulmonary artery, causing the pulmonary valve to open. Blood flows into the pulmonary artery and then the lungs for gas exchange. Concurrently, atria are refilled with a new portion of blood.</item>
+<item><emphasis effect="italics">Left atrial diastole (i.e., filling the left atrium):</emphasis> Blood returns from the lungs via the pulmonary vein and flows directly into the left atrium. The mitral valve is closed.</item>
+<item><emphasis effect="italics">Left atrial systole/left ventricular diastole (i.e., pumping blood from the left atrium to fill the left ventricle):</emphasis> The atria are then triggered to contract by the electrical conduction system of the heart. During atrial contraction (known as atrial systole or atrial kick), the pressure in the left atrium eventually exceeds that of the left ventricle. This causes the mitral valve to open, and blood flows into the left ventricle (ventricular diastole). The aortic valve is closed.</item>
+<item><emphasis effect="italics">Left ventricular systole (i.e., pumping blood from the left ventricle to the body):</emphasis> The ventricles are triggered to contract by the electrical conduction system of the heart, starting ventricular systole. During ventricular systole, contraction of the left ventricle causes the pressure within the cavity to increase. It eventually exceeds the pressure within the aorta, and the aortic valve opens. Blood flows into the aorta and then the lungs for gas exchange. Concurrently, the atria are refilling with a new portion of blood.</item>
+<item><emphasis effect="italics">Systemic circulation:</emphasis> Oxygenated blood is delivered to the tissues via arteries and capillaries, and deoxygenated blood returns to the heart via veins and the venae cavae to restart the cycle with right atrial diastole.</item>
+</list>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram shows how blood flows from the right atrium and ventricle of the heart into the lungs, back into the left atrium and ventricle of the heart through the systemic arteries and capillaries of the rest of the body. It then moves to the capillaries and veins, where it travels back to the heart and lungs to be reoxygenated."><image mime-type="image/png" src="../../media/PHA_Figure_16_02_004.png"/></media>
+<caption>The colors in this diagram reflect the dual system of blood circulation. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<note class="link-to-learning" id="note-00001">
+<title>Follow the Path of Blood Through the Heart</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/circulation"/>
+</media>
+<para id="para-00008">The <term class="no-emphasis" id="term-00004">National Heart, Lung, and Blood Institute</term> provides a video that shows the path of blood through the heart during the cardiac cycle.</para>
+</note>
+</section>
+<section id="sect-00004">
+<title>Cardiac Output and Hemodynamics</title>
+<para id="para-00009">Cardiac output is the amount of blood being pumped from the heart into the systemic circulation per unit of time. Cardiac output, systemic vascular resistance, and mean arterial pressure are related by the following formula:</para>
+<para id="para-00010"><m:math><m:mi>Mean</m:mi><m:mo> </m:mo><m:mi>Arterial</m:mi><m:mo> </m:mo><m:mi>Pressure</m:mi><m:mo>=</m:mo><m:mi>Cardiac</m:mi><m:mo> </m:mo><m:mi>Output</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>Systemic</m:mi><m:mo> </m:mo><m:mi>Vascular</m:mi><m:mo> </m:mo><m:mi>Resistance</m:mi></m:math></para>
+<para id="para-00011">As shown by this formula, cardiac output contributes to the mean arterial pressure. Cardiac output is dependent on the heart rate (the number of times the ventricle contracts per unit of time) and stroke volume (the volume of blood ejected with each contraction). The stroke volume (and thus cardiac output) is dependent on multiple variables:</para>
+<list list-type="bulleted" id="list-00003">
+<item><term id="term-00005">Preload</term>: This is the volume of blood that fills the left ventricle at the end of diastole. A higher preload leads to a higher stroke volume. Preload is sometimes referred to as left ventricular end diastolic volume or measured by left ventricular end diastolic pressure, because pressure and volume correlate. Preload is dependent on the volume of circulating blood and the degree of venous vasoconstriction. A higher circulating blood volume or less venous vasoconstriction increases preload. Diuretics are drugs which decrease circulating blood volume, thus decreasing preload.</item>
+<item><term id="term-00006">Afterload</term>: This is the amount of systemic pressure the heart must overcome to eject blood during systole. Higher afterload decreases stroke volume. Drugs that decrease systemic vascular resistance, such as antihypertensive medications, decrease afterload.</item>
+<item><term id="term-00007">Contractility</term>: Cardiac contractility refers to the strength of the force of left ventricular contraction. Increased activation of the sympathetic nervous system increases cardiac contractility via the actions of epinephrine and norepinephrine. Ischemia can decrease cardiac contractility. Increased calcium levels can increase cardiac contractility. Various drugs can affect myocardial contractility. A class of drugs called inotropes increase cardiac contractility. Some drugs can actually decrease cardiac contractility as a side effect.</item>
+</list>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>afterload</term> <meaning>the amount of systemic pressure that the heart must overcome to eject blood during systole</meaning></definition>
+<definition id="def-00002"><term>contractility</term> <meaning>the strength of the force of left ventricular contraction</meaning></definition>
+<definition id="def-00003"><term>diastole</term> <meaning>the phase of the cardiac cycle in which a chamber is relaxing or filling</meaning></definition>
+<definition id="def-00004"><term>preload</term> <meaning>the volume of blood that fills the left ventricle at the end of diastole</meaning></definition>
+</glossary>
 </document>

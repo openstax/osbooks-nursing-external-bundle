@@ -6,8 +6,113 @@
     <md:uuid>6f17cc01-3ae5-4d95-9cf6-17e16b1aacb0</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Outline the electrical conduction system of the heart.</item>
+<item>Discuss automaticity, conductivity, and myocardial contractility.</item>
+<item>Explain the importance of electrocardiography as it relates to the electrical conduction system of the heart.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title>Electrical Conduction System of the Heart</title>
+<para id="para-00002">The heart’s rate and rhythm are controlled by a conduction system that uses electrical impulses to cause the heart to pump blood throughout the body.</para>
+<para id="para-00003">The conduction system of the heart generates and carries the impulses that initiate and regulate the heart rate. The heart rate can be measured by palpation of the pulse on an artery such as the radial artery (known as a peripheral pulse) or by auscultation on the chest at the apex of the heart (known as an apical pulse). Each beat correlates with ventricular contraction. The pacemaker of the heart is the sinoatrial (SA) node in the atrium, which possesses <term id="term-00001">automaticity</term>, or the ability to spontaneously generate an electrical impulse that initiates the heartbeat. The impulse from the sinoatrial node is conducted through a specialized pathway down through the ventricles and eventually reaches the cardiac muscle cells, or cardiac myocytes, to trigger coordinated contraction of the heart chambers at their respective times in the cardiac cycle.</para>
+<note class="link-to-learning" id="note-00001">
+<title>The Conduction System of the Heart</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/heartbeat"/>
+</media>
+<para id="para-00004">The <term class="no-emphasis" id="term-00002">National Heart, Lung, and Blood Institute</term> provides a video with information about the heartbeat and a video with an image of the conduction system, including the pacemaker of the heart.</para>
+</note>
+<para id="para-00005">The origination of the impulse from the sinoatrial node in the atrium and the pathway of conduction is what leads to a normal heart rate (60–100 beats per minute) and rhythm, which is called normal sinus rhythm.</para>
+<para id="para-00006">Impulse generation and conduction work through <term id="term-00003">depolarization</term> of the cells in the conduction system. Depolarization is the cell membrane potential increasing or becoming more positive as compared to its surroundings. The cells of the cardiac conduction system maintain a negative resting voltage (i.e., ionic charge), also known as <term id="term-00004">membrane potential</term>. An <term id="term-00005">action potential</term> describes rapid depolarization of the cell, followed by repolarization (the cell membrane potential decreasing back to the resting voltage).</para>
+<para id="para-00007">The mechanisms for depolarization and repolarization vary, but in general, they rely on electrolytes or electrically charged ions. Positively charged ions such as sodium (Na<sup>+</sup>), potassium (K<sup>+</sup>), or calcium (Ca<sup>2+</sup>) <emphasis effect="italics">entering</emphasis> the cell make it less negative and mediate repolarization. Ions or substances entering the cell is referred to as influx. Positively charged ions such as Na<sup>+</sup>, K<sup>+</sup>, or Ca<sup>2+</sup> <emphasis effect="italics">leaving</emphasis> the cell make it more negative and mediate repolarization. Ions or substances leaving the cell is referred to as efflux. Given how central electrolytes are to cardiac function and the electrical conduction system of the heart, it is important to monitor clients’ blood levels to ensure they are sufficient. Hypokalemia, or a low potassium blood level, is a risk factor for dysrhythmias and should be avoided.</para>
+<section id="sect-00003">
+<title>Automaticity</title>
+<para id="para-00008">Automaticity describes a cell’s ability to spontaneously generate an electrical impulse that allows it to function as the pacemaker of the heart. In a healthy heart, the sinoatrial node has an intrinsic rate of spontaneous impulses of 60–100 beats per minute. The atrioventricular node, <term id="term-00006">bundle of His</term>, and <term id="term-00007">Purkinje fibers</term> also possess automaticity; however, their lower rate of spontaneous impulses (varying at 20–40 beats per minute) are suppressed by the higher rate of the sinoatrial node. In a healthy heart, the atrioventricular node, bundle of His, and Purkinje tissues do not demonstrate their automaticity.</para>
+<para id="para-00009">Automaticity in the pacemaker cells is a result of a spontaneous current, called the pacemaker or ‘funny’ current. This current spontaneously and slowly raises the membrane potential of the pacemaker cell until it reaches a threshold level. At the threshold, an action potential is triggered. In pacemaker cells, the rapid depolarization phase of the action potential is mediated by calcium influx, and repolarization is mediated by potassium efflux (i.e., leaving the cell).</para>
+</section>
+<section id="sect-00004">
+<title>Conductivity</title>
+<para id="para-00010">The cells of the cardiac conduction system receive the spontaneous impulses from the sinoatrial node and conduct, or carry, the signal through the atrioventricular node and then the bundle of His, which then splits into the left and right bundle branches. Each bundle branch gives rise to Purkinje fibers, which conduct the impulse into the cardiac muscle to facilitate contraction. Depolarization spreads from cell to cell via gap junctions, which are membranous connections between the cells. [link]Figure 16.5[/link] depicts the structures of the cardiac conduction system.</para>
+<para id="para-00011">Conductivity is mediated by action potentials. The resting membrane potential is negative. During conduction, rapid depolarization is mediated by sodium influx. The cell remains depolarized for a time period while calcium influx (through L-type calcium channels) and potassium efflux are relatively balanced, and then repolarization occurs via potassium efflux. A refractory period follows depolarization when the sodium channels that usually mediate depolarization are inactive. During the refractory period, the cell cannot be depolarized until the refractory (or inactive) period is over.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram of the heart shows spontaneous impulses moving from the sinoatrial node to the left and right atriums. From there, these impulses move through the atrioventricular bundle (also known as the bundle of His), through the left and right bundle branches to the left and right ventricles, as well as the Purkinje fibers. Additional conducting components near the sinoatrial node are the anterior internodal, atrioventricular node, middle internodal, and posterior internodal."><image mime-type="image/png" src="../../media/PHA_Figure_16_03_005.png"/></media>
+<caption>This image of the heart shows the conduction tissue and pathway. Specialized conducting components of the heart include the sinoatrial node, the internodal pathways, the atrioventricular node, the atrioventricular bundle, the right and left bundle branches, and the Purkinje fibers. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00005">
+<title>Myocardial Contractility</title>
+<para id="para-00012">The cardiac myocytes receive the electrical impulse from the conduction tissue and are stimulated to contract in a process called excitation-contraction coupling. During an action potential, calcium enters the cardiac myocyte via L-type calcium channels and then interacts with receptors called ryanodine receptors on the sarcoplasmic reticulum, which is a tubular structure found within the cell that stores calcium. This causes release of comparatively massive amounts of calcium into the cytoplasm from the sarcoplasmic reticulum, in a process called <emphasis effect="italics">calcium-induced calcium release</emphasis>. The high levels of calcium cause downstream contraction of the cardiac myocytes.</para>
+<para id="para-00013"><term class="no-emphasis" id="term-00008">Myocardial contraction</term> occurs due to the interaction of two proteins called actin and myosin that each form separate long filaments. At rest, the interaction between actin and myosin is blocked by a protein called tropomyosin. Calcium causes changes in tropomyosin (via a protein called troponin), rendering it unable to inhibit the interaction of actin and myosin. Uninhibited, filaments of actin and myosin attach and slide past each other, which is the basis for myocyte contraction.</para>
+<note class="link-to-learning" id="note-00002">
+<title>Excitation-Contraction Coupling</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/cardiac"/>
+</media>
+<para id="para-00014"><term class="no-emphasis" id="term-00009">StrongMed</term> provides a video summarizing the process of excitation-contraction coupling in the heart.</para>
+</note>
+</section>
+</section>
+<section id="sect-00006">
+<title>Electrocardiography</title>
+<para id="para-00015"><term id="term-00010">Electrocardiography (EKG or ECG)</term> is a common diagnostic tool that allow health care professionals to monitor various aspects of the client’s heart including rate, rhythm, and the presence of ischemia. It is also used for monitoring medications. In a typical ECG, 12 leads are placed on the client’s chest and limbs in a specific orientation that allows them to detect the electrical activity of the cardiac conduction system. The client’s heart rate and rhythm are recorded visually through waves and intervals, which represent various aspects of conduction through the heart. [link]Figure 16.6[/link] shows an example of an electrocardiogram and its components.</para>
+<section id="sect-00007">
+<title>Waveforms</title>
+<para id="para-00016">When the cardiac electrical impulse is conducted in the direction of a lead, it creates an upward deflection; when traveling away, it causes a downward deflection. These are called <term id="term-00011">waveforms</term>. A segment on an ECG is the space between two waves and does not include a waveform. An interval, on the other hand, includes the space between two waves <emphasis effect="italics">and</emphasis> a waveform. The final ECG represents the summation of the impulses from all leads. This creates a pattern of waves for each cardiac cycle (heartbeat) that repeats for the duration of monitoring.</para>
+<para id="para-00017">In a healthy heart, each cardiac cycle consists of a P-wave, followed by a QRS complex (a combination of a Q-wave, R-wave, and S-wave), followed by a T-wave. The P-wave represents atrial depolarization, which is when the electrical impulse travels from the sinoatrial node through the atria to cause atrial contraction. After the P-wave, the tracing comes back to baseline as the signal is transmitted through the AV node. The QRS complex represents ventricular depolarization, which is the electrical conduction signal that causes ventricular contraction or ventricular systole. Finally, the T-wave represents ventricular repolarization. (Atrial repolarization is not visualized.) The interval from the beginning of the QRS complex to the end of the T-wave is called the QT interval. Segments are the regions between two waves.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="Normal waves from 1 second of an EKG are shown, consisting of the P wave, T wave, P-R and S-T segment, the PR and QT interval and the QRS complex."><image mime-type="image/png" src="../../media/PHA_Figure_16_03_006.png"/></media>
+<caption>A normal electrocardiogram tracing shows the P wave, QRS complex, and T wave. Also indicated are the PR, QT, QRS, and ST intervals, plus the P-R and S-T segments. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> 2e. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00008">
+<title>Dysrhythmias</title>
+<para id="para-00018">Normal sinus rhythm is the normal rhythm of a healthy heart. This describes the scenario where the sinoatrial node causes the heart to beat at 60–100 beats per minute and at regular intervals (equal time between each heartbeat or ventricular contraction). On the electrocardiogram of a client in normal sinus rhythm, every P-wave is followed by a QRS complex, which is followed by a T-wave. <term id="term-00012">Dysrhythmias</term> describe when there is a problem with the heart rate and/or rhythm. They are also known as <emphasis effect="italics"><term class="no-emphasis" id="term-00013">arrhythmias</term></emphasis>.</para>
+<para id="para-00019">If the heart rate is too fast, it is known as tachycardia. If the heart rate is too slow, it is known as <emphasis effect="italics"><term class="no-emphasis" id="term-00014">bradycardia</term></emphasis>. If the heart rhythm is irregular, it can be described as regularly irregular, meaning the time between heartbeats varies in a pattern, or irregularly irregular, meaning the time between heartbeats varies without any identifiable pattern. Dysrhythmias can occur when another part of the heart acts as the pacemaker or if conduction of the current occurs through a pathway other than the standard pathway described previously. For more about common dysrhythmias encountered in clinical practice, see <link document="m00312">Antidysrhythmic Drugs</link>.</para>
+</section>
+</section>
+<section id="sect-00009">
+<title>Chapter Summary</title>
+<para id="para-00020">This chapter focused on an introduction to the cardiovascular system and laid the foundation for cardiovascular pharmacology. The structure and anatomy of the cardiovascular system were described. The heart consists of four chambers: the two upper chambers (atria) and the two lower chambers (ventricles). The heart contains valves that direct blood flow and prevent backflow of blood through the heart. The heart is supplied with blood by the coronary arteries. Arteries carry oxygenated blood away from the heart to the body, and veins carry deoxygenated blood back to the heart from the body. Gas exchange occurs in the tissues via capillaries.</para>
+<para id="para-00021">The pumping action of the heart and the cardiac cycle were also discussed. Systole is the contraction of the heart chamber for pumping, and diastole is relaxation of the heart chamber for filling. The venae cavae deliver deoxygenated blood from the tissues to the right atrium, then the blood moves to the right ventricle, which pumps the deoxygenated blood to the pulmonary circuit for oxygenation. Oxygenated blood then returns to the left atrium, and then the blood moves to the left ventricle. During systole, the left ventricle pumps the blood through the aorta to the tissues for use.</para>
+<para id="para-00022">Finally, the conduction system of the heart was described. The conduction system is an electrochemical system that causes the heart to pump in a coordinated manner using movement of ions into and out of cells. The sinoatrial node acts as the pacemaker of the heart and spontaneously generates an impulse that moves through the conduction system, eventually reaching the muscle cells and causing them to contract during systole. The electrocardiogram allows clinicians to monitor the heart rate and rhythm in a noninvasive manner and can help diagnose dysrhythmias, or abnormal heart rhythms.</para>
+</section>
+<section class="review-questions" id="sect-00010">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec01_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec01_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00031"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00032"><link class="os-embed" url="#exercise/PHAR_Ch16_Sec03_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00011">
+<para id="para-00033">CDC. Centers for Disease Control and Prevention. (2022). <emphasis effect="italics">Heart disease facts.</emphasis> https://www.cdc.gov/heartdisease/facts.htm</para>
+<para id="para-00034">Evans, L., Rhodes, A., Alhazzani, W., Antonelli, M., Coopersmith, C. M., French, C., Machado, F. R., Mcintyre, L., Ostermann, M., Prescott, H. C., Schorr, C., Simpson, S., Wiersinga, W. J., Alshamsi, F., Angus, D. C., Arabi, Y., Azevedo, L., Beale, R., Beilman, G., Belley-Cote, E., … Levy, M. (2021). Surviving sepsis campaign: International guidelines for management of sepsis and septic shock 2021. <emphasis effect="italics">Critical Care Medicine</emphasis>, <emphasis effect="italics">49</emphasis>(11), e1063–e1143. https://doi.org/10.1097/CCM.0000000000005337</para>
+<para id="para-00035">Shah, P. &amp; Louis, M.A. (2022). <emphasis effect="italics">Physiology, central venous pressure.</emphasis> StatPearls.   https://www.ncbi.nlm.nih.gov/books/NBK519493/</para>
+<para id="para-00036">Tsao, C. W., Aday, A. W., Almarzooq, Z. I., Anderson, C. A. M., Arora, P., Avery, C. L., Baker-Smith, C. M., Beaton, A. Z., Boehme, A. K., Buxton, A. E., Commodore-Mensah, Y., Elkind, M. S. V., Evenson, K. R., Eze-Nliam, C., Fugar, S., Generoso, G., Heard, D. G., Hiremath, S., Ho, J. E., Kalani, R. (2023). American Heart Association Council on Epidemiology and Prevention Statistics Committee and Stroke Statistics Subcommittee Heart disease and stroke statistics—2023 update: A report from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">147</emphasis>(8), e93–e621. https://doi.org/10.1161/CIR.0000000000001123</para>
+<para id="para-00037">Unger, T., Borghi, C., Charchar, F., Khan, N. A., Poulter, N. R., Prabhakaran, D., Ramirez, A., Schlaich, M., Stergiou, G. S., Tomaszewski, M., Wainford, R. D., Williams, B., &amp; Schutte, A. E. (2020). 2020 International Society of Hypertension global hypertension practice guidelines. <emphasis effect="italics">Journal of Hypertension</emphasis>, <emphasis effect="italics">38</emphasis>(6), 982–1004. https://doi.org/10.1097/HJH.0000000000002453</para>
+<para id="para-00038">Whelton, P. K., Carey, R. M., Aronow, W. S., Casey, D. E., Jr, Collins, K. J., Dennison Himmelfarb, C., DePalma, S. M., Gidding, S., Jamerson, K. A., Jones, D. W., MacLaughlin, E. J., Muntner, P., Ovbiagele, B., Smith, S. C., Jr, Spencer, C. C., Stafford, R. S., Taler, S. J., Thomas, R. J., Williams, K. A., Sr, Williamson, J. D., Wright, J. T., Jr (2018). Guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: Executive summary: A report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. <emphasis effect="italics">Hypertension</emphasis>, <emphasis effect="italics">71</emphasis>(6), 1269–1324. https://doi.org/10.1161/HYP.0000000000000066</para>
+<para id="para-00039">World Health Organization. (2021). Cardiovascular diseases (CVDs) https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)</para>
+<para id="para-00040">Zhang, C., Xiang, C., Tian, X., Xue, J., He, G., Wu, X., Mei, Z., &amp; Li, T. (2021). Roles of nursing in the management of geriatric cardiovascular diseases. <emphasis effect="italics">Frontiers in Medicine</emphasis>, <emphasis effect="italics">8</emphasis>, 682218. https://doi.org/10.3389/fmed.2021.682218</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>automaticity</term> <meaning>a process by which a spontaneous action potential forms, allowing a tissue to act as the pacemaker of the heart</meaning></definition>
+<definition id="def-00002"><term>bundle of His</term> <meaning>part of the electrical system of the heart</meaning></definition>
+<definition id="def-00003"><term>depolarization</term> <meaning>a process by which a cell’s negative baseline resting membrane potential increases and becomes positive</meaning></definition>
+<definition id="def-00004"><term>dysrhythmias</term> <meaning>irregularities in the heart rate or rhythm; singular, dysrhythmia</meaning></definition>
+<definition id="def-00005"><term>electrocardiography (EKG, ECG)</term> <meaning>a common diagnostic tool that allows health care professionals to monitor various aspects of a client’s heart including rate, rhythm, or the presence of ischemia.</meaning></definition>
+<definition id="def-00006"><term>membrane potential</term> <meaning>the voltage (i.e., ionic charge) of a cell as compared to its surroundings</meaning></definition>
+<definition id="def-00007"><term>Purkinje fibers</term> <meaning>special muscle cells that allow coordinated contraction of the heart</meaning></definition>
+<definition id="def-00008"><term>waveforms</term> <meaning>the upward and downward deflection on an electrocardiogram</meaning></definition>
+<definition id="def-00009"><term>action potential</term> <meaning>rapid depolarization of the cell (i.e., the cell membrane potential increasing or becoming more positive as compared to its surroundings) followed by repolarization (i.e., the cell membrane potential decreasing back to the resting voltage)</meaning></definition>
+</glossary>
 </document>
