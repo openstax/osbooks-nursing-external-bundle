@@ -5,9 +5,220 @@
     <md:content-id>m00286</md:content-id>
     <md:uuid>f79cad09-acc1-49db-98ef-e488289f086f</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+ <content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Outcomes</title>
+      <para id="para-00001">By the end of this section, you should be able to:</para>
+      <list id="list-00001">
+      <item>Identify the characteristics of unclassified drugs used to treat dysrhythmias.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of unclassified drugs used to treat dysrhythmias.</item>
+<item>Describe the nursing implications of unclassified drugs used to treat dysrhythmias. </item>
+<item>Explain the client education related to unclassified drugs used to treat dysrhythmias. </item>
+      </list>
     </section>
+<para id="para-00002">Some antidysrhythmic drugs do not have a mechanism that fits into in the Vaughan Williams classification. These heterogeneous drugs do not have a unifying mechanism or treatment indication; they vary in their properties, and each will be discussed separately in the following sections. </para>
+<section id="sect-00002">
+<section id="sect-00003">
+<title>Atropine</title>
+<para id="para-00003">Atropine is an anticholinergic agent approved for symptomatic bradycardia, among other indications. It works as an acetylcholine receptor antagonist, thus decreasing parasympathetic or vagal regulation of the heart rate. It is important to note that heart transplant recipients lack vagal innervation, so atropine does not work to treat bradycardia in these clients.</para>
+<para id="para-00004">Atropine should be administered by rapid intravenous injection. Slow administration of atropine has been associated with paradoxical bradycardia (McLendon &amp; Preuss, 2022) and should be avoided.</para>
+</section>
+<section id="sect-00004">
+<title>Digoxin</title>
+<para id="para-00005">Digoxin is an older antidysrhythmic drug that was first approved in 1954 and is used for rate control of atrial fibrillation or atrial flutter. As an antidysrhythmic drug, it works by suppressing conduction through the AV node, slowing the rate of conduction and, thus, the ventricular heart rate. It does this by enhancing vagal (parasympathetic) stimulation of the heart. It is also approved for treatment of heart failure with reduced ejection fraction. Clients with heart failure and concomitant atrial fibrillation have few treatment options because many of the antidysrhythmic drugs are contraindicated. Therefore, given its approval for both disease states, digoxin is sometimes used for these clients.</para>
+<para id="para-00006">Digoxin is available in both oral and intravenous dosage forms. Because it is eliminated by the kidneys and can accumulate in individuals with decreased kidney function, nurses must monitor renal function in clients who are taking digoxin.</para>
+<para id="para-00007">Digoxin serum levels can be monitored; the reference range is 0.5–2.0 ng/mL. However, serum levels greater than or equal to 1.2 ng/mL may be associated with higher rates of mortality (Lopes et al., 2018). For clients who present with toxicity and particularly high digoxin serum levels (greater than 6–10 ng/mL), an antidote called digoxin immune fab (Digibind) can be administered to bind the digoxin and facilitate excretion. Many health care providers monitor the apical heart rate before administering digoxin, withholding it if the apical heart rate is less than 60 beats per minute.</para>
+</section>
+<section id="sect-00005">
+<title>Adenosine</title>
+<para id="para-00008">Adenosine is another unclassified antidysrhythmic drug that is approved for treating paroxysmal supraventricular tachycardia. It works by enhancing potassium efflux and suppressing calcium influx into the cells of the AV node, slowing its conduction and extinguishing arrhythmias that originate there. Adenosine is available in an intravenous dosage form. It has an extraordinarily short half-life—less than 10 seconds. This short half-life necessitates specific administration to ensure that the drug will reach the systemic circulation before it is metabolized: It must be given as a rapid IV bolus by the peripheral intravenous route, either administered directly into a vein or into an IV injection port as close to the client as possible. It must be immediately followed by a rapid saline flush. Using a stopcock can help facilitate quick administration.</para>
+<para id="para-00009">After administration of adenosine, clients will frequently experience a brief period of asystole on the ECG while concurrently experiencing a sensation of their heart stopping. This occurs because for a short period, conduction through the AV node (and thus the stimulus for ventricular contraction) is blocked. The nurse should tell the client about this expected effect to mitigate anxiety when the effect occurs. It is short lived due to the short half-life; prolonged asystole is very rare. Still, adenosine should be given only with continuous ECG monitoring at a facility with resuscitation measures available.</para>
+<para id="para-00010">lists common unclassified antidysrhythmics and typical routes and dosing for adult clients.</para>
+
+
+      <table class="vertically-tight" id="table-00001">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="2*"/>
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry><term class="no-emphasis" id="term-00001">Atropine</term><newline/>(<term class="no-emphasis" id="term-00002">AtroPen</term>)</entry>
+      <entry><emphasis effect="italics">Symptomatic bradycardia:</emphasis> 0.5–1 mg IV (may be repeated every 3–5 min to a maximum dose of 3 mg).</entry>
+      </row>
+      <row>
+<entry><term class="no-emphasis" id="term-00003">Digoxin</term><newline/>(<term class="no-emphasis" id="term-00004">Lanoxin</term>)</entry>
+<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> Dosing is individualized based on client-specific factors (e.g., body weight, renal function, age), indication, and serum levels.</entry>
+</row>
+<row>
+<entry><term class="no-emphasis" id="term-00005">Adenosine</term><newline/>(<term class="no-emphasis" id="term-00006">Adenocard</term>)</entry>
+<entry><emphasis effect="italics">Paroxysmal supraventricular tachycardia: </emphasis>6 mg via rapid IV bolus; if therapeutic failure after 1–2 min, 12 mg should be given.<newline/>
+This 12-mg dose may be repeated a second time if required.</entry>
+</row>
+      </tbody>
+      </tgroup>
+<caption>Drug Emphasis Table: Unclassified Antidysrhythmics (sources: https://dailymed.nlm.nih.gov/dailymed/; Kusumoto et al., 2019)</caption>
+      </table>
+</section>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00011">Atropine can cause anticholinergic adverse effects as an extension of its therapeutic effect. Some of the more serious adverse effects include tachycardia, acute glaucoma, pyloric obstruction, complete urinary retention in clients with benign prostatic hyperplasia, and formation of respiratory mucus plugs. Other common adverse effects include dry mouth, constipation, and blurred vision. Clients who cannot tolerate anticholinergic effects should avoid atropine. This caution includes individuals with myasthenia gravis or those with urinary retention because atropine can exacerbate their disease. Clients who have had a heart transplant should not rely on atropine to treat bradycardia because it may not have a therapeutic effect.</para>
+<para id="para-00012">Digoxin should not be used in clients with baseline bradycardia or certain heart blocks because it can cause bradycardia as part of its therapeutic effect. Digoxin therapy has a propensity for toxicity, which is characterized by gastrointestinal upset, vision changes, dizziness, fatigue, and cardiovascular symptoms such as palpitations from premature ventricular contractions (Cummings &amp; Swoboda, 2023). </para>
+<para id="para-00013">Adenosine has a very short half-life, so adverse effects beyond the immediate period of administration are rare. However, immediately upon administration it is typical for clients to report skin flushing, sweating, nausea, and an impending sense of doom. It also can cause dyspnea (shortness of breath) and bronchoconstriction in susceptible individuals. Adenosine should not be administered to clients with second- or third-degree AV block or to those with bradycardia who do not have a pacemaker. Adenosine can cause AV block as an extension of its therapeutic effect. </para>
+
+<para id="para-00014">is a drug prototype table for unclassified antidysrhythmics featuring digoxin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+      <tbody>
+      <row>
+       <entry>
+      <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Unclassified antidysrhythmic<newline count="2"/> 
+      <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Suppresses conduction through the atrioventricular node (antidysrhythmic action)</entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> Dosing is individualized based on client-specific factors (e.g., body weight, renal function, age), indication, and serum levels</entry>
+      </row>
+      <row>
+        <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Rate control of atrial fibrillation/flutter<newline/>
+Heart failure with reduced ejection fraction<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Slows the heart rate</entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Many drug interactions:<newline/>
+Potassium-sparing diuretics<newline/>
+Calcium, especially intravenous<newline/>
+Amiodarone<newline/>
+Erythromycin <newline/>
+Clarithromycin<newline/>
+Succinylcholine<newline/>
+Rifampin<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+            </row>
+      <row>
+       <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Heart block<newline/>
+Anorexia<newline/>
+Nausea<newline/>
+Vomiting<newline/>
+Diarrhea<newline/>
+Visual disturbances (blurred or yellow vision)<newline/>
+Confusion<newline/>
+Mental disturbances (anxiety, depression, delirium, hallucination)
+      </entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Ventricular fibrillation</entry>
+      </row>
+      </tbody>
+      </tgroup>
+<caption>Drug Prototype Table: Digoxin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+</section>
+<section id="sect-00007">
+<title>Nursing Implications</title>
+<para id="para-00015">The nurse should do the following for clients who are taking unclassified antidysrhythmics:</para>
+      <list id="list-00002">
+      <item>Obtain a complete medication list to check for any drug interactions.</item>
+<item>Measure heart rate and blood pressure before administering the medication.</item>
+<item>Monitor for adverse effects, including electrolyte imbalances and changes in kidney function.</item>
+<item>Notify the health care provider if the client has baseline bradycardia and does not have a pacemaker.</item>
+<item>Use continuous cardiac monitoring in clients using these drugs.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+      </list>
+      <note class="client-teaching" id="note-00001">
+<para id="para-00016"><emphasis effect="bold">The client taking <emphasis effect="italics">atropine</emphasis> should:</emphasis></para>
+	 <list list-type="bulleted" id="list-00003">
+      <item>Report signs of anticholinergic adverse effects such as dry mouth, urinary retention, and constipation.</item></list>
+<para id="para-00017"><emphasis effect="bold">The client taking <emphasis effect="italics">adenosine</emphasis> should:</emphasis></para>
+	 <list list-type="bulleted" id="list-00004">
+      <item>Be aware that its administration may feel frightening but that the adverse effects are short-lived.</item></list>
+<para id="para-00018"><emphasis effect="bold">The client taking <emphasis effect="italics">digoxin</emphasis> should:</emphasis></para>
+	 <list list-type="bulleted" id="list-00005">
+      <item>Take care to avoid taking more of it than prescribed or more frequently than prescribed.</item>
+<item>Report any signs or symptoms of toxicity. </item>
+	 </list></note>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00008">
+<para id="para-00019">This chapter introduced various common arrhythmias and antidysrhythmic drugs for treating them. Drugs were discussed based on their primary mechanism as categorized by the Vaughan Williams classification: class I, sodium channel blockers; class II, beta-adrenergic blockers; class III, potassium channel blockers; class IV, calcium channel blockers; and unclassified antidysrhythmic drugs.</para>
+</section>
+<section class="review-questions" id="sect-00009">
+      <title>Review Questions</title>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec3_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec5_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec2_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec2_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec3_RQ5"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec4_RQ6"/></para></problem></exercise>
+      <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec4_RQ7"/></para></problem></exercise>
+      <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec4_RQ8"/></para></problem></exercise>
+      <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec5_RQ9"/></para></problem></exercise>
+      <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch17_Sec5_RQ10"/></para></problem></exercise>
+      </section>
+<section class="references" id="sect-00010">
+<title>References</title>   
+<para id="para-00030">Al-Khatib, S. M., Stevenson, W. G., Ackerman, M. J., Bryant, W. J., Callans, D. J., Curtis, A. B., Deal, B. J., Dickfeld, T., Field, M. E., Fonarow, G. C., Gillis, A. M., Granger, C. B., Hammill, S. C., Hlatky, M. A., Joglar, J. A., Kay, G. N., Matlock, D. D., Myerburg, R. J., &amp; Page, R. L. (2018). 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">138</emphasis>(13), e272–e391. https://doi.org/10.1161/CIR.0000000000000549</para>
+<para id="para-00031">American Geriatrics Society Beers Criteria® Update Expert Panel. (2019). American Geriatrics Society 2019 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. <emphasis effect="italics">Journal of the American Geriatrics Society</emphasis>, <emphasis effect="italics">67</emphasis>(4), 674–694. https://doi.org/10.1111/jgs.15767</para>
+<para id="para-00032">Cummings, E. D., &amp; Swoboda, H. D. (2023). <emphasis effect="italics">Digoxin toxicity</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK470568/</para>
+<para id="para-00033">Curtis, A. B., Karki, R., Hattoum, A., &amp; Sharma, U. C. (2018). Arrhythmias in patients ≥80 years of age: Pathophysiology, management, and outcomes. <emphasis effect="italics">Journal of the American College of Cardiology</emphasis>, <emphasis effect="italics">71</emphasis>(18), 2041–2057. https://doi.org/10.1016/j.jacc.2018.03.019</para>
+<para id="para-00034">DailyMed. (Updated December 4, 2017). <emphasis effect="italics">Adenosine injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab2edabd-e57d-4754-9822-93bd17af9e88</para>
+<para id="para-00035">DailyMed. (Updated December 28, 2022). <emphasis effect="italics">Amiodarone HCL—Amiodarone hydrochloride tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d779a746-0bdd-49cc-b0d8-5f9a72524b8c</para>
+<para id="para-00036">DailyMed. (Updated June 14, 2023). <emphasis effect="italics">Atenolol tablet.</emphasis></para>
+<para id="para-00037">https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b8a4689-3916-4f4b-b54a-bbb4e322d79b</para>
+<para id="para-00038">DailyMed. (Updated June 16, 2023). <emphasis effect="italics">Atropine sulfate injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=739f384f-1a69-4953-93a0-aa6a76de0ecc</para>
+<para id="para-00039">DailyMed. (Updated January 14, 2021). <emphasis effect="italics">Bisoprolol—Bisoprolol fumarate tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bba0bc2b-602f-4df1-a761-85bd3c80c7de</para>
+<para id="para-00040">DailyMed. (Updated October 1, 2020). <emphasis effect="italics">Digoxin injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b9a4b3c-5f08-475a-a74d-0c7ebba40644</para>
+<para id="para-00041">DailyMed. (Updated April 1, 2020). <emphasis effect="italics">Diltiazem HCL CD—Diltiazem hydrochloride capsule, coated, extended release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e39be50-ea17-4077-a2dc-668267049f6a</para>
+<para id="para-00042">DailyMed. (Updated January 12, 2015). <emphasis effect="italics">Diltiazem HCL injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7fc9bee3-9e04-4b3e-a49b-3151d6623a3b</para>
+<para id="para-00043">DailyMed. (Updated November 5, 2022). <emphasis effect="italics">Diltiazem hydrochloride capsule, extended release</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70293a05-d314-43fa-a2b1-398cfb39edf8</para>
+<para id="para-00044">DailyMed. (Updated March 1, 2022). <emphasis effect="italics">Dofetilide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c1a5a6d-bd69-473c-8caa-d0d242b7708d</para>
+<para id="para-00045">DailyMed. (Updated July 19, 2023). <emphasis effect="italics">Esmolol hydrochloride—Esmolol hydrochloride in sodium chloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4cfdfa50-579b-43e7-bc0a-e831d3099bfd</para>
+<para id="para-00046">DailyMed. (Updated July 26, 2023). <emphasis effect="italics">Flecainide acetate—Flecainide acetate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a12889a-52ce-4dc4-9240-22d126f071ac</para>
+<para id="para-00047">DailyMed. (Updated December 23, 2020). <emphasis effect="italics">Ibutilide fumarate injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c25d21e7-6136-4a7a-b139-12f53116fc3d</para>
+<para id="para-00048">DailyMed. (Updated August 5, 2022). <emphasis effect="italics">Lidocaine—Lidocaine hydrochloride injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1b26274-a55e-4321-b96c-ce0df830f205</para>
+<para id="para-00049">DailyMed. (Updated February 10, 2023). <emphasis effect="italics">Metoprolol—Metoprolol tartrate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09566368-f91d-43a3-b683-30c844fb125a</para>
+<para id="para-00050">DailyMed. (Updated February 7, 2018). <emphasis effect="italics">Metoprolol succinate capsule, extended release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90aa06a3-100f-4466-b950-506303707b01</para>
+<para id="para-00051">DailyMed. (Updated May 5, 2023). <emphasis effect="italics">Metoprolol tartrate—Metoprolol tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24837d82-0f3f-4482-9af0-31e5f675c30f</para>
+<para id="para-00052">DailyMed. (Updated March 14, 2023). <emphasis effect="italics">Mexiletine hydrochloride capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b3a807f-368a-42dc-8266-ddf8347a8826</para>
+<para id="para-00053">DailyMed. (Updated November 25, 2020). <emphasis effect="italics">Multaq—Dronedarone tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7fa41601-7fb5-4155-8e50-2ae903f0d2d6</para>
+<para id="para-00054">DailyMed. (Updated December 15, 2016). <emphasis effect="italics">Procainamide hydrochloride injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d7cb1594-61cf-41c4-9007-1ee28aa69c50</para>
+<para id="para-00055">DailyMed (Updated February 28, 2019). <emphasis effect="italics">Propafenone HCL—Propafenone hydrochloride tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a313c111-e539-47bc-9d57-c3767f74bcca</para>
+<para id="para-00056">DailyMed. (Updated December 31, 2015). <emphasis effect="italics">Propranolol hydrochloride capsule, extended release</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a4edba76-29b8-41fb-bf0b-d4633abba003</para>
+<para id="para-00057">DailyMed. (Updated March 7, 2022). <emphasis effect="italics">Propranolol hydrochloride tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b94dcec7-7633-4a33-9cea-48161adeaf93</para>
+<para id="para-00058">DailyMed. (Updated December 29, 2021). <emphasis effect="italics">Quinidine gluconate—Quinidine gluconate tablet, extended release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4db375a3-0cff-4fa7-af7a-2a49e0b922d0</para>
+<para id="para-00059">DailyMed. (Updated September 13, 2019). <emphasis effect="italics">Quinidine sulfate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a10b6ded-4fe0-4059-bd77-c45acc3c876d</para>
+<para id="para-00060">DailyMed. (Updated February 24, 2020). <emphasis effect="italics">Sotalol hydrochloride AF—Sotalol hydrochloride tables af tablet; sotalol hydrochloride AF—Sotalol hydrochloride tablets af tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2577dd8d-ab1b-4a55-990a-18c69395edfe</para>
+<para id="para-00061">DailyMed. (Updated November 9, 2021). <emphasis effect="italics">Sotalol hydrochloride tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c0a34c56-9641-4592-9754-bcc233ec86b6</para>
+<para id="para-00062">DailyMed. (Updated March 31, 2023). <emphasis effect="italics">Verapamil hydrochloride capsule, extended release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=18f6d349-8c5c-4443-ac65-16bf6619ecdc</para>
+<para id="para-00063">DailyMed. (Updated January 4, 2020). <emphasis effect="italics">Verapamil hydrochloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=51597adb-bfb1-4611-b577-8989724fc3a4</para>
+<para id="para-00064">El Baba, M., Sabayon, D., &amp; Refaat, M. M. (2020). Radiofrequency catheter ablation: How to manage and prevent collateral damage? <emphasis effect="italics">The Journal of Innovations in Cardiac Rhythm Management</emphasis>, <emphasis effect="italics">11</emphasis>(9), 4234–4240. https://doi.org/10.19102/icrm.2020.110901</para>
+<para id="para-00065">Groh, C. A., Faulkner, M., Getabecha, S., Taffe, V., Nah, G., Sigona, K., McCall, D., Hills, M. T., Sciarappa, K., Pletcher, M. J., Olgin, J. E., &amp; Marcus, G. M. (2019). Patient-reported triggers of paroxysmal atrial fibrillation. <emphasis effect="italics">Heart Rhythm</emphasis>, <emphasis effect="italics">16</emphasis>(7), 996–1002. https://doi.org/10.1016/j.hrthm.2019.01.027</para>
+<para id="para-00066">Hopewell, J. C., Offer, A., Haynes, R., Bowman, L., Li, J., Chen, F., Bulbulia, R., Lathrop, M., Baigent, C., Landray, M. J., Collins, R., Armitage, J., &amp; Parish, S. (2020). Independent risk factors for simvastatin-related myopathy and relevance to different types of muscle symptom. <emphasis effect="italics">European Heart Journal</emphasis>, <emphasis effect="italics">41</emphasis>(35), 3336–3342. https://doi.org/10.1093/eurheartj/ehaa574</para>
+<para id="para-00067">January, C. T., Wann, L. S., Alpert, J. S., Calkins, H., Cigarroa, J. E., Cleveland, J. C., Jr, Conti, J. B., Ellinor, P. T., Ezekowitz, M. D., Field, M. E., Murray, K. T., Sacco, R. L., Stevenson, W. G., Tchou, P. J., Tracy, C. M., Yancy, C. W., &amp; American College of Cardiology/American Heart Association Task Force on Practice Guidelines (2014). 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society. <emphasis effect="italics">Journal of the American College of Cardiology</emphasis>, <emphasis effect="italics">64</emphasis>(21), e1–e76. https://doi.org/10.1016/j.jacc.2014.03.022</para>
+<para id="para-00068">King, G. S., Goyal, A., Grigorova, Y., &amp; Hashmi, M. F. (2023). <emphasis effect="italics">Antiarrhythmic medications</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482322/</para>
+<para id="para-00069">Kusumoto, F. M., Schoenfeld, M. H., Barrett, C., Edgerton, J. R., Ellenbogen, K. A., Gold, M. R., Goldschlager, N. F., Hamilton, R. M., Joglar, J. A., Kim, R. J., Lee, R., Marine, J. E., McLeod, C. J., Oken, K. R., Patton, K. K., Pellegrini, C. N., Selzman, K. A., Thompson, A., &amp; Varosy, P. D. (2019). 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">140</emphasis>(8), e382–e482. https://doi.org/10.1161/CIR.0000000000000628</para>
+<para id="para-00070">Lopes, R. D., Rordorf, R., De Ferrari, G. M., Leonardi, S., Thomas, L., Wojdyla, D. M., Ridefelt, P., Lawrence, J. H., De Caterina, R., Vinereanu, D., Hanna, M., Flaker, G., Al-Khatib, S. M., Hohnloser, S. H., Alexander, J. H., Granger, C. B., Wallentin, L., &amp; ARISTOTLE Committees and Investigators (2018). Digoxin and mortality in patients with atrial fibrillation. <emphasis effect="italics">Journal of the American College of Cardiology</emphasis>, <emphasis effect="italics">71</emphasis>(10), 1063–1074. https://doi.org/10.1016/j.jacc.2017.12.060</para>
+<para id="para-00071">McLendon, K., &amp; Preuss, C. V. (2022). <emphasis effect="italics">Atropine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK470551/</para>
+<para id="para-00072">National Heart, Ling, and Blood Institute. (2022). <emphasis effect="italics">Arrhthmias: Causes and triggers.</emphasis> https://www.nhlbi.nih.gov/health/arrhythmias/causes</para>
+<para id="para-00073">Niehues, L. J., &amp; Klovenski, V. (2022). <emphasis effect="italics">Vagal maneuver</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK551575/</para>
+<para id="para-00074">Oeffl, N., Schober, L., Faudon, P., Schweintzger, S., Manninger, M., Köstenberger, M., Sallmon, H., Scherr, D., &amp; Kurath-Koller, S. (2023). Antiarrhythmic drug dosing in children—Review of the literature. <emphasis effect="italics">Children (Basel)</emphasis>, <emphasis effect="italics">10</emphasis>(5), 847. https://doi.org/10.3390/children10050847</para>
+<para id="para-00075">Pevtsov A., Fredlund KL. (2023). <emphasis effect="italics">Esmolol</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK518965/</para>
+<para id="para-00076">U.S. Food and Drug Administration. (2017). <emphasis effect="italics">FDA Drug Safety Communication:</emphasis> <emphasis effect="italics">New restrictions, contraindications, and dose limitations for Zocor</emphasis>. https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-new-restrictions-contraindications-and-dose-limitations-zocor </para>
+</section>
   </content>
 </document>

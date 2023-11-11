@@ -6,8 +6,173 @@
     <md:uuid>2b9aed26-d2cd-4a55-9525-ff7e3d5d9f92</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+  <section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+  <list id="list-00001">
+<item>Describe specific cardiac dysrhythmias and their significance to cardiac function.</item>
+<item>Discuss the principles of managing dysrhythmias to improve cardiac functioning.</item>     
+  </list>
+</section>
+<section id="sect-00002">
+<section id="sect-00003">
+<title>The Healthy Heart</title>
+<para id="para-00002">Normal sinus rhythm is the normal rhythm of a healthy heart. This rhythm describes the scenario in which the sinoatrial (SA) node causes the heart to beat at 60–100 beats per minute and at regular intervals (equal time between each heartbeat or ventricular contraction). The impulse from the SA node is conducted across the atria and then follows a specialized pathway through the atrioventricular (AV) node and ventricles, eventually reaching the cardiac myocytes (muscle cells) to trigger coordinated contraction of the heart chambers at their respective times in the cardiac cycle. On the electrocardiogram (ECG/EKG) of a client in normal sinus rhythm, every P wave is followed by a QRS complex, which is followed by a T wave. <link document="m00311">Introduction to the Cardiovascular System</link> provides an overview of the cardiac conduction system that facilitates the heart rate and rhythm.)</para>
+<para id="para-00003">Propagation of the signal throughout the cardiac conduction system is accomplished through action potentials. This process entails rapid depolarization of the cell (the cell voltage increasingly becoming more positive than its surroundings), followed by repolarization (the cell membrane potential decreasing back to the resting voltage). The mechanisms for depolarization and repolarization vary, but, in general, they rely on electrolytes or electrically charged ions. Depolarization is mediated by the influx of positively charged ions such as sodium (Na<sup>+</sup>) or calcium (Ca<sup>2+</sup>). Repolarization is mediated by the efflux of positive ions from the cell, such as potassium (K<sup>+</sup>).</para>
+<para id="para-00004">The heart rate and rhythm are regulated by a balance of sympathetic and parasympathetic input. <emphasis effect="italics">Sympathetic input</emphasis> is the “fight or flight response” mediated by catecholamines such as epinephrine at beta-1 receptors in the heart. Stimulation of beta-1 receptors results in increased cardiac contractility (strength of contraction) and chronotropy (effect on heart rate). Parasympathetic input is often referred to as “rest and digest” and affects the heart through vagal innervation of the SA and AV nodes. Increased vagal tone leads to decreased heart rate and electrical conduction.</para>
+<para id="para-00005"><term id="term-00001">Dysrhythmias</term>, also known as <term class="no-emphasis" id="term-00002">arrythmias,</term> occur when there is abnormal automaticity (spontaneous impulse generation) or abnormal conduction that results in a problem with the heart rate and/or rhythm. Medications address dysrhythmias by manipulating the electrolytes and other receptors involved in the cardiac conduction system to either treat the manifestations of the underlying arrhythmia or restore a normal heart rate, suppress the dysrhythmia, and thus restore normal sinus rhythm in a process known as <term id="term-00003">cardioversion</term>. When cardioversion is accomplished via drug administration, it may be referred to as <emphasis effect="italics">chemical</emphasis> cardioversion.</para>
+</section>
+<section id="sect-00004">
+<title>Dysrhythmias</title>
+<para id="para-00006">Dysrhythmias can be classified in multiple ways. One way is according to the ventricular contraction rate, or heart rate. A heart rate less than 60 beats per minute is considered <term id="term-00004">bradycardia</term>. Bradycardia can occur due to the SA node incorrectly pacing too slowly or to the AV node conducting incorrectly, leading to AV block. Bradycardia can lead to problems because it decreases cardiac output, which is affected by both stroke volume and heart rate. A heart rate greater than 100 beats per minute is called <term id="term-00005">tachycardia</term>. Tachycardia can further be categorized as <term id="term-00006">supraventricular tachycardia</term> (the stimulus physically originates above the ventricle but not from the sinus node) or <term id="term-00007">ventricular tachycardia</term> (the origin of the stimulus is physically located in the ventricle). Tachycardia is problematic because at very high heart rates, the ventricles do not have enough time to fill with an adequate amount of blood in between contractions. Thus, the stroke volume and cardiac output are both decreased. Tachycardia also increases the workload of the heart and can lead to a type of heart failure called tachycardia-induced cardiomyopathy.</para>
+<section id="sect-00005">
+<title>Sinus Bradycardia</title>
+<para id="para-00007">In sinus bradycardia, although the heart rate is less than 60 beats per minute, the rhythm is regular, and the SA node acts as the pacemaker for the heart. Aside from the slow heart rate, there is no other problem with conduction. On an ECG, every P wave is followed by a QRS complex, which is followed by a T wave.</para>
+</section>
+<section id="sect-00006">
+<title>Sinus Tachycardia</title>
+<para id="para-00008">In <term class="no-emphasis" id="term-00008">sinus tachycardia</term>, although the heart rate exceeds 100 beats per minute, the rhythm is regular, and the SA node acts as the pacemaker for the heart. Aside from the rapid heart rate, there is no other problem with conduction. Every P wave is followed by a QRS complex, which is followed by a T wave. Sinus tachycardia is often caused by exercise, pain, stress, anxiety, or dehydration.</para>
+</section>
+<section id="sect-00007">
+<title>Atrial Fibrillation</title>
+<para id="para-00009">Atrial fibrillation is described as an irregularly irregular rhythm in which multiple areas of the atria generate spontaneous impulses such that the atria quiver at 400–600 beats per minute. Only some of the impulses are conducted through the AV node, resulting in a variable ventricular contraction rate or heart rate. When the heart rate is high, it is called <term id="term-00009">atrial fibrillation with rapid ventricular response</term>. Because the atria are quivering because so many impulses are being formed, the individual’s ECG will show no distinguishable P waves; however, the baseline will appear wavy due to the presence of “fibrillatory” waves (<emphasis effect="bold">Figure 17.2</emphasis>).</para>
+<para id="para-00010">There are two overall strategies for treating atrial fibrillation: rhythm control and rate control. The aim of rhythm control is to cardiovert and then maintain normal sinus rhythm. Rate control is a strategy that allows the client’s rhythm to remain in atrial fibrillation but slows the rate of conduction through the AV node, thereby slowing the ventricular rate/heart rate.</para>
+</section>
+<section id="sect-00008">
+<title>Atrial Flutter</title>
+<para id="para-00011"><term class="no-emphasis" id="term-00010">Atrial flutter</term> is a dysrhythmia closely related to atrial fibrillation. The atria quiver at rates of 250–400 beats per minute. As with atrial fibrillation, abnormal impulses are generated in the atria. Commonly, there is 2:1 conduction through the AV node, meaning that for every two impulses from the atria, one conducts through the AV node and leads to ventricular contraction. This process commonly leads to a ventricular rate of approximately 150 beats per minute (assuming an average atrial rate of 300 beats per minute). It is noteworthy that the conduction is not always 2:1; it may be 3:1, 4:1, or 5:1. As in atrial fibrillation, there are no typical P waves on the ECG of a client with atrial flutter. Instead, there are “flutter waves” in a characteristic sawtooth pattern between QRS complexes.</para>
+</section>
+<section id="sect-00009">
+<title>Premature Ventricular Contraction</title>
+<para id="para-00012">A <term class="no-emphasis" id="term-00011">premature ventricular contraction (PVC)</term> represents the ventricle contracting earlier than it should during the cardiac cycle due to a spontaneous impulse from the Purkinje fibers (rather than from an impulse carried from the SA node).</para>
+</section>
+<section id="sect-00010">
+<title>Ventricular Tachycardia</title>
+<para id="para-00013">When multiple PVCs occur consecutively, it is known as <term class="no-emphasis" id="term-00012">ventricular tachycardia</term>. Sustained ventricular tachycardia (lasting more than 30 seconds) can be serious and cause hemodynamic compromise necessitating advanced cardiac life support. Ventricular tachycardia can occur due to abnormalities of electrolytes such as magnesium or potassium or to myocardial ischemia (oxygen deprivation in the heart muscle). It can devolve into ventricular fibrillation, described next. On an ECG, ventricular tachycardia has multiple wide QRS complexes (Figure 17.2). <term id="term-00013">Torsade de pointes</term> is a dangerous ventricular tachycardia associated with medications that prolong the QT interval (the time it takes the heart to contract and recover).</para>
+</section>
+<section id="sect-00011">
+<title>Ventricular Fibrillation</title>
+<para id="para-00014"><term class="no-emphasis" id="term-00014">Ventricular fibrillation</term> is a medical emergency that necessitates advanced cardiac life support (ACLS). This is another ventricular arrhythmia, meaning it originates from spontaneous impulses from the Purkinje fibers (rather than from an impulse carried from the SA node), causing the ventricles to quiver erratically rather than pump, which, in turn, causes cardiac arrest. On an ECG, ventricular fibrillation appears as multiple and varied wide complexes, without any pattern or discernable P waves, QRS complexes, or T waves (<emphasis effect="bold">Figure 17.2</emphasis>).</para>
+<figure class="scaled-down" id="fig-00001">
+  <media alt="In this image the QT cycle for different heart conditions are shown. From top to bottom, the arrhythmias shown are atrial fibrillation, ventricular tachycardia, and ventricular fibrillation. For atrial fibrillation, the pattern before the Q R S complex is abnormal and the frequency between Q R S complexes has increased. For the ventricular tachycardia, the shape of the Q R S complex is unusual. For the ventricular fibrillation, the electric activity is completely abnormal.">
+  <image mime-type="image/png" src="../../media/PHA_Figure_17_01_002.png"/></media>
+<caption>Some examples of ECG abnormalities include atrial fibrillation, ventricular tachycardia, and ventricular fibrillation. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00012">
+<title>Asystole</title>
+<para id="para-00015">In <term class="no-emphasis" id="term-00015">asystole</term>, the heart has no electrical activity and thus does not pump. This is a medical emergency that necessitates advanced cardiac life support. On an ECG, asystole has no waveforms, which is why it is often informally called “flatlining.”</para>
+</section>
+<section id="sect-00013">
+<title>Pulseless Electrical Activity</title>
+<para id="para-00016">In <term class="no-emphasis" id="term-00016">pulseless electrical activity (PEA)</term>, the client’s ECG shows electrical activity (possibly even sinus rhythm); however, it does not lead to ventricular contraction, and the client does not have a pulse. This is a medical emergency that requires advanced cardiac life support.</para>
+</section>
+</section>
+<section id="sect-00014">
+<title>Management of Cardiac Dysrhythmias</title>
+<para id="para-00017"><term class="no-emphasis" id="term-00017">Management of cardiac dysrhythmias</term> is extremely diverse and is based on client-specific factors, the particular dysrhythmia being treated, the setting of the dysrhythmia (acute vs. chronic), and the client’s comorbidities. Many therapies for dysrhythmias are managed by an electrophysiologist, a cardiologist who specializes in the treatment of dysrhythmias.</para>
+<section id="sect-00015">
+<title>Nonpharmacologic Management</title>
+<para id="para-00018"><term class="no-emphasis" id="term-00018">Nonpharmacologic management of dysrhythmias</term> depends on the specific dysrhythmia being treated and the clinical scenario. Lifestyle changes, procedures, and vagal maneuvers are all examples of nonpharmacologic management that can be attempted, depending on the client. In terms of lifestyle changes, clients can avoid or manage triggers of their arrhythmias. Some lifestyle-related triggers of dysrhythmias include anger, physical activity and exercise, alcohol, caffeine, lack of sleep, and use of illicit stimulant drugs such as cocaine (Groh et al., 2019; National Heart, Ling, and Blood Institute, 2022).</para>
+<para id="para-00019">Depending on the specific dysrhythmia and clinical scenario, various procedures, such as an ablation, can be performed to manage an arrhythmia. An ablation uses radiofrequency to create scar tissue, which does not conduct electrical impulses, in the irregular heart tissue that is causing the arrhythmia (El Baba et al., 2020). <term id="term-00019">Vagal maneuvers</term> are physical manipulations that can increase parasympathetic activation to treat various arrhythmias. One example of a vagal maneuver is the Valsalva maneuver. The Valsalva maneuver is commonly referred to as “bearing down” and is the process of forced expiration against a closed glottis (Niehues &amp; Klovenski, 2022). Vagal stimulation leads to a decreased rate of pacing from the SA node and decreased conduction through the AV node.</para>
+</section>
+<section id="sect-00016">
+<title>Pharmacologic Management</title>
+<para id="para-00020">Antidysrhythmic drugs treat abnormal heart rates and rhythms. They are often classified using the <term id="term-00020">Vaughan Williams classification system</term>, which differentiates drugs by their major mechanism of action ([link]<emphasis effect="bold">Table 17.1</emphasis>[/link]). However, this system is far from perfect. Many of the antidysrhythmic drugs have multiple mechanisms of action, so there is overlap among the categories; many drugs do not fit perfectly into a single category. Still, this is the most conventional way to classify the drugs. The categories include the following:</para>
+  <list id="list-00002">
+  <item><term class="no-emphasis" id="term-00021"><emphasis effect="italics">Class I:</emphasis> Sodium channel blockers</term></item>
+  <item><term class="no-emphasis" id="term-00022"><emphasis effect="italics">Class II:</emphasis> Beta-adrenergic blockers</term></item>
+  <item><term class="no-emphasis" id="term-00023"><emphasis effect="italics">Class III:</emphasis> Potassium channel blockers</term></item>
+  <item><term class="no-emphasis" id="term-00024"><emphasis effect="italics">Class IV:</emphasis> Calcium channel blockers</term></item>
+  <item><emphasis effect="italics">Unclassified (also called miscellaneous):</emphasis> Drugs that work by alternative mechanisms</item>
+  </list>
+<para id="para-00021">The choice of which antiarrhythmic drug to use is nuanced and requires in-depth knowledge and experience. It is noteworthy that the <term class="no-emphasis" id="term-00025">Institute of Safe Medication Practices</term> considers the majority of antidysrhythmic drugs discussed in this chapter to be high-alert drugs due to their propensity for causing client harm when administered incorrectly. Drugs used in advanced cardiac life support that are not traditional antidysrhythmic medications (such as epinephrine and calcium carbonate) are discussed in <emphasis effect="bold">Cardiac Emergency and Shock Drugs</emphasis>.</para>
+
+  <table class="vertically-tight alternate-shading" id="table-00001">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <thead>
+  <row>
+<entry><span class="blue-text">Class</span></entry>
+<entry><span class="blue-text">Description</span></entry>
+<entry><span class="blue-text">Example Drugs</span></entry>
+  </row>
+</thead>
+  <tbody>
+  <row>
+<entry>I</entry>
+<entry><term class="no-emphasis" id="term-00026">Sodium channel blockers</term></entry>
+<entry><term class="no-emphasis" id="term-00027">Quinidine (IA)</term><newline/>
+<term class="no-emphasis" id="term-00028">Procainamide (IA)</term><newline/>
+<term class="no-emphasis" id="term-00029">Disopyramide (1A)</term><newline/>
+<term class="no-emphasis" id="term-00030">Lidocaine (IB)</term><newline/>
+<term class="no-emphasis" id="term-00031">Mexiletine (IB)</term><newline/>
+<term class="no-emphasis" id="term-00032">Flecainide (IC)</term><newline/>
+<term class="no-emphasis" id="term-00033">Propafenone (IC)</term></entry>
+  </row>
+  <row>
+<entry>II</entry>
+<entry><term class="no-emphasis" id="term-00034">Beta-adrenergic blockers</term></entry>
+<entry><term class="no-emphasis" id="term-00035">Esmolol</term><newline/>
+<term class="no-emphasis" id="term-00036">Metoprolol</term><newline/>
+<term class="no-emphasis" id="term-00037">Atenolol</term><newline/>
+<term class="no-emphasis" id="term-00038">Bisoprolol</term><newline/>
+<term class="no-emphasis" id="term-00039">Nebivolol</term><newline/>
+<term class="no-emphasis" id="term-00040">Betaxolol</term><newline/>
+<term class="no-emphasis" id="term-00041">Acebutolol</term></entry>
+  </row>
+  <row>
+<entry>III</entry>
+<entry><term class="no-emphasis" id="term-00042">Potassium channel blockers</term></entry>
+<entry><term class="no-emphasis" id="term-00043">Amiodarone</term><newline/>
+<term class="no-emphasis" id="term-00044">Dronedarone</term><newline/>
+<term class="no-emphasis" id="term-00045">Dofetilide</term><newline/>
+<term class="no-emphasis" id="term-00046">Ibutilide</term><newline/>
+<term class="no-emphasis" id="term-00047">Sotalol</term></entry>
+  </row>
+  <row>
+<entry>IV</entry>
+<entry><term class="no-emphasis" id="term-00048">Calcium channel blockers</term></entry>
+<entry><term class="no-emphasis" id="term-00049">Diltiazem</term><newline/>
+<term class="no-emphasis" id="term-00050">Verapamil</term></entry>
+  </row>
+  <row>
+<entry>Unclassified</entry>
+<entry><term class="no-emphasis" id="term-00051">Various mechanisms</term></entry>
+<entry><term class="no-emphasis" id="term-00052">Atropine</term><newline/>
+<term class="no-emphasis" id="term-00053">Digoxin</term><newline/>
+<term class="no-emphasis" id="term-00054">Adenosine</term></entry>
+  </row>
+  </tbody>
+  </tgroup>
+<caption>Vaughan Williams Classification of Antidysrhythmic Drugs</caption>
+  </table>
+      <note class="special-considerations" id="note-00001">
+      <title>Geriatrics</title>
+<para id="para-00022">The risk of being diagnosed with <term class="no-emphasis" id="term-00055">dysrhythmia</term> skyrockets after age 60. Not only does the risk for dysrhythmias increase, but <term class="no-emphasis" id="term-00056">older adults</term> have a higher risk for concomitant disease states that interfere with the action of antidysrhythmic drugs. For example, beta-adrenergic blockers, quinidine, and procainamide can exacerbate the postural hypotension that is particularly prevalent in older adults, leading to falls. Clients with heart failure (who are usually older adults) can experience exacerbation of their underlying condition when treated with flecainide or sotalol. Furthermore, older adult clients are more likely to be on multiple medications, increasing the likelihood of experiencing drug interactions. Age-related decreases in metabolic processing and excretion of drugs can increase antidysrhythmic plasma levels, putting these individuals at higher risk for adverse effects. Thus, antidysrhythmic drugs require extra vigilance to prevent harm in the older adult population.</para>
+<para id="para-00023">(Source: Curtis et al., 2018)</para>
+      </note>
+      <note class="special-considerations" id="note-00002">
+      <title>Pediatrics</title>
+<para id="para-00024"><term class="no-emphasis" id="term-00057">Pediatric clients</term> may experience <term class="no-emphasis" id="term-00058">arrhythmias</term> that must be treated with antidysrhythmic therapy. Some of this use is off-label. <term class="no-emphasis" id="term-00059">Off-label use</term> means that the drug may not be specifically approved for a particular client or diagnosis, but health care providers may choose to use the drug anyway because the potential benefit outweighs the potential risks. In these circumstances, drug dosing and administration may not be standardized. The nurse should consult institutional protocols to avoid medication errors, especially overdoses.</para>
+<para id="para-00025">(Source: Oeffl et al., 2023)</para>
+      </note>
+</section>
+</section>
+</section>
   </content>
+  <glossary>
+<definition id="def-00001"><term>atrial fibrillation with rapid ventricular response</term> <meaning>atrial fibrillation with a heart rate greater than 100 beats per minute</meaning></definition>
+<definition id="def-00002"><term>bradycardia</term> <meaning>heart rate less than 60 beats per minute</meaning></definition>
+<definition id="def-00003"><term>cardioversion</term> <meaning>restoration of a normal heart rhythm in a client with a dysrhythmia </meaning></definition>
+<definition id="def-00004"><term>dysrhythmia</term> <meaning>an abnormal heart rate or rhythm; also called arrhythmia</meaning></definition>
+<definition id="def-00005"><term>supraventricular tachycardia</term> <meaning>a dysrhythmia that originates from a location above the ventricle </meaning></definition>
+<definition id="def-00006"><term>tachycardia</term> <meaning>heart rate greater than 100 beats per minute</meaning></definition>
+<definition id="def-00007"><term>torsade de pointes</term> <meaning>a dangerous ventricular tachycardia associated with medications that prolong the QT interval</meaning></definition>
+<definition id="def-00008"><term>vagal maneuver</term> <meaning>physical manipulation that can increase parasympathetic activation to treat various arrhythmias</meaning></definition>
+<definition id="def-00009"><term>Vaughan Williams classification system</term> <meaning>a method of classifying antidysrhythmic drugs based on their primary mechanism of action</meaning></definition>
+<definition id="def-00010"><term>ventricular tachycardia</term> <meaning>a dysrhythmia that originates from a location in the ventricle </meaning></definition>
+</glossary>
 </document>

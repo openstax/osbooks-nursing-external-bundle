@@ -5,9 +5,214 @@
     <md:content-id>m00284</md:content-id>
     <md:uuid>eb044d43-a7be-44c8-abf8-0b4c6d8b8e2b</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+   <content>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Outcomes</title>
+  <para id="para-00001">By the end of this section, you should be able to:</para>
+  <list id="list-00001">
+<item>Identify the characteristics of the potassium channel blocker drugs used to treat dysrhythmias.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of potassium channel blocker drugs used to treat dysrhythmias.</item>
+<item>Describe the nursing implications of potassium channel blocker drugs used to treat dysrhythmias.</item>
+<item>Explain the client education related to potassium channel blocker drugs used to treat dysrhythmias.</item>
+  </list>
+  </section>
+<para id="para-00002"><term class="no-emphasis" id="term-00001">Potassium channel blockers</term> are class III drugs. They work by blocking the potassium channels that facilitate potassium transport and mediate repolarization of the cardiac cells. They extend the action potential and slow repolarization. All antidysrhythmic drugs that block potassium channels are proarrhythmic. They lead to a prolonged QT interval, which increases the risk for torsade de pointes. Because of this, all drugs within this class require ECG monitoring for QT interval assessment. The nurse must also be vigilant to consider concomitant drugs that increase the QT interval because concomitant use can have additive effects. Although all drugs within this class block potassium channels, many have additional antidysrhythmic mechanisms.</para>
+  <note class="clinical-tip" id="note-00001">
+<title>Monitor Potassium Channel Blockers Using the Corrected QT Interval</title>
+<para id="para-00003">The QT interval changes depending on the client’s heart rate. To standardize assessment, the QT interval can be corrected (adjusted) for heart rate using various methods. This correction is referred to as the QTc and is usually used in drug titration and safety algorithms. The most common formula for QTc is known as the Bazett formula. Various websites have <link url="https://openstax.org/r/mayoclinicorga">QTc calculators</link>, and some ECG software calculates the QTc automatically. </para>
+  </note>
+<para id="para-00004">The following medications are all classified as potassium channel blockers; however, it is important to note their additional mechanisms of action as well.</para>
+<section id="sect-00002">
+<section id="sect-00003">
+<title>Amiodarone and Dronedarone</title>
+<para id="para-00005">Amiodarone is a class III antidysrhythmic drug; however, it has all four Vaughan Williams mechanisms: It blocks sodium channels (class I), functions as a beta-adrenergic blocker (class II), blocks potassium channels (class III), and blocks calcium channels (class IV). It is available in both intravenous and oral dosage forms. Amiodarone is known for having a very long half-life (greater than 1 month); thus, the duration of action can be several months after chronic therapy ends. The nurse should be aware that even after amiodarone administration is discontinued, its effects will be apparent for several weeks to months.</para>
+<para id="para-00006">Amiodarone has many notable drug interactions. It is a substrate for CYP3A and CYP2C8, so inducers and inhibitors of those enzymes affect the client’s exposure to amiodarone. When metabolism occurs in the liver it does so by the hepatic microsomal enzyme system. A key component of this system is an enzyme complex known as cytochrome P450 or CYP450. This enzyme metabolizes drugs, nutrients, and other substances such as steroids and cholesterol. CYP3A, CYP2C8, and others are isoenzymes of CYP450 and perform slightly different metabolic functions. Most importantly, these enzymes determine the speed of the metabolism of drugs and affect many drug to drug interactions. Amiodarone is also an inhibitor of P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A; this can increase the client’s exposure to other drugs that are substrates of those enzymes. Some drug interactions include the following:</para>
+      <list id="list-00002">
+      <item><emphasis effect="italics">Digoxin:</emphasis> Amiodarone can increase digoxin concentrations. Therefore, it is recommended that digoxin doses be decreased (with careful monitoring) or discontinued altogether if amiodarone is initiated.</item>
+<item><emphasis effect="italics">Warfarin:</emphasis> Concomitant administration of warfarin and amiodarone increases the anticoagulant effect of warfarin. It is recommended to decrease the warfarin dose by one-third to one-half and to monitor prothrombin time.</item>
+<item><emphasis effect="italics">Statin medications:</emphasis> Concomitant administration of certain statin medications with amiodarone can result in increased concentrations of the statin drug. Lower starting doses of statin medications may be required; the maximum recommended dose for lovastatin is 40 mg and for simvastatin is 20 mg during concomitant use with amiodarone.</item>
+      </list>
+<para id="para-00007">Dronedarone is like amiodarone in that it is categorized as a class III drug with all four Vaughan Williams mechanisms of action. It is approved to treat clients with paroxysmal or persistent atrial fibrillation. Because of the potential for teratogenicity, dronedarone is also classified as a hazardous drug; nurses should wear gloves when handling or administering it and follow institutional policies for hazardous drugs (Institute for Safe Medication Practices, 2018). </para>
+<para id="para-00008">Dronedarone interacts with many drugs because it is an inhibitor of CYP3A and CYP2D6. Medications it interacts with include digoxin, calcium channel blockers, and statins.</para>
+</section>
+<section id="sect-00004">
+<title>Dofetilide and Ibutilide</title>
+<para id="para-00009">Dofetilide and ibutilide are both pure class III antidysrhythmic medications with no additional mechanisms of action. Dofetilide is an oral medication used for atrial fibrillation and atrial flutter. It has a high risk for causing proarrhythmia, specifically torsade de pointes. Therefore, dofetilide must be initiated in a health care setting capable of providing cardiac resuscitation services and continuous ECG monitoring for a minimum of 3 days. The manufacturer’s labeling provides detailed guidance for dosing and monitoring. Dofetilide is contraindicated in clients with a baseline QTc greater than 440 msec, and the drug should either be dose-adjusted or discontinued if the QTc rises above 500 msec during therapy, depending on the circumstance. Before starting dofetilide, clients should have electrolyte levels checked (potassium, magnesium), and electrolyte supplements should be administered to maintain adequate levels. Renal function must also be monitored because dofetilide is excreted by the kidneys.</para>
+<para id="para-00010">Ibutilide is an intravenous class III antidysrhythmic medication. It is used almost exclusively for conversion of recent-onset atrial fibrillation or atrial flutter to sinus rhythm and given as only one or two doses (no chronic maintenance dosing). Ibutilide has a high risk for causing torsade de pointes (1.7% in registry studies; DailyMed <emphasis effect="italics">Ibutilide fumarate</emphasis>, 2020) and should be prescribed by health care providers who are familiar with identifying and treating acute ventricular arrhythmias. It requires continuous ECG monitoring and observation for at least 4 hours after administration. Clients with atrial fibrillation for more than 2–3 days require anticoagulation for 2 weeks before administration to mitigate the risk for stroke upon cardioversion. Clients with chronic atrial fibrillation are not candidates for cardioversion using ibutilide because it is less effective than in paroxysmal (i.e., intermittent) atrial fibrillation and is associated with high risks.</para>
+</section>
+<section id="sect-00005">
+<title>Sotalol</title>
+<para id="para-00011">Sotalol is another class III antidysrhythmic drug; however, in addition to its mechanism as a potassium channel blocker, it also has beta-adrenergic blocking effects. (Note that the name ends in “lol” like other beta-adrenergic blockers.) Sotalol is available in both oral and intravenous dosage forms and is approved for the treatment of symptomatic atrial fibrillation/flutter and life-threatening ventricular arrhythmias.</para>
+<para id="para-00012">As with all potassium channel blockers, sotalol prolongs the QTc interval and can cause torsade de pointes. Therefore, sotalol requires inpatient initiation in a facility that can provide cardiac resuscitation services and continuous ECG monitoring. If the client’s baseline QTc interval is longer than 450 msec, sotalol should not be initiated. The manufacturer’s labeling provides detailed directions for initiation and monitoring. During initiation, the client’s ECG is monitored after every dose; once stable, it is monitored periodically for the duration of therapy. If the QTc interval increases to more than 500 msec during therapy, the dosing interval must be lengthened or the drug discontinued.</para>
+<para id="para-00013">Sotalol is eliminated via the kidneys; thus, clients with severe renal dysfunction should not take sotalol, and renal function should be monitored periodically in all clients who take sotalol.</para>
+
+<para id="para-00014">lists common potassium channel blockers and typical routes and dosing for adult clients.</para>
+
+      <table class="vertically-tight" id="table-00001">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="2*"/>
+      <thead>
+      <row>
+      <entry><span class="blue-text">Drug</span></entry>
+      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+<entry><term class="no-emphasis" id="term-00002">Amiodarone</term><newline/>
+(<term class="no-emphasis" id="term-00003">Nexterone, Pacerone</term>)</entry>
+<entry><emphasis effect="italics">Ventricular dysrhythmias: </emphasis><newline/>
+<emphasis effect="italics">Oral</emphasis>: 400 mg orally once daily.<newline/>
+<emphasis effect="italics">IV:</emphasis> For the first 24 hours, administer 150 mg IV over the first 10 min, followed by 360 mg IV over the next 6 hours, followed by 540 mg IV over the remaining 18 hours After the first 24 hours, continue the maintenance infusion rate of 0.5 mg/min.</entry>
+</row>
+<row>
+<entry><term class="no-emphasis" id="term-00004">Dronedarone</term><newline/>(<term class="no-emphasis" id="term-00005">Multaq</term>)</entry>
+<entry><emphasis effect="italics">Atrial fibrillation:</emphasis> 400 mg orally twice daily.</entry>
+</row>
+<row>
+<entry><term class="no-emphasis" id="term-00006">Dofetilide</term><newline/>(<term class="no-emphasis" id="term-00007">Tikosyn</term>)</entry>
+<entry><emphasis effect="italics">Atrial fibrillation:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
+</row>
+<row>
+<entry><term class="no-emphasis" id="term-00008">Ibutilide</term><newline/>(<term class="no-emphasis" id="term-00009">Corvert</term>)</entry>
+<entry><emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 1 mg IV once. If dysrhythmia has not stopped by 10 min after completion of administration, a second dose may be given (dosing applies to clients who weigh at least 60 kg).</entry>
+</row>
+<row>
+<entry><term class="no-emphasis" id="term-00010">Sotalol</term><newline/>(<term class="no-emphasis" id="term-00011">Betapace,Betapace AF, Sorine</term>)</entry>
+<entry><emphasis effect="italics">Ventricular dysrhythmias:</emphasis> 160 mg orally twice daily.<newline/>
+<emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 80–120 mg orally twice daily.</entry>
+</row>
+      </tbody>
+      </tgroup>
+<caption>Drug Emphasis Table: Potassium Channel Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+</section>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00015">All class III drugs are proarrhythmic and can cause QT prolongation, leading to torsade de pointes. Aside from that, the adverse effect profile depends on the agent being used.</para>
+<para id="para-00016">Amiodarone has many potential toxicities and adverse effects, which include the following:</para>
+      <list id="list-00003">
+      <item>Optic neuropathy and/or optic neuritis, which can lead to permanent blindness; corneal microdeposits that may be reversible</item>
+<item>Photosensitivity resulting in a bluish-gray discoloration of the skin </item>
+<item>New arrhythmias, including torsade de pointes</item>
+<item>Hyperthyroidism or hypothyroidism</item>
+<item>Hepatotoxicity</item>
+<item>Acute and chronic pulmonary toxicity, including acute respiratory distress syndrome and pulmonary fibrosis</item>
+      </list>
+<para id="para-00017">Because of these toxicities, amiodarone requires baseline monitoring, as well as follow-up monitoring at least every 3–6 months. Clients should minimally receive the following tests at baseline and periodically after initiation:</para>
+<list id="list-00004">
+<item>Cardiac monitoring, including an ECG to assess heart rate, medication efficacy, and the QT interval</item>
+<item>Pulmonary function tests and a chest x-ray</item>
+<item>Liver function tests</item>
+<item>Thyroid function tests</item>
+<item>Ophthalmic exams</item>
+</list>
+<para id="para-00018">As with all beta-adrenergic blockers and calcium channel blockers, amiodarone can cause bradycardia, hypotension, and fatigue. Amiodarone carries multiple boxed warnings from the FDA related to arrhythmias, pulmonary toxicity, and hepatotoxicity. It is on the Beers Criteria® list of high-risk medications for older adults because of its potential for toxicity (American Geriatrics Society, 2019). Amiodarone should not be used in clients with bradycardia at baseline unless they have a pacemaker. Amiodarone has iodine within its chemical structure; thus, it is contraindicated in clients with iodine hypersensitivity.</para>
+<para id="para-00019">Dronedarone has many of the same adverse effects as amiodarone, including heart failure, hepatotoxicity, QT prolongation/torsade de pointes, and pulmonary toxicity. Because of a particularly high risk for adverse reactions, including death, it is contraindicated in clients with heart failure and those in atrial fibrillation who cannot be converted to sinus rhythm; these contraindications are listed as boxed warnings from the FDA. Dronedarone is contraindicated in pregnant clients due to the potential for teratogenicity.</para>
+<para id="para-00020">Dofetilide and sotalol are contraindicated in clients with severe kidney disease.</para>
+<para id="para-00021">Sotalol, like all beta-adrenergic blockers, can cause bradycardia, hypotension, and fatigue and should be used cautiously in clients with asthma and heart failure.</para>
+
+<para id="para-00022">is a drug prototype table for potassium channel blockers featuring dofetilide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+
+      <table class="vertically-tight" id="table-00002">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+      <tbody>
+      <row>
+       <entry>
+<emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Potassium channel blocker antidysrhythmic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks the potassium channels responsible for repolarization of the cell, leading to a prolonged action potential and prolonged refractoriness</entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
+      </row>
+      <row>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Atrial fibrillation and atrial flutter<newline count="2"/>
+
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Converts atrial fibrillation to sinus rhythm<newline/>
+Maintains sinus rhythm after cardioversion</entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Cimetidine<newline/>
+Trimethoprim<newline/>
+Ketoconazole<newline/>
+Prochlorperazine<newline/>
+Dolutegravir<newline/>
+Megestrol<newline/>
+Potassium-depleting diuretics (e.g., hydrochlorothiazide)<newline/>
+Drugs that prolong the QT interval<newline count="2"/>
+
+      <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+      </row>
+      <row>
+       <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+QT prolongation<newline/>
+Torsade de pointes<newline/>
+Chest pain<newline/>
+Headache</entry>
+      <entry valign="top">
+      <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline/>
+Baseline QTc greater than 440 msec<newline/>
+Severe renal impairment (creatinine clearance less than 20 mL/min)<newline count="2"/>
+Caution: Renal impairment</entry>
+      </row>
+      </tbody>
+      </tgroup>
+<caption>Drug Prototype Table: Dofetilide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      </table>
+</section>
+<section id="sect-00007">
+<title>Nursing Implications</title>
+<para id="para-00023">The nurse should do the following for clients who are taking potassium channel blockers:</para>
+      <list id="list-00005">
+        <item>Perform a complete medication history to assess for relevant drug interactions, including other drugs that also prolong the QTc interval.</item>
+<item>Monitor ECG (including QTc interval), vital signs, and electrolyte levels.</item>
+<item>Be prepared to perform cardiac resuscitation on any client starting on a class III antidysrhythmic drug. </item>
+<item>Follow the specific dosing and monitoring protocols described in the manufacturer’s labeling for a client initiating sotalol or dofetilide.</item>
+<item>Observe the client closely for at least 4 hours after administration of ibutilide for maintenance of sinus rhythm and adverse effects such as ventricular arrhythmias. </item>
+<item>Conduct in-depth education for any client being started on amiodarone.</item>
+<item>Monitor for amiodarone-related toxicity in any client taking the drug and for several months after amiodarone discontinuation.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+      </list>
+
+      <note class="client-teaching" id="note-00002">
+<para id="para-00024"><emphasis effect="bold">The client taking a potassium channel blocker should:</emphasis></para>
+	 <list list-type="bulleted" id="list-00006">
+<item>Communicate their baseline medication list and any new medications (such as antibiotics) to their prescribing health care provider.</item>
+<item>Seek emergency medical attention if they experience symptoms of torsade de pointes (dizziness, palpitations, lightheadedness, syncope).</item>
+<item>Keep appointments for laboratory testing to monitor for potential toxicities.</item>
+	 </list>
+<para id="para-00025"><emphasis effect="bold">The client taking <emphasis effect="italics">amiodarone</emphasis> should: </emphasis></para>
+	 <list list-type="bulleted" id="list-00007">
+<item>Avoid direct sunlight, and wear sunscreen and protective clothing.</item>
+<item>Report symptoms of hyperthyroidism (heat sensitivity, anxiety, weight loss) or hypothyroidism (fatigue, weight gain, cold sensitivity). </item>
+<item>Report any vision changes or breathing difficulties.</item>
+<item>Avoid eating grapefruits or drinking grapefruit juice. </item>
+	 </list>
+      </note>
+      <note class="black-box" id="note-00003">      
+<para id="para-00026"><emphasis effect="bold">Amiodarone</emphasis></para>
+<para id="para-00027">Amiodarone can cause pulmonary toxicity (hypersensitivity pneumonitis or interstitial/alveolar pneumonitis) that has resulted in clinically manifest disease at rates as high as 17% in some series of clients. Pulmonary toxicity has been fatal about 10% of the time. The client should have a baseline chest x-ray and pulmonary function tests, including diffusion capacity, when amiodarone therapy is initiated. The medical history, physical exam, and chest x-ray should be repeated every 3 to 6 months.</para>
+<para id="para-00028">Amiodarone also can cause hepatotoxicity, which can be fatal. Baseline and periodic liver transaminase levels should be obtained, and the medication should be discontinued or reduced in dose if the level exceeds three times the normal level or doubles in a client with an elevated baseline. Amiodarone should be stopped if the client experiences signs or symptoms of clinical liver injury.</para>
+<para id="para-00029">Amiodarone is intended for use only in clients with indicated life-threatening arrhythmias because its use is accompanied by substantial toxicity.</para>
+<para id="para-00030">In addition, amiodarone can exacerbate arrhythmias. Amiodarone must be initiated in a clinical setting where continuous ECG monitoring and cardiac resuscitation are available.</para>
+<para id="para-00031"><emphasis effect="bold">Dronedarone</emphasis></para>
+<para id="para-00032">Dronedarone is contraindicated in clients with symptomatic heart failure with recent decompensation requiring hospitalization or in clients with New York Heart Association class IV heart failure. Dronedarone doubles the risk of death in these clients. Dronedarone is contraindicated in clients in atrial fibrillation who will not or cannot be cardioverted into normal sinus rhythm. In clients with permanent atrial fibrillation, dronedarone doubles the risk of death, stroke, and hospitalization for heart failure.</para>
+<para id="para-00033"><emphasis effect="bold">Dofetilide </emphasis></para>
+<para id="para-00034">To minimize the risk for induced arrhythmia, clients initiated or reinitiated on dofetilide should be admitted for a minimum of 3 days into a facility that can provide calculations of creatinine clearance, continuous ECG monitoring, and cardiac resuscitation.</para>
+<para id="para-00035"><emphasis effect="bold">Sotalol</emphasis> </para>
+<para id="para-00036">To minimize the risk of drug-induced arrhythmia, clients should be initiated, reinitiated, or up-titrated in a facility that can provide cardiac resuscitation and continuous ECG monitoring. Sotalol can cause life-threatening ventricular tachycardia associated with QT interval prolongation. A client whose baseline QTc is longer than 450 msec should not start sotalol therapy. If the QT interval lengthens to 500 msec or more, the dose should be reduced, the dosing interval lengthened, or the drug discontinued. The creatinine clearance should be calculated to determine appropriate dosing.</para>
+      </note>
+</section>
+</section>
+    </content>
 </document>

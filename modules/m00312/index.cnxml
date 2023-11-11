@@ -5,9 +5,11 @@
     <md:content-id>m00312</md:content-id>
     <md:uuid>5790030d-104d-4a3d-a080-4aec151168b6</md:uuid>
   </metadata>
-  <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content class="introduction">
+<figure class="splash" id="fig-00001">
+<media alt="The heart with the main arteries and veins.">
+<image mime-type="image/jpeg" src="../../media/PHA_Unit05_16_22_001_Splash.jpg"/></media>
+<caption>The heart is the primary organ of the cardiovascular system, controlling circulation and blood flow for the entire body. (credit: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</content>
 </document>
