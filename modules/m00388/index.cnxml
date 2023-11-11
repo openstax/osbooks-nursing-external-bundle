@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Introduction to Cardiac Emergency and Shock</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction to Cardiac Emergency and Shock</md:title>
@@ -6,8 +6,146 @@
     <md:uuid>fad873c7-e96e-4e8b-a603-41f879e511c8</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe cardiac emergencies requiring emergency drugs.</item>
+<item>Describe shock and general treatment guidelines.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Cardiac Emergencies</title>
+<para id="para-00002">The primary responsibility of the heart is to generate <term id="term-00001">cardiac output</term>. Cardiac output (CO) is a function of heart rate (HR) and stroke volume <m:math><m:mo>(</m:mo><m:mi>SV</m:mi><m:mo>)</m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SV</m:mi></m:math>. Normal resting cardiac output is 4–5 L/min. Heart rate is the number of times the heart beats per minute. Stroke volume is the amount of blood pumped out of the left ventricle with each heartbeat. In order for the heart to maintain cardiac output, both the electrical system of the heart and the pumping system of the heart must function properly. When the heart pumps blood into the aorta, the first organ that receives blood is the heart itself; coronary arteries branch off the aorta to supply the heart with oxygen and nutrients. The left main coronary artery and the right coronary artery ([link]Figure 22.2[/link]) are large arteries that branch into smaller arteries and arterioles to supply the heart. If any type of occlusion exists, then the blood flow to the heart tissue is reduced (<term id="term-00002">ischemia</term>), and anoxia and <term id="term-00003">infarction</term> may occur.</para>
+<para id="para-00003">There are two main types of cells in the heart: cardiac myocytes, which are contractile cells, and cardiac conduction cells, which generate and conduct electrical impulses. If cardiac myocytes are damaged, then the pumping ability of the heart is decreased. If cardiac myocytes die, an <term id="term-00004">acute myocardial infarction</term> (commonly referred to as a heart attack) occurs. If cardiac conduction cells die, the conduction system does not function properly, which can affect cardiac output. The cardiac conduction system also depends on appropriate electrolyte plasma levels in order to function optimally.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram of the heart, showing the anterior view in the top panel and the posterior view in the bottom panel. The different blood vessels are labeled."><image mime-type="image/png" src="../../media/PHA_Figure_22_01_002.png"/></media>
+<caption>Both views of the heart show the prominent coronary arteries and surface vessels. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<section id="sect-00004">
+<title>Acute Myocardial Infarction</title>
+<para id="para-00004">The heart, just like every other organ in the body, needs oxygen and nutrients to survive. Cardiac tissue receives oxygenated blood from coronary arteries, which branch off from the aorta ([link]Figure 22.2[/link]). However, the coronary arteries may become occluded due to various causes, with atherosclerosis, atherosclerotic plaque rupture, and emboli being the most common. If coronary artery occlusion occurs, then oxygenated blood does not reach all of the cardiac tissue. The affected tissue then becomes ischemic, and eventually an acute myocardial infarction (AMI) will occur. It is possible to avert tissue death with timely drugs and procedures.</para>
+<para id="para-00005">[link]Figure 22.3[/link] shows an occlusion in the circumflex artery and the common trunk of the left coronary artery. Occlusion in the circumflex artery can lead to ischemia and possible infarction in the apex of the heart.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An x ray shows blockage in the left coronary artery and the circumflex artery."><image mime-type="image/png" src="../../media/PHA_Figure_22_01_003.png"/></media>
+<caption>This coronary angiogram (a type of x-ray) shows a stenosis (blockage) in two different arteries. (credit: modification of work “Coronary angiography showing critical sub-total occlusion of the common trunk of the left coronary artery and circumflex artery” by Maria Abbondanza Pantaleo/BMC Cancer, CC BY 4.0 International)</caption>
+</figure>
+<note class="link-to-learning" id="note-00001">
+<para id="para-00006"><emphasis effect="bold">Videos on Coronary Artery Disease</emphasis></para>
+<para id="para-00007">The following videos provide helpful information on atherosclerosis, coronary artery disease, and the pathophysiology of AMI.</para>
+<para id="para-00008"><emphasis effect="italics">Atherosclerosis</emphasis></para>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/atherosclerosis"/>
+</media>
+<para id="para-00009"><emphasis effect="italics">Coronary artery disease</emphasis></para>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/coronary"/>
+</media>
+<para id="para-00010"><emphasis effect="italics">Myocardial infarction pathophysiology</emphasis></para>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/myocardial"/>
+</media>
+</note>
+</section>
+<section id="sect-00005">
+<title>Unstable Angina</title>
+<para id="para-00011"><term id="term-00005">Angina</term> is the medical term for chest pain caused by cardiac ischemia. Angina occurs when the heart is not getting enough blood flow. There are two types of angina: stable and unstable. <term class="no-emphasis" id="term-00006">Stable angina</term> (discussed in <link document="m00313">Antihypertensive and Antianginal Drugs</link>) occurs when the heart needs more oxygen, but the supply of oxygen is restricted. Once the heart does not need increased oxygen, the angina subsides. Stable angina occurs during exercise or exertion and improves with rest because the cardiac myocytes no longer require an increased oxygen supply. Many people live with stable angina, and medications are available to treat it.</para>
+<para id="para-00012"><term class="no-emphasis" id="term-00007">Unstable angina</term> occurs when the heart does not get enough blood flow. Often, the heart does not have an increased demand for oxygen; rather, the supply of oxygen has been decreased most often due to an occlusion of a coronary artery. Because oxygen supply is decreased, the angina will not be relieved with rest. Unstable angina is a medical emergency.</para>
+</section>
+<section id="sect-00006">
+<title>Dysrhythmias</title>
+<para id="para-00013">It is important to understand cardiac conduction in order to understand <term id="term-00008">dysrhythmias</term>. The heart is truly amazing in that it has the ability to generate electrical impulses. The sinoatrial (SA) node generates impulses that travel through the conduction tissue and stimulate the myocytes to contract. Each impulse leaves the SA node and travels to the atrioventricular (AV) node (during this time, the atria are stimulated to contract), has a brief pause, and then travels down the bundle branches and Purkinje fibers to stimulate ventricular contraction ([link]Figure 22.4[/link]).</para>
+<figure class="scaled-down" id="fig-00003">
+<media alt="A diagram of anterior view of the frontal section of the heart with the major parts labeled."><image mime-type="image/png" src="../../media/PHA_Figure_22_01_004.png"/></media>
+<caption>The SA node generates impulses that travel to the AV node, pause briefly, and then travel down the bundle branches and Purkinje fibers to stimulate ventricular contraction. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00014">The generation and conduction of electrical impulses rely heavily on various electrolytes: potassium, sodium, and calcium. Disturbances in the balance of these electrolytes can lead to serious dysrhythmias. Dysrhythmias can also occur when the conduction system has an interruption in blood supply. The conducting cells of the heart need oxygen and nutrients just as every other cell in the body does. If they do not receive oxygen, they will become ischemic and eventually die. If cells in the conduction pathway die, then that area does not conduct the electrical impulses.</para>
+</section>
+<section id="sect-00007">
+<title>Diagnostics</title>
+<section id="sect-00008">
+<title>Unstable Angina and Acute Myocardial Infarction</title>
+<para id="para-00015">When an individual is experiencing acute unstable angina or an AMI, the health care provider will first perform a rapid physical assessment based on signs and symptoms and then order specific diagnostics. These may include an electrocardiogram (ECG/EKG), continuous cardiac monitoring, cardiac troponin levels, a complete blood count, a lipid profile, and a basic metabolic profile. Other, more advanced diagnostic testing may be performed based on assessment findings. The individual will often undergo cardiac angiography for diagnostics and treatment.</para>
+</section>
+<section id="sect-00009">
+<title>Dysrhythmias</title>
+<para id="para-00016">If cardiac dysrhythmia is suspected, the health care provider will perform a rapid physical assessment and order an ECG, which shows changes in heart rhythm and is diagnostic for dysrhythmias. Additional diagnostic tests include a basic metabolic profile to assess potassium, sodium, and calcium levels.</para>
+</section>
+</section>
+<section id="sect-00010">
+<title>Clinical Manifestations</title>
+<para id="para-00017">Clinical manifestations of both unstable angina and AMI include chest pain that may radiate down the left arm or up to the neck, jaw pain, back pain, shortness of breath, diaphoresis (excessive sweating), nausea and vomiting, anxiety, and a feeling of impending doom. Nurses must be aware that signs and symptoms of AMI vary quite a lot, and some individuals may not feel chest pain at all. Furthermore, female clients often experience symptoms that are more vague or subtle than the ones reported by male clients.</para>
+<note class="special-considerations" id="note-00002">
+<title>Signs and Symptoms of Acute Myocardial Infarction</title>
+<para id="para-00018">Many different signs and symptoms can be suggestive of an AMI. Clients will often downplay them and suggest they may be attributed to other causes.</para>
+<para id="para-00019"><term class="no-emphasis" id="term-00009">Female clients</term> often experience different signs and symptoms than male clients do during an AMI, such as upper back pressure or lightheadedness. See the <link url="https://openstax.org/r/topics"><term class="no-emphasis" id="term-00010">American Heart Association</term> website</link> for more information on these symptoms.</para>
+</note>
+<para id="para-00020">Clinical manifestations of dysrhythmias include heart palpitations, racing heart rate, chest pain, shortness of breath, anxiety, fatigue, lightheadedness, dizziness, diaphoresis, and syncope (fainting). Life-threatening dysrhythmias often cause syncope to occur rapidly because cardiac output and blood pressure are not maintained.</para>
+</section>
+<section id="sect-00011">
+<title>Nonpharmacologic Treatment</title>
+<section id="sect-00012">
+<title>Unstable Angina and Acute Myocardial Infarction</title>
+<para id="para-00021">Nonpharmacologic treatment for both unstable angina and AMI includes stopping the activity that caused the pain, having the individual rest, and transporting them by ambulance to the nearest emergency department as soon as possible. They should undergo rapid emergency assessment and, if needed, should be transported to the cardiac catheterization laboratory for coronary artery catheterization, which will provide further diagnostic information and can be used for stent placement in blocked arteries.</para>
+</section>
+<section id="sect-00013">
+<title>Dysrhythmias</title>
+<para id="para-00022">If an individual is experiencing a life-threatening dysrhythmia, they should be transported to the nearest emergency department by ambulance. Depending on the type of dysrhythmia, <term id="term-00011">defibrillation</term> (administration of electrical shock) may be used to attempt to convert the life-threatening dysrhythmia to normal sinus rhythm (rhythm originating from the SA node).</para>
+</section>
+</section>
+</section>
+<section id="sect-00014">
+<title>Shock</title>
+<para id="para-00023">All cells in the body require oxygen to make adenosine triphosphate (ATP), which is the primary source of energy that cells use. This process is called aerobic metabolism. Most cells in the body can produce a limited amount of ATP anaerobically (without oxygen), but if oxygen is not eventually present, the cells cannot produce enough ATP to continue functioning, and they will die.</para>
+<para id="para-00024"><term id="term-00012">Shock</term> is caused by decreased tissue perfusion that occurs when cells, tissues, and organs do not receive adequate oxygenated blood. Tissues are perfused via the blood pressure (BP), which is a function of cardiac output (CO) and <term id="term-00013">systemic vascular resistance</term> <m:math><m:mo>(</m:mo><m:mi>SVR</m:mi><m:mo>)</m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>BP</m:mi><m:mo>=</m:mo><m:mi>CO</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SVR</m:mi></m:math>. Recall that cardiac output is a function of heart rate and stroke volume <m:math><m:mo>(</m:mo><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SV</m:mi><m:mo>)</m:mo></m:math>. Systemic vascular resistance is the amount of resistance in the blood vessels; in other words, it is the pressure that the arterial wall exerts against the circulating blood volume. Systemic vascular resistance is affected by blood vessel diameter, blood vessel length, and fluid viscosity (thickness). Of these three components, blood vessel diameter is by far the most important. A small change in blood vessel diameter can cause a major difference in vascular resistance and overall blood pressure.</para>
+<para id="para-00025">Shock is typically classified into four types:</para>
+<list list-type="bulleted" id="list-00002">
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00014">Distributive shock</term></emphasis> occurs when the normally circulating volume of fluid shifts from intravascular (within the blood vessels) to extravascular (outside of the blood vessels or in the area of the tissues). Because blood pressure depends on systemic vascular resistance, if there is a decreased fluid volume within the vasculature, then there is decreased resistance, and blood pressure is lower. An example of this type of shock is anaphylactic shock.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00015">Hypovolemic shock</term></emphasis> occurs when there is blood loss. If the bleeding is profound, then the volume in the vasculature will be reduced, leading to decreased systemic vascular resistance and decreased blood pressure. An example of this is acute blood loss due to a major trauma.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00016">Cardiogenic shock</term></emphasis> occurs when the heart has been damaged in some way and can no longer maintain adequate cardiac output. When cardiac output decreases, blood pressure decreases in turn. An example of cardiogenic shock is the aftereffect of an AMI. If tissue in the left ventricle dies, then the heart is not able to generate enough force to pump blood, and cardiac output is decreased.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00017">Obstructive shock</term></emphasis> occurs when some type of blockage in the thoracic cavity (rib cage) impedes the heart’s ability to pump. An example of this is cardiac tamponade (increased fluid in the pericardial sac that protects the heart). If there is too much fluid, then the ventricles cannot open enough to allow blood in for filling and therefore cannot pump blood out. Cardiac output is needed to maintain blood pressure, so this reduction in cardiac output will cause a decrease in blood pressure.</item>
+</list>
+<para id="para-00026">This chapter will focus on anaphylactic shock (a type of distributive shock), hypovolemic shock, and cardiogenic shock.</para>
+<section id="sect-00015">
+<title>Anaphylactic Shock</title>
+<para id="para-00027"><term id="term-00018">Anaphylaxis</term> occurs when the immune system has an overwhelming response to a foreign substance that is not usually harmful to most people. Examples of this type of substance include food and insect stings. In a typical allergic response, the immune system releases inflammatory mediators that cause local vasodilation, but in anaphylaxis, the immune system releases inflammatory mediators throughout the entire body. This response causes systemic vasodilation along with other signs of allergy (rash, pruritis) and bronchoconstriction, which allows plasma to leak from the blood vessels into the tissues. Because systemic vascular resistance is a major component of blood pressure, systemic vasodilation causes hypotension. In anaphylaxis, the resulting profound hypotension is referred to as anaphylactic shock.</para>
+<para id="para-00028">Anaphylactic shock can rapidly become life-threatening because the systemic release of inflammatory mediators also affects the respiratory system. In the lungs, the extreme vasodilation causes plasma to leak from blood vessels directly into lung tissue. This is referred to as <term id="term-00019">pulmonary edema</term>. The inflammatory mediators also cause smooth muscle constriction. Because the bronchioles are surrounded by smooth muscle, the airways narrow, and breathing is severely restricted. Air flow can become completely cut off and lead to death.</para>
+</section>
+<section id="sect-00016">
+<title>Hypovolemic Shock</title>
+<para id="para-00029"><term id="term-00020">Hypovolemic shock</term> results when not enough blood is circulating through the blood vessels. Causes of hypovolemic shock include blood loss due to external or internal bleeding, fluid loss from third-degree burns, and excessive vomiting or diarrhea. For blood pressure to be maintained, an adequate amount of fluid must be present within the blood vessels. If the blood volume is too low, then there will not be enough pressure to maintain systemic vascular resistance, which will cause blood pressure to decrease and the body’s tissues to become ischemic. Hypovolemic shock can rapidly become a life-threatening emergency if it is not reversed in a timely fashion.</para>
+</section>
+<section id="sect-00017">
+<title>Cardiogenic Shock</title>
+<para id="para-00030"><term id="term-00021">Cardiogenic shock</term> occurs when there has been damage to the cardiac muscle or when an area of cardiac muscle is dead. As already stated, cardiac output is a function of heart rate and stroke volume. Stroke volume is determined by preload, afterload, and contractility. Preload is the amount of blood that returns to the heart (venous return), afterload is the resistance that the heart must pump against, and contractility is the force of the cardiac contraction. In AMI, ventricular muscle cells have died and are no longer able to contract. In ischemia, the decreased blood flow means that cardiac muscle cells do not receive enough oxygen and cannot contract well. Regardless of the precipitating event, contractility is decreased, which negatively affects cardiac output. If cardiac output is decreased, then blood pressure will be decreased, and tissue perfusion will in turn be further decreased.</para>
+</section>
+<section id="sect-00018">
+<title>Diagnostics</title>
+<para id="para-00031">Low blood pressure accompanied by clinical signs such as cool, clammy skin; an elevated heart rate; elevated respiratory rate; change in mental status; or reduced level of consciousness are indicative of shock. Because shock is a life-threatening event, if it is suspected, treatment will begin as soon as possible and often before the problem is even definitively diagnosed.</para>
+<para id="para-00032">Diagnostics may include an ECG, continuous cardiac monitoring, x-rays, complete blood count, comprehensive metabolic profile, serum lactate level, blood type and screen testing for possible blood transfusion, and different types of blood cultures (because the cause of the shock may not yet be known).</para>
+</section>
+<section id="sect-00019">
+<title>Clinical Manifestations</title>
+<para id="para-00033">Clinical manifestations of shock may include hypotension, tachycardia (heart rate greater than 100 beats/min), tachypnea (fast respiratory rate), cold or clammy skin, decreased mental status, and loss of consciousness. The signs and symptoms can vary depending on the type of shock. In anaphylactic shock, the individual may also have wheezing, stridor, or complete inability to breathe.</para>
+</section>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>acute myocardial infarction (AMI)</term> <meaning>death of cardiac tissue due to lack of oxygen</meaning></definition>
+<definition id="def-00002"><term>anaphylaxis</term> <meaning>systemic and overwhelming immune response to an antigen</meaning></definition>
+<definition id="def-00003"><term>angina</term> <meaning>discomfort in the front of the chest, neck, shoulders, jaw, or arms that is precipitated by physical exertion and is relieved by rest or sublingual nitrates</meaning></definition>
+<definition id="def-00004"><term>cardiac output</term> <meaning>the product of the heart rate and stroke volume, or the amount of blood ejected with each heartbeat</meaning></definition>
+<definition id="def-00005"><term>cardiogenic shock</term> <meaning>shock caused by cardiac damage (pump failure)</meaning></definition>
+<definition id="def-00006"><term>defibrillation</term> <meaning>administration of electrical shock to a person experiencing a life-threatening cardiac dysrhythmia in an effort to restore normal sinus rhythm</meaning></definition>
+<definition id="def-00007"><term>dysrhythmia</term> <meaning>an irregular heart rhythm</meaning></definition>
+<definition id="def-00008"><term>hypovolemic shock</term> <meaning>decreased tissue perfusion caused by decreased circulating blood volume</meaning></definition>
+<definition id="def-00009"><term>infarction</term> <meaning>cell death due to lack of oxygen</meaning></definition>
+<definition id="def-00010"><term>ischemia</term> <meaning>Deficient supply of blood to tissues, which can cause injury</meaning></definition>
+<definition id="def-00011"><term>pulmonary edema</term> <meaning>excessive fluid in the lungs</meaning></definition>
+<definition id="def-00012"><term>shock</term> <meaning>decreased tissue perfusion to the point of hypoxia, which causes cells to undergo anaerobic metabolism; if not reversed, will lead to cell and tissue death</meaning></definition>
+<definition id="def-00013"><term>systemic vascular resistance</term> <meaning>resistance to blood flow by the blood vessels</meaning></definition>
+</glossary>
 </document>
