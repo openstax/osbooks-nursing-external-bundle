@@ -583,7 +583,7 @@ Nondihydropyridine calcium channel blocker; class IV antiarrhythmic drug<newline
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits calcium ions from entering the cell, resulting in decreased force of cardiac contraction and vascular smooth muscle relaxation</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-<emphasis effect="italics">For paroxysmal supraventricular tachycardia or atrial fibrillation with rapid ventricular response:</emphasis> 0.25 mg/kg actual body weight IV bolus over 2 min. If response inadequate, 0.35 mg/kg actual body weight IV bolus administered over 2 min. Subsequent bolus doses may be administered as needed according to the health care provider’s discretion.<newline/>
+<emphasis effect="italics">For paroxysmal supraventricular tachycardia or atrial fibrillation with rapid ventricular response:</emphasis> 0.25 mg/kg actual body weight IV bolus over 2 min. If response inadequate, 0.35 mg/kg actual body weight IV bolus administered over 2 min. Subsequent bolus doses may be administered as needed according to the health care provider’s discretion.<newline count="2"/>
 After initial bolus(es), continuous IV infusion may be needed, starting at 10 mg/hour for up to 24 hours.</entry>
 </row>
 <row>
@@ -671,7 +671,7 @@ Adrenergic agonist (nonselective)<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Binds to sympathetic nervous system receptors and stimulates the sympathetic nervous system, which causes increased heart rate, increased blood pressure, and increased oxygen intake in the lungs</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-<emphasis effect="italics">For ventricular fibrillation, pulseless ventricular tachycardia, asystole, and pulseless electrical activity:</emphasis> 0.1–1 mg IV bolus repeated every 5 min as necessary during cardiac resuscitation.<newline/>
+<emphasis effect="italics">For ventricular fibrillation, pulseless ventricular tachycardia, asystole, and pulseless electrical activity:</emphasis> 0.1–1 mg IV bolus repeated every 5 min as necessary during cardiac resuscitation.<newline count="2"/>
 <emphasis effect="italics">For anaphylaxis:</emphasis> 0.3–0.5 mg intramuscularly, repeated every 5–10 min as needed.</entry>
 </row>
 <row>
@@ -970,6 +970,8 @@ Phenytoin<newline/>
 <newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
+</row>
+<row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
 Ventricular arrhythmia<newline/>
 Atrial fibrillation<newline/>
@@ -1128,7 +1130,7 @@ Hydrochlorothiazide 25 mg daily</para>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
 <entry valign="top" align="left">98.1°F</entry>
-<entry valign="top" align="left" morerows="5"><list list-type="bulleted" id="list-00033"><item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within defined limits</item>
+<entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00033"><item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within defined limits</item>
 <item><emphasis effect="italics">Neurologic:</emphasis> Within defined limits</item>
 <item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular venous distension; S1 and S2 heard on heart auscultation; no S3 noted; brisk capillary refill in nailbeds of hands and feet</item>
 <item><emphasis effect="italics">Respiratory:</emphasis> Clear to auscultation bilaterally</item>
