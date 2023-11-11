@@ -29,7 +29,7 @@
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00005">Aspirin can cause gastritis and bleeding in the stomach, other parts of the gastrointestinal tract, brain, and spinal cord.</para>
 <para id="para-00006">Contraindications to aspirin are allergy to nonsteroidal anti-inflammatory drugs (NSAIDs), asthma, hemophilia, and other blood clotting disorders. Pediatric clients who have suspected viral illnesses should not take aspirin because Reye’s syndrome, a potentially fatal complication, could develop. As a precaution, aspirin is generally not used in <term class="no-emphasis" id="term-00003">pediatric clients</term>.</para>
-<para id="para-00007">[link]Table 22.1[/link] is a drug prototype table for aspirin used in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00007"><link target-id="table-00001" document="m00389"/> is a drug prototype table for aspirin used in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -112,7 +112,7 @@ Pediatric clients (risk of developing Reye’s syndrome)</entry>
 <para id="para-00020"><emphasis effect="bold">Nitroglycerin</emphasis></para>
 <para id="para-00021">Nitrates can cause hypotension. In an emergency situation, make sure the client is sitting or lying down before administering nitroglycerin.</para>
 </note>
-<para id="para-00022">[link]Table 22.2[/link] is a drug prototype table for nitroglycerin use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00022"><link target-id="table-00002" document="m00389"/> is a drug prototype table for nitroglycerin use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -209,7 +209,7 @@ Lactation</entry>
 <para id="para-00030"><emphasis effect="bold"><term class="no-emphasis" id="term-00012">Opioid Analgesics</term></emphasis></para>
 <para id="para-00031">Morphine can cause respiratory depression, respiratory arrest, cardiac arrest, and shock. Nurses must monitor the client frequently (reassess at least every 5–10 minutes) when using morphine to control pain.</para>
 </note>
-<para id="para-00032">[[link]Table 22.3[/link]] is a drug prototype table for opioid agonists featuring morphine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00032"><link target-id="table-00003" document="m00389"/> is a drug prototype table for opioid agonists featuring morphine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -305,7 +305,7 @@ Paralytic ileus</entry>
 <title>Dysrhythmia Drugs</title>
 <para id="para-00038">There is a saying in cardiac nursing that there are only three problems with the conduction system: The heart can beat too fast, too slow, or not at all.</para>
 <para id="para-00039">This is an oversimplification, but each one of these problems can lead to hemodynamic instability and potentially death. Once again, the importance of cardiac output cannot be emphasized enough. Cardiac output is a function of heart rate and stroke volume. If the heart rate is too fast, then ventricular filling cannot occur, and cardiac output is affected. If the heart rate is too slow, then not enough blood will be pumped, and cardiac output is affected. If there is no heart rate at all, then, of course, there is no cardiac output.</para>
-<para id="para-00040">The cardiac conduction system—specifically, the SA node—determines the heart rate. The SA node is influenced by the sympathetic and parasympathetic nervous systems. As with all other tissues in the body, it must have a blood supply, and it needs the correct amount of electrolytes (sodium, potassium, calcium, and chloride) to function optimally. The cardiac conduction system (see [link]Figure 22.4[/link]) includes the SA node, the AV node, the bundle of His, and the Purkinje fibers.</para>
+<para id="para-00040">The cardiac conduction system—specifically, the SA node—determines the heart rate. The SA node is influenced by the sympathetic and parasympathetic nervous systems. As with all other tissues in the body, it must have a blood supply, and it needs the correct amount of electrolytes (sodium, potassium, calcium, and chloride) to function optimally. The cardiac conduction system (see <link target-id="fig-00003" document="m00388"/>) includes the SA node, the AV node, the bundle of His, and the Purkinje fibers.</para>
 <para id="para-00041">Although the main pacemaker of the heart is the SA node, other areas of the conduction system generate electrical impulses. The SA node generates impulses at 60–100 beats/min, the AV node at 40–60 beats/min, and the ventricles at 20–40 beats/min. Typically, the conduction system will conduct the fastest rate, which is why the system normally follows the SA node impulses.</para>
 <para id="para-00042">Cardiac conduction can be categorized by area of the heart: atrial conduction and ventricular conduction. Most conduction problems in the atria are not life-threatening, but supraventricular tachycardia, atrial fibrillation with rapid ventricular response, and sick sinus syndrome (which can cause hemodynamically unstable bradycardia) can cause hemodynamic instability and potentially death. Ventricular dysrhythmias nearly always cause hemodynamic instability and will lead to death if not treated rapidly. Ventricular dysrhythmias include ventricular tachycardia, pulseless ventricular tachycardia, and ventricular fibrillation.</para>
 <para id="para-00043">Emergency dysrhythmias discussed in this chapter include the following:</para>
@@ -327,7 +327,7 @@ Paralytic ileus</entry>
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00046">Adenosine may causeflushing of the skin, palpitations, chest pain, hypotension, lightheadedness, nausea, sweating, nervousness, numbness, and apprehension. It decreases conduction through the AV node and may produce short-lasting heart block. It is important to note that the benefit of adenosine in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00047">Contraindications to adenosine include second- or third-degree heart block (except in clients with a pacemaker), sinus node disease (sick sinus syndrome or symptomatic bradycardia), and known hypersensitivity to adenosine.</para>
-<para id="para-00048">[link]Table 22.4[/link] is a drug prototype table for adenosine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00048"><link target-id="table-00004" document="m00389"/> is a drug prototype table for adenosine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00004">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -408,7 +408,7 @@ Known hypersensitivity to adenosine</entry>
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00055">Amiodarone can causehypotension, bradycardia, atrioventricular block, hepatic injury, heart rhythm disturbances, pulmonary injury, loss of vision, thyroid injury, hypersensitivity, anorexia, nausea, vomiting, and photosensitivity. It is important to note that the benefit of amiodarone in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00056">Contraindications to amiodarone include known hypersensitivity, cardiogenic shock, marked sinus bradycardia, and second- or third-degree AV block (unless the client has an implanted pacemaker).</para>
-<para id="para-00057">[link]Table 22.5[/link] is a drug prototype table for amiodarone use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00057"><link target-id="table-00005" document="m00389"/> is a drug prototype table for amiodarone use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00005">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -504,7 +504,7 @@ Second- or third-degree AV block (unless the client has an implanted pacemaker)<
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00066">Atropine can cause tachycardia, acute glaucoma, pyloric obstruction, and complete urinary retention. It is important to note that the benefit of atropine in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00067">There are no contraindications to the use of atropine.</para>
-<para id="para-00068">[link]<emphasis effect="bold">Table 22.6</emphasis>[/link] is a drug prototype table for atropine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00068"><link target-id="table-00006" document="m00389"/> is a drug prototype table for atropine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00006">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -565,13 +565,13 @@ None</entry>
 </section>
 <section id="sect-00024">
 <title>Diltiazem</title>
-<para id="para-00072"><term class="no-emphasis" id="term-00028">Diltiazem</term> is a nondihydropyridine <term id="term-00029">calcium channel blocker</term> and a <term class="no-emphasis" id="term-00030">class IV antiarrhythmic</term> drug. Nondihydropyridine calcium channel blockers inhibit calcium flow into cardiac myocytes, which results in decreased force of contractions and decreased heart rate. Therefore, diltiazem is useful for treating supraventricular tachycardia and atrial fibrillation with rapid ventricular response. In addition, calcium channel blockers cause vasodilation and can reduce blood pressure. [link]<link document="m00313">Antihypertensive and Antianginal Drugs</link> discusses the use of calcium channel blockers in hypertension.</para>
+<para id="para-00072"><term class="no-emphasis" id="term-00028">Diltiazem</term> is a nondihydropyridine <term id="term-00029">calcium channel blocker</term> and a <term class="no-emphasis" id="term-00030">class IV antiarrhythmic</term> drug. Nondihydropyridine calcium channel blockers inhibit calcium flow into cardiac myocytes, which results in decreased force of contractions and decreased heart rate. Therefore, diltiazem is useful for treating supraventricular tachycardia and atrial fibrillation with rapid ventricular response. In addition, calcium channel blockers cause vasodilation and can reduce blood pressure. <link document="m00313">Antihypertensive and Antianginal Drugs</link> discusses the use of calcium channel blockers in hypertension.</para>
 <section id="sect-00025">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00073">Diltiazem can cause asystole; atrial flutter; first-, second-, and third-degree atrioventricular block; bradycardia; chest pain; congestive heart failure; sinus pause; sinus node dysfunction; syncope; ventricular dysrhythmia; ventricular fibrillation; ventricular tachycardia; dizziness; allergic reaction; Stevens–Johnson syndrome; and angioedema. It is important to note that the benefit of diltiazem in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00074">Contraindications include sick sinus syndrome, unless the client has a pacemaker; second- or third-degree heart block, unless the client has a pacemaker; severe hypotension and/or cardiogenic shock; hypersensitivity; ventricular tachycardia; and AMI.</para>
 <para id="para-00075">Diltiazem should not be administered concurrently with IV beta-adrenergic blockers.</para>
-<para id="para-00076">[link]Table 22.7[/link] is a drug prototype table for diltiazem use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00076"><link target-id="table-00007" document="m00389"/> is a drug prototype table for diltiazem use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00007">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -659,7 +659,7 @@ Acute myocardial infarction</entry>
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00082">Epinephrine can cause anxiety and excitability, headache, fear, heart palpitations, tachycardia, supraventricular tachycardia, ventricular arrhythmias, hypertension, cerebral hemorrhage, hemiplegia, subarachnoid hemorrhage, anginal pain in clients with angina, pulmonary edema, hypoglycemia, hypokalemia, and lactic acidosis. It is important to note that the benefit of epinephrine in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00083">Contraindications to epinephrine include cardiac dilation, coronary artery insufficiency, and shock during general anesthesia. Epinephrine contains sodium bisulfate, which may cause an allergic reaction.</para>
-<para id="para-00084">[link]Table 22.8[/link] is a drug prototype table for epinephrine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00084"><link target-id="table-00008" document="m00389"/> is a drug prototype table for epinephrine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00008">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -754,7 +754,7 @@ Shock during general anesthesia</entry>
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00089">Lidocaine can cause respiratory depression and arrest, unconsciousness, convulsions, tremors, twitching, vomiting, blurred or double vision, drowsiness, dizziness, light-headedness, agitation, confusion, paresthesia, and dysarthria. It is important to note that the benefit of lidocaine in a life-threatening event outweighs the risk of adverse effects.</para>
 <para id="para-00090">Contraindications to lidocaine include a history of hypersensitivity, Stokes–Adams syndrome, Wolff–Parkinson–White syndrome, and heart block.</para>
-<para id="para-00091">[link]Table 22.9[/link] is a drug prototype table for lidocaine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications. Lidocaine as a topical anesthetic is not addressed in this section.</para>
+<para id="para-00091"><link target-id="table-00009" document="m00389"/> is a drug prototype table for lidocaine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications. Lidocaine as a topical anesthetic is not addressed in this section.</para>
 <table class="vertically-tight" id="table-00009">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -843,7 +843,7 @@ Severe intraventricular heart block</entry>
 <para id="para-00096">Procainamide can cause hypotension, asystole, ventricular fibrillation, lupus erythematosus–like syndrome, pleural effusions, pericarditis, neutropenia, thrombocytopenia, hemolytic anemia, agranulocytosis, dizziness, weakness, and elevated liver enzyme levels.</para>
 <para id="para-00097">Prolonged use of procainamide often leads to a positive antinuclear antibody (ANA) test; if this occurs, the risk–benefit ratio of procainamide use should be reassessed. It is important to note that the benefit of procainamide in a life-threatening event generally outweighs the risk of adverse effects.</para>
 <para id="para-00098">Contraindications to the use of procainamide include a history of hypersensitivity, complete heart block, atrial fibrillation or flutter, congestive heart failure, lupus erythematosus, torsade de pointes, myasthenia gravis, and sulfite sensitivity.</para>
-<para id="para-00099">[link]Table 22.10[/link] is a drug prototype table for procainamide use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00099"><link target-id="table-00010" document="m00389"/> is a drug prototype table for procainamide use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00010">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -939,7 +939,7 @@ Sulfite sensitivity</entry>
 <para id="para-00111">Dopamine may cause peripheral ischemia in clients with a history of occlusive vascular disease.</para>
 <para id="para-00112">Dopamine is a potent drug. It should be administered only in an intensive care area with proper monitoring available.</para>
 </note>
-<para id="para-00113">[link]Table 22.11[/link] is a drug prototype table for dopamine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00113"><link target-id="table-00011" document="m00389"/> is a drug prototype table for dopamine use in emergency situations. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00011">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -1035,7 +1035,7 @@ Allergy to metabisulfite</entry>
 <para id="para-00122"><emphasis effect="bold">Dobutamine</emphasis></para>
 <para id="para-00123">Dobutamine should not be mixed with any other drug in the same solution because it is incompatible with many other drugs.</para>
 </note>
-<para id="para-00124">[link]Table 22.12[/link] is a drug prototype table for dobutamine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00124"><link target-id="table-00012" document="m00389"/> is a drug prototype table for dobutamine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00012">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
