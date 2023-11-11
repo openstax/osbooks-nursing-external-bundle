@@ -61,38 +61,38 @@
 
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-<entry><term class="no-emphasis" id="term-00003">Quinidine</term></entry>
-<entry><emphasis effect="italics">Ventricular arrhythmias:</emphasis><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Quinidine</term></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Ventricular arrhythmias:</emphasis><newline/>
 <emphasis effect="italics">Quinidine sulfate:</emphasis> 200–600 mg every 6–12 hours.<newline/>
 <emphasis effect="italics">Quinidine gluconate:</emphasis> 324–648 mg every 8–12 hours.</entry>
       </row>
       <row>
-<entry><term class="no-emphasis" id="term-00004">Procainamide</term></entry>
-<entry><emphasis effect="italics">Ventricular arrhythmias: </emphasis><newline/>
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Procainamide</term></entry>
+            <entry valign="top" align="left"><emphasis effect="italics">Ventricular arrhythmias: </emphasis><newline/>
 <emphasis effect="italics">Loading dose:</emphasis> 100 mg IV every 5 min, administered until the arrhythmia is suppressed or 500 mg has been administered.<newline/>
 <emphasis effect="italics">Maintenance dose</emphasis>: Typically 50 mcg/min/kg.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00005">Lidocaine</term><newline/>
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Lidocaine</term><newline/>
 (<term class="no-emphasis" id="term-00006">Xylocaine</term>)</entry>
-<entry><emphasis effect="italics">Ventricular arrhythmias (hemodynamically stable): </emphasis>1–1.5 mg/kg IV bolus, repeat 0.5–0.75 mg/kg IV bolus every 5–10 min; maintenance infusion is 1–4 mg/min IV.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Ventricular arrhythmias (hemodynamically stable): </emphasis>1–1.5 mg/kg IV bolus, repeat 0.5–0.75 mg/kg IV bolus every 5–10 min; maintenance infusion is 1–4 mg/min IV.</entry>
       </row>
       <row>      
-<entry><term class="no-emphasis" id="term-00007">Mexiletine</term></entry>
-<entry><emphasis effect="italics">Ventricular arrhythmias:</emphasis> 150–200 mg orally every 8–12 hours.</entry>
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Mexiletine</term></entry>
+            <entry valign="top" align="left"><emphasis effect="italics">Ventricular arrhythmias:</emphasis> 150–200 mg orally every 8–12 hours.</entry>
       </row>
             <row>
-<entry><term class="no-emphasis" id="term-00008">Flecainide</term></entry>
-<entry><emphasis effect="italics">Maintenance of normal sinus rhythm in atrial fibrillation:</emphasis> 50–200 mg orally every 12 hours.</entry>
+                  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Flecainide</term></entry>
+                  <entry valign="top" align="left"><emphasis effect="italics">Maintenance of normal sinus rhythm in atrial fibrillation:</emphasis> 50–200 mg orally every 12 hours.</entry>
 	    </row>
 	          <row>
-<entry><term class="no-emphasis" id="term-00009">Propafenone </term><newline/>
+                  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Propafenone </term><newline/>
 (<term class="no-emphasis" id="term-00010">Rythmol SR</term>)</entry>
 <entry><emphasis effect="italics">Maintenance of normal sinus rhythm in atrial fibrillation:</emphasis><newline/>
 <emphasis effect="italics">Immediate release:</emphasis> 150–300 mg orally every 8 hours.<newline/>

@@ -43,22 +43,22 @@
         <colspec colnum="2" colname="c2" colwidth="2*"/>
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00003">Diltiazem</term><newline/>
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Diltiazem</term><newline/>
 	 (<term class="no-emphasis" id="term-00004">Cardizem, Cartia XT, Dilt XR, Taztia XT, Tiazac</term>)</entry>
-<entry><emphasis effect="bold">Atrial fibrillation:</emphasis><newline/>
+       <entry valign="top" align="left"><emphasis effect="bold">Atrial fibrillation:</emphasis><newline/>
 <emphasis effect="italics">Extended-release:</emphasis> 120–360 mg orally daily.<newline/>
 Intravenous: 0.25 mg/kg IV bolus over 2 min, then 5–15 mg/hour continuous IV infusion.</entry>
       </row>
       <row>
-<entry><term class="no-emphasis" id="term-00005">Verapamil</term><newline/>(<term class="no-emphasis" id="term-00006">Calan
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Verapamil</term><newline/>(<term class="no-emphasis" id="term-00006">Calan
    SR</term>)</entry>
-<entry><emphasis effect="italics">Atrial fibrillation:</emphasis> 0.075–0.15 mg/kg IV bolus over 2 min, then 0.005 mg/kg/min continuous IV infusion.</entry>
+   <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 0.075–0.15 mg/kg IV bolus over 2 min, then 0.005 mg/kg/min continuous IV infusion.</entry>
       </row>
       </tbody>
       </tgroup>

@@ -54,33 +54,33 @@
         <colspec colnum="2" colname="c2" colwidth="2*"/>
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-<entry><term class="no-emphasis" id="term-00002">Amiodarone</term><newline/>
+            <entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Amiodarone</term><newline/>
 (<term class="no-emphasis" id="term-00003">Nexterone, Pacerone</term>)</entry>
-<entry><emphasis effect="italics">Ventricular dysrhythmias: </emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Ventricular dysrhythmias: </emphasis><newline/>
 <emphasis effect="italics">Oral</emphasis>: 400 mg orally once daily.<newline/>
 <emphasis effect="italics">IV:</emphasis> For the first 24 hours, administer 150 mg IV over the first 10 min, followed by 360 mg IV over the next 6 hours, followed by 540 mg IV over the remaining 18 hours After the first 24 hours, continue the maintenance infusion rate of 0.5 mg/min.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00004">Dronedarone</term><newline/>(<term class="no-emphasis" id="term-00005">Multaq</term>)</entry>
-<entry><emphasis effect="italics">Atrial fibrillation:</emphasis> 400 mg orally twice daily.</entry>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Dronedarone</term><newline/>(<term class="no-emphasis" id="term-00005">Multaq</term>)</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 400 mg orally twice daily.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00006">Dofetilide</term><newline/>(<term class="no-emphasis" id="term-00007">Tikosyn</term>)</entry>
-<entry><emphasis effect="italics">Atrial fibrillation:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Dofetilide</term><newline/>(<term class="no-emphasis" id="term-00007">Tikosyn</term>)</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00008">Ibutilide</term><newline/>(<term class="no-emphasis" id="term-00009">Corvert</term>)</entry>
-<entry><emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 1 mg IV once. If dysrhythmia has not stopped by 10 min after completion of administration, a second dose may be given (dosing applies to clients who weigh at least 60 kg).</entry>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Ibutilide</term><newline/>(<term class="no-emphasis" id="term-00009">Corvert</term>)</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 1 mg IV once. If dysrhythmia has not stopped by 10 min after completion of administration, a second dose may be given (dosing applies to clients who weigh at least 60 kg).</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00010">Sotalol</term><newline/>(<term class="no-emphasis" id="term-00011">Betapace,Betapace AF, Sorine</term>)</entry>
-<entry><emphasis effect="italics">Ventricular dysrhythmias:</emphasis> 160 mg orally twice daily.<newline/>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Sotalol</term><newline/>(<term class="no-emphasis" id="term-00011">Betapace,Betapace AF, Sorine</term>)</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Ventricular dysrhythmias:</emphasis> 160 mg orally twice daily.<newline/>
 <emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 80–120 mg orally twice daily.</entry>
 </row>
       </tbody>

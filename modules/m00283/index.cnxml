@@ -43,40 +43,40 @@
       <colspec colnum="2" colname="c2" colwidth="2*"/>
      <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+      <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-<entry><term class="no-emphasis" id="term-00003">Esmolol</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Esmolol</term><newline/>
 (<term class="no-emphasis" id="term-00004">Brevibloc</term>)</entry>
-<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 500 mcg/kg IV bolus over 1 min, then 50–300 mcg/kg/min IV.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 500 mcg/kg IV bolus over 1 min, then 50–300 mcg/kg/min IV.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00005">Metoprolol </term><newline/>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Metoprolol </term><newline/>
 (<term class="no-emphasis" id="term-00006">Lopressor, Toprol XL</term>)</entry>
-<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis><newline/>
 <emphasis effect="italics">Metoprolol tartrate (immediate release):</emphasis><newline/>
 <emphasis effect="italics">IV:</emphasis> 2.5–5 mg IV over 2 min, up to three doses.<newline/>
 <emphasis effect="italics">Oral:</emphasis> 25–100 mg orally twice daily.<newline/>
 <emphasis effect="italics">Metoprolol succinate (extended release):</emphasis> 50–400 mg orally daily.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00007">Atenolol </term><newline/>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Atenolol </term><newline/>
 (<term class="no-emphasis" id="term-00008">Tenormin</term>)</entry>
-<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 25–100 mg orally daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 25–100 mg orally daily.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00009">Propranolol </term><newline/>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Propranolol </term><newline/>
 (<term class="no-emphasis" id="term-00010">Inderal</term>)</entry>
-<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis><newline/>
 <emphasis effect="italics">IV:</emphasis> 1 mg IV over 1 min, up to three doses at 2-min intervals.<newline/>
 <emphasis effect="italics">Oral:</emphasis> 10–40 mg orally 3–4 times daily.</entry>
 </row>
 <row>
-<entry><term class="no-emphasis" id="term-00011">Bisoprolol</term></entry>
-<entry><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 2.5–10 mg orally daily.</entry>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Bisoprolol</term></entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Rate control of atrial fibrillation:</emphasis> 2.5–10 mg orally daily.</entry>
 </row>
       </tbody>
      </tgroup>
@@ -90,7 +90,7 @@
 <para id="para-00010">Although beta-adrenergic blockers are indicated to treat heart failure long term, starting beta-adrenergic blockers too quickly or at too high a dose can lead to heart failure exacerbations because of their effect on cardiac contractility.</para>
 <para id="para-00011">Beta-adrenergic blockers can cause bradycardia and are contraindicated in clients who have severe bradycardia unless they have a pacemaker and in clients in cardiogenic shock. They should also be used cautiously in clients with acute exacerbations of heart failure.</para>
 
-<para id="para-00012"><link target-id="table-00001" document="m00283"/> is a drug prototype table for beta-adrenergic blockers featuring metoprolol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00012"><link target-id="table-00002" document="m00283"/> is a drug prototype table for beta-adrenergic blockers featuring metoprolol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
