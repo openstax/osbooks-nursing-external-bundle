@@ -37,9 +37,6 @@
 <table id="table-00001">
 <title/>
 <tgroup cols="3">
-  <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="left">Lab Test</entry>
@@ -48,7 +45,7 @@
 </row>
 </thead>
 <tbody>
-<row>
+<row>   
 <entry valign="top">GFR</entry>
 <entry valign="top">90–120 mL/min/1.73m<sup>2</sup></entry>
 <entry valign="top">52 mL/min/1.73m<sup>2</sup></entry>
@@ -110,7 +107,7 @@
 <exercise id="exer-00014"><problem id="prob-00014"><para id="para-00020"><link class="os-embed" url="#exercise/NUT_Ch15_Sec03_RQ10"/></para></problem></exercise>
   </section>
 <section class="suggested-reading" id="sect-00006">
-<para id="para-00021">Amin, R., Thalluir, C., Docea, A., Sharifi-Rad, J., &amp; Calina, D. (2022). Therapeutic potential of cranberry for kidney health and diseases. <emphasis effect="italics">eFood</emphasis>, <emphasis effect="italics">3</emphasis>(5), e33. https://doi.org/10.1002/efd2.33</para>
+<para id="para-00021">Amin, R., Thalluir, C., Docea, A., Sharifi-Rad, J., &amp; Calina, D. (2022). Therapeutic potential of cranberry for kidney health and diseases. <emphasis effect="italics">eFood</emphasis>, <emphasis effect="italics">3</emphasis>(5), e33. https://doi.org/10.1002/efd2.33</para> 
 <para id="para-00022">Avesani, C., Cardozo, L., Wang, A., Lindholm, B., Stenvinkel, P., &amp; Mafra, D. (2022, September 28). Planetary health, nutrition, and chronic kidney disease: Connecting the dots for a sustainable future. <emphasis effect="italics">Journal of Renal Nutrition</emphasis>, <emphasis effect="italics">S1051-2276</emphasis>(22)00161-3. https://doi.org/10.1053/j.jrn.2022.09.003</para>
 <para id="para-00023">Bhattacharjee, R., Jackson, A., Ruthirakanthan, A., Juriasingani, S., Levine, M., Jiang, L., Patel, R., Richard-Mohamed, M., Forrest, S., Ravichandran, S., Sener, A., &amp; Luke, P. (2022). The impact of nutritional supplementation on donor kidneys during oxygenated ex vivo subnormothermic preservation. <emphasis effect="italics">Transplantation Direct</emphasis>, <emphasis effect="italics">8</emphasis>(10), e1382. https://doi.org/10.1097/TXD.000000000000138</para>
 <para id="para-00024">Caldiroli, L., Molinari, P., Abinti, M., Rusconi, C., Castellano, G., &amp; Vettoretti, S. (2022). Can Mediterranean diet have a positive impact on kidney health? A pending answer to a long-time question. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">14</emphasis>, 4366. https://doi.org/10.3390/nu14204366.</para>
