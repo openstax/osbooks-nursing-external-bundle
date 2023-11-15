@@ -5,9 +5,338 @@
     <md:content-id>m00474</md:content-id>
     <md:uuid>90de9d38-43f9-4574-89f4-d81bcff55e98</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001"> 
+<item>Identify the characteristics of adjunct medications used to treat heart failure. </item>
+<item>Explain the indications, actions, adverse reactions, and interactions of adjunct medications used to treat heart failure.</item>
+<item>Describe nursing implications of adjunct medications used to treat heart failure. </item>
+<item>Explain the client education related to adjunct medications used to treat heart failure.</item>
+</list>
+</section>
+<section id="sect-00002">
+<section id="sect-00003">
+<title>Hydralazine and Isosorbide Dinitrate</title>
+<para id="para-00002"><term class="no-emphasis" id="term-00001">Hydralazine and isosorbide dinitrate</term> (<term class="no-emphasis" id="term-00002">BiDil</term>) are administered as a combination drug in clients with heart failure who have optimized therapy with other medications but still have a low ejection fraction and/or symptoms. This drug combination has been shown to reduce mortality in <term class="no-emphasis" id="term-00003">Black clients</term> with heart failure (Heidenreich et al., 2022). Research has not shown a decreased mortality in clients with heart failure who are not Black, but there may be some benefit to adding hydralazine and isosorbide dinitrate or to using this therapy if clients are not able to tolerate first-line therapy.</para>
+<para id="para-00003">The combination of hydralazine and isosorbide dinitrate causes vasodilation, which decreases afterload, or the amount of force that the heart must pump against. Hydralazine directly vasodilates arterioles. Although the mechanism of action is not well understood, it is thought to decrease calcium release in the smooth muscles around arterioles. Because calcium is an essential component of muscle contraction, if less calcium is available, then the smooth muscle will contract less and the arteriole will not be constricted.</para>
+<para id="para-00004">Isosorbide dinitrate is a part of the nitrate drug classification that was discussed in <link document="m00313">Antihypertensive and Antianginal Drugs</link>. Nitrates cause the release of nitric oxide within the endothelium of blood vessels. Nitric oxide causes a series of events that ultimately lead to vasodilation.</para>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00005">Adverse effects include orthostatic hypotension, tachycardia, paradoxical bradycardia, flushing, peripheral edema, nausea/vomiting, headache (nitrates), blurred vision, drug-induced lupus erythematosus, hemolytic anemia, and glomerulonephritis.</para>
+<para id="para-00006">Contraindications include allergy to nitrates and use with phosphodiesterase type 5 (PDE5) inhibitors.</para>
+<para id="para-00007">is a drug prototype table featuring hydralazine and isosorbide dinitrate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="1*"/>
+<colspec colnum="2" colname="col2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Arteriolar vasodilator/nitrate vasodilator<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Hydralazine directly vasodilates arterioles by causing smooth muscle relaxation. Isosorbide dinitrate causes the release of nitric oxide, which ultimately leads to vasodilation.</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Heart failure: </emphasis>20 mg isosorbide dinitrate with 37.5 mg hydralazine orally three times daily; maximum dose: 40 mg isosorbide dinitrate with 75 mg hydralazine orally three times daily.</entry>
+</row>
+<row>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Adjunct treatment to standard therapy for self-identified Black clients with heart failure and/or clients who are not able to tolerate standard therapy<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Lowers blood pressure, which decreases afterload</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Phosphodiesterase type 5 (PDE5) inhibitors<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Orthostatic hypotension<newline/>
+Dizziness<newline/>
+Tachycardia<newline/>
+Paradoxical bradycardia<newline/>
+Flushing<newline/>
+Peripheral edema<newline/>
+Nausea/vomiting<newline/>
+Headache (nitrates)<newline/>
+Blurred vision<newline/>
+Drug-induced lupus erythematosus<newline/>
+Hemolytic anemia<newline/>
+Glomerulonephritis</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+PDE5 inhibitors<newline/>
+Allergy to nitrates</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Hydralazine/Isosorbide Dinitrate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00001">
+<title>Hydralazine</title>
+<para id="para-00008">Nitrates can cause hypotension; nitrates in combination with hydralazine can cause significant hypotension. This medication should not be taken with PDE5 inhibitors because this can lead to profound hypotension.</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Nursing Implications</title>
+<para id="para-00009">The nurse should do the following for clients who are taking hydralazine/isosorbide dinitrate:</para>
+<list id="list-00002">
+<item>Assess the client’s drug and herbal supplements because significant hypotension may occur when used in conjunction with nitrates.</item>
+<item>Monitor the client’s blood pressure when initiating hydralazine/isosorbide dinitrate, and do not administer the medication if systolic blood pressure is less than 90 mm Hg.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See the following for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00010"><emphasis effect="bold">The client taking hydralazine/isosorbide dinitrate should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Monitor for signs and symptoms of low blood pressure such as dizziness or lightheadedness.</item>
+<item>Get up slowly during the first couple of days of taking the medication in case of orthostatic hypotension.</item>
+</list>
+<para id="para-00011"><emphasis effect="bold">The client taking hydralazine/isosorbide dinitrate <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Take erectile dysfunction medications with this medication because they also contain a nitrate.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00006">
+<title>Cardiac Glycosides</title>
+<para id="para-00012"><term id="term-00004">Cardiac glycosides</term> used to be a first-line therapy in heart failure. Over the years, medications that are safer and more efficacious have been introduced on the market. However, cardiac glycosides may be used as adjunct therapy if first-line medications for heart failure have been optimized and the client still has a reduced ejection fraction and/or symptoms.</para>
+<para id="para-00013"><term class="no-emphasis" id="term-00005">Digoxin </term>is the only cardiac glycoside used in heart failure. It affects the sodium-potassium ATPase pump in such a way that causes more calcium to enter the cardiac myocyte. If there is more calcium, then the force of contraction is stronger. Because of this, digoxin is referred to as a <emphasis effect="italics">positive inotrope</emphasis>. Digoxin also stimulates the parasympathetic nervous system, which affects the electrical conduction system of the heart. Parasympathetic stimulation causes the heart to beat less often. This means that there is a longer time for ventricular filling (longer diastole). This helps the heart since the cardiac myocytes receive oxygenated blood during diastole.</para>
+<para id="para-00014">Digoxin can have complicated dosage instructions. There often is a loading dose and then a maintenance dose, and factors such as body weight, age, renal function, and concomitant drugs are part of the dosing consideration. </para>
+<section id="sect-00007">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00015">Adverse effects include fatal cardiac arrhythmias, sinus bradycardia, sinoatrial block, visual disturbances (yellow or green halo around lights), atrial tachycardia, and rash.</para>
+<para id="para-00016">Digoxin has a narrow therapeutic index and a high potential for toxicity. Signs and symptoms of digoxin toxicity include anorexia, nausea, vomiting, visual changes, and cardiac arrhythmias.</para>
+<para id="para-00017">Contraindications include acute myocardial infarction, ventricular fibrillation, Wolff-Parkinson-White syndrome, myocarditis, hypokalemia, and hypomagnesemia.</para>
+<para id="para-00018">is a drug prototype table for cardiac glycosides featuring maintenance dosing for digoxin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="1*"/>
+<colspec colnum="2" colname="col2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Cardiac glycoside<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks the sodium-potassium ATPase pump, which ultimately causes potassium to remain in the cardiac myocyte longer, leading to a stronger force of contraction<newline/>
+Increases parasympathetic stimulation of the heart (mechanism
+unclear), which decreases heart rate</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Heart failure maintenance dosing:</emphasis> 0.125–0.5 mg orally once daily. </entry>
+</row>
+<row>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Continued heart failure symptoms even though first-line medications for heart failure have been optimized<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increases force of contraction<newline/>
+Lowers heart rate</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Quinidine<newline/>
+Calcium channel blockers<newline/>
+Nonsteroidal anti-inflammatory drugs<newline/>
+Amiodarone<newline/>
+Beta blockers<newline/>
+Diuretics (may affect potassium levels, which may potentiate the effectiveness of digoxin)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Foods high in potassium</entry>
+</row>
+<row>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Fatal cardiac arrhythmias<newline/>
+Sinus bradycardia<newline/>
+Sinoatrial block<newline/>
+Visual disturbances (yellow or green halo around lights)<newline/>
+Atrial tachycardia<newline/>
+Rash</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Acute myocardial infarction<newline/>
+Wolff–Parkinson–White syndrome<newline/>
+Ventricular fibrillation <newline/>
+Hypokalemia<newline/>
+Hypomagnesemia</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Digoxin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00003">
+<title>Cardiac Glycosides</title>
+<para id="para-00019">Cardiac glycosides can cause fetal death in the second trimester. Clients of childbearing age should not become pregnant while taking cardiac glycosides.</para>
+<para id="para-00020">Digoxin has a high potential for toxicity with life-threatening consequences.</para>
+</note>
+</section>
+<section id="sect-00008">
+<title>Nursing Implications</title>
+<para id="para-00021">The nurse should do the following for clients who are taking digoxin:</para>
+<list id="list-00005">
+<item>Assess pulse for 1 minute prior to administering digoxin. If heart rate is less than 60 beats per minute, do not administer the dose.</item>
+<item>Monitor serum digoxin levels and for signs and symptoms of digoxin toxicity. Also monitor serum potassium levels.</item>
+<item>Assess and monitor for adverse effects, drug and food interactions, and contraindications. </item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See the following for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00004">
+<para id="para-00022"><emphasis effect="bold">The client taking digoxin should:</emphasis></para>
+<list list-type="bulleted" id="list-00006">
+<item>Monitor their pulse prior to taking digoxin and contact their health care provider if their pulse is &lt; 60 beats per minute.</item>
+<item>Monitor for signs of digoxin toxicity (anorexia, nausea, vomiting, green/yellow halos around lights). They should contact their health care provider immediately if they experience these symptoms.</item>
+<item>Notify their health care provider about symptoms such as dizziness, lightheadedness, or fainting because these could be related to low blood pressure.</item>
+</list>
+</note>
+</section>
+</section>
+      <section id="sect-00009">
+      <title>Ivabradine</title>
+<para id="para-00023"><term id="term-00006">Ivabradine</term> (<term class="no-emphasis" id="term-00007">Corlanor</term>) was introduced fairly recently as an adjunct therapy for clients who are optimized on first-line heart failure medications but still have a reduced ejection fraction and/or symptoms.</para>
+<para id="para-00024">Ivabradine is an <term id="term-00008">I<sub>f</sub> current inhibitor</term> that affects the cardiac pacemaker current (I<sub>f</sub>) directly, causing a decreased heart rate and longer diastole. A decreased heart rate lowers the heart’s demand for oxygen, and longer diastole allows for increased oxygenation of cardiac myocytes. </para>
+<section id="sect-00010">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00025">Adverse effects include bradycardia, atrial fibrillation, elevated blood pressure, heart block, prolonged QT segment, torsade de pointes, and luminous phenomena (enhanced brightness of light or halo around light). Fetal toxicity has occurred in animal studies.</para>
+<para id="para-00026">Contraindications include acute decompensated heart failure, hypotension, history of conduction problems (such as sick sinus syndrome), bradycardia, and liver dysfunction. Ivabradine has been shown to cause fetal toxicity in animal studies; therefore, clients should not be pregnant or become pregnant while taking ivabradine. </para>
+<para id="para-00027">[link]Table 19.18[/link] is a drug prototype table featuring ivabradine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="1*"/>
+<colspec colnum="2" colname="col2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+I<sub>f</sub> current inhibitor<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel that regulates cardiac pacemaker current</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Heart failure:</emphasis> 5–7.5 mg orally twice daily; maximum dose: 7.5 mg orally twice daily.</entry>
+</row>
+<row>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Stable heart failure with an ejection fraction &lt;35% to reduce the risk of hospital admission for worsening heart failure<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Slows heart rate<newline/>
+Allows for longer period of diastole<newline/>
+Increases oxygenation of cardiac myocytes</entry>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Metabolized by CYP450 enzymes/verapamil<newline/>
+Diltiazem<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Grapefruit juice</entry>
+</row>
+<row>
+<entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Bradycardia<newline/>
+Atrial fibrillation<newline/>
+Elevated blood pressure<newline/>
+Heart block<newline/>
+Prolonged QT segment<newline/>
+Torsade de pointes<newline/>
+Luminous phenomena (enhanced brightness of light or halo around light)<newline/>
+Fetal toxicity</entry>
+<entry valign="top">
+<emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Acute decompensated heart failure<newline/>
+Hypotension<newline/>
+History of conduction problems (e.g., sick sinus syndrome, etc.)<newline/>
+Bradycardia<newline/>
+Liver dysfunction<newline/>
+Pregnancy</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Ivabradine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00005">
+<title>Ivabradine</title>
+<para id="para-00028">Clients of childbearing age should take measures not to become pregnant while taking ivabradine due to teratogenic effects (causing harm to embryo or fetus).</para>
+</note>
+</section>
+<section id="sect-00011">
+<title>Nursing Implications</title>
+<para id="para-00029">The nurse should do the following for clients who are taking ivabradine:</para>
+<list id="list-00007">
+<item>Tell clients to report dizziness or shortness of breath because those may be related to bradycardia and/or atrial fibrillation. </item>
+<item>Inform clients that ivabradine must be taken with food. </item>
+<item>Teach clients about food and drug interactions. </item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See the following for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00006">
+<para id="para-00030"><emphasis effect="bold">The client taking ivabradine should:</emphasis></para>
+<list list-type="bulleted" id="list-00008">
+<item>Report feeling dizzy, lightheaded, or an erratic heartbeat to the health care provider.</item>
+<item>Avoid grapefruit juice.</item>
+<item>Notify the health care provider if pregnant, planning on getting pregnant, or breastfeeding prior to starting ivabradine.</item>
+</list>
+</note>
+</section>
+      </section>
+</section>
+<section class="chapter-summary" id="sect-00012">
+<para id="para-00031">This chapter focused on heart failure drugs. Heart failure was defined and described per the AHA/ACC/HFSA 2022 Guidelines. Heart failure is a decrease in cardiac output. Heart rate and stroke volume are two components of cardiac output. Stroke volume is composed of preload, afterload, and contractility. The renin-angiotensin-aldosterone system was described and how the system impacts cardiac output was explained.</para>
+<para id="para-00032">Common heart failure drug classifications were covered in the chapter. Drug classifications covered included angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), angiotensin receptor/neprilysin inhibitors (ARNIs), mineralocorticoid receptor inhibitors (MRAs), beta-adrenergic blockers, sodium-glucose cotransport inhibitors (SGLT2Is), and diuretics. Adjunct drug classifications covered in this chapter included hydralazine/isosorbide dinitrate, cardiac glycosides, and ivabradine.</para>
+</section>
+      <section class="review-questions" id="sect-00013">
+      <title>Review Questions</title>
+      <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00033"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec1_RQ1"/></para></problem></exercise>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00034"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec2_RQ2"/></para></problem></exercise>
+      <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00035"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec2_RQ3"/></para></problem></exercise>
+      <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00036"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec2_RQ4"/></para></problem></exercise>
+      <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00037"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec2_RQ5"/></para></problem></exercise>
+      <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00038"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec4_RQ6"/></para></problem></exercise>
+      <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec5_RQ7"/></para></problem></exercise>
+      <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00040"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec6_RQ8"/></para></problem></exercise>
+      <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00041"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec6_RQ9"/></para></problem></exercise>
+      <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00042"><link class="os-embed" url="#exercise/PHAR_Ch19_Sec6_RQ10"/></para></problem></exercise>
+      </section>
+<section class="references" id="sect-00014">
+<title>References</title>
+<para id="para-00043">American Heart Association. (n.d.). <emphasis effect="italics">Heart failure tools and resources. </emphasis>https://www.heart.org/en/health-topics/heart-failure/heart-failure-tools-resources</para>
+<para id="para-00044">Astra Zeneca. (2012). <emphasis effect="italics">Zestril</emphasis>. https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019777s060lbl.pdf</para>
+<para id="para-00045">Colvin, C. L., King, J. B., Oparil, S., Wright, J. T., Jr, Ogedegbe, G., Mohanty, A., Hardy, S. T., Huang, L., Hess, R., Muntner, P., &amp; Bress, A. (2020). Association of race/ethnicity-specific changes in antihypertensive medication classes initiated among Medicare beneficiaries with the Eighth Joint National Committee Panel Member Report. <emphasis effect="italics">JAMA Network Open, 3</emphasis>(11), e2025127. https://doi.org/10.1001/jamanetworkopen.2020.25127</para>
+<para id="para-00046">DailyMed. (Updated January 14, 2021). <emphasis effect="italics">Bisoprolol fumarate tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bba0bc2b-602f-4df1-a761-85bd3c80c7de</para>
+<para id="para-00047">DailyMed. (Updated January 26, 2021). <emphasis effect="italics">Bumex – bumetanide tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=32dfbea3-eb2b-4070-8605-57ce3e6d5a2f</para>
+<para id="para-00048">DailyMed. (Updated December 28, 2022). <emphasis effect="italics">Candesartan tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ceb5658-b03c-475d-9ef0-2cd0645191d3 </para>
+<para id="para-00049">DailyMed. (Updated December 31, 2022). <emphasis effect="italics">Captopril tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b44ab6e-6cd9-4e12-b9be-d2e4d954acb5 </para>
+<para id="para-00050">DailyMed. (Updated October 6, 2007). <emphasis effect="italics">Carvedilol tablet, coated for oral use</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d485d38-5d43-4a54-bc63-82734035c66a</para>
+<para id="para-00051">DailyMed. (Updated January 10, 2023). <emphasis effect="italics">Chlorothiazide sodium injection, powder, lyophilized, for solution. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de512e9b-444c-4ae4-8c6b-accd87a02021</para>
+<para id="para-00052">DailyMed. (Updated August 29, 2022). <emphasis effect="italics">Chlorthalidone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a1043a72-8e64-49da-a7e4-eadee083022e</para>
+<para id="para-00053">DailyMed. (Updated March 24, 2023). <emphasis effect="italics">Corlanor – ivabradine tablet, film coated. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8930b396-2bce-4fd7-ba03-14b8f2679dd1</para>
+<para id="para-00054">DailyMed. (Updated February 6, 2007).<emphasis effect="italics"> Demadex – torsemide tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf288ad5-d4e7-4b0b-bfd0-41c5327e6984</para>
+<para id="para-00055">DailyMed. (Updated December 30, 2022). <emphasis effect="italics">Digoxin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3d29508-e7cc-47ff-845d-b5375ee30407</para>
+<para id="para-00056">DailyMed. (Updated March 10, 2008). <emphasis effect="italics">Enalapril maleate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac0289a6-9533-4f8c-b46c-506dce1b90b5</para>
+<para id="para-00057">DailyMed. (Updated August 7, 2023). <emphasis effect="italics">Entresto – sacubitril and valsartan tablet, film coated. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=000dc81d-ab91-450c-8eae-8eb74e72296f</para>
+<para id="para-00058">DailyMed. (Updated May 8, 2023). <emphasis effect="italics">Farxiga – dapagliflozin tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72ad22ae-efe6-4cd6-a302-98aaee423d69</para>
+<para id="para-00059">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Fosinopril sodium tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0a66f606-5e6f-473d-8a1e-9ef316adb2e2</para>
+<para id="para-00060">DailyMed. (Updated January 4, 2023). <emphasis effect="italics">Hydrochlorothiazide capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e31bd548-29ae-419a-831a-80ebb26e042f </para>
+<para id="para-00061">DailyMed. (Updated October 18, 2022). <emphasis effect="italics">Indapamide tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a8a4ec2c-9d4b-482b-ad29-88185c96db74</para>
+<para id="para-00062">DailyMed. (Updated October 1, 2021). <emphasis effect="italics">Inspra – eplerenone tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a55a39ff-1bd5-428b-a64f-c44262e2f3ed</para>
+<para id="para-00063">DailyMed. (Updated May 11, 2022). <emphasis effect="italics">Isosorbide dinitrate and hydralazine hydrochloride tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f54d5a3-169f-48dd-9250-2c176d2bd9ad</para>
+<para id="para-00064">DailyMed. (Updated June 22, 2023). <emphasis effect="italics">Jaridance – empagliflozin tablet, film coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565</para>
+<para id="para-00065">DailyMed. (Updated February 13, 2023). <emphasis effect="italics">Lasix – furosemide tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2c9b4d8f-0770-482d-a9e6-9c616a440b1a</para>
+<para id="para-00066">DailyMed. (Updated November 3, 2021). <emphasis effect="italics">Lisinopril tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f20acd7-2635-4a9b-b732-2a84ea93dea7 </para>
+<para id="para-00067">DailyMed. (Updated November 12, 2020). <emphasis effect="italics">Losartan potassium tablet, film-coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f5ce4488-8294-414a-bced-d63be563ea38 </para>
+<para id="para-00068">DailyMed. (Updated February 7, 2018). <emphasis effect="italics">Metoprolol succinate capsule, extended release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90aa06a3-100f-4466-b950-506303707b01</para>
+<para id="para-00069">DailyMed. (Updated August 26, 2020). <emphasis effect="italics">Quinapril tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b5809a8-873d-44cb-af59-e0d8fc81b385 </para>
+<para id="para-00070">DailyMed. (Updated November 25, 2020). <emphasis effect="italics">Spironolactone tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb66327e-8261-46ae-b39a-4fa79d520844</para>
+<para id="para-00071">DailyMed. (Updated August 8, 2021). <emphasis effect="italics">Valsartan tablet. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8478a05f-38fd-412d-af49-69a73a787c8f</para>
+<para id="para-00072">DailyMed. (Updated August 6, 2016). <emphasis effect="italics">Zaroxolyn – metolazone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58935d94-5bf1-4065-b8b5-ac61292436a7</para>
+<para id="para-00073">Hajouli, S., &amp; Ludhwani, D. (2022). <emphasis effect="italics">Heart failure and ejection fraction</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK553115/</para>
+<para id="para-00074">Heidenreich, P. A., Bozkurt, B., Aguilar, D., Allen, L. A., Buin, J. J., Colvin, M. M., Deswal, A., Drazner, M. H., Dunlay, S. M., Evers, L. R., Fand, J. C., Fedson, S. E., Fonarow, G. C., Hayek, S. S., Hernandex, A. F., Khazanie, P., Kittleson, M. M., Lee, C. S., Link, M. S., &amp; Yancy, C. W. (2022). 2022 AHA/ACC/HFSA guideline for the management of heart failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. <emphasis effect="italics">Circulation, 145</emphasis>(10), e895–e1032. https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063#d1e5665</para>
+<para id="para-00075">Malik, A., Brito, D., Vaqar, S., &amp; Chhabra, L. (2022). <emphasis effect="italics">Congestive heart failure</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK430873/</para>
+<para id="para-00076">Novack, M. L., &amp; Zevitz, M. E. (2022). <emphasis effect="italics">Natriuretic peptide B type test</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK556136/</para>
+<para id="para-00077">Shah, K. S., &amp; Fang, J. C. (2022). Sodium-glucose cotransporter 2 inhibitors in heart failure. <emphasis effect="italics">Annual Review of</emphasis> <emphasis effect="italics">Pharmacology and Toxicology, 62,</emphasis> 109–120. https://doi:10.1146/annurev-pharmtox-052120-014725 </para>
+</section>
+<definition id="def-00001"><term>cardiac glycoside</term> <meaning>a classification of drugs that decrease heart rate and increase cardiac contraction by blocking the sodium-potassium ATPase pump</meaning></definition>
+<definition id="def-00002"><term>I<sub>f</sub> current inhibitor</term> <meaning>a classification of drugs that inhibit cardiac pacemaker current (I<sub>f</sub>), which causes lowered heart rate</meaning></definition>
+<definition id="def-00003"><term>ivabradine</term> <meaning>medication used in heart failure that regulates heart rate and causes increased diastolic filling time, which results in increased cardiac output</meaning></definition>
+</content>
 </document>

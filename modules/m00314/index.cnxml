@@ -5,9 +5,12 @@
     <md:content-id>m00314</md:content-id>
     <md:uuid>a224a490-42c2-4710-9d09-00c216e13b03</md:uuid>
   </metadata>
-  <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content class="introduction">
+<figure class="splash" id="fig-00001">
+<media alt="The heart with the main arteries and veins.">
+<image mime-type="image/jpeg" src="../../media/PHA_Unit05_16_22_001_Splash.jpg"/></media>
+<caption>The heart is the primary organ of the cardiovascular system, controlling circulation and blood flow for the entire body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00001">Heart failure is a complex syndrome that occurs when the heart is no longer able to generate adequate cardiac output. Anything that affects left ventricular filling or pumping can lead to heart failure, and it is often the result of prolonged untreated hypertension or acute myocardial infarction. This chapter will review heart failure and the pharmacologic and nonpharmacologic treatments for this syndrome.</para>
+</content>
 </document>
