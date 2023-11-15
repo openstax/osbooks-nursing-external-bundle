@@ -61,68 +61,114 @@
 <para id="para-00012">Nurses play a crucial role in advancing population health, but they are not alone in this endeavor. Given the importance of a focus on population health and population-based approaches, several leading organizations have developed competencies for trainees and professionals across health disciplines that direct population health education and skills. These initiatives, aimed at strengthening the population health competencies of students entering health fields, highlight the importance of clinicians being ready to address complex challenges that affect health for all. For example, the <link url="https://openstax.org/r/phforgPa">Public Health Foundation</link> has developed population health competencies to guide workforce development efforts, trainings, program curricula, job descriptions, and other resources to support population health professionals (Public Health Foundation, 2019). Similarly, Duke University developed a competency map that faculty of medical schools, medical residency programs, and physician assistant programs can use to support meaningful integration of population health in education (Kaprielian et al., 2013); these competencies continue to serve as an important framework (Johnson et al., 2020). In 2021, the <term class="no-emphasis" id="term-00009">American Association of Colleges of Nursing (AACN)</term> approved new standards for nursing education, the <link url="https://openstax.org/r/aacnnursingo"><emphasis effect="italics">Essentials</emphasis></link>, to define the curricular content and expected competencies of students completing pre-licensure and graduate nursing programs (AACN, 2021). The <emphasis effect="italics"><term class="no-emphasis" id="term-00010">Essentials</term></emphasis> include a domain focused on population health, as the AACN recognizes the imperative role of nurses in advancing population health.</para>
 <para id="para-00013">Some of the competencies related to population health that student nurses are expected to achieve by the time they finish their pre-licensure program include assessing population health data, identifying ethical principles to protect the health and safety of diverse populations, demonstrating effective collaboration and mutual accountability with relevant parties, proposing modifications to or development of policy based on population findings, and articulating a need for change (AACN, 2021). <link target-id="table-00001" document="m00107"/> lists the population health competencies. These <term class="no-emphasis" id="term-00011">competencies</term> help nursing students prepare to address the health needs of populations once they become licensed as nurses. The content and concepts of this textbook, along with the course instructor’s expertise, activities, and assignments, will prepare each student to master the competencies.</para>
 <table class="vertically-tight" id="table-00001">
-<title/>
-<tgroup cols="2">
-<colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<thead>
-<row>
-<entry valign="top" align="left"><span class="blue-text">Competency</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Sub-competency</span></entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry valign="top" align="left" morerows="8"><emphasis effect="bold">Manage population health.</emphasis></entry>
-<entry valign="top" align="left">Define a target population, including its functional and problem-solving capabilities (anywhere in the continuum of care).<newline/>
-Assess population health data.<newline/>
-Assess the priorities of the community and/or the affected clinical population.<newline/>
-Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations.<newline/>
-Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs.<newline/>
-Develop an action plan to meet an identified need(s), including evaluation methods.<newline/>
-Participate in the implementation of sociocultural and linguistically responsive interventions.<newline/>
-Describe general principles and practices for the clinical management of populations across the age continuum.<newline/>
-Identify ethical principles to protect the health and safety of diverse populations.</entry>
-</row>
-<row>
-<entry valign="top" align="left" morerows="2"><emphasis effect="bold">Engage in effective partnerships.</emphasis></entry>
-<entry valign="top" align="left">Engage with other health professionals to address population health issues.<newline/>
-Demonstrate effective collaboration and mutual accountability with relevant stakeholders.<newline/>
-Use culturally and linguistically responsive communication strategies.</entry>
-</row>
-<row>
-<entry valign="top" align="left" morerows="1"><emphasis effect="bold">Consider the socioeconomic impact of the delivery of health care.</emphasis></entry>
-<entry valign="top" align="left">Describe access and equity implications of proposed intervention(s).<newline/>
-Prioritize client-focused and/or community action plans that are safe, effective, and efficient in the context of available resources.</entry>
-</row>
-<row>
-<entry valign="top" align="left" morerows="4"><emphasis effect="bold">Advance equitable population health policy.</emphasis></entry>
-<entry valign="top" align="left">Describe policy development processes.<newline/>
-Describe the impact of policies on population outcomes, including social justice and health equity.<newline/>
-Identify best evidence to support policy development.<newline/>
-Propose modifications to or development of policy based on population findings.<newline/>
-Develop an awareness of the interconnectedness of population health across borders.</entry>
-</row>
-<row>
-<entry valign="top" align="left" morerows="4"><emphasis effect="bold">Demonstrate advocacy strategies</emphasis></entry>
-<entry valign="top" align="left">Articulate a need for change.<newline/>
-Describe the intent of the proposed change.<newline/>
-Define stakeholders, including members of the community and/or clinical populations, and their level of influence.<newline/>
-Implement messaging strategies appropriate to audience and stakeholders.<newline/>
-Evaluate the effectiveness of advocacy actions.</entry>
-</row>
-<row>
-<entry valign="top" align="left" morerows="4"><emphasis effect="bold">Advance preparedness to protect population health during disasters and public health emergencies.</emphasis></entry>
-<entry valign="top" align="left">Identify changes in conditions that might indicate a disaster or public health emergency.<newline/>
-Understand the impact of climate change on environmental and population health.<newline/>
-Describe the health and safety hazards of disasters and public health emergencies.<newline/>
-Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE).<newline/>
-Implement infection control measures and proper use of personal protective equipment.</entry>
-</row>
-</tbody>
-</tgroup>
-<caption>The Essentials: Population Health Competencies and Sub-competencies (<emphasis effect="italics">adapted from AACN, 2021</emphasis>)</caption>
-</table>
+  <title/>
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry valign="top" align="left"><span class="blue-text">Competency</span></entry>
+  <entry valign="top" align="left"><span class="blue-text">Sub-competency</span></entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry valign="top" align="left" morerows="8"><emphasis effect="bold">Manage population health.</emphasis></entry>
+  <entry valign="top" align="left">Define a target population, including its functional and problem-solving capabilities (anywhere in the continuum of care).</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Assess population health data.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Assess the priorities of the community and/or the affected clinical population.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Develop an action plan to meet an identified need(s), including evaluation methods.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Participate in the implementation of sociocultural and linguistically responsive interventions.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Describe general principles and practices for the clinical management of populations across the age continuum.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Identify ethical principles to protect the health and safety of diverse populations.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left" morerows="2"><emphasis effect="bold">Engage in effective partnerships.</emphasis></entry>
+  <entry valign="top" align="left">Engage with other health professionals to address population health issues.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Demonstrate effective collaboration and mutual accountability with relevant stakeholders.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Use culturally and linguistically responsive communication strategies.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left" morerows="1"><emphasis effect="bold">Consider the socioeconomic impact of the delivery of health care.</emphasis></entry>
+  <entry valign="top" align="left">Describe access and equity implications of proposed intervention(s).</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Prioritize client-focused and/or community action plans that are safe, effective, and efficient in the context of available resources.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left" morerows="4"><emphasis effect="bold">Advance equitable population health policy.</emphasis></entry>
+  <entry valign="top" align="left">Describe policy development processes.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Describe the impact of policies on population outcomes, including social justice and health equity.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Identify best evidence to support policy development.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Propose modifications to or development of policy based on population findings.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Develop an awareness of the interconnectedness of population health across borders.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left" morerows="4"><emphasis effect="bold">Demonstrate advocacy strategies</emphasis></entry>
+  <entry valign="top" align="left">Articulate a need for change.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Describe the intent of the proposed change.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Define stakeholders, including members of the community and/or clinical populations, and their level of influence.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Implement messaging strategies appropriate to audience and stakeholders.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Evaluate the effectiveness of advocacy actions.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left" morerows="4"><emphasis effect="bold">Advance preparedness to protect population health during disasters and public health emergencies.</emphasis></entry>
+  <entry valign="top" align="left">Identify changes in conditions that might indicate a disaster or public health emergency.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Understand the impact of climate change on environmental and population health.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Describe the health and safety hazards of disasters and public health emergencies.</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE).</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Implement infection control measures and proper use of personal protective equipment.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>The Essentials: Population Health Competencies and Sub-competencies (<emphasis effect="italics">adapted from AACN, 2021</emphasis>)</caption>
+  </table>
 <para id="para-00014">A focus on population health in a nursing program or a practicing nurse’s work does not mean ignoring or no longer managing acute needs. While a shift to a population health paradigm supports the work of nurses in multiple settings, these competencies apply to nurses working in acute or tertiary care settings as well. For example, nurses working in emergency care provide lifesaving interventions, but they can also recognize and address the upstream, population, and system-wide factors that lead clients to require emergency care (Fawcett &amp; Ellenbecker, 2015). Population health competencies allow a nurse to be well-versed in and ready to address the complex needs of clients so they may provide more effective and comprehensive care. The focus on population health within nursing programs and nursing as a broad discipline does not mean that acute or emergent health needs are no longer important. Adopting a population health framework builds on the work of nurses and expands their impact in all settings. The <emphasis effect="italics">Essentials</emphasis> and their competencies are relevant to the work of nurses across the care continuum, and ensuring that nurses of the future frame their practice through a population health lens helps them address the complex needs and conditions of clients today.</para>
 <note class="case-reflection" id="note-00003">
 <title>The Lee Family</title>
