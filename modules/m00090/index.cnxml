@@ -230,8 +230,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Age Range</emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold">Amount of Toothpaste</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Age Range</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Amount of Toothpaste</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -294,7 +294,7 @@
 <table class="vertically-tight alternate-shading" id="table-00006">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Action</span></emphasis></entry>
@@ -353,8 +353,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Action</emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold">Result</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Action</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Result</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
