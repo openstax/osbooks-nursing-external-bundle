@@ -32,8 +32,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Benefit to the Fetus</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Explanation</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Benefit to the Fetus</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Explanation</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -77,9 +77,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Condition</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Manifestations</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Treatments</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Condition</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Manifestations</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Treatments</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -140,8 +140,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Benefit</emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold">Explanation</emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Benefit</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Explanation</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -190,8 +190,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Foods High in Vitamin D</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Foods High in Calcium</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Foods High in Vitamin D</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Foods High in Calcium</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -230,7 +230,7 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Age Range</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Age Range</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Amount of Toothpaste</emphasis></span></entry>
 </row>
 </thead>
