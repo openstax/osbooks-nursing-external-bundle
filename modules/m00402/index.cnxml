@@ -38,7 +38,7 @@
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Theophylline</term><newline/>
 (<term class="no-emphasis" id="term-00003">Theobid, Theo-24</term>)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">Parenteral theophylline (preferred route) for acute bronchospasm in clients not currently receiving theophylline:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold">Parenteral theophylline (preferred route) for acute bronchospasm in clients not currently receiving theophylline:</emphasis><newline/>
 Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenance infusion of 400–1600 mg/day<newline/>
 <emphasis effect="italics">Adults over age 60:</emphasis> 0.3 mg/kg/hour IV, up to a maximum of 17 mg/hour.<newline/>
 <emphasis effect="bold">Oral theophylline for acute bronchospasm in clients not currently receiving theophylline:</emphasis><newline/>
@@ -47,7 +47,7 @@ Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenanc
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Aminophylline</term><newline/>
 (<term class="no-emphasis" id="term-00005">Norphyl, Phyllocontin, Quibron-T</term>)</entry>
-<entry valign="top" align="center">Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenance infusion of 0.4 mg/kg/hour up to a maximum of 900 mg/day unless higher doses are required to reach a target level of 10 mcg/mL.<newline/>
+<entry valign="top" align="left">Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenance infusion of 0.4 mg/kg/hour up to a maximum of 900 mg/day unless higher doses are required to reach a target level of 10 mcg/mL.<newline/>
 <emphasis effect="italics">Adults over age 60:</emphasis> 0.3 mg/kg/hour IV, up to a maximum of 400 mg/day unless higher doses required to reach a target level of 10 mcg/mL.</entry>
 </row>
 </tbody>
@@ -61,7 +61,7 @@ Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenanc
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
@@ -69,10 +69,10 @@ Xanthine<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Relaxes the smooth muscles located in the bronchial airways and pulmonary blood vessels</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-<emphasis effect="bold"><span class="blue-text">Parenteral theophylline (preferred route) for acute bronchospasm in clients not currently receiving theophylline:</span></emphasis><newline/>
+<emphasis effect="bold">Parenteral theophylline (preferred route) for acute bronchospasm in clients not currently receiving theophylline:</emphasis><newline/>
 Loading dose: 4.6 mg/kg of ideal body weight IV over 30 minutes, then maintenance infusion of 400–1600 mg/day<newline/>
 <emphasis effect="italics">Adults older than age 60:</emphasis> 0.3 mg/kg/hour IV, up to a maximum of 17 mg/hour.<newline count="2"/>
-<emphasis effect="bold"><span class="blue-text">Oral theophylline for acute bronchospasm in clients not currently receiving theophylline:</span></emphasis><newline/>
+<emphasis effect="bold">Oral theophylline for acute bronchospasm in clients not currently receiving theophylline:</emphasis><newline/>
 <emphasis effect="italics">Adults age 60 and younger:</emphasis> 5 mg/kg orally, then 300 mg (immediate-release solution/elixir) orally daily in divided doses every 6–8 hours for 3 days. If tolerated, increase to 400 mg orally daily in divided doses every 6–8 hours. If necessary, dosage may be increased after 3 days to 600 mg orally daily in divided doses every 6–8 hours.</entry>
 </row>
 <row>
@@ -159,7 +159,7 @@ Diabetes</entry>
 <table class="vertically-tight" id="table-00004">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
@@ -212,7 +212,7 @@ Montelukast is linked to psychological reactions such as agitation, aggression, 
 <table class="vertically-tight" id="table-00005">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
