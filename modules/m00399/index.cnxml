@@ -6,8 +6,22 @@
     <md:uuid>9858774f-4dc9-4619-8909-bf52aebfa519</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<figure class="splash" id="fig-00001">
+<media alt="A diagram of the respiratory system shows the trachea branching off into the two lungs, and the smaller bronchi that branch out throughout the lungs."><image mime-type="image/jpeg" src="../../media/PHA_Unit06_23_25_001_Splash.jpg"/></media>
+<caption>The lungs are the core of the respiratory system that moves oxygen into the body and waste gases out. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00001">The lower respiratory system (shown in [link]Figure 25.2[/link]) plays a crucial role in respiration, allowing the exchange of oxygen and carbon dioxide between the body and the external environment. The lower respiratory system includes the trachea, the lungs, and within the lungs, the bronchi, bronchioles, and alveoli. See <link document="m00391">Introduction to the Respiratory System</link> for more information on the lower and upper respiratory systems. Various respiratory diseases and disorders can significantly affect the functioning of the lower respiratory system, leading to respiratory distress, impaired lung function, and reduced quality of life. Lower respiratory drugs are a class of medications designed to alleviate symptoms, manage chronic conditions, and improve overall respiratory function.</para>
+<para id="para-00002">Respiratory diseases affecting the lower respiratory system can be broadly classified into two categories: obstructive and restrictive lung diseases. Obstructive lung diseases, such as <term id="term-00001">asthma</term> and <term id="term-00002">chronic obstructive pulmonary disease (COPD)</term>, are characterized by airflow limitation due to inflammation, bronchoconstriction, and increased mucus production. Asthma affects the lungs, causing repeated episodes of wheezing, breathlessness, and coughing. COPD is a group of diseases including emphysema and chronic bronchitis. Emphysema damages the airways and causes chronic inflammation in the lungs. This makes it very difficult for the person to breathe. Chronic bronchitis is a productive cough of more than 3 months, specifically within a span of 2 years (Widysanto &amp; Mathew, 2022).</para>
+<para id="para-00003">Restrictive lung diseases, such as <term id="term-00003">pulmonary fibrosis</term>, involve a reduced lung capacity due to impaired lung tissue expansion or chest wall abnormalities (Martinez-Pitre et al., 2023).</para>
+<para id="para-00004">Lower respiratory drugs encompass a wide range of pharmacological agents, each targeting specific mechanisms involved in respiratory diseases. These drugs can be administered via various routes, including inhalation, oral ingestion, and intravenous infusion, depending on the medication’s characteristics and the severity of the respiratory condition.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="A diagram shows the parts of the bronchioles and alveoli in the lungs. Respiratory bronchioles branch off from the terminal bronchiole, both of which are covered in strands of smooth muscle. The respiratory bronchiole terminates at the alveolar duct. An alveolar sac is clustered around this duct. A cross section of an alveolus shows the alveolar pores within it. The alveolus is surrounded by capillaries. Oxygenated blood leaves the alveoli via the pulmonary artery while deoxygenated blood arrives at the alveoli via the pulmonary vein."><image mime-type="image/png" src="../../media/PHA_Figure_25_00_002.png"/></media>
+<caption>bronchioles and alveoli are part of the lower respiratory system. They play a vital role in the exchange of oxygen and carbon dioxide between the body and the external environment (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology, 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</content>
+<glossary>
+<definition id="def-00001"><term>chronic obstructive pulmonary disease (COPD)</term> <meaning>group of diseases that cause airflow blockage and breathing problems; includes emphysema and chronic bronchitis</meaning></definition>
+<definition id="def-00002"><term>asthma</term> <meaning>a respiratory disease that affects the lungs and causes repeated episodes of wheezing, breathlessness, and coughing</meaning></definition>
+<definition id="def-00003"><term>pulmonary fibrosis</term> <meaning>a lung disease that occurs when lung tissue becomes damaged and scarred, making it difficult for lungs to work properly</meaning></definition>
+</glossary>
 </document>

@@ -5,9 +5,397 @@
     <md:content-id>m00400</md:content-id>
     <md:uuid>5a3f5c75-eebf-40b6-9260-fa1395c23790</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Discuss the use of adrenergic and anticholinergic drugs used to treat lower respiratory disorders.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of adrenergic and anticholinergic drugs used to treat lower respiratory disorders.</item>
+<item>Describe nursing implications of adrenergic and anticholinergic drugs used to treat lower respiratory disorders.</item>
+<item>Explain the client education related to adrenergic and anticholinergic drugs used to treat lower respiratory disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Adrenergics</title>
+<para id="para-00002"><term id="term-00001">Adrenergic</term> drugs, also known as <term id="term-00002">sympathomimetic</term> drugs, are a class of medications that that bind to adrenergic receptors throughout the body. These receptors are stimulated by the neurotransmitters <term id="term-00003">norepinephrine</term> and <term id="term-00004">epinephrine</term>, also known as adrenaline. Adrenergic drugs mimic the effects of these neurotransmitters or enhance their activity, resulting in a wide range of physiological responses. These medications can act on different types of adrenergic receptors, including alpha-adrenergic receptors and beta-adrenergic receptors, producing diverse effects on various organ systems. Adrenergic drugs are used to manage several conditions, such as asthma, and they play a crucial role in bronchodilation (Farzam et al., 2022).</para>
+<section id="sect-00004">
+<title>Beta Adrenergics</title>
+<para id="para-00003"><term id="term-00005">Beta-adrenergic</term> drugs target beta-adrenergic receptors in the sympathetic nervous system. These receptors are found in various tissues, including the heart, lungs, and smooth muscles, and lead to smooth muscle relaxation.</para>
+<para id="para-00004">One type of beta-adrenergic receptor, beta 2, is predominantly found in the smooth muscles of the lungs, bronchioles, and blood vessels. Stimulating these receptors leads to bronchodilation and vasodilation. Medications like albuterol, levalbuterol, and salmeterol are frequently used in the treatment of respiratory conditions, such as asthma and COPD, that cause bronchoconstriction.</para>
+<para id="para-00005">Albuterol is a short-acting <term class="no-emphasis" id="term-00006">beta-2 adrenergic agonist</term> and is primarily used to treat and manage respiratory conditions such as asthma, COPD, and exercise-induced bronchospasm. Albuterol works by engaging or stimulating the beta-2 adrenergic receptors, relaxing the smooth muscles in the airways and leading to bronchodilation and improved airflow. Albuterol is often used as a rescue medication for acute asthma attacks and as maintenance therapy for COPD (Hsu &amp; Bajaj, 2023).</para>
+<para id="para-00006">Levalbuterol and salmeterol are also beta-adrenergic agonists and are used to treat asthma and COPD. Levalbuterol is a <term class="no-emphasis" id="term-00007">short-acting beta-2 agonist</term>, and salmeterol is a <term class="no-emphasis" id="term-00008">long-acting beta-2 agonist</term>. Salmeterol is used as a maintenance therapy to prevent asthma and should not be used for immediate relief of an asthma attack, whereas levalbuterol is used similarly to albuterol.</para>
+<para id="para-00007">[link]Table 25.1[/link] lists common beta adrenergics used for lower respiratory system disorders and typical routes and dosing for adult and <term class="no-emphasis" id="term-00009">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Albuterol</term><newline/>
+(<term class="no-emphasis" id="term-00011">Accuneb, Proventil, Ventolin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">In adults for acute episodes of bronchospasm or prevention of asthmatic symptoms:</emphasis> 2 inhalations (2.5 mg per inhalation) every 4–6 hours. Some clients may only need 1 inhalation every 4 hours.<newline/>
+<emphasis effect="italics">In adults for exercise-induced bronchospasm prevention:</emphasis> 2 inhalations (2.5 mg per inhalation) 15 minutes prior to exercise.<newline/>
+<emphasis effect="italics">In children age 2–12:</emphasis> 1.25 mg or 0.63 mg 3–4 times daily via nebulization.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00012">Levalbuterol</term><newline/>
+(<term class="no-emphasis" id="term-00013">Xopenex</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 0.63 mg every 6–8 hours by nebulization.<newline/>
+<emphasis effect="italics">Children 6–11:</emphasis> 0.31 mg 3 times per day by nebulization, not to exceed 0.63 mg 3 times a day.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00014">Salmeterol</term><newline/>
+(<term class="no-emphasis" id="term-00015">Serevent</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">For bronchodilation and prevention of asthma symptoms:</emphasis> 1 inhalation (50 mcg) twice daily, 12 hours apart, in combination with inhaled corticosteroids.<newline/>
+<emphasis effect="italics">For exercise-induced bronchospasm:</emphasis> 1 inhalation (50 mcg) 30 minutes prior to exercise.<newline/>
+<emphasis effect="italics">For COPD:</emphasis> 1 inhalation (50 mcg) twice daily 12 hours apart.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Beta Adrenergics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00005">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00008">Common adverse effects include tremors, nervousness, headache, and tachycardia. Cold symptoms, migraine, chest pain, bronchitis, and nausea have also been reported. Clients with severe cardiac disease should use albuterol only at the direction of their health care provider due to systemic effects on heart rate and blood pressure (DailyMed, <emphasis effect="italics">Albuterol sulfate</emphasis>, 2023).</para>
+<para id="para-00009">[link]Table 25.2[/link] is a drug prototype table for beta adrenergics featuring albuterol. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00016">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Beta adrenergic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Relaxes bronchial, uterine, and vascular smooth muscle by stimulating beta-2 receptors</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">In adults for acute episodes of bronchospasm or prevention of asthmatic symptoms:</emphasis> 2 inhalations (2.5 mg per inhalation) every 4–6 hours. Some clients may only need 1 inhalation every 4 hours.<newline/>
+<emphasis effect="italics">In adults for exercise-induced bronchospasm prevention:</emphasis> 2 inhalations (2.5 mg per inhalation) 15 minutes prior to exercise.<newline/>
+<emphasis effect="italics">In children ages 2–12:</emphasis> 1.25 mg or 0.63 mg 3–4 times daily via nebulization.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Prevention and relief of bronchospasm<newline/>
+Prevention of exercise-induced bronchospasm<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Bronchodilation<newline/>
+Relief of bronchospasm</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Antiarrhythmics<newline/>
+Beta blockers<newline/>
+CNS stimulates<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Tremor<newline/>
+Nervousness<newline/>
+Tachycardia<newline/>
+Headache</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline/>
+Cardiac disorder<newline/>
+Hyperthyroidism<newline/>
+Diabetes<newline/>
+Severe cardiac disease</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Albuterol</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00006">
+<title>Alpha- and Beta-Adrenergic Agonists</title>
+<para id="para-00010"><term id="term-00017">Alpha- and beta-adrenergic agonists</term> stimulate both alpha- and beta-adrenergic receptors. Alpha-adrenergic receptors are found primarily in smooth muscles, regulating vasoconstriction and blood pressure. Beta-adrenergic receptors are present in the heart, lungs, and other tissues and control heart rate, bronchodilation, and metabolic processes.</para>
+<para id="para-00011">Ephedrine, a sympathomimetic drug, acts as a <term class="no-emphasis" id="term-00018">nonselective alpha- and beta-adrenergic agonist</term>, meaning it stimulates both types of receptors. The ability of ephedrine to activate both receptor types makes it a widely used drug for conditions such as asthma and nasal congestion as well as low blood pressure. However, its usage requires caution due to potential side effects and interactions with other medications (Drugbank Online, 2023).</para>
+<para id="para-00012">Epinephrine is used often as an emergency treatment for allergic reactions and respiratory distress including anaphylaxis. It works by relaxing and opening air passages to allow for easier breathing. It can be given as an oral inhalation, intravenously, subcutaneously, and as an intramuscular injection (Dalal &amp; Grujic, 2023). Epinephrine can cause anxiety, tremor, palpitations, nausea, and headache.</para>
+<para id="para-00013">[link]Table 25.3[/link] lists common alpha and beta adrenergics used for lower respiratory system disorders and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00019">Ephedrine</term><newline/>
+(<term class="no-emphasis" id="term-00020">Emerphed, Corphedra</term>)</entry>
+<entry valign="top" align="left">1–2 tablets (25 mg each) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Epinephrine</term><newline/>
+(<term class="no-emphasis" id="term-00022">Adrenalin, Auvi-Q, Epipen, Primatene Mist</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Inhalation:</emphasis> 1 inhalation as needed. Wait 1 minute, then take second inhalation. Wait at least 4 hours between doses. Maximum dose: 8 inhalations in 24 hours.<newline/>
+<emphasis effect="italics">Intramuscular or subcutaneous:</emphasis> 0.3–0.5 mg (0.3–0.5 mL) of undiluted epinephrine administered in the anterolateral aspect of the thigh, repeated every 5–10 minutes as necessary. Maximum dose: 0.5 mg (0.5 mL) per injection. Intended for severe exacerbation and/or when inhalation is not available.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Alpha and Beta Adrenergics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00007">
+<title>Adverse Reactions and Contraindications</title>
+<para id="para-00014">Ephedrine can cause an increase in heart rate and blood pressure, insomnia, and tremors. Clients who have hypersensitivity or who have been taking a monoamine oxidase inhibitor (MAOI) should not use ephedrine (DailyMed, <emphasis effect="italics">Ephedrine hydrochloride</emphasis>, 2022).</para>
+<para id="para-00015">Epinephrine can cause anxiety, restlessness, and headache. Clients may also report chest pain, high blood pressure, dizziness, and difficulty sleeping.</para>
+<para id="para-00016">[link]Table 25.4[/link] is a drug prototype table for alpha and beta adrenergics featuring ephedrine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Adrenergic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Relaxes bronchial smooth muscle by stimulating beta-2 receptors<newline/>
+Stimulates alpha- and beta-adrenergic receptors in the sympathetic nervous system</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+1–2 tablets (25 mg per tablet) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Mild/intermittent asthma<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Bronchodilation<newline/>
+Relief of bronchospasm</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Alpha blockers<newline/>
+Beta blockers<newline/>
+Cardiac glycosides<newline/>
+MAOIs<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Nervousness<newline/>
+Palpitations<newline/>
+Tachycardia<newline/>
+Headache</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Angle-closure glaucoma<newline/>
+Heart failure<newline/>
+Intermittent asthma<newline/>
+Cardiovascular disease<newline/>
+Hypertension<newline/>
+Stroke<newline count="2"/>
+Caution:<newline/>
+Bronchial asthma or emphysema with degenerative heart disease</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Ephedrine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+</section>
+<section id="sect-00008">
+<title>Anticholinergics</title>
+<para id="para-00017"><term id="term-00023">Anticholinergic drugs</term> block the action of <term id="term-00024">acetylcholine</term> at muscarinic receptors, which are found in numerous organs and tissues throughout the body. They produce a range of effects such as relaxation of smooth muscles, reduction in secretions, and inhibition of parasympathetic responses. These medications are useful in the treatment of various conditions, including respiratory disorders, overactive bladder, gastrointestinal disorders, and certain neurological conditions.</para>
+<note class="safety-alert" id="note-00001">
+<title>Side Effects of Anticholinergics</title>
+<para id="para-00018">Anticholinergics should be used with caution due to potential side effects, especially in <term class="no-emphasis" id="term-00025">older adults</term>, who may be more susceptible to adverse reactions like cognitive impairment and increased risk of falls.</para>
+</note>
+<para id="para-00019">Two commonly used respiratory anticholinergics are ipratropium bromide and tiotropium. Ipratropium bromide, often administered via inhalation, acts as a bronchodilator by blocking the action of acetylcholine at the muscarinic receptors in the airways. This helps to relax the smooth muscles and widen the air passages, providing relief from symptoms such as wheezing and shortness of breath in conditions like asthma and COPD.</para>
+<para id="para-00020">Tiotropium, also an inhalation medication, is a long-acting anticholinergic that provides sustained bronchodilation by binding specifically to the muscarinic receptors in the airways. It is primarily used for the long-term maintenance treatment of COPD to reduce symptoms and improve lung function.</para>
+<para id="para-00021">[link]Table 25.5[/link] lists common anticholinergics used for lower respiratory system disorders and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00005">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<tbody>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00026">Ipratropium bromide</term><newline/>
+(<term class="no-emphasis" id="term-00027">Atrovent</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Metered-dose inhaler</emphasis> <emphasis effect="italics">(17 mcg):</emphasis> 4–8 inhalations with spacer every 20 minutes for 3 doses, then hourly as needed for up to 3 hours.<newline/>
+<emphasis effect="italics">Nebulization</emphasis> <emphasis effect="italics">(500 mcg)</emphasis>: 3–4 times daily, with doses 6–8 hours apart.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00028">Tiotropium</term><newline/>
+(<term class="no-emphasis" id="term-00029">Spiriva</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Hand inhaler:</emphasis> 2 inhalations of the powder contents of 1 Spiriva capsule, once daily.<newline/>
+<emphasis effect="italics">Spiriva Respimat inhaler:</emphasis> For COPD: 2 inhalations (2.5 mcg) per device actuation once daily.<newline/>
+<emphasis effect="italics">For asthma:</emphasis> 2 inhalations (1.25 mcg) once daily.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Anticholinergics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00009">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00022">Side effects of both drugs can include dry mouth, headache, nervousness or dizziness, blurred vision, constipation, and cough. Clients with hypersensitivity, narrow-angle glaucoma, and urinary retention should avoid these drugs; they can cause urinary retention and exacerbate symptoms.</para>
+<para id="para-00023">[link]Table 25.6[/link] is a drug prototype table for anticholinergics featuring ipratropium bromide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00006">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Anticholinergic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Inhibits vagally mediated reflexes by antagonizing acetylcholine at muscarinic receptors on bronchial smooth muscle</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Metered-dose inhaler</emphasis> <emphasis effect="italics">(17 mcg):</emphasis> 4–8 inhalations with spacer every 20 minutes for 3 doses, then hourly as needed for up to 3 hours.<newline/>
+<emphasis effect="italics">Nebulization</emphasis> <emphasis effect="italics">(500 mcg)</emphasis>: 3–4 times daily, with doses 6–8 hours apart.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Bronchospasm<newline/>
+Relief of acute asthmatic symptoms (when combined with albuterol)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Bronchodilation<newline/>
+Relief of bronchospasm</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Other anticholinergics<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Dizziness<newline/>
+Urinary retention<newline/>
+Palpitations<newline/>
+Tachycardia<newline/>
+Blurred vision<newline/>
+Constipation<newline/>
+Dry mouth</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline/>
+Angle-closure glaucoma<newline/>
+Bladder neck obstruction<newline/>
+Prostatic hyperplasia</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Ipratropium Bromide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="link-to-learning" id="note-00002">
+<title>Adrenergics</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/adrenergic"/>
+</media>
+<para id="para-00024">In this link to learning, Alila Medical Media presents information on the pharmacology and action of adrenergics. This educational video with animation discusses the different types of adrenergic receptors and the different types of drugs that act on them.</para>
+</note>
+</section>
+</section>
+<section id="sect-00010">
+<title>Nursing Implications</title>
+<para id="para-00025">The nurse should do the following for clients who are taking adrenergic or anticholinergic drugs:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Prior to administering, assess the client’s medical history, current drug list, and allergies.</item>
+<item>Assess the client’s baseline respiratory function.</item>
+<item>Ensure the drug is prepared appropriately using aseptic technique, and verify dosage prior to administration.</item>
+<item>Monitor the client’s response to the drug, including any changes in breathing effort, rate, and oxygen saturation.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00026"><emphasis effect="bold">The client taking an adrenergic or anticholinergic drug should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Take the drug as prescribed without skipping doses or stopping therapy.</item>
+<item>Prime the inhaler prior to use by shaking it and spraying into the air for a total of 4 sprays. Clean it after use by rinsing it with water and allowing it to dry.</item>
+<item>Wait at least 15 seconds between inhalations if more than one is required.</item>
+<item>Inform the health care provider of worsening symptoms including shortness of breath, cough, chest tightness, and wheezing.</item>
+<item>Create an asthma action plan. The Asthma and Allergy Foundation of America <link url="https://openstax.org/r/aafa">provides an example</link>.</item>
+</list>
+<para id="para-00027"><emphasis effect="bold">The client taking an adrenergic or anticholinergic drug <emphasis effect="italics">should</emphasis> <emphasis effect="italics">not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Use more medication than was prescribed by the health care provider.</item>
+<item>Wash or place a powder inhaler in water.</item>
+</list>
+</note>
+<note class="unfolding-casestudy" id="note-00004">
+<title>Part A</title>
+<para id="para-00028">Read the following clinical scenario to answer the questions that follow. This case study will evolve throughout the chapter.</para>
+<para id="para-00029">Harold Watson is a 65-year-old Black client who presents to his primary care physician with complaints of worsening shortness of breath, chronic cough, and increased sputum production over the past few months. He reports that these symptoms have significantly impacted his daily activities, and he has also noticed a decrease in his ability to perform simple tasks around the house. Harold reports that he quit smoking 10 years ago but was a heavy smoker for 30 years. He reports smoking roughly one pack of cigarettes per day when he was smoking.</para>
+<para id="para-00030"><emphasis effect="bold">History</emphasis><newline/>
+Hypertension<newline count="2"/>
+<emphasis effect="bold">Current Medications</emphasis><newline/>
+Metoprolol 100 mg daily</para>
+<table class="vertically-tight" id="table-00007">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">98.7°F</entry>
+<entry valign="top" align="left" morerows="6">
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Denies any changes in vision. No difficulty hearing.</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> S1, S2 noted. Denies chest pain. Capillary refill less than 3 seconds.</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Decreased breath sounds in the lower lung fields, prolonged expiration and mild wheezing.</item>
+<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; Bowel sounds present in all four quadrants.</item>
+<item><emphasis effect="italics">GU:</emphasis> Denies difficulty with urination.</item>
+<item><emphasis effect="italics">Neurological:</emphasis> Alert and oriented ×4. Denies any dizziness, numbness, or tingling in extremities.</item>
+<item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left">145/90 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left">92 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left">20 breaths/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left">91% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
+<entry valign="top" align="left">5’6”</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
+<entry valign="top" align="left">175 pounds</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00031"><link class="os-embed" url="#exercise/PHAR_Ch25_Sec1_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00032"><link class="os-embed" url="#exercise/PHAR_Ch25_Sec1_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>acetylcholine</term> <meaning>a neurotransmitter that contracts smooth muscles, dilates blood vessels, increases bodily secretions, and reduces heart rate</meaning></definition>
+<definition id="def-00002"><term>adrenergic</term> <meaning>refers to the activation or stimulation of the adrenergic receptors in the sympathetic nervous system</meaning></definition>
+<definition id="def-00003"><term>alpha- and beta-adrenergic agonists</term> <meaning>a class of drugs that stimulate all adrenergic receptors</meaning></definition>
+<definition id="def-00004"><term>anticholinergic drugs</term> <meaning>drugs that inhibit the action of acetylcholine</meaning></definition>
+<definition id="def-00005"><term>beta adrenergic</term> <meaning>activation or stimulation of beta-adrenergic receptors, which are found in various tissues throughout the body</meaning></definition>
+<definition id="def-00006"><term>epinephrine</term> <meaning>a neurotransmitter and hormone, also known as adrenaline; also used as a medication</meaning></definition>
+<definition id="def-00007"><term>norepinephrine</term> <meaning>neurotransmitter and hormone as well as a medication that is used to increase and maintain blood pressure</meaning></definition>
+<definition id="def-00008"><term>sympathomimetic</term> <meaning>producing physiological effects characteristic of the sympathetic nervous system by promoting the stimulation of sympathetic nerves</meaning></definition>
+</glossary>
 </document>

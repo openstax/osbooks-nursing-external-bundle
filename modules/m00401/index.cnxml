@@ -5,9 +5,166 @@
     <md:content-id>m00401</md:content-id>
     <md:uuid>96eee97e-796b-4c67-8c57-45a0de0287d9</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of corticosteroid drugs used to treat respiratory disorders.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of corticosteroid drugs used to treat respiratory disorders.</item>
+<item>Describe nursing implications of corticosteroid drugs used to treat respiratory disorders.</item>
+<item>Explain the client education related to corticosteroid drugs used to treat respiratory disorders.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Corticosteroids</term>, specifically inhaled corticosteroids (ICs), play a vital role in the management of respiratory conditions such as asthma and COPD. These medications are designed to reduce inflammation and suppress the immune response in the airways (see [link]Figure 25.3[/link]) (Cleveland Clinic, 2023a). By targeting the underlying inflammation, corticosteroids help to control symptoms, prevent exacerbations, and improve lung function. Inhaled corticosteroids are typically administered through inhalation devices directly into the lungs, allowing for targeted delivery to the respiratory system while minimizing systemic side effects. They are considered a cornerstone of long-term respiratory treatment, often used in combination with other bronchodilators for optimal control (Williams, 2018).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A cross-section of a normal lung and airway on the left and an inflamed lung and airway on the right. In the normal lung, the airway is a wide open tube with no inflammation. In the inflamed lung, the airway is narrowed due to mucous and the airway appears swollen.">
+<image mime-type="image/png" src="../../media/PHA_Figure_25_02_003.jpg"/></media>
+<caption>Corticosteroids work to reduce inflammation in the lungs and airway. (credit: “English: Asthma” by BruceBlaus/Wikimedia Commons, CC BY 3.0)</caption>
+</figure>
+<para id="para-00003">[link]Table 25.7[/link] lists common corticosteroids used for lower respiratory system disorders and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Beclomethasone</term><newline/>
+(<term class="no-emphasis" id="term-00003">Beclovent, Qvar</term>)</entry>
+<entry valign="top" align="left">40–80 mcg twice daily by oral inhalation, approximately 12 hours apart.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Prednisone</term><newline/>
+(<term class="no-emphasis" id="term-00005">Deltasone, Prednicot, Sterapred</term>)</entry>
+<entry valign="top" align="left">Initial dose: 5–60 mg orally daily in single dose or as 2–4 divided doses. Maintenance dosage is given daily or every other day (immediate release only). Use lowest dose that will maintain adequate clinical response. Dosage must be individualized, and constant monitoring is needed.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Methylprednisolone</term><newline/>
+(<term class="no-emphasis" id="term-00007">Medrol, Solumedrol</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Oral:</emphasis> 4–48 mg daily depending on the disease treated. After favorable response is noted, determine maintenance dosage by decreasing until lowest dosage that will maintain adequate clinical response is achieved.<newline/>
+<emphasis effect="italics">Intramuscular:</emphasis> 4–120 mg acetate daily.<newline/>
+<emphasis effect="italics">Intramuscular or intravenous (IV):</emphasis> 10–40 mg succinate, with subsequent doses dictated by client’s clinical response and condition.<newline/>
+This medication should be used for more acute situations. like exacerbations.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Fluticasone</term><newline/>
+(<term class="no-emphasis" id="term-00009">Flovent HFA</term>)</entry>
+<entry valign="top" align="left">88 mcg (2 inhalations of 44 mcg fluticasone propionate) twice daily by oral inhalation, approximately 12 hours apart.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Budesonide</term><newline/>
+(<term class="no-emphasis" id="term-00011">Pulmicort</term>)</entry>
+<entry valign="top" align="left">Recommended initial dose: 360 mcg twice daily. In some adult clients, an initial dose of 180 mcg twice daily may be adequate. Maximum dose: 720 mcg twice daily.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Corticosteroids</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00002">
+<section id="sect-00003">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00004">Side effects of corticosteroid drugs include <term id="term-00012">candidiasis</term> (an oral fungal infection), hoarseness, cough, and increased susceptibility to infection. Clients should not stop corticosteroids abruptly because <term id="term-00013">adrenal insufficiency</term> may occur. Those with hypersensitivity to the drug, systemic fungal infections, and recent live vaccines should not use corticosteroids. Corticosteroids can affect potassium levels and sleep patterns, so both should be monitored during treatment. Corticosteroids can also cause weight gain, so weight should be monitored. Corticosteroids can modulate the immune system, so clients should be educated on signs and symptoms of infection to report (Cleveland Clinic, 2023a).</para>
+<para id="para-00005">[link]Table 25.8[/link] is a drug prototype table for corticosteroids featuring prednisone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<tbody>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Corticosteroid<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Anti-inflammatory effects primarily by stabilizing the membranes of leukocyte lysosomes, reducing inflammation<newline/>
+Suppresses the immune response<newline/>
+Stimulates bone marrow activity<newline/>
+Has an impact on protein, fat, and carbohydrate metabolism</entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+Initial dose: 5–60 mg orally daily in single dose or as 2–4 divided doses. Maintenance dosage is given daily or every other day (immediate release only). Use lowest dose that will maintain adequate clinical response. Dosage must be individualized, and constant monitoring is needed.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Asthmatic conditions<newline/>
+COPD<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Decrease in inflammation leading to fewer bronchospasm symptoms</entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Antidiabetic drugs<newline/>
+Nonsteroidal anti-inflammatory drugs (NSAIDs)<newline/>
+Cyclosporine<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Headache<newline/>
+Oral candidiasis<newline/>
+Weight gain<newline/>
+Hypokalemia<newline/>
+GI upset/ulcer risk<newline/>
+Hyperglycemia<newline/>
+Insomnia<newline/>
+Mood disturbances</entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline/>
+Recent myocardial infarction<newline/>
+Gastrointestinal ulcer<newline/>
+Hypertension<newline/>
+Osteoporosis<newline/>
+Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Prednisone</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Nursing Implications</title>
+<para id="para-00006">The nurse should do the following for clients who are taking corticosteroid drugs:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Assess for hypersensitivity.</item>
+<item>Monitor blood pressure, sleep patterns, and potassium levels.</item>
+<item>Weigh client regularly and report weight gain.</item>
+<item>Monitor glucose levels in clients with diabetes.</item>
+<item>Monitor for signs and symptoms of infection.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00001">
+<para id="para-00007"><emphasis effect="bold">The client taking a corticosteroid should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Take the drug as prescribed without skipping doses or stopping therapy.</item>
+<item>Take oral corticosteroids with food to avoid gastrointestinal (GI) upset.</item>
+<item>Rinse mouth out after inhalation corticosteroids to reduce risk of candidiasis (thrush).</item>
+<item>Report all adverse reactions including weight gain, GI upset, sleep disturbances, and mood disturbances.</item>
+<item>Report any signs of infection such as fever or sore throat.</item>
+<item>Weigh themselves daily. Report a weight gain of more than 2–3 pounds over 24 hours or 5 pounds in a week.</item>
+<item>Monitor glucose carefully (if they have diabetes).</item>
+<item>Wear a medical ID bracelet indicating use of corticosteroids.</item>
+</list>
+<para id="para-00008"><emphasis effect="bold">The client taking a corticosteroid <emphasis effect="italics">should</emphasis> <emphasis effect="italics">not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Stop taking the drug abruptly because this can lead to adrenal insufficiency. Drug will need to be reduced gradually, especially after long-term therapy.</item>
+</list>
+</note>
+<note class="unfolding-casestudy" id="note-00002">
+<title>Part B</title>
+<para id="para-00009">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
+<para id="para-00010">Harold Watson’s health care provider calls him at home to discuss the results of his x-ray. The provider confirms the diagnosis of COPD and discusses a treatment plan with Harold. Part of the plan is a prescription for a beclomethasone inhaler.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00011"><link class="os-embed" url="#exercise/PHAR_Ch25_Sec02_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/PHAR_Ch25_Sec02_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>adrenal insufficiency</term> <meaning>caused when the adrenal glands do not manufacture sufficient quantities of cortisol</meaning></definition>
+<definition id="def-00002"><term>candidiasis</term> <meaning>fungal infection caused by a yeast called <emphasis effect="italics">Candida</emphasis></meaning></definition>
+<definition id="def-00003"><term>corticosteroids</term> <meaning>anti-inflammatory medications used for a wide range of conditions</meaning></definition>
+</glossary>
 </document>
