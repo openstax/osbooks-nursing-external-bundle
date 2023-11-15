@@ -29,7 +29,7 @@
 <table class="vertically-tight alternate-shading" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Benefit to the Fetus</span></emphasis></entry>
@@ -137,7 +137,7 @@
 <table class="vertically-tight alternate-shading" id="table-00003">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold">Benefit</emphasis></entry>
@@ -292,7 +292,7 @@
 <table class="vertically-tight alternate-shading" id="table-00006">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Action</span></emphasis></entry>
@@ -348,7 +348,7 @@
 <table class="vertically-tight alternate-shading" id="table-00007">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold">Action</emphasis></entry>
