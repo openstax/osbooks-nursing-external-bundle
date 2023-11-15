@@ -13,11 +13,11 @@
   <table id="table-00001">
 <title>Common Metric and U.S. Customary Units of Measurement</title>
   <tgroup cols="4">
-    <colspec colnum="1" colname="c1"  colwidth="1*"/>
-    <colspec colnum="2" colname="c2"  colwidth="1*"/>
-    <colspec colnum="3" colname="c3"  colwidth="1*"/>
-    <colspec colnum="4" colname="c4"  colwidth="1*"/>
-   <tbody>
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>    
+   <tbody> 
 <row>
 <entry valign="top"><emphasis effect="bold">Weight</emphasis></entry>
 <entry valign="top">1 kilogram (kg)<newline/>
@@ -52,16 +52,16 @@
 </row>
    </tbody>
   </tgroup>
-<caption>(sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>
+<caption>(sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>  
   </table>
   <table id="table-00002">
 <title>Household Equivalents</title>
   <tgroup cols="4">
-    <colspec colnum="1" colname="c1"  colwidth="1*"/>
-    <colspec colnum="2" colname="c2"  colwidth="1*"/>
-    <colspec colnum="3" colname="c3"  colwidth="1*"/>
-    <colspec colnum="4" colname="c4"  colwidth="1*"/>
-   <tbody>
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>    
+   <tbody> 
 <row>
 <entry morerows="3" valign="top"><emphasis effect="bold">Volume</emphasis></entry>
 <entry valign="top">1 cup</entry>

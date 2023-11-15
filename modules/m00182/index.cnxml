@@ -24,9 +24,6 @@
 <table class="alternate-shading" id="table-00001">
 <title>SDOH as Barriers to Health Promotion and Disease Prevention</title>
 <tgroup cols="3">
-  <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis>Social Determinants of Health (SDOH)</emphasis></span></entry>
@@ -99,10 +96,10 @@
 <table class="vertically-tight" id="table-00002">
 <title>Factors Influencing Participation in Health Promotion</title>
 <tgroup cols="4">
-<colspec colnum="1" colname="c1"  colwidth="1*"/>
-<colspec colnum="2" colname="c2"  colwidth="1*"/>
-<colspec colnum="3" colname="c3"  colwidth="1*"/>
-<colspec colnum="4" colname="c4"  colwidth="1*"/>
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
@@ -169,9 +166,6 @@
 <table class="alternate-shading" id="table-00003">
 <title>Health Promotion Settings</title>
 <tgroup cols="3">
-  <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top"><span class="blue-text"><emphasis>Name</emphasis></span></entry>
