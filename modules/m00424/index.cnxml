@@ -6,8 +6,17 @@
     <md:uuid>4e06398e-b212-4d5b-83a2-1337b2bc6f65</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<figure class="splash" id="fig-00001">
+<media alt="The digestive system, with the stomach, liver, pancreas, large and small intestines, and rectum illustrated."><image mime-type="image/jpeg" src="../../media/PHA_Unit08_29_32_001_Splash.jpg"/></media>
+<caption>The digestive system breaks down food into nutrients that can be absorbed into the bloodstream to give the body energy and the ability to grow and repair itself. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00001"><term id="term-00001">Hyperacidity</term> is a condition in which the stomach produces an excessive amount of stomach acid, primarily <term id="term-00002">hydrochloric acid</term>. This excess acid production can lead to various gastrointestinal symptoms, including heartburn, regurgitation, abdominal discomfort, and in severe cases can contribute to the development of conditions such as <term id="term-00003">gastroesophageal reflux disorder (GERD)</term> and <term id="term-00004">peptic ulcer disease (PUD)</term>.</para>
+<para id="para-00002">Hyperacidity can result from factors such as dietary choices, lifestyle habits, certain medications, or underlying medical conditions. This chapter will review drugs used to treat and manage hyperacidity disorders, including GERD and PUD.</para>
+</content>
+<glossary>
+<definition id="def-00001"><term>gastroesophageal reflux disorder (GERD)</term> <meaning>a condition in which acidic gastric fluid flows backward into the esophagus, resulting in frequent dyspepsia/heartburn</meaning></definition>
+<definition id="def-00002"><term>hydrochloric acid (HCl)</term> <meaning>a strong acid that is a component of gastric juices</meaning></definition>
+<definition id="def-00003"><term>hyperacidity</term> <meaning> a condition in which the level of gastric acid/hydrochloric acid is excessive, causing GI discomfort</meaning></definition>
+<definition id="def-00004"><term>peptic ulcer disease (PUD)</term> <meaning>open sores that develop on the inside lining of the stomach and the upper portion of the small intestine from excessive acid or corrosive chemicals/medications</meaning></definition>
+</glossary>
 </document>

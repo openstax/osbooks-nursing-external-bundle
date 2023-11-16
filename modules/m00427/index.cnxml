@@ -5,9 +5,210 @@
     <md:content-id>m00427</md:content-id>
     <md:uuid>46cada3f-0641-469c-85fc-6514ea3d44cf</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of mucosal protectants and prostaglandin analogues used to treat gastrointestinal disorders.</item>
+<item>Explain the indications, action, adverse reactions, and interactions of mucosal protectants and prostaglandin analogues used to treat gastrointestinal disorders.</item>
+<item>Describe nursing implications of mucosal protectants and prostaglandin analogues used to treat gastrointestinal disorders.</item>
+<item>Explain the client education related to mucosal protectants and prostaglandin analogues used to treat gastrointestinal disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title><term class="no-emphasis" id="term-00001">Mucosal Protectants</term></title> 
+<para id="para-00002">Pepsin is a gastric enzyme that breaks down and support the digestion of proteins from foods. A low gastric pH of 1.5–2 activates pepsin. However, pepsin may cause erosive damage to the mucosal lining of the stomach. To mitigate the potential harm caused by pepsin, mucosal protectants are employed. These agents serve a dual purpose by reducing both gastric acid production and pepsin activity. Notably, when the gastric pH exceeds 5, mucosal protectants act as inhibitors of pepsin, further safeguarding the delicate mucosal lining of the stomach.</para>
+<section id="sect-00004">
+<title>Sucralfate</title>
+<para id="para-00003"><term class="no-emphasis" id="term-00002">Sucralfate</term> is classified as a mucosal protectant or coating agent. When ingested, it transforms into a viscous substance that adheres to ulcerated areas, creating a protective barrier on the mucosal lining of the stomach and duodenum. This protective paste-like barrier can adhere or stick to the ulcers for up to 6 hours, shielding them from the damaging effects of pepsin and hydrochloric acid. Sucralfate is especially effective with duodenal ulcers, ulcers due to aspirin use, and chemotherapy-induced mucositis. It may also be beneficial for stress ulcer prophylaxis.</para>
+<para id="para-00004">Sucralfate is available in a tablet form or a liquid suspension. To maximize effectiveness, it should be taken 4 times a day, approximately 60 minutes before meals and at bedtime. When used alongside antacids in antiulcer therapy, it's advisable to administer antacids 30 minutes before or after sucralfate. Additionally, due to its adhesive properties, sucralfate should be taken at least 2 hours before or after medications such as quinolones, digoxin, phenytoin, and tetracycline to prevent any interference with their effectiveness.</para>
+<para id="para-00005">[link]Table 31.7[/link] is a drug prototype table for sucralfate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Mucosal protectant, coating agent<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Locally reacts with hydrochloric acid and pepsin in the stomach to form an adherent protective paste-like substance capable of acting as an acid buffer</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+1 gram orally 4 times per day for 4–8 weeks, unless healing has been demonstrated by x-ray or endoscopic exam.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+Short-term treatment of active duodenal ulcers<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Protects damaged gastric mucosa from further damage caused by pepsin and hydrochloric acid.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Cimetidine<newline/>
+Digoxin<newline/>
+Fluroquinolones<newline/>
+Ketoconazole<newline/>
+Phenytoin<newline/>
+Quinidine<newline/>
+Ranitidine<newline/>
+Tetracycline<newline/>
+Theophylline<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span>
+No significant interactions<newline count="2"/>
+Sucralfate should be taken on an empty stomach</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Diarrhea<newline/>
+Dry mouth<newline/>
+Flatulence<newline/>
+Nausea<newline/>
+Pruritus<newline/>
+Rash<newline/>
+Dizziness<newline/>
+Insomnia<newline/>
+Headache<newline/>
+Back pain<newline/>
+Hyperglycemia</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity <newline count="2"/>
+Caution: <newline/>
+Chronic kidney failure or dialysis secondary to risk of aluminum accumulation</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Sucralfate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00005">
+<title>Prostaglandin Analogues</title> 
+<para id="para-00006"><term id="term-00003">Prostaglandins</term> are naturally occurring compounds present in the GI tract that protect the mucosal lining of the stomach and duodenum. They do this by inhibiting gastric acid and pepsin secretions.</para>
+<para id="para-00007">Synthetic prostaglandin analogues, in a similar manner, act as mucosal protectants by decreasing acid secretions while increasing the secretion of bicarbonate and protective mucus. This combined action serves to fortify the defense mechanisms of the GI tract, preserving its delicate mucosal integrity.</para>
+<section id="sect-00006">
+<title>Misoprostol</title>
+<para id="para-00008"><term class="no-emphasis" id="term-00004">Misoprostol</term> acts as an endogenous prostaglandin in the GI tract. As an antiulcer agent for the prevention of NSAID-induced ulcers, it inhibits basal and nocturnal gastric acid and pepsin secretions and also increases the secretion of bicarbonate and protective gastric mucous. Misoprostol also promotes vasodilation to maintain submucosal gastric blood flow. These actions prevent gastric ulcers.</para>
+<para id="para-00009">Misoprostol is available in tablets that are administered with food 4 times a day alongside NSAID therapy<emphasis effect="bold">.</emphasis> Misoprostol is readily available from the GI tract with an extensive first-pass metabolism<emphasis effect="bold">,</emphasis> reaching peak levels in 60–90 minutes<emphasis effect="bold">,</emphasis> with a brief half-life of 20–40 minutes.</para>
+<para id="para-00010">[link]Table 31.8[/link] is a drug prototype table for misoprostol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<note class="black-box" id="note-00001">
+<para id="para-00011"><emphasis effect="bold">Misoprostol</emphasis></para>
+<para id="para-00012">Misoprostol can cause spontaneous abortion, premature birth, or birth defects.</para>
+</note>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Prostaglandin analogue<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Acts as a synthetic prostaglandin E1 analogue with both antisecretory and mucosal protective properties in response to various gastric stimuli (meals, histamine, pentagastrin, and coffee)</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+200 mcg 4 times daily with food; if dose is not tolerated, a dose of 100 mcg can be used.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+Prevention of NSAID-induced gastric ulcers<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Inhibits both basal and nocturnal gastric acid secretions</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Oxytocin<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span>
+No significant interaction
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Diarrhea/constipation<newline/>
+Abdominal pain<newline/>
+Dysmenorrhea/spotting <newline/>
+Uterine contractions<newline/>
+Postmenopausal bleeding<newline/>
+Flatulence<newline/>
+Headache</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity to prostaglandins<newline/>
+Pregnancy<newline count="2"/>
+Caution: <newline/>
+Cardiovascular disease <newline/>
+Females of childbearing age</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Misoprostol. (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00007">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00013">Common adverse effects of mucosal protectants include hyperglycemia, dizziness, insomnia, and GI symptoms such as nausea, vomiting, diarrhea, and flatulence. Contraindications include hypersensitivity.</para>
+<para id="para-00014">Typical adverse effects of prostaglandin analogues include headache, diarrhea or constipation, abdominal pain, flatulence, and gynecological symptoms such as <term id="term-00005">dysmenorrhea</term>, vaginal bleeding, uterine contractions, and postmenopausal bleeding. Contraindications include hypersensitivity to prostaglandins and pregnancy. Misoprostol may endanger pregnancy (may cause abortion) and cause harm to the fetus when administered to a pregnant client.</para>
+</section>
+<section id="sect-00008">
+<title>Nursing Implications</title> 
+<para id="para-00015">The nurse should do the following for clients who are taking mucosal protectants and prostaglandin analogues:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Prior to administering, assess the client’s medical history, current drug list, and allergies.</item>
+<item>Educate the client regarding short-term duration of use for these medications, typically 4–8 weeks.</item>
+<item>Inform female clients of childbearing age about the potential risk to the fetus, which could result in a miscarriage.</item>
+<item>Provide the client with teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00016"><emphasis effect="bold">The client taking a mucosal protectant and prostaglandin analogue should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Adhere to the dosing regimen prescribed by the health care provider, typically short-term administration of 4–8 weeks.</item>
+<item>When using misoprostol, report symptoms of abnormal vaginal bleeding or uterine cramping to the health care provider, as these can represent serious adverse effects.</item>
+</list>
+<para id="para-00017"><emphasis effect="bold">The client taking a mucosal protectant and prostaglandin analogue <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Use prostaglandin analogues if pregnant due to the risk of fetal demise.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00009">
+<title>Chapter Summary</title>
+<para id="para-00018">This chapter focused on various symptoms that may affect the gastrointestinal (GI) tract. The most common symptoms include heartburn, burning abdominal pain, and regurgitation, and they are often related to excess acidity in the GI tract. Other GI symptoms were discussed, such as bloating, a feeling of fullness, abdominal discomfort, belching, cough, nausea, and vomiting, which may occur simultaneously and may require a multifactorial approach to diagnosis and treatment. The chapter discussed different medications that may be prescribed for treatment and maintenance of these conditions. Nursing assessment and client education is imperative to the proper diagnosis and treatment of hyperacidic conditions.</para>
+</section>
+<section class="review-questions" id="sect-00010">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec02_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec03_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec01_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec01_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec03_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec01_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch31_Sec02_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00011">
+<para id="para-00029">DailyMed (Updated November 15, 2017). <emphasis effect="italics">Aluminum hydroxide liquid.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27c574a5-1fe0-4973-9a31-9beb4fc6ec46</para>
+<para id="para-00030">DailyMed (Updated December 13, 2022). <emphasis effect="italics">Basic care lansoprazole – lansoprazole capsule delayed release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ab07bf7-140a-4ca0-9b3a-38da7aa454db</para>
+<para id="para-00031">DailyMed (Updated December 20, 2022). <emphasis effect="italics">Calcium carbonate 10 gr (648 mg) (antacid) (calcium carbonate 10 gr (648mg tablet)</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f21c8cf7-45cb-492b-bf4a-462024a54569</para>
+<para id="para-00032">DailyMed (Updated April 13, 2006). <emphasis effect="italics">Cimetidine in sodium chloride-Cimetidine and Sodium Chloride injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4aa4ee5b-b5be-4a98-5b8c-6f75e2b59e51</para>
+<para id="para-00033">DailyMed (Updated August 18, 2023). <emphasis effect="italics">Cimetidine tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01997826-7ca1-473e-bfc9-075b14b58a35</para>
+<para id="para-00034">DailyMed (Updated August 09, 2022). <emphasis effect="italics">Equate famotidine – famotidine tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f38f8a8f-3292-4fe5-b83f-ffd634196d42</para>
+<para id="para-00035">DailyMed (Updated August 25, 2023). <emphasis effect="italics">Esomeprazole capsule, delayed release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7c497204-29ce-45e0-84d4-91b981c9b7aa</para>
+<para id="para-00036">DailyMed (Updated March 14, 2022). <emphasis effect="italics">Humco Sodium Bicarbonate – sodium bicarbonate powder.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aeaa34f6-216d-49f3-8393-c7bda96a3e32</para>
+<para id="para-00037">DailyMed (Updated September 08, 2023). <emphasis effect="italics">Magnesium hydroxide liquid.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04e3e713-4d0a-fffd-e063-6394a90a4f95</para>
+<para id="para-00038">DailyMed. (Updated November 07, 2022). <emphasis effect="italics">Misoprostol tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54d26ca3-d309-4048-8699-a04b3854ef9c</para>
+<para id="para-00039">DailyMed (Updated December 06, 2018). <emphasis effect="italics">Nizatidine – capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=faaa7cc4-fda9-d5b8-de2a-71c8744ccb76</para>
+<para id="para-00040">DailyMed. (Updated May 6, 2023). <emphasis effect="italics">Omeprazole capsule, delayed release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19097902-a5e6-423a-8569-31c569cd3cdb</para>
+<para id="para-00041">DailyMed (Updated September 02, 2023). <emphasis effect="italics">Pantoprazole sodium delayed-release tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0502f935-af7a-4f1e-8c3e-29e20647c885</para>
+<para id="para-00042">DailyMed. (Updated July 25, 2023). <emphasis effect="italics">Sucralfate – sucralfate oral suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4350b771-76a9-4e00-93f0-a18c71288f83</para>
+<para id="para-00043">Mayo Clinic. (2023). <emphasis effect="italics">Zollinger-Ellison Syndrome</emphasis>. https://www.mayoclinic.org/diseases-conditions/zollinger-ellison-syndrome/symptoms-causes/syc-20379042</para>
+<para id="para-00044">Pfizer, Inc. (2023). <emphasis effect="italics">Protonix® instructions for use</emphasis>. https://www.pfizermedicalinformation.com/en-us/protonix/instructions</para>
+<para id="para-00045">Rosen, H. (2023). Calcium and vitamin D supplementation in osteoporosis. <emphasis effect="italics">UpToDate.</emphasis> https://www.uptodate.com/contents/calcium-and-vitamin-d-supplementation-in-osteoporosis</para>
+<para id="para-00046">Salisbury, B. &amp; Terrell, J. (2022). <emphasis effect="italics">Antacids.</emphasis> National Library of Medicine. National Center for Biotechnology Information.<emphasis effect="italics"/> https://www.ncbi.nlm.nih.gov/books/NBK526049/</para>
+<para id="para-00047">Shah, N. &amp; Gossman, W. (2023). <emphasis effect="italics">Omeprazole</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539786/</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>dysmenorrhea</term> <meaning>painful menstrual periods and cramps</meaning></definition>
+<definition id="def-00002"><term>prostaglandins</term> <meaning>a naturally occurring compound in the body that protects the stomach lining from acid</meaning></definition>
+</glossary>
 </document>
