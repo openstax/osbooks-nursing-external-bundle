@@ -135,7 +135,7 @@
 <para id="para-00020">The primary goal of treatment for clients with heart failure is to reduce morbidity and mortality. Another goal is to decrease the cardiac workload and the heart’s demand for oxygen. There are five guideline-directed classifications of medications for HFrEF (Heidenreich et al., 2022):</para>
 <list list-type="enumerated" number-style="arabic" id="list-00002">
   <item>Medications affecting the renin-angiotensin aldosterone system:
-  <list list-type="bulleted" id="list-00003">
+  <list list-type="bulleted" bullet-style="bullet" id="list-00003">
   <item>Angiotensin-converting enzyme inhibitors (ACE inhibitors)</item>
   <item>Angiotensin receptor blockers (ARBs)</item>
   <item>Angiotensin receptor/neprilysin inhibitors (ARNIs)</item></list>
@@ -185,6 +185,6 @@
 <definition id="def-00007"><term>heart failure with reduced ejection fraction (HFrEF)</term> <meaning>occurs when the fraction of blood ejected by the left ventricle is actually reduced; often due to damage to the left ventricular muscle through long-standing hypertension or coronary artery disease</meaning></definition>
 <definition id="def-00008"><term>heart rate</term> <meaning>the number of times each minute the heart beats </meaning></definition>
 <definition id="def-00009"><term>preload</term> <meaning>the volume of blood returning to the heart</meaning></definition>
-<definition id="def-00010"><term>stroke volume</term> <meaning>the volume of blood pumped out of the left ventricle of the heart during each systolic cardiac contraction </meaning></definition>   
+<definition id="def-00010"><term>stroke volume</term> <meaning>the volume of blood pumped out of the left ventricle of the heart during each systolic cardiac contraction </meaning></definition>
 </glossary>
 </document>
