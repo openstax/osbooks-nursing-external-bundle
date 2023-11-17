@@ -6,8 +6,258 @@
     <md:uuid>df086e6f-88e0-49e3-8945-5eac813c25ab</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of bile acid sequestrant, fibrates, and niacin drugs used to lower lipid levels.</item>
+    <item>Explain the indications, action, adverse reactions, and interactions of bile acid sequestrant, fibrates, and niacin drugs used to lower lipid levels.</item>
+    <item>Describe nursing implications of bile acid sequestrant, fibrates, and niacin drugs used to lower lipid levels.</item>
+    <item>Explain the client education related to bile acid sequestrant, fibrates, and niacin drugs used to lower lipid levels.</item>
+    </list>
+    </section>
+    <para id="para-00002">Bile acid sequestrants, fibrates, and niacin vary in their mechanism, therapeutic effect, and side effect profile. [link]Table 21.6[/link] lists common bile acid sequestrants, fibrates, and niacin and typical routes and dosing for adult clients.</para>
+    
+       <table class="vertically-tight" id="table-00001">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00001">Cholestyramine</term><newline/>
+    (<term class="no-emphasis" id="term-00002">Questran</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia:</emphasis> Initiate at 4 g orally 1–2 times/day; increase gradually to 8–16 g orally in 2 divided doses; maximum dose 24 g/day.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Cholesevelam</term><newline/>
+    (<term class="no-emphasis" id="term-00004">Welchol</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia:</emphasis> 3.75 g/day orally in 1–2 divided doses.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Colestipol</term><newline/>
+    (<term class="no-emphasis" id="term-00006">Colestid</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia (tablets):</emphasis> Initial dose 2 g orally 1–2 times daily; increase by 2 g orally 1–2 times daily at 1–2-month intervals; maintenance dose is 2–16 g orally once daily or in divided doses.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Fenofibrate</term><newline/>
+    (<term class="no-emphasis" id="term-00008">Tricor</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hypertriglyceridemia:</emphasis> 48–145 mg orally once daily; maximum dose is 145 mg.<newline/>
+    <emphasis effect="italics">Primary hypercholesterolemia or mixed dyslipidemia:</emphasis> Initial dose 145 mg once daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Gemfibrozil</term><newline/>
+    (<term class="no-emphasis" id="term-00010">Lopid</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hypertriglyceridemia:</emphasis> 1,200 mg administered orally in 2 divided doses 30 min before the morning and evening meals.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Niacin</term></entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia or hypertriglyceridemia (niacin extended-release prescription product):</emphasis> Initial dose 500 mg orally at bedtime after a low-fat snack; increase by no more than 500 mg in any 4-week period; maintenance dose is 1,000–2,000 mg once daily at bedtime.</entry>
+    </row>
+          </tbody>
+         </tgroup>
+    <caption>Drug Emphasis Table: Bile Acid Sequestrants, Fibrates, and Niacin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Bile Acid Sequestrants</title>
+    <para id="para-00003"><term class="no-emphasis" id="term-00012">Bile acid sequestrants</term> are a class of drugs that lower cholesterol. Bile acids are made from cholesterol and are released from the small intestine to aid in fat digestion after the individual consumes food. The majority of bile acids are reabsorbed back into the body after use. Bile acid sequestrants work by binding to bile acids in the intestine, which reduces their absorption and decreases the amount of bile acids available in the body. The body compensates for this by producing more bile acids from cholesterol, effectively decreasing the amount of cholesterol that remains.</para>
+    <para id="para-00004">Bile acid sequestrants are often used as second-line therapy for hypercholesterolemia if clients do not achieve sufficient goals using first-line therapy or if they are intolerant to first-line therapy. Bile acid sequestrants can be expected to lower the LDL-cholesterol levels by 15%–30% (Grundy et al., 2019). Response to therapy is monitored by obtaining LDL-cholesterol levels. These drugs are orally administered and are not absorbed into the systemic circulation; therefore, they are best taken with meals so that they will encounter the bile acids upon secretion. However, their use is limited by frequency of dosing, an unfavorable gastrointestinal adverse effect profile, and their propensity for interaction with other drugs, which necessitates coordination of administration. Also, outcomes data in cardiovascular disease are lacking when used in combination with statins, the first-line therapy for hypercholesterolemia and cardiovascular risk reduction.</para>
+    <para id="para-00005">Three bile acid sequestrants are used for treating hyperlipidemia. The drugs have few distinguishing factors beyond the class effects listed here. Some of the differentiators are the available dosage forms (tablets, powder), administration instructions, and FDA-approved indications. These are summarized in [link]Table 21.7[/link]; however, it is always best to check the specific product labeling for administration instructions.</para>
+    
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">FDA-Approved Indications</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Available Dosage Forms</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Special Administration Instructions</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00013">Cholestyramine</term></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00002">
+    <item>Cholesterol reduction (primary hyperlipidemia)</item>
+    <item>Slow or reverse progression of coronary atherosclerosis</item>
+    <item>Pruritus associated with partial biliary obstruction</item></list></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00003"><item>Oral powder (bulk with scoop or dose-sized packets)</item></list></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral powder:</emphasis><newline/>
+    <list list-type="bulleted" id="list-00004">
+    <item>Should not be taken in dry form.</item>
+    <item>Mix with water or other fluids before ingesting.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Colesevelam</term></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Cholesterol reduction (primary hyperlipidemia and <term class="no-emphasis" id="term-00015">pediatric clients</term> aged 10–17 years with heterozygous familial cholesterolemia)</item>
+    <item>Blood sugar reduction in clients with type 2 diabetes</item></list></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Oral powder (dose-sized packets)</item>
+    <item>Oral tablet</item></list></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral powder:</emphasis><newline/>
+    <list list-type="bulleted" id="list-00007">
+    <item>Should not be taken in dry form.</item>
+    <item>Mix contents of one packet with 1 cup of water, fruit juice, or diet soft drink. Stir well and drink.</item>
+    </list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Colestipol</term></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Cholesterol reduction (primary hyperlipidemia)</item></list></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Oral powder (bulk with scoop or dose-sized packets)</item>
+    <item>Oral tablets</item></list></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral powder:</emphasis><newline/>
+    <list list-type="bulleted" id="list-00010">
+    <item>Should never be taken in dry form.</item>
+    <item>Mix dose with 3 oz or more of water or other beverages; use pulpy juice to minimize complaints about its consistency.</item>
+    <item>Stir until mixed and then drink.</item>
+    <item>Rinse the glass with a small amount of additional beverage to make sure all the medication is taken.</item>
+    <item>May also be mixed with breakfast cereals, soups with high fluid content, or pulpy fruits such as crushed pineapple, pears, peaches, or fruit cocktail.</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Comparison of Bile Acid Sequestrants (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00004">
+    <title>Fibrates</title>
+    <para id="para-00006"><term class="no-emphasis" id="term-00017">Fibrates</term> are a group of oral drugs that are used primarily to treat hypertriglyceridemia. They include fenofibric acid, fenofibrate, and gemfibrozil. They work by activating peroxisome proliferator-activated receptors. The primary result of this activation is lower triglyceride levels via increased expression of lipoprotein lipase, an enzyme that breaks down triglycerides. Fibrates also lead to increased HDL-cholesterol and mildly lower LDL-cholesterol levels; however, they are not typically recommended for those uses (Grundy et al., 2019). Adverse effects of fibrates include increased serum transaminase, creatine phosphokinase (CPK), and creatinine levels; myopathy; cholelithiasis; and venous thrombosis.</para>
+    <section id="sect-00005">
+    <title>Fenofibric Acid Derivatives</title>
+    <para id="para-00007"><term class="no-emphasis" id="term-00018">Fenofibric acid</term> is an active drug that directly stimulates peroxisome proliferator-activated receptors as described above. It is available in the active form under the brand name Fibricor and as generic drugs. An inactive form called fenofibrate is also available; this form converts to fenofibric acid in the body after ingestion. Some of the available dosage forms of fenofibrate are Antara, Lipofen, Fenoglide, Tricor, Trilipix (choline fenofibrate), and their respective generic formulations. The various fenofibrate dosage forms are not bioequivalent and cannot be substituted for each other or for fenofibric acid on a milligram per milligram basis; they use different types of medication delivery technology to ensure absorption, including micronized particles, nanocrystals, and different salt forms.</para>
+    <para id="para-00008">is a drug prototype table for fenofibric acid derivatives featuring fenofibrate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Fibric acid<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Activates peroxisome proliferator-activated receptors to increase breakdown of triglycerides</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    <emphasis effect="italics">Primary hypercholesterolemia or mixed dyslipidemia:</emphasis> Initial dose 145 mg orally once daily; maximum dose 145 mg once daily.<newline/>
+    <emphasis effect="italics">Severe hypertriglyceridemia:</emphasis> Initial dose 48–145 mg once daily; maximum dose 145 mg once daily.</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary hyperlipidemia or mixed dyslipidemia<newline/>
+    Severe hypertriglyceridemia<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Reduces LDL-cholesterol, total cholesterol, triglycerides, and apolipoprotein B; increases HDL-cholesterol</entry>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Warfarin<newline/>
+    Immunosuppressants<newline/>
+    Bile acid sequestrants<newline/>
+    Colchicine<newline/>
+    Statins<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Abnormal liver function tests, including increased aspartate aminotransferase (AST), alanine aminotransferase (ALT), and creatine phosphokinase (CPK) levels<newline/>
+    Rhinitis</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Severe renal dysfunction, including dialysis<newline/>
+    Active liver disease<newline/>
+    Gallbladder disease<newline/>
+    Hypersensitivity<newline/>
+    Lactation<newline count="2"/>
+    <emphasis effect="bold">Caution:</emphasis><newline/>
+    Hepatotoxicity<newline/>
+    Myopathy and rhabdomyolysis<newline/>
+    Increases in serum creatinine<newline/>
+    Cholelithiasis<newline/></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: <term class="no-emphasis" id="term-00019">Fenofibrate</term> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00006">
+    <title>Gemfibrozil</title>
+    <para id="para-00009"><term class="no-emphasis" id="term-00020">Gemfibrozil</term> is another fibrate approved for the treatment of hypertriglyceridemia and for primary prevention of CAD in clients who have failed to respond to lifestyle changes and other pharmacologic therapies. Gemfibrozil is generally administered orally, twice daily, 30 minutes before breakfast and dinner. The most common adverse events are dyspepsia, abdominal pain, and diarrhea. Less commonly, abnormal liver function tests and worsening renal function in those with baseline dysfunction have been reported. It is contraindicated in clients with severe hepatic or renal disease, preexisting gallbladder disease, or hypersensitivity to gemfibrozil.</para>
+    <para id="para-00010">Gemfibrozil is associated with several notable drug interactions. The concomitant use of gemfibrozil and rosuvastatin or simvastatin is contraindicated because of the risk of myopathy and rhabdomyolysis. If the client needs to take both a fibrate and a statin, it is safer to use a fenofibric acid derivative. Similarly, a client taking gemfibrozil with colchicine should be monitored for the same concerns of myopathy and rhabdomyolysis. Concomitant use with warfarin places the client at risk for bleeding, so frequent monitoring of the international normalized ratio is recommended until stabilization.</para>
+    
+    <note class="safety-alert" id="note-00001">
+    <title>Gemfibrozil</title>
+    <para id="para-00011">The nurse should clarify any medication orders that use abbreviations. For example, <term class="no-emphasis" id="term-00021">gemfibrozil</term> could be abbreviated as “gem.” This could be confused with <term class="no-emphasis" id="term-00022">gemcitabine</term>, a chemotherapy agent, with severe consequences. <link url="https://openstax.org/r/ismporgres">Learn more about error-prone abbreviations</link> like this one by visiting the website of the <term class="no-emphasis" id="term-00023">Institute of Safe Medication Practices</term>.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Niacin</title>
+    <para id="para-00012"><term class="no-emphasis" id="term-00024">Niacin (vitamin B<sub>3</sub>)</term> is a water-soluble vitamin. The chemical name for niacin is nicotinic acid. It is approved for treatment of hyperlipidemia, dyslipidemia, and hypertriglyceridemia; for secondary prevention of myocardial infarction; and, in combination with a bile acid sequestrant, for slowing the progression or promoting the regression of atherosclerotic disease. The specific mechanism of action of niacin in dyslipidemia is not well understood. It may increase the activity of lipoprotein lipase, the main enzyme that is affected by fibrates, or it may increase the rate of removal from plasma and decrease the rate of synthesis of LDL-cholesterol. The therapeutic effect in dyslipidemia is a reduction in triglyceride, LDL-cholesterol, and total cholesterol levels, as well as an increase in HDL-cholesterol levels.</para>
+    <para id="para-00013">Niacin is available in various dosage forms. Many are considered dietary supplements and thus are not regulated by the FDA. Some of these dietary supplements are marketed as “flush-free” niacin; however, these flush-free versions have been shown to contain no free nicotinic acid and should not be used to treat dyslipidemia (National Institutes of Health, 2022). Prescription niacin products include extended-release and immediate-release formulations. Nurses should be aware that the various niacin preparations are not interchangeable on a milligram per milligram basis.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00014"><emphasis effect="bold">Bile acid sequestrants.</emphasis> Because these drugs are not absorbed into the systemic circulation, systemic adverse effects are limited; side effects from bile acid sequestrants are generally related to their effect on the gastrointestinal system. Constipation is the most common one; it can be severe and can aggravate hemorrhoids. Clients can minimize constipation by starting doses cautiously, taking one per day. It can also be managed with increased fluids and dietary fiber and, if needed, a stool softener. Other gastrointestinal adverse effects include abdominal pain, heartburn, loss of appetite, indigestion, diarrhea, and upset stomach.</para>
+    <para id="para-00015">Bile acid sequestrants also can cause an increase in triglyceride levels, which is typically mild. However, in clients with a triglyceride level of 300 mg/dL or higher at baseline, hypertriglyceridemia can be severe. With long-term therapy of high doses, absorption of some fat-soluble nutrients may be decreased, and supplementation of vitamins A, D, E, and K may be needed. In extreme cases, bleeding can occur due to an induced deficiency of vitamin K, which is needed for the synthesis of clotting factors. Additionally, bile acid sequestrants can interfere with the absorption of some drugs. Because of this, it is recommended that clients take other drugs at least 1 hour before or 3–4 hours after taking a bile acid sequestrant (Grundy et al., 2019).</para>
+    <para id="para-00016">Because of the high incidence of constipation, bile acid sequestrants are contraindicated in clients with a history of bowel obstruction. Because these drugs can increase triglycerides, they also are contraindicated in clients who have baseline hypertriglyceridemia or a history of pancreatitis due to hypertriglyceridemia.</para>
+    <para id="para-00017"><emphasis effect="bold">Fibrates.</emphasis> The most common adverse effects of fibrates are elevated liver enzymes, increases in serum creatinine, and myopathy, especially when fibrates are combined with statin medications. They should not be used in clients who have active liver disease, gallbladder disease, severe renal dysfunction, or hypersensitivity (Singh &amp; Correa, 2023).</para>
+    <para id="para-00018"><emphasis effect="bold">Niacin.</emphasis> The most limiting adverse effect of niacin is flushing, which is most prominent in the immediate-release preparations. This occurs because niacin increases prostaglandins in capillaries, leading to cutaneous vasodilation. It can be managed by slowing down the niacin absorption rate by using a slower-release (extended-release) version or by administering a nonsteroidal anti-inflammatory drug (NSAID) such as aspirin 30 minutes before niacin administration (National Institutes of Health, 2022). Clients taking niacin can minimize flushing by avoiding hot drinks and alcoholic beverages. Significant adverse effects include hepatotoxicity, insulin resistance, hyperglycemia, and hyperuricemia (National Institutes of Health, 2022).</para>
+    <para id="para-00019">Niacin is contraindicated in clients with active liver disease, unexplained or persistent elevations in hepatic transaminase levels, active peptic ulcer disease, arterial bleeding, or hypersensitivity to niacin or components of the formulation.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Nursing Implications</title>
+    <para id="para-00020">The nurse should do the following for clients taking bile acid sequestrants:</para>
+    <list list-type="bulleted" id="list-00011">
+    <item>Monitor for constipation and instruct client about appropriate management (increase fluids and dietary fiber and, if needed, take a stool softener).</item>
+    <item>Administer other drugs at least 1 hour before or 3–4 hours after bile acid sequestrant administration.</item>
+    <item>Mix powder dosage forms with fluid as appropriate.</item>
+    <item>Monitor for deficiency of fat-soluble nutrients and recommend supplementation when needed.</item>
+    <item>Administer with meals as directed by the health care provider.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <para id="para-00021">The nurse should do the following for clients taking fibrates:</para>
+    <list list-type="bulleted" id="list-00012">
+    <item>Obtain an accurate home medication list to assess for drug interactions.</item>
+    <item>Avoid direct substitution of different forms of fenofibric acid because they are not interchangeable.</item>
+    <item>Monitor for signs and symptoms of muscle-related adverse effects, especially when coadministered with a statin.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <para id="para-00022">The nurse should do the following for clients taking niacin:</para>
+    <list list-type="bulleted" id="list-00013">
+    <item>Assist the client in choosing appropriate over-the-counter versions when needed. Avoid flush-free niacin and choose extended-release products to maximize efficacy and minimize flushing.</item>
+    <item>Administer an NSAID prior to administration if directed by the health care provider; if the client is already taking low-dose aspirin, the aspirin dose can be administered before niacin to limit additional NSAIDs.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00002">
+    <para id="para-00023"><emphasis effect="bold">The client taking a bile acid sequestrant should:</emphasis></para>
+    <list list-type="bulleted" id="list-00014">
+    <item>Take other drugs at least 1 hour before or 3–4 hours after bile acid sequestrant administration.</item>
+    <item>Alert their health care provider, increase fluids and dietary fiber, and, if needed, take a stool softener if they experience constipation.</item>
+    <item>Administer with meals as directed by their health care provider.</item>
+    <item>Take vitamin supplementation if instructed to do so by their health care provider.</item>
+    </list>
+    <para id="para-00024"><emphasis effect="bold">The client taking a fibrate should:</emphasis></para>
+    <list list-type="bulleted" id="list-00015">
+    <item>Keep an accurate medication list so that health care professionals can assess for drug interactions.</item>
+    <item>Monitor for adverse events and alert their health care provider with any concerns.</item>
+    </list>
+    <para id="para-00025"><emphasis effect="bold">The client taking niacin should:</emphasis></para>
+    <list list-type="bulleted" id="list-00016">
+    <item>Avoid choosing flush-free niacin for managing lipid levels.</item>
+    <item>Ask their health care provider about possibly taking an NSAID before their niacin drug.</item>
+    <item>Avoid hot drinks and alcoholic beverages around the time of administration to minimize flushing.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    </content>
 </document>

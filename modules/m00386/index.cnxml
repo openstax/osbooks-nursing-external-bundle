@@ -6,8 +6,155 @@
     <md:uuid>c87f22f6-eec0-48f5-aad8-972772164b2f</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of cholesterol absorption inhibitor drugs used to lower lipid levels.</item>
+    <item>Explain the indications, action, adverse reactions, and interactions of cholesterol absorption inhibitor drugs used to lower lipid levels.</item>
+    <item>Describe nursing implications of cholesterol absorption inhibitor drugs used to lower lipid levels.</item>
+    <item>Explain the client education related to cholesterol absorption inhibitor drugs used to lower lipid levels.</item> 
+    </list>
+    </section>
+    <para id="para-00002">Ezetimibe is a cholesterol absorption inhibitor. It works by inhibiting the cholesterol transporter called Niemann-Pick C1-Like 1 (NPC1L1). It lowers LDL-cholesterol levels by 13%–20% (Grundy et al., 2019).</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Cholesterol Absorption Inhibitor: Ezetimibe</title>
+    <para id="para-00003">One cholesterol absorption inhibitor will be discussed: <term class="no-emphasis" id="term-00001">ezetimibe</term>. [link]Table 21.9[/link] is a drug prototype table for <term class="no-emphasis" id="term-00002">cholesterol absorption inhibitors</term> featuring ezetimibe. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Cholesterol absorption inhibitor<newline count="2"/>
+    
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Inhibits the Niemann-Pick C1Like 1 cholesterol transporter, which is responsible for absorption of cholesterol in the small intestine</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    10 mg orally once daily.</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary hypercholesterolemia<newline/>
+    Homozygous familial hypercholesterolemia<newline/>
+    Homozygous sitosterolemia<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Lowers LDL-cholesterol levels</entry>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Cyclosporine<newline/>
+    Fenofibrate/fibrates<newline/>
+    Cholestyramine<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Upper respiratory tract infection<newline/>
+    Diarrhea<newline/>
+    Arthralgia<newline/>
+    Sinusitis<newline/>
+    Pain in extremities<newline/>
+    Angioedema</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Active liver disease, including unexplained persistent elevations in hepatic transaminase levels<newline/>
+    Pregnancy or possible pregnancy<newline/>
+    Lactation<newline/>
+    Known hypersensitivity to product components<newline count="2"/>
+    
+    Caution:<newline/>
+    Not recommended in clients with moderate or severe hepatic impairment<newline/>
+    Monitor liver enzyme levels when taken with a statin<newline/>
+    Skeletal muscle effects (e.g., myopathy and rhabdomyolysis) have been reported</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Ezetimibe (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    
+    <note class="safety-alert" id="note-00001">
+    <title>Ezetimibe</title>
+    <para id="para-00004">Ezetimibe is available as a single-drug tablet with the brand name <term class="no-emphasis" id="term-00003">Zetia</term>. It is also one of the drugs included in the combination product sold under the brand name <term class="no-emphasis" id="term-00004">Vytorin</term>, which contains both <term class="no-emphasis" id="term-00005">ezetimibe</term> and <term class="no-emphasis" id="term-00006">simvastatin</term>. Nurses should be careful to avoid confusing the single drug and the combination products.</para>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00005">The most significant adverse events associated with ezetimibe are liver enzyme abnormalities, myopathy, and rhabdomyolysis, especially when the drug is combined with statin medications. Another adverse effect is diarrhea.</para>
+    <para id="para-00006">Ezetimibe should not be used in clients with active liver disease or unexplained elevations in transaminase levels, those who are pregnant or breastfeeding, or those with hypersensitivity to the drug or any of its product components.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Nursing Implications</title>
+    <para id="para-00007">The nurse should do the following for clients taking ezetimibe:</para>
+    <list id="list-00002">
+    <item>Monitor hepatic transaminase levels (alanine aminotransferase [ALT] and aspartate aminotransferase [AST].</item>
+    <item>Monitor for adverse events such as liver toxicity and diarrhea.</item>
+    <item>Monitor for muscle-related adverse events, especially when the drug is used in combination with statins.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00002">
+    <para id="para-00008"><emphasis effect="bold">The client taking ezetimibe should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Take the medication daily, taking no more than one dose per day.</item>
+    <item>Refrain from taking the medication when pregnant.</item>
+    <item>Notify their health care provider about any muscle pain or weakness.</item>
+    <item>Report any adverse events to their health care provider.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section class="chapter-summary" id="sect-00006">
+    <para id="para-00009">This chapter reviewed lipid-lowering drugs. It introduced lipoproteins, including their metabolism and their connection to CAD. Many classes of lipid-lowering medications were described, along with salient nursing implications and client education.</para>
+    </section>
+          <section class="review-questions" id="sect-00007">
+          <title>Review Questions</title>
+          <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec01_RQ1"/></para></problem></exercise>
+          <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec02_RQ2"/></para></problem></exercise>
+          <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec03_RQ3"/></para></problem></exercise>
+          <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec03_RQ4"/></para></problem></exercise>
+          <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec04_RQ5"/></para></problem></exercise>
+          <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00015"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec03_RQ6"/></para></problem></exercise>
+          <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00016"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec02_RQ7"/></para></problem></exercise>
+          <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec02_RQ8"/></para></problem></exercise>
+          <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec02_RQ9"/></para></problem></exercise>
+          <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch21_Sec02_RQ10"/></para></problem></exercise>
+          </section>
+    <section class="references" id="sect-00008">
+    <title>References</title>
+    <para id="para-00020">American Heart Association. (2020, November 11). <emphasis effect="italics">Prevention and treatment of high cholesterol (hyperlipidemia).</emphasis> https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia</para>
+    <para id="para-00021">Centers for Disease Control and Prevention. (2020). <emphasis effect="italics">Familial hypercholesterolemia.</emphasis> https://www.cdc.gov/genomics/disease/fh/FH.htm</para>
+    <para id="para-00022">Centers for Disease Control and Prevention. (2023a). <emphasis effect="italics">About high cholesterol. </emphasis>https://www.cdc.gov/cholesterol/about.htm#optimal</para>
+    <para id="para-00023">Centers for Disease Control and Prevention. (2023b). <emphasis effect="italics">Heart disease.</emphasis> National Center for Health Statistics. https://www.cdc.gov/nchs/fastats/heart-disease.htm</para>
+    <para id="para-00024">Centers for Disease Control and Prevention. (2023c). <emphasis effect="italics">Prevent heart disease. </emphasis>https://www.cdc.gov/heartdisease/prevention.htm</para>
+    <para id="para-00025">Choudhary, A., Rawat, U., Kumar, P., &amp; Mittal, P. (2023). Pleotropic effects of statins: The dilemma of wider utilization of statin. <emphasis effect="italics">The</emphasis> <emphasis effect="italics">Egyptian Heart Journal, 75</emphasis>(1), 1. https://doi.org/10.1186/s43044-023-00327-8</para>
+    <para id="para-00026">DailyMed. (Updated May 12, 2023). <emphasis effect="italics">Atorvastatin calcium tablet.</emphasis></para>
+    <para id="para-00027">https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=652f77a0-2145-896d-c760-e99e87507161</para>
+    <para id="para-00028">DailyMed. (Updated November 16, 2022). <emphasis effect="italics">Colestid—Colestipol hydrochloride granule, for suspension.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21b37725-fc0c-4365-a7dc-1a473d42502d</para>
+    <para id="para-00029">DailyMed. (Updated July 27, 2023). <emphasis effect="italics">Crestor—Rosuvastatin calcium tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb0f3b5e-4bc6-41c9-66b9-6257e2513512</para>
+    <para id="para-00030">DailyMed. (Updated October 31, 2012). <emphasis effect="italics">Lescol XL—Fluvastatin sodium tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd12fae6-f277-4679-a7a8-b98719fe6fa9</para>
+    <para id="para-00031">DailyMed. (Updated July 7, 2023). <emphasis effect="italics">Leqvio—Inclisiran injection, solution.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44</para>
+    <para id="para-00032">DailyMed. (Updated December 1, 2022). <emphasis effect="italics">Livalo—Pitavastatin calcium tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2</para>
+    <para id="para-00033">DailyMed. (Updated August 31, 2023). <emphasis effect="italics">Lopid—Gemfibrozil tablet</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c48855b7-215e-453b-b3b1-a0f9dee7221f</para>
+    <para id="para-00034">DailyMed. (Updated April 7, 2021). <emphasis effect="italics">Niacin tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fceeb58-e54d-43c1-8abb-33feea69d663</para>
+    <para id="para-00035">DailyMed. (Updated November 10, 2022). <emphasis effect="italics">Pravastatin sodium tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6c011348-a236-47d3-bbef-3e0b956dd080</para>
+    <para id="para-00036">DailyMed. (Updated April 1, 2021). <emphasis effect="italics">Praluent—Alirocumab injection, solution.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=praluent</para>
+    <para id="para-00037">DailyMed. (Updated November 1, 2019). <emphasis effect="italics">Questran—Cholestyramine powder, for suspension.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362ddd91-a63f-4ec6-841a-75785dd208c8</para>
+    <para id="para-00038">DailyMed. (Updated June 7, 2023). <emphasis effect="italics">Repatha—Evolocumab injection, solution.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=709338ae-ab8f-44a9-b7d5-abaabec3493a</para>
+    <para id="para-00039">DailyMed. (Updated June 1, 2021). <emphasis effect="italics">Tricor—Fenofibrate tablet</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b693e68d-f812-4993-54b6-852e3517c344</para>
+    <para id="para-00040">DailyMed. (Updated September 7, 2022). <emphasis effect="italics">Welchol—Colesevelam hydrochloride tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=89cbd0a3-2d1b-41db-8c97-35ec67b7b09f</para>
+    <para id="para-00041">DailyMed. (Updated July 20, 2023). <emphasis effect="italics">Zetia—Ezetimibe tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=174e45e0-45bb-48b7-9e60-8f6cfc1d22bb</para>
+    <para id="para-00042">DailyMed. (Updated August 9, 2023). <emphasis effect="italics">Zocor—Simvastatin tablet.</emphasis> https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9</para>
+    <para id="para-00043">Friedewald, W. T., Levy, R. I., &amp; Fredrickson, D. S. (1972). Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge. <emphasis effect="italics">Clinical Chemistry</emphasis>, <emphasis effect="italics">18</emphasis>(6), 499–502.</para>
+    <para id="para-00044">Grundy, S. M., Stone, N. J., Bailey, A. L., Beam, C., Birtcher, K. K., Blumenthal, R. S., Braun, L. T., de Ferranti, S., Faiella-Tommasino, J., Forman, D. E., Goldberg, R., Heidenreich, P. A., Hlatky, M. A., Jones, D. W., Lloyd-Jones, D., Lopez-Pajares, N., Ndumele, C. E., Orringer, C. E., Peralta, C. A., … Yeboah, J. (2019). 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. <emphasis effect="italics">Journal of the American College of Cardiology</emphasis>, <emphasis effect="italics">73</emphasis>(24), e285–e350. https://doi.org/10.1016/j.jacc.2018.11.003</para>
+    <para id="para-00045">Masood, W., Annamaraju, P., &amp; Uppaluri, K. R. (2022). <emphasis effect="italics">Ketogenic diet.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK499830/</para>
+    <para id="para-00046">National Institutes of Health. (2022). <emphasis effect="italics">Niacin: Fact sheet for health professionals.</emphasis> https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/#:~:text=Niacin%20(also%20known%20as%20vitamin,riboside%20%5B1%2D3%5D.</para>
+    <para id="para-00047">Singh, G., &amp; Correa, R. (2023). <emphasis effect="italics">Fibrate medications.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK547756/#:~:text=Fibrates%20help%20to%20reduce%20serum</para>
+    <para id="para-00048">Tsao, C. W., Aday, A. W., Almarzooq, Z. I., Alonso, A., Beaton, A. Z., Bittencourt, M. S., Boehme, A. K., Buxton, A. E., Carson, A. P., Commodore-Mensah, Y., Elkind, M. S. V., Evenson, K. R., Eze-Nliam, C., Ferguson, J. F., Generoso, G., Ho, J. E., Kalani, R., Khan, S. S., Kissela, B. M., … Martin, S. S. (2022). Heart disease and stroke statistics—2022 update: A report from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">145</emphasis>(8), e153–e639. https://doi.org/10.1161/CIR.0000000000001052</para>
+    <para id="para-00049">Wiggins, B. S., Saseen, J. J., Page, R. L., 2nd, Reed, B. N., Sneed, K., Kostis, J. B., Lanfear, D., Virani, S., Morris, P. B., &amp; American Heart Association Clinical Pharmacology Committee of the Council on Clinical Cardiology; Council on Hypertension; Council on Quality of Care and Outcomes Research; and Council on Functional Genomics and Translational Biology. (2016). Recommendations for management of clinically significant drug–drug interactions with statins and select agents used in patients with cardiovascular disease: A scientific statement from the American Heart Association. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">134</emphasis>(21), e468–e495. https://doi.org/10.1161/CIR.0000000000000456</para>
+    </section>
+    </content>
 </document>

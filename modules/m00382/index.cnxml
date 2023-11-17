@@ -6,8 +6,11 @@
     <md:uuid>0bda5cd3-3ccc-4e01-a2e2-4fe946b34867</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="The heart with the main arteries and veins.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit05_16_22_001_Splash.jpg"/></media>
+    <caption>The heart is the primary organ of the cardiovascular system, controlling circulation and blood flow for the entire body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00001">Lipids are fatty, waxy, or oily substances that have important roles in the body. Some of the most important ones are energy storage, regulation of body temperature, and hormonal regulation. Lipids are also an integral part of the cell membrane of each cell in the body. There are three types of lipids, which are differentiated by their chemical structure: triglycerides, sterols, and phospholipids. This chapter will focus on triglycerides and sterols and the drugs used to manage their elevations in the blood.</para>
+    </content>
 </document>
