@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Non-Opioid Analgesics</title>
+  <title>Opioid Agonists and Antagonists</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Non-Opioid Analgesics</md:title>
     <md:content-id>m00272</md:content-id>
@@ -81,7 +81,7 @@
 <emphasis effect="italics">Oral:</emphasis> 1–4 mg orally every 4–6 hours as needed.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Meperidine</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Meperidine</term><newline/>
 (<term class="no-emphasis" id="term-00017">Demerol</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Acute pain:</emphasis> 50–150 mg IV/IM every 3–4 hours as needed; maximum dose: 600 mg/day.</entry>
 </row>
@@ -125,7 +125,7 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
 Opioid analgesic<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Activates opioid receptors to modulate and reduce incoming painful signals to reduce pain perception</entry>
@@ -142,7 +142,7 @@ Reduced pain perception</entry>
 Alprazolam <newline/>
 Diphenhydramine <newline/>
 Cyclobenzaprine<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 Alcohol</entry>
 </row>
 <row>
@@ -328,7 +328,7 @@ Over-the-counter ibuprofen 400 mg by mouth every 4–6 hours as needed for joint
 <thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
