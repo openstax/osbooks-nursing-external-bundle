@@ -6,8 +6,71 @@
     <md:uuid>d1acc168-2dee-46ad-9a7d-f1d802856bca</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Define pain.</item>
+<item>Differentiate between acute pain and chronic pain.</item>
+<item>Explain the pain threshold.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Pain</title>
+<para id="para-00002"><term id="term-00001">Pain</term> is generally defined as “an unpleasant sensory and emotional experience associated with actual or potential tissue damage or described in terms of such damage” (Raja et al., 2020). Pain is, by nature, a subjective experience that the client describes to the health care provider, so many health care professionals practically define pain as “whatever the client says it is.” This makes assessing and treating pain a challenge for many health care professionals. This is especially true considering that many health care providers do not receive sufficient training in pain management to always address a client’s needs adequately.</para>
+<para id="para-00003"><term id="term-00002">Acute pain</term> is typically sudden in onset and will usually have a duration of less than a month. Acute pain is commonly caused by events such as trauma, injury, or certain medical treatments such as surgery. <term id="term-00003">Chronic pain</term> typically lasts longer than 3 months. Common causes of chronic pain include inflammation and medical treatments, or the cause can be entirely unknown (<term class="no-emphasis" id="term-00004">idiopathic pain</term>). Because of the chronic nature of this type of pain, affected individuals are more likely to develop long-term complications such as depression, anxiety, substance use disorders, and chronic disability. The Institute of Medicine Committee on Advancing Pain Research, Care, and Education estimates that more than 100 million people in the United States live with some form of chronic pain and that chronic pain costs more than $600 billion each year in terms of medical treatment and lost productivity (Smith &amp; Hillner, 2019).</para>
+<para id="para-00004">In addition to acute and chronic classifications of pain, pain can be characterized in ways that can help determine the most appropriate plan for managing it. <term id="term-00005">Nociceptive pain</term> is pain that arises from injury to bodily tissue, such as pain related to traumatic injury, surgery, or infection. This type of pain may be described as a sharp, dull, or stabbing sensation. Nociceptive pain can be further classified as either somatic or visceral pain. <term class="no-emphasis" id="term-00006">Somatic pain</term> typically occurs in parts of the body such as the skin, bones, and muscles. It tends to be easily pinpointed, may be described as sharp, and is localized to the injured tissue. <term class="no-emphasis" id="term-00007">Visceral pain</term> affects internal organs such as the stomach and liver. It may be described as deep, dull, aching sensations that can be more difficult to localize. In some cases, deep visceral pain may cause pain elsewhere in the body, which is known as <term id="term-00008">referred pain</term> (e.g., pancreatic injury causing back pain, myocardial infarction causing jaw and shoulder pain; see [link]Figure 14.2[/link]).</para>
+<para id="para-00005">In contrast to nociceptive pain, <term id="term-00009">neuropathic pain</term> is pain that arises from the nerves of the peripheral and central nervous systems. Neuropathic pain can result from various neurologic conditions, such as diabetic neuropathies, stroke, multiple sclerosis, herpes zoster (shingles), and phantom limb pain related to an amputation. Neuropathic pain is often described as burning, tingling, or shooting pains that radiate from one location to another.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="Two diagrams show the front and back of a human body to show where the pain from various internal organs can radiate. The areas include the neck and shoulders for the thymus, spleen, lungs, and diaphragm; the left side of the chest down the left arm to the pinky finger for the heart; and the pelvic area and upper sides of both thighs for the kidney.">
+<image mime-type="image/png" src="../../media/PHA_Figure_14_01_002.png"/></media>
+<caption>This illustration of referred pain maps visceral sensations to specific regions of the body. Some sensations are felt locally, whereas others are perceived as affecting areas quite distant from the involved organ. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00006">Pain can also be characterized based on its intensity, such as by describing it as mild, moderate, or severe or rating it on a scale from 0 to 10, with 0 being no pain and 10 being the worst pain imaginable. These types of scales may not be appropriate when clients do not understand the question or cannot communicate their pain. In cases such as these, other tools are available. For instance, the nurse can display drawings of different faces expressing various levels of pain and ask the client to point to the face that best represents what they are experiencing.</para>
+<para id="para-00007">Health care professionals also assess clients for physical signs of pain, which can be indicated by facial expressions, muscle tension, and body movements. Another important way to assess pain is to observe or ask about any functional impairments. It is useful to know what the client is functionally capable or incapable of doing—such as going to work, gardening, or playing with their children—and how these abilities change with pain and pain treatment. Generally, when a client’s pain status improves, they should be able to do more of the things they wish to do. This provides more objective evidence than relying solely on client self-reporting.</para>
+<para id="para-00008">Nurses are a critical link in the chain of appropriate pain management. They are frequently the health care professionals on the front line in assessing pain, administering pain medication, and monitoring for pain relief and any adverse effects the client may develop. It is critical for nurses to have a solid understanding of what pain is and how it may present differently in a variety of client populations such as children, older adults, and individuals from various ethnic and racial backgrounds. Cultural values and beliefs as well as individual differences can frequently affect how clients will talk about and show their pain, so it is important for nurses to be open-minded to the fact that pain is a subjective experience. Some people may live with a great deal of chronic pain but are stoic and do not exhibit outward signs of it. All individuals are equally deserving of adequate pain management, and nurses should advocate for their clients to ensure they receive the care they deserve.</para>
+<note class="link-to-learning" id="note-00001">
+<title>The Wong–Baker FACES Pain Rating Scale</title>
+<para id="para-00009">The <link url="https://openstax.org/r/wongbakerfaces"><term class="no-emphasis" id="term-00010">Wong–Baker FACES pain rating scale</term></link> uses pictures to illustrate different severities of pain. It is especially useful when the client is too young to understand a pain-scale question or when a language barrier exists.</para>
+</note>
+</section>
+<section id="sect-00004">
+<title>Pathophysiology of Pain</title>
+<para id="para-00010"><term id="term-00011">Nociception</term> is the term used to describe the processing of noxious stimuli by both the peripheral and central nervous systems. Pain is the client’s subjective experience of this nociception. Nociception is a complex process that involves five steps: transduction, conduction, transmission, modulation, and perception.</para>
+<para id="para-00011"><term id="term-00012">Transduction</term> is the first step leading to the sensation of pain and begins with activation of specialized nerves known as <term id="term-00013">nociceptors</term>. Activation of these nociceptors can arise from a variety of stimuli, including direct tissue injury, extremes in temperature, and certain chemicals. Upon exposure to one of these stimuli, several types of small proteins called <term id="term-00014">cytokines</term> are released, which sensitize and activate the nociceptors. <term id="term-00015">Conduction</term> and <term id="term-00016">transmission</term> occur when the nociceptors are activated and turn a chemical signal into an action potential, which transmits the stimuli to the spinal column to eventually be received by the brain. <term id="term-00017">Modulation</term> controls how strong a painful signal will be when the brain receives it. Pain signals can be made more intense by substances such as <term id="term-00018">substance P</term>. Conversely, painful signals can be inhibited by substances such as the body’s own natural opioids (enkephalins and beta-endorphins). The first four steps of nociception culminate in <term id="term-00019">perception</term> of pain by the brain. At this point, the individual experiences the subjective sensation of pain and can respond to it, such as by pulling their hand away from a hot surface.</para>
+<para id="para-00012">Another major player in nociception is the immune system, which is activated when tissue is injured. Once inflammatory cytokines are released, the immune system is signaled to start recruiting immune cells, such as macrophages and neutrophils, to the site of injury. A complex cascade of chemical signaling is set in motion, including activation of the <term id="term-00020">cyclooxygenase</term> pathway, which leads to the characteristic hallmarks of inflammation: swelling, redness, and heightened sensations of pain.</para>
+</section>
+<section id="sect-00005">
+<title>Pain Threshold</title>
+<para id="para-00013">The <term id="term-00021">pain threshold</term> is the point at which someone perceives a stimulus to be painful. It is highly variable and unique to each person. Individuals can have different pain thresholds for a variety of reasons, including differences in genetic makeup, psychosocial support, and the neurochemicals that affect the modulation step of nociception, to name a few. The pain threshold can be affected by the use of nonpharmacologic strategies, including distraction techniques (e.g., meditation or listening to music), and pharmacologic agents such as nonopioid analgesics and opioid agonists.</para>
+<note class="special-considerations" id="note-00002">
+<para id="para-00014"><emphasis effect="bold">Pain in Various Populations</emphasis></para>
+<para id="para-00015">It is important to consider how biases may play a role in <term class="no-emphasis" id="term-00022">pain assessment</term> of clients from various racial and social backgrounds. Researchers have found that health care providers often carry implicit biases that may cause them to underestimate pain in clients due to false perceptions of physiologic differences between people of different ethnicities. These biases can lead to undertreatment of these clients and cause unnecessary pain and suffering. In addition, clients driven to self-medicate because of untreated pain may be at risk for medication abuse and addiction.</para>
+<para id="para-00016">One example of such bias is that <term class="no-emphasis" id="term-00023">Black clients</term> often have their pain underestimated and undertreated due to a variety of false beliefs about physiologic differences between different racial groups. This is why education of health care professionals at all levels is necessary to root out these false assumptions.</para>
+<para id="para-00017">(Source: Schoenthaler &amp; Williams, 2022)</para>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>acute pain</term> <meaning>pain that is sudden in onset and is expected to last less than 1 month</meaning></definition>
+<definition id="def-00002"><term>chronic pain</term> <meaning>pain persisting longer than 3 months</meaning></definition>
+<definition id="def-00003"><term>conduction</term> <meaning>the process of converting chemical signals into electrical signals to be carried by nerves</meaning></definition>
+<definition id="def-00004"><term>cyclooxygenase</term> <meaning>an enzyme responsible for the production of several inflammatory cytokines, including prostaglandins</meaning></definition>
+<definition id="def-00005"><term>cytokines</term> <meaning>proteins that regulate inflammation in immune responses</meaning></definition>
+<definition id="def-00006"><term>modulation</term> <meaning>the process of enhancing or inhibiting a painful signal before it reaches the brain</meaning></definition>
+<definition id="def-00007"><term>neuropathic pain</term> <meaning>pain that originates in the peripheral or central nervous system</meaning></definition>
+<definition id="def-00008"><term>nociception</term> <meaning>the processing of noxious stimuli by both the peripheral and central nervous system</meaning></definition>
+<definition id="def-00009"><term>nociceptive pain</term> <meaning>pain that occurs because of tissue injury</meaning></definition>
+<definition id="def-00010"><term>nociceptors</term> <meaning>specialized nerves that respond to painful stimuli</meaning></definition>
+<definition id="def-00011"><term>pain</term> <meaning>an unpleasant sensory and emotional experience associated with actual or potential tissue damage</meaning></definition>
+<definition id="def-00012"><term>pain threshold</term> <meaning>the point at which a stimulus is perceived as painful</meaning></definition>
+<definition id="def-00013"><term>perception</term> <meaning>the point at which the brain receives a painful signal</meaning></definition>
+<definition id="def-00014"><term>referred pain</term> <meaning>deep visceral pain that causes pain elsewhere in the body (e.g., pancreatic injury that causes back pain, myocardial infarction that causes jaw and shoulder pain)</meaning></definition>
+<definition id="def-00015"><term>substance P</term> <meaning>a neurotransmitter that enhances pain perception</meaning></definition>
+<definition id="def-00016"><term>transduction</term> <meaning>the initial activation of nociceptors</meaning></definition>
+<definition id="def-00017"><term>transmission</term> <meaning>the process of carrying a painful signal from the peripheral nervous system to the brain</meaning></definition>
+</glossary>
 </document>
