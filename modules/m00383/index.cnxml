@@ -112,9 +112,9 @@
         <colspec colnum="3" colname="c3" colwidth="1*"/>
        <thead>   
       <row>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Primary Target to Decrease*</span></emphasis></entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Classes or Drugs</span></emphasis></entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Mechanism</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Primary Target to Decrease*</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Classes or Drugs</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Mechanism</span></emphasis></entry>
       </row>
        </thead>
        <tbody>
