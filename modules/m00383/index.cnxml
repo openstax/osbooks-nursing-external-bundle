@@ -17,7 +17,7 @@
     <section id="sect-00002">
     <section id="sect-00003">
     <title>Understanding Lipids</title>
-    <para id="para-00002"><term id="term-00001">Triglycerides</term> are the main dietary source of fat. They are composed of three long fatty acid chains attached to a glycerol backbone, as depicted in [link]Figure 21.2[/link]. The major sterol in the body is cholesterol. <term id="term-00002">Cholesterol</term> is important for the structure of cell membranes and for the production of hormones, bile acids, and vitamin D.</para>
+    <para id="para-00002"><term id="term-00001">Triglycerides</term> are the main dietary source of fat. They are composed of three long fatty acid chains attached to a glycerol backbone, as depicted in <link target-id="fig-00001" document="m00383"/>. The major sterol in the body is cholesterol. <term id="term-00002">Cholesterol</term> is important for the structure of cell membranes and for the production of hormones, bile acids, and vitamin D.</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="A diagram shows how triglycerides are a combination of glycerol and fatty acids. The molecular chain is shown for glycerol, fatty acids, and triglycerides.">
     <image mime-type="image/jpeg" src="../../media/PHA_Figure_21_01_002.png"/></media>
@@ -42,7 +42,7 @@
     <para id="para-00006">VLDL is predominantly composed of triglycerides, whereas LDL-cholesterol and HDL-cholesterol are richer in cholesterol. Triglycerides carried by VLDL and LDL-cholesterol are mediators of <term id="term-00014">atherosclerosis</term> development. Atherosclerosis refers to the formation of fatty material, called plaques, on inner arterial walls. It can lead to coronary artery disease, myocardial infarction, ischemic stroke, and peripheral artery disease. Therefore, LDL-cholesterol is often called “bad cholesterol.” HDL-cholesterol, on the other hand, is often called “good cholesterol” because it does not contribute to atherosclerosis; in fact, it removes cholesterol from the blood (Grundy et al., 2019).</para>
     <para id="para-00007">Lipid levels in the blood are monitored using a blood test called a lipid panel. A lipid panel measures LDL-cholesterol, HDL-cholesterol, and triglycerides. It also measures the total cholesterol level. In most cases, the LDL-cholesterol level on a lipid panel is calculated using the Friedewald formula, shown below (Friedewald, 1972). Note that all of the values must be measured in milligrams per deciliter (mg/dL).</para>
     <para id="para-00008"><m:math><m:mrow><m:mi>L</m:mi><m:mi>D</m:mi><m:mi>L</m:mi> <m:mi>C</m:mi><m:mi>h</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>s</m:mi><m:mi>t</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>l</m:mi> <m:mo>=</m:mo> <m:mi>T</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi> <m:mi>C</m:mi><m:mi>h</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>s</m:mi><m:mi>t</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>l</m:mi> <m:mo>−</m:mo> <m:mi>H</m:mi><m:mi>D</m:mi><m:mi>L</m:mi> <m:mi>C</m:mi><m:mi>h</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>s</m:mi><m:mi>t</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>l</m:mi> <m:mo>−</m:mo> <m:mi>T</m:mi><m:mi>r</m:mi><m:mi>i</m:mi><m:mi>g</m:mi><m:mi>l</m:mi><m:mi>y</m:mi><m:mi>g</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>i</m:mi><m:mi>d</m:mi><m:mi>e</m:mi><m:mi>s</m:mi><m:mo lspace="0em" rspace="0em">⁄</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
-    <para id="para-00009">Optimal levels of cholesterol are subject to debate and depend on individual characteristics and cardiovascular risk. However, generally accepted optimal cholesterol levels are shown in [link]Table 21.1[/link].</para>
+    <para id="para-00009">Optimal levels of cholesterol are subject to debate and depend on individual characteristics and cardiovascular risk. However, generally accepted optimal cholesterol levels are shown in <link target-id="table-00001" document="m00383"/>.</para>
     
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="2">
@@ -94,7 +94,7 @@
     </note>
     <para id="para-00015">Because of this pathophysiology, hypercholesterolemia due to elevated LDL-cholesterol is an independent risk factor for heart disease. Lipid-lowering therapy that targets LDL-cholesterol is used to decrease the risk for CAD. The optimal target levels for LDL-cholesterol and specific treatment strategies recommended in national guidelines have changed over the last 15 years and continue to evolve; however, the role of LDL-cholesterol as an independent risk factor has not changed.</para>
     <para id="para-00016">Although triglycerides have been implicated in the development of atherosclerosis, treatment has not resulted in positive cardiovascular outcomes. Therefore, hypertriglyceridemia is generally not treated unless it is very severe. (greater than 500 mg/dL), which can put the individual at risk for pancreatitis.</para>
-    <para id="para-00017">HDL-cholesterol actually has a protective role against cardiovascular disease, and higher levels ([link]Table 21.1[/link]) are considered beneficial.</para>
+    <para id="para-00017">HDL-cholesterol actually has a protective role against cardiovascular disease, and higher levels (<link target-id="table-00002" document="m00383"/>) are considered beneficial.</para>
     <note class="link-to-learning" id="note-00004">
     <title>Cholesterol Guidelines</title>
     <media alt="atoms_isotopes">
@@ -102,7 +102,7 @@
     </media>
     <para id="para-00018">This video from <term class="no-emphasis" id="term-00023">JAMA Network</term> gives a quick overview of <term class="no-emphasis" id="term-00024">cholesterol management</term> according to the 2018 American College of Cardiology/American Heart Association guidelines. It provides some context on the changes from previous management recommendations.</para>
     </note>
-    <para id="para-00019">In general, lifestyle changes are considered the first-line therapy to treat dyslipidemia and prevent CAD. Many therapeutic drugs are also available. These drugs are listed in [link]Table 21.2[/link] and are the focus of the remainder of the chapter.</para>
+    <para id="para-00019">In general, lifestyle changes are considered the first-line therapy to treat dyslipidemia and prevent CAD. Many therapeutic drugs are also available. These drugs are listed in <link target-id="table-00002" document="m00383"/> and are the focus of the remainder of the chapter.</para>
     
     <table class="vertically-tight" id="table-00002">
     <title/>
@@ -161,7 +161,7 @@
     </row>
     </tbody>
       </tgroup>
-    <caption>Summary of Lipid-Lowering Drugs (*Only the primary target is shown; other effects on lipid parameters are not listed)[IR4] (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption>Summary of Lipid-Lowering Drugs (*Only the primary target is shown; other effects on lipid parameters are not listed) (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     
     
