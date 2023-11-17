@@ -6,8 +6,202 @@
     <md:uuid>f327c6d1-cbd0-4502-a6aa-0592bf11a053</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of antidiarrheal drugs used to treat gastrointestinal disorders.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of antidiarrheal drugs used to treat gastrointestinal disorders.</item>
+    <item>Describe nursing implications of antidiarrheal drugs used to treat gastrointestinal disorders.</item>
+    <item>Explain the client education related to antidiarrheal drugs used to treat gastrointestinal disorders.</item>
+    </list>
+    </section>
+    <para id="para-00002">Diarrhea involves frequent, loose, watery stools. Diarrhea can be acute (lasting 1–2 days, often due to microorganisms, viruses, or food intolerance) or chronic (lasting weeks, indicating underlying conditions like IBS or Crohn's disease) (Johns Hopkins Medicine, 2023). Symptoms may include abdominal distress, cramping, bloating, nausea, and urgency. Dehydration is a serious concern, and bloody stools should be reported. <term id="term-00001">Antidiarrheal</term> treatments aim to slow intestinal motility, but they should not be taken if signs of infection (fever, severe pain, bloody/mucus stool) are present, as they could allow pathogens to multiply. In these cases, it is important to contact the health care provider.</para>
+    <note class="clinical-tip" id="note-00001">
+    <title>Acute versus Chronic Diarrhea</title>
+    <para id="para-00003">Diarrhea is one of the most common complaints in the United States. Although the diarrheal stools of chronic versus acute diarrhea may appear similar, it is important to understand the different causes and complications of these two medical conditions. Read this <link url="https://openstax.org/r/giorgtopics">online article from the American College of Gastroenterology</link> to learn more.</para>
+    </note>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title><term class="no-emphasis" id="term-00002">Opioid-Related Antidiarrheal Medications</term></title>
+    <para id="para-00004">Opioid-related antidiarrheal medications activate opioid Mu-receptors in the GI tract to slow intestinal motility allowing more time for absorption of fluid and electrolytes by the colonic mucosal. Identifying the underlying cause of the diarrhea is recommended before treating it with an antidiarrheal agent. Caution should be exercised with opioid-related antidiarrheals because, if taken at high doses, clients may experience the typical opioid effects of euphoria or CNS depression. See [link]Table 30.3[/link].</para>
+    <section id="sect-00004">
+    <title>Diphenoxylate with Atropine Sulfate</title>
+    <para id="para-00005">Diphenoxylate is a synthetic narcotic that reduces intestinal movement by targeting opioid receptors, effectively stopping diarrhea. It also slightly reduces fluid and electrolyte secretion in the intestines, promoting drug absorption. However, unlike typical opioids, it lacks analgesic effects and does not affect the central nervous system (CNS) at recommended doses for diarrhea. However, when used at higher doses or over an extended period, it can lead to euphoria, sedation, and addiction, classifying it as a Schedule II drug under the Controlled Substance Act (CSA) when prescribed alone (National Library of Medicine, 2022). When combined with atropine sulfate, it produces anticholinergic side effects when higher doses are used and is classified as a Schedule V drug.</para>
+    <para id="para-00006">To prevent abuse, low doses of atropine, an anticholinergic, are added to diphenoxylate. Although this combination effectively manages diarrhea, atropine can lead to unpleasant side effects such as blurred vision, urinary retention, dry mouth, constipation, and tachycardia. The addition of atropine counteracts the potential euphoria from diphenoxylate, making the combination a Schedule V drug under the CSA. See [link]Table 30.4[/link] for additional information on diphenoxylate with atropine sulfate.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Loperamide</title>
+    <para id="para-00007">Loperamide is an effective antidiarrheal agent that prolongs transit time in the colon by directly inhibiting the peristatic activity of the circular and longitudinal muscles of the intestine, thereby decreasing intestinal fluid secretion into the intestinal lumen. This helps to increase the absorption of water and electrolytes in the intestines, resulting in firmer stools and a reduction in diarrhea.</para>
+    <para id="para-00008">Loperamide is often used for the symptoms of acute diarrhea, such as traveler’s diarrhea or viral gastroenteritis. It can also be used to manage chronic diarrhea associated with conditions like inflammatory bowel disease and irritable bowel syndrome.</para>
+    <note class="clinical-tip" id="note-00002">
+    <title>Dehydration</title>
+    <para id="para-00009">When administering antidiarrheals, the nurse should assess the client for signs and symptoms of dehydration by checking daily weights, skin turgor, and vital signs.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Adjuvant Antidiarrheals</title>
+    <para id="para-00010">Many clients experience diarrhea secondary to chemotherapeutic agents. Chemotherapy targets rapidly dividing cancer cells. However, chemotherapy often affects the cells within the gastrointestinal tract. Diarrhea caused by chemotherapy is referred to as chemotherapy-related diarrhea (CRD). Adjuvant antidiarrheals are often used for CRD to slow and manage the diarrhea (Krisnamurthi &amp; Macaron, 2022). See [link]Table 30.3[/link].</para>
+    <section id="sect-00007">
+    <title>Bismuth Subsalicylate</title>
+    <para id="para-00011">Bismuth subsalicylate (BSS) is an insoluble salt of salicylic acid and trivalent bismuth antidiarrheal that inhibits the synthesis of prostaglandins and cyclooxygenase that are responsible for inflammation and gastrointestinal motility. Bismuth subsalicylate works directly on the intestinal mucosa as a protective agent, decreasing intestinal secretions and possesses anti-infective properties for acute diarrhea. However, pending the suspicious organisms, targeted anti-infective therapy may be necessary.</para>
+    <para id="para-00012">BSS is commonly used for traveler’s diarrhea. It can also provide temporary relief for dyspepsia and is sometimes part of <emphasis effect="italics">Helicobacter pylori</emphasis> (<emphasis effect="italics">H. pylori</emphasis>) treatment alongside a proton pump inhibitor, tetracycline, and metronidazole due to its anti-inflammatory effects. BSS is available in various forms for oral administration. Chewable tablets should be crushed and taken with water. Shake liquid suspensions well before use.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Octreotide</title>
+    <para id="para-00013">Octreotide is a somatostatin analog primarily used for hyperpituitarism disorders, such as acromegaly. However, octreotide is an adjuvant antidiarrheal to treat several severe diarrheal conditions associated with carcinoid tumors, vasoactive intestinal polypeptide (VIP) tumors, gastrin-secreting tumors, and short bowel syndrome (Novartis, 2021). Octreotide is recommended for clients with chemotherapy-related diarrhea (CRD) that does not respond to loperamide (Krishnamurthi &amp; Macaron, 2022).</para>
+    <para id="para-00014">This long-acting octapeptide mimics somatostatin and suppresses the secretion of various hormones and peptides. Octreotide promotes fluids and electrolytes absorption in the GI tract, slowing down intestinal transit time.</para>
+    <para id="para-00015">Octreotide is available in capsule form for oral administration and as a parenteral solution for subcutaneous, intramuscular, or intravenous administration (DailyMed, <emphasis effect="italics">Octreotide acetate,</emphasis> 2023). The oral route is not indicated for the treatment of diarrhea (DailyMed, <emphasis effect="italics">Mycapssa,</emphasis> 2023). Clients who have responded well to octreotide injections may switch to intramuscular depot injections (i.e., in the buttocks), avoiding the deltoid muscle due to potential discomfort at the injection site (Novartis, 2021).</para>
+    </section>
+    <section id="sect-00009">
+    <title>Pancreatin</title>
+    <para id="para-00016">Pancreatin, a medication containing porcine digestive enzymes, is used when the pancreas cannot produce essential enzymes (lipase, amylase, and protease) that are required for proper digestion of fats, carbohydrates, and proteins. Incomplete digestion occurs with deficient pancreatic enzymes levels and may cause excessive diarrhea. Pancreatic enzymes are sometimes used as a secondary treatment in conditions with excessive diarrhea.</para>
+    <para id="para-00017">Pancreatin is an oral medication available by prescription as a tablet or capsule or over the counter as a dietary supplement. As a digestive enzyme, pancreatin is always taken with food and with a full glass of water. Pancreatin should be immediately swallowed whole to avoid irritation to the oral mucosa. It cannot be crushed or chewed. To be effective, pancreatin must be taken consistently for the best results.</para>
+    <para id="para-00018">[link]Table 30.3[/link] lists common antidiarrheals and typical routes and dosing for adult clients.</para>
+          <table class="vertically-tight" id="table-00001">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Opioid Related Antidiarrheals</emphasis></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Diphenoxylate with atropine</term><newline/>
+    (<term class="no-emphasis" id="term-00004">Lomotil)</term></entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Oral (each tablet contains 2.5 mg diphenoxylate hydrochloride and 0.025 mg of atropine sulfate)</emphasis>: 2 tablets 4 times daily. Maximum dose: 20 mg of diphenoxylate per day.<newline/>
+    After initial control has been achieved, dosage may be reduced. If symptom relief is not observed within 10 days, discontinue use because symptoms are unlikely to be controlled by further use.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Loperamide</term><newline/>
+    (<term class="no-emphasis" id="term-00006">Imodium</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 4 mg after the first loose stool, 2 mg after each subsequent loose stool, but no more than 8 caplets in 24 hours.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Adjuvant Antidiarrheals</emphasis></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Bismuth subsalicylate</term><newline/>
+    (<term class="no-emphasis" id="term-00008">Pepto Bismol, Kaopectate</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 524 mg every 30–60 minutes as needed; no more than 8 doses in 24 hours.</entry>
+    </row>
+    <row>      
+    <entry><term class="no-emphasis" id="term-00009">Octreotide</term><newline/>
+    (<term class="no-emphasis" id="term-00010">Sandostatin</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Subcutaneous:</emphasis> 200–300 mcg per day in 2–4 divided doses for 2 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Pancreatin</term><newline/>
+    (<term class="no-emphasis" id="term-00012">Creon, Pancrelipase</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 5 granules 3 times daily or as recommended by the health care provider.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Antidiarrheals (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Adverse Effects and Contraindications </title>
+    <para id="para-00019">Typical adverse effects of common antidiarrheals include constipation, nausea and vomiting, dry mouth, dizziness, drowsiness, and changes in bowel habits including the passage of harder or less-frequent stools. Antidiarrheals should be usedcautiously with monoamine oxidase inhibitors (MAOIs) and CNS depressants.</para>
+    <para id="para-00020">Use of diphenoxylate hydrochloride with atropine sulfate in higher doses than prescribed may lead to opioid and or <term id="term-00013">anticholinergic effects</term> such as hyperthermia, flushing, tachycardia, hypotonia, lethargy, hallucinations, and repiratory depression.</para>
+    <para id="para-00021">Contraindications for antiemetics include hypersensitivity to the drug or any of its components.</para>
+    <para id="para-00022">[link]Table 30.4[/link] is a prototype table for antidiarrheals featuring diphenoxylate with atropine sulfate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Antidiarrheal<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Reduces peristaltic activity and motility by inhibiting mucosal receptors responsible for peristatic reflexes thereby stopping or reducing diarrhea</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    <emphasis effect="italics">Oral (each tablet contains 2.5 mg diphenoxylate hydrochloride and 0.025 mg of atropine sulfate):</emphasis> 2 tablets 4 times daily. Maximum dose: 20 mg of diphenoxylate per day. <newline/>
+    After initial control has been achieved, dosage may be reduced. If symptom relief is not observed within 10 days, discontinue use as symptoms are unlikely to be controlled by further use.</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Adjunctive therapy in management of diarrhea<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Reduces or stops diarrhea</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    MAO inhibitors<newline/>
+    CNS depressants <newline/>
+    Alcohol<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    No significant food interactions</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Drowsiness<newline/>
+    Sedation<newline/>
+    Dry mouth<newline/>
+    Urinary retention<newline/>
+    Constipation<newline/>
+    Blurred vision<newline/>
+    Nausea/vomiting<newline/>
+    Miosis (pupil constriction)<newline/>
+    Headache<newline/>
+    Dizziness<newline/>
+    Nervousness<newline/>
+    Paralytic ileus (impairment of the motor activity of the bowel)</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity to diphenoxylate or atropine<newline/>
+    Diarrhea associated pseudomonas enterocolitis<newline/>
+    Obstructive jaundice<newline/>
+    Pediatric clients under age 6<newline count="2"/>
+    Caution:<newline/>
+    May cause atropinism; monitor for hyperthermia, tachycardia, flushing, and dry mucous membranes</entry></row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Diphenoxylate with Atropine Sulfate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00011">
+    <title>Nursing Implications</title>
+    <para id="para-00023">The nurse should do the following for clients who are taking antidiarrheals:</para>
+    <list id="list-00002">
+    <item>Prior to administering, assess the client’s medical history, current drug list, and allergies.</item>
+    <item>Educate the client regarding adverse effects, such as constipation, urinary retention, blurred vision, drowsiness, and dizziness.</item>
+    <item>Mointor vital signs and for signs of dehydration such as poor skin turgor, reduced or dark urine, tachycardia, and dry mucous membranes..</item>
+    <item>Monitor urine input and output for urinary retention.</item>
+    <item>Initiate fall precautions due to the adverse effects of drowsiness and dizziness.</item>
+    <item>Provide oral care and lozenges or saliva substitute for dry mouth.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00003">
+    <para id="para-00024"><emphasis effect="bold">The client taking an antidiarrheal should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Use sugarless candy, gum, or a saliva substitute for dry mouth, because this is a normal side effect of these drugs.</item>
+    <item>Report adverse effects such as blurred vision, dry mouth, drowsiness, or constipation to the health care provider.</item>
+    <item>Report signs of abdominal distention, severe abdominal pain, fever, palpitations, or bloody diarrhea to the health care provider immediately, as these may represent serious adverse effects.</item>
+    </list>
+    <para id="para-00025"><emphasis effect="bold">The client taking an antidiarrheal <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Use caffeine products during diarrhea episodes, as caffeine increases GI motility.</item>
+    <item>Drive or operate heavy machinery, because these drugs may cause drowsiness or dizziness.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    </content>
+    <glossary>
+      <definition id="def-00001"><term> anticholinergic effects</term> <meaning>common effects such as dry mouth, dry eyes, blurred vision, urinary retention, constipation, and cognitive dysfunction resulting from the blockade of cholinergic receptors</meaning></definition>
+      <definition id="def-00002"><term> antidiarrheals</term> <meaning>medications used to treat and manage diarrhea</meaning></definition>
+      </glossary>
 </document>

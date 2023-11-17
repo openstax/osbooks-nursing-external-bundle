@@ -6,8 +6,11 @@
     <md:uuid>2bab73be-0a65-4067-90ae-16bcf8accfa0</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="The digestive system, with the stomach, liver, pancreas, large and small intestines, and rectum illustrated.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit08_29_32_001_Splash.jpg"/></media>
+    <caption>The digestive system breaks down food into nutrients that can be absorbed into the bloodstream to give the body energy and the ability to grow and repair itself. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00001">The normal function of the <term class="no-emphasis" id="term-00001">gastrointestinal (GI) system</term> is regulated and controlled by the central nervous system. The parasympathetic and sympathetic nervous systems play a role in gastrointestinal muscle movements, tone, motility, and mucosal secretions, especially in the stomach and esophagus. The nature of the gastrointestinal and neuronal relationships makes the GI system susceptible to conditions causing symptoms such as nausea, vomiting, diarrhea, and constipation. In this chapter, drugs used to treat and manage these symptoms will be discussed.</para>
+    </content>
 </document>
