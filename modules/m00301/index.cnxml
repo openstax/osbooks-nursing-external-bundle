@@ -6,8 +6,14 @@
     <md:uuid>27294adb-5304-4bc8-853a-3e08a759db94</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="An iridescent illustration shows cells clustered together.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit03_06_08_001_Splash.jpg"/></media>
+    <caption>The immune system is a complex network of cells, tissues, and organs that work together to protect the body from harmful substances, such as pathogens. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00001">The <term id="term-00001">immune system</term> is an intricate defense mechanism that protects the human body from diseases and infection. It uses antibodies and white blood cells to combat foreign invaders such as bacteria and viruses. Maintaining a healthy immune system is essential for overall well-being and resilience against potential harm. This section of the chapter will discuss the immune system and its function, explain antigen-antibody interactions, and compare antibody-mediated and cell-mediated immunity.</para>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>immune system</term> <meaning>a complex network of cells, tissues, and organs that work together to defend the body against infections, diseases, and foreign substances</meaning></definition>
+    </glossary>
 </document>
