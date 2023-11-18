@@ -6,8 +6,356 @@
     <md:uuid>66e16b9d-ee79-4335-9bb3-0191c2d0fb08</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of antihistamines, decongestants, and cerumenolytic drugs used to treat ear disorders.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of antihistamines, decongestants, and cerumenolytic drugs used to treat ear disorders.</item>
+<item>Describe nursing implications of antihistamines, decongestants, and cerumenolytic drugs used to treat ear disorders.</item>
+<item>Explain the client education related to antihistamines, decongestants, and cerumenolytic drugs used to treat ear disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Antihistamines</title>
+<para id="para-00002"><term id="term-00001">Antihistamines</term> decrease congestion of mucous membranes, which might decrease corresponding obstruction of tubes within the ear. Antihistamines are used primarily to treat allergies and manage symptoms related to upper respiratory infections. Selected first-generation antihistamines are included here. Please refer to <link document="m00395">Upper Respiratory Drugs</link> for a more detailed review of antihistamine medications.</para>
+<para id="para-00003">[link]Table 39.6[/link] lists common <term class="no-emphasis" id="term-00002">antihistamines for ear disorders</term> and typical routes and dosing for adult and <term class="no-emphasis" id="term-00003">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Chlorpheniramine maleate</term><newline/>
+(<term class="no-emphasis" id="term-00005">Chlor-Trimeton</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children >12 years:</emphasis> 1 4-mg tablet orally every 4–6 hours as needed. Maximum dose: 6 tablets/day.<newline/>
+<emphasis effect="italics">Children 6–12 years:</emphasis> 1 4-mg tablet every 4–6 hours. Maximum dose: 3 tablets/day.<newline/>
+<emphasis effect="italics">Children &lt;6 years:</emphasis> Do not use.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Cetirizine hydrochloride</term><newline/>
+(<term class="no-emphasis" id="term-00007">Zyrtec</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children >6 years:</emphasis> 10 mg once daily; do not take more than 10 mg in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Diphenhydramine</term><newline/>
+(<term class="no-emphasis" id="term-00009">Benadryl</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children >12 years:</emphasis> 25–50 mg orally every 4–6 hours as needed. Maximum of 6 doses in 24 hours.<newline/>
+<emphasis effect="italics">Children 6–12 years:</emphasis> 25 mg orally every 6 hours as needed not to exceed 4 doses in 24 hours.<newline/>
+<emphasis effect="italics">Children &lt;6 years:</emphasis> Do not use.</entry>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Loratadine</term><newline/>
+(<term class="no-emphasis" id="term-00011">Claritin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children >6 years:</emphasis> 10 mg once daily; do not take more than 10 mg in 24 hours.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antihistamines</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00004">The use of antihistamines in clients with hypertension can further increase blood pressure. Clients at risk for cardiac dysrhythmia, such as a prolonged QT interval on an electrocardiogram, should communicate with their provider before taking a first-generation antihistamine like diphenhydramine due to potential proarrhythmic effects (Williamson, 2022). Since antihistamines have a drying effect, clients with glaucoma and urinary retention should avoid taking an antihistamine. Antihistamines exacerbate the sedating effects of tranquilizers and alcohol, which can lead to respiratory depression and injuries from falls. Due to antihistamines’ blocking effects on acetylcholine, they can also cause constipation.</para>
+<para id="para-00005">[link]Table 39.7[/link] is a drug prototype table for <term class="no-emphasis" id="term-00012">first-generation antihistamines</term> featuring diphenhydramine. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00013">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Antihistamine<newline/>
+<emphasis effect="bold">Mechanism of Action</emphasis><newline/>
+Stops chemicals in the immune system that trigger allergy-related symptoms</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Adults and children >12 years:</emphasis> 25–50 mg orally every 4–6 hours as needed. Maximum of 6 doses in 24 hours.<newline/>
+<emphasis effect="italics">Children 6–12 years:</emphasis> 25 mg orally every 6 hours as needed not to exceed 4 doses in 24 hours.<newline/>
+<emphasis effect="italics">Children &lt;6 years:</emphasis> Do not use.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+For the treatment of symptoms associated with the common cold or allergic rhinitis including sneezing, rhinorrhea, itching of the nose or throat, and itchy, watery eyes<newline count="2"/>
+<emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+Temporary relief of rhinitis, sneezing, itchy eyes, nose, or throat due to upper respiratory inflammation</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Sedatives and tranquilizers with sedative effects<newline/>
+Alcohol<newline count="2"/>
+<emphasis effect="bold">Food Interactions</emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Drowsiness<newline/>
+Dry mouth<newline/>
+Dizziness<newline/>
+Headache<newline/>
+Constipation</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypertension<newline/>
+Cardiovascular arrhythmia<newline/>
+History of glaucoma<newline/>
+Urinary retention<newline count="2"/>
+Caution:<newline/>
+Operating a motor vehicle or machinery
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Diphenhydramine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00005">
+<title>Nursing Implications</title>
+<para id="para-00006">The nurse should do the following for clients who are taking antihistamines:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Monitor the client for potential side effects including drowsiness or oversedation.</item>
+<item>Educate the client to refrain from driving or operating machinery while taking these medications because they can cause drowsiness and impair cognitive function.</item>
+<item>Educate the client to guard against potential constipation by increasing fiber and fluid intake.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00001">
+<para id="para-00007"><emphasis effect="bold">The client taking an antihistamine should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Be aware that antihistamines can cause drowsiness.</item>
+<item>Keep fluids or hard candy on hand to manage symptoms of dry mouth.</item>
+<item>Maintain adequate fiber and fluid intake to reduce likelihood of experiencing constipation.</item>
+</list>
+<para id="para-00008"><emphasis effect="bold">The client taking an antihistamine <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Drive or operate machinery when feeling drowsy.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00006">
+<title>Decongestants</title>
+<para id="para-00009"><term id="term-00014">Decongestants</term> are medications that shrink swollen blood vessels and tissues in the nose to reduce nasal congestion, which can facilitate drainage to relieve ear congestion. They can be used to manage symptoms of an upper respiratory illness or prophylactically when flying to decrease discomfort associated with changes in air pressure. These medications should be used with caution in clients with a history of heart disease, thyroid disorder, diabetes, or hypertension. Alternatives include using saline nasal spray, room humidification, or being in a room with a hot shower running that creates a steamy environment. (For more detailed information on decongestants, please see <link document="m00395">Upper Respiratory Drugs</link>.)</para>
+<section id="sect-00007">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00010">Decongestants should be avoided in clients who have a history of hypertension or heart disease because these medications can raise blood pressure and stimulate the heart. They can increase intraocular pressure in clients who have glaucoma; particularly among clients with benign prostatic hypertrophy, decongestants can inhibit the ability to void.</para>
+<para id="para-00011">[link]Table 39.8[/link] is a drug prototype table for decongestants featuring <term class="no-emphasis" id="term-00015">pseudoephedrine</term> (<term class="no-emphasis" id="term-00016">Sudafed</term>). It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00017">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Nasal decongestant<newline count="2"/>
+<emphasis effect="bold">Mechanism of Action</emphasis><newline/>
+Indirectly stimulates alpha-adrenergic receptors, causing vasoconstriction</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="bold">Regular-release tablets or liquid-filled capsules:</emphasis><newline/>
+<emphasis effect="italics">Adults and children >12 years:</emphasis> 60 mg orally every 4–6 hours; maximum dose: 240 mg daily.<newline/>
+<emphasis effect="italics">Children 6–11 years:</emphasis> 30 mg orally every 4–6 hours; maximum dose: 120 mg daily.<newline/>
+<emphasis effect="bold">12-hour extended-release tablets:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 120 mg orally (1 tablet) every 12 hours; maximum dose: 240 mg daily.<newline/>
+<emphasis effect="bold">24-hour extended-release tablets:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 240 mg orally every 24 hours; maximum dose: 240 mg daily.<newline/>
+<emphasis effect="bold">Oral solution containing 15 mg or 30 mg pseudoephedrine per 5 mL:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 60 mg orally every 4–6 hours; maximum dose: 240 mg daily.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+For temporary relief of sinus congestion and pressure<newline/>
+For temporary relief of nasal congestion due to a cold or other upper respiratory allergies<newline count="2"/>
+<emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+Eases discomfort and allergy symptoms</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Monoamine oxidase inhibitors (MAOIs)<newline count="2"/>
+<emphasis effect="bold">Food Interactions</emphasis><newline/>
+No significant interactions
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Insomnia<newline/>
+Anxiety<newline/>
+Elevated blood pressure<newline/>
+Elevated glucose<newline/>
+Increased intraocular pressure<newline/>
+Worsening glaucoma</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Heart disease<newline/>
+Hypertension<newline/>
+Thyroid disease<newline/>
+Diabetes<newline/>
+Urinary retention due to enlarged prostate gland
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Pseudoephedrine</emphasis> (sources: https://dailymed.nlm.nih.gov/dailymed/; Głowacka &amp; Wiela-Hojenska, 2021)</caption>
+</table>
+</section>
+<section id="sect-00008">
+<title>Nursing Implications</title>
+<para id="para-00012">The nurse should do the following for clients who are taking decongestants:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Monitor the client’s blood pressure, especially if they have a history of hypertension, and report elevated readings to the provider.</item>
+<item>Monitor the client’s blood glucose levels if the client has diabetes and report elevated readings to the provider.</item>
+<item>Be aware that decongestants can raise intraocular pressure. This can be especially concerning for clients with glaucoma. Assess the client for any visual changes, eye pain or irritation, or headache. Report any findings to the provider.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00013"><emphasis effect="bold">The client taking a decongestant should:</emphasis></para>
+<list list-type="bulleted" id="list-00006">
+<item>Talk to their health care provider before starting a decongestant, especially if underlying health conditions exist.</item>
+<item>Check their blood pressure while taking decongestants if they have prehypertension/hypertension.</item>
+<item>Monitor their blood glucose levels while taking decongestants if they have prediabetes/diabetes.</item>
+<item>If they have glaucoma, check with their ophthalmologist about decongestant use and report any visual changes, eye pain, or headache.</item>
+<item>Take decongestants for the shortest amount of time possible and do not take multiple decongestants from different decongestant classes.</item>
+<item>Clients taking monoamine oxidase inhibitors (MAOI) and decongestants can experience hypertensive crisis (Edinoff et al., 2022).</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00009">
+<title>Otic Cerumenolytics</title>
+<para id="para-00014">Typically, the body naturally expels earwax; however, sometimes a buildup occurs requiring the administration of medication to facilitate its removal. A commonly prescribed <term id="term-00018">cerumenolytic</term> is <term class="no-emphasis" id="term-00019">carbamide peroxide</term> (<term class="no-emphasis" id="term-00020">Debrox</term>). The drops work by releasing oxygen to soften and encourage spontaneous extrusion of cerumen. They also have a weak antibacterial effect.</para>
+<para id="para-00015">[link]Table 39.9[/link] is a drug prototype table for <term class="no-emphasis" id="term-00021">otic cerumenolytics</term> featuring carbamide peroxide. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00022">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+Otic cerumenolytic<newline count="2"/>
+<emphasis effect="bold">Mechanism of Action</emphasis><newline count="2"/>
+Contains peroxide, which creates foaming that softens and breaks apart the wax</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline count="2"/>
+<emphasis effect="italics">Adults and children >12 years:</emphasis> 5–10 drops of the 6.5% solution in ear twice daily for up to 4 days.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="2"/>
+To soften and encourage spontaneous extrusion of cerumen<newline count="2"/>
+<emphasis effect="bold">Therapeutic Effects</emphasis><newline count="2"/>
+Facilitates ear wax removal</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+No significant interactions<newline count="2"/>
+<emphasis effect="bold">Food Interactions</emphasis><newline count="2"/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline count="2"/>
+Ear discomfort<newline/>
+Transient loss of hearing<newline/>
+Dizziness<newline/>
+Local irritation</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="2"/>
+Ear infection<newline/>
+Ear pain<newline/>
+Ear rash<newline/>
+Recent ear surgery<newline/>
+Eardrum dysfunction
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Carbamide Peroxide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00010">
+<title>Nursing Implications</title>
+<para id="para-00016">The nurse should do the following for clients who are taking an otic cerumenolytic:</para>
+<list list-type="bulleted" id="list-00007">
+<item>Educate clients about the benefits of ear wax and how the ear is a self-cleaning organ.</item>
+<item>Examine the client’s ears before treatment for any evidence of drainage or other symptoms that would prevent safe administration. Consult with the provider if concerning finding are present.</item>
+<item>Examine the client’s ears after treatment using an otoscope to determine effectiveness of treatment. If no results are obtained, notify the provider for further evaluation.</item>
+<item>After administering the medication, any remaining wax can be removed by gentle irrigation with warm water.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00017"><emphasis effect="bold">The client taking an otic cerumenolytic should:</emphasis></para>
+<list list-type="bulleted" id="list-00008">
+<item>Use in consultation with their provider.</item>
+<item>Pull the pinna in an upward fashion to instill drops.</item>
+<item>Remain in a lying position for 5 minutes after instillation.</item>
+<item>Report ear discomfort, dizziness, or local discomfort.</item>
+</list>
+<para id="para-00018"><emphasis effect="bold">The client taking an otic cerumenolytic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00009">
+<item>Instill cerumenolytic drops after recent ear surgery or if there is eardrum dysfunction.</item>
+</list>
+</note>
+</section>
+</section>
+</section>
+<section id="sect-00011">
+<title>Chapter Summary</title>
+<para id="para-00019">This chapter provided an overview of the structure and functions of the ear, along with an exploration of various medications used to treat ear-related issues. The ear is a complex organ divided into three main parts: the outer ear, middle ear, and inner ear. The outer ear includes the pinna and ear canal, responsible for collecting and transmitting sound waves. The middle ear contains the ossicles (small bones), which amplify sound, and the inner ear houses the cochlea, responsible for converting sound into electrical signals sent to the brain.</para>
+<para id="para-00020">Several types of medications related to ear ailments were discussed. Otic anti-inflammatories are used to reduce inflammation and relieve pain in the ear, particularly for conditions like otitis externa. Anti-infectives are essential in treating ear infections by targeting bacteria or fungi causing the issue. Oral antihistamines help alleviate allergy-related ear symptoms, such as itching and congestion. Decongestants are used to reduce swelling and congestion in the Eustachian tube, aiding in the treatment of middle ear problems. Lastly, cerumenolytics are agents designed to soften and loosen earwax (cerumen) buildup, facilitating its safe removal from the ear canal.</para>
+</section>
+<section class="review-questions" id="sect-00012">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec03_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec01_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec01_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00025"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00026"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec02_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec03_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch39_Sec01_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00013">
+<para id="para-00031">Bode, S. (2020). <emphasis effect="italics">Otitis media</emphasis>. American Academy of Pediatrics. https://doi.org/10.1542/aap.ppcqr.396207</para>
+<para id="para-00032">Bowatte, G., Tham, R., Allen, K. J., Tan, D. J., Lau, M. X., Dai, X., &amp; Lodge, C. J. (2015). Breastfeeding and childhood acute otitis media: A systematic review and meta-analysis. <emphasis effect="italics">Acta Paediatrica, 104</emphasis>, pp. 85–95. https://doi.org/10.1111/apa.13151</para>
+<para id="para-00033">Bruschini, L., Berrettini, S., Christina, C., Ferranti, S., Fabiani, S., Cavezza, M., Forli, F., Santoro, A., &amp; Tagliaferri, E. (2019). Extensive skull base osteomyelitis secondary to malignant otitis externa. <emphasis effect="italics">Journal of International Advanced Otology, 15</emphasis>(3), 463–465. doi: 10.5152/iao.2019.5406. PMID: 30924772; PMCID: PMC6937192.</para>
+<para id="para-00034">Cândido, E. S., Affonseca, F., Cardoso, M. H., &amp; Franco, O. L. (2020). Echinocandins as biotechnological tools for treating <emphasis effect="italics">Candida auris</emphasis> infections. <emphasis effect="italics">Journal of Fungi (Basel), 6</emphasis>(3), 185. doi: 10.3390/jof6030185. PMID: 32971857; PMCID: PMC7558506.</para>
+<para id="para-00035">Casale, J., Browne, T., Murray, I. V., &amp; Gupta, G. (2023). <emphasis effect="italics">Physiology, vestibular system</emphasis>. StatPearls https://www.ncbi.nlm.nih.gov/books/NBK532978/</para>
+<para id="para-00036">Centers for Disease Control and Prevention. (2023a). <emphasis effect="italics">Candida auris</emphasis>. https://www.cdc.gov/fungal/candida-auris/index.html</para>
+<para id="para-00037">Centers for Disease Control and Prevention. (2023b). <emphasis effect="italics">Increasing threat of spread of antimicrobial-resistant fungus in healthcare facilities</emphasis>. https://www.cdc.gov/media/releases/2023/p0320-cauris.html</para>
+<para id="para-00038">Cleveland Clinic. (2022a). <emphasis effect="italics">Ruptured eardrum (acutely perforated tympanic membrane)</emphasis>. https://my.clevelandclinic.org/health/diseases/15581-ruptured-eardrum-acutely-perforated-tympanic-membrane</para>
+<para id="para-00039">Cleveland Clinic. (2022b). <emphasis effect="italics">Tinnitus</emphasis>. https://my.clevelandclinic.org/health/diseases/14164-tinnitus</para>
+<para id="para-00040">DailyMed. (Updated November 4, 2022). <emphasis effect="italics">Amoxicillin – amoxicillin capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42f935ca-45ba-4b3e-8b40-9b2d4eb56281</para>
+<para id="para-00041">DailyMed. (Updated December 20, 2022). <emphasis effect="italics">Amoxicillin 500 MG – amoxicillin capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f049551b-4708-eb13-e053-2a95a90afd1f</para>
+<para id="para-00042">DailyMed. (Updated August 19, 2022). <emphasis effect="italics">Amoxil – amoxicillin oral susp powder, for suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec7dd735-dc92-3d29-e053-2a95a90af549</para>
+<para id="para-00043">DailyMed. (Updated March 21, 2023). <emphasis effect="italics">Augmentin – amoxicillin and clavulanate potassium for suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f55f61af-10f1-0e17-e053-2995a90adc43</para>
+<para id="para-00044">DailyMed. (Updated December 16, 2019). <emphasis effect="italics">Azithromycin – azithromycin monohydrate suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=071e71b8-bb53-4075-9bda-2ec48affa018</para>
+<para id="para-00045">DailyMed. (Updated December 2, 2022). <emphasis effect="italics">Careall loratadine – loratadine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4d952d2f-7766-4e64-8462-3fdff144546a</para>
+<para id="para-00046">DailyMed. (Updated June 29, 2022). <emphasis effect="italics">Cefdinir powder, for suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=efb5a975-75ec-46e1-ba84-f68d0b9bf36f</para>
+<para id="para-00047">DailyMed. (Updated March 24, 2023). <emphasis effect="italics">Childrens Sudafed PE nasal decongestant – phenylephrine hydrochloride solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4dfd46e4-b9f9-464d-aa47-e8fa9e526a5d</para>
+<para id="para-00048">DailyMed. (Updated March 29, 2023). <emphasis effect="italics">Chlorpheniramine maleate 4 mg – chlorpheniramine maleate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31dec627-f2e4-6dbe-e054-00144ff8d46c</para>
+<para id="para-00049">DailyMed. (Updated June 27, 2023). <emphasis effect="italics">Cipro HC – ciprofloxacin hydrochloride and hydrocortisone suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eff6ee40-6e52-4f61-b54d-edc612543f71</para>
+<para id="para-00050">DailyMed. (Updated March 1, 2020). <emphasis effect="italics">Ciprodex – ciprofloxacin and dexamethasone suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b4466c2-bd57-49dd-8957-74f22f70e913</para>
+<para id="para-00051">DailyMed. (Updated October 19, 2022). <emphasis effect="italics">Clemastine fumarate syrup</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63a3789a-8fe9-4149-8b7d-d7e6d32aadc5</para>
+<para id="para-00052">DailyMed. (Updated June 10, 2022). <emphasis effect="italics">Clemastine fumarate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14aaadca-7d86-47e8-8483-6e05d456949d</para>
+<para id="para-00053">DailyMed. (Updated January 11, 2022). <emphasis effect="italics">Debrox – carbamide peroxide liquid</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8d6f1769-eb44-4bde-b3fa-3ff4658b7dd1</para>
+<para id="para-00054">DailyMed. (Updated January 27, 2020). <emphasis effect="italics">Diphenhydramine hydrochloride capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef6b86cc-bfc5-4e74-a806-33de9a68ce45</para>
+<para id="para-00055">DailyMed. (Updated June 23, 2023). <emphasis effect="italics">Neomycin and polymyxin b sulfates and hydrocortisone otic suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=35768adc-b578-4c2e-b461-22de3135a789</para>
+<para id="para-00056">DailyMed. (Updated November 17, 2022). <emphasis effect="italics">Ofloxacin otic – ofloxacin solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8db221b1-32f3-f6ca-e404-71f56a860d08</para>
+<para id="para-00057">DailyMed. (Updated October 14, 2019). <emphasis effect="italics">Phenylephrine hydrochloride tablet, coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ced476d-81c4-42c1-af09-dfa771f94690</para>
+<para id="para-00058">DailyMed. (Updated April 18, 2023). <emphasis effect="italics">Pseudoephedrine HCl unit dose – pseudoephedrine HCl tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da95c643-7122-4025-977f-42205080e56b</para>
+<para id="para-00059">DailyMed. (Updated May 19, 2023). <emphasis effect="italics">Zyrtec allergy – cetirizine hydrochloride tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b165db38-b302-4220-8627-77cb07bb078c</para>
+<para id="para-00060">Danishyar, A., &amp; Ashurst, J. (2023). <emphasis effect="italics">Acute otitis media.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK470332/</para>
+<para id="para-00061">Edinoff, A. N., Swinford, C. R., Odisho, A. S., Burroughs, C. R., Stark, C. W., Raslan, W. A., Cornett, E. M., Kaye, A. M., &amp; Kaye, A. D. (2022). Clinically relevant drug interactions with monoamine oxidase inhibitors. <emphasis effect="italics">Health Psychology Research, 10</emphasis>(4):39576. doi: 10.52965/001c.39576. PMID: 36425231; PMCID: PMC9680847.</para>
+<para id="para-00062">Głowacka, K., &amp; Wiela-Hojeńska, A. (2021). Pseudoephedrine—benefits and risks. <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">22</emphasis>(10), 5146. https://doi.org/10.3390/ijms22105146</para>
+<para id="para-00063">Johns Hopkins Medicine. (n.d.). <emphasis effect="italics">Ear infection (otitis media</emphasis>). https://www.hopkinsmedicine.org/health/conditions-and-diseases/otitis-media</para>
+<para id="para-00064">Kim, S. H., Kim, D., Lee, J. M., Lee, S. K., Kang, H. J., &amp; Yeo, S. G. (2021). Review of pharmacotherapy for tinnitus. <emphasis effect="italics">Healthcare (Basel), 9</emphasis>(6), 779. doi: 10.3390/healthcare9060779. PMID: 34205776; PMCID: PMC8235102.</para>
+<para id="para-00065">Limb, C. J., Lustig, L. R., &amp; Durand, M. L. (2023). <emphasis effect="italics">Acute otitis media in adults</emphasis>. UpToDate. https://www.uptodate.com/contents/acute-otitis-media-in-adults/print</para>
+<para id="para-00066">Mayo Clinic. (2023, April 1). <emphasis effect="italics">Ofloxacin (otic route)</emphasis>. https://www.mayoclinic.org/drugs-supplements/ofloxacin-otic-route/proper-use/drg-20065162</para>
+<para id="para-00067">Medina-Blasini, Y., &amp; Sharman, T. (2023). <emphasis effect="italics">Otitis externa</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK556055</para>
+<para id="para-00068">National Institute on Deafness and Other Communication Disorders. (n.d.). <emphasis effect="italics">Tinnitus</emphasis>. https://www.nidcd.nih.gov/health/tinnitus</para>
+<para id="para-00069">Ramchandani, M. S., Litvack, J. R., &amp; Marra, C. M. (2020). Otosyphilis: A review of the literature. <emphasis effect="italics">Sexually Transmitted Diseases, 47</emphasis>(5), 296–300. doi: 10.1097/OLQ.0000000000001155. PMID: 32149965; PMCID: PMC8530448.</para>
+<para id="para-00070">Sevy, J. O., Hohman, M. H., &amp; Singh, A. (2023). <emphasis effect="italics">Cerumen impaction removal</emphasis>. StatPearls. https://www.ncbi.nlm.gov/books/NBK448155/?report=printable</para>
+<para id="para-00071">Tanna, R. J., Lin, J. W., &amp; DeJesus, O. (2023). <emphasis effect="italics">Sensorineural hearing loss</emphasis>. StatPearls. https://www.ncbi.nlm.gov/books/NBK565860/?report=printable</para>
+<para id="para-00072">UCSF Health. (n.d.). <emphasis effect="italics">Communicating with people with hearing loss</emphasis>. https://www.ucsfhealth.org/education/communicating-with-people-with-hearing-loss</para>
+<para id="para-00073">Wang, W., Peng, L., Han, X., Mao, X., Li, S., Wen, C., Liu, Q., Ni, G., &amp; Chen, T. (2020). New views on benign paroxysmal positional vertigo. <emphasis effect="italics">Journal of Bio-X Research, 3,</emphasis> 78–82. doi: 10.1097/JBR000000000000069</para>
+<para id="para-00074">Webster, K. E., Galbraith, K., Harrington-Benton, N. A., Judd, O., Kaski, D., Maarsingh, O. R., MacKeith, S., Ray, J., Van Vugt, V. A., &amp; Burton, M. J. (2023). Systemic pharmacological interventions for Ménière's disease. <emphasis effect="italics">Cochrane Database of Systematic Reviews, 2</emphasis>(2), CD015171. doi: 10.1002/14651858.CD015171.pub2. PMID: 36827524; PMCID: PMC9948543.</para>
+<para id="para-00075">Williamson, J. M. (2022). <emphasis effect="italics">Side effects of Benadryl: What you need to know</emphasis>. Healthline. https://www.healthline.com/health/drugs/benadryl-side-effects</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>antihistamine</term> <meaning>medication that relieves allergy symptoms, including stuffy nose and watery eyes</meaning></definition>
+<definition id="def-00002"><term>cerumenolytic</term> <meaning>a medication that softens and loosens ear wax to ease removal</meaning></definition>
+<definition id="def-00003"><term>decongestant</term> <meaning>a medication that shrinks swollen blood vessels and tissues in the nose to reduce nasal congestion and aid in relieving ear congestion</meaning></definition>
+</glossary>
 </document>
