@@ -1,732 +1,732 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Introduction to the Inflammatory Response and Anti-Inflammatory Drugs</title>
-  <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Introduction to the Inflammatory Response and Anti-Inflammatory Drugs</md:title>
-    <md:content-id>m00243</md:content-id>
-    <md:uuid>8410c9ac-3a95-4060-8b69-0a24913477e8</md:uuid>
-  </metadata>
-  <content>
-    <section class="learning-objectives" id="sect-00001">
-    <title>Learning Outcomes</title>
-    <para id="para-00001">By the end of this section, you should be able to:</para>
-    <list id="list-00001">
-    <item>Describe the pathophysiology of inflammation.</item>
-    <item>Discuss the five cardinal signs of inflammation.</item>
-    <item>Identify the etiology and diagnostic studies related to inflammation.</item>
-    <item>Identify the characteristics of drugs used to treat inflammation.</item>
-    <item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat inflammation.</item>
-    <item>Describe the nursing implications of drugs used to treat inflammation.</item>
-    <item>Explain the client education related to drugs used to treat inflammation.</item>
-    </list>
-    </section>
-    <para id="para-00002">Inflammation, the body’s complex response to harmful stimuli, plays an important role in the immune system’s defense against injury and infection. This section of the chapter explores mechanisms for inflammation and drugs used to treat inflammation.</para>
-    <section id="sect-00002">
-    <section id="sect-00003">
-    <title>Inflammation</title>
-    <para id="para-00003"><term id="term-00001">Inflammation</term> is a fundamental biological response that the body activates in response to harmful stimuli, such as pathogens, tissue injury, or irritants. It is a crucial part of the immune system's defense mechanism, designed to protect the body and initiate the healing process. Inflammation involves a series of intricate events and interactions among cells, chemicals, and blood vessels. When tissues are damaged or infected, various immune cells are recruited to the site of injury or infection (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022). The key players in the inflammatory response include:</para>
-    <list id="list-00002">
-    <item><emphasis effect="italics"><term class="no-emphasis" id="term-00002">Mast cells</term>:</emphasis> These cells are present in connective tissues and release substances such as histamine, which trigger blood vessels to dilate and become more permeable, leading to increased blood flow and leakage of fluid into the affected area.</item>
-    <item><emphasis effect="italics"><term class="no-emphasis" id="term-00003">White blood cells (leukocytes)</term>:</emphasis> Neutrophils and macrophages are the primary types of leukocytes involved in the inflammatory response. They migrate to the site of injury or infection to engulf and destroy invading pathogens and damaged cells.</item>
-    <item><emphasis effect="italics"><term class="no-emphasis" id="term-00004">Cytokines</term>:</emphasis> These are signaling molecules that help regulate the immune response and mediate communication between different cells. Pro-inflammatory cytokines, such as interleukin-1 (IL-1) and tumor necrosis factor-alpha (TNF-α), play a central role in initiating and amplifying the inflammatory process.</item>
-    <item><emphasis effect="italics"><term class="no-emphasis" id="term-00005">Chemokines</term>:</emphasis> These are a subgroup of cytokines that attract immune cells to the site of inflammation, promoting their migration and recruitment.</item>
-    <item>(Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022; Patel &amp; Mohiuddin, 2023)</item>
-    </list>
-    <para id="para-00004">There are five cardinal signs of inflammation that were first described by the Roman encyclopedist Celsus in the 1st century AD and are still widely recognized as classic indicators of an inflammatory response in the body (Cavaillon, 2021). These are (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022):</para>
-    <list id="list-00003">
-    <item><emphasis effect="italics">Redness (rubor):</emphasis> The affected area becomes red due to increased blood flow and dilation of blood vessels in response to inflammation. </item>
-    <item><emphasis effect="italics">Swelling (tumor):</emphasis> Swelling occurs as fluid and immune cells accumulate at the site of inflammation. </item>
-    <item><emphasis effect="italics">Heat (calor):</emphasis> Inflammation leads to increased blood flow and metabolic activity in the affected area, resulting in elevated temperature and warmth. </item>
-    <item><emphasis effect="italics">Pain (dolor):</emphasis> Inflammatory mediators sensitize nerve endings in the affected region, leading to pain. </item>
-    <item><emphasis effect="italics">Loss of function (functio laesa):</emphasis> In more severe cases of inflammation, the affected area may lose some or all of its normal function. This can occur due to the damage caused by the inflammation or the body's protective response to limit further harm.</item>
-    </list>
-    <section id="sect-00004">
-    <title>Pathophysiology </title>
-    <para id="para-00005">The body's <term id="term-00006"><emphasis effect="bold">inflammatory response</emphasis></term> is a complex and coordinated reaction aimed at defending against harmful stimuli and promoting tissue repair (Hannoodee &amp; Nasuruddin, 2022). When tissues are damaged, injured, or infected, various immune cells and chemical mediators work together to initiate and regulate the inflammatory process. The response can be triggered by various factors, including pathogens (e.g., bacteria, viruses), physical injury, toxins, or autoimmune reactions. The inflammatory response (see [link]Figure 6.4[/link]) presents as follows:</para>
-    <list id="list-00004">
-    <item><emphasis effect="italics">Recognition of harmful stimuli:</emphasis> The process begins when the body detects a threat, such as a pathogen or tissue injury. Immune cells, particularly macrophages, recognize these harmful stimuli through pattern recognition receptors.</item>
-    <item><emphasis effect="italics">Release of chemical mediators:</emphasis> Upon recognition of the threat, immune cells release signaling molecules called cytokines, such as interleukins and TNF-α, which trigger the cascade of events that lead to inflammation.</item>
-    <item><emphasis effect="italics">Vasodilation:</emphasis> Cytokines and other chemical mediators cause blood vessels in the affected area to dilate, leading to increased blood flow and allowing more immune cells, antibodies, and nutrients to reach the site of injury or infection.</item>
-    <item><emphasis effect="italics">Increased vascular permeability:</emphasis> The cytokines increase the permeability of blood vessel walls, leading to the leakage of fluid and proteins into the surrounding tissues, which contributes to the swelling, redness, and warmth.</item>
-    <item><emphasis effect="italics">Migration of immune cells:</emphasis> Chemokines attract immune cells, particularly neutrophils and monocytes.</item>
-    <item><emphasis effect="italics">Phagocytosis and immune response</emphasis>: Neutrophils and macrophages engulf and destroy invading pathogens, dead cells, and debris through a process called phagocytosis. This helps contain the infection and clear away damaged tissues.</item>
-    <item><emphasis effect="italics">Activation of the adaptive immune system:</emphasis> As the inflammatory response progresses, dendritic cells, another type of immune cell, process and present antigens from the pathogens to T and B lymphocytes. This leads to the activation of the adaptive immune system, which provides a more specific and targeted response to infection.</item>
-    <item><emphasis effect="italics">Resolution and tissue repair</emphasis>: As the threat is neutralized and the tissue damage begins to heal, the body releases anti-inflammatory cytokines, such as interleukin-10 (IL-10), which promote the resolution of inflammation. Immune cells shift their focus to tissue repair and regeneration.</item>
-    </list>
-    <figure class="scaled-down" id="fig-00001">
-    <media alt="Two diagrams show the inflammatory response when skin is cut. Mast cells detect the pathogens that have been introduced into the body through the cut. They release histamines, which causes mild inflammation and redness. The histamines increase blood flow to the wound, bringing in phagocytes and other immune cells to neutralize the pathogens. The additional blood causes the wound to swell, redden, and become painful.">
-    <image mime-type="image/png" src="../../media/PHA_Figure_06_04_004.png"/></media>
-    <caption>This diagram illustrates the inflammatory response, which results in warmth, redness, pain, and swelling, as well as the recruitment of phagocytes. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
-    </figure>
-    <para id="para-00006">The inflammatory response is a highly regulated process that aims to eliminate the threat, initiate healing, and restore tissue function. However, an exaggerated or dysregulated inflammatory response can lead to chronic inflammation and contribute to various diseases. Anti-inflammatory drugs are used to control and modulate this response, providing relief and preventing further tissue damage in certain conditions.</para>
-    </section>
-    <section id="sect-00005">
-    <title>Etiology and Diagnostic Testing</title>
-    <para id="para-00007">Factors that trigger the inflammatory response in the body can arise from various sources, including infections (bacterial, viral, fungal, and parasitic), physical injury to tissue (trauma, burns), autoimmune disorders (rheumatoid arthritis, systemic lupus erythematosus), allergic reactions, irritants, and chronic conditions such as chronic obstructive pulmonary disorders (COPD) and peripheral vascular disorders (PVD).</para>
-    <para id="para-00008">Diagnostic and lab studies are essential for diagnosing and assessing inflammation. Some common tests and investigations include:</para>
-    <list id="list-00005">
-    <item><emphasis effect="italics">Complete blood count (CBC) with differential: </emphasis>This test provides information about the number and types of blood cells, including white blood cells (WBCs). An increased WBC count, particularly neutrophils, can indicate an inflammatory response.</item>
-    <item><emphasis effect="italics">C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR):</emphasis> These blood tests measure markers of inflammation. Elevated levels of CRP or an accelerated ESR suggest the presence of inflammation in the body.</item>
-    <item><emphasis effect="italics">Blood cultures:</emphasis> If an infection is suspected as the cause of inflammation, blood cultures may be performed to identify the specific microorganism responsible.</item>
-    <item><emphasis effect="italics">Imaging studies:</emphasis> X-rays, ultrasounds, CT scans, or MRIs can help visualize inflamed tissues and identify the extent of inflammation or structural damage.</item>
-    <item><emphasis effect="italics">Biopsy:</emphasis> In some cases, a tissue sample may be obtained through a biopsy to determine the cause and severity of inflammation.</item>
-    <item><emphasis effect="italics">Autoantibody testing:</emphasis> For suspected autoimmune disorders, specific autoantibody tests can be conducted to identify abnormal immune responses against the body's own tissues.</item>
-    <item><emphasis effect="italics">Allergy testing:</emphasis> In cases of allergic inflammation, skin tests or blood tests can help identify specific allergens responsible for the allergic response.</item>
-    </list>
-    <para id="para-00009">The combination of clinical evaluation, medical history, and appropriate diagnostic tests helps health care providers diagnose the presence of inflammation, identify its underlying cause, and develop an effective treatment plan to address the condition.</para>
-    </section>
-    </section>
-    <section id="sect-00006">
-    <title>Inflammation versus Infection</title>
-    <para id="para-00010">Inflammation and infection are related but distinct concepts in the context of the body's response to harmful stimuli. Inflammation is a general physiological response of the body to tissue injury, irritation, or foreign substances. It is a part of the body's immune defense mechanism and plays a vital role in protecting and healing tissues. Inflammation can be triggered by various factors, such as physical injury, exposure to irritants, autoimmune reactions, or the presence of pathogens like bacteria or viruses. When tissues are damaged or perceived to be under threat, immune cells and chemical mediators are recruited to the affected site, leading to the characteristic symptoms of inflammation, including redness, swelling, heat, and pain. The inflammatory response aims to eliminate the source of injury or infection, clear away damaged cells and debris, and initiate tissue repair (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022).</para>
-    <para id="para-00011"><term id="term-00007">Infection</term>, on the other hand, specifically refers to the invasion and colonization of the body by harmful microorganisms such as bacteria, viruses, or other microbes (CDC, 2016). When pathogens enter the body, they can multiply and cause damage to tissues, leading to illness. Infections can occur in various parts of the body, such as the respiratory tract, urinary tract, gastrointestinal system, or bloodstream. The body responds to infections by initiating an inflammatory response as part of its immune defense mechanism. Infections may or may not cause obvious symptoms of inflammation, depending on the type and location of the infection and the client’s immune response. While not all inflammation is caused by infections, infections frequently lead to an inflammatory response.</para>
-    </section>
-    <section id="sect-00007">
-    <title>Anti-inflammatory Drugs</title>
-    <para id="para-00012">Anti-inflammatory drugs are a classification of drugs used to reduce inflammation, relieve pain, and alleviate fever (Ghlichloo &amp; Gerriets, 2023). These drugs work by inhibiting the production of certain enzymes called cyclooxygenase (COX), which are involved in the synthesis of prostaglandins, hormone like-substances that play a role in the inflammatory response.</para>
-    <section id="sect-00008">
-    <title>Nonsteroidal Anti-inflammatory Drugs </title>
-    <para id="para-00013"><term class="no-emphasis" id="term-00008">Nonsteroidal anti-inflammatory drugs (NSAIDs</term>) inhibit both COX-1 and COX-2 enzymes. COX-1 and COX-2 are enzymes involved in the production of prostaglandins, which are signaling molecules that regulate inflammation and various physiological processes. COX-1 is constitutively present in many tissues and plays a role in maintaining normal bodily functions, such as protecting the stomach lining and regulating blood clotting. COX-2 is induced during inflammation and is primarily responsible for generating prostaglandins that contribute to pain, inflammation, and other responses associated with injury and inflammation. The inhibition of these enzymes helps to decrease inflammation, pain, and fever. These drugs are for short-term use, and many can be found over the counter (OTC). Several subclassifications of NSAIDs are explored in the subsequent sections.</para>
-    </section>
-    <section id="sect-00009">
-    <title>Salicylates</title>
-    <para id="para-00014"><term class="no-emphasis" id="term-00009">Salicylates</term> are a group of chemical compounds that contain a salicylate acid backbone. The most common and well-known salicylate is acetylsalicylic acid, also known as aspirin. Salicylates can be found in various plants, including fruits (such as berries), vegetables (such as spinach), and herbs (such as peppermint). Salicylates are commonly used to alleviate pain, reduce inflammation, and lower fever, making them effective for various conditions, including headaches, arthritis, and minor injuries. See [link]Table 6.8[/link] for dosing information and <link document="m00309">Pain Response</link> for additional information on salicylates.</para>
-    <para id="para-00015"><term class="no-emphasis" id="term-00010">Aspirin</term> also has anti-platelet properties which are unrelated to its anti-inflammatory properties. At low doses, aspirin irreversibly inhibits the enzyme cyclooxygenase-1 (COX-1) in platelets, which are specialized blood cells involved in blood clotting, thereby inhibiting platelet aggregation and blood clot formation (see <link document="m00318">Anticoagulant, Antiplatelet, and Thrombolytic Drugs</link> for additional information on aspirin as an antiplatelet).</para>
-    </section>
-    <section id="sect-00010">
-    <title>Phenylacetic Acid Derivatives</title>
-    <para id="para-00016"><term class="no-emphasis" id="term-00011">Phenylacetic acid derivatives</term> are a class of chemical compounds that have a phenylacetic acid structure. These derivatives are often found in medications and are used for various therapeutic purposes. Like salicylates, phenylacetic acid derivatives inhibit the enzyme cyclooxygenase, thereby decreasing inflammation. They also act as an antipyretic and analgesic to alleviate pain. Common phenylacetic acid derivatives include diclofenac and indomethacin. See [link]Table 6.8[/link] for dosing information.</para>
-    </section>
-    <section id="sect-00011">
-    <title>Propionic Acid Derivatives</title>
-    <para id="para-00017"><term class="no-emphasis" id="term-00012">Propionic acid derivatives</term> have a propionic acid base in their chemical structure. They also inhibit the enzyme COX, thereby decreasing inflammation, relieving pain, and reducing fever. Common propionic acid derivatives include ibuprofen and naproxen sodium. See [link]Table 6.8[/link] for dosing information and <link document="m00309">Pain Response</link> for additional information on these drugs.</para>
-    </section>
-    <section id="sect-00012">
-    <title>Oxicams</title>
-    <para id="para-00018"><term class="no-emphasis" id="term-00013">Oxicams</term> are a class of NSAIDs that share a common chemical structure called “oxicam.” These drugs work by inhibiting the enzyme COX, thus decreasing the inflammatory response. Oxicams are used for their anti-inflammatory, analgesic (pain-relieving), and antipyretic (fever-reducing) properties, like other NSAIDs. Common oxicams include meloxicam and piroxicam. See [link]Table 6.8[/link] for dosing information.</para>
-    </section>
-    <section id="sect-00013">
-    <title>COX-2 Inhibitors</title>
-    <para id="para-00019"><term class="no-emphasis" id="term-00014">COX-2 inhibitors</term> are a specific class of NSAIDs that selectively target and inhibit the cyclooxygenase-2 (COX-2) enzyme. This class of drugs was developed to provide pain relief and anti-inflammatory effects while minimizing some of the gastrointestinal side effects associated with traditional non-selective NSAIDs, which inhibit both COX-1 and COX-2 enzymes. Celecoxib is the only COX-2 inhibitor on the market in the U.S. See [link]Table 6.9[/link] for additional information.</para>
-    <note class="black-box" id="note-00001">
-    <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
-    <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
-    <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
-    </note>
-    <para id="para-00023">[link]Table 6.8[/link] lists common nonsteroidal anti-inflammatory drugs and typical routes and dosing for adult clients.</para>
-          <table class="vertically-tight" id="table-00001">
-         <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="1*"/>
-          <colspec colnum="2" colname="c2" colwidth="2*"/>
-         <thead>
-          <row>
-          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
-          </row>
-          </thead>
-          <tbody>
-          <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Salicylates</emphasis></entry></row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Salicylic acid</term><newline/>
-    (<term class="no-emphasis" id="term-00016">aspirin</term>)</entry>
-    <entry valign="middle" align="left">Tablet or enteric coated tablet, one or two 325-mg tablets orally every 4 hours while symptoms last.</entry>
-    </row>
-    <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Phenylacetic Acid Derivatives</emphasis></entry></row>
-    <row>
-    <entry valign="middle" align="center">
-    <term class="no-emphasis" id="term-00017">Diclofenac</term><newline/>
-    (<term class="no-emphasis" id="term-00018">Voltaren</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">For the relief of osteoarthritis:</emphasis> 100–150 mg/day orally in divided doses, 50 mg two or three times a day.<newline/>
-    <emphasis effect="italics">For the relief of rheumatoid</emphasis> <emphasis effect="italics">arthritis:</emphasis> 150–200 mg/day orally in divided doses, 50 mg three or four times a day.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Indomethacin</term><newline/>
-    (<term class="no-emphasis" id="term-00020">Indocin, Tivorbex</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Immediate release:</emphasis> 25 mg orally two or three times daily. Increase the daily dosage by 25–50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150–200 mg is reached.<newline/>
-    <emphasis effect="italics">Extended release:</emphasis> 75 mg orally once a day.</entry>
-    </row>
-    <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Propionic Acid Derivatives</emphasis></entry></row>
-    <row>
-    <entry valign="middle" align="center">
-    <term class="no-emphasis" id="term-00021">Ibuprofen</term><newline/>
-    (<term class="no-emphasis" id="term-00022">Advil</term>)</entry>
-    <entry valign="middle" align="left">200 mg orally every 4–6 hours while symptoms persist.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Naproxen sodium</term><newline/>
-    (<term class="no-emphasis" id="term-00024">Aleve</term>)</entry>
-    <entry valign="middle" align="left">220 mg orally every 8–12 hours while symptoms last. Do not exceed 440 mg in any 8- to 12-hour period; do not exceed 660 mg in a 24-hour period.</entry>
-    </row>
-    <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Oxicams</emphasis></entry></row>
-    <row>
-    <entry valign="middle" align="center">
-    <term class="no-emphasis" id="term-00025">Meloxicam</term><newline/>
-    (<term class="no-emphasis" id="term-00026">Mobic</term>)</entry>
-    <entry valign="middle" align="left">5 mg orally once daily. May be increased to 10 mg orally in clients who require additional analgesia. Maximum daily dose: 10 mg.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center">
-    <term class="no-emphasis" id="term-00027">Piroxicam</term><newline/>
-    (<term class="no-emphasis" id="term-00028">Feldene</term>)</entry>
-    <entry valign="middle" align="left">20 mg orally once per day.</entry>
-    </row>
-    <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">COX-2 Inhibitor</emphasis></entry></row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Celecoxib</term><newline/>
-    (<term class="no-emphasis" id="term-00030">Celebrex</term>)</entry>
-    <entry valign="middle" align="left">100–200 mg orally twice daily.</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Emphasis Table: Nonsteroidal Anti-inflammatory Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    <section id="sect-00014">
-    <title>Adverse Effects and Contraindications</title>
-    <para id="para-00024">Although NSAIDs are generally well-tolerated, they can have adverse effects and contraindications that clients should be aware of. It is important to note that the severity and occurrence of adverse effects can vary from person to person, and not everyone will experience all of the listed adverse effects. Common adverse effects of NSAIDs include gastrointestinal issues (stomach pain, heartburn, indigestion, nausea, GI bleeding), headache, dizziness, fluid retention, high blood pressure, renal and liver impairment, and an increased risk of cardiovascular events such as heart attack and stroke.</para>
-    <para id="para-00025">Contraindications include hypersensitivity to the drug or any of its components, having a history of allergies, asthma, or urticaria (hives) after taking aspirin or other NSAIDs, coronary artery bypass graft (CABG) surgery, and with celecoxib sulfonamide allergy.</para>
-    <para id="para-00026">[link]Table 6.9[/link] is a drug prototype table for NSAISs featuring celecoxib. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00002">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="col1" colwidth="1*"/>
-    <colspec colnum="2" colname="col2" colwidth="1*"/>
-    <tbody>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    NSAID, COX-2 inhibitor<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits prostaglandin synthesis, primarily via inhibition of COX-2</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    100–200 mg orally twice daily.</entry>
-    </row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-    Osteoarthritis<newline/>
-    Rheumatoid arthritis<newline/>
-    Ankylosing spondylitis<newline/>
-    Acute pain<newline/>
-    Primary dysmenorrhea<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
-    Decreases inflammation and pain</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    No significant interactions<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
-    No significant interactions</entry></row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
-    Abdominal pain<newline/>
-    Dyspepsia<newline/>
-    Peripheral edema<newline/>
-    Dizziness<newline/>
-    Rash<newline/>
-    Hepatotoxicity<newline/>
-    Renal toxicity<newline/>
-    GI bleeding<newline/>
-    Thrombocythemia<newline/>
-    Bronchospasm<newline/>
-    Photosensitivity</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-    Hypersensitivity<newline/>
-    History of allergies, asthma, or urticaria after taking aspirin or other NSAIDs<newline/>
-    CABG surgery<newline/>
-    Sulfonamide allergy<newline count="2"/>
-    Caution:<newline/>
-    May increase risk of cardiovascular thrombotic events and GI bleeding</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Prototype: Celecoxib (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    </section>
-    <section id="sect-00015">
-    <title>Glucocorticoid Drugs</title>
-    <para id="para-00027"><term class="no-emphasis" id="term-00031">Glucocorticoids</term>, also known as <term class="no-emphasis" id="term-00032">corticosteroids</term> or simply steroids, are a class of anti-inflammatory drugs that mimic the action of naturally occurring hormones produced by the adrenal glands. These hormones, specifically cortisol, play a crucial role in regulating the body's response to stress and inflammation. When used as medication, synthetic glucocorticoids have potent anti-inflammatory effects due to their ability to modify the immune response. See <emphasis effect="bold"><link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link></emphasis> and  <emphasis effect="bold"><link document="m00403">Adrenal, Pituitary, and Hypothalamus Disorder Drugs</link></emphasis> for drug information on glucocorticoids.</para>
-    </section>
-    <section id="sect-00016">
-    <title>Disease-Modifying Antirheumatic Drugs (DMARDs)</title>
-    <para id="para-00028"><term class="no-emphasis" id="term-00033">Disease-modifying antirheumatic drugs (DMARDs</term>) are a class of medications used primarily to treat autoimmune and inflammatory conditions such as rheumatoid arthritis (Benjamin et al., 2022; Mysler et al., 2021) These drugs work by targeting specific components of the immune system to suppress the abnormal immune reaction responsible for causing inflammation and tissue damage.</para>
-    <para id="para-00029">DMARDs have immunomodulatory effects, meaning they modify the immune response rather than just providing symptomatic relief. The main goal of DMARDs is to slow down or modify the underlying disease process, reduce joint damage, and improve long-term outcomes for clients with autoimmune diseases. They may take weeks to months to achieve the disease-modifying effects. DMARDs are usually prescribed for long-term use and are considered the ongoing management of autoimmune conditions.</para>
-    <para id="para-00030">Conversely, non-DMARDs, such as NSAIDs and glucocorticoids, primarily provide symptomatic relief by reducing pain and inflammation. They do not alter the underlying disease process or the progression of the autoimmune condition. Non-DMARDs are often used for short-term and intermittent relief of acute symptoms, especially pain and inflammation. Non-DMARDs are often used in combination with DMARDs for comprehensive autoimmune disease management.</para>
-    <para id="para-00031">DMARDs can include both biologics and non-biologic drugs (Mysler et al., 2021). The choice of DMARD depends on the specific condition being treated, disease severity, individual response, and potential side effects. Treatment decisions are made in consultation with a health care provider who will tailor the therapy to each client’s unique needs and health status.</para>
-    <section id="sect-00017">
-    <title>Biologic DMARDs</title>
-    <para id="para-00032"><term class="no-emphasis" id="term-00034">Biologic DMARDs</term> are drugs derived from living cells or organisms. They are typically large, complex molecules produced through biotechnology processes. They target specific components of the immune system to suppress the abnormal immune response seen in autoimmune diseases. Biologic drugs such as adalimumab, etanercept, infliximab, and rituximab are discussed in <link document="m00242"><emphasis effect="bold">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</emphasis></link>.</para>
-    </section>
-    <section id="sect-00018">
-    <title>Non-biologic DMARDs</title>
-    <para id="para-00033"><term class="no-emphasis" id="term-00035">Non-biologic DMARDs,</term> also known as conventional or synthetic DMARDs, are small-molecule drugs synthesized chemically. They are not derived from living sources and typically have a more general or broader mode of action. They may act on multiple targets within the immune system or inhibit enzymes that play a role in the inflammatory process. For example, methotrexate inhibits an enzyme involved in the synthesis of DNA and RNA, which affects rapidly dividing cells, including immune cells. Common non-biologic DMARDs include methotrexate, sulfasalazine, and gold salts. See [link]Table 6.10[/link] for dosing information and [link]Table 6.11[/link] for additional information on methotrexate.</para>
-    <para id="para-00034">[link]Table 6.10[/link] lists common non-biologic DMARDs and typical routes and dosing for adult clients.</para>
-          <table class="vertically-tight" id="table-00003">
-         <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="1*"/>
-          <colspec colnum="2" colname="c2" colwidth="2*"/>
-         <thead>
-          <row>
-          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
-          </row>
-          </thead>
-          <tbody>
-          <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Methotrexate</term><newline/>
-    (<term class="no-emphasis" id="term-00037">Trexall</term>)</entry>
-    <entry valign="middle" align="left">7.5 mg orally once weekly with escalation to achieve optimal response. Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00038">Sulfasalazine</term><newline/>
-    (<term class="no-emphasis" id="term-00039">Azulfidine</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Initial therapy:</emphasis> 3000–4000 mg orally daily in evenly divided doses with dosage intervals not exceeding 8 hours.<newline/>
-    <emphasis effect="italics">Maintenance therapy:</emphasis> 2000 mg orally daily. </entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Emphasis Table: Non-Biologic Disease-Modifying Anti-Rheumatic Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    <section id="sect-00019">
-    <title>Adverse Effects and Contraindications</title>
-    <para id="para-00035">Common adverse effects for non-biologic DMARDs include nausea/vomiting, diarrhea, abdominal pain, hepatotoxicity, rash, anemia, thrombocytopenia, neutropenia, photosensitivity, elevated blood pressure, hair loss, hypotension, pancreatitis, and with methotrexate, optic neuritis. Contraindications include hypersensitivity to the drug of any of its constituents, pregnancy and/or breastfeeding, myelosuppression, live vaccines, alcohol use, pre-existing bleeding disorders, and in clients who have an active infection. For adverse effects and contraindications for biologic DMARDs see <link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link> in this chapter.</para>
-    <para id="para-00036">[link]Table 6.11[/link] is a drug prototype table for DMARDs featuring methotrexate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00004">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="col1" colwidth="1*"/>
-    <colspec colnum="2" colname="col2" colwidth="1*"/>
-    <tbody>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    Anti-inflammatory, DMARDs, antineoplastic<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits enzyme AICAR transformylase, leading to hindrance in adenosine and guanine metabolism, thereby decreasing inflammation</entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    7.5 mg orally once weekly with escalation to achieve optimal response. Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.</entry>
-    </row>
-    <row>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-    Rheumatoid arthritis<newline/>
-    Psoriasis<newline/>
-    Acute lymphoblastic leukemia and non-Hodgkin lymphoma<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
-    Decreases inflammation<newline/>
-    Suppresses the immune response</entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    Neomycin<newline/>
-    Antifolate drugs<newline/>
-    NSAIDs<newline/>
-    Phenytoin<newline/>
-    Probenecid<newline/>
-    Folic acid<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
-    No significant interactions</entry>
-    </row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
-    Deep vein thrombosis/pulmonary emboli<newline/>
-    Hypotension<newline/>
-    Hyperglycemia<newline/>
-    Optic neuropathy<newline/>
-    Pancreatitis<newline/>
-    Anemia<newline/>
-    Hepatoxicity<newline/>
-    Osteoporosis<newline/>
-    Alopecia<newline/>
-    Hematuria<newline/>
-    Pulmonary fibrosis<newline/>
-    Skin necrosis</entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-    Hypersensitivity<newline/>
-    Pregnancy and/or breastfeeding<newline/>
-    Myelosuppression<newline/>
-    Live vaccines<newline/>
-    Alcohol use<newline/>
-    Pre-existing bleeding disorders<newline/>
-    Active infection<newline count="2"/>
-    Caution <newline/>
-    May cause myelosuppression</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Prototype: Methotrexate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    <note class="black-box" id="note-00002">
-    <para id="para-00037"><emphasis effect="bold">Methotrexate and Gold Salts</emphasis></para>
-    <para id="para-00038">Methotrexate can cause embryo-fetal toxicity, including fetal death. For non-neoplastic diseases, methotrexate tablets are contraindicated in pregnancy. For neoplastic diseases, advise clients of child-bearing age of the potential risk to a fetus and to use effective contraception.</para>
-    <para id="para-00039">Serious adverse reactions, including death, have been reported with methotrexate. Closely monitor for adverse reactions of the bone marrow, gastrointestinal tract, liver, lungs, skin, and kidneys. Withhold or discontinue methotrexate tablets as appropriate.</para>
-    </note>
-    </section>
-    </section>
-    <section id="sect-00020">
-    <title>Antimalarial Drugs</title>
-    <para id="para-00040"><term class="no-emphasis" id="term-00040">Antimalarial drugs</term> are a group of medications primarily used to treat and prevent malaria, a parasitic infection transmitted by mosquito bites. However, some antimalarial drugs have been found to have beneficial effects in the treatment of certain autoimmune diseases due to their immunomodulatory properties.</para>
-    <para id="para-00041">The exact mechanisms of action of these drugs in autoimmune diseases are not fully understood, but they are believed to modulate the immune response by influencing the function of immune cells and cytokines involved in the inflammatory process (Haładyj et al., 2018). Therefore, they help to control disease activity by decreasing inflammation, slowing joint damage, and preserving joint function, reducing the frequency of flares and improving overall disease management.</para>
-    <para id="para-00042">The two main antimalarial drugs used in autoimmune disease treatment are hydroxychloroquine and chloroquine. These drugs are known to have anti-inflammatory and immunomodulatory effects, which can help in managing autoimmune conditions.</para>
-    <para id="para-00043">It is important to note that while antimalarial drugs can be beneficial for some clients with autoimmune diseases, not everyone responds the same way to these medications. The decision to suggest antimalarial drugs as part of the treatment plan is made by a health care professional, who considers the specific autoimmune condition, disease severity, individual response, and potential side effects.</para>
-    <section id="sect-00021">
-    <title>Hydroxychloroquine</title>
-    <para id="para-00044"><term class="no-emphasis" id="term-00041">Hydroxychloroquine</term> is the more commonly prescribed antimalarial drug for autoimmune disease treatment. It is used to manage conditions such as systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). Hydroxychloroquine works by interfering with the immune response and dampening the activity of certain immune cells. It can help reduce inflammation, slow disease progression, preserve joint function, and improve disease control in some clients with autoimmune disorders. See [link]Table 6.13[/link] for additional information on hydroxychloroquine.</para>
-    </section>
-    <section id="sect-00022">
-    <title>Chloroquine</title>
-    <para id="para-00045">Chloroquine shares similar properties with hydroxychloroquine. It has been used to treat autoimmune diseases, but its use has decreased due to the availability of hydroxychloroquine, which is considered to have a better safety profile.</para>
-    <para id="para-00046">[link]Table 6.12[/link] lists common antimalarial drugs with typical routes and dosing for adult clients.</para>
-          <table class="vertically-tight" id="table-00005">
-         <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="1*"/>
-          <colspec colnum="2" colname="c2" colwidth="2*"/>
-         <thead>
-          <row>
-          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
-          </row>
-          </thead>
-          <tbody>
-          <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00042">Hydroxychloroquine</term><newline/>
-    (<term class="no-emphasis" id="term-00043">Plaquenil</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Initial dosage</emphasis>: 400–600 mg orally daily.<newline/>
-    <emphasis effect="italics">Chronic dosage:</emphasis> 200–400 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Chloroquine</term><newline/>
-    (<term class="no-emphasis" id="term-00045">Chloroquine FNA</term>)</entry>
-    <entry valign="middle" align="left">500 mg orally once per week on exactly the same day of each week.</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Emphasis Table: Antimalarial Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    <section id="sect-00023">
-    <title>Adverse Effects and Contraindications</title>
-    <para id="para-00047">Common adverse effects of antimalarials used as anti-inflammatories include gastrointestinal issues (nausea, vomiting, diarrhea, abdominal pain), prolonged QT interval, tachycardia, rash, itching, hepatotoxicity, renal impairment, photosensitivity, visual field disturbances, retinopathy, alopecia, myopathy and muscle weakness, agranulocytosis, and aplastic anemia.</para>
-    <para id="para-00048">Contraindications include hypersensitivity to the drug or any of its components, preexisting eye conditions such as macular degeneration, preexisting heart conditions such as arrythmias, pregnancy and/or breastfeeding, and liver or renal impairment.</para>
-    <para id="para-00049">[link]Table 6.13[/link] is a drug prototype table for antimalarial drugs featuring hydroxychloroquine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00006">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="col1" colwidth="1*"/>
-    <colspec colnum="2" colname="col2" colwidth="1*"/>
-    <tbody>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    Antimalarial<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits antigen presentation, B- and T-cell activation and NOX signaling</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    <emphasis effect="italics">Initial dosage</emphasis>: 400–600 mg orally daily. <emphasis effect="italics">Chronic dosage:</emphasis> 200–400 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-    Rheumatoid arthritis<newline/>
-    Systemic lupus erythematosus<newline/>
-    Chronic discoid lupus erythematosus<newline/>
-    Malaria<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
-    Decreases inflammation<newline/>
-    Suppresses the immune response</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    Antiarrhythmics<newline/>
-    Antiepileptics<newline/>
-    Methotrexatey<newline/>
-    Digoxin<newline/>
-    Cimetidine<newline/>
-    Rifampin<newline/>
-    Praziquantel<newline/>
-    Antacids<newline/>
-    Ampicillin<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
-    No significant interactions</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center">
-    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
-    Bone marrow suppression<newline/>
-    Anemia/thrombocytopenia<newline/>
-    Prolonged QT interval<newline/>
-    Tachycardia<newline/>
-    Pulmonary hypertension<newline/>
-    Retinopathy/visual field disturbances<newline/>
-    Nausea/vomiting<newline/>
-    Fatigue<newline/>
-    Urticaria<newline/>
-    Myopathy<newline/>
-    Headache<newline/>
-    Seizure<newline/>
-    Alopecia<newline/>
-    Hepatotoxicity<newline/>
-    Renal impairment</entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-    Hypersensitivity<newline/>
-    Pregnancy and/or breastfeeding<newline/>
-    Preexisting eye conditions<newline/>
-    Preexisting heart conditions<newline/>
-    Liver or renal impairment<newline count="2"/>
-    Caution:<newline/>
-    May worsen eye conditions such as macular degeneration</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Prototype: Hydroxychloroquine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    </section>
-    <section id="sect-00024">
-    <title>Antigout Drugs</title>
-    <para id="para-00050"><term class="no-emphasis" id="term-00046">Antigout drugs</term> are a class of medications used to treat gout, a condition caused by the buildup of uric acid crystals in the joints. These drugs work to manage acute gout attacks and prevent future gout flares by reducing the level of uric acid in the body or by alleviating inflammation and pain associated with gout attacks (NICE, 2022).</para>
-    <para id="para-00051">Although various drugs can be used to treat gout, including glucocorticoids and NSAIDs, this section of the chapter will only discuss the more common drugs used to treat gout (and its inflammatory response): colchicine, allopurinol, and probenecid.</para>
-    <section id="sect-00025">
-    <title>Colchicine</title>
-    <para id="para-00052"><term class="no-emphasis" id="term-00047">Colchicine</term> is an alkaloid drug derived from the autumn crocus plant. It is used to treat acute gout attacks and can help reduce inflammation and pain in the affected joints. Colchicine works by interfering with the movement of white blood cells to the inflamed area, thereby reducing the inflammatory response. Despite its effectiveness, colchicine has side effects that may impact compliance with the medication regimen. These include gastrointestinal disturbances such as severe diarrhea, abdominal pain, nausea, and vomiting. Health care providers should discuss this drug thoroughly with the client so that gout can be adequately managed. See [link]Table 6.15[/link] for additional information on colchicine.</para>
-    </section>
-    <section id="sect-00026">
-    <title>Allopurinol</title>
-    <para id="para-00053"><term class="no-emphasis" id="term-00048">Allopurinol</term> is a medication used primarily to manage gout and certain other conditions associated with elevated levels of uric acid in the body. It is classified as a xanthine oxidase inhibitor and primarily works to lower uric acid levels in the body by inhibiting the enzyme xanthine oxidase.</para>
-    <para id="para-00054">When <term class="no-emphasis" id="term-00049">uric acid</term> crystals accumulate in the joints, they can provoke an inflammatory response by activating the immune system. This leads to the release of inflammatory cytokines and other mediators that cause the characteristic swelling, redness, and pain associated with gout attacks. By lowering uric acid levels, allopurinol helps to reduce the frequency and severity of gout attacks, thereby indirectly contributing to the reduction of inflammation.</para>
-    <para id="para-00055">While allopurinol is effective in managing gout and preventing gout attacks, it may take several weeks or months of continuous use to achieve full benefits. See [link]Table 6.14[/link] for dosing information.</para>
-    </section>
-    <section id="sect-00027">
-    <title>Probenecid</title>
-    <para id="para-00056"><term class="no-emphasis" id="term-00050">Probenecid</term> is classified as a uricosuric agent, which means it works by increasing the excretion of uric acid in the urine. It does this by inhibiting the reabsorption of uric acid in the kidneys, which leads to more uric acid being eliminated from the body through urine. By increasing the excretion of uric acid, probenecid helps lower the levels of uric acid in the blood, reducing the risk of uric acid crystal formation and gout attacks. Probenecid indirectly helps to manage the inflammatory response associated with gout.</para>
-    <para id="para-00057">[link]Table 6.14[/link] lists common antigout drugs with typical routes and dosing for adult clients.</para>
-    <table class="vertically-tight" id="table-00007">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <thead>
-    <row>
-    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
-    </row>
-    </thead>
-    <tbody>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00051">Colchicine</term><newline/>
-    (<term class="no-emphasis" id="term-00052">Colcrys</term>)</entry>
-    <entry valign="middle" align="left">0.6 mg orally once or twice daily; maximum dose 1.2 mg per day.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00053">Allopurinol</term><newline/>
-    (<term class="no-emphasis" id="term-00054">Zyloprim</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">For mild gout</emphasis>: 200–300 mg/day orally.<newline/>
-    <emphasis effect="italics">For moderately severe tophaceous gout: </emphasis>400–600 mg/day orally. </entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00055">Probenecid</term><newline/>
-    (<term class="no-emphasis" id="term-00056">Probalan</term>)</entry>
-    <entry valign="middle" align="left">250 mg orally twice a day for one week, followed by 500 mg orally twice a day thereafter.</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Emphasis Table: Antigout Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    <section id="sect-00028">
-    <title>Adverse Effects and Contraindications</title>
-    <para id="para-00058">Common adverse effects of antigout drugs include abdominal pain and cramping, nausea, vomiting, diarrhea, myopathy, abnormal liver and renal function, rash, and neuropathy. Common contraindications include hypersensitivity to the drug or any of its components, and renal or hepatic impairment.</para>
-    <para id="para-00059">[link]Table 6.15[/link] is a drug prototype table for antigout drugs featuring colchicine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00008">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="col1" colwidth="1*"/>
-    <colspec colnum="2" colname="col2" colwidth="1*"/>
-    <tbody>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    Antigout, alkaloid<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits expression of E-selectin on endothelial cells and prevents neutrophil adhesion</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    0.6 mg orally once or twice daily. Maximum dose: 1.2 mg per day.</entry>
-    </row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-    Prophylaxis of gout flare-ups<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
-    Decreases inflammation and pain</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    CYP3A4 inhibitors<newline/>
-    P-glycoprotein inhibitors<newline/>
-    HMG-CoA reductase inhibitors<newline/>
-    Fibrates<newline/>
-    Voriconazole<newline/>
-    Fluconazole<newline/>
-    Cimetidine<newline/>
-    Propafenone<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
-    Grapefruit and grapefruit juice</entry>
-    </row>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
-    Gastrointestinal (abdominal cramps/pain, diarrhea, nausea/vomiting)<newline/>
-    Sensory motor neuropathy<newline/>
-    Rash<newline/>
-    Alopecia<newline/>
-    Leukopenia/thrombocytopenia/pancytopenia<newline/>
-    Elevated AST and/or ALT<newline/>
-    Myopathy and muscle weakness/pain<newline/>
-    Elevated CPK<newline/>
-    Azoospermia/oligospermia (conditions affecting sperm motility or sperm count)</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-    Hypersensitivity<newline/>
-    Renal impairment<newline/>
-    Hepatic impairment<newline count="2"/>
-    Caution:<newline/>
-    May cause colchicine toxicity when used concomitantly with CYP3A4 inhibitors and P-glycoprotein inhibitors</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Drug Prototype: Colchicine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    </section>
-    <section id="sect-00029">
-    <title>Nursing Implications</title>
-    <para id="para-00060">The nurse should do the following when administering antigout drugs to clients:</para>
-    <list id="list-00006">
-    <item>Before administering antigout drugs, conduct a thorough assessment of the client's medical history, current medications, allergies, and kidney and liver function.</item>
-    <item>Monitor the following laboratory studies: serum uric acid levels to assess effectiveness of medications in reducing uric acid levels, liver function for hepatotoxicity, renal function for nephrotoxicity, and electrolyte levels which may be impacted by the use of these drugs.</item>
-    <item>Educate the client about the drug’s purpose, potential side effects, and benefits to help the client make an informed decision about the treatment plan.</item>
-    <item>Some antigout drugs may have potential side effects or interactions with other medications. The nurse should be vigilant for signs of adverse effects and monitor for drug interactions that could affect the client's health.</item>
-    <item>Antigout drugs, especially during initial treatment, may not provide immediate relief of symptoms during an acute gout attack. The nurse should offer emotional support and symptom management strategies to help alleviate pain and discomfort.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
-    </list>
-    <note class="client-teaching" id="note-00003">
-    <para id="para-00061"><emphasis effect="bold">The client taking an antigout drug should:</emphasis></para>
-    <list id="list-00007">
-    <item>Take the medication at the scheduled times and follow the prescribed dosage. Consistent adherence to the medication regimen helps control uric acid levels and prevent gout attacks. </item>
-    <item>Maintain adequate hydration by drinking plenty of water throughout the day to help the kidneys flush out excess uric acid from the body. </item>
-    <item>Report adverse effects such as rash, diarrhea, muscle pain, and weakness to the health care provider, as these may be adverse effects of the medication.</item>
-    <item>Avoid purine-rich foods, such as red meats, organ meats, and seafood, as these can lead to increased uric acid levels in the body and exacerbate gout flare-ups.</item>
-    <item>Keep follow-up appointments to have uric acid levels assessed and to ensure that medication management is effective.</item>
-    </list>
-    <para id="para-00062"><emphasis effect="bold">The client taking an antigout drug <emphasis effect="italics">should not:</emphasis></emphasis></para>
-    <list id="list-00008">
-    <item>Become dehydrated when using probenecid, as this may increase the risk of kidney stone formation.</item>
-    <item>Eat grapefruit or drink grapefruit juice when taking colchicine, as this may impact the efficacy of the drug.</item>
-    </list>
-    </note>
-    </section>
-    </section>
-    <section class="chapter-summary" id="sect-00030">
-    <para id="para-00063">This chapter provided a comprehensive understanding of the immune system and immunity, its significance in disease prevention, and the importance of vaccination. It explained the differences between natural and active acquired immunity, as well as active and passive immunity. The chapter identified common diseases preventable through vaccination and emphasizes the role of client education in promoting vaccine uptake for public health.</para>
-    <para id="para-00064">The chapter also introduced immunosuppressants, biologics, monoclonal antibodies, and biosimilar drugs, including their indications, actions, adverse reactions, contraindications, and potential interactions. Nursing implications for the safe administration and monitoring of these drugs, considering their impact on the immune system, were discussed.</para>
-    <para id="para-00065">The last section focused on understanding inflammation, its pathophysiology, and the five cardinal signs of inflammation. Causes and diagnostic studies related to inflammatory conditions were explored. The chapter covered the characteristics of drugs used to treat inflammation, their indications, mechanisms of action, potential adverse reactions, contraindications, and interactions. Nursing implications for the safe and effective administration of these drugs were emphasized, along with the importance of client education to promote adherence and effective management of these conditions.</para>
-    </section>
-    <section class="review-questions" id="sect-00031">
-          <title>Review Questions</title>
-          <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00066"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec01_RQ1"/></para></problem></exercise>
-          <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00067"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ2"/></para></problem></exercise>
-          <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00068"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ3"/></para></problem></exercise>
-          <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00069"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ4"/></para></problem></exercise>
-          <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00070"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ5"/></para></problem></exercise>
-          <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00071"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec02_RQ6"/></para></problem></exercise>
-          <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00072"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ7"/></para></problem></exercise>
-          <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00073"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ8"/></para></problem></exercise>
-          <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00074"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec02_RQ9"/></para></problem></exercise>
-          <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00075"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ10"/></para></problem></exercise>
-          </section>
-    <section class="references" id="sect-00032">
-    <title>References</title>   
-    <para id="para-00076">American Cancer Society. (2018). <emphasis effect="italics">Understanding biologic and biosimilar drugs</emphasis>. https://www.fightcancer.org/policy-resources/understanding-biologic-and-biosimilar-drugs</para>
-    <para id="para-00077">Aziz, M., Iheanacho, F., Hashmi, M. F. (2023). <emphasis effect="italics">Physiology, antibody</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK546670/</para>
-    <para id="para-00078">Bardhan, M., &amp; Kaushik, R. (2023). <emphasis effect="italics">Physiology, complement cascade</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK551511/</para>
-    <para id="para-00079">Benjamin, O., Goyal, A., &amp; Lappin, S. L. (2022). <emphasis effect="italics">Disease-modifying antirheumatic drugs (DMARD)</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK507863/</para>
-    <para id="para-00080">Cavaillon, J. M. (2021). Once upon a time, inflammation. <emphasis effect="italics">The Journal of Venomous Animals and Toxins Including Tropical Diseases, </emphasis>27, e20200147. https://doi.org/10.1590/1678-9199-JVATITD-2020-0147</para>
-    <para id="para-00081">Centers for Disease Control and Prevention (CDC). (2016). <emphasis effect="italics">How infections spread. </emphasis>https://www.cdc.gov/infectioncontrol/spread/index.html</para>
-    <para id="para-00082">Centers for Disease Control and Prevention (CDC). (2021). <emphasis effect="italics">Vaccines and preventable diseases</emphasis>. https://www.cdc.gov/vaccines/vpd/mmr/public/index.html</para>
-    <para id="para-00083">Centers for Disease Control and Prevention (CDC). (2023a). <emphasis effect="italics">How vaccines work.</emphasis> https://www.cdc.gov/vaccines/hcp/conversations/understanding-vacc-work.html</para>
-    <para id="para-00084">Centers for Disease Control and Prevention (CDC). (2023b). <emphasis effect="italics">Immunization schedules</emphasis>. https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html</para>
-    <para id="para-00085">Chen, L., Deng, H., Cui, H., Fang, J., Zuo, Z., Deng, J., Li, Y., Wang, X., &amp; Zhao, L. (2018). Inflammatory responses and inflammation-associated diseases in organs. <emphasis effect="italics">Oncotarget, 9</emphasis>(6), 7204–7218. https://doi.org/10.18632/oncotarget.23208</para>
-    <para id="para-00086">DailyMed. (Updated July 21, 2023) <emphasis effect="italics">Acthib–haemophilus influenzae type b strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen kit</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8143d01c-4911-40db-95b2-47f3ebea2a7d</para>
-    <para id="para-00087">DailyMed. (Updated March 9, 2023) <emphasis effect="italics">Adalimumab–adalimumab-adaz injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3468792f-63ef-4916-8ed1-8214f327d9dd</para>
-    <para id="para-00088">DailyMed. (Updated October 18, 2022). <emphasis effect="italics">Advil–ibuprofen sodium tablet, coated. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5be198b8-396e-4b44-8819-e2e3b5d2ad0e</para>
-    <para id="para-00089"> DailyMed. (Updated June 30, 2023). <emphasis effect="italics">Afluria quadrivalent (influenza a virus a/victoria/4897/2022 ivr-238 (h1n1) antigen (propiolactone inactivated), influenza a virus a/darwin/6/2021 ivr-227 (h3n2) antigen (propiolactone inactivated), influenza b virus b/austria/1359417/2021 bvr-26 antigen (propiolactone inactivated), influenza b virus b/phuket/3073/2013 bvr-1b antigen- propiolactone inactivated injection, suspension. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb8f92de-56eb-41e3-b3f8-f1b9911e3c40</para>
-    <para id="para-00090">DailyMed. (Updated October 31, 2022). <emphasis effect="italics">Aleve caplets–naproxen sodium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a3745850-3e32-4884-b315-161bcb9996ed</para>
-    <para id="para-00091">DailyMed. (Updated January 31, 2019). <emphasis effect="italics">Allopurinol tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a80fe56f-8d03-423f-8e2a-7ec8c9e5045b</para>
-    <para id="para-00092">DailyMed. (Updated May 22, 2022). <emphasis effect="italics">Aspirin 325 mg–aspirin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d71a22e8-9e39-a672-e053-2a95a90a1403</para>
-    <para id="para-00093">DailyMed. (Updated February 24, 2022). <emphasis effect="italics">Aspirin 325 mg EC–aspirin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d0449d2-c0c6-4e74-931b-35dc62584028</para>
-    <para id="para-00094">DailyMed. (Updated September 23, 2022). <emphasis effect="italics">Avastin–bevacizumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e</para>
-    <para id="para-00095">DailyMed. (Updated December 21, 2022). <emphasis effect="italics">Azathioprine tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=59f3219f-898f-4d05-a430-c2b3f5255af1</para>
-    <para id="para-00096">DailyMed. . (Updated January 6, 2022). <emphasis effect="italics">Bexsero–neisseria meningitidis serogroup b nhba fusion protein antigen, neisseria meningitidis serogroup b FHBP fusion protein antigen and neisseria meningitidis serogroup b nada protein antigen injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f70cf2fc-6e6d-4a74-9f7a-db8fec072fd7</para>
-    <para id="para-00097">DailyMed. (Updated October 15, 2019). <emphasis effect="italics">Bortezomib injection, powder, lyophilized, for solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=287ce008-3d9c-4914-acf0-01c372399b8d</para>
-    <para id="para-00098">DailyMed. (Updated January 31, 2022). <emphasis effect="italics">Celecoxib capsule. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05224473-27dc-4f6d-a52a-c40a7af2f2f4</para>
-    <para id="para-00099">DailyMed. (Updated March 10, 2023). <emphasis effect="italics">Cellcept—mycophenolate mofetil tablet, film coated; Cellcept—mycophenolate mofetil capsule; Cellcept—mycophenolate mofetil hydrochloride injection, powder, lyophilized, for solution; Cellcept—mycophenolate mofetil powder, for suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=37241e87-4af4-4dc3-a1aa-ea6f20d8dc40</para>
-    <para id="para-00100">DailyMed. (Updated June 15, 2022). <emphasis effect="italics">Chloroquine phosphate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eb02c52d-907c-43fb-aa8f-2f378a9087e7</para>
-    <para id="para-00101">DailyMed. (Updated March 5, 2023). <emphasis effect="italics">Colchicine capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee1583ac-c308-4beb-b602-9ecac4977026</para>
-    <para id="para-00102">DailyMed. (Updated April 28, 2023). <emphasis effect="italics">Comirnaty—COVID-19 vaccine, MRNA injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48c86164-de07-4041-b9dc-f2b5744714e5</para>
-    <para id="para-00103">DailyMed. (Updated August 21, 2023). <emphasis effect="italics">Daptacel (Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated), clostridium tetani toxoid antigen (formaldehyde inactivated), bordetella pertussis toxoid antigen (glutaraldehyde inactivated), bordetella pertussis filamentous hemagglutinin antigen- formaldehyde inactivated, bordetella pertussis pertactin antigen, and bordetella pertussis fimbriae 2/3 antigen injection, suspension. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06f34d0f-4e72-41d3-967f-8abf3f2005c1</para>
-    <para id="para-00104">DailyMed. (Updated November 22, 2022). <emphasis effect="italics">Dexamethasone 1.5 mg tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b997c26-e6a3-403c-93fb-b1290cf5dbad</para>
-    <para id="para-00105">DailyMed. (Updated February 3, 2022). <emphasis effect="italics">Diclofenac potassium tablet, coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82218d5c-1625-471a-aabe-f43338e5176b</para>
-    <para id="para-00106">DailyMed. (Updated June 16, 2023). <emphasis effect="italics">Enbrel—etanercept solution, Enbrel—etanercept kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f</para>
-    <para id="para-00107">DailyMed. (Updated July 7, 2023). <emphasis effect="italics">Fluzone high-dose quadrivalent northern hemisphere vaccine. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03f2c9fc-534b-49ec-9113-81938b1eadb9</para>
-    <para id="para-00108">DailyMed. (Updated June 13, 2023). <emphasis effect="italics">Gardasil 9—human papillomavirus 9-valent vaccine, recombinant injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a21f4f4b-b891-4f25-b747-cb9ec7d865d6</para>
-    <para id="para-00109">DailyMed. (Updated September 1, 2022). <emphasis effect="italics">Havrix—hepatitis a vaccine injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f9499a4d-1288-4bd3-9d59-1d72092c38cd</para>
-    <para id="para-00110">DailyMed. (Updated March 15, 2023). <emphasis effect="italics">Hydroxychloroquine sulfate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=84b00366-96ef-41e1-bac6-5d24acdb9e1d</para>
-    <para id="para-00111">DailyMed. (Updated September 29, 2022). <emphasis effect="italics">Indomethacin capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9607920c-4d25-40b9-957e-87e9ca5574e8</para>
-    <para id="para-00112">DailyMed. (Updated December 14, 2022). <emphasis effect="italics">Indomethacin capsule, extended release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dbad7e61-2347-43b1-a422-9183e41c10ea</para>
-    <para id="para-00113">DailyMed. (Updated October 15, 2021). <emphasis effect="italics">Infliximab injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=INFLIXIMAB&amp;pagesize=20&amp;page=1</para>
-    <para id="para-00114">DailyMed. (Updated June 7, 2022). <emphasis effect="italics">IPOL (poliovirus type 1 antigen (formaldehyde inactivated), poliovirus type 2 antigen (formaldehyde inactivated), and poliovirus type 3 antigen- formaldehyde inactivated injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=34a647f5-8728-451b-b918-94c8acd15974</para>
-    <para id="para-00115">DailyMed. (Updated December 8, 2022). <emphasis effect="italics">Meloxicam capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=43e2b0f3-cf34-4f51-aa93-39ed98cab449</para>
-    <para id="para-00116">DailyMed. (Updated August 6, 2021). <emphasis effect="italics">Methotrexate sodium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f1260de-b60c-4f0e-8af6-0e957b0a281b</para>
-    <para id="para-00117">DailyMed. (Updated January 20, 2023). <emphasis effect="italics">Mycophenolic acid tablet, delayed release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dc24aa15-330c-4698-872f-159d7e582b4b</para>
-    <para id="para-00118">DailyMed. (Updated March 4, 2021). <emphasis effect="italics">Neulasta—pegfilgrastim kit</emphasis></para>
-    <para id="para-00119"><emphasis effect="italics">NEULASTA- pegfilgrastim injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fdfe5d72-6b80-435a-afa4-c5d74dd852ce</para>
-    <para id="para-00120">DailyMed. (Updated February 2, 2023). <emphasis effect="italics">Piroxicam capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70be7d33-bc8b-4f48-84c6-a8e3d1476e97</para>
-    <para id="para-00121">DailyMed. (Updated March 7, 2023). <emphasis effect="italics">Pneumovax 23—pneumococcal vaccine polyvalent injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb362a20-6d91-4ae8-bebb-9ee8b2591814</para>
-    <para id="para-00122">DailyMed. (Updated January 31, 2018. <emphasis effect="italics">Prednisone—prednisone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e9d6774e-45f6-419f-b388-8dfb4dd34944</para>
-    <para id="para-00123">DailyMed. (Updated May 5, 2023). <emphasis effect="italics">Prevnar 13—pneumococcal 13-valent conjugate vaccine injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d49181b-b974-a5da-3b38-12a3a87bb96b</para>
-    <para id="para-00124">DailyMed. (Updated December 11, 2018). <emphasis effect="italics">Probenecid tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae126418-5474-4fbe-b83c-bde8b2b4ae6e</para>
-    <para id="para-00125">DailyMed. (Updated May 24, 2023). <emphasis effect="italics">Recombivax HB (hepatitis b vaccine—recombinant injection, suspension).</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5bd99e4-569d-48d5-ba75-16e69f8c409a</para>
-    <para id="para-00126">DailyMed. (Updated June 6, 2023). <emphasis effect="italics">Rituxan—rituximab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b172773b-3905-4a1c-ad95-bab4b6126563</para>
-    <para id="para-00127">DailyMed. (Updated November 4, 2022). <emphasis effect="italics">Rotarix—rotavirus vaccine, live, oral kit; Rotarix—rotavirus vaccine, live, oral solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3182470-1965-4e20-dbaf-e3506f893ea5</para>
-    <para id="para-00128">DailyMed. (Updated March 7, 2023). <emphasis effect="italics">Rotateq—rotavirus vaccine, live, oral, pentavalent solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aaf3b24e-85fd-43ee-b657-2ee4df312ec3</para>
-    <para id="para-00129">DailyMed. (Updated May 22, 2023). <emphasis effect="italics">Shingrix—zoster vaccine recombinant, adjuvanted kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0280849d-5c78-4a9d-8941-4eab429f6bd8</para>
-    <para id="para-00130">DailyMed. (Updated May 11, 2023). <emphasis effect="italics">Spikevax—COVID-19 vaccine, MRNA injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23e93ef9-c51c-4e13-9cb3-e65b6a0f1968</para>
-    <para id="para-00131">DailyMed. (Updated February 28, 2022). <emphasis effect="italics">Sulfasalazine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ad13d598-7b1b-48d3-a25b-08635b419f99</para>
-    <para id="para-00132">DailyMed. (Updated June 26, 2023). <emphasis effect="italics">Varivax—varicella virus vaccine live injection, powder, lyophilized, for suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=524cf052-e90e-4595-af0a-608edbe9bd31</para>
-    <para id="para-00133">Drosos, A. A., Pelechas, E., Kaltsonoudis, E., Markatseli, T. E., &amp; Voulgari, P. V. (2021). Biologic therapies and autoimmune phenomena. <emphasis effect="italics">Mediterranean Journal of Rheumatology, 32</emphasis>(2), 96–103. https://doi.org/10.31138/mjr.32.2.96</para>
-    <para id="para-00134">Ghlichloo, I., &amp; Gerriets, V. (2023). <emphasis effect="italics">Nonsteroidal anti-inflammatory drugs (NSAIDs)</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK547742/</para>
-    <para id="para-00135">Greenspan, N.S. (2023). Epitopes, paratopes, and other topes 30 years on: Understanding what we are talking about. <emphasis effect="italics">Human Immunology,</emphasis> <emphasis effect="italics">84</emphasis>(9), 429–438. doi: 10.1016/j.humimm.2023.06.006. https://pubmed.ncbi.nlm.nih.gov/37407356/</para>
-    <para id="para-00136">Grubbs, H., &amp; Kahwaji, C. I. (2022). <emphasis effect="italics">Physiology, active immunity</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK513280/</para>
-    <para id="para-00137">Hannoodee, S., &amp; Nasuruddin, D. N. (2022). <emphasis effect="italics">Acute inflammatory response</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK556083/</para>
-    <para id="para-00138">Haładyj, E., Sikora, M., Felis-Giemza, A., &amp; Olesińska, M. (2018). Antimalarials—are they effective and safe in rheumatic diseases? <emphasis effect="italics">Reumatologia</emphasis>, <emphasis effect="italics">56</emphasis>(3), 164–173. https://doi.org/10.5114/reum.2018.76904</para>
-    <para id="para-00139">Justiz-Vaillant, A. A., Jamal, Z., Patel, P., &amp; Ramphul, K. (2023). <emphasis effect="italics">Immunoglobulin</emphasis>. StatPearls https://www.ncbi.nlm.nih.gov/books/NBK513460/</para>
-    <para id="para-00140">Justiz-Vaillant, A. A., Sabir, S. &amp; Jan, A. (2022). <emphasis effect="italics">Physiology, immune response</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539801/</para>
-    <para id="para-00141">Karagiannis, S. N. &amp; Arnold, J. N. (2022). Immune cell-antibody interactions in health and disease. <emphasis effect="italics">Clinical and Experimental Immunology</emphasis>, <emphasis effect="italics">209</emphasis>(1), 1–3. https://doi.org/10.1093/cei/uxac065</para>
-    <para id="para-00142">McDermott, A. (2021). Core concept: Herd immunity is an important—and often misunderstood—public health phenomenon. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">118</emphasis>(21), e2107692118. https://doi.org/10.1073/pnas.2107692118</para>
-    <para id="para-00143">Mysler, E., Caubet, M., &amp; Lizarraga, A. (2021). Current and emerging DMARDs for the treatment of rheumatoid arthritis. <emphasis effect="italics">Open Access Rheumatology: Research and Reviews</emphasis>, <emphasis effect="italics">13</emphasis>, 139–152. https://doi.org/10.2147/OARRR.S282627</para>
-    <para id="para-00144">National Institute for Health and Care Excellence (NICE). (2022) <emphasis effect="italics">Gout: diagnosis and management</emphasis>. NICE Guideline, No. 219. https://www.ncbi.nlm.nih.gov/books/NBK583530/</para>
-    <para id="para-00145">Patel, R. H., &amp; Mohiuddin, S. S. (2023). <emphasis effect="italics">Biochemistry, histamine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557790/</para>
-    <para id="para-00146">Shen, S. C., &amp; Dubey, V. (2019). Addressing vaccine hesitancy: Clinical guidance for primary care physicians working with parents. <emphasis effect="italics">Canadian Family Physician, Medecin de Famille Canadien</emphasis>, <emphasis effect="italics">65</emphasis>(3), 175–181. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6515949/</para>
-    <para id="para-00147">Slifka, M. K., &amp; Amanna, I. J. (2018). Passive immunization. <emphasis effect="italics">Plotkin’s Vaccines</emphasis>, 84–95. https://doi.org/10.1016/B978-0-323-35761-6.00008-0</para>
-    <para id="para-00148">Thau, L., Asuka, E., &amp; Mahajan, K. (2023). <emphasis effect="italics">Physiology, opsonization</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534215/</para>
-    <para id="para-00149">U.S. Food and Drug Administration. (2023). <emphasis effect="italics">Biosimilar and interchangeable biologics: More treatment choices. </emphasis>https://www.fda.gov/consumers/consumer-updates/biosimilar-and-interchangeable-biologics-more-treatment-choices</para>
-    <para id="para-00150">World Health Organization (WHO). (2021). <emphasis effect="italics">Vaccines</emphasis>. https://www.who.int/travel-advice/vaccines</para>
-    </section>
-  </content>
-    <glossary>
-    <definition id="def-00001"><term>infection</term> <meaning>when harmful microorganisms, such as bacteria, viruses, fungi, or parasites, invade the body and multiply, leading to disease</meaning></definition>
-    <definition id="def-00002"><term>inflammation</term> <meaning>a natural response of the immune system to tissue injury, infection, or irritation</meaning></definition>
-    <definition id="def-00003"><term>inflammatory response</term> <meaning>the coordinated reaction of the immune system to injury, infection, or harmful stimuli, involving a series of cellular and biochemical processes aimed at eliminating the threat and promoting tissue healing</meaning></definition>
-    </glossary>
-</document>
+      <title>Introduction to the Inflammatory Response and Anti-Inflammatory Drugs</title>
+      <metadata xmlns:md="http://cnx.rice.edu/mdml">
+        <md:title>Introduction to the Inflammatory Response and Anti-Inflammatory Drugs</md:title>
+        <md:content-id>m00243</md:content-id>
+        <md:uuid>8410c9ac-3a95-4060-8b69-0a24913477e8</md:uuid>
+      </metadata>
+      <content>
+        <section class="learning-objectives" id="sect-00001">
+        <title>Learning Outcomes</title>
+        <para id="para-00001">By the end of this section, you should be able to:</para>
+        <list id="list-00001">
+        <item>Describe the pathophysiology of inflammation.</item>
+        <item>Discuss the five cardinal signs of inflammation.</item>
+        <item>Identify the etiology and diagnostic studies related to inflammation.</item>
+        <item>Identify the characteristics of drugs used to treat inflammation.</item>
+        <item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat inflammation.</item>
+        <item>Describe the nursing implications of drugs used to treat inflammation.</item>
+        <item>Explain the client education related to drugs used to treat inflammation.</item>
+        </list>
+        </section>
+        <para id="para-00002">Inflammation, the body’s complex response to harmful stimuli, plays an important role in the immune system’s defense against injury and infection. This section of the chapter explores mechanisms for inflammation and drugs used to treat inflammation.</para>
+        <section id="sect-00002">
+        <section id="sect-00003">
+        <title>Inflammation</title>
+        <para id="para-00003"><term id="term-00001">Inflammation</term> is a fundamental biological response that the body activates in response to harmful stimuli, such as pathogens, tissue injury, or irritants. It is a crucial part of the immune system's defense mechanism, designed to protect the body and initiate the healing process. Inflammation involves a series of intricate events and interactions among cells, chemicals, and blood vessels. When tissues are damaged or infected, various immune cells are recruited to the site of injury or infection (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022). The key players in the inflammatory response include:</para>
+        <list id="list-00002">
+        <item><emphasis effect="italics"><term class="no-emphasis" id="term-00002">Mast cells</term>:</emphasis> These cells are present in connective tissues and release substances such as histamine, which trigger blood vessels to dilate and become more permeable, leading to increased blood flow and leakage of fluid into the affected area.</item>
+        <item><emphasis effect="italics"><term class="no-emphasis" id="term-00003">White blood cells (leukocytes)</term>:</emphasis> Neutrophils and macrophages are the primary types of leukocytes involved in the inflammatory response. They migrate to the site of injury or infection to engulf and destroy invading pathogens and damaged cells.</item>
+        <item><emphasis effect="italics"><term class="no-emphasis" id="term-00004">Cytokines</term>:</emphasis> These are signaling molecules that help regulate the immune response and mediate communication between different cells. Pro-inflammatory cytokines, such as interleukin-1 (IL-1) and tumor necrosis factor-alpha (TNF-α), play a central role in initiating and amplifying the inflammatory process.</item>
+        <item><emphasis effect="italics"><term class="no-emphasis" id="term-00005">Chemokines</term>:</emphasis> These are a subgroup of cytokines that attract immune cells to the site of inflammation, promoting their migration and recruitment.</item>
+        <item>(Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022; Patel &amp; Mohiuddin, 2023)</item>
+        </list>
+        <para id="para-00004">There are five cardinal signs of inflammation that were first described by the Roman encyclopedist Celsus in the 1st century AD and are still widely recognized as classic indicators of an inflammatory response in the body (Cavaillon, 2021). These are (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022):</para>
+        <list id="list-00003">
+        <item><emphasis effect="italics">Redness (rubor):</emphasis> The affected area becomes red due to increased blood flow and dilation of blood vessels in response to inflammation. </item>
+        <item><emphasis effect="italics">Swelling (tumor):</emphasis> Swelling occurs as fluid and immune cells accumulate at the site of inflammation. </item>
+        <item><emphasis effect="italics">Heat (calor):</emphasis> Inflammation leads to increased blood flow and metabolic activity in the affected area, resulting in elevated temperature and warmth. </item>
+        <item><emphasis effect="italics">Pain (dolor):</emphasis> Inflammatory mediators sensitize nerve endings in the affected region, leading to pain. </item>
+        <item><emphasis effect="italics">Loss of function (functio laesa):</emphasis> In more severe cases of inflammation, the affected area may lose some or all of its normal function. This can occur due to the damage caused by the inflammation or the body's protective response to limit further harm.</item>
+        </list>
+        <section id="sect-00004">
+        <title>Pathophysiology </title>
+        <para id="para-00005">The body's <term id="term-00006"><emphasis effect="bold">inflammatory response</emphasis></term> is a complex and coordinated reaction aimed at defending against harmful stimuli and promoting tissue repair (Hannoodee &amp; Nasuruddin, 2022). When tissues are damaged, injured, or infected, various immune cells and chemical mediators work together to initiate and regulate the inflammatory process. The response can be triggered by various factors, including pathogens (e.g., bacteria, viruses), physical injury, toxins, or autoimmune reactions. The inflammatory response (see <link target-id="fig-00001" document="m00243"/>) presents as follows:</para>
+        <list id="list-00004">
+        <item><emphasis effect="italics">Recognition of harmful stimuli:</emphasis> The process begins when the body detects a threat, such as a pathogen or tissue injury. Immune cells, particularly macrophages, recognize these harmful stimuli through pattern recognition receptors.</item>
+        <item><emphasis effect="italics">Release of chemical mediators:</emphasis> Upon recognition of the threat, immune cells release signaling molecules called cytokines, such as interleukins and TNF-α, which trigger the cascade of events that lead to inflammation.</item>
+        <item><emphasis effect="italics">Vasodilation:</emphasis> Cytokines and other chemical mediators cause blood vessels in the affected area to dilate, leading to increased blood flow and allowing more immune cells, antibodies, and nutrients to reach the site of injury or infection.</item>
+        <item><emphasis effect="italics">Increased vascular permeability:</emphasis> The cytokines increase the permeability of blood vessel walls, leading to the leakage of fluid and proteins into the surrounding tissues, which contributes to the swelling, redness, and warmth.</item>
+        <item><emphasis effect="italics">Migration of immune cells:</emphasis> Chemokines attract immune cells, particularly neutrophils and monocytes.</item>
+        <item><emphasis effect="italics">Phagocytosis and immune response</emphasis>: Neutrophils and macrophages engulf and destroy invading pathogens, dead cells, and debris through a process called phagocytosis. This helps contain the infection and clear away damaged tissues.</item>
+        <item><emphasis effect="italics">Activation of the adaptive immune system:</emphasis> As the inflammatory response progresses, dendritic cells, another type of immune cell, process and present antigens from the pathogens to T and B lymphocytes. This leads to the activation of the adaptive immune system, which provides a more specific and targeted response to infection.</item>
+        <item><emphasis effect="italics">Resolution and tissue repair</emphasis>: As the threat is neutralized and the tissue damage begins to heal, the body releases anti-inflammatory cytokines, such as interleukin-10 (IL-10), which promote the resolution of inflammation. Immune cells shift their focus to tissue repair and regeneration.</item>
+        </list>
+        <figure class="scaled-down" id="fig-00001">
+        <media alt="Two diagrams show the inflammatory response when skin is cut. Mast cells detect the pathogens that have been introduced into the body through the cut. They release histamines, which causes mild inflammation and redness. The histamines increase blood flow to the wound, bringing in phagocytes and other immune cells to neutralize the pathogens. The additional blood causes the wound to swell, redden, and become painful.">
+        <image mime-type="image/png" src="../../media/PHA_Figure_06_04_004.png"/></media>
+        <caption>This diagram illustrates the inflammatory response, which results in warmth, redness, pain, and swelling, as well as the recruitment of phagocytes. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+        </figure>
+        <para id="para-00006">The inflammatory response is a highly regulated process that aims to eliminate the threat, initiate healing, and restore tissue function. However, an exaggerated or dysregulated inflammatory response can lead to chronic inflammation and contribute to various diseases. Anti-inflammatory drugs are used to control and modulate this response, providing relief and preventing further tissue damage in certain conditions.</para>
+        </section>
+        <section id="sect-00005">
+        <title>Etiology and Diagnostic Testing</title>
+        <para id="para-00007">Factors that trigger the inflammatory response in the body can arise from various sources, including infections (bacterial, viral, fungal, and parasitic), physical injury to tissue (trauma, burns), autoimmune disorders (rheumatoid arthritis, systemic lupus erythematosus), allergic reactions, irritants, and chronic conditions such as chronic obstructive pulmonary disorders (COPD) and peripheral vascular disorders (PVD).</para>
+        <para id="para-00008">Diagnostic and lab studies are essential for diagnosing and assessing inflammation. Some common tests and investigations include:</para>
+        <list id="list-00005">
+        <item><emphasis effect="italics">Complete blood count (CBC) with differential: </emphasis>This test provides information about the number and types of blood cells, including white blood cells (WBCs). An increased WBC count, particularly neutrophils, can indicate an inflammatory response.</item>
+        <item><emphasis effect="italics">C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR):</emphasis> These blood tests measure markers of inflammation. Elevated levels of CRP or an accelerated ESR suggest the presence of inflammation in the body.</item>
+        <item><emphasis effect="italics">Blood cultures:</emphasis> If an infection is suspected as the cause of inflammation, blood cultures may be performed to identify the specific microorganism responsible.</item>
+        <item><emphasis effect="italics">Imaging studies:</emphasis> X-rays, ultrasounds, CT scans, or MRIs can help visualize inflamed tissues and identify the extent of inflammation or structural damage.</item>
+        <item><emphasis effect="italics">Biopsy:</emphasis> In some cases, a tissue sample may be obtained through a biopsy to determine the cause and severity of inflammation.</item>
+        <item><emphasis effect="italics">Autoantibody testing:</emphasis> For suspected autoimmune disorders, specific autoantibody tests can be conducted to identify abnormal immune responses against the body's own tissues.</item>
+        <item><emphasis effect="italics">Allergy testing:</emphasis> In cases of allergic inflammation, skin tests or blood tests can help identify specific allergens responsible for the allergic response.</item>
+        </list>
+        <para id="para-00009">The combination of clinical evaluation, medical history, and appropriate diagnostic tests helps health care providers diagnose the presence of inflammation, identify its underlying cause, and develop an effective treatment plan to address the condition.</para>
+        </section>
+        </section>
+        <section id="sect-00006">
+        <title>Inflammation versus Infection</title>
+        <para id="para-00010">Inflammation and infection are related but distinct concepts in the context of the body's response to harmful stimuli. Inflammation is a general physiological response of the body to tissue injury, irritation, or foreign substances. It is a part of the body's immune defense mechanism and plays a vital role in protecting and healing tissues. Inflammation can be triggered by various factors, such as physical injury, exposure to irritants, autoimmune reactions, or the presence of pathogens like bacteria or viruses. When tissues are damaged or perceived to be under threat, immune cells and chemical mediators are recruited to the affected site, leading to the characteristic symptoms of inflammation, including redness, swelling, heat, and pain. The inflammatory response aims to eliminate the source of injury or infection, clear away damaged cells and debris, and initiate tissue repair (Chen et al., 2018; Hannoodee &amp; Nasuruddin, 2022).</para>
+        <para id="para-00011"><term id="term-00007">Infection</term>, on the other hand, specifically refers to the invasion and colonization of the body by harmful microorganisms such as bacteria, viruses, or other microbes (CDC, 2016). When pathogens enter the body, they can multiply and cause damage to tissues, leading to illness. Infections can occur in various parts of the body, such as the respiratory tract, urinary tract, gastrointestinal system, or bloodstream. The body responds to infections by initiating an inflammatory response as part of its immune defense mechanism. Infections may or may not cause obvious symptoms of inflammation, depending on the type and location of the infection and the client’s immune response. While not all inflammation is caused by infections, infections frequently lead to an inflammatory response.</para>
+        </section>
+        <section id="sect-00007">
+        <title>Anti-inflammatory Drugs</title>
+        <para id="para-00012">Anti-inflammatory drugs are a classification of drugs used to reduce inflammation, relieve pain, and alleviate fever (Ghlichloo &amp; Gerriets, 2023). These drugs work by inhibiting the production of certain enzymes called cyclooxygenase (COX), which are involved in the synthesis of prostaglandins, hormone like-substances that play a role in the inflammatory response.</para>
+        <section id="sect-00008">
+        <title>Nonsteroidal Anti-inflammatory Drugs </title>
+        <para id="para-00013"><term class="no-emphasis" id="term-00008">Nonsteroidal anti-inflammatory drugs (NSAIDs</term>) inhibit both COX-1 and COX-2 enzymes. COX-1 and COX-2 are enzymes involved in the production of prostaglandins, which are signaling molecules that regulate inflammation and various physiological processes. COX-1 is constitutively present in many tissues and plays a role in maintaining normal bodily functions, such as protecting the stomach lining and regulating blood clotting. COX-2 is induced during inflammation and is primarily responsible for generating prostaglandins that contribute to pain, inflammation, and other responses associated with injury and inflammation. The inhibition of these enzymes helps to decrease inflammation, pain, and fever. These drugs are for short-term use, and many can be found over the counter (OTC). Several subclassifications of NSAIDs are explored in the subsequent sections.</para>
+        </section>
+        <section id="sect-00009">
+        <title>Salicylates</title>
+        <para id="para-00014"><term class="no-emphasis" id="term-00009">Salicylates</term> are a group of chemical compounds that contain a salicylate acid backbone. The most common and well-known salicylate is acetylsalicylic acid, also known as aspirin. Salicylates can be found in various plants, including fruits (such as berries), vegetables (such as spinach), and herbs (such as peppermint). Salicylates are commonly used to alleviate pain, reduce inflammation, and lower fever, making them effective for various conditions, including headaches, arthritis, and minor injuries. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response</link> for additional information on salicylates.</para>
+        <para id="para-00015"><term class="no-emphasis" id="term-00010">Aspirin</term> also has anti-platelet properties which are unrelated to its anti-inflammatory properties. At low doses, aspirin irreversibly inhibits the enzyme cyclooxygenase-1 (COX-1) in platelets, which are specialized blood cells involved in blood clotting, thereby inhibiting platelet aggregation and blood clot formation (see <link document="m00318">Anticoagulant, Antiplatelet, and Thrombolytic Drugs</link> for additional information on aspirin as an antiplatelet).</para>
+        </section>
+        <section id="sect-00010">
+        <title>Phenylacetic Acid Derivatives</title>
+        <para id="para-00016"><term class="no-emphasis" id="term-00011">Phenylacetic acid derivatives</term> are a class of chemical compounds that have a phenylacetic acid structure. These derivatives are often found in medications and are used for various therapeutic purposes. Like salicylates, phenylacetic acid derivatives inhibit the enzyme cyclooxygenase, thereby decreasing inflammation. They also act as an antipyretic and analgesic to alleviate pain. Common phenylacetic acid derivatives include diclofenac and indomethacin. See <link target-id="table-00001" document="m00243"/> for dosing information.</para>
+        </section>
+        <section id="sect-00011">
+        <title>Propionic Acid Derivatives</title>
+        <para id="para-00017"><term class="no-emphasis" id="term-00012">Propionic acid derivatives</term> have a propionic acid base in their chemical structure. They also inhibit the enzyme COX, thereby decreasing inflammation, relieving pain, and reducing fever. Common propionic acid derivatives include ibuprofen and naproxen sodium. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response</link> for additional information on these drugs.</para>
+        </section>
+        <section id="sect-00012">
+        <title>Oxicams</title>
+        <para id="para-00018"><term class="no-emphasis" id="term-00013">Oxicams</term> are a class of NSAIDs that share a common chemical structure called “oxicam.” These drugs work by inhibiting the enzyme COX, thus decreasing the inflammatory response. Oxicams are used for their anti-inflammatory, analgesic (pain-relieving), and antipyretic (fever-reducing) properties, like other NSAIDs. Common oxicams include meloxicam and piroxicam. See <link target-id="table-00001" document="m00243"/> for dosing information.</para>
+        </section>
+        <section id="sect-00013">
+        <title>COX-2 Inhibitors</title>
+        <para id="para-00019"><term class="no-emphasis" id="term-00014">COX-2 inhibitors</term> are a specific class of NSAIDs that selectively target and inhibit the cyclooxygenase-2 (COX-2) enzyme. This class of drugs was developed to provide pain relief and anti-inflammatory effects while minimizing some of the gastrointestinal side effects associated with traditional non-selective NSAIDs, which inhibit both COX-1 and COX-2 enzymes. Celecoxib is the only COX-2 inhibitor on the market in the U.S. See <link target-id="table-00002" document="m00243"/> for additional information.</para>
+        <note class="black-box" id="note-00001">
+        <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
+        <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
+        <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
+        </note>
+        <para id="para-00023"><link target-id="table-00001" document="m00243"/> lists common nonsteroidal anti-inflammatory drugs and typical routes and dosing for adult clients.</para>
+              <table class="vertically-tight" id="table-00001">
+             <tgroup cols="2">
+              <colspec colnum="1" colname="c1" colwidth="1*"/>
+              <colspec colnum="2" colname="c2" colwidth="2*"/>
+             <thead>
+              <row>
+              <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+              <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+              </row>
+              </thead>
+              <tbody>
+              <row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Salicylates</emphasis></entry></row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Salicylic acid</term><newline/>
+        (<term class="no-emphasis" id="term-00016">aspirin</term>)</entry>
+        <entry valign="middle" align="left">Tablet or enteric coated tablet, one or two 325-mg tablets orally every 4 hours while symptoms last.</entry>
+        </row>
+        <row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Phenylacetic Acid Derivatives</emphasis></entry></row>
+        <row>
+        <entry valign="middle" align="center">
+        <term class="no-emphasis" id="term-00017">Diclofenac</term><newline/>
+        (<term class="no-emphasis" id="term-00018">Voltaren</term>)</entry>
+        <entry valign="middle" align="left"><emphasis effect="italics">For the relief of osteoarthritis:</emphasis> 100–150 mg/day orally in divided doses, 50 mg two or three times a day.<newline/>
+        <emphasis effect="italics">For the relief of rheumatoid</emphasis> <emphasis effect="italics">arthritis:</emphasis> 150–200 mg/day orally in divided doses, 50 mg three or four times a day.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Indomethacin</term><newline/>
+        (<term class="no-emphasis" id="term-00020">Indocin, Tivorbex</term>)</entry>
+        <entry valign="middle" align="left"><emphasis effect="italics">Immediate release:</emphasis> 25 mg orally two or three times daily. Increase the daily dosage by 25–50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150–200 mg is reached.<newline/>
+        <emphasis effect="italics">Extended release:</emphasis> 75 mg orally once a day.</entry>
+        </row>
+        <row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Propionic Acid Derivatives</emphasis></entry></row>
+        <row>
+        <entry valign="middle" align="center">
+        <term class="no-emphasis" id="term-00021">Ibuprofen</term><newline/>
+        (<term class="no-emphasis" id="term-00022">Advil</term>)</entry>
+        <entry valign="middle" align="left">200 mg orally every 4–6 hours while symptoms persist.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Naproxen sodium</term><newline/>
+        (<term class="no-emphasis" id="term-00024">Aleve</term>)</entry>
+        <entry valign="middle" align="left">220 mg orally every 8–12 hours while symptoms last. Do not exceed 440 mg in any 8- to 12-hour period; do not exceed 660 mg in a 24-hour period.</entry>
+        </row>
+        <row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Oxicams</emphasis></entry></row>
+        <row>
+        <entry valign="middle" align="center">
+        <term class="no-emphasis" id="term-00025">Meloxicam</term><newline/>
+        (<term class="no-emphasis" id="term-00026">Mobic</term>)</entry>
+        <entry valign="middle" align="left">5 mg orally once daily. May be increased to 10 mg orally in clients who require additional analgesia. Maximum daily dose: 10 mg.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center">
+        <term class="no-emphasis" id="term-00027">Piroxicam</term><newline/>
+        (<term class="no-emphasis" id="term-00028">Feldene</term>)</entry>
+        <entry valign="middle" align="left">20 mg orally once per day.</entry>
+        </row>
+        <row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">COX-2 Inhibitor</emphasis></entry></row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Celecoxib</term><newline/>
+        (<term class="no-emphasis" id="term-00030">Celebrex</term>)</entry>
+        <entry valign="middle" align="left">100–200 mg orally twice daily.</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Emphasis Table: Nonsteroidal Anti-inflammatory Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        <section id="sect-00014">
+        <title>Adverse Effects and Contraindications</title>
+        <para id="para-00024">Although NSAIDs are generally well-tolerated, they can have adverse effects and contraindications that clients should be aware of. It is important to note that the severity and occurrence of adverse effects can vary from person to person, and not everyone will experience all of the listed adverse effects. Common adverse effects of NSAIDs include gastrointestinal issues (stomach pain, heartburn, indigestion, nausea, GI bleeding), headache, dizziness, fluid retention, high blood pressure, renal and liver impairment, and an increased risk of cardiovascular events such as heart attack and stroke.</para>
+        <para id="para-00025">Contraindications include hypersensitivity to the drug or any of its components, having a history of allergies, asthma, or urticaria (hives) after taking aspirin or other NSAIDs, coronary artery bypass graft (CABG) surgery, and with celecoxib sulfonamide allergy.</para>
+        <para id="para-00026"><link target-id="table-00002" document="m00243"/> is a drug prototype table for NSAISs featuring celecoxib. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+        <table class="vertically-tight" id="table-00002">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+        <tbody>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+        NSAID, COX-2 inhibitor<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+        Inhibits prostaglandin synthesis, primarily via inhibition of COX-2</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+        100–200 mg orally twice daily.</entry>
+        </row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+        Osteoarthritis<newline/>
+        Rheumatoid arthritis<newline/>
+        Ankylosing spondylitis<newline/>
+        Acute pain<newline/>
+        Primary dysmenorrhea<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+        Decreases inflammation and pain</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+        No significant interactions<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+        No significant interactions</entry></row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+        Abdominal pain<newline/>
+        Dyspepsia<newline/>
+        Peripheral edema<newline/>
+        Dizziness<newline/>
+        Rash<newline/>
+        Hepatotoxicity<newline/>
+        Renal toxicity<newline/>
+        GI bleeding<newline/>
+        Thrombocythemia<newline/>
+        Bronchospasm<newline/>
+        Photosensitivity</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+        Hypersensitivity<newline/>
+        History of allergies, asthma, or urticaria after taking aspirin or other NSAIDs<newline/>
+        CABG surgery<newline/>
+        Sulfonamide allergy<newline count="2"/>
+        Caution:<newline/>
+        May increase risk of cardiovascular thrombotic events and GI bleeding</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Prototype: Celecoxib (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        </section>
+        <section id="sect-00015">
+        <title>Glucocorticoid Drugs</title>
+        <para id="para-00027"><term class="no-emphasis" id="term-00031">Glucocorticoids</term>, also known as <term class="no-emphasis" id="term-00032">corticosteroids</term> or simply steroids, are a class of anti-inflammatory drugs that mimic the action of naturally occurring hormones produced by the adrenal glands. These hormones, specifically cortisol, play a crucial role in regulating the body's response to stress and inflammation. When used as medication, synthetic glucocorticoids have potent anti-inflammatory effects due to their ability to modify the immune response. See <emphasis effect="bold"><link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link></emphasis> and  <emphasis effect="bold"><link document="m00403">Adrenal, Pituitary, and Hypothalamus Disorder Drugs</link></emphasis> for drug information on glucocorticoids.</para>
+        </section>
+        <section id="sect-00016">
+        <title>Disease-Modifying Antirheumatic Drugs (DMARDs)</title>
+        <para id="para-00028"><term class="no-emphasis" id="term-00033">Disease-modifying antirheumatic drugs (DMARDs</term>) are a class of medications used primarily to treat autoimmune and inflammatory conditions such as rheumatoid arthritis (Benjamin et al., 2022; Mysler et al., 2021) These drugs work by targeting specific components of the immune system to suppress the abnormal immune reaction responsible for causing inflammation and tissue damage.</para>
+        <para id="para-00029">DMARDs have immunomodulatory effects, meaning they modify the immune response rather than just providing symptomatic relief. The main goal of DMARDs is to slow down or modify the underlying disease process, reduce joint damage, and improve long-term outcomes for clients with autoimmune diseases. They may take weeks to months to achieve the disease-modifying effects. DMARDs are usually prescribed for long-term use and are considered the ongoing management of autoimmune conditions.</para>
+        <para id="para-00030">Conversely, non-DMARDs, such as NSAIDs and glucocorticoids, primarily provide symptomatic relief by reducing pain and inflammation. They do not alter the underlying disease process or the progression of the autoimmune condition. Non-DMARDs are often used for short-term and intermittent relief of acute symptoms, especially pain and inflammation. Non-DMARDs are often used in combination with DMARDs for comprehensive autoimmune disease management.</para>
+        <para id="para-00031">DMARDs can include both biologics and non-biologic drugs (Mysler et al., 2021). The choice of DMARD depends on the specific condition being treated, disease severity, individual response, and potential side effects. Treatment decisions are made in consultation with a health care provider who will tailor the therapy to each client’s unique needs and health status.</para>
+        <section id="sect-00017">
+        <title>Biologic DMARDs</title>
+        <para id="para-00032"><term class="no-emphasis" id="term-00034">Biologic DMARDs</term> are drugs derived from living cells or organisms. They are typically large, complex molecules produced through biotechnology processes. They target specific components of the immune system to suppress the abnormal immune response seen in autoimmune diseases. Biologic drugs such as adalimumab, etanercept, infliximab, and rituximab are discussed in <link document="m00242"><emphasis effect="bold">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</emphasis></link>.</para>
+        </section>
+        <section id="sect-00018">
+        <title>Non-biologic DMARDs</title>
+        <para id="para-00033"><term class="no-emphasis" id="term-00035">Non-biologic DMARDs,</term> also known as conventional or synthetic DMARDs, are small-molecule drugs synthesized chemically. They are not derived from living sources and typically have a more general or broader mode of action. They may act on multiple targets within the immune system or inhibit enzymes that play a role in the inflammatory process. For example, methotrexate inhibits an enzyme involved in the synthesis of DNA and RNA, which affects rapidly dividing cells, including immune cells. Common non-biologic DMARDs include methotrexate, sulfasalazine, and gold salts. See <link target-id="table-00003" document="m00243"/> for dosing information and <link target-id="table-00004" document="m00243"/> for additional information on methotrexate.</para>
+        <para id="para-00034"><link target-id="table-00003" document="m00243"/> lists common non-biologic DMARDs and typical routes and dosing for adult clients.</para>
+              <table class="vertically-tight" id="table-00003">
+             <tgroup cols="2">
+              <colspec colnum="1" colname="c1" colwidth="1*"/>
+              <colspec colnum="2" colname="c2" colwidth="2*"/>
+             <thead>
+              <row>
+              <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+              <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+              </row>
+              </thead>
+              <tbody>
+              <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Methotrexate</term><newline/>
+        (<term class="no-emphasis" id="term-00037">Trexall</term>)</entry>
+        <entry valign="middle" align="left">7.5 mg orally once weekly with escalation to achieve optimal response. Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00038">Sulfasalazine</term><newline/>
+        (<term class="no-emphasis" id="term-00039">Azulfidine</term>)</entry>
+        <entry valign="middle" align="left"><emphasis effect="italics">Initial therapy:</emphasis> 3000–4000 mg orally daily in evenly divided doses with dosage intervals not exceeding 8 hours.<newline/>
+        <emphasis effect="italics">Maintenance therapy:</emphasis> 2000 mg orally daily. </entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Emphasis Table: Non-Biologic Disease-Modifying Anti-Rheumatic Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        <section id="sect-00019">
+        <title>Adverse Effects and Contraindications</title>
+        <para id="para-00035">Common adverse effects for non-biologic DMARDs include nausea/vomiting, diarrhea, abdominal pain, hepatotoxicity, rash, anemia, thrombocytopenia, neutropenia, photosensitivity, elevated blood pressure, hair loss, hypotension, pancreatitis, and with methotrexate, optic neuritis. Contraindications include hypersensitivity to the drug of any of its constituents, pregnancy and/or breastfeeding, myelosuppression, live vaccines, alcohol use, pre-existing bleeding disorders, and in clients who have an active infection. For adverse effects and contraindications for biologic DMARDs see <link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link> in this chapter.</para>
+        <para id="para-00036"><link target-id="table-00004" document="m00243"/> is a drug prototype table for DMARDs featuring methotrexate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+        <table class="vertically-tight" id="table-00004">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+        <tbody>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+        Anti-inflammatory, DMARDs, antineoplastic<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+        Inhibits enzyme AICAR transformylase, leading to hindrance in adenosine and guanine metabolism, thereby decreasing inflammation</entry>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+        7.5 mg orally once weekly with escalation to achieve optimal response. Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.</entry>
+        </row>
+        <row>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+        Rheumatoid arthritis<newline/>
+        Psoriasis<newline/>
+        Acute lymphoblastic leukemia and non-Hodgkin lymphoma<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+        Decreases inflammation<newline/>
+        Suppresses the immune response</entry>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+        Neomycin<newline/>
+        Antifolate drugs<newline/>
+        NSAIDs<newline/>
+        Phenytoin<newline/>
+        Probenecid<newline/>
+        Folic acid<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+        No significant interactions</entry>
+        </row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+        Deep vein thrombosis/pulmonary emboli<newline/>
+        Hypotension<newline/>
+        Hyperglycemia<newline/>
+        Optic neuropathy<newline/>
+        Pancreatitis<newline/>
+        Anemia<newline/>
+        Hepatoxicity<newline/>
+        Osteoporosis<newline/>
+        Alopecia<newline/>
+        Hematuria<newline/>
+        Pulmonary fibrosis<newline/>
+        Skin necrosis</entry>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+        Hypersensitivity<newline/>
+        Pregnancy and/or breastfeeding<newline/>
+        Myelosuppression<newline/>
+        Live vaccines<newline/>
+        Alcohol use<newline/>
+        Pre-existing bleeding disorders<newline/>
+        Active infection<newline count="2"/>
+        Caution <newline/>
+        May cause myelosuppression</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Prototype: Methotrexate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        <note class="black-box" id="note-00002">
+        <para id="para-00037"><emphasis effect="bold">Methotrexate and Gold Salts</emphasis></para>
+        <para id="para-00038">Methotrexate can cause embryo-fetal toxicity, including fetal death. For non-neoplastic diseases, methotrexate tablets are contraindicated in pregnancy. For neoplastic diseases, advise clients of child-bearing age of the potential risk to a fetus and to use effective contraception.</para>
+        <para id="para-00039">Serious adverse reactions, including death, have been reported with methotrexate. Closely monitor for adverse reactions of the bone marrow, gastrointestinal tract, liver, lungs, skin, and kidneys. Withhold or discontinue methotrexate tablets as appropriate.</para>
+        </note>
+        </section>
+        </section>
+        <section id="sect-00020">
+        <title>Antimalarial Drugs</title>
+        <para id="para-00040"><term class="no-emphasis" id="term-00040">Antimalarial drugs</term> are a group of medications primarily used to treat and prevent malaria, a parasitic infection transmitted by mosquito bites. However, some antimalarial drugs have been found to have beneficial effects in the treatment of certain autoimmune diseases due to their immunomodulatory properties.</para>
+        <para id="para-00041">The exact mechanisms of action of these drugs in autoimmune diseases are not fully understood, but they are believed to modulate the immune response by influencing the function of immune cells and cytokines involved in the inflammatory process (Haładyj et al., 2018). Therefore, they help to control disease activity by decreasing inflammation, slowing joint damage, and preserving joint function, reducing the frequency of flares and improving overall disease management.</para>
+        <para id="para-00042">The two main antimalarial drugs used in autoimmune disease treatment are hydroxychloroquine and chloroquine. These drugs are known to have anti-inflammatory and immunomodulatory effects, which can help in managing autoimmune conditions.</para>
+        <para id="para-00043">It is important to note that while antimalarial drugs can be beneficial for some clients with autoimmune diseases, not everyone responds the same way to these medications. The decision to suggest antimalarial drugs as part of the treatment plan is made by a health care professional, who considers the specific autoimmune condition, disease severity, individual response, and potential side effects.</para>
+        <section id="sect-00021">
+        <title>Hydroxychloroquine</title>
+        <para id="para-00044"><term class="no-emphasis" id="term-00041">Hydroxychloroquine</term> is the more commonly prescribed antimalarial drug for autoimmune disease treatment. It is used to manage conditions such as systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). Hydroxychloroquine works by interfering with the immune response and dampening the activity of certain immune cells. It can help reduce inflammation, slow disease progression, preserve joint function, and improve disease control in some clients with autoimmune disorders. See <link target-id="table-00006" document="m00243"/> for additional information on hydroxychloroquine.</para>
+        </section>
+        <section id="sect-00022">
+        <title>Chloroquine</title>
+        <para id="para-00045">Chloroquine shares similar properties with hydroxychloroquine. It has been used to treat autoimmune diseases, but its use has decreased due to the availability of hydroxychloroquine, which is considered to have a better safety profile.</para>
+        <para id="para-00046"><link target-id="table-00005" document="m00243"/> lists common antimalarial drugs with typical routes and dosing for adult clients.</para>
+              <table class="vertically-tight" id="table-00005">
+             <tgroup cols="2">
+              <colspec colnum="1" colname="c1" colwidth="1*"/>
+              <colspec colnum="2" colname="c2" colwidth="2*"/>
+             <thead>
+              <row>
+              <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+              <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+              </row>
+              </thead>
+              <tbody>
+              <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00042">Hydroxychloroquine</term><newline/>
+        (<term class="no-emphasis" id="term-00043">Plaquenil</term>)</entry>
+        <entry valign="middle" align="left"><emphasis effect="italics">Initial dosage</emphasis>: 400–600 mg orally daily.<newline/>
+        <emphasis effect="italics">Chronic dosage:</emphasis> 200–400 mg orally daily.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Chloroquine</term><newline/>
+        (<term class="no-emphasis" id="term-00045">Chloroquine FNA</term>)</entry>
+        <entry valign="middle" align="left">500 mg orally once per week on exactly the same day of each week.</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Emphasis Table: Antimalarial Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        <section id="sect-00023">
+        <title>Adverse Effects and Contraindications</title>
+        <para id="para-00047">Common adverse effects of antimalarials used as anti-inflammatories include gastrointestinal issues (nausea, vomiting, diarrhea, abdominal pain), prolonged QT interval, tachycardia, rash, itching, hepatotoxicity, renal impairment, photosensitivity, visual field disturbances, retinopathy, alopecia, myopathy and muscle weakness, agranulocytosis, and aplastic anemia.</para>
+        <para id="para-00048">Contraindications include hypersensitivity to the drug or any of its components, preexisting eye conditions such as macular degeneration, preexisting heart conditions such as arrythmias, pregnancy and/or breastfeeding, and liver or renal impairment.</para>
+        <para id="para-00049"><link target-id="table-00006" document="m00243"/> is a drug prototype table for antimalarial drugs featuring hydroxychloroquine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+        <table class="vertically-tight" id="table-00006">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+        <tbody>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+        Antimalarial<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+        Inhibits antigen presentation, B- and T-cell activation and NOX signaling</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+        <emphasis effect="italics">Initial dosage</emphasis>: 400–600 mg orally daily. <emphasis effect="italics">Chronic dosage:</emphasis> 200–400 mg orally daily.</entry>
+        </row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+        Rheumatoid arthritis<newline/>
+        Systemic lupus erythematosus<newline/>
+        Chronic discoid lupus erythematosus<newline/>
+        Malaria<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+        Decreases inflammation<newline/>
+        Suppresses the immune response</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+        Antiarrhythmics<newline/>
+        Antiepileptics<newline/>
+        Methotrexatey<newline/>
+        Digoxin<newline/>
+        Cimetidine<newline/>
+        Rifampin<newline/>
+        Praziquantel<newline/>
+        Antacids<newline/>
+        Ampicillin<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+        No significant interactions</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center">
+        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+        Bone marrow suppression<newline/>
+        Anemia/thrombocytopenia<newline/>
+        Prolonged QT interval<newline/>
+        Tachycardia<newline/>
+        Pulmonary hypertension<newline/>
+        Retinopathy/visual field disturbances<newline/>
+        Nausea/vomiting<newline/>
+        Fatigue<newline/>
+        Urticaria<newline/>
+        Myopathy<newline/>
+        Headache<newline/>
+        Seizure<newline/>
+        Alopecia<newline/>
+        Hepatotoxicity<newline/>
+        Renal impairment</entry>
+        <entry valign="top"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+        Hypersensitivity<newline/>
+        Pregnancy and/or breastfeeding<newline/>
+        Preexisting eye conditions<newline/>
+        Preexisting heart conditions<newline/>
+        Liver or renal impairment<newline count="2"/>
+        Caution:<newline/>
+        May worsen eye conditions such as macular degeneration</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Prototype: Hydroxychloroquine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        </section>
+        <section id="sect-00024">
+        <title>Antigout Drugs</title>
+        <para id="para-00050"><term class="no-emphasis" id="term-00046">Antigout drugs</term> are a class of medications used to treat gout, a condition caused by the buildup of uric acid crystals in the joints. These drugs work to manage acute gout attacks and prevent future gout flares by reducing the level of uric acid in the body or by alleviating inflammation and pain associated with gout attacks (NICE, 2022).</para>
+        <para id="para-00051">Although various drugs can be used to treat gout, including glucocorticoids and NSAIDs, this section of the chapter will only discuss the more common drugs used to treat gout (and its inflammatory response): colchicine, allopurinol, and probenecid.</para>
+        <section id="sect-00025">
+        <title>Colchicine</title>
+        <para id="para-00052"><term class="no-emphasis" id="term-00047">Colchicine</term> is an alkaloid drug derived from the autumn crocus plant. It is used to treat acute gout attacks and can help reduce inflammation and pain in the affected joints. Colchicine works by interfering with the movement of white blood cells to the inflamed area, thereby reducing the inflammatory response. Despite its effectiveness, colchicine has side effects that may impact compliance with the medication regimen. These include gastrointestinal disturbances such as severe diarrhea, abdominal pain, nausea, and vomiting. Health care providers should discuss this drug thoroughly with the client so that gout can be adequately managed. See <link target-id="table-00008" document="m00243"/> for additional information on colchicine.</para>
+        </section>
+        <section id="sect-00026">
+        <title>Allopurinol</title>
+        <para id="para-00053"><term class="no-emphasis" id="term-00048">Allopurinol</term> is a medication used primarily to manage gout and certain other conditions associated with elevated levels of uric acid in the body. It is classified as a xanthine oxidase inhibitor and primarily works to lower uric acid levels in the body by inhibiting the enzyme xanthine oxidase.</para>
+        <para id="para-00054">When <term class="no-emphasis" id="term-00049">uric acid</term> crystals accumulate in the joints, they can provoke an inflammatory response by activating the immune system. This leads to the release of inflammatory cytokines and other mediators that cause the characteristic swelling, redness, and pain associated with gout attacks. By lowering uric acid levels, allopurinol helps to reduce the frequency and severity of gout attacks, thereby indirectly contributing to the reduction of inflammation.</para>
+        <para id="para-00055">While allopurinol is effective in managing gout and preventing gout attacks, it may take several weeks or months of continuous use to achieve full benefits. See <link target-id="table-00007" document="m00243"/> for dosing information.</para>
+        </section>
+        <section id="sect-00027">
+        <title>Probenecid</title>
+        <para id="para-00056"><term class="no-emphasis" id="term-00050">Probenecid</term> is classified as a uricosuric agent, which means it works by increasing the excretion of uric acid in the urine. It does this by inhibiting the reabsorption of uric acid in the kidneys, which leads to more uric acid being eliminated from the body through urine. By increasing the excretion of uric acid, probenecid helps lower the levels of uric acid in the blood, reducing the risk of uric acid crystal formation and gout attacks. Probenecid indirectly helps to manage the inflammatory response associated with gout.</para>
+        <para id="para-00057"><link target-id="table-00007" document="m00243"/> lists common antigout drugs with typical routes and dosing for adult clients.</para>
+        <table class="vertically-tight" id="table-00007">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="c1" colwidth="1*"/>
+        <colspec colnum="2" colname="c2" colwidth="2*"/>
+        <thead>
+        <row>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        </row>
+        </thead>
+        <tbody>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00051">Colchicine</term><newline/>
+        (<term class="no-emphasis" id="term-00052">Colcrys</term>)</entry>
+        <entry valign="middle" align="left">0.6 mg orally once or twice daily; maximum dose 1.2 mg per day.</entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00053">Allopurinol</term><newline/>
+        (<term class="no-emphasis" id="term-00054">Zyloprim</term>)</entry>
+        <entry valign="middle" align="left"><emphasis effect="italics">For mild gout</emphasis>: 200–300 mg/day orally.<newline/>
+        <emphasis effect="italics">For moderately severe tophaceous gout: </emphasis>400–600 mg/day orally. </entry>
+        </row>
+        <row>
+        <entry valign="middle" align="center"><term class="no-emphasis" id="term-00055">Probenecid</term><newline/>
+        (<term class="no-emphasis" id="term-00056">Probalan</term>)</entry>
+        <entry valign="middle" align="left">250 mg orally twice a day for one week, followed by 500 mg orally twice a day thereafter.</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Emphasis Table: Antigout Drugs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        <section id="sect-00028">
+        <title>Adverse Effects and Contraindications</title>
+        <para id="para-00058">Common adverse effects of antigout drugs include abdominal pain and cramping, nausea, vomiting, diarrhea, myopathy, abnormal liver and renal function, rash, and neuropathy. Common contraindications include hypersensitivity to the drug or any of its components, and renal or hepatic impairment.</para>
+        <para id="para-00059"><link target-id="table-00008" document="m00243"/> is a drug prototype table for antigout drugs featuring colchicine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+        <table class="vertically-tight" id="table-00008">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="col1" colwidth="1*"/>
+        <colspec colnum="2" colname="col2" colwidth="1*"/>
+        <tbody>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+        Antigout, alkaloid<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+        Inhibits expression of E-selectin on endothelial cells and prevents neutrophil adhesion</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+        0.6 mg orally once or twice daily. Maximum dose: 1.2 mg per day.</entry>
+        </row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+        Prophylaxis of gout flare-ups<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+        Decreases inflammation and pain</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+        CYP3A4 inhibitors<newline/>
+        P-glycoprotein inhibitors<newline/>
+        HMG-CoA reductase inhibitors<newline/>
+        Fibrates<newline/>
+        Voriconazole<newline/>
+        Fluconazole<newline/>
+        Cimetidine<newline/>
+        Propafenone<newline count="2"/>
+        <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+        Grapefruit and grapefruit juice</entry>
+        </row>
+        <row>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+        Gastrointestinal (abdominal cramps/pain, diarrhea, nausea/vomiting)<newline/>
+        Sensory motor neuropathy<newline/>
+        Rash<newline/>
+        Alopecia<newline/>
+        Leukopenia/thrombocytopenia/pancytopenia<newline/>
+        Elevated AST and/or ALT<newline/>
+        Myopathy and muscle weakness/pain<newline/>
+        Elevated CPK<newline/>
+        Azoospermia/oligospermia (conditions affecting sperm motility or sperm count)</entry>
+        <entry valign="top">
+        <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+        Hypersensitivity<newline/>
+        Renal impairment<newline/>
+        Hepatic impairment<newline count="2"/>
+        Caution:<newline/>
+        May cause colchicine toxicity when used concomitantly with CYP3A4 inhibitors and P-glycoprotein inhibitors</entry>
+        </row>
+        </tbody>
+        </tgroup>
+        <caption>Drug Prototype: Colchicine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        </table>
+        </section>
+        </section>
+        <section id="sect-00029">
+        <title>Nursing Implications</title>
+        <para id="para-00060">The nurse should do the following when administering antigout drugs to clients:</para>
+        <list id="list-00006">
+        <item>Before administering antigout drugs, conduct a thorough assessment of the client's medical history, current medications, allergies, and kidney and liver function.</item>
+        <item>Monitor the following laboratory studies: serum uric acid levels to assess effectiveness of medications in reducing uric acid levels, liver function for hepatotoxicity, renal function for nephrotoxicity, and electrolyte levels which may be impacted by the use of these drugs.</item>
+        <item>Educate the client about the drug’s purpose, potential side effects, and benefits to help the client make an informed decision about the treatment plan.</item>
+        <item>Some antigout drugs may have potential side effects or interactions with other medications. The nurse should be vigilant for signs of adverse effects and monitor for drug interactions that could affect the client's health.</item>
+        <item>Antigout drugs, especially during initial treatment, may not provide immediate relief of symptoms during an acute gout attack. The nurse should offer emotional support and symptom management strategies to help alleviate pain and discomfort.</item>
+        <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+        </list>
+        <note class="client-teaching" id="note-00003">
+        <para id="para-00061"><emphasis effect="bold">The client taking an antigout drug should:</emphasis></para>
+        <list id="list-00007">
+        <item>Take the medication at the scheduled times and follow the prescribed dosage. Consistent adherence to the medication regimen helps control uric acid levels and prevent gout attacks. </item>
+        <item>Maintain adequate hydration by drinking plenty of water throughout the day to help the kidneys flush out excess uric acid from the body. </item>
+        <item>Report adverse effects such as rash, diarrhea, muscle pain, and weakness to the health care provider, as these may be adverse effects of the medication.</item>
+        <item>Avoid purine-rich foods, such as red meats, organ meats, and seafood, as these can lead to increased uric acid levels in the body and exacerbate gout flare-ups.</item>
+        <item>Keep follow-up appointments to have uric acid levels assessed and to ensure that medication management is effective.</item>
+        </list>
+        <para id="para-00062"><emphasis effect="bold">The client taking an antigout drug <emphasis effect="italics">should not:</emphasis></emphasis></para>
+        <list id="list-00008">
+        <item>Become dehydrated when using probenecid, as this may increase the risk of kidney stone formation.</item>
+        <item>Eat grapefruit or drink grapefruit juice when taking colchicine, as this may impact the efficacy of the drug.</item>
+        </list>
+        </note>
+        </section>
+        </section>
+        <section class="chapter-summary" id="sect-00030">
+        <para id="para-00063">This chapter provided a comprehensive understanding of the immune system and immunity, its significance in disease prevention, and the importance of vaccination. It explained the differences between natural and active acquired immunity, as well as active and passive immunity. The chapter identified common diseases preventable through vaccination and emphasizes the role of client education in promoting vaccine uptake for public health.</para>
+        <para id="para-00064">The chapter also introduced immunosuppressants, biologics, monoclonal antibodies, and biosimilar drugs, including their indications, actions, adverse reactions, contraindications, and potential interactions. Nursing implications for the safe administration and monitoring of these drugs, considering their impact on the immune system, were discussed.</para>
+        <para id="para-00065">The last section focused on understanding inflammation, its pathophysiology, and the five cardinal signs of inflammation. Causes and diagnostic studies related to inflammatory conditions were explored. The chapter covered the characteristics of drugs used to treat inflammation, their indications, mechanisms of action, potential adverse reactions, contraindications, and interactions. Nursing implications for the safe and effective administration of these drugs were emphasized, along with the importance of client education to promote adherence and effective management of these conditions.</para>
+        </section>
+        <section class="review-questions" id="sect-00031">
+              <title>Review Questions</title>
+              <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00066"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec01_RQ1"/></para></problem></exercise>
+              <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00067"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ2"/></para></problem></exercise>
+              <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00068"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ3"/></para></problem></exercise>
+              <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00069"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ4"/></para></problem></exercise>
+              <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00070"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ5"/></para></problem></exercise>
+              <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00071"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec02_RQ6"/></para></problem></exercise>
+              <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00072"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ7"/></para></problem></exercise>
+              <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00073"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec04_RQ8"/></para></problem></exercise>
+              <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00074"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec02_RQ9"/></para></problem></exercise>
+              <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00075"><link class="os-embed" url="#exercise/PHAR_Ch06_Sec03_RQ10"/></para></problem></exercise>
+              </section>
+        <section class="references" id="sect-00032">
+        <title>References</title>   
+        <para id="para-00076">American Cancer Society. (2018). <emphasis effect="italics">Understanding biologic and biosimilar drugs</emphasis>. https://www.fightcancer.org/policy-resources/understanding-biologic-and-biosimilar-drugs</para>
+        <para id="para-00077">Aziz, M., Iheanacho, F., Hashmi, M. F. (2023). <emphasis effect="italics">Physiology, antibody</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK546670/</para>
+        <para id="para-00078">Bardhan, M., &amp; Kaushik, R. (2023). <emphasis effect="italics">Physiology, complement cascade</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK551511/</para>
+        <para id="para-00079">Benjamin, O., Goyal, A., &amp; Lappin, S. L. (2022). <emphasis effect="italics">Disease-modifying antirheumatic drugs (DMARD)</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK507863/</para>
+        <para id="para-00080">Cavaillon, J. M. (2021). Once upon a time, inflammation. <emphasis effect="italics">The Journal of Venomous Animals and Toxins Including Tropical Diseases, </emphasis>27, e20200147. https://doi.org/10.1590/1678-9199-JVATITD-2020-0147</para>
+        <para id="para-00081">Centers for Disease Control and Prevention (CDC). (2016). <emphasis effect="italics">How infections spread. </emphasis>https://www.cdc.gov/infectioncontrol/spread/index.html</para>
+        <para id="para-00082">Centers for Disease Control and Prevention (CDC). (2021). <emphasis effect="italics">Vaccines and preventable diseases</emphasis>. https://www.cdc.gov/vaccines/vpd/mmr/public/index.html</para>
+        <para id="para-00083">Centers for Disease Control and Prevention (CDC). (2023a). <emphasis effect="italics">How vaccines work.</emphasis> https://www.cdc.gov/vaccines/hcp/conversations/understanding-vacc-work.html</para>
+        <para id="para-00084">Centers for Disease Control and Prevention (CDC). (2023b). <emphasis effect="italics">Immunization schedules</emphasis>. https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html</para>
+        <para id="para-00085">Chen, L., Deng, H., Cui, H., Fang, J., Zuo, Z., Deng, J., Li, Y., Wang, X., &amp; Zhao, L. (2018). Inflammatory responses and inflammation-associated diseases in organs. <emphasis effect="italics">Oncotarget, 9</emphasis>(6), 7204–7218. https://doi.org/10.18632/oncotarget.23208</para>
+        <para id="para-00086">DailyMed. (Updated July 21, 2023) <emphasis effect="italics">Acthib–haemophilus influenzae type b strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen kit</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8143d01c-4911-40db-95b2-47f3ebea2a7d</para>
+        <para id="para-00087">DailyMed. (Updated March 9, 2023) <emphasis effect="italics">Adalimumab–adalimumab-adaz injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3468792f-63ef-4916-8ed1-8214f327d9dd</para>
+        <para id="para-00088">DailyMed. (Updated October 18, 2022). <emphasis effect="italics">Advil–ibuprofen sodium tablet, coated. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5be198b8-396e-4b44-8819-e2e3b5d2ad0e</para>
+        <para id="para-00089"> DailyMed. (Updated June 30, 2023). <emphasis effect="italics">Afluria quadrivalent (influenza a virus a/victoria/4897/2022 ivr-238 (h1n1) antigen (propiolactone inactivated), influenza a virus a/darwin/6/2021 ivr-227 (h3n2) antigen (propiolactone inactivated), influenza b virus b/austria/1359417/2021 bvr-26 antigen (propiolactone inactivated), influenza b virus b/phuket/3073/2013 bvr-1b antigen- propiolactone inactivated injection, suspension. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb8f92de-56eb-41e3-b3f8-f1b9911e3c40</para>
+        <para id="para-00090">DailyMed. (Updated October 31, 2022). <emphasis effect="italics">Aleve caplets–naproxen sodium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a3745850-3e32-4884-b315-161bcb9996ed</para>
+        <para id="para-00091">DailyMed. (Updated January 31, 2019). <emphasis effect="italics">Allopurinol tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a80fe56f-8d03-423f-8e2a-7ec8c9e5045b</para>
+        <para id="para-00092">DailyMed. (Updated May 22, 2022). <emphasis effect="italics">Aspirin 325 mg–aspirin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d71a22e8-9e39-a672-e053-2a95a90a1403</para>
+        <para id="para-00093">DailyMed. (Updated February 24, 2022). <emphasis effect="italics">Aspirin 325 mg EC–aspirin tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d0449d2-c0c6-4e74-931b-35dc62584028</para>
+        <para id="para-00094">DailyMed. (Updated September 23, 2022). <emphasis effect="italics">Avastin–bevacizumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e</para>
+        <para id="para-00095">DailyMed. (Updated December 21, 2022). <emphasis effect="italics">Azathioprine tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=59f3219f-898f-4d05-a430-c2b3f5255af1</para>
+        <para id="para-00096">DailyMed. . (Updated January 6, 2022). <emphasis effect="italics">Bexsero–neisseria meningitidis serogroup b nhba fusion protein antigen, neisseria meningitidis serogroup b FHBP fusion protein antigen and neisseria meningitidis serogroup b nada protein antigen injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f70cf2fc-6e6d-4a74-9f7a-db8fec072fd7</para>
+        <para id="para-00097">DailyMed. (Updated October 15, 2019). <emphasis effect="italics">Bortezomib injection, powder, lyophilized, for solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=287ce008-3d9c-4914-acf0-01c372399b8d</para>
+        <para id="para-00098">DailyMed. (Updated January 31, 2022). <emphasis effect="italics">Celecoxib capsule. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05224473-27dc-4f6d-a52a-c40a7af2f2f4</para>
+        <para id="para-00099">DailyMed. (Updated March 10, 2023). <emphasis effect="italics">Cellcept—mycophenolate mofetil tablet, film coated; Cellcept—mycophenolate mofetil capsule; Cellcept—mycophenolate mofetil hydrochloride injection, powder, lyophilized, for solution; Cellcept—mycophenolate mofetil powder, for suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=37241e87-4af4-4dc3-a1aa-ea6f20d8dc40</para>
+        <para id="para-00100">DailyMed. (Updated June 15, 2022). <emphasis effect="italics">Chloroquine phosphate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eb02c52d-907c-43fb-aa8f-2f378a9087e7</para>
+        <para id="para-00101">DailyMed. (Updated March 5, 2023). <emphasis effect="italics">Colchicine capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee1583ac-c308-4beb-b602-9ecac4977026</para>
+        <para id="para-00102">DailyMed. (Updated April 28, 2023). <emphasis effect="italics">Comirnaty—COVID-19 vaccine, MRNA injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48c86164-de07-4041-b9dc-f2b5744714e5</para>
+        <para id="para-00103">DailyMed. (Updated August 21, 2023). <emphasis effect="italics">Daptacel (Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated), clostridium tetani toxoid antigen (formaldehyde inactivated), bordetella pertussis toxoid antigen (glutaraldehyde inactivated), bordetella pertussis filamentous hemagglutinin antigen- formaldehyde inactivated, bordetella pertussis pertactin antigen, and bordetella pertussis fimbriae 2/3 antigen injection, suspension. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06f34d0f-4e72-41d3-967f-8abf3f2005c1</para>
+        <para id="para-00104">DailyMed. (Updated November 22, 2022). <emphasis effect="italics">Dexamethasone 1.5 mg tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b997c26-e6a3-403c-93fb-b1290cf5dbad</para>
+        <para id="para-00105">DailyMed. (Updated February 3, 2022). <emphasis effect="italics">Diclofenac potassium tablet, coated</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82218d5c-1625-471a-aabe-f43338e5176b</para>
+        <para id="para-00106">DailyMed. (Updated June 16, 2023). <emphasis effect="italics">Enbrel—etanercept solution, Enbrel—etanercept kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f</para>
+        <para id="para-00107">DailyMed. (Updated July 7, 2023). <emphasis effect="italics">Fluzone high-dose quadrivalent northern hemisphere vaccine. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03f2c9fc-534b-49ec-9113-81938b1eadb9</para>
+        <para id="para-00108">DailyMed. (Updated June 13, 2023). <emphasis effect="italics">Gardasil 9—human papillomavirus 9-valent vaccine, recombinant injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a21f4f4b-b891-4f25-b747-cb9ec7d865d6</para>
+        <para id="para-00109">DailyMed. (Updated September 1, 2022). <emphasis effect="italics">Havrix—hepatitis a vaccine injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f9499a4d-1288-4bd3-9d59-1d72092c38cd</para>
+        <para id="para-00110">DailyMed. (Updated March 15, 2023). <emphasis effect="italics">Hydroxychloroquine sulfate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=84b00366-96ef-41e1-bac6-5d24acdb9e1d</para>
+        <para id="para-00111">DailyMed. (Updated September 29, 2022). <emphasis effect="italics">Indomethacin capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9607920c-4d25-40b9-957e-87e9ca5574e8</para>
+        <para id="para-00112">DailyMed. (Updated December 14, 2022). <emphasis effect="italics">Indomethacin capsule, extended release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dbad7e61-2347-43b1-a422-9183e41c10ea</para>
+        <para id="para-00113">DailyMed. (Updated October 15, 2021). <emphasis effect="italics">Infliximab injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=INFLIXIMAB&amp;pagesize=20&amp;page=1</para>
+        <para id="para-00114">DailyMed. (Updated June 7, 2022). <emphasis effect="italics">IPOL (poliovirus type 1 antigen (formaldehyde inactivated), poliovirus type 2 antigen (formaldehyde inactivated), and poliovirus type 3 antigen- formaldehyde inactivated injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=34a647f5-8728-451b-b918-94c8acd15974</para>
+        <para id="para-00115">DailyMed. (Updated December 8, 2022). <emphasis effect="italics">Meloxicam capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=43e2b0f3-cf34-4f51-aa93-39ed98cab449</para>
+        <para id="para-00116">DailyMed. (Updated August 6, 2021). <emphasis effect="italics">Methotrexate sodium tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f1260de-b60c-4f0e-8af6-0e957b0a281b</para>
+        <para id="para-00117">DailyMed. (Updated January 20, 2023). <emphasis effect="italics">Mycophenolic acid tablet, delayed release. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dc24aa15-330c-4698-872f-159d7e582b4b</para>
+        <para id="para-00118">DailyMed. (Updated March 4, 2021). <emphasis effect="italics">Neulasta—pegfilgrastim kit</emphasis></para>
+        <para id="para-00119"><emphasis effect="italics">NEULASTA- pegfilgrastim injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fdfe5d72-6b80-435a-afa4-c5d74dd852ce</para>
+        <para id="para-00120">DailyMed. (Updated February 2, 2023). <emphasis effect="italics">Piroxicam capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70be7d33-bc8b-4f48-84c6-a8e3d1476e97</para>
+        <para id="para-00121">DailyMed. (Updated March 7, 2023). <emphasis effect="italics">Pneumovax 23—pneumococcal vaccine polyvalent injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb362a20-6d91-4ae8-bebb-9ee8b2591814</para>
+        <para id="para-00122">DailyMed. (Updated January 31, 2018. <emphasis effect="italics">Prednisone—prednisone tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e9d6774e-45f6-419f-b388-8dfb4dd34944</para>
+        <para id="para-00123">DailyMed. (Updated May 5, 2023). <emphasis effect="italics">Prevnar 13—pneumococcal 13-valent conjugate vaccine injection, suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d49181b-b974-a5da-3b38-12a3a87bb96b</para>
+        <para id="para-00124">DailyMed. (Updated December 11, 2018). <emphasis effect="italics">Probenecid tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae126418-5474-4fbe-b83c-bde8b2b4ae6e</para>
+        <para id="para-00125">DailyMed. (Updated May 24, 2023). <emphasis effect="italics">Recombivax HB (hepatitis b vaccine—recombinant injection, suspension).</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5bd99e4-569d-48d5-ba75-16e69f8c409a</para>
+        <para id="para-00126">DailyMed. (Updated June 6, 2023). <emphasis effect="italics">Rituxan—rituximab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b172773b-3905-4a1c-ad95-bab4b6126563</para>
+        <para id="para-00127">DailyMed. (Updated November 4, 2022). <emphasis effect="italics">Rotarix—rotavirus vaccine, live, oral kit; Rotarix—rotavirus vaccine, live, oral solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3182470-1965-4e20-dbaf-e3506f893ea5</para>
+        <para id="para-00128">DailyMed. (Updated March 7, 2023). <emphasis effect="italics">Rotateq—rotavirus vaccine, live, oral, pentavalent solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aaf3b24e-85fd-43ee-b657-2ee4df312ec3</para>
+        <para id="para-00129">DailyMed. (Updated May 22, 2023). <emphasis effect="italics">Shingrix—zoster vaccine recombinant, adjuvanted kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0280849d-5c78-4a9d-8941-4eab429f6bd8</para>
+        <para id="para-00130">DailyMed. (Updated May 11, 2023). <emphasis effect="italics">Spikevax—COVID-19 vaccine, MRNA injection, suspension</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23e93ef9-c51c-4e13-9cb3-e65b6a0f1968</para>
+        <para id="para-00131">DailyMed. (Updated February 28, 2022). <emphasis effect="italics">Sulfasalazine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ad13d598-7b1b-48d3-a25b-08635b419f99</para>
+        <para id="para-00132">DailyMed. (Updated June 26, 2023). <emphasis effect="italics">Varivax—varicella virus vaccine live injection, powder, lyophilized, for suspension.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=524cf052-e90e-4595-af0a-608edbe9bd31</para>
+        <para id="para-00133">Drosos, A. A., Pelechas, E., Kaltsonoudis, E., Markatseli, T. E., &amp; Voulgari, P. V. (2021). Biologic therapies and autoimmune phenomena. <emphasis effect="italics">Mediterranean Journal of Rheumatology, 32</emphasis>(2), 96–103. https://doi.org/10.31138/mjr.32.2.96</para>
+        <para id="para-00134">Ghlichloo, I., &amp; Gerriets, V. (2023). <emphasis effect="italics">Nonsteroidal anti-inflammatory drugs (NSAIDs)</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK547742/</para>
+        <para id="para-00135">Greenspan, N.S. (2023). Epitopes, paratopes, and other topes 30 years on: Understanding what we are talking about. <emphasis effect="italics">Human Immunology,</emphasis> <emphasis effect="italics">84</emphasis>(9), 429–438. doi: 10.1016/j.humimm.2023.06.006. https://pubmed.ncbi.nlm.nih.gov/37407356/</para>
+        <para id="para-00136">Grubbs, H., &amp; Kahwaji, C. I. (2022). <emphasis effect="italics">Physiology, active immunity</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK513280/</para>
+        <para id="para-00137">Hannoodee, S., &amp; Nasuruddin, D. N. (2022). <emphasis effect="italics">Acute inflammatory response</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK556083/</para>
+        <para id="para-00138">Haładyj, E., Sikora, M., Felis-Giemza, A., &amp; Olesińska, M. (2018). Antimalarials—are they effective and safe in rheumatic diseases? <emphasis effect="italics">Reumatologia</emphasis>, <emphasis effect="italics">56</emphasis>(3), 164–173. https://doi.org/10.5114/reum.2018.76904</para>
+        <para id="para-00139">Justiz-Vaillant, A. A., Jamal, Z., Patel, P., &amp; Ramphul, K. (2023). <emphasis effect="italics">Immunoglobulin</emphasis>. StatPearls https://www.ncbi.nlm.nih.gov/books/NBK513460/</para>
+        <para id="para-00140">Justiz-Vaillant, A. A., Sabir, S. &amp; Jan, A. (2022). <emphasis effect="italics">Physiology, immune response</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539801/</para>
+        <para id="para-00141">Karagiannis, S. N. &amp; Arnold, J. N. (2022). Immune cell-antibody interactions in health and disease. <emphasis effect="italics">Clinical and Experimental Immunology</emphasis>, <emphasis effect="italics">209</emphasis>(1), 1–3. https://doi.org/10.1093/cei/uxac065</para>
+        <para id="para-00142">McDermott, A. (2021). Core concept: Herd immunity is an important—and often misunderstood—public health phenomenon. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">118</emphasis>(21), e2107692118. https://doi.org/10.1073/pnas.2107692118</para>
+        <para id="para-00143">Mysler, E., Caubet, M., &amp; Lizarraga, A. (2021). Current and emerging DMARDs for the treatment of rheumatoid arthritis. <emphasis effect="italics">Open Access Rheumatology: Research and Reviews</emphasis>, <emphasis effect="italics">13</emphasis>, 139–152. https://doi.org/10.2147/OARRR.S282627</para>
+        <para id="para-00144">National Institute for Health and Care Excellence (NICE). (2022) <emphasis effect="italics">Gout: diagnosis and management</emphasis>. NICE Guideline, No. 219. https://www.ncbi.nlm.nih.gov/books/NBK583530/</para>
+        <para id="para-00145">Patel, R. H., &amp; Mohiuddin, S. S. (2023). <emphasis effect="italics">Biochemistry, histamine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557790/</para>
+        <para id="para-00146">Shen, S. C., &amp; Dubey, V. (2019). Addressing vaccine hesitancy: Clinical guidance for primary care physicians working with parents. <emphasis effect="italics">Canadian Family Physician, Medecin de Famille Canadien</emphasis>, <emphasis effect="italics">65</emphasis>(3), 175–181. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6515949/</para>
+        <para id="para-00147">Slifka, M. K., &amp; Amanna, I. J. (2018). Passive immunization. <emphasis effect="italics">Plotkin’s Vaccines</emphasis>, 84–95. https://doi.org/10.1016/B978-0-323-35761-6.00008-0</para>
+        <para id="para-00148">Thau, L., Asuka, E., &amp; Mahajan, K. (2023). <emphasis effect="italics">Physiology, opsonization</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534215/</para>
+        <para id="para-00149">U.S. Food and Drug Administration. (2023). <emphasis effect="italics">Biosimilar and interchangeable biologics: More treatment choices. </emphasis>https://www.fda.gov/consumers/consumer-updates/biosimilar-and-interchangeable-biologics-more-treatment-choices</para>
+        <para id="para-00150">World Health Organization (WHO). (2021). <emphasis effect="italics">Vaccines</emphasis>. https://www.who.int/travel-advice/vaccines</para>
+        </section>
+      </content>
+        <glossary>
+        <definition id="def-00001"><term>infection</term> <meaning>when harmful microorganisms, such as bacteria, viruses, fungi, or parasites, invade the body and multiply, leading to disease</meaning></definition>
+        <definition id="def-00002"><term>inflammation</term> <meaning>a natural response of the immune system to tissue injury, infection, or irritation</meaning></definition>
+        <definition id="def-00003"><term>inflammatory response</term> <meaning>the coordinated reaction of the immune system to injury, infection, or harmful stimuli, involving a series of cellular and biochemical processes aimed at eliminating the threat and promoting tissue healing</meaning></definition>
+        </glossary>
+    </document>
