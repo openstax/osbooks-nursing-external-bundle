@@ -116,12 +116,13 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Cholinergic Drugs and Drugs to Treat Myasthenia Gravis and Alzheimer’s Disease</md:title>
+          <md:title>Drugs to Treat Myasthenia Gravis and Alzheimer’s Disease</md:title>
           <col:content>
             <col:module document="m00305"/>
             <col:module document="m00257"/>
             <col:module document="m00258"/>
             <col:module document="m00259"/>
+            <col:module document="m00475"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>
