@@ -30,8 +30,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <tbody>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Major Organs of the GI System</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Function</span></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Major Organs of the GI System</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="left">Mouth/oral cavity</entry>
