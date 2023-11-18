@@ -51,6 +51,8 @@
 <entry valign="top" align="left"><emphasis effect="italics">Adults and children >12 years:</emphasis> 25–50 mg orally every 4–6 hours as needed. Maximum of 6 doses in 24 hours.<newline/>
 <emphasis effect="italics">Children 6–12 years:</emphasis> 25 mg orally every 6 hours as needed not to exceed 4 doses in 24 hours.<newline/>
 <emphasis effect="italics">Children &lt;6 years:</emphasis> Do not use.</entry>
+</row>
+<row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Loratadine</term><newline/>
 (<term class="no-emphasis" id="term-00011">Claritin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Adults and children >6 years:</emphasis> 10 mg once daily; do not take more than 10 mg in 24 hours.</entry>
@@ -70,8 +72,8 @@
 <tbody>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
-Antihistamine<newline/>
-<emphasis effect="bold">Mechanism of Action</emphasis><newline/>
+Antihistamine<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Stops chemicals in the immune system that trigger allergy-related symptoms</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 <emphasis effect="italics">Adults and children >12 years:</emphasis> 25–50 mg orally every 4–6 hours as needed. Maximum of 6 doses in 24 hours.<newline/>
@@ -81,12 +83,12 @@ Stops chemicals in the immune system that trigger allergy-related symptoms</entr
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
 For the treatment of symptoms associated with the common cold or allergic rhinitis including sneezing, rhinorrhea, itching of the nose or throat, and itchy, watery eyes<newline count="2"/>
-<emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Temporary relief of rhinitis, sneezing, itchy eyes, nose, or throat due to upper respiratory inflammation</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Sedatives and tranquilizers with sedative effects<newline/>
 Alcohol<newline count="2"/>
-<emphasis effect="bold">Food Interactions</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
 </row>
 <row>
@@ -148,7 +150,7 @@ Operating a motor vehicle or machinery
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
 Nasal decongestant<newline count="2"/>
-<emphasis effect="bold">Mechanism of Action</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Indirectly stimulates alpha-adrenergic receptors, causing vasoconstriction</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 <emphasis effect="bold">Regular-release tablets or liquid-filled capsules:</emphasis><newline/>
@@ -165,11 +167,11 @@ Indirectly stimulates alpha-adrenergic receptors, causing vasoconstriction</entr
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
 For temporary relief of sinus congestion and pressure<newline/>
 For temporary relief of nasal congestion due to a cold or other upper respiratory allergies<newline count="2"/>
-<emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Eases discomfort and allergy symptoms</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Monoamine oxidase inhibitors (MAOIs)<newline count="2"/>
-<emphasis effect="bold">Food Interactions</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions
 </entry>
 </row>
@@ -226,7 +228,7 @@ Urinary retention due to enlarged prostate gland
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
 Otic cerumenolytic<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Contains peroxide, which creates foaming that softens and breaks apart the wax</entry>
@@ -236,11 +238,11 @@ Contains peroxide, which creates foaming that softens and breaks apart the wax</
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
 To soften and encourage spontaneous extrusion of cerumen<newline count="2"/>
-<emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Facilitates ear wax removal</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 No significant interactions<newline count="2"/>
-<emphasis effect="bold">Food Interactions</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
 </row>
 <row>
