@@ -6,8 +6,262 @@
     <md:uuid>121a3f8a-eceb-494e-93c0-b9cca3cd34f2</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of drugs used to treat myasthenia gravis.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat myasthenia gravis.</item>
+    <item>Describe nursing implications of drugs used to treat myasthenia gravis.</item>
+    <item>Explain the client education related to drugs used to treat myasthenia gravis.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002"><term class="no-emphasis" id="term-00001">Cholinergic agonists</term> are also termed <term id="term-00002">parasympathomimetics</term>, and cholinergic antagonists (also known as anticholinergics) are termed <term id="term-00003">parasympatholytics</term>. (The anticholinergic agents will be discussed in <link document="m00259">Anticholinergic Drugs to Treat Parkinson’s Disease and Multiple Sclerosis</link>.) The PSNS has two general sites where drugs can act: (1) the synapses between <term id="term-00004">preganglionic neurons</term> and <term id="term-00005">postganglionic neurons</term>, and (2) the junctions between postganglionic neurons and their effector organs. The class of cholinergic agonists is subdivided into direct acting and indirect acting. The direct-acting cholinergic agonists interact with the postsynaptic cholinergic receptors and cause them to perform the same functions as if endogenous ACh was present. The indirect-acting cholinergic agonists are classified as <term class="no-emphasis" id="term-00006">AChE inhibitors</term> and do not bind directly to receptors. AChE inhibitors prevent the enzyme from destroying acetylcholine. Because the enzyme is inhibited, there is more acetylcholine available for use. AChE inhibitors are subdivided into two categories: reversible and irreversible. These classes are discussed in the following sections.</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Direct-Acting Cholinergic Agonists</title>
+    <para id="para-00003"><term class="no-emphasis" id="term-00007">Direct-acting cholinergic agonists</term> mimic the effects of ACh when they bind to cholinergic receptors. They are considered direct acting because they have <term id="term-00008">affinity</term> (attracted to a receptor) and <term id="term-00009">intrinsic activity</term> (ability to stimulate a receptor) to these receptors. Direct-acting cholinergic agonists mainly bind to the muscarinic receptors of the PSNS. (Refer to [link]Table 10.1[/link] earlier in this chapter to see responses produced when muscarinic receptors are activated.) The most common therapeutic uses for these drugs are to promote urinary excretion and gastrointestinal (GI) motility/secretions. Additionally, there are several direct-acting cholinergic agonists that are found in ophthalmic formulations and induce miosis for the purpose of treating glaucoma because they help to relieve increased intraocular pressure. An example of a direct-acting cholinergic agonist in an ophthalmic formulation is pilocarpine. Pilocarpine also comes as an oral solution and is used to treat dry mouth associated with Sjogren’s syndrome or salivary gland damage. Due to the direct-acting cholinergic agonist’s selective action on muscarinic receptors, nicotinic responses are minimal or nonexistent; therefore, this class is not used in the treatment of MG.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Indirect-Acting Cholinergic Agonists: <term class="no-emphasis" id="term-00010">Reversible Acetylcholinesterase Inhibitors</term></title>
+    <para id="para-00004"><term class="no-emphasis" id="term-00011">Indirect-acting cholinergic agonists</term> bind reversibly to AChE. They inhibit the enzyme that destroys acetylcholine, making acetylcholine more available. The specific mechanism of action is to delay the splitting of ACh into choline and acetone. Because AChE must degrade the drug in order to become unbound, less of this enzyme is available to break down ACh. This leaves more ACh to bind to the cholinergic receptors, intensifying its response at all the junctions where it serves as the neurotransmitter. The result of this action is prolonging access to ACh, allowing it to accumulate within the synaptic cleft; ACh continues binding to cholinergic receptors on the postsynaptic neuron, causing activation of that neuron. The effectiveness lasts until AChE is released. Once released, AChE will begin to break down ACh, and the effects of the drug will wear off. Reversible inhibitors produce effects of moderate duration. The optimal dose is determined by administering a small initial dose followed by gradual small increases until optimal muscle function is observed.</para>
+    <section id="sect-00005">
+    <title>Pyridostigmine Bromide</title>
+    <para id="para-00005">Pyridostigmine bromide is the drug of choice for managing MG. This drug is formulated in a powder, syrup, or tablet. Tablets are available in immediate-release (IR) and extended-release (ER) forms. Both IR and ER forms may be needed to sustain effects. When adequate amounts of ACh are present at the NMJ, skeletal muscle is stimulated. The force of skeletal muscle contraction is increased at therapeutic doses. In contrast, too much drug can reduce the force of skeletal muscle strength because it leaves the NMJ in a state of constant depolarization.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Neostigmine</title>
+    <para id="para-00006">Neostigmine is administered only intravenously (IV). Essentially, it is used in the diagnosis and treatment of MG and reversal/recovery of the nondepolarizing neuromuscular blocking agents after surgery. The onset of action is 10–30 minutes, and peak effects occur in 20–30 minutes. Atropine should be readily available when infusing this drug.</para>
+    <para id="para-00007">A peripheral nerve stimulation device (also known as a <term class="no-emphasis" id="term-00012">train of four</term>) is used to determine the degree of muscle relaxation based on muscle response after a stimulus is provided. This helps to determine if more medication is necessary when reversing any neuromuscular blockade postoperatively. The train of four count consists of four consecutive 2-Hz stimuli to a muscle group and the number of twitches evoked.</para>
+    <para id="para-00008">[link]Table 10.2[/link] lists common reversible AChE inhibitors and typical routes and dosing for adult clients.</para>
+          <table class="vertically-tight" id="table-00001">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00013">Pyridostigmine bromide</term><newline/>
+    (<term class="no-emphasis" id="term-00014">Mestinon</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">IR dosage range</emphasis>: 60–1500 mg daily; typical dose is 600 mg daily divided into 5 doses.<newline/>
+    <emphasis effect="italics">ER dosage range</emphasis>: 180–540 mg daily or twice daily. </entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Neostigmine</term><newline/>
+    (<term class="no-emphasis" id="term-00016">Bloxiverz</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="bold">Treatment of MG:</emphasis><newline/>
+    <emphasis effect="italics">Oral:</emphasis> 15–375 mg/day in 3–4 divided doses.<newline/>
+    <emphasis effect="italics">Subcutaneous, intramuscular, or IV:</emphasis> 0.5–2.5 mg based on client response.<newline/>
+    <emphasis effect="bold">Diagnosis of MG:</emphasis><newline/>
+    0.022 mg/kg intramuscularly.<newline/>
+    <emphasis effect="bold">Reversal of nondepolarizing neuromuscular blocking agents:</emphasis><newline/>
+    Dose is individualized to control symptoms: 0.03–0.07 mg/kg IV.
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Indirect-Acting Reversible Acetylcholinesterase Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00007">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00009">If the amount of pyridostigmine becomes too elevated, this can result in a cholinergic crisis. It is essential that the prescriber does not interpret skeletal muscle weakness as a sign of inadequate dosing because increasing the dose will elevate the risk of cholinergic crisis.</para>
+    <note class="safety-alert" id="note-00001">
+    <title>Differentiating Between Cholinergic Crisis and Myasthenic Crisis</title>
+    <para id="para-00010">Taking too much of an AChE inhibitor can result in cholinergic crisis. Cholinergic and myasthenic crises share similar symptoms, such as muscle weakness or paralysis. The nurse must accurately distinguish between the two because the treatments are very different. A medication history or signs of excessive cholinergic stimulation (excess saliva, watery eyes, difficulty breathing, bradycardia, frequent urge to urinate, muscle twitching, and nausea/vomiting/diarrhea) can indicate a person is experiencing a cholinergic crisis not related to the myasthenia gravis. Stop direct or indirect cholinergic agonists until muscle strength improves.</para>
+    <para id="para-00011"><emphasis effect="italics">Antidote for cholinergic crisis:</emphasis> Atropine (selective muscarinic antagonist) blocks the muscarinic receptors, which helps to reverse most of the signs/symptoms.</para>
+    <para id="para-00012"><emphasis effect="italics">Antidote for myasthenic crisis:</emphasis> AChE inhibitor (pyridostigmine) will increase the necessary ACh levels.</para>
+    <para id="para-00013">(Sources: Adeyinka &amp; Kondamudi, 2023; Health Union, 2023)</para>
+    </note>
+    <para id="para-00014">Apart from the adverse drug reactions associated with skeletal muscle, the majority of the adverse effects relate to the excessive stimulation of the muscarinic receptors. Intravenous atropine can alleviate the muscarinic effects. The fall in cardiac output can lead to hypotension. The diaphragm can be negatively affected, causing respiratory depression that is treated by mechanical ventilation with oxygen and not with medications. Pyridostigmine can cause bradycardia and exacerbate any underlying cardiac conduction abnormalities. Due to the constriction of the bronchi, asthmatics must be closely monitored when taking AChE inhibitors. Dysphonia (hoarseness) is the result of laryngospasms. Depending on the severity of the vomiting, diarrhea, diaphoresis, and urine output, dehydration can result.</para>
+    <para id="para-00015">Succinylcholine is a depolarizing neuromuscular blocker. Reversible AChE inhibitors decrease the breakdown of this drug; therefore, this combination can intensify the neuromuscular blockade. On the other hand, atropine can negate the effects of the AChE inhibitors.</para>
+    <para id="para-00016">[link]Table 10.3[/link] is a drug prototype table of indirect-acting reversible AChE inhibitors featuring pyridostigmine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Reversible AChE inhibitor<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Causes reversible inhibition of AChE within the synapse, allowing more ACh to bind to cholinergic receptors and prolonging its effects</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    Highly individualized.<newline/>
+    <emphasis effect="italics">IR dosage range</emphasis>: 60–1500 mg daily; typical dose is 600 mg daily divided into 5 doses.<newline/>
+    <emphasis effect="italics">ER dosage range</emphasis>: 180–540 mg daily or twice daily.</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Management of MG symptoms<newline/>
+    Reversal of competitive (nondepolarizing) neuromuscular blockade<newline/>
+    Prevention/treatment of urinary retention in postoperative clients<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Improves transmission of nerve impulses across the NMJ, increasing muscle strength and decreasing difficulty with chewing, swallowing, and speech, along with improvement or absence of ptosis<newline/>
+    Treats overdose from a competitive neuromuscular blocker</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Succinylcholine<newline/>
+    Atropine<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Excess salivation and lacrimation<newline/>
+    Increased urination<newline/>
+    Diaphoresis<newline/>
+    Diarrhea<newline/>
+    Nausea/vomiting<newline/>
+    Bradycardia<newline/>
+    Decrease in cardiac output<newline/>
+    Bronchospasms<newline/>
+    Dysphagia<newline/>
+    Dysarthria<newline/>
+    Dysphonia<newline/>
+    Seizures<newline/>
+    Miosis<newline/>
+    Weakness, fasciculations, or paralysis of skeletal muscles</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Mechanical obstruction of the intestine or urinary tract<newline count="2"/>
+    Caution:<newline/>
+    Bronchial asthma<newline/>
+    Cardiac conduction abnormalities, such as atrioventricular block
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype: Pyridostigmine Bromide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <note class="clinical-tip" id="note-00002">
+    <title>Underdosing Versus Overdosing</title>
+    <para id="para-00017">Although failure of clients to show clinical improvement may reflect underdosage, it can also be indicative of overdosage. As is true of all cholinergic drugs, overdosage of pyridostigmine bromide may result in cholinergic crisis.</para>
+    </note>
+    </section>
+    <section id="sect-00008">
+    <title>Nursing Implications</title>
+    <para id="para-00018">The nurse should do the following for clients who are taking an indirect-acting reversible AChE inhibitor:</para>
+    <list id="list-00002">
+    <item>Monitor heart rate/rhythm and blood pressure periodically.</item>
+    <item>Assess respiratory pattern (rate, depth, rhythm, effort) and airway patency.</item>
+    <item>Time the administration of the drug so that peak effects occur at meals to help with eating and swallowing.</item>
+    <item>Evaluate client’s ability to chew and swallow.</item>
+    <item>Monitor client’s ease of ability to raise the eyelids (important sign of improvement).</item>
+    <item>Monitor for clinical manifestations of dehydration if vomiting, diarrhea, or diaphoresis is present.</item>
+    <item>Administer antiemetics to reduce nausea and vomiting.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00003">
+    <para id="para-00019"><emphasis effect="bold">The client taking an indirect-acting reversible AChE inhibitor should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Understand that MG is not curable, so treatment is lifelong.</item>
+    <item>Be able to recognize signs of therapeutic failure (ptosis, difficulty swallowing) and toxicity (excess muscarinic responses).</item>
+    <item>Maintain records of the times the drug was administered, times at which fatigue occurred, and level of muscle strength before and after taking the drug.</item>
+    <item>Wear a medic alert bracelet due to the potential of experiencing a crisis (myasthenic or cholinergic).</item>
+    <item>Move and change positions slowly due to hypotension.</item>
+    <item>Sit or lie down if dizziness occurs and wait until it subsides before standing or walking.</item>
+    <item>Ensure adequate lighting to enhance vision due to the pupillary constriction.</item>
+    <item>Ensure they have ready access to a restroom/commode due to the stimulatory effect on the GI and genitourinary (GU) systems.</item>
+    <item>Contact their prescriber immediately if they have any difficulty with swallowing, speaking, hoarseness, or breathing.</item>
+    <item>Space activities to obtain optimal benefit from the drug.</item>
+    </list>
+    <para id="para-00020"><emphasis effect="bold">The client taking an indirect-acting reversible AChE inhibitor <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Chew, break, or crush extended-release capsules.</item>
+    <item>Rise or change positions quickly due to possible orthostatic hypotension.</item>
+    <item>Stop drugs abruptly because symptoms will quickly reoccur.</item>
+    <item>Overexert themselves; they should take rest periods between activities.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Indirect-Acting Cholinergic Agonists: <term class="no-emphasis" id="term-00017">Irreversible AChE Inhibitors</term></title>
+    <para id="para-00021">These drugs bind irreversibly to AChE. The effects of these drugs are prolonged—they will last until new molecules of cholinesterase are synthesized. Another method of reversing the inhibition of AChE, especially at the NMJ, is to administer <term class="no-emphasis" id="term-00018">pralidoxime</term>, a cholinesterase reactivator. This drug is a specific antidote to poisoning by the irreversible cholinesterase inhibitor. The drug has no effect on reversible AChE inhibitors. This medication is administered either via IV or intramuscularly. Dosage is individualized according to the severity of symptoms.</para>
+    <para id="para-00022">The only <emphasis effect="italics">therapeutic</emphasis> indication for this drug class is the treatment of glaucoma. For that indication, only one drug, <term class="no-emphasis" id="term-00019">echothiopate</term>, is available. The drugs have limited use because they are highly toxic. Once they become absorbed, they will easily cross the blood–brain barrier, causing adverse effects.</para>
+    <note class="unfolding-casestudy" id="note-00004">
+    <para id="para-00023">Read the following clinical scenario to answer the questions that follow.</para>
+    <para id="para-00024">Rae Lennon is a 38-year-old assistant professor at a small university. In November, they noticed that their vision was blurry, especially when grading papers. Rae said that they were seeing double. At first, they just assumed they were tired because their sleeping pattern had changed over the past 2 weeks and they were not getting enough sleep. About a month after that, while drying their hair, Rae observed their left eyelid was drooping and it was becoming difficult to hold the hairdryer due to weakness in the arms. Over the Christmas break, Rae visited the primary care provider, who referred Rae to a local neurologist based on the symptoms. During Rae’s appointment with the neurologist, a thorough history and physical assessment were carried out. In addition, blood tests results revealed elevated levels of acetylcholine receptor antibodies. Based on these results, Rae was diagnosed with MG.</para>
+    <para id="para-00025"><emphasis effect="bold">History</emphasis><newline/>
+    Overactive bladder</para>
+    <para id="para-00026"><emphasis effect="bold">Current Medications</emphasis><newline/>
+    Oxybutynin 5 mg, 4 times daily</para>
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">Vital Signs</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Physical Examination</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Temperature:</emphasis></entry>
+    <entry valign="top">98.2°F</entry>
+    <entry valign="top" morerows="6">
+    <list list-type="bulleted" id="list-00005">
+    <item><emphasis effect="italics">Head, eyes, ears, nose, and throat (HEENT):</emphasis> Normocephalic, left eyelid droop, minimal facial expressions. Ears, nose, and throat unremarkable. Vision 20/25 in both eyes via Snellen chart. Near vision poor using Rosenbaum card.</item>
+    <item><emphasis effect="italics">Cardiovascular:</emphasis> Audible S1, S2. Rhythm regular. No murmurs, rubs, or gallops. No peripheral edema bilaterally. Radial and dorsalis pedis pulses 2+.</item>
+    <item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear bilaterally in all fields.</item>
+    <item><emphasis effect="italics">GI:</emphasis> Abdomen round, soft, and nontender. Bowel sounds present in all four quadrants.</item>
+    <item><emphasis effect="italics">Musculoskeletal:</emphasis> Limited range of movement (ROM) in bilateral upper extremities and 3/5 muscle strength. Lower extremities with full ROM and 5/5 muscle strength.</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Heart rate:</emphasis></entry>
+    <entry valign="top">72 beats/min</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+    <entry valign="top">18 breaths/min</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+    <entry valign="top">112/64 mm Hg</entry></row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+    <entry valign="top">96% on room air</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Height:</emphasis></entry>
+    <entry valign="top">5’6”</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Weight:</emphasis></entry>
+    <entry valign="top">138 lbs.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00027"><link class="os-embed" url="#exercise/PHAR_Ch10_Sec02_UCSQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00028"><link class="os-embed" url="#exercise/PHAR_Ch10_Sec01_UCSQ2"/></para></problem></exercise>
+    </note>
+    </section>
+    <note class="trending-today" id="note-00005">
+    <para id="para-00029">The U.S. Food and Drug Administration (FDA) has approved a new medication, <term class="no-emphasis" id="term-00020">rozanolixizumab-noli (Rystiggo)</term>, for generalized MG in adults who are anti-acetylcholine receptor (AChR) or anti-MuSK antibody positive, the two most common subtypes of generalized MG. Rozanolixizumab-noli is a humanized IgG4 monoclonal antibody that is administered through a weekly subcutaneous infusion. A 6-week treatment cycle study has shown rapid improvement in clients’ activities of daily living (DailyMed, <emphasis effect="italics">Rystiggo</emphasis>, 2023). Significant adverse effects include the increased risk of infection, aseptic meningitis, and hypersensitivity reactions, such as rash and angioedema. It is contraindicated in those with an active infection and should not be started until the infection is resolved (DailyMed, <emphasis effect="italics">Rystiggo</emphasis>, 2023).</para>
+    </note>
+    </section>
+    </content>
+    <glossary>
+      <definition id="def-00001"><term>affinity</term> <meaning>strength of the attraction between a drug and its receptor</meaning></definition>
+      <definition id="def-00002"><term>intrinsic activity</term> <meaning>ability of a drug to activate a receptor upon binding</meaning></definition>
+      <definition id="def-00003"><term>parasympatholytic</term> <meaning>drugs that oppose the effects of the parasympathetic nervous system (also known as anticholinergic action)</meaning></definition>
+      <definition id="def-00004"><term>parasympathomimetic</term> <meaning>medications that activate the parasympathetic nervous system by mimicking the effects of acetylcholine</meaning></definition>
+      <definition id="def-00005"><term>postganglionic neuron</term> <meaning>neuron that goes from the ganglia to effector organs</meaning></definition>
+      <definition id="def-00006"><term>preganglionic neuron</term> <meaning>neuron that goes from the spinal cord to the ganglia and releases neurotransmitters</meaning></definition>
+      </glossary>
 </document>

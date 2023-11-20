@@ -7,8 +7,61 @@
     <md:uuid>964cc6f6-cb69-45ca-848d-c2640631e809</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Describe the pathophysiology of myasthenia gravis.</item>
+    <item>Identify the clinical manifestations related to myasthenia gravis.</item>
+    <item>Identify the etiology and diagnostic studies related to myasthenia gravis.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002"><term id="term-00001">Myasthenia gravis (MG)</term> is a progressive, autoimmune neuromuscular disorder characterized by fluctuating muscle weakness and the onset of rapid fatigue. This disease does not discriminate based on gender, race, ethnicity, or religion—it most commonly affects young adult females (under 40) and <term class="no-emphasis" id="term-00002">older males</term> (over 60), but it can occur at any age, including childhood (National Institute of Neurological Disorders and Stroke, 2023b). To date, no biological inheritance component has been associated with MG. The disease can present in two forms: ocular and generalized. The ocular form causes muscle weakness only in the eyelids and extraocular muscles. The generalized form includes a combination of extremities, esophageal and respiratory muscles, and the aforementioned ocular form.</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Pathophysiology</title>
+    <para id="para-00003">Myasthenia gravis is an autoimmune disorder of neuromuscular junction (NMJ) transmission. In a healthy person, nerve impulses release ACh at the NMJ, the area where nerve cells connect with the muscles they control. This neurotransmitter, ACh, will then travel across the synapse, where it will reach nicotinic<sub>M</sub> receptors located on the muscle endplate. Once ACh has activated enough receptor sites, muscle contraction will occur. According to the National Institute of Neurological Disorders and Stroke (2023b), individuals with MG lack a significant number of functional receptor sites (as much as 70%–90%) because the individual’s immune system produces antibodies (protein produced in response to a specific antigen) that block, alter, or destroy the receptors for acetylcholine at the NMJ. In addition to fewer receptor sites, the synaptic space widens, which impairs signal transmission. The outcome of these changes is the inability of muscles to contract, resulting in muscle weakness.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Etiology</title>
+    <para id="para-00004">What triggers an immunological attack on the NMJ receptor sites is not fully understood. The <term id="term-00003">autoantibodies</term> (antibodies that destroy a person’s own proteins and antigens) against the ACh receptors have been identified as immunoglobulin G (IgG) derived from the plasma B-lymphocytes. These antibodies destroy ACh receptor sites, but they also attack other proteins such as the muscle-specific kinase (MuSK) protein that impairs the neurotransmitter’s communication at the NMJ. T-lymphocytes also play a role in this immunological attack. The thymus is the principal organ in cell-mediated immunity. Normally, the thymus will begin to atrophy after puberty. Thymus abnormalities, such as hyperplasia (enlarged thymus) or thymoma (tumor on the thymus gland) have been acknowledged in those with MG. It is believed the thymus gland provides incorrect instructions to developing immune cells, which results in the immune system not recognizing itself and attacking its own cells and tissues while producing acetylcholine receptor antibodies.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Diagnostics</title>
+    <para id="para-00005">Because weakness is a common and vague complaint, diagnosis of MG can be delayed or even missed. Several different tests can be conducted to confirm the diagnosis of MG. Just like with most conditions, the nurse should first obtain an accurate history and physical examination. The assessment of the neurological system is the primary focus: the client’s muscle strength, tone, and coordination should be examined; sensation and extraocular eye movements should be evaluated.</para>
+    <para id="para-00006">Serological tests can detect the presence of anti-ACh receptor antibodies and/or anti-MuSK antibodies circulating within the bloodstream. However, some clients with MG will have neither of these antibodies, a condition termed seronegative (negative antibody) myasthenia gravis.</para>
+    <para id="para-00007">A single-fiber electromyography (EMG) test can detect delayed or failed neuromuscular transmission in muscle fibers that are supplied by a single nerve fiber. The EMG is considered the most sensitive test in diagnosing MG. Another noninvasive examination is the repeated nerve stimulation test, which stimulates the nerves with small pulses of electricity for the purpose of tiring specific muscles. Muscle fibers in myasthenia gravis do not respond well to repeated electrical stimulation. To confirm a thymoma or enlarged thymus, a computed tomography (CT) or magnetic resonance imaging (MRI) test is performed.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Clinical Manifestations</title>
+    <para id="para-00008"><term id="term-00004">Ptosis</term> (drooping of the eyelid) and <term id="term-00005">diplopia</term> (double vision) are the presenting symptoms in half of the clients diagnosed with MG. The cardinal feature of early MG is fluctuating skeletal muscle weakness and muscle fatigue. Many times, muscle strength is strongest in the morning hours and will decrease throughout the day. The fatigue is an indication there is worsening of the muscle contractile force, most notably seen with repetitive motions, such as blinking, walking, or even talking. For instance, a client’s speech may become slurred after a few minutes of constant talking. This is referred to as <term id="term-00006">dysarthria</term> (difficulty speaking). After resting, the voice will return to baseline, and speech will become clear. As the disease progresses, muscle weakness and fatigue become more constant.</para>
+    <para id="para-00009">Several factors can exacerbate MG symptoms, including emotional stress, infection, surgery, aminoglycosides, hypo- or hyperthyroidism, hormonal fluctuations, and an increase in body temperature. A sudden exacerbation of symptoms is known as a myasthenic crisis, which is considered a medical emergency because fatal consequences can result. If respiratory muscles are affected, ventilation will be compromised. Chewing and/or swallowing muscles can also be affected because the disease eventually affects the muscles of the lower half of the face. The impairment of these muscles will result in <term id="term-00007">dysphagia</term> (difficulty swallowing) and lead to choking and/or aspiration.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Pharmacological Management</title>
+    <para id="para-00010">The main pharmacological class to treat MG is acetylcholinesterase (AChE) inhibitors. These indirect-acting cholinergic agonists react chemically with AChE, the enzyme responsible for breaking down ACh in the synaptic cleft. The presynaptic neuron continues to release ACh, while the synapse accumulates ACh because it is not broken down. This results in the cholinergic receptors being stimulated for a prolonged period of time. The reversible AChE inhibitors are used to treat MG because they are effective at all the cholinergic junctions (muscarinic, ganglionic, and neuromuscular<emphasis effect="italics">).</emphasis></para>
+    <para id="para-00011">Some cases of MG may go into <term id="term-00008">remission</term> (resolution of symptoms), either temporarily or permanently, where muscle weakness disappears completely. Drugs may not be needed during these periods. When the MG is well controlled, the safety factor of nerve to muscle transmission has been largely restored, and strength has been increased. In contrast, when clients still have symptoms with first-line agents, they may require immunosuppressive therapy, which may include high-dose glucocorticoids, until symptoms are under control. These drugs cause lysis of antigen-activated lymphocytes, suppress lymphocyte proliferation, and increase sequestration of lymphocytes at extravascular locations. The doses for immunosuppressive purposes are high, leading to a broad spectrum of adverse effects. When the client’s symptoms are under control, the glucocorticoids should be gradually titrated and discontinued.</para>
+    <para id="para-00012">Other immunosuppressants and immunomodulators are also used when MG is not well-controlled. One example of an immunosuppressant is azathioprine. This drug blocks the purine pathway and inhibits DNA, RNA, and protein synthesis, which causes the immune system to be unable to mount a response to an antigen. Azathioprine is given orally. It does have a black box warning related to the risk of malignancy (DailyMed, <emphasis effect="italics">Azathioprine</emphasis>, 2022). Immunomodulators can deliver more targeted drug therapy. These are also known as monoclonal antibodies (MABs). Overall, these drugs activate the body’s natural immune response. For a more detailed discussion of these classifications, please refer to the chapter [link]Anticholinergic Drugs to Treat Parkinson’s Disease and Multiple Sclerosis.[/link].</para>
+    <note class="link-to-learning" id="note-00001">
+    <title>Living with Myasthenia Gravis</title>
+        <media alt="atoms_isotopes">
+        <iframe width="560" height="315" src="https://openstax.org/r/mysterymya"/>
+        </media>
+    <para id="para-00013">This educational video, “Behind the Mystery: Myasthenia Gravis,” shares the story of a client who lives with MG. In addition, University of South Florida Health Department of Neurology physician Dr. Niraja Suresh discusses the cause and progression of the disease, how a diagnosis is confirmed, and managing the disease.</para>
+    </note>
+    </section>
+    </section>
+    </content>
+    <glossary>
+      <definition id="def-00001"><term>acetylcholine (ACh)</term> <meaning>major neurotransmitter of the cholinergic system</meaning></definition>
+      <definition id="def-00002"><term>adrenergic receptors</term> <meaning>mediate responses to epinephrine and norepinephrine; include alpha and beta receptors</meaning></definition>
+      <definition id="def-00003"><term>autoantibodies</term> <meaning>produced by the immune system and are directed against one or more of the individual’s own cells, tissues, and proteins instead of foreign invaders</meaning></definition>
+      <definition id="def-00004"><term>diplopia</term> <meaning>double vision—seeing two images of a single object</meaning></definition>
+      <definition id="def-00005"><term>dysarthria</term> <meaning>difficulty speaking because of muscle weakness</meaning></definition>
+      <definition id="def-00006"><term>dysphagia</term> <meaning>difficulty swallowing</meaning></definition>
+      <definition id="def-00007"><term>myasthenia gravis (MG)</term> <meaning>a progressive, autoimmune neuromuscular disorder characterized by fluctuating muscle weakness and the onset of rapid fatigue</meaning></definition>
+      <definition id="def-00008"><term>ptosis</term> <meaning>drooping of the upper eyelid</meaning></definition>
+      <definition id="def-00009"><term>remission</term> <meaning>disappearance of the signs and symptoms of a disease</meaning></definition>
+      <definition id="def-00010"><term>sympathetic nervous system (SNS)</term> <meaning>a division of the autonomic nervous system that is responsible for the flight or fight response</meaning></definition>
+      </glossary>
 </document>
