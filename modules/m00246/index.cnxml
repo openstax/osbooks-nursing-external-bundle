@@ -5,9 +5,231 @@
     <md:content-id>m00246</md:content-id>
     <md:uuid>e262edd9-5f6f-474e-95fc-76d308ce6f1b</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the pathophysiology of HIV and AIDS.</item>
+<item>Identify clinical manifestations related to HIV and AIDS.</item>
+<item>Identify common risk factors for HIV transmission.</item>
+<item>Identify etiology and diagnostic studies related to HIV and AIDS.</item>
+<item>Identify characteristics of drugs used to treat HIV and AIDS.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat HIV and AIDS.</item>
+<item>Describe the nursing implications of drugs used to treat HIV and AIDS.</item>
+<item>Explain the client education related to drugs used to treat HIV and AIDS.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Pathophysiology</title>
+<para id="para-00002">The <term id="term-00001">human immunodeficiency virus (HIV)</term> is responsible for causing deterioration in the infected individual’s immune system, leaving them vulnerable to a variety of opportunistic infections and cancers. This state of immunodeficiency is known as <term id="term-00002">acquired immunodeficiency syndrome (AIDS)</term>. Since HIV was first identified in the 1980s, highly effective medications for <term id="term-00003">antiretroviral therapy (ART)</term> have been developed to suppress the virus and delay the development of AIDS-defining illnesses such as <emphasis effect="italics">Pneumocystis jirovecii</emphasis> pneumonia (PJP; previously known as <emphasis effect="italics">Pneumocystis carinii</emphasis> pneumonia or PCP), cytomegalovirus (CMV) infection, and the cancer known as Kaposi’s sarcoma. However, HIV infection is a lifelong condition with no known curative treatment.</para>
+<para id="para-00003">After the individual’s initial exposure to HIV, the virus targets the CD4 T lymphocytes (helper T cells). It binds to and fuses with the CD4 cell and then enters it. From there, the enzyme reverse transcriptase takes the HIV RNA and forms a complementary strand of DNA. The enzyme integrase then incorporates the viral DNA into the individual’s DNA, which causes the host cell to begin producing viral proteins. The enzyme protease then cuts the viral proteins into their mature form, and the new copy of the virus is ready to bud off from the infected cell to go infect a new CD4 cell ([link]Figure 7.4[/link). As this process continues, there is continual degradation in the number of CD4 cells available to fight infection, and the person becomes immunocompromised and more at risk for various opportunistic infections and cancers. Once an individual develops one of these opportunistic illnesses, or their CD4 cell count drops &lt;200 cells/mL of blood, they are considered to have AIDS. People with AIDS have badly damaged immune systems. Understanding the life cycle of the virus is important because these steps present different drug targets that can be used to suppress viral replication. HIV treatment can slow or prevent progression of the disease. There are three stages of HIV. The first stage is acute HIV infection, in which clients have a large amount of HIV in their blood and are very contagious. Many have flu-like symptoms. Stage two is chronic HIV infection, also called asymptomatic HIV infection or clinical latency. HIV is still active and the client can still transmit the infection to others as it continues to reproduce in the body. The third stage is when the client is diagnosed with AIDS. This is the most severe form of HIV. Clients have a high viral load and can easily transmit the virus.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram shows how H I V cells replicate. H I V fuses to the C D 4 receptor of the host cell's surface. This allows H I V R N A, reverse transcriptase, integrase, and other viral proteins to enter the host cell. Viral D N A is then formed by reverse transcription and is transported across the nucleus and integrated into the host D N A. New viral R N A is used as genomic R N A and to create viral proteins, which then move to the cell surface, forming new, immature H I V. The virus matures by protease, releasing individual H I V proteins."><image mime-type="image/png" src="../../media/PHA_Figure_07_03_004.png"/></media>
+<caption>HIV attaches to the CD4 receptor of an immune cell and fuses with the cell membrane. Viral contents are released into the cell, where viral enzymes convert the single-stranded RNA genome into DNA and incorporate it into the host genome. (credit: “HIV Virus Replication Cycle” /NIAID,NIH,Public Domain)</caption>
+</figure>
+</section>
+<section id="sect-00004">
+<title>Clinical Manifestations</title>
+<para id="para-00004">Upon initial infection, many individuals may have few to no symptoms. Early symptoms may mimic the symptoms of mononucleosis, including fever, enlarged lymph nodes, and fatigue. After several weeks, the virus enters a latent period, and the person becomes asymptomatic. This provides a false sense of security because the virus is continually replicating, and immune cell destruction is occurring steadily. Once the client’s CD4 cell count falls to less than 200 cells/mL of blood, the client may present with an opportunistic infection such as PJP, which may be the first time the client is evaluated for HIV infection. Without HIV treatment, people with AIDS typically survive about 3 years due to complications caused by opportunistic infections and malignancies. People who are treated for HIV in stage one or two may never move into stage three. Without HIV treatment, stage two may last a decade or longer. At the end of this stage, the viral load of HIV in the blood increases and the person may move into stage three (AIDS).</para>
+</section>
+<section id="sect-00005">
+<title>HIV Transmission</title>
+<para id="para-00005"><term class="no-emphasis" id="term-00004">HIV transmission</term> can occur in different ways. Many bodily fluids from an infected individual, including blood, breast milk, semen, and vaginal fluids, contain the virus. These fluids can then be transmitted to an uninfected person via unprotected sexual intercourse, sharing of contaminated needles during injection drug use, or perinatal transmission from a pregnant client to their child. The type of sexual exposure can also affect the possibility of transmission of the virus to uninfected individuals. The risk of transmission is low during oral intercourse. Transmission rates are higher for penile–vaginal intercourse, and anal intercourse, especially receptive anal intercourse, carries the highest risk for transmission.</para>
+<para id="para-00006">One factor that may influence the risk for viral transmission is the infected individual’s <term id="term-00005">viral load</term>, or the number of copies of the viral RNA that are measured in the blood. The higher the viral load in the blood, the more likely the infected individual’s fluids will contain copies of the virus capable of infecting another individual. This is why viral suppression with ART can help prevent the spread of HIV, along with other techniques such as using condoms and clean needles.</para>
+</section>
+<section id="sect-00006">
+<title>Laboratory Testing</title>
+<para id="para-00007">Testing for and diagnosing HIV infection can be done with several types of tests, including antibody tests, antigen/antibody tests, and nucleic acid tests. The first two tests look for the presence of antibodies against the virus that the body has produced; therefore, the test may be negative if the client was recently infected and has not had time to develop antibodies. The nucleic acid test looks for copies of the viral RNA and can detect the presence of HIV sooner than antibody-based tests can. It is important for high-risk individuals (e.g., those who share needles, those who have unprotected sex with multiple partners) to be screened more often for HIV to ensure early diagnosis because treatment with ART can preserve immune function for as long as possible.</para>
+<para id="para-00008">Two primary laboratory tests are used to track the efficacy of ART in HIV-infected individuals. The first is the viral load, which is a measure of how actively the virus is reproducing itself. The second is the CD4 cell count, which shows the degree of immune system degradation that has occurred and the degree of risk for developing opportunistic infections. Ideally, under ART treatment, the HIV viral load will be undetectable, and the CD4 cell count will be 500–1600 cells/mm<sup>3</sup>. white blood cell that plays a key role in the immune system by alerting other immune cells to the presence of infections in the body.</para>
+<para id="para-00009">Testing can also be performed to determine the sensitivity or resistance to a variety of ART drugs. This is helpful to make sure that any treatment the client is receiving will be able to sufficiently suppress viral replication. HIV is prone to making mistakes when it copies itself, which leads to frequent mutations that induce resistance to various ART drugs, so sensitivity testing is critical to choosing an effective regimen.</para>
+</section>
+<section id="sect-00007">
+<title><term class="no-emphasis" id="term-00006">Antiretroviral Drugs</term></title>
+<para id="para-00010">Treatment of HIV is an ever-evolving subject, with guidelines frequently recommending different preferred ART regimens based on up-to-date research. The best place to get accurate, timely recommendations for ART is through the <link url="https://openstax.org/r/hivinfo">National Institutes of Health’s HIV information website</link>. For effective ART, multiple drugs utilizing different mechanisms of action are used together to synergize and suppress viral replication. The client’s adherence is critical to achieve viral suppression and preserve their immune function. Nonadherence will often lead to viral resistance against ART drugs. Choosing combination products that reduce the number of pills a client takes in a day can help decrease regimen complexity and increase adherence.</para>
+<section id="sect-00008">
+<title>Integrase Strand Transfer Inhibitors</title>
+<para id="para-00011"><term class="no-emphasis" id="term-00007">Integrase strand transfer inhibitors</term> (integrase inhibitors) include the drugs raltegravir, dolutegravir, and elvitegravir. They work by inhibiting the HIV enzyme integrase to prevent HIV DNA from being incorporated into the individual’s DNA. This then prevents the production of new copies of the virus. Integrase inhibitors are a relatively new class of drugs used in the treatment of HIV; given their efficacy and favorable tolerability, they have become components of many first-line regimens recommended for clients newly diagnosed with HIV.</para>
+</section>
+<section id="sect-00009">
+<title><term class="no-emphasis" id="term-00008">Fusion Pump Inhibitors</term></title>
+<para id="para-00012">The fusion pump inhibitor enfuvirtide works by preventing the fusion of the HIV virus with a CD4 cell. This prevents the cell from being infected and suppresses viral replication. Enfuvirtide is usually reserved for clients with treatment-resistant HIV because the drug must be injected subcutaneously twice daily and is quite costly.</para>
+</section>
+<section id="sect-00010">
+<title>Protease Inhibitors</title>
+<para id="para-00013">Once HIV has integrated itself into the host cell’s DNA, it begins to produce copies of viral proteins. These are produced in one long chain and must be cleaved via the enzyme protease to form functional, mature proteins. The use of <term class="no-emphasis" id="term-00009">protease inhibitors</term>, such as atazanavir, darunavir, fosamprenavir, and ritonavir, keeps those proteins from maturing, and viral replication is suppressed.</para>
+</section>
+<section id="sect-00011">
+<title><term class="no-emphasis" id="term-00010">Chemokine Coreceptor (CCR5) Antagonists</term></title>
+<para id="para-00014">During the fusion process, some variants of HIV will look for the C-C chemokine receptor type 5 (CCR5) that lies on the cell surface to help the virus enter the cell. This protein plays a major role in inflammation by recruiting and activating leukocytes. CCR5 is also the principal HIV coreceptor and is involved in the pathology of both cancer and neuroinflammation. In addition, it has been implicated in the inflammatory complications of coronavirus disease 2019 (COVID-19). Maraviroc is a CCR5 antagonist that blocks this receptor to discourage fusion and entry of HIV into the cell. If the HIV that the client is infected with does not express the protein looking for the CCR5 receptor, then this drug will be ineffective.</para>
+</section>
+<section id="sect-00012">
+<title><term class="no-emphasis" id="term-00011">Cytochrome P-450 Inhibitors</term></title>
+<para id="para-00015">One way to increase blood levels of certain ART medications and reduce the number of pills a client takes in a day is by inhibiting CYP3A4. The two drugs used for this purpose are cobicistat and the protease inhibitor ritonavir. Inhibiting CYP3A4 reduces drug metabolism and boosts the blood levels of several antiretrovirals.</para>
+<note class="clinical-tip" id="note-00001">
+<para id="para-00016"><emphasis effect="bold">Double-Check for Drug Interactions, Including CYP Interactions</emphasis></para>
+<para id="para-00017">CYP3A4 inhibitors are useful to help reduce the number of pills a client needs to take and thus simplify their medication regimens. These inhibitors can also be the source of many drug interactions, including medications used for tuberculosis, high cholesterol, and bacterial infections. Nurses should always inspect a client’s medication history to determine whether any changes to their current medications are necessary to avoid drug toxicity.</para>
+</note>
+</section>
+<section id="sect-00013">
+<title>Non-nucleoside Reverse Transcriptase Inhibitors</title>
+<para id="para-00018">Reverse transcriptase takes the viral RNA and makes a complementary copy of DNA that can then be integrated into the host cell DNA. By inhibiting reverse transcriptase, viral replication can be suppressed. One way to inhibit reverse transcriptase is by directly binding to it to affect its conformational shape and reduce its ability to produce DNA. This class of drugs is known as the <term class="no-emphasis" id="term-00012">non-nucleoside reverse transcriptase inhibitors (NNRTIs)</term> and includes the drugs delavirdine, efavirenz, etravirine, and rilpivirine.</para>
+</section>
+<section id="sect-00014">
+<title>Nucleoside/Nucleotide Reverse Transcriptase Inhibitors</title>
+<para id="para-00019">An alternative way to inhibit reverse transcriptase is by using drugs that look like the nucleosides/nucleotides that are normally incorporated into viral DNA but which are modified to function as chain terminators to prevent DNA chain elongation. These drugs are called the <term class="no-emphasis" id="term-00013">nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)</term> and include the drugs abacavir, didanosine, tenofovir, and zidovudine. These agents serve as the backbone to many ART regimens. The NRTIs are ineffective as a monotherapy due to rapid resistance. First-line antiretroviral regimens include two NRTIs and one other drug from a different class, such as NNRTIs or protease inhibitors. Today, treatment has become simplified due to the availability of combination agents. This simplified regimen enhances adherence.</para>
+<para id="para-00020">[link]Table 7.9[/link] lists antiretroviral drugs and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Atazanavir</term><newline/>
+(<term class="no-emphasis" id="term-00015">Reyataz</term>)</entry>
+<entry valign="top" align="left">300 mg orally once daily with or without boosting with ritonavir.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Cobicistat</term><newline/>
+(<term class="no-emphasis" id="term-00017">Tybost</term>)</entry>
+<entry valign="top" align="left">150 mg orally once daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Dolutegravir/rilpivirine</term><newline/>
+<term class="no-emphasis" id="term-00019">(JULUCA)</term></entry>
+<entry valign="top" align="left">50 mg of dolutegravir and 25 mg of rilpivirine once daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Enfuvirtide</term><newline/>
+(<term class="no-emphasis" id="term-00021">Fuzeon</term>)</entry>
+<entry valign="top" align="left">2 mg/kg/dose subcutaneously twice daily; maximum dose: 90 mg/dose.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Etravirine</term><newline/>
+(<term class="no-emphasis" id="term-00023">Intelence</term>)</entry>
+<entry valign="top" align="left">200 mg orally twice daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Raltegravir</term><newline/>
+(<term class="no-emphasis" id="term-00025">Isentress</term>)</entry>
+<entry valign="top" align="left">400 mg orally twice daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00026">Tenofovir</term><newline/>
+(<term class="no-emphasis" id="term-00027">Viread)</term></entry>
+<entry valign="top" align="left">300 mg orally once daily.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antiretroviral Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00015">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00021">Antiretroviral agents are known to cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antiretroviral drug is known hypersensitivity.</para>
+<para id="para-00022">The most common adverse effects associated with enfuvirtide include fatigue, diarrhea, and injection site reactions.</para>
+<para id="para-00023">Common adverse effects among the protease inhibitors include liver injury and metabolic disorders such as dyslipidemia and glucose intolerance.</para>
+<note class="safety-alert" id="note-00002">
+<para id="para-00024"><emphasis effect="bold">Protease Inhibitors</emphasis></para>
+<para id="para-00025">Effective ART therapy has allowed many clients with HIV to live decades longer than they might have if diagnosed in the 1980s. Protease inhibitor use, however, can increase the risk for metabolic complications in these clients, including raising serum glucose and lipid levels. This may predispose them to conditions such as diabetes and atherosclerotic cardiovascular disease (e.g., angina, myocardial infarction). As these clients age, health care professionals should screen for these metabolic conditions to be able to intervene before complications develop.</para>
+</note>
+<para id="para-00026">The main adverse effects seen with maraviroc are gastrointestinal upset and upper respiratory infection.</para>
+<para id="para-00027">Common adverse reactions to the NNRTIs include rash, insomnia, and liver injury. Use of this class of drugs is on the decline due to poor tolerability and safety issues.</para>
+<para id="para-00028">Older, first-generation NRTIs such as didanosine and zidovudine are more frequently associated with adverse effects such as peripheral neuropathies, pancreatitis, and lactic acidosis. Newer agents such as abacavir and tenofovir tend to be better tolerated and are included in many of the recommended regimens for HIV treatment.</para>
+<para id="para-00029">[link]Table 7.10[/link] is a drug prototype table for antiretroviral drugs featuring dolutegravir/rilpivirine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Integrase strand transfer inhibitor<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Binds to the integrase active site and inhibits the strand transfer step of HIV DNA integration necessary for HIV replication</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+50 mg of dolutegravir and 25 mg of rilpivirine once daily.</entry>
+</row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+HIV infection<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Suppresses HIV replication and preserves the immune system</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Aluminum hydroxide<newline/>
+Carbamazepine<newline/>
+Dofetilide<newline/>
+Efavirenz<newline/>
+Fosamprenavir<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Dairy products</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Increased serum lipase<newline/>
+Pruritis<newline/>
+Hyperglycemia<newline/>
+Abdominal distress<newline/>
+Hepatitis</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline/>
+Hepatotoxicity<newline/>
+Immune reconstitution syndrome</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Dolutegravir</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00016">
+<title>Nursing Implications</title>
+<para id="para-00030">The nurse should do the following for clients who are taking antiretroviral drugs:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty breathing, difficulty swallowing).</item>
+<item>Advise the client to take the entire prescribed course of the drug to ensure adequate treatment and to reduce the development of drug resistance.</item>
+<item>Teach the client to monitor for symptoms of lactic acidosis (e.g., abnormal heartbeat, muscle cramps, abdominal pain).</item>
+<item>Educate about sterile, proper injection technique if the client is using enfuvirtide.</item>
+<item>Monitor for potential CYP3A4 interactions with other medications the client is taking if they are using ritonavir or cobicistat.</item>
+<item>Monitor for liver dysfunction in clients receiving maraviroc.</item>
+<item>Evaluate for the presence of the HLA-B*5701 genetic mutation before beginning abacavir because its presence increases the risk for anaphylaxis.</item>
+<item>For clients receiving protease inhibitors, monitor for changes in serum lipids and glucose to reduce the risk for heart disease.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00031"><emphasis effect="bold">The client taking an antiretroviral should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Alert their health care provider about any signs of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider that they are taking these medications, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+<item>Alert their health care provider about any adverse effects or barriers to taking the medication correctly to ensure adherence and appropriate drug selection.</item>
+<item>Understand proper sterile injection technique to reduce the risk for infection.</item>
+<item>Report any rash or yellowish skin discoloration if they are taking maraviroc.</item>
+<item>Make sure to take every dose in their regimen to decrease the development of viral resistance.</item>
+<item>Make sure to practice safer sex (e.g., condom use, fewer sexual partners) and avoid sharing needles to reduce the chances of transmitting HIV.</item>
+</list>
+</note>
+<note class="black-box" id="note-00004">
+<para id="para-00032"><emphasis effect="bold">HIV/AIDS Medications</emphasis></para>
+<para id="para-00033"><emphasis effect="bold">Abacavir:</emphasis> Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir. Clients who carry the HLA-B*5701 allele are at a higher risk for a hypersensitivity reaction to abacavir, although hypersensitivity reactions have occurred in clients who do not carry HLA-B*5701 allele.</para>
+<para id="para-00034"><emphasis effect="bold">Maraviroc:</emphasis> Hepatotoxicity has been reported with use of maraviroc. Severe rash or evidence of a systemic allergic reaction (e.g., eosinophilia, elevated immunoglobulin E [IgE], fever) prior to the development of hepatotoxicity may occur. Clients with signs or symptoms of hepatitis or allergic reaction following use of maraviroc should be immediately evaluated.</para>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>acquired immunodeficiency syndrome (AIDS)</term> <meaning>a group of conditions associated with immune system dysfunction caused by the human immunodeficiency virus</meaning></definition>
+<definition id="def-00002"><term>antiretroviral therapy (ART)</term> <meaning>medications designed to treat infections caused by the human immunodeficiency virus</meaning></definition>
+<definition id="def-00003"><term>human immunodeficiency virus (HIV)</term> <meaning>retrovirus that causes progressive immune system dysfunction</meaning></definition>
+<definition id="def-00004"><term>viral load</term> <meaning>the number of viral particles measured in a sample of body fluid or tissue (usually blood)</meaning></definition>
+</glossary>
 </document>

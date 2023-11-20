@@ -6,8 +6,41 @@
     <md:uuid>54778d8d-5b83-4c9c-99ff-57f0fbeb9dba</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the pathophysiology of infection and the body’s defense system.</item>
+<item>Identify clinical manifestations related to infection.</item>
+<item>Identify the etiology and diagnostic studies related to infection.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Infection and the Body’s Defense System</title>
+<para id="para-00002">The body’s <term class="no-emphasis" id="term-00001">immune system</term> has several different means of preventing infection from various microorganisms. These different barriers to infection can be broken down into two distinct types: innate immunity and adaptive immunity.</para>
+<para id="para-00003"><term id="term-00002">Innate immunity</term> is the body’s first line of defense against many types of organisms. It includes physical barriers such as the skin, the acidic pH of the stomach, phagocytic cells (e.g., macrophages), and the inflammatory cascade (see <link document="m00301">Introduction to the Immune System and the Inflammatory Response</link>). This type of immunity does not require prior exposure to an organism to provide protection and is not specific to any type of microorganism. Innate forms of immunity work quickly, within minutes to hours.</para>
+<para id="para-00004">By comparison, <term id="term-00003">adaptive immunity</term>, also known as acquired immunity, is highly specific to individual microorganisms. Adaptive immunity works through various immune cells with the ability to recognize specific targets (antigens) as belonging to the self or as foreign. When the body detects foreign antigens, the adaptive immune system can mount a response against the pathogen to eliminate it ([link]Figure 7.2[/link]). Adaptive immunity is initially slow upon the first exposure to an antigen, but it has a “memory” that allows it to mount fast responses upon repeated exposure to that same pathogen. This immune memory is durable and able to last the individual’s whole life in some cases. This same process is how some vaccines work to induce immunity to organisms.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram shows how a microphage digests a foreign bacterium. First, the bacterium engulfed by the macrophage is encased in a vacuole. Next, lysosomes fuse with the vacuole and digest the bacteria. Finally, antigens from the digested bacterium are presented with M H C 2 on the cell surface."><image mime-type="image/png" src="../../media/PHA_Figure_07_01_002.png"/></media>
+<caption>As part of the adaptive immune system, a macrophage engulfs and digests a foreign bacterium. (credit: modification of work from <emphasis effect="italics">Biology for AP® Courses</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00005">When microorganisms evade the innate and adaptive immunities, infection can occur. The individual may develop signs and symptoms consistent with elevated levels of inflammation that are caused by the immune system attempting to fight the infection. These signs and symptoms can include fever, malaise, nausea, vomiting, and pain.</para>
+<para id="para-00006">Various diagnostic tests are available to aid in diagnosis of an infection. These include laboratory blood tests (e.g., a complete blood count can reveal white blood cell abnormalities), imaging (e.g., a chest x-ray can reveal pneumonia), and various direct and indirect organism tests (e.g., an influenza swab can reveal the presence of influenza viral antigens). The health care provider’s choice of tests to order depends on the client.</para>
+<para id="para-00007">People who are <term id="term-00004">immunocompromised</term> are more susceptible to, and have less immune defense against, infection. They may also be unable to mount “typical” signs and symptoms of infection, including fever, which can delay recognition of the infection. This can increase morbidity and mortality significantly in this client population because they are more prone to serious infections than clients with competent immune systems are. A client can be immunocompromised for a variety of reasons, such as by having human immunodeficiency virus (HIV) and the associated acquired immunodeficiency syndrome (AIDS), receiving chemotherapy for cancer treatment, or using corticosteroids (e.g., prednisone, dexamethasone). Nurses should take particular care to investigate any potential infections in clients who are immunocompromised.</para>
+</section>
+<section id="sect-00004">
+<title>Anti-infective Drugs</title>
+<para id="para-00008">A variety of anti-infective medications are available today. Because many drugs are specific to the organisms that they treat, the first step in selection is to determine the most likely organism causing the infection. This allows for more judicious use of anti-infective medications and avoids the unnecessary use of drugs to treat organisms that are not present in the client. This consideration is commonly referred to as <term id="term-00005">anti-infective stewardship</term>.</para>
+<para id="para-00009">Anti-infective drugs are grouped based on the organisms that they treat and include antibiotics, antivirals, antifungals, and antiparasitics. The following sections will detail the common types of anti-infectives, including their mechanisms of action, indications, adverse effects, and contraindications.</para>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>adaptive immunity</term> <meaning>the body’s organism-specific defenses against infection</meaning></definition>
+<definition id="def-00002"><term>anti-infective stewardship</term> <meaning>the process of using anti-infectives judiciously to prevent drug resistance</meaning></definition>
+<definition id="def-00003"><term>immunocompromised</term> <meaning>the state in which the immune system is unable to effectively prevent infection</meaning></definition>
+<definition id="def-00004"><term>innate immunity</term> <meaning>the body’s nonspecific defenses against infection</meaning></definition>
+</glossary>
 </document>

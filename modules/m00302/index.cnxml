@@ -6,8 +6,10 @@
     <md:uuid>0a3e804f-5eef-4c44-ada3-8cc59ba2f5bd</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<figure class="splash" id="fig-00001">
+<media alt="An iridescent illustration shows cells clustered together."><image mime-type="image/jpeg" src="../../media/PHA_Unit03_06_08_001_Splash.jpg"/></media>
+<caption>The immune system is a complex network of cells, tissues, and organs that work together to protect the body from harmful substances, such as pathogens. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00001">Four primary types of <term class="no-emphasis" id="term-00001">microorganisms</term> are responsible for causing infections in humans: bacteria, viruses, fungi, and parasites. This chapter will introduce the various pharmacologic agents designed to treat infections caused by these microorganisms, including indications, mechanisms, adverse effects, contraindications, and drug interactions.</para>
+</content>
 </document>

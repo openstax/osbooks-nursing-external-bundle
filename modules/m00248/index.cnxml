@@ -5,9 +5,243 @@
     <md:content-id>m00248</md:content-id>
     <md:uuid>ec86b980-62c3-4add-b582-49fbd16d34a9</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the pathophysiology of tuberculosis.</item>
+<item>Identify clinical manifestations related to tuberculosis.</item>
+<item>Identify the etiology and diagnostic studies related to tuberculosis.</item>
+<item>Identify the characteristics of drugs used to treat tuberculosis.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat tuberculosis.</item>
+<item>Describe nursing implications of drugs used to treat tuberculosis.</item>
+<item>Explain the client education related to drugs used to treat tuberculosis.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Tubercular Infections</title>
+<para id="para-00002"><term id="term-00001">Tuberculosis (TB)</term> is a deadly respiratory infection primarily caused by the organism <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>. Worldwide, TB is the second leading cause of infectious deaths after COVID-19 (World Health Organization, 2023a). Although TB is less of a concern in high-income nations, it is still a major cause for concern in lower-income nations and in clients at greater risk, including those who are immunocompromised and those living in close contact with other people (e.g., prisons, shelters, nursing homes). TB has been found to disproportionately affect marginalized racial and ethnic groups who already have limited access to health care and are most susceptible to the devastating effects of TB (CDC, 2018).</para>
+<para id="para-00003"><emphasis effect="italics">M. tuberculosis</emphasis> is a slow-growing mycobacterium that possesses a cellular envelope made up of mycolic acid, which makes it difficult for conventional antibiotics to penetrate and inhibit cellular growth. After an individual inhales aerosol droplets containing <emphasis effect="italics">M. tuberculosis</emphasis>, they may either clear the organism immediately, develop an active TB infection, or develop latent TB, in which the organism goes into a dormant state. Latent TB can reside in the person’s lungs for years, waiting to activate either spontaneously or through an episode of immunosuppression that can be brought on by conditions such as HIV, diabetes, end-stage kidney disease, or the use of corticosteroids (e.g., dexamethasone, prednisone).</para>
+<para id="para-00004">Individuals with TB typically present with common signs and symptoms, including weight loss, fatigue, productive cough, fever, and night sweats. Other signs and symptoms may include chest pain and hemoptysis (coughing up of blood). The health care provider should order a chest x-ray and then sputum samples if the x-ray shows infiltrates suggestive of TB. Common findings on chest x-ray in clients with TB include mediastinal lymphadenopathy, pleural effusion, and pulmonary consolidation. Cases of latent TB are often screened for using tuberculin skin tests or interferon gamma release assay. Skin testing introduces tuberculin protein under the skin; redness and swelling (induration) at the injection site due to the presence of TB antibodies indicates latent TB infection. If clients show positive results from these tests, they will be referred for more diagnostic testing, including a chest x-ray to determine whether a latent infection is present.</para>
+</section>
+<section id="sect-00004">
+<title>First-Line Drug Therapy</title>
+<para id="para-00005">Once a definitive diagnosis of TB has been made, treatment specific for TB should begin immediately. Due to the difficulty of drug penetration and the slow-growing nature of the organism, TB treatment requires at least 6 months of therapy. Failure to adhere to TB therapy can lead to clinical worsening in the client and more resistant strains of <emphasis effect="italics">M. tuberculosis.</emphasis> Traditionally, clients with an active TB infection begin therapy with a four-drug regimen consisting of isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months followed by four additional months of isoniazid and rifampin. The specific drugs used and their durations may be altered depending on client comorbidities and TB resistance.</para>
+<note class="clinical-tip" id="note-00001">
+<para id="para-00006"><emphasis effect="bold">Antitubercular Drug Compliance</emphasis></para>
+<para id="para-00007">Adherence to antitubercular drug regimens is critical to ensure eradication of the infection and prevention of drug-resistant strains of TB. One way to help ensure adherence is by using directly observed therapy, in which a trained observer watches the client take every dose of their TB medication. This can take place in the clinic, home care agency, correctional facility, or treatment center. Directly observed therapy helps provide stability and accountability and has been shown to increase antitubercular drug therapy completion. Directly observed therapy can even be completed electronically if that is more convenient for the client (Burzynski et al., 2022).</para>
+</note>
+<para id="para-00008">The following drugs are used to treat TB:</para>
+<list list-type="bulleted" id="list-00002">
+<item><emphasis effect="italics">Ethambutol hydrochloride:</emphasis> Ethambutol inhibits RNA synthesis in susceptible mycobacteria to suppress cellular replication.</item>
+<item><emphasis effect="italics">Isoniazid:</emphasis> Isoniazid is an important component of the antitubercular regimen and works by inhibiting the production of mycolic acid. This inhibition disrupts the integrity of the mycobacterial cell wall, causing cell death.</item>
+<item><emphasis effect="italics">Pyrazinamide:</emphasis> Pyrazinamide is used during the first 2 months of therapy. Its mechanism for inhibiting <emphasis effect="italics">M. tuberculosis</emphasis> is not fully known, but it is thought to reduce the pH of the local environment and discourage mycobacterial growth.</item>
+<item><emphasis effect="italics">Rifamycins:</emphasis> Rifampin, rifabutin, and rifapentine belong to the rifamycin class. These medications work to inhibit mycobacterial growth by binding to the enzyme RNA polymerase to reduce the cell’s ability to produce new proteins, thereby stifling growth.</item>
+</list>
+</section>
+<section id="sect-00005">
+<title>Drug Therapy for Multidrug-Resistant Tubercular Infections</title>
+<para id="para-00009">Growing resistance to standard therapy is an ongoing concern for health care professionals managing TB. Health care providers should take care to select agents that the mycobacterium is susceptible to and weigh that efficacy against the adverse effect profiles of these agents. Selection should be based on sensitivity testing performed on samples collected from the client at the time of diagnosis and is made based on the discretion of an expert in infectious disease. Alternative agents include aminosalicylate sodium, capreomycin, ethionamide, and streptomycin. Resistant cases of TB should be referred to infectious disease specialists to ensure appropriate management of these complex cases.</para>
+<para id="para-00010">[link]Table 7.12[/link] lists <term class="no-emphasis" id="term-00002">antitubercular drugs</term> and typical routes and dosing for adult clients, along with the typical treatment times for standard TB regimens.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Ethambutol</term><newline/>
+(<term class="no-emphasis" id="term-00004">Myambutol</term>)</entry>
+<entry valign="top" align="left">800–1600 mg orally once daily for 26 weeks.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Isoniazid</term><newline/>
+(<term class="no-emphasis" id="term-00006">Isovit</term>)</entry>
+<entry valign="top" align="left">300 mg orally once daily for 26 weeks.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Pyrazinamide</term><newline/>
+(<term class="no-emphasis" id="term-00008">Rifater</term>)</entry>
+<entry valign="top" align="left">1–2 g orally once daily for 8 weeks.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Rifampin</term><newline/>
+(<term class="no-emphasis" id="term-00010">Rifadin</term>)</entry>
+<entry valign="top" align="left">10 mg/kg (maximum dose: 600 mg) orally once daily for 8 weeks.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antitubercular Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<para id="para-00011">[link]Table 7.13[/link] is a drug prototype table for antitubercular drugs featuring isoniazid. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Antitubercular agent<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Inhibits synthesis of mycolic acids to disrupt the cell wall in <emphasis effect="italics">Mycobacterium tuberculosis</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+300 mg orally once daily for 26 weeks.</entry>
+</row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+Active tuberculosis infection<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Kills <emphasis effect="italics">M. tuberculosis</emphasis> to eliminate infection</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Acetaminophen<newline/>
+Alprazolam<newline/>
+Dofetilide<newline/>
+Dolutegravir<newline/>
+Ketoconazole<newline/>
+Nimodipine<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Ethanol<newline/>
+Tyramine-containing foods</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Elevated serum transaminases<newline/>
+Vasculitis<newline/>
+Maculopapular rash<newline/>
+Toxic epidermal necrolysis<newline/>
+Nausea<newline/>
+Agranulocytosis<newline/>
+Bilirubinuria</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity<newline/>
+Acute liver disease<newline count="2"/>
+Caution:<newline/>
+Hepatic impairment<newline/>
+Renal impairment</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Isoniazid</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00012">Antituberculosis medications are known to cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antituberculosis drug is known hypersensitivity.</para>
+<para id="para-00013">Ethambutol is partially renally eliminated, so the dose should be adjusted in clients with renal dysfunction. The major adverse effects seen with ethambutol are optic nerve inflammation, changes in visual acuity, and loss of ability to distinguish between the colors red and green.</para>
+<para id="para-00014">Isoniazid is a known hepatotoxin; serial liver function tests should be performed to determine whether therapy should be altered. Isoniazid also can cause neurotoxicity, including peripheral neuropathies at standard doses and seizures and coma in overdose. Clients particularly at risk for neurotoxicity include those who are pyridoxine deficient (e.g., pregnant clients, individuals with excessive alcohol intake).</para>
+<note class="safety-alert" id="note-00002">
+<title><emphasis effect="bold">Isoniazid</emphasis></title>
+<para id="para-00015">Nurses must inform clients that they should have their liver function assessed regularly while on isoniazid to monitor for liver toxicity. The client should also abstain from excessive alcohol use, which may increase the risk for hepatotoxicity. Excessive drinking includes binge drinking (four or more drinks during a single occasion for females or five or more drinks during a single occasion for males) and heavy drinking (8 or more drinks per week for females or 15 or more drinks per week for males).</para>
+</note>
+<para id="para-00016">Pyrazinamide also is a known hepatotoxin, so serial liver function tests should be monitored for evidence of liver injury. In addition, pyrazinamide raises uric acid levels.</para>
+<para id="para-00017">Rifampin and rifapentine are potent inducers of CYP3A4. These drugs can prove a challenging addition to a client’s medication regimen because induction of CYP3A4 can speed the metabolism of affected drugs and lead to therapeutic failure. Medication profiles should be examined closely and adjustments made to account for the inclusion of rifampin and rifapentine. Rifabutin has much less CYP3A4 induction and causes fewer drug interactions, making it an alternative to rifampin. Rifampin can cause the client’s secretions (e.g., urine, tears, sweat) to turn an orange to red color, which clients should be warned about before they start therapy. Rifampin is another TB drug that requires monitoring for elevations in liver function tests because it may worsen hepatic function.</para>
+</section>
+<section id="sect-00007">
+<title>Nursing Implications</title>
+<para id="para-00018">The nurse should do the following for clients who are taking an antitubercular drug:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty swallowing, etc.).</item>
+<item>Advise the client to take the entire prescribed regimen to ensure adequate treatment and to reduce the development of drug resistance.</item>
+<item>Tell the client to report signs and symptoms of liver impairment (e.g., yellowish skin, vomiting, abdominal pain, dark urine) that may occur while clients are taking isoniazid, rifampin, or pyrazinamide.</item>
+<item>Screen clients using rifampin for any medication interactions and alert the health care provider as needed.</item>
+<item>Monitor uric acid levels as well as liver function tests for clients taking pyrazinamide.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00019"><emphasis effect="bold">The client taking an antitubercular drug should:</emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Alert their health care provider about any signs of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider that they are taking these medications, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+<item>Alert their health care provider about any visual changes, such as decreased ability to see certain colors, while on ethambutol.</item>
+<item>Alert their health care provider if they experience any signs of liver dysfunction, including yellowish skin, vomiting, abdominal pain, or dark urine.</item>
+<item>Be aware that their urine or sweat may appear red to orange while taking rifampin.</item>
+<item>Make sure to take every dose of their regimen to help ensure successful therapy, reduce drug resistance, and prevent the transmission of TB to others.</item>
+<item>Avoid excessive alcohol to avoid liver injury.</item>
+<item>Report to their health care provider any numbness or tingling in the extremities while taking isoniazid.</item>
+</list>
+</note>
+<note class="black-box" id="note-00004">
+<para id="para-00020"><emphasis effect="bold">Isoniazid</emphasis></para>
+<para id="para-00021">Severe and sometimes fatal hepatitis associated with isoniazid therapy has been reported and may occur or develop even after many months of treatment.</para>
+</note>
+<note class="unfolding-casestudy" id="note-00005">
+<para id="para-00022">Read the following clinical scenario to answer the questions that follow.</para>
+Mark Janson is a 36-year-old White client who presents to the emergency department complaining of coughing up blood for the past 3 days. He reports intermittent fevers, chills, night sweats, and difficulty breathing that worsens on exertion. He notes that he has unintentionally lost 25 pounds over the last several weeks.<newline count="2"/>
+<emphasis effect="bold">History</emphasis><newline/>
+None<newline count="2"/>
+<emphasis effect="bold">Current Medications</emphasis><newline/>
+Acetaminophen 650 mg orally every 6 hours as needed for fever
+Dextromethorphan 20 mg orally every 4 hours as needed for cough, which has not provided relief
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">98.4°F</entry>
+<entry valign="top" align="left" morerows="7">
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within defined limits</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention; no peripheral edema noted bilaterally; S1, S2 noted, rhythm regular</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Rhonchi and dullness to percussion in the right upper lobe, tachypneic, labored breathing</item>
+<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended</item>
+<item><emphasis effect="italics">GU:</emphasis> Reports normal urine output</item>
+<item><emphasis effect="italics">Neurologic:</emphasis> Within defined limits</item>
+<item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted; skin appropriate for age</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left">135/73 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left">100 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left">24 breaths/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left">93% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
+<entry valign="top" align="left">5’10”</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
+<entry valign="top" align="left">154 pounds</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch07_Sec05_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch07_Sec05_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>tuberculosis (TB)</term> <meaning>a pulmonary infection caused by <emphasis effect="italics">Mycobacterium tuberculosis</emphasis></meaning></definition>
+</glossary>
 </document>

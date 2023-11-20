@@ -5,9 +5,754 @@
     <md:content-id>m00245</md:content-id>
     <md:uuid>185797f2-b7de-4944-aa75-daa8c2ad30f8</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of drugs used to treat infection.</item>
+<item>Discuss antibiotic drug resistance.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat infection.</item>
+<item>Describe the nursing implications of drugs used to treat infection.</item>
+<item>Explain the client education related to drugs used to treat infection.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Antibiotics and Infection</title>
+<para id="para-00002">Antibiotics are a group of drugs used specifically to treat infections caused by bacteria, either by directly killing the bacteria (<term id="term-00001">bactericidal</term>) or by suppressing their growth and multiplication (<term id="term-00002">bacteriostatic</term>). Antibiotics are some of the most commonly prescribed medications in the world; therefore, careful stewardship is necessary to avoid overuse, which can lead to antibiotic resistance.</para>
+</section>
+<section id="sect-00004">
+<title>Antibiotic Drug Resistance</title>
+<para id="para-00003"><term class="no-emphasis" id="term-00003">Antibiotic drug resistance</term> is the process by which bacteria become less responsive to antibiotics over time. As bacteria are exposed to antibiotics, evolutionary changes occur, leading to the development of resistant strains that can withstand the antibiotic exposure and continue to thrive. These changes can include modification of antibiotic targets (e.g., bacterial DNA or proteins) or the ability to remove a drug from the bacterial cell more effectively. Some bacteria are even able to share snippets of DNA that code for drug resistance with other bacteria.</para>
+<para id="para-00004">Antibiotic resistance is a major public health issue. Having fewer options to treat a client’s infection leads to worsened morbidity and mortality, higher health care costs, and the potential for bacteria to develop against which effective treatment does not exist. <term id="term-00004">Superinfections</term> can occur when the use of broad-spectrum antibiotics kills off normal nonpathogenic bacteria and leaves behind drug-resistant bacteria that can produce a new infection that is more difficult to treat ([link]Figure 7.3[/link]). Most antibiotic drug resistance occurs due to antibiotic overuse, both in humans and in agriculture. This is why health care providers should prescribe antibiotics only when there is sufficient probability that the client has a bacterial infection.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram shows how broad-spectrum antibiotics can lead to superinfections. A normal microbiota keeps opportunistic pathogens in check. However, broad-spectrum antibiotics can kill all nonresistant cells, including the microbiota. This results in drug-resistant pathogens proliferating, without the normal microbiota to keep them in check."><image mime-type="image/png" src="../../media/PHA_Figure_07_02_003.png"/></media>
+<caption>Broad-spectrum antibiotic use may lead to the development of a superinfection. (credit: modification of work from <emphasis effect="italics">Microbiology</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<note class="clinical-tip" id="note-00001">
+<title>Antibiograms</title>
+<para id="para-00005">Most hospital systems will develop a document known as an <term id="term-00005">antibiogram</term>. Cultured bacterial samples from clients at that hospital are used to determine regional bacterial resistance patterns against antibiotics. Antibiograms allow health care providers to make more informed decisions about which antibiotics are most effective in treating clients at their facility.</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Antibiotic Drugs</title>
+<para id="para-00006">The following sections cover the most common antibiotic agents available. Not every antibiotic is able to treat all types of bacteria equally, so health care providers must follow guidelines and antibiotic references to select the most appropriate antibiotic.</para>
+<section id="sect-00006">
+<title>Penicillins</title>
+<para id="para-00007"><term class="no-emphasis" id="term-00006">Penicillin</term>, which was discovered in 1928 by Alexander Fleming, was the first antibiotic (American Chemical Society, n.d.). Since then, different drugs within the penicillin family have been developed, including nafcillin, piperacillin, and the aminopenicillins amoxicillin and ampicillin. These agents are used for a variety of infections, including streptococcal pharyngitis (strep throat), acute otitis media, and endocarditis.</para>
+<para id="para-00008">Penicillins are part of the family of beta-lactam antibiotics because they include a beta-lactam ring in their chemical structure. The beta-lactam ring is critical for the antibiotic actions of penicillins. Penicillin-binding protein is a bacterial enzyme that is necessary to form the cross-links in the bacterial cell wall that provide structural integrity. When a penicillin is administered, the beta-lactam ring of penicillin will bind to the penicillin-binding protein and inhibit it. This inhibition causes fewer cross-links to form, thereby producing holes in the bacterial cell wall, leakage of internal contents, and cellular death of the bacteria.</para>
+</section>
+<section id="sect-00007">
+<title>Beta-Lactamase Inhibitors</title>
+<para id="para-00009">One way that bacteria become resistant to antibiotics, such as penicillins, is by producing enzymes that can neutralize the drug. Beta-lactamase is one such enzyme; it is produced in resistant bacteria to cleave the beta-lactam ring found in drugs like penicillin to render it ineffective. <term class="no-emphasis" id="term-00007">Beta-lactamase inhibitors</term> such as sulbactam, clavulanic acid, and tazobactam were produced to be administered with certain penicillins to help them retain and expand their activity to treat even more types of bacteria, such as anerobic organisms (e.g., <emphasis effect="italics">Peptostreptococcus</emphasis> sp<emphasis effect="italics">.</emphasis>). The most common combinations include amoxicillin plus clavulanic acid (Augmentin), ampicillin plus sulbactam (Unasyn), and piperacillin plus tazobactam (Zosyn).</para>
+</section>
+<section id="sect-00008">
+<title>Cephalosporins</title>
+<para id="para-00010"><term class="no-emphasis" id="term-00008">Cephalosporins</term> are another group of beta-lactam antibiotics and share the same mechanism of action as penicillin. The major differences between cephalosporins and penicillins are the various bacteria they have activity against and, thus, the types of infections they are best suited to treat.</para>
+<para id="para-00011">Cephalosporins are divided into several different generations based on their spectrum of activity. First-generation cephalosporins include cephalexin and cefazolin; these are used for a variety of conditions such as uncomplicated urinary tract infections, upper respiratory tract infections, and prevention of infection during surgery. Second-generation cephalosporins, such as cefoxitin and cefprozil, are used for similar conditions, including otitis media, pneumonia, and urinary tract infections. Third-generation cephalosporins include ceftriaxone and cefotaxime. These agents have increased gram-negative bacterial coverage and are useful in the hospital setting for a variety of more serious infections. such as meningitis, pneumonia, and neonatal sepsis. The only fourth-generation cephalosporin currently available is cefepime. Cefepime has broad antimicrobial coverage, including the difficult-to-treat gram-negative organism <emphasis effect="italics">Pseudomonas aeruginosa.</emphasis> Finally, the fifth-generation cephalosporin ceftaroline is relatively new and has the unique aspect of being the only cephalosporin to have activity against methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (MRSA), which is associated with significant morbidity and mortality.</para>
+</section>
+<section id="sect-00009">
+<title>Macrolides</title>
+<para id="para-00012">Macrolide antibiotics include the agents azithromycin, clarithromycin, and erythromycin. These agents work by inhibiting protein production by the bacterial ribosomes. <term class="no-emphasis" id="term-00009">Macrolides</term> and other protein synthesis inhibitors do not directly kill bacterial cells, but they sufficiently suppress their reproduction enough to allow the client’s immune system to eliminate the bacteria. Macrolides treat infections caused by atypical bacteria that do not fall into the gram-positive or gram-negative categorization, including <emphasis effect="italics">Mycoplasma pneumoniae, Legionella pneumophila</emphasis>, and <emphasis effect="italics">Chlamydia pneumoniae</emphasis>. Therefore, macrolides are useful for treating a variety of respiratory conditions, such as pneumonia and Legionnaires’ disease, as well as chlamydia, a sexually transmitted infection (STI).</para>
+<para id="para-00013">Macrolides inhibit the liver enzyme cytochrome P450 3A4 (CYP3A4), which is responsible for metabolizing many medications. Medications that use the CYP enzyme system for metabolism will not undergo metabolism at the rate expected, leading to increased serum drug levels. This can result in adverse reactions and toxicity. Some examples of drugs that would be affected include amlodipine, nifedipine, diltiazem, verapamil, lovastatin, simvastatin, carbamazepine, buspirone, midazolam, fluoxetine, sertraline, fluvoxamine, and dextromethorphan. (This is not an exhaustive list.)</para>
+</section>
+<section id="sect-00010">
+<title><term class="no-emphasis" id="term-00010">Glycopeptides</term></title>
+<para id="para-00014">The glycopeptide class of drugs includes vancomycin, a common antibiotic used in the hospital setting for treating infections caused by gram-positive bacteria, including MRSA. Vancomycin works by disrupting the integrity of the bacterial cell wall, leading to cellular death. Interestingly, oral vancomycin has good activity against <emphasis effect="italics">Clostridioides difficile</emphasis>, which is an opportunistic pathogen that can cause colitis and severe diarrhea after clients receive antibiotics that disrupt the gut’s normal bacterial flora. However, it is completely ineffective against bloodstream pathogens. Vancomycin is entirely renally eliminated and must be monitored by checking renal function and serum blood levels of the drug to ensure proper dosing.</para>
+</section>
+<section id="sect-00011">
+<title>Oxazolidinones</title>
+<para id="para-00015"><term class="no-emphasis" id="term-00011">Oxazolidinones</term> include the medication linezolid, which is commonly used to treat gram-positive infections that are highly resistant to agents such as vancomycin. One such infection is vancomycin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (VRSA), which is difficult to treat. Oxazolidinones work by inhibiting bacterial protein synthesis to suppress further growth and multiplication of the bacteria.</para>
+</section>
+<section id="sect-00012">
+<title><term class="no-emphasis" id="term-00012">Lincosamides</term></title>
+<para id="para-00016">The lincosamide category is primarily represented by the drug clindamycin, a protein synthesis inhibitor. Clindamycin possesses strong gram-positive coverage (including against MRSA) and is also able to treat anaerobic bacterial infections. This allows clindamycin to be used in a variety of conditions, such as skin infections, animal bites, and topically as a treatment for acne.</para>
+</section>
+<section id="sect-00013">
+<title>Tetracyclines</title>
+<para id="para-00017">The <term class="no-emphasis" id="term-00013">tetracyclines</term> include the medications tetracycline, doxycycline, and minocycline. These work by inhibiting bacterial protein synthesis, which suppresses their growth. They possess good coverage against a wide variety of bacteria, making them ideal agents for treating conditions such as acne, Lyme disease, and anthrax.</para>
+</section>
+<section id="sect-00014">
+<title>Aminoglycosides</title>
+<para id="para-00018">The <term class="no-emphasis" id="term-00014">aminoglycosides</term>, including gentamicin, tobramycin, and amikacin, are used commonly in the hospital setting for their broad-spectrum gram-negative activity, including against infections caused by <emphasis effect="italics">Pseudomonas aeruginosa.</emphasis> The aminoglycosides work by inhibiting bacterial protein synthesis. They are entirely renally eliminated, and renal function must be monitored along with serial serum drug levels to ensure that aminoglycosides do not accumulate in the body.</para>
+</section>
+<section id="sect-00015">
+<title>Fluoroquinolones</title>
+<para id="para-00019">The <term class="no-emphasis" id="term-00015">fluoroquinolones</term> include drugs such as ofloxacin, levofloxacin, ciprofloxacin, and moxifloxacin. These are commonly used to treat a variety of respiratory and urinary tract infections due to their excellent coverage of gram-negative, gram-positive, and atypical bacteria. Fluoroquinolones work by inhibiting the bacterial enzyme DNA gyrase. This enzyme is responsible for the winding and unwinding of bacterial DNA. Inhibition of this enzyme leads to increased DNA strand breakage, leading to eventual programmed cell death (<term id="term-00016">apoptosis</term>).</para>
+</section>
+<section id="sect-00016">
+<title><term class="no-emphasis" id="term-00017">Sulfonamides</term></title>
+<para id="para-00020">The sulfonamide category of antibiotics includes the combination product of sulfamethoxazole and trimethoprim (Bactrim). This combination has a broad spectrum of coverage, making it effective for treating urinary tract infections, infectious diarrhea, and skin infections. Sulfamethoxazole and trimethoprim work at different steps along the folic acid pathway necessary for the bacterial cell to produce nucleotides and, subsequently, DNA, RNA, and proteins; the drug combination’s interference thus leads to cell death.</para>
+</section>
+<section id="sect-00017">
+<title>Nitroimidazoles</title>
+<para id="para-00021">The <term class="no-emphasis" id="term-00018">nitroimidazoles</term> include the drugs metronidazole and tinidazole. These agents are unique in the antibacterial category because they have good activity against anaerobic bacteria and protozoa, making this class useful for treating a number of STIs and vaginal infections. Nitroimidazoles work by entering the bacterial cell and disrupting the cell’s DNA structure, leading to eventual cell death.</para>
+<para id="para-00022">[link]Table 7.1[/link] lists common antibiotic drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00019">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Penicillin</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Benzathine penicillin G</term><newline/>
+(<term class="no-emphasis" id="term-00021">Bicillin L-A</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Streptococcal pharyngitis (strep throat):</emphasis><newline/>
+<emphasis effect="italics">Adults and children >60 lb</emphasis>: 2.4 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Children 30–60 lb</emphasis>: 0.9 million to 1.2 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Children &lt;30 lb</emphasis>: 0.6 million units intramuscularly once.<newline/>
+<emphasis effect="bold">Pneumococcal infections (except pneumococcal meningitis):</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 1.2 million units repeated every 2–3 days until afebrile for 48 hours.<newline/>
+<emphasis effect="italics">Children:</emphasis> 0.6 million units repeated every 2–3 days until afebrile for 48 hours</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Beta-Lactamase Inhibitor</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Amoxicillin and clavulanate</term><newline/>
+(<term class="no-emphasis" id="term-00023">Augmentin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Otitis media:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 875 mg orally twice daily for 5–7 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> 90 mg/kg/day orally, divided every 12 hours for 5–7 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Cephalosporin</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Cephalexin</term><newline/>
+(<term class="no-emphasis" id="term-00025">Keflex</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
+<emphasis effect="italics">Adults and children >15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
+<emphasis effect="italics">Children >1 year:</emphasis> 25–50 mg/kg in equally divided oral doses for 7–14 days. For β-hemolytic streptococcal infections, at least 10 days is recommended. In severe infections, a total daily dose of 50–100 mg/kg may be administered in equally divided oral doses.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Macrolide</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00026">Azithromycin</term><newline/>
+(<term class="no-emphasis" id="term-00027">Zithromax</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Pneumonia, community acquired:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 500 mg orally on day 1, then 250 mg once daily for 4 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose orally on day 1, then 5 mg/kg/dose daily for 4 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Glycopeptide</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00028">Vancomycin</term><newline/>
+(<term class="no-emphasis" id="term-00029">Vancocin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Bloodstream infection:</emphasis><newline/>
+Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
+<emphasis effect="italics">Adults:</emphasis> 2 g IV divided as either 500 mg every 6 hours or 1 g every 12 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
+<emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose IV given every 6 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
+<emphasis effect="bold"><emphasis effect="italics">C. difficile</emphasis>–associated diarrhea:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 125 mg orally 4 times daily for 10 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days. Maximum daily dose: 2 g.<newline/>
+<emphasis effect="bold">Staphylococcal enterocolitis:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 500–2000 mg orally in 3–4 divided doses for 7–10 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days. Maximum daily dose: 2 g.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Oxazolidinone</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Linezolid</term><newline count="2"/>
+(<term class="no-emphasis" id="term-00031">Zyvox</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
+<emphasis effect="italics">Adults and children ≥12 years:</emphasis> 600 mg orally or IV every 12 hours for 10–14 days.<newline/>
+<emphasis effect="italics">Children &lt;12 years of age):</emphasis> 10 mg/kg IV or orally every 8 hours for 10–14 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Lincosamide</emphasis></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00032">Clindamycin</term><newline/>
+(<term class="no-emphasis" id="term-00033">Cleocin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Osteomyelitis:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> Orally: Serious infections: 150–300 mg every 6 hours. More severe infections: 300–450 mg every 6 hours. Intramuscularly or IV: 600–1200 mg/day in 2–4 equal doses. For more severe infections: 1200–2700 mg/day in 2–4 equal doses.<newline/>
+<emphasis effect="italics">Children 1 month to 16 years</emphasis>: Orally: Serious infections: 8–16 mg/kg/day in 3–4 equal doses. More severe infections: 16–20 mg/kg/day in 3–4 equal doses. <emphasis effect="italics">Intramuscularly or IV:</emphasis> 20 to 40 mg/kg/day in 3–4 equal doses.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Tetracycline</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00034">Doxycycline</term><newline/>
+(<term class="no-emphasis" id="term-00035">Vibramycin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Rocky Mountain spotted fever:</emphasis><newline/>
+<emphasis effect="italics">Adults and children >45 kg:</emphasis> 200 mg orally on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day. For more severe infections, 100 mg every 12 hours.<newline/>
+<emphasis effect="italics">Children &lt;45 kg:</emphasis> 2.2 mg/kg of body weight administered every 12 hours orally.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Aminoglycoside</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00036">Gentamicin</term><newline/>
+(<term class="no-emphasis" id="term-00037">Garamycin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Gram-negative infection:</emphasis><newline/>
+Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
+<emphasis effect="italics">Adults, children, and older infants (intramuscular):</emphasis> 15 mg/kg/day in 2–3 equal doses administered at equal intervals.<newline/>
+<emphasis effect="italics">Adults, children and older infants (IV):</emphasis> 15 mg/kg/day in 2–3 equal doses administered at equally divided intervals. Maximum daily dose: 15 mg/kg/day. Infusion should run 30–60 minutes.</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Sulfonamide</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00038">Sulfamethoxazole and trimethoprim</term><newline/>
+(<term class="no-emphasis" id="term-00039">Bactrim</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Urinary tract infection:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 1 double-strength tablet or 2 regular-strength tablets every 12 hours for 10–14 days.<newline/>
+<emphasis effect="italics">Children ≥ 2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in two doses every 12 hours for 10 days.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antibiotics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00018">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00023">Most oral antibiotics can cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antibacterial is known hypersensitivity.</para>
+<para id="para-00024">Allergic reactions, including anaphylaxis, are possible with penicillins. If a client has a severe allergy to any penicillin, then they should not receive any other drug in the penicillin class because they may experience a cross-sensitivity.</para>
+<para id="para-00025">Most cephalosporins, except for ceftriaxone, must be renally dose adjusted to avoid adverse effects in clients with renal insufficiency. For many years there was concern that clients with a penicillin allergy could not receive cephalosporins due to risk for cross-reactivity and anaphylaxis. More recent data have shown that this concern is unfounded and that the largest risk is for clients with true anaphylactic reactions to penicillins receiving a first-generation cephalosporin. Later generations of cephalosporins carry a much lower risk and are safe to administer to clients with a history of penicillin allergy.</para>
+<para id="para-00026">Macrolides are known to cause gastrointestinal discomfort because they activate motilin receptors in the intestines, which increases peristalsis, cramping, and diarrhea. Macrolides are also capable of inhibiting potassium efflux out of myocardial cells, leading to prolongation of the heart rate–corrected QT interval (QTc) on an electrocardiogram (ECG/EKG) and increasing the client’s risk for developing torsades de pointes, a potentially fatal ventricular dysrhythmia.</para>
+<para id="para-00027">Vancomycin is known to cause a severe flushing reaction when given too quickly intravenously, known as vancomycin flushing syndrome. Vancomycin flushing syndrome can be mistaken for an allergic reaction, but all that is necessary to manage it is to slow the infusion of vancomycin and infuse it over at least 60 minutes. Elevated vancomycin levels are associated with risk for renal injury and hearing damage (ototoxicity). <term class="no-emphasis" id="term-00040">Older adults</term> and those who are critically ill are especially at risk, so close monitoring of renal function and vancomycin blood levels is critical for successful use of the drug.</para>
+<para id="para-00028">Unique adverse effects seen with tetracyclines include photosensitivity, skin discoloration, and risk for skeletal growth stunting and tooth discoloration. These last two effects occur because of the tetracyclines’ ability to bind to calcium in developing bones and teeth. Recommendations to help prevent these effects include avoiding prolonged therapy (more than 21 days) in children who still have their baby teeth and avoiding use in pregnant clients during the second and third trimesters. Oral tetracyclines should not be taken with multivitamins or calcium-containing products. When taken together, tetracyclines will bind to metal ions such as iron and calcium, and the drug will not be absorbed; instead, it will be eliminated in the feces, leading to therapeutic failure.</para>
+<para id="para-00029">Fluoroquinolones have a variety of safety issues, making screening for contraindications particularly important. In <term class="no-emphasis" id="term-00041">older adults</term> and in clients with poor kidney function, fluoroquinolones are known to induce neuropsychiatric issues, including hallucinations and psychosis. Fluoroquinolones also increase the risk for tendonitis and tendon rupture. Fluoroquinolones can increase the QTc interval on ECG, which should be monitored for clients taking multiple QTc-prolonging medications and for those with congenital prolonged QTc to reduce risk for torsades de pointes. Fluoroquinolones should not be taken orally with multivitamins or calcium-containing products because this will cause the drug to bind to the metal and not be absorbed.</para>
+<para id="para-00030">[link]Table 7.2[/link] is a drug prototype table for antibiotics featuring amoxicillin. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00042">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+Aminopenicillin<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/><newline count="2"/>
+Inhibits bacterial cell wall synthesis, leading to bacterial cell lysis
+</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Adults:</emphasis> 500 mg orally every 12 hours.<newline/>
+<emphasis effect="italics">Children:</emphasis> 80–90 mg/kg/day orally divided every 12 hours.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline count="2"/>
+Treatment of infections due to susceptible organisms (<emphasis effect="italics">only</emphasis> beta-lactamase-negative)<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+Treats infections caused by susceptible organisms</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+Aminoglycosides
+Methotrexate
+Tetracyclines
+Probenecid
+Mycophenolate<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Nausea<newline/>
+Vomiting<newline/>
+Diarrhea<newline/>
+Hypersensitivity<newline/>
+Crystalluria<newline/>
+Anemia<newline/>
+Thrombocytopenia<newline/>
+</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="2"/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline count="2"/>
+Renal impairment
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Amoxicillin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00019">
+<title>Nursing Implications</title>
+<para id="para-00031">The nurse should do the following for clients who are taking antibiotics:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty breathing, difficulty swallowing).</item>
+<item>Advise the client to take the entire prescribed course of the medication to ensure adequate treatment and to reduce the development of antibiotic drug resistance.</item>
+<item>Instruct the client to maintain adequate hydration; monitor kidney function for renally eliminated medications, such as penicillins, most cephalosporins, vancomycin, aminoglycosides, and particularly fluoroquinolones.</item>
+<item>For clients taking macrolides, always review their medication list for medications metabolized by CYP3A4.</item>
+<item>Monitor for thrombocytopenia, leukopenia, and anemia in clients receiving linezolid. Monitor CBC periodically. Notify prescriber if blood counts drop.</item>
+<item>If client is taking any medication that can increase serotonin levels (SSRIs, SNRIs, or MAOIs), the nurse should observe for signs of serotonin syndrome, including hyperthermia, headache, confusion, agitation, increased blood pressure, tachycardia, tremor, ataxia, muscle rigidity, and seizures.</item>
+<item>Ensure that any ordered samples for serum levels of agents such as vancomycin and aminoglycosides are obtained at the intended time so that accurate dosage adjustments can be made. Timing may include peak levels drawn after a dose of the antibiotic has been given or trough levels drawn immediately before a dose.</item>
+<item>Monitor for severe or bloody diarrhea and, if ordered, obtain a sample to check for <emphasis effect="italics">C. difficile</emphasis>.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00032"><emphasis effect="bold">Client Teaching Guidelines</emphasis> <emphasis effect="bold">The client taking an antibiotic should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Alert their health care provider about any signs and symptoms of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider about any recent antibiotic use prior to starting therapy.</item>
+<item>Alert their health care provider that they are taking antibiotics, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take the entire course of antibiotics, even if they begin to feel better.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+</list>
+<para id="para-00033"><emphasis effect="bold">The client taking an antibiotic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Take multivitamins or calcium-containing products with fluroquinolone or tetracycline drugs.</item>
+</list>
+</note>
+<note class="black-box" id="note-00003">
+<para id="para-00034"><emphasis effect="bold">Antibacterials</emphasis></para>
+<para id="para-00035"><emphasis effect="bold">All antibacterials:</emphasis> <emphasis effect="italics">Clostridioides difficile</emphasis>–associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clindamycin, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of <emphasis effect="italics">C. difficile</emphasis>.</para>
+<para id="para-00036"><emphasis effect="bold">Aminoglycosides</emphasis> can cause neurotoxicity, manifested by ototoxicity, both vestibular and auditory. This can occur in clients treated with gentamicin, primarily in those with preexisting renal damage and in clients with healthy renal function treated with higher doses and/or for longer periods than recommended. Aminoglycoside-induced ototoxicity is usually irreversible. Other manifestations of neurotoxicity may include numbness, skin tingling, muscle twitching, and convulsions. Monitor serum concentrations of aminoglycosides when feasible to ensure adequate levels and to avoid potentially toxic levels.</para>
+<para id="para-00037"><emphasis effect="bold">Fluoroquinolones</emphasis> have been associated with disabling and potentially irreversible serious adverse reactions that have occurred together, including tendinopathy and tendon rupture, peripheral neuropathy, and central nervous system effects. Discontinue ciprofloxacin immediately and avoid the use of fluoroquinolones in clients who experience any of these serious adverse reactions. Because fluoroquinolones have been associated with serious adverse reactions, ciprofloxacin is reserved for use in clients who have no alternative treatment options for the following indications: acute exacerbation of chronic bronchitis, acute sinusitis, and acute uncomplicated cystitis.</para>
+<para id="para-00038"><emphasis effect="bold">Fluoroquinolones</emphasis> also may exacerbate muscle weakness in clients with myasthenia gravis. Avoid ciprofloxacin in clients with known history of myasthenia gravis.</para>
+<para id="para-00039"><emphasis effect="bold">Vancomycin:</emphasis> A formulation of this injection contains the excipients polyethylene glycol (PEG 400) and N-acetyl D-alanine (NADA), which resulted in fetal malformations in animal reproduction studies at dose exposures approximately 8 and 32 times, respectively, higher than the exposures at the human equivalent dose. If use of vancomycin is needed during the first or second trimester of pregnancy, use other available formulations of vancomycin.</para>
+</note>
+</section>
+</section>
+<section id="sect-00020">
+<title>Viruses and Antiviral Drugs</title>
+<para id="para-00040">Compared to bacteria, <term class="no-emphasis" id="term-00043">viruses</term> are simple microorganisms made up of single or double strands of DNA or RNA inside a cellular coating known as a capsid. Viruses are unique in that they are unable to replicate on their own. Instead, a virus will harness the host’s cellular mechanisms to make new copies of itself to then infect other cells. Most viral infections (e.g., adenoviruses, rhinoviruses) are minor and self-limited, meaning they rarely require drug therapy. More serious viral infections, including those caused by the hepatitis viruses, pose much more significant risks to clients and require specific antiviral therapy. Clients at risk for more serious viral infections include individuals at the extremes of age (i.e., the very <term class="no-emphasis" id="term-00044">young</term> and the very <term class="no-emphasis" id="term-00045">old</term>) and those who are immunocompromised.</para>
+<para id="para-00041">The following section covers the common <term class="no-emphasis" id="term-00046">antiviral drugs</term> used to treat a variety of viral infections, including those caused by hepatitis, herpes, and influenza viruses. The mechanisms of action, drug interactions, adverse effects, and indications are discussed, including special considerations for use.</para>
+<section id="sect-00021">
+<title>Hepatitis Antivirals</title>
+<para id="para-00042"><term class="no-emphasis" id="term-00047">Hepatitis</term> viruses are clinically important because they can cause inflammation and damage to the liver. The three main types are hepatitis A virus (HAV), hepatitis B virus (HBV), and hepatitis C virus (HCV). HAV infection is usually self-limited, with many individuals being able to rid themselves of it without any intervention. HBV and HCV infections are of more clinical concern because without intervention, many clients will develop chronic infection, which can lead to cirrhosis, liver failure, and risk for liver cancer. HAV is spread via the fecal–oral route, and HBV and HCV are usually spread through parenteral transmission (such as by sharing contaminated needles) and during sexual intercourse. Vaccines can prevent HAV and HBV infections.</para>
+<para id="para-00043">Medications to treat chronic HBV infection are not always curative and are used with the goal of preventing complications such as cirrhosis and liver cancer. HBV infection is typically managed with nucleoside/nucleotide antivirals, which include entecavir, tenofovir, lamivudine, adefovir, and telbivudine. These drugs work against viral DNA polymerase, an enzyme critical for DNA production and viral replication. They are incorporated into the viral DNA and function as “chain terminators,” meaning that no other nucleotides may be added onto them in the chain of DNA, and DNA production is thereby halted. Another treatment option is interferon (interferon alfa); however, due to toxicity, this medication is considered a last resort when all else fails.</para>
+<para id="para-00044">HCV infection previously was a chronic disease with no definitive cure and consisted of treatment with parenteral medications with poor tolerability (e.g., interferons). This condition has radically changed, and now many clients with HCV can achieve <term id="term-00048">virologic cure</term> (no presence of the virus in the body) with 12–24 weeks of oral drug therapy using a direct-acting antiviral (DAA) agent such as sofosbuvir. The DAAs can work on a variety of steps in the HCV life cycle to prevent replication or transmission of active virus. Nurses should stress to clients that they must take the entire course of their DAA regimen because resistance can develop if the virus is not completely suppressed. More resistant cases may require treatment with the injectable drug ribavirin, the action of which is not currently understood.</para>
+</section>
+<section id="sect-00022">
+<title>Herpes Antivirals</title>
+<para id="para-00045">Two main types of <term class="no-emphasis" id="term-00049">herpes</term> viruses are responsible for causing clinically significant disease. Herpes simplex virus (HSV)-1 is usually responsible for causing lesions (e.g., cold sores) on the mouth, face, and skin. HSV-2 is usually responsible for infections in the genitals and rectum. No curative therapy for HSV-1 or HSV-2 currently exists, but medication is useful to reduce the duration and severity of symptoms a client experiences and to help prevent spread of the virus to other individuals. Agents used to treat herpes viruses include acyclovir and its oral prodrug, valacyclovir, as well as famciclovir. Ganciclovir, valganciclovir, and cidofovir also have activity against herpes viruses, but due to multiple adverse effects, they are reserved for cases of resistance to the first-line agents. These agents work by inhibiting the formation of new viral DNA by acting as chain terminators.</para>
+<para id="para-00046">Clients with herpes virus infections may take these medications either when symptoms occur (episodic therapy) or every day for chronic suppression. Chronic suppression is linked to lower incidence of transmission of the virus to uninfected individuals and is useful for clients who have multiple outbreaks each year. Clients using the episodic method must be instructed to begin taking their therapy within 24 hours of symptom onset for the medication to be effective. They should also be informed that viral shedding can occur even without an active lesion, which may increase transmission risk.</para>
+</section>
+<section id="sect-00023">
+<title>Influenza Antivirals</title>
+<para id="para-00047"><term class="no-emphasis" id="term-00050">Influenza</term> refers to a diverse set of viruses known to cause upper respiratory tract illnesses, most commonly in the winter months. Annual vaccination will not prevent all infections but may help reduce the symptoms that individuals experience, and it is critical for protecting people most at risk for complications, such as <term class="no-emphasis" id="term-00051">older adults</term> and immunocompromised individuals. However, vaccines are able to protect against only four strains each year with the current quadrivalent vaccines, which protect against two strains of influenza A and two of influenza B. This means that many people still go on to develop influenza infections that require treatment with medications.</para>
+<para id="para-00048">The primary class of drugs used to treat influenza infection includes the neuraminidase inhibitors oseltamivir, zanamivir, and peramivir. Neuraminidase inhibitors work by inhibiting the enzyme neuraminidase, which is used to cleave mature copies of the virus from an infected cell to allow it to go infect other cells. Inhibiting this enzyme prohibits the virus from infecting host cells. If the client has had flulike symptoms for more than 48 hours, neuraminidase inhibitors should not be used due to lack of efficacy.</para>
+<para id="para-00049">Oseltamivir is considered the first-line option for treatment of influenza and is given orally over 5 days. Zanamivir is an inhaled neuraminidase inhibitor that can be used as an alternative to oral oseltamivir. Peramivir is the only intravenous neuraminidase inhibitor and should be reserved for clients who cannot take oral or inhaled medications.</para>
+<para id="para-00050">[link]Table 7.3[/link] lists common antivirals and typical routes and dosing for adult and <term class="no-emphasis" id="term-00052">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00053">Acyclovir</term><newline/>
+(<term class="no-emphasis" id="term-00054">Zovirax</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Herpes simplex virus, mucocutaneous infection:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis><newline/>
+<emphasis effect="italics">Oral:</emphasis> 400 mg 3 times daily for 7–10 days.<newline/>
+<emphasis effect="italics">IV:</emphasis> 10 mg/kg/dose every 8 hours for 7 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> <newline/>
+<emphasis effect="italics">Oral:</emphasis> 40–80 mg/kg/day divided into 3–4 doses per day for 7–10 days; maximum dose: 1200 mg/day.<newline/>
+<emphasis effect="italics">IV:</emphasis> 5 mg/kg/dose every 8 hours for 7 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00055">Oseltamivir</term><newline/>
+(<term class="no-emphasis" id="term-00056">Tamiflu</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Influenza:</emphasis> 75 mg orally twice daily for 5 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00057">Sofosbuvir</term><newline/>
+(<term class="no-emphasis" id="term-00058">Sovaldi</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Chronic hepatitis C virus infection:</emphasis> 400 mg orally once daily for 16 weeks.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">Tenofovir</term><newline/>
+(<term class="no-emphasis" id="term-00060">Viread</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Hepatitis B virus infection:</emphasis> 300 mg orally once daily for 28 days.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antivirals</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00024">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00051">Antiviral agents are known to cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antiviral drug is known hypersensitivity.</para>
+<para id="para-00052">The nucleoside/nucleotide analogs used to treat HBV infection are considered safer than interferon products, but individual agents may be linked to serious complications such as entecavir-induced lactic acidosis and adefovir-induced nephrotoxicity.</para>
+<para id="para-00053">Side effects of herpes antivirals are mild but can include blood cell production suppression, malaise, and risk for renal injury.</para>
+<para id="para-00054">Zanamivir is given via inhalation and should not be used in clients with a history of asthma or chronic obstructive pulmonary disease due to risk for bronchospasm (tightening of the airways).</para>
+<para id="para-00055">[link]Table 7.4[/link] is a drug prototype table for antivirals featuring acyclovir. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00061">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+Antiviral agent<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Inhibits DNA synthesis and viral replication by competing with deoxyguanosine triphosphate for viral DNA polymerase and being incorporated into viral DNA</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Herpes simplex virus, mucocutaneous infection:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis><newline/>
+<emphasis effect="italics">Oral:</emphasis> 400 mg 3 times daily for 7–10 days.<newline/>
+<emphasis effect="italics">IV:</emphasis> 10 mg/kg/dose every 8 hours for 7 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> <newline/>
+<emphasis effect="italics">Oral:</emphasis> 40–80 mg/kg/day divided into 3–4 doses per day for 7–10 days; maximum dose: 1200 mg/day.<newline/>
+<emphasis effect="italics">IV:</emphasis> 5 mg/kg/dose every 8 hours for 7 days.<newline/>
+</entry>
+</row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline count="2"/>
+Treatment of infections due to susceptible viruses (e.g., herpes simplex virus, cytomegalovirus)<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+Treats viral infections caused by susceptible organisms
+</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+Clozapine<newline/>
+Theophylline<newline/>
+Tizanidine<newline/>
+Zidovudine<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Nausea<newline/>
+Vomiting<newline/>
+Diarrhea<newline/>
+Hypersensitivity<newline/>
+Crystalluria<newline/>
+Malaise<newline/>
+Increased serum creatinine/acute kidney injury</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="2"/>
+Hypersensitivity<newline count="2"/>
+Caution:7
+Intravenous injection extravasation<newline/>
+Renal impairment</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Acyclovir</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00025">
+<title>Nursing Implications</title>
+<para id="para-00056">The nurse should do the following for clients who are taking antivirals:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty breathing, difficulty swallowing).</item>
+<item>Advise the client to take the entire prescribed course of the medication to ensure adequate treatment and to reduce the development of drug resistance.</item>
+<item>Instruct the client to maintain adequate hydration; monitor kidney function for renally eliminated antivirals such as acyclovir and valacyclovir.</item>
+<item>Monitor the client’s complete blood count to check for bone marrow suppression.</item>
+<item>Monitor for mental status changes in clients receiving intravenous antivirals who have poor renal function.</item>
+<item>For clients using antiviral medication episodically, teach them to begin taking it as soon as possible after symptom onset.</item>
+<item>Use appropriate personal protective equipment (e.g., mask and gloves) when clients are diagnosed with influenza to prevent infection spread.</item>
+<item>Check a pregnancy test in clients capable of pregnancy prior to initiating antiviral therapy.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00004">
+<para id="para-00057"><emphasis effect="bold">The client taking an antiviral should:</emphasis></para>
+<list list-type="bulleted" id="list-00006">
+<item>Alert their health care provider about any signs of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider about any recent antiviral use prior to starting therapy.</item>
+<item>Alert their health care provider that they are taking these medications, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+<item>For episodic use, begin taking the antiviral as soon as possible (within 24 hours of symptom onset) to reduce symptom duration.</item>
+<item>Stay well hydrated while using these medications to avoid kidney issues.</item>
+</list>
+</note>
+<note class="black-box" id="note-00005">
+<para id="para-00058"><emphasis effect="bold">Antivirals</emphasis></para>
+<para id="para-00059"><emphasis effect="bold">Ganciclovir:</emphasis> Granulocytopenia, anemia, thrombocytopenia, and pancytopenia have been reported with ganciclovir.</para>
+<para id="para-00060"><emphasis effect="bold">Ganciclovir:</emphasis> Based on animal data and limited human data, ganciclovir may cause temporary or permanent inhibition of spermatogenesis in males and suppression of fertility in females, birth defects in humans, and has the potential to cause cancer in humans.</para>
+<para id="para-00061"><emphasis effect="bold">Cidofovir:</emphasis> Renal impairment is the major toxicity of cidofovir. Cases of acute renal failure resulting in dialysis and/or contributing to death have occurred with as few as one or two doses of cidofovir. Cidofovir is contraindicated in clients who are receiving other nephrotoxic agents.</para>
+</note>
+</section>
+</section>
+<section id="sect-00026">
+<title>COVID-19 and Anti–COVID-19 Drugs</title>
+<para id="para-00062">In 2020, the coronavirus disease 2019 (<term class="no-emphasis" id="term-00062">COVID-19</term>) caused by the virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) led to a global pandemic that resulted in millions of deaths (World Health Organization, n.d.). Given the severity of illness and the propensity of the virus to kill individuals with poor immune systems and multiple comorbidities, there was a rush to develop both vaccines against the virus and medications to treat individuals with COVID-19 infections.</para>
+<para id="para-00063">This section focuses on drug therapy for clients with an existing COVID-19 infection. It is important to note that treatment for COVID-19 is still an evolving topic and more research is still being conducted, so health care professionals should always consult the <link url="https://openstax.org/r/coronavirus">Centers for Disease Control and Prevention (CDC) COVID-19 website</link> for up-to-date guidance.</para>
+<para id="para-00064">Note that COVID-19 can present as asymptomatic or with potentially life-threatening symptoms. The variation can be due to issues such as vaccination status, medical comorbidities, immune system status, and age. These factors should always be considered when deciding whether COVID-19 drug therapy is needed. Clients without risk factors for progression to severe disease and those who are asymptomatic can be managed with supportive care and without drug treatment.</para>
+<section id="sect-00027">
+<title>Nirmatrelvir</title>
+<para id="para-00065">Nirmatrelvir is an oral antiviral medication that works by inhibiting the protease enzyme that is necessary to develop mature proteins. Because these proteins are prevented from being made, new mature virus copies cannot be made. Nirmatrelvir is combined with ritonavir, which is used as a strong CYP3A4 inhibitor to boost levels of nirmatrelvir and reduce dosing frequency. Because ritonavir is combined with nirmatrelvir, the nurse must review a client’s medication profile to avoid any significant CYP3A4 interactions. Nirmatrelvir should be taken as soon as possible once symptoms occur because it loses efficacy and is not recommended after 5 days of symptom onset.</para>
+</section>
+<section id="sect-00028">
+<title>Remdesivir</title>
+<para id="para-00066">Remdesivir works by inhibiting viral RNA polymerase, causing inhibition of viral protein synthesis and reproduction. Remdesivir is an intravenous product, so it is usually reserved for hospitalized clients or those who cannot receive nirmatrelvir within 7 days of symptom onset.</para>
+</section>
+<section id="sect-00029">
+<title>Molnupiravir</title>
+<para id="para-00067">Molnupiravir is an oral product that works by being incorporated into the SARS-CoV-2 RNA; it then induces errors that lead to inhibited viral reproduction. There are some questions about the efficacy of molnupiravir in the treatment of COVID-19, so it is recommended as an alternative if clients cannot receive nirmatrelvir due to drug interactions or impaired renal function. Initiation of molnupiravir should occur within 5 days of symptom onset.</para>
+<para id="para-00068">[link]Table 7.5[/link] lists anti–COVID-19 drugs and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00005">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00063">Molnupiravir</term><newline/>
+(<term class="no-emphasis" id="term-00064">Lagevrio</term>)</entry>
+<entry valign="top" align="left">800 mg orally every 12 hours for 5 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00065">Nirmatrelvir/ritonavir</term><newline/>
+(<term class="no-emphasis" id="term-00066">Paxlovid</term>)</entry>
+</row>
+<row>
+<entry valign="top" align="left">300 mg nirmatrelvir plus 100 mg ritonavir orally twice daily for 5 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00067">Remdesivir</term><newline/>
+(<term class="no-emphasis" id="term-00068">Veklury</term>)</entry>
+<entry valign="top" align="left">200 mg IV once on day 1, then 100 mg IV once daily for 4 days.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Anti–COVID-19 Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00030">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00069">Anti–COVID-19 drugs are known to cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antiviral drug is known hypersensitivity.</para>
+<para id="para-00070">Nirmatrelvir is well tolerated, with diarrhea and dysgeusia (impaired sense of taste) being the most frequently reported adverse effects. Adverse effects seen with the use of remdesivir include elevated serum glucose levels and reduced kidney function. Remdesivir should be administered only when emergency airway tools (e.g., laryngoscope) are available in case of a severe allergic reaction.</para>
+<para id="para-00071">[link]Table 7.6[/link] is a drug prototype table for anti–COVID-19 drugs featuring nirmatrelvir/ritonavir. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00006">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+Antiviral agent<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="2"/>
+Inhibits the SARS-CoV-2 main protease, which inhibits viral replication</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+300 mg nirmatrelvir plus 100 mg ritonavir orally twice daily for 5 days.</entry>
+</row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+COVID-19 infection<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+Treats infections caused by the SARS-CoV-2 virus</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+CYP3A4 substrates<newline/>
+Alprazolam<newline/>
+Buprenorphine<newline/>
+Cabotegravir<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Diarrhea<newline/>
+Dysgeusia<newline/>
+Bradycardia<newline/>
+Pruritus
+</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity<newline count="2"/>
+Caution: Liver impairment</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Nirmatrelvir/Ritonavir</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00031">
+<title>Nursing Implications</title>
+<para id="para-00072">The nurse should do the following for clients who are taking anti–COVID-19 drugs:</para>
+<list list-type="bulleted" id="list-00007">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty breathing, difficulty swallowing).</item>
+<item>Advise the client to take the entire prescribed course of the medication to ensure adequate treatment and to reduce the development of drug resistance.</item>
+<item>Monitor clients taking remdesivir for elevated serum glucose levels and renal function abnormalities.</item>
+<item>Monitor clients receiving nirmatrelvir/ritonavir for hepatic dysfunction.</item>
+<item>Advise the client to begin taking medications as soon as possible after symptom onset to ensure efficacy.</item>
+<item>Review the client’s medication list prior to initiating ritonavir to evaluate for CYP3A4 interactions.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00006">
+<para id="para-00073"><emphasis effect="bold">The client taking an anti–COVID-19 drug should:</emphasis></para>
+<list list-type="bulleted" id="list-00008">
+<item>Alert their health care provider about any signs of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider that they are taking these medications, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00032">
+<title>Fungi and Antifungal Drugs</title>
+<para id="para-00074"><term class="no-emphasis" id="term-00069">Fungi</term> make up a diverse group of microorganisms that includes yeasts, molds, and mushrooms. Some of the key differences between human and fungal cell structures are that fungi introduce sterols into the cell membrane, and they have a cell wall that includes products such as chitin and glucans. These differences form the basis for drug therapy designed to eliminate fungi. <term class="no-emphasis" id="term-00070">Fungal infections</term> can vary in presentation from less severe infections of the scalp, skin, or nails, which may require topical antifungal therapy, to severe systemic fungal infections that may be life-threatening. The latter are primarily found in immunocompromised clients and require aggressive systemic therapy to avoid serious morbidity and mortality.</para>
+<para id="para-00075">This section will cover commonly used <term class="no-emphasis" id="term-00071">antifungal drugs</term>, including their mechanisms of action, adverse effects, indications, and contraindications. Given the wide variety of fungi that can cause disease (e.g., <emphasis effect="italics">Aspergillus</emphasis>, <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Blastomyces</emphasis>), positive identification is ideal to ensure that the appropriate drug is selected. Unfortunately, fungal cultures can take weeks for identification. In severely ill clients, broad-spectrum antifungals are used until culture results are available.</para>
+<section id="sect-00033">
+<title><term class="no-emphasis" id="term-00072">Polyenes</term></title>
+<para id="para-00076">Polyene antifungal drugs include amphotericin B and nystatin. These are broad-spectrum antifungals that bind to ergosterol in the fungal cell membrane, leading to membrane breakdown and fungal cell death. Amphotericin B is used intravenously to treat severe systemic fungal infections. Nystatin is used orally for infections such as oropharyngeal candidiasis (thrush). Nystatin is not absorbed systemically when taken orally or topically; therefore, it is ineffective for systemic infections.</para>
+</section>
+<section id="sect-00034">
+<title><term class="no-emphasis" id="term-00073">Azoles</term></title>
+<para id="para-00077">The azole antifungals include two broad classes: imidazoles and triazoles. Examples of imidazoles include clotrimazole, miconazole, and ketoconazole. Examples of triazoles include fluconazole, voriconazole, and posaconazole. These drugs work by inhibiting the enzyme 14-alpha-sterol demethylase. This enzyme is necessary for the fungal cell to produce ergosterol, which is then transferred to the cell membrane. Inhibition of this enzyme leads to arrest of fungal cell growth.</para>
+</section>
+<section id="sect-00035">
+<title><term class="no-emphasis" id="term-00074">Antimetabolites</term></title>
+<para id="para-00078">Flucytosine is the only antifungal antimetabolite. It works by being converted to 5-fluorouracil (5-FU) in the fungal cell; 5-FU inhibits the enzyme thymidylate synthase as well as DNA, RNA, and protein production in fungal cells, leading to arrested growth.</para>
+</section>
+<section id="sect-00036">
+<title><term class="no-emphasis" id="term-00075">Echinocandins</term></title>
+<para id="para-00079">The echinocandins include the drugs caspofungin, anidulafungin, and micafungin. These work by inhibiting the enzyme 1,3-beta-glucan synthase, which is responsible for providing structural integrity to the fungal cell wall. Inhibiting this enzyme decreases glucan synthesis and disrupts the cell wall, leading to fungal cell death.</para>
+<para id="para-00080">[link]Table 7.7[/link] lists antifungal drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00076">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00007">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00077">Anidulafungin</term><newline/>
+(<term class="no-emphasis" id="term-00078">Eraxis</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Candida:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 200 mg IV on day 1, then 100 mg IV once daily.<newline/>
+<emphasis effect="italics">Children:</emphasis> 3 mg/kg (not to exceed 200 mg) on Day 1, followed by a once daily IV maintenance dose of 1.5 mg/kg (not to exceed 100 mg) thereafter for 14 days.<newline/>
+<emphasis effect="bold">Esophageal candidiasis:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 100 mg IV loading dose on day 1, followed by a 50 mg IV once daily maintenance dose for 14 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00079">Fluconazole</term><newline/>
+(<term class="no-emphasis" id="term-00080">Diflucan</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 200 mg orally on the first day, followed by 100 mg orally once daily for 2 weeks to prevent relapse.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00081">Flucytosine</term><newline/>
+(<term class="no-emphasis" id="term-00082">Ancoban</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Symptomatic cystitis:</emphasis> <newline/>
+<emphasis effect="italics">Adults:</emphasis> 50 to 150 mg/kg/day administered in divided doses at 6-hour intervals for 10 days.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00083">Nystatin</term><newline/>
+(<term class="no-emphasis" id="term-00084">Nystat</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Oropharyngeal candidiasis:</emphasis><newline/>
+<emphasis effect="italics">Adults and children:</emphasis> Swish and swallow 400,000–600,000 units 4 times daily for 7–14 days. Continue for 48 hours after symptoms resolve and a negative culture obtained.<newline/>
+<emphasis effect="italics">Infants:</emphasis> 200,000 units 4 times daily using a dropper.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antifungal Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00037">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00081">Antifungals are known to cause gastrointestinal discomfort, including nausea, vomiting, and diarrhea. A contraindication to any antifungal drug is known hypersensitivity.</para>
+<para id="para-00082">Amphotericin B is very toxic and can cause flulike symptoms during infusion, hypotension, renal toxicity, and electrolyte disturbances. To reduce these adverse effects, several formulations have been developed that incorporate the drug into a lipid membrane. This significantly increases medication costs but is much better in reducing client harm.</para>
+<note class="safety-alert" id="note-00007">
+<para id="para-00083"><emphasis effect="bold">Oral/Intravenous Azole Antifungals</emphasis></para>
+<para id="para-00084">Some oral and intravenously administered azole antifungals are strong inhibitors of CYP3A4, which can affect many medications. Affected medications will have higher levels in the body and increase the risk for drug toxicity. The health care provider should screen a client’s medication profile for interactions before initiating therapy with an oral or intravenous azole antifungal.</para>
+</note>
+<para id="para-00085">[link]Table 7.8[/link] is a drug prototype table for antifungal drugs featuring fluconazole. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00008">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Azole antifungal<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Inhibits fungal cytochrome P450 activity, decreasing ergosterol synthesis and inhibiting cell membrane formation</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Oropharyngeal or esophageal candidiasis:</emphasis>
+<emphasis effect="italics">Adults:</emphasis> 200 mg orally on the first day, followed by 100 mg orally once daily for 2 weeks to prevent relapse.
+</entry>
+</row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
+Treatment of fungal infections caused by susceptible fungi<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+Treats fungal infections caused by susceptible organisms</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+CYP3A4 substrates<newline/>
+Amiodarone<newline/>
+Carvedilol<newline/>
+Diazepam<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Headache<newline/>
+Skin rash<newline/>
+Abdominal pain<newline/>
+Diarrhea<newline/>
+Dizziness<newline/>
+QT interval prolongation</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity<newline/>
+Pregnancy<newline/>
+Coadministration with QT interval–prolonging drugs<newline count="2"/>
+Caution:<newline/>
+Central nervous system impairment<newline/>
+Renal impairment</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Fluconazole</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00038">
+<title>Nursing Implications</title>
+<para id="para-00086">The nurse should do the following for clients who are taking antifungal drugs:</para>
+<list list-type="bulleted" id="list-00009">
+<item>Monitor for signs and symptoms of anaphylaxis (e.g., shortness of breath, difficulty breathing, difficulty swallowing).</item>
+<item>Advise the client to take the entire prescribed course of the drug to ensure adequate treatment and to reduce the development of drug resistance.</item>
+<item>Instruct the client to maintain adequate hydration; monitor kidney function with renally eliminated medications.</item>
+<item>Ensure that blood samples for any drug levels ordered are obtained at the intended time in order to allow accurate assessments regarding dosage adjustments.</item>
+<item>Monitor the ECG for prolongation of the QTc interval when clients are taking systemically acting agents.</item>
+<item>Monitor liver function tests to assess for liver injury.</item>
+<item>Check a client’s medication list prior to administering a systemic azole antifungal because oral and intravenous azole antifungals inhibit CYP3A4 and can cause many drug interactions.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00008">
+<para id="para-00087"><emphasis effect="bold">The client taking an antifungal should:</emphasis></para>
+<list list-type="bulleted" id="list-00010">
+<item>Alert their health care provider about any signs of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
+<item>Alert their health care provider about any recent antifungal medication use prior to starting therapy.</item>
+<item>Alert their health care provider that they are taking these medications, including the dose and frequency.</item>
+<item>Take the drug with food if it causes an upset stomach.</item>
+<item>Take a missed dose as soon as they remember; however, they should <emphasis effect="italics">not</emphasis> take double doses.</item>
+<item>Alert their health care provider about starting any new medications that may interact with their antifungal therapy.</item>
+</list>
+</note>
+<note class="black-box" id="note-00009">
+<para id="para-00088"><emphasis effect="bold">Amphotericin B</emphasis></para>
+<para id="para-00089">Amphotericin B should be used primarily for treatment of clients with progressive and potentially life-threatening fungal infections; it should not be used to treat noninvasive forms of fungal disease such as oral thrush, vaginal candidiasis, and esophageal candidiasis in clients with normal neutrophil counts.</para>
+</note>
+</section>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>antibiogram</term> <meaning>a document detailing local bacterial resistance patterns that is used to guide antibiotic choices</meaning></definition>
+<definition id="def-00002"><term>apoptosis</term> <meaning>programmed cell death, usually due to cellular damage</meaning></definition>
+<definition id="def-00003"><term>bactericidal</term> <meaning>the ability to directly kill bacteria</meaning></definition>
+<definition id="def-00004"><term>bacteriostatic</term> <meaning>having the property of preventing bacteria from actively replicating, although not killing them directly</meaning></definition>
+<definition id="def-00005"><term>superinfection</term> <meaning>infection caused by resistant bacteria after the use of broad-spectrum anti-infectives</meaning></definition>
+<definition id="def-00006"><term>virologic cure</term> <meaning>sustained undetectable viral levels in the blood</meaning></definition>
+</glossary>
 </document>
