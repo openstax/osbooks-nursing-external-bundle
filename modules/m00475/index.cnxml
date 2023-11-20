@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Alzheimer’s Drugs</title>
+  <title>Alzheimer&amp;#8217;s Drugs</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Alzheimer’s Drugs</md:title>
     <md:content-id>m00475</md:content-id>
@@ -58,7 +58,7 @@
     <item>Use the same site for a period of 14 days.</item>
     </list>
     </note>
-    <para id="para-00011">[link]Table 10.4[/link] lists common <term class="no-emphasis" id="term-00006">AChE inhibitors</term> and typical routes and dosing for adult clients.</para>
+    <para id="para-00011"><link target-id="table-00001" document="m00475"/> lists common <term class="no-emphasis" id="term-00006">AChE inhibitors</term> and typical routes and dosing for adult clients.</para>
     <table class="vertically-tight" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -104,7 +104,7 @@
     <para id="para-00013">Contraindications include peptic ulcer disease because these drugs increase the secretion of hydrochloric acid in the stomach, which can worsen the ulcer and potentially cause perforation and/or bleeding. Because of the stimulatory effect on the bladder and bowel, anyone with a bladder or bowel obstruction (mechanical or neurologic) should avoid taking these drugs to reduce the risk of rupture.</para>
     <para id="para-00014">Any drugs with anticholinergic effects—such as first-generation histamine-1 receptor antagonists (H1RAs),</para>
     <para id="para-00015">conventional antipsychotics, and tricyclic antidepressants (TCAs)—should not be used concurrently because they will reduce or block therapeutic effects of cholinergic agonists. Other parasympathomimetics can cause a synergistic effect if used concurrently. Frequent intake of nonsteroidal anti-inflammatory drugs (NSAIDs) or glucocorticoids (steroids) can increase the risk of peptic ulcer disease. Clients taking drugs such as beta blockers (propranolol/metoprolol) or digoxin should be especially careful of significant bradycardia because they both cause negative <term id="term-00015">chronotropic</term> effects.</para>
-    <para id="para-00016">[link]Table 10.5[/link] is a drug prototype table of AChE inhibitors featuring donepezil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00016"><link target-id="table-00002" document="m00475"/> is a drug prototype table of AChE inhibitors featuring donepezil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -181,8 +181,8 @@
     <section id="sect-00009">
     <title>Memantine</title>
     <para id="para-00018"><term class="no-emphasis" id="term-00016">Memantine</term> (<term class="no-emphasis" id="term-00017">Namenda</term>, Namenda XR) is indicated for clients with moderate to severe dementia of the Alzheimer’s type. This drug has been shown to exhibit neuroprotective action (slows the neurotoxicity). Memantine is an antagonist of the NMDA receptor subtype of the glutamate receptor. The drug blocks the influx of calcium when extracellular glutamate is low but permits calcium influx when extracellular glutamate is high. When the glutamate level is low, memantine can occupy the NMDA receptor channel. During this time, the level of intracellular calcium can normalize because no further calcium entry is permitted. During an action potential, a burst of glutamate is released, displacing memantine. This causes a short period of calcium influx. Because intracellular calcium is low, normal signaling of memory and learning can occur. When glutamate moves away from the receptor, memantine reblocks the channel, which stops further calcium entry.</para>
-    <para id="para-00019">Memantine ER has a terminal half-life is 60–80 hours; therefore, it can be prescribed once a day. In contrast, the immediate release form is administered at 10 mg twice daily. A target dose of 5 mg twice daily is recommended in clients with severe renal impairment. This drug is predominately excreted unchanged in the urine. The drug is available in capsule form and administered orally. Any condition or drug that raises urinary pH to 8 or more can reduce drug elimination by 80% (see drug interactions and caution in [link]Table 10.6[/link]), which will result in the accumulation of memantine within the plasma and increase the risk of adverse effects. If a client takes too much memantine, acidifying the urine with K-Phos Neutral or ascorbic acid, for example, will help promote elimination of the drug.</para>
-    <para id="para-00020">[link]Table 10.6[/link] is a drug prototype table of <term class="no-emphasis" id="term-00018">NMDA receptor antagonists</term> featuring memantine ER. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00019">Memantine ER has a terminal half-life is 60–80 hours; therefore, it can be prescribed once a day. In contrast, the immediate release form is administered at 10 mg twice daily. A target dose of 5 mg twice daily is recommended in clients with severe renal impairment. This drug is predominately excreted unchanged in the urine. The drug is available in capsule form and administered orally. Any condition or drug that raises urinary pH to 8 or more can reduce drug elimination by 80% (see drug interactions and caution in <link target-id="table-00003" document="m00475"/>, which will result in the accumulation of memantine within the plasma and increase the risk of adverse effects. If a client takes too much memantine, acidifying the urine with K-Phos Neutral or ascorbic acid, for example, will help promote elimination of the drug.</para>
+    <para id="para-00020"><link target-id="table-00003" document="m00475"/> is a drug prototype table of <term class="no-emphasis" id="term-00018">NMDA receptor antagonists</term> featuring memantine ER. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -301,8 +301,7 @@
           <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch10_Sec02_RQ10"/></para></problem></exercise>
           </section>
         <section class="references" id="sect-00014">
-    <title>References</title>
-    <para id="para-00040">Adeyinka, A. &amp; Kondamudi, N. P. (2023). <emphasis effect="italics">Cholinergic crisis</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482433/</para>
+        <para id="para-00040">Adeyinka, A. &amp; Kondamudi, N. P. (2023). <emphasis effect="italics">Cholinergic crisis</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482433/</para>
     <para id="para-00041">Alzheimer’s Association. (2019). Alzheimer’s disease facts and figures. <emphasis effect="italics">Alzheimer’s and Dementia, 15</emphasis>(3), 321–387.</para>
     <para id="para-00042">Bekdash, R. A. (2021). The cholinergic system, the adrenergic system and the neuropathology of Alzheimer’s disease. <emphasis effect="italics">International Journal of Molecular Sciences,</emphasis> <emphasis effect="italics">22</emphasis>(3). https://doi.org/10.3390/ijms22031273</para>
     <para id="para-00043">DailyMed. (Updated February 17, 2023). <emphasis effect="italics">Adlarity – donepezil hydrochloride patch.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1cb44c65-00e8-4b5c-99c2-ad15173115a0</para>
