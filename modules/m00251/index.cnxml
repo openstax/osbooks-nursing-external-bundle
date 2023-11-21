@@ -31,7 +31,7 @@
     <section id="sect-00004">
     <title>Cancer Treatments</title>
     <para id="para-00004">Chemotherapy may be given for many different reasons. Often, it is given as a curative measure to eradicate all malignant cells. However, cure is not always realistic. When cure is not attainable, chemotherapy can be used to decrease tumor size and prevent metastasis, and sometimes it may be used for palliation and symptom control. Differing regimens of chemotherapy are used for varying client needs (see <link target-id="table-00001" document="m00251"/>).</para>
-    <table class="vertically-tight alternate-shading" id="table-00001">
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -91,7 +91,7 @@
     <para id="para-00008">When administering a vesicant drug, the nurse should use extreme caution. If, for any reason, the nurse feels that an intravenous site could be compromised, the infusion should be immediately stopped and a new access obtained. Should an actual extravasation occur, the health care provider should be notified and any applicable protocols should be followed.</para>
     </note>
     <para id="para-00009">Chemotherapy may be given by different routes, depending on the cancer location. When cancer develops in a body cavity or in the brain or spinal column, treatment may require the use of special routes of administration to overcome the blood-brain barrier or to increase effectiveness by placing drug therapy more directly at the tumor site. <link target-id="table-00002" document="m00251"/> describes the different methods of <term class="no-emphasis" id="term-00010">chemotherapy administration</term>.</para>
-    <table class="vertically-tight" id="table-00002">
+    <table class="vertically-tight full-width" id="table-00002">
     <tgroup cols="1">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <thead>
@@ -309,7 +309,7 @@
     Multiple myeloma<newline/>
     Leukemia<newline/>
     Ovarian and breast cancers<newline count="2"/>
-    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
     Reduction of cancer cells</entry>
     <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
     Protease inhibitors<newline/>
@@ -462,7 +462,8 @@
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00072">Fludarabine</term><newline/>
-    (<term class="no-emphasis" id="term-00073">Fludara)</term>25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
+    (<term class="no-emphasis" id="term-00073">Fludara</term>)</entry>
+    <entry valign="middle" align="left">25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -638,8 +639,6 @@
     Anthracycline/antitumor antibiotic<newline count="2"/>
     <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
     Inhibits topoisomerase to prevent DNA replication</entry>
-    </row>
-    <row>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
     60–75 mg/m<sup>2</sup> IV every 21 days (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
@@ -651,7 +650,7 @@
     Lymphoma<newline/>
     Sarcoma<newline/>
     Wilms tumor<newline count="2"/>
-    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
     Prevents DNA synthesis to cause tumor cell death</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
@@ -727,7 +726,7 @@
     <title>Plant Alkaloids</title>
     <para id="para-00067">Several chemotherapies are derived from plants and are considered <term id="term-00090">plant alkaloids</term>. Vinca alkaloids are the most common plant alkaloids. Vincristine, vinblastine, and etoposide (VP-16) are all plant alkaloids that cause misalignment of chromosomes in cancer cells, resulting in apoptosis, or cell death. These are useful in treating lymphomas, leukemias, Kaposi sarcoma, squamous cell carcinomas, lung cancer and bladder cancer. Side effects include myelosuppression, mouth sores, nausea, vomiting and fatigue. The most significant adverse effects involve the nervous system. Because plant alkaloids decrease nerve function, these substances can cause hearing loss, neuropathies, and severe constipation that may develop into a paralytic ileus. Neurologic symptoms may necessitate discontinuance of therapy. Vinca alkaloids are often part of regimens that also require intrathecal administration. However, close attention and safety measures (i.e., drug is always compounded in an IV bag for infusion) must be in place to ensure these are <emphasis effect="italics">never</emphasis> administered via the intrathecal route. The drugs are fatal if administered intrathecally.</para>
     <para id="para-00068"><link target-id="table-00009" document="m00251"/> lists common plant alkaloids and typical routes and dosing for adult clients.</para>
-          <table class="vertically-tight" id="table-00009">
+          <table class="vertically-tight full-width" id="table-00009">
          <tgroup cols="2">
           <colspec colnum="1" colname="c1" colwidth="1*"/>
           <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -773,7 +772,7 @@
     Plant alkaloid<newline count="2"/>
     <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
     Causes chromosomal link errors, results in apoptosis of cancerous cells</entry>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">rug Dosage</span></emphasis><newline/>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
     1.4 mg/m<sup>2</sup> IV weekly.</entry>
     </row>
     <row>
@@ -784,7 +783,7 @@
     Squamous cell carcinoma<newline/>
     Lung cancer<newline/>
     Bladder cancer<newline count="2"/>
-    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
     Prevents DNA synthesis to cause tumor cell death</entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
     Anticonvulsants<newline/>
@@ -794,7 +793,7 @@
     Fluconazole<newline/>
     Rifampin<newline/>
     Warfarin<newline count="2"/>
-    <emphasis effect="bold">Food Interactions</emphasis><newline/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
     Grapefruit</entry>
     </row>
     <row>
@@ -862,7 +861,7 @@
     <title>Taxanes</title>
     <para id="para-00074"><term class="no-emphasis" id="term-00097">Taxanes</term> are a group of chemotherapeutic agents that were developed from the bark of a yew tree. These are effective in the treatment of breast, ovarian, prostate, gastric, esophageal, pancreatic, and non-small cell lung cancers as well as Kaposi sarcoma. These agents are typically used in combination with other agents rather than as a monotherapy. Adverse reactions include, most notably, hypersensitivity reactions. For this reason, clients will be premedicated, usually with corticosteroids, but may also receive diphenhydramine and a histamine-2 receptor antagonist to prevent these reactions from occurring. Other adverse effects include hepatotoxicity, fluid retention, myelosuppression, alopecia, skin and nail changes, and nausea, vomiting and diarrhea.</para>
     <para id="para-00075"><link target-id="table-00011" document="m00251"/> lists common taxanes and typical routes and dosing for adult clients.</para>
-    <table class="vertically-tight" id="table-00011">
+    <table class="vertically-tight full-width" id="table-00011">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -1070,11 +1069,11 @@
     Married with two children</para>
     <para id="para-00086"><emphasis effect="bold">Current Medications</emphasis><newline/>
     None</para>
-    <table class="vertically-tight" id="table-00014">
+    <table class="vertically-tight full-width" id="table-00014">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
