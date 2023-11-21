@@ -6,8 +6,185 @@
     <md:uuid>d605ccb7-65ee-456b-82c3-31eddd8e521c</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Identify the characteristics of hormonal therapy drugs used to treat cancer.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of hormonal therapy drugs used to treat cancer.</item>
+    <item>Describe the nursing implications of hormonal therapy drugs used to treat cancer.</item>
+    <item>Explain the client education related to hormonal therapy drugs used to treat cancer.</item>
+    </list>
     </section>
-  </content>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Antiestrogen Medications</title>
+    <para id="para-00002">Antiestrogens, or estrogen antagonists, are a group of medications used to block estrogen receptors. By blocking these receptors, cancer cells that require estrogen for growth are no longer able to undergo mitosis and cannot cause tumor development. These drugs are classified as hormonal therapies, as they block the influence of the hormone estrogen. They are primarily used for breast cancer; however, antiestrogens are only effective in breast cancers that are hormone-receptor positive. Tamoxifen and fulvestrant are two commonly used antiestrogens used for breast cancer. Tamoxifen is an oral medication that is given for approximately 5 years after breast cancer treatment. Fulvestrant, given intramuscularly, and elacestrant, a newer oral medication approved in 2023, are selective estrogen downregulators (SERD) that block estrogen receptors.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Aromatase Inhibitors</title>
+    <para id="para-00003">Aromatase inhibitors are another classification of hormonal therapy used to treat breast cancer treatment in postmenopausal clients. Aromatase is an enzyme found in fatty tissue that converts hormones into estrogen. Aromatase inhibitors, including anastrozole and exemestane, stop the production of estrogen and thus the growth of estrogen receptor-positive tumors by blocking aromatase. These medications are taken daily as an oral tablet. Aromatase inhibitors may be prescribed for clients who are not good candidates for antiestrogens. Aromatase inhibitors may cause symptoms of menopause and muscle and joint pain, which may limit use if clients are not able to tolerate side effects. These drugs may also put clients at higher risk of osteoporosis (DailyMed, <emphasis effect="italics">Anastrozole</emphasis>, 2023).</para>
+    </section>
+    <section id="sect-00005">
+    <title>Antiandrogens</title>
+    <para id="para-00004">Antiandrogens, also known as androgen inhibitors or testosterone blockers, are hormonal therapies used to treat prostate cancer. These drugs block androgen receptors, so that cancers that rely on testosterone and other hormones to grow cannot survive. These drugs may induce a reduction in masculine characteristics such as hair growth and erectile dysfunction. Drugs in this class include flutamide and bicalutamide. They are given by the oral route, daily. Liver enzymes must be periodically evaluated during therapy, as these drugs are hepatotoxic.</para>
+    <para id="para-00005">[link]Table 8.14[/link] lists common hormonal therapies and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00001">Antiestrogens</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Tamoxifen</term><newline/>
+    (<term class="no-emphasis" id="term-00003">Nolvadex</term>)</entry>
+    <entry valign="middle" align="left">20-40 mg/day orally for up to 5 years.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Fulvestrant</term><newline/>
+    (<term class="no-emphasis" id="term-00005">Faslodex</term>)</entry>
+    <entry valign="middle" align="left">500 mg intramuscularly divided into 2 injections, given initially on days 1, 15, and 29, and then monthly thereafter.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00006">Aromatase Inhibitors</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Anastrozole</term><newline/>
+    (<term class="no-emphasis" id="term-00008">Arimadex</term>)</entry>
+    <entry valign="middle" align="left">1 mg/day orally.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Exemestane</term><newline/>
+    (<term class="no-emphasis" id="term-00010">Aromasin</term>)</entry>
+    <entry valign="middle" align="left">25 mg orally daily after a meal.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00011">Antiandrogens</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Flutamide</term><newline/>
+    (<term class="no-emphasis" id="term-00013">Eulexin</term>)</entry>
+    <entry valign="middle" align="left">250 mg orally every 8 hours/750 mg daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Bicalutamide</term><newline/>
+    (<term class="no-emphasis" id="term-00015">Casodex</term>)</entry>
+    <entry valign="middle" align="left">50 mg/day orally.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Hormonal Therapies (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00006">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00006">Tamoxifen citrate tablets are contraindicated in clients who require concomitant coumarin-type anticoagulant therapy or in clients with a history of deep-vein thrombosis or pulmonary embolus. Adverse effects of hormonal therapies include weight gain, fatigue, vaginal dryness, loss of interest in sex, hot flashes, osteoporosis, nausea, vomiting, and diarrhea. Men receiving hormonal treatment, such as for prostate cancer, may experience breast development and tenderness (DailyMed, <emphasis effect="italics">Tamoxifen</emphasis>, 2022).</para>
+    <para id="para-00007">[link]Table 8.15[/link] is a drug prototype chart for hormonal agents featuring tamoxifen. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Antihormonal—antiestrogen<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Blocks estrogen receptors in estrogen receptor–positive tumors</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    20–40 mg/day orally for up to 5 years.</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Metastatic breast cancer<newline count="2"/>
+    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    Prevents and inhibits growth of breast cancer that is stimulated by estrogens</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Erythromycin<newline/>
+    Cyclosporine<newline/>
+    Diltiazem<newline/>
+    Nifedipine<newline/>
+    Letrozole<newline/>
+    Aminoglutethimide<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    None reported<newline/>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Amenorrhea<newline/>
+    Flushing, hot flashes<newline/>
+    Fluid retention<newline/>
+    Weight gain<newline/>
+    Nausea<newline/>
+    Vaginal discharge</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity<newline/>
+    Personal history of deep vein thrombosis, pulmonary embolism, or anticoagulant use</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Tamoxifen (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00007">
+    <title>Nursing Implications</title>
+    <para id="para-00008">The nurse should do the following for clients who are receiving hormonal agents:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Assess client overall well-being prior to administration, including vital signs, weight, fatigue, bone pain, and neurovascular status.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, liver enzymes, and bone scans.</item>
+    <item>Be aware of the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00001">
+    <para id="para-00009"><emphasis effect="bold">The client taking a hormonal agent should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Report the following to the health care provider: fever, chills, productive cough, bone pain, swelling in extremities, pain in calf, chest pain, or shortness of breath.</item>
+    <item>Remain well hydrated.</item>
+    <item>Report side effects including sexual dysfunction, hot flashes, nausea and vomiting, mood changes, and weight gain.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    </list>
+    <para id="para-00010"><emphasis effect="bold">The client taking a hormonal agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to protect hands from direct contact with the soil which contains bacteria and mold.</item>
+    <item>Clean feline litter boxes to avoid contact with bacteria.</item>
+    <item>Take vaccines without consulting with their health care provider.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    <note class="black-box" id="note-00002">
+    <para id="para-00011"><emphasis effect="bold">Tamoxifen</emphasis></para>
+    <para id="para-00012">Serious and life-threatening events associated with tamoxifen in the risk reduction setting for clients at high risk for cancer and those with ductal carcinoma in situ include uterine malignancies, stroke, and pulmonary embolism.</para>
+    <para id="para-00013"><emphasis effect="bold">Flutamide</emphasis></para>
+    <para id="para-00014">Life-threatening liver failure has been linked to flutamide use, especially in the first 3 months of treatment.</para>
+    </note>
+    <note class="unfolding-casestudy" id="note-00003">
+    <title>Part B</title>
+    <para id="para-00015">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
+    <para id="para-00016">Guadalupe Himenez has returned to the clinic for her first day of chemotherapy. Her treatment course will involve a combination of agents. Today she is receiving her first dose of paclitaxel (Taxol).</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_UCSQ3"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec3_UCSQ4"/></para></problem></exercise>
+    </note>
+    </section>
+    </section>
+    </content>
 </document>

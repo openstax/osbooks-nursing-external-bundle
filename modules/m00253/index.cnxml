@@ -6,8 +6,265 @@
     <md:uuid>0ed6cd42-2f29-4744-8000-3943cb122325</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Identify characteristics of biologic response modifier drugs used to treat cancer.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of biologic response modifier drugs used to treat cancer.</item>
+    <item>Describe the nursing implications of biologic response modifier drugs used to treat cancer.</item>
+    <item>Explain the client education related to biologic response modifier drugs used to treat cancer.</item>
+    </list>
     </section>
-  </content>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title><term class="no-emphasis" id="term-00001">Monoclonal Antibodies</term> and PD-1 Inhibitors</title>
+    <para id="para-00002">Cancer therapy has experienced an explosion of new treatments with the development of biologics. Monoclonal antibodies are a type of biologic response modifier used to treat autoimmune diseases as well as various cancer types. Rituximab is a monoclonal antibody that enables the immune system to better recognize and destroy cancer cells. These drugs pose a high risk of sensitivity reactions that include chills, fever, and anaphylaxis. Clients must be premedicated with diphenhydramine and acetaminophen to prevent or decrease risks for hypersensitivity reactions.</para>
+    <para id="para-00003">The newest approved class of monoclonal antibodies is PD-1 inhibitors. These drugs inhibit PD-1 proteins on T lymphocytes. When these proteins are blocked, the T lymphocytes are able to identify cancer cells and kill them more easily. Because these drugs increase the activity of T lymphocytes, a side effect of these drugs is possible development of autoimmune syndromes. Clients receiving these drugs must be carefully monitored throughout intravenous infusions for possible hypersensitivity reactions.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Growth Factor and Tyrosine Kinase Inhibitors</title>
+    <para id="para-00004">Growth factor inhibitors and tyrosine kinase inhibitors are also types of biologic response modifiers. Erlotinib is a tyrosine kinase inhibitor that is used to treat non-small cell lung cancer and late-stage pancreatic cancer. This drug works to prevent the growth of tumors influenced by epidermal growth factor receptors (EGFR). Cell differentiation, proliferation, and angiogenesis cannot occur when EGFR is blocked. Ibrutinib is another tyrosine kinase inhibitor used to treat leukemias and lymphomas.</para>
+    <para id="para-00005">[link]Table 8.16[/link] lists common growth factors and tyrosine kinase I inhibitors and typical routes and dosing for adult clients.</para>
+          <table class="vertically-tight" id="table-00001">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00002">PD-1 Inhibitors</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Pembrolizumab</term><newline/>
+    (<term class="no-emphasis" id="term-00004">Keytruda</term>)</entry>
+    <entry valign="middle" align="left">200–400 mg/dose IV every 3 weeks or every 6 weeks per protocol.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Nivolumab</term><newline/>
+    (<term class="no-emphasis" id="term-00006">Opdivo</term>)</entry>
+    <entry valign="middle" align="left">240 mg IV every 2 weeks or 480 mg IV every 4 weeks per protocol.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Durvalumab</term><newline/>
+    (<term class="no-emphasis" id="term-00008">Imfinzi</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Clients with a body weight ≥30 kg:</emphasis> 10 mg/kg IV every 2 weeks or 1500 mg every 4 weeks.<newline/>
+    <emphasis effect="italics">Clients with a body weight &lt;30 kg:</emphasis> 10 mg/kg IV every 2 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Atezolizumab</term><newline/>
+    (<term class="no-emphasis" id="term-00010">Tecentriq</term>)</entry>
+    <entry valign="middle" align="left">840 mg IV every 2 weeks or 1200 mg every 3 weeks or 1680 mg every 4 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00011">Biologic Response Modifiers</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Rituximab</term><newline/>
+    (<term class="no-emphasis" id="term-00013">Rituxan</term>)</entry>
+    <entry valign="middle" align="left">375–500 mg/m<sup>2</sup> IV; frequency varies by cancer type (premedicate per protocol).</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00014">Tyrosine Factor/Growth Factor Inhibitors</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Erlotinib</term><newline/>
+    (<term class="no-emphasis" id="term-00016">Tarceva</term>)</entry>
+    <entry valign="middle" align="left">100–150 mg/day orally on empty stomach.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Ibrutinib</term><newline/>
+    (<term class="no-emphasis" id="term-00018">Imbruvica</term>)</entry>
+    <entry valign="middle" align="left">420 mg/day orally.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Biologics and Biologic Response Modifiers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00005">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00006">One of the most critical adverse reactions of biologic therapy is hypersensitivity reactions. These may occur suddenly, especially during the initial treatment, and may be severe and life threatening. Any premedication must be given, and emergency drugs such as epinephrine should be available. Biologic therapies are also associated with skin reactions that may be severe. Erlotinib has been shown to cause renal dysfunction, arrhythmias, hepatotoxicity, and gastrointestinal perforation. Clients may also develop widespread, severe acneiform rashes. In addition to severe hypersensitivity reactions, rituximab is also associated with cardiotoxicity, nephrotoxicity, leukoencephalopathy, bowel obstruction or perforation, tumor lysis syndrome, neutropenia, and infection.</para>
+    <para id="para-00007">[link]Table 8.17[/link] is a drug prototype chart for biologic response modifiers featuring pembrolizumab. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Biologic response modifier, PD-1 inhibitor<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Inhibits PD-1 to increase T-lymphocyte activity</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    200–400 mg/dose IV every 3 weeks or every 6 weeks per protocol.</entry></row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Melanoma<newline/>
+    Non-small cell lung cancer<newline/>
+    Head and neck cancer<newline/>
+    Classical Hodgkin lymphoma<newline/>
+    Primary mediastinal large B-cell lymphoma (PMBCL)<newline/>
+    Urothelial cancer<newline/>
+    Gastric cancer<newline/>
+    Cervical cancer<newline/>
+    Hepatocellular carcinoma<newline/>
+    Merkel cell carcinoma<newline/>
+    Renal cell cancer<newline/>
+    Cutaneous squamous cell carcinoma<newline/>
+    Small cell lung cancer<newline/>
+    Esophageal cancer<newline/>
+    Endometrial cancer<newline/>
+    Triple-negative breast cancer<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Reduction/elimination in cancerous cell expressions of PD-1</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Thalidomide<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+    None reported</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Infusion-related reactions<newline count="2"/>
+    Severe, possibly fatal immune-mediated reactions</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    No significant contraindications<newline count="2"/>
+    Caution:<newline/>
+    Severe, possibly fatal immune-mediated reactions may occur<newline/>
+    May have severe infusion-related reactions<newline/>
+    Embryo-fetal toxicity
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Pembrolizumab (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00006">
+    <title>Nursing Implications</title>
+    <para id="para-00008">The nurse should do the following for clients who are receiving biologic and biologic response modifying agents:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Assess client overall well-being prior chemotherapy administration including vital signs, hydration status, oral mucosa, skin, weight, cardiac function, bowel pain, level of consciousness changes, and signs of neuropathy.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes.</item>
+    <item>Observe clients for adverse effects before, during, and after treatment.</item>
+    <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering biologic therapies.</item>
+    <item>Be aware of the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00001">
+    <para id="para-00009"><emphasis effect="bold">The client taking a biologic or biologic response modifying agent should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Know signs and symptoms to report to the health care provider: fever, chills, productive cough, urinary symptoms, skin reactions, chest pain, confusion, and level of consciousness changes.</item>
+    <item>Report side effects including nausea and vomiting and skin reactions.</item>
+    <item>Know how to care of long-term intravenous accesses at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Understand the need for regular follow-up for early identification of long-term effects and secondary malignancies. 
+    </item>
+    </list>
+    <para id="para-00010"><emphasis effect="bold">The client taking a biologic or biologic response modifying agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Be around large crowds or around others who are sick to decrease the risk of infection.</item>
+    <item>Become dehydrated.</item>
+    </list>
+    </note>
+    <note class="black-box" id="note-00002">
+    <para id="para-00011"><emphasis effect="bold">Rituximab</emphasis></para>
+    <para id="para-00012">Rituximab may cause fatal infusion-related reactions, most often with the initial treatment. Mucocutaneous reactions, reactivation of hepatitis B, and progressive multifocal leukoencephalopathy have also been associated with rituximab.</para>
+    </note>
+    </section>
+    </section>
+    <section class="chapter-summary" id="sect-00007">
+    <para id="para-00013">This chapter discussed the causes and development of cancer based on different theories of mutational changes. These changes included the influences of stress, genetics, and environmental exposures as causes of cancer formation. The chapter also covered how chemotherapy works and the effects that chemotherapy has on both normal and abnormal cells. A summary of different major classes of chemotherapy and individual agents was included. Considerations for both safely providing chemotherapy and monitoring clients for adverse effects were discussed. Supportive therapies necessary when administering chemotherapeutic agents were also included.</para>
+    </section>
+          <section class="review-questions" id="sect-00008">
+          <title>Review Questions</title>
+          <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00014"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ1"/></para></problem></exercise>
+          <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00015"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ2"/></para></problem></exercise>
+          <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00016"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ3"/></para></problem></exercise>
+          <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ4"/></para></problem></exercise>
+          <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec4_RQ5"/></para></problem></exercise>
+          <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec1_RQ6"/></para></problem></exercise>
+          <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec3_RQ7"/></para></problem></exercise>
+          <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ8"/></para></problem></exercise>
+          <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_RQ9"/></para></problem></exercise>
+          <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec4_RQ10"/></para></problem></exercise>
+          </section>
+    <section class="references" id="sect-00009">
+    <para id="para-00024">American Cancer Society. (2021). <emphasis effect="italics">Hair loss.</emphasis> https://www.cancer.org/cancer/managing-cancer/side-effects/hair-skin-nails/hair-loss/choosing-and-wearing-wig.html</para>
+    <para id="para-00025">Amjad, M. T., &amp; Kasi, A. (2020). <emphasis effect="italics">Cancer chemotherapy</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK564367/</para>
+    <para id="para-00026">Centers for Disease Control and Prevention. (2020, March 31). <emphasis effect="italics">Family health history and the BRCA1 and BRCA2 genes</emphasis>. https://www.cdc.gov/genomics/disease/breast_ovarian_cancer/fam_hist_genes.htm</para>
+    <para id="para-00027">Chemocare. (2023). <emphasis effect="italics">Chemotherapy terms</emphasis>. https://chemocare.com/what-is-chemotherapy/chemotherapy-terms</para>
+    <para id="para-00028">DailyMed. (Updated April 17, 2023). <emphasis effect="italics">Anastrozole tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86d2158-b078-3f74-e053-6394a90aa4b6</para>
+    <para id="para-00029">DailyMed. (Updated May 19, 2023). <emphasis effect="italics">Atezolizumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee</para>
+    <para id="para-00030">DailyMed. (Updated October 20, 2022). <emphasis effect="italics">Bicalutamide tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7c295b64-ec39-42ec-9f02-da5b42e775e1</para>
+    <para id="para-00031">DailyMed. (Updated April 2, 2019). <emphasis effect="italics">Bleomycin injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=497e462a-a295-4db1-9002-d2633efbd676</para>
+    <para id="para-00032">DailyMed. (Updated Mary 24, 2021). <emphasis effect="italics">Busulfan injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe0ddd44-ef02-4827-b164-7fcbb45bcc1b</para>
+    <para id="para-00033">DailyMed. (Updated December 22, 2020). <emphasis effect="italics">Capecitabine tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f555b6b-60db-45e2-a61e-537e57f43fdc</para>
+    <para id="para-00034">DailyMed. (Updated December 2, 2022). <emphasis effect="italics">Carmustine–carmustine kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0bdd91e1-fd94-4ce8-9c99-1b0fa6fe8ae4</para>
+    <para id="para-00035">DailyMed. (Updated July 7, 2021). <emphasis effect="italics">Carboplatin injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b4fa7aac-c9d2-4af4-a281-3e6cfc502ff6</para>
+    <para id="para-00036">DailyMed. (Updated June 8, 2021). <emphasis effect="italics">Cisplatin injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2b029f5-0d7e-4e7f-accc-b722aec34c68</para>
+    <para id="para-00037">DailyMed. (Updated February 17, 2023). <emphasis effect="italics">Cyclophosphamide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d6e68b1-5120-4cbb-a9d2-fb09d1b74ea1</para>
+    <para id="para-00038">DailyMed. (Updated September 8, 2021). <emphasis effect="italics">Cyclophosphamide injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c1eb470-0bba-457d-94e3-b9508f0d398a</para>
+    <para id="para-00039">DailyMed. (Updated June 3, 2021). <emphasis effect="italics">Cytarabine injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c4fdc56e-efd7-4825-a518-ef430b2b3df0</para>
+    <para id="para-00040">DailyMed. (Updated August 11, 2022). <emphasis effect="italics">Dactinomycin injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc</para>
+    <para id="para-00041">DailyMed. (Updated December 30, 2019). <emphasis effect="italics">Daunorubicin hydrochloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=227784a8-ce68-4dd4-8ac5-a65265969677</para>
+    <para id="para-00042">DailyMed. (Updated July 15, 2009). <emphasis effect="italics">Dexamethasone elixir.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e59d3b87-af2e-4262-b89d-e95aa79f11b7</para>
+    <para id="para-00043">DailyMed. (Updated January 21, 2021). <emphasis effect="italics">Dexamethasone injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4dd55929-fe0a-4884-ae0d-6f9435920eb7</para>
+    <para id="para-00044">DailyMed. (Updated January 27, 2020). <emphasis effect="italics">Diphenhydramine-diphenhydramine hydrochloride capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef6b86cc-bfc5-4e74-a806-33de9a68ce45</para>
+    <para id="para-00045">DailyMed. (Updated November 11, 2019). <emphasis effect="italics">Diphenhydramine-diphenhydramine hydrochloride injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=921b9f64-1096-46db-866a-67f0f9ff6790</para>
+    <para id="para-00046">DailyMed. (Updated March 19, 2021). <emphasis effect="italics">Docetaxel anhydrous injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9cd030b6-f98d-451e-93cb-0a998f4c6012</para>
+    <para id="para-00047">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Doxorubicin Hydrochloride–doxorubicin hydrochloride injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e0349f98-42fa-4003-b6d8-a1db1401b0ef</para>
+    <para id="para-00048">DailyMed. (Updated Jun 16, 2023). <emphasis effect="italics">Durvalumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3</para>
+    <para id="para-00049">DailyMed. (Updated January 14, 2021). <emphasis effect="italics">Epirubicin hydrochloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab115cc4-43cd-4a59-aa01-89e356ce3a08</para>
+    <para id="para-00050">DailyMed. (Updated July 25, 2018). <emphasis effect="italics">Epogen–epoetin alfa solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5</para>
+    <para id="para-00051">DailyMed. (Updated June 2, 2022). <emphasis effect="italics">Etoposide injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe870629-104d-4d67-a7c6-f53bc588121e</para>
+    <para id="para-00052">DailyMed. (Updated December 14, 2021). <emphasis effect="italics">Exemestane tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=abde1ccd-0ec9-40d4-b205-fbc00f5878b9</para>
+    <para id="para-00053">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Fludarabine phosphate injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf5255cc-91fd-4132-973b-764dba142eae</para>
+    <para id="para-00054">DailyMed. (Updated January 2, 2023). <emphasis effect="italics">Fluorouracil injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b34cbf2-66f9-48a4-b41f-deb84ba8e8c4</para>
+    <para id="para-00055">DailyMed. (Updated November 9, 2018). <emphasis effect="italics">Flutamide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=328910be-4d0e-4d7b-a062-e3ce0cf793b9</para>
+    <para id="para-00056">DailyMed. (Updated May 6, 2021). <emphasis effect="italics">Fulvestrant injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b471eb51-488e-5312-e053-2a95a90a8116</para>
+    <para id="para-00057">DailyMed. (Updated January 4, 2020). <emphasis effect="italics">Gemcitabine hydrochloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=518b9c2e-fdbe-46de-9859-02314c220d58</para>
+    <para id="para-00058">DailyMed. (Updated March 29, 2023). <emphasis effect="italics">Gleostine–lomustine capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f77526b-4c40-409c-82ea-d0f934d89cc2</para>
+    <para id="para-00059">DailyMed. (Updated May 18, 2023). <emphasis effect="italics">Imbruvica–ibrutinib capsule, tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0dfd0279-ff17-4ea9-89be-9803c71bab44</para>
+    <para id="para-00060">DailyMed. (Updated August 14, 2021). <emphasis effect="italics">Keytruda–pembrolizumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287</para>
+    <para id="para-00061">DailyMed. (Updated August 1, 2022). <emphasis effect="italics">Leukeran–chlorambucil tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=967ed3ff-d99b-41e8-b768-dfb586d3d9a6</para>
+    <para id="para-00062">DailyMed. (Updated December 1, 2009). <emphasis effect="italics">Loratadine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7a2f0eef-7803-497d-926c-a6163a89eb56</para>
+    <para id="para-00063">DailyMed. (Updated June 4, 2021). <emphasis effect="italics">Methotrexate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd035a9f-cd40-4314-b9d8-2294b8a924e2</para>
+    <para id="para-00064">DailyMed. (Updated June 21, 2021). <emphasis effect="italics">Mercaptopurine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c3b5b8b0-bc5c-4ce9-bbdc-febba60c2658</para>
+    <para id="para-00065">DailyMed. (Updated August 22, 2023). <emphasis effect="italics">Mitomycin injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff676355-313d-4575-8f2f-e4a1e9527477</para>
+    <para id="para-00066">DailyMed. (Updated December 2, 2009). <emphasis effect="italics">Neupogen–filgrastim injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bc802bd-76b4-4f45-8571-a436ec26228e</para>
+    <para id="para-00067">DailyMed. (Updated March 4, 2021). <emphasis effect="italics">Neulasta–pegfilgrastim kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fdfe5d72-6b80-435a-afa4-c5d74dd852ce</para>
+    <para id="para-00068">DailyMed. (Updated February 15, 2023). <emphasis effect="italics">Opdivo–nivolumab injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f570b9c4-6846-4de2-abfa-4d0a4ae4e394</para>
+    <para id="para-00069">DailyMed. (Updated July 12, 2022). <emphasis effect="italics">Oxaliplatin injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=78f6a5f3-d088-4aee-9743-fa8cf19d3d75</para>
+    <para id="para-00070">DailyMed. (Updated January 31, 2023). <emphasis effect="italics">Paclitaxel injection</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6d04b514-c85c-4db1-919e-21dd98172791</para>
+    <para id="para-00071">DailyMed. (Updated September 30, 2022). <emphasis effect="italics">Pemetrexed disodium injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d8bcf03-e055-a274-7844-ae9a523e3c4c</para>
+    <para id="para-00072">DailyMed. (Updated June 6, 2023). <emphasis effect="italics">Rituxan–rituximab injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b172773b-3905-4a1c-ad95-bab4b6126563</para>
+    <para id="para-00073">DailyMed. (Updated August 3, 2022). <emphasis effect="italics">Tabloid–thioguanine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4490128b-e73f-4849-9d6e-e8591639d771</para>
+    <para id="para-00074">DailyMed. (Updated March 21, 2022). <emphasis effect="italics">Tamoxifen citrate tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b8a4211-120f-4981-ad69-928accb97637</para>
+    <para id="para-00075">DailyMed. (Updated December 12, 2018). <emphasis effect="italics">Tarceva–erlotinib hydrochloride tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=57bccb29-1c47-4c64-ab6a-77960a91cc20</para>
+    <para id="para-00076">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Vinblastine sulfate injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77</para>
+    <para id="para-00077">DailyMed. (Updated February 1, 2023). <emphasis effect="italics">Vincristine sulfate injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c</para>
+    <para id="para-00078">Mbemi, A., Khanna, S., Njiki, S., Yedjou, C. G., &amp; Tchounwou, P. B. (2020). Impact of gene–environment interactions on cancer development. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">17</emphasis>(21), 8089. https://doi.org/10.3390/ijerph17218089</para>
+    <para id="para-00079">National Cancer Institute. (n.d.). <emphasis effect="italics">Cancer classification | SEER training modules</emphasis>. https://training.seer.cancer.gov/disease/war/</para>
+    <para id="para-00080">National Cancer Institute. (2019). <emphasis effect="italics">Cancer disparities</emphasis>. Cancer.gov. https://www.cancer.gov/about-cancer/understanding/disparities.</para>
+    <para id="para-00081">National Cancer Institute. (2023). <emphasis effect="italics">SEER training modules.</emphasis> https://training.seer.cancer.gov</para>
+    <para id="para-00082">Oncology Nursing Society. (2023). <emphasis effect="italics">ASCO/ONS chemotherapy administration safety standards.</emphasis> https://www.ons.org/ascoons-chemotherapy-administration-safety-standards</para>
+    </section>
+    </content>
 </document>

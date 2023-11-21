@@ -6,8 +6,1149 @@
     <md:uuid>fe73194d-51e4-4b7e-adcf-55ad41de7045</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001"> By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Identify principles of proper handling of chemotherapeutic agents.</item>
+    <item>Discuss different administration methods, phases, routes of administration, and types of chemotherapy.</item>
+    <item>Describe major side effects of chemotherapeutic agents.</item>
+    <item>Identify characteristics of different classes of chemotherapeutic agents used in cancer treatment.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of chemotherapeutic agents used in cancer treatment.</item>
+    <item>Describe the nursing implications of chemotherapeutic agents.</item>
+    <item>Explain the client education related to chemotherapeutic agents.</item>
+    </list>
     </section>
-  </content>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Handling of Chemotherapeutic Agents</title>
+    <para id="para-00002">The complexity of administering <term id="term-00001">chemotherapy</term> and caring for clients that have been treated with cancer therapies requires advanced knowledge. Special training and certifications to administer chemotherapy are required. Chemotherapy agents may cause cytotoxic exposure to those who compound and administer these drugs, as well as to clients, families and other caretakers who might be exposed through spills, improper handling and disposal, and other means. Proper training in compounding, administering, and managing exposure emergencies is a requirement of all personnel who work with chemotherapy. Principles of appropriate handling include, but are not limited to, storage of cytotoxic substances in impervious containers, double gloving (chemotherapy-rated gloves), compounding in a negative-pressure hood, and disposing of cytotoxic substances based on national standards and institutional policies.</para>
+    <note class="trending-today" id="note-00001">
+    <title>Chemotherapy Administration Safety Standards</title>
+    <para id="para-00003">The <term class="no-emphasis" id="term-00002">Oncology Nursing Society</term> (2017), a leader in developing oncology standards, developed <link url="https://openstax.org/r/onsorgonf">chemotherapy administration guidelines and safety standards</link> to assist nurses in safely administering chemotherapy and other cancer treatments. Advances in technology, cancer treatment, and nursing training prompted the need for a periodic review and revision of the standards for general oncology practices. The latest standards included pediatric oncology practices and new standards affecting chemotherapy prescription, preparation, and administration (Oncology Nursing Society, 2023).</para>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Cancer Treatments</title>
+    <para id="para-00004">Chemotherapy may be given for many different reasons. Often, it is given as a curative measure to eradicate all malignant cells. However, cure is not always realistic. When cure is not attainable, chemotherapy can be used to decrease tumor size and prevent metastasis, and sometimes it may be used for palliation and symptom control. Differing regimens of chemotherapy are used for varying client needs (see [link]Table 8.1[/link]).</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text">Type of Therapy</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Description</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Adjuvant therapy</term></entry>
+    <entry valign="top" align="left">Given after initial treatment with surgery to destroy leftover cells</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Neoadjuvant therapy</term></entry>
+    <entry valign="top" align="left">Initial treatment given to shrink the cancer before surgery</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Salvage therapy</term></entry>
+    <entry valign="top" align="left">Second-line therapy given when first-line therapy is unsuccessful</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Targeted therapy</term></entry>
+    <entry valign="top" align="left">Given to selectively kill cancer cells without harming normal cells</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Biologic therapy</term></entry>
+    <entry valign="top" align="left">Used to enable the immune system to better kill cancer cells</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Methods of Chemotherapy</emphasis> (source: Chemocare, 2023)</caption>
+    </table>
+    <note class="link-to-learning" id="note-00002">
+    <title>Chemotherapy Treatment</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/chemotherapy"/>
+    </media>
+    <para id="para-00005">This video describes the typical day and process of the treatment of a client receiving chemotherapy.</para>
+    </note>
+    </section>
+    <section id="sect-00005">
+    <title>Phases of Chemotherapy</title>
+    <para id="para-00006">There are three phases of chemotherapy, beginning with induction. This phase is also known as first-line, front-line, or primary therapy. During this phase, the goal is to induce a remission. For most tumors, this may be the only phase required. For hematological cancers, clients may undergo a second phase, called consolidation, intensification, or post-remission therapy. This phase is used after a remission has been achieved, with a goal of eradicating any remaining cancer cells. The third phase, the maintenance phase, may be used either after induction or after consolidation. In this phase, a maintenance dose of chemotherapy is given to prevent reoccurrence of cancer. This phase is the longest phase and may last for several years.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Routes of Chemotherapy Administration</title>
+    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicants</term>, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see [link]Figure 8.3[/link]).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="Numerous skin lesions of different sizes and color on a patient's forearm. One lesion is very large, dark, and scaly, while the others around it are coin sized circles.">
+    <image mime-type="image/png" src="../../media/PHA_Figure_08_02_003.jpg"/></media>
+    <caption>Vesicants can cause severe damage that can take months to heal. (credit: “This image depicted a view of the volar surface of a patient’s right forearm, highlighting a number of erythematous, well-circumscribed lesions” by CDC/ Dr. Lucille K. Georg, Public Domain)</caption>
+    </figure>
+    <note class="clinical-tip" id="note-00003">
+    <title>Administering Vesicant Drugs</title>
+    <para id="para-00008">When administering a vesicant drug, the nurse should use extreme caution. If, for any reason, the nurse feels that an intravenous site could be compromised, the infusion should be immediately stopped and a new access obtained. Should an actual extravasation occur, the health care provider should be notified and any applicable protocols should be followed.</para>
+    </note>
+    <para id="para-00009">Chemotherapy may be given by different routes, depending on the cancer location. When cancer develops in a body cavity or in the brain or spinal column, treatment may require the use of special routes of administration to overcome the blood-brain barrier or to increase effectiveness by placing drug therapy more directly at the tumor site. [link]Table 8.2[/link] describes the different methods of <term class="no-emphasis" id="term-00010">chemotherapy administration</term>.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="1">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Chemotherapy Administration</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00002">
+    <item><emphasis effect="italics">Oral:</emphasis> Tablets, capsules, or liquids that are swallowed</item>
+    <item><emphasis effect="italics">Intravenous:</emphasis> Liquid preparations administered into a vein via peripheral or central catheters</item>
+    <item><emphasis effect="italics">Injection:</emphasis> Liquid preparations administered via intramuscular or subcutaneous injections</item>
+    <item><emphasis effect="italics">Intrathecal:</emphasis> Injected by syringe or catheter directly into the brain or spinal cord</item>
+    <item><emphasis effect="italics">Intraperitoneal:</emphasis> Injected or infused via catheter into the peritoneal cavity</item>
+    <item><emphasis effect="italics">Intracavitary:</emphasis> Injected or infused via catheter into a body cavity such as the bladder</item>
+    <item><emphasis effect="italics">Intraarterial:</emphasis> Injected directly into an artery flowing to tumor sites</item>
+    <item><emphasis effect="italics">Topical:</emphasis> Applied directly to the skin or tumor site</item>
+    </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Routes of Chemotherapy Administration</caption>
+    </table>
+    </section>
+    <section id="sect-00007">
+    <title>Types of Chemotherapy</title>
+    <para id="para-00010">There are many different classifications of chemotherapy drugs, many of which fall into one of two broad categories—cell-cycle specific and cell-cycle nonspecific therapies. Each cell goes through five phases of mitosis before producing daughter cells (see Figure 8.4). Chemotherapy agents that cause cancer cell death in all phases of mitosis are referred to as <term class="no-emphasis" id="term-00011">cell-cycle nonspecific (CCNS)</term>, whereas those that are effective only in one phase of mitosis are called <term class="no-emphasis" id="term-00012">cell-cycle specific agents (CCS)</term>. In combination chemotherapy, both CCS and NCCS agents are used to eliminate cancer cells more completely.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="A diagram shows one complete cell cycle. In the mitotic phase, mitosis and cytokinesis occurs, causing the formation of two daughter cells. Next is interphase G1 where cell growth occurs, followed by interphase S where D N A synthesis occurs. The final stage is Interphase G2 where more cell growth occurs.">
+    <image mime-type="image/png" src="../../media/PHA_Figure_08_02_004.png"/></media>
+    <caption>One phase of the cell cycle includes mitosis, when the cell divides. During this phase, the duplicated chromosomes are segregated and distributed into daughter nuclei. Following mitosis, the cytoplasm is usually divided as well by cytokinesis, resulting in two genetically identical daughter cells (credit: modification of work from <emphasis effect="italics">Biology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Side Effects of Chemotherapy</title>
+    <para id="para-00011">Side effects of chemotherapy vary from client to client and drug to drug. However, most chemotherapies have overlapping side effects. Each of these side effects must be managed appropriately to protect the client and promote positive outcomes. Nurses who care for clients receiving chemotherapy must possess excellent assessment skills to recognize and treat these side effects early.</para>
+    <para id="para-00012">Most chemotherapies work by interrupting DNA or RNA synthesis. These chemicals are most effective in eliminating cells that are most rapidly reproducing, with high mitotic rates. Unfortunately, chemotherapy cannot tell the difference in cells that are abnormally dividing versus normally rapidly dividing; therefore, the client may experience effects on normal cells as well. This includes hair, nails, skin, mucus membranes, the lining of the gastrointestinal system, and, most importantly, the stem cells within the bone marrow.</para>
+    <section id="sect-00009">
+    <title>Major Side Effects</title>
+    <para id="para-00013">Most chemotherapy agents have major side effects in common. These include myelosuppression, alopecia, nausea and vomiting, skin or nail changes, and late-term effect, including <term id="term-00013">secondary cancers</term>. <term id="term-00014">Myelosuppression</term> is one of the most common effects of chemotherapy. This occurs as chemotherapy affects the stem cells in the bone marrow, resulting in decreased production of white blood cells, red blood cells, and platelets. Myelosuppression affecting red blood cells, white blood cells, and platelets all together is referred to as <term id="term-00015">pancytopenia</term>. Without proper support during this myelosuppression, clients may experience sepsis, bleeding, and hypoxemia, which may result in increased mortality rates. Frequent monitoring of the client’s complete blood count is imperative. In some regimens, pancytopenia may happen very rapidly, in just a few days, while with other regimens, myelosuppression may not occur for 7–14 days or longer. The <term id="term-00016">nadir</term> period, or lowest point of myelosuppression, differs for each specific chemotherapy. Clients must be monitored closely after receiving myelosuppressive therapies for the nadir period, which predisposes clients to safety issues including infection, bleeding, impaired oxygenation, and falls. Protective measures must be instituted to prevent these from occurring, and the nurse must teach clients self-care principles (see Client Teaching Guidelines).</para>
+    <note class="client-teaching" id="note-00004">
+    <para id="para-00014"><emphasis effect="bold">To prevent infection, the client receiving chemotherapy should:</emphasis></para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Bathe daily to reduce bacterial colonization.</item>
+    <item>Cleanse their mouth after each meal and at bedtime.</item>
+    <item>Cook eggs, meats, and seafood thoroughly to decrease the risk of food-borne illness.</item>
+    <item>Use gloves when gardening to protect hands from direct contact with soil, which can contain bacteria and mold.</item>
+    <item>Increase dietary fluids and fiber.</item>
+    <item>Notify their health care provider for a temperature greater than 100.4°F (38°C), productive cough, diarrhea, or urinary burning, urgency, or frequency.</item>
+    </list>
+    <para id="para-00015"><emphasis effect="bold">To prevent infection, the client receiving chemotherapy <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Eat raw fruits and vegetables to decrease the risk of developing a food-borne illness.</item>
+    <item>Eat wild game such as deer, rabbits, and pheasants to decrease the risk of ingesting contaminated meat.</item>
+    <item>Clean cat litter boxes to decrease the risk of contact with bacteria or parasites.</item>
+    </list>
+    </note>
+    <para id="para-00016"><term id="term-00017">Neutropenia</term>, <term id="term-00018">leukopenia</term>, and <term id="term-00019">granulocytopenia</term> occur when the white cell indices (<term id="term-00020">neutrophils</term>, <term id="term-00021">leukocytes</term>, <term id="term-00022">granulocytes</term>) are decreased. This is typically defined as having an absolute neutrophil count less than 1.5 cells/mcL. When this occurs, the client may be prescribed prophylactic antibiotic therapy which may include broad-spectrum gram-positive, broad-spectrum gram-negative, and/or antifungal agents to assist in preventing sepsis. (See <link document="m00302">Anti-Infective Drugs</link>.) Clients with neutropenia present a fragile and complicated situation, especially in regard to nursing care and assessments. It is common for severely neutropenic clients to acquire infections, and even sepsis, with few clinical symptoms. Vigilant nursing assessment is a priority in preventing negative client outcomes. With low white blood cell counts, normal immune responses to infection may be absent. For example, a client who has developed a local infection at a central venous access site would normally display warmth, redness, and edema at the site. However, that same client, when experiencing neutropenia, would not exhibit these symptoms. During this time of decreased immunity, clients may also be treated with biologic colony stimulating agents such as filgrastim or pegfilgrastim. These drugs stimulate increases in stem cell production of white blood cells, accelerating a client’s recovery from white blood cell destruction.</para>
+    <note class="clinical-tip" id="note-00005">
+    <title>Febrile Neutropenia</title>
+    <para id="para-00017"><term id="term-00023">Febrile neutropenia</term> occurs when a client has an absolute neutrophil count that is less than 1.5 per microliter, accompanied by a body temperature above 100.4ºF. When it occurs, febrile neutropenia should become first priority for assessment and intervention. The health care provider should be called immediately. Typically, blood cultures will be obtained, and the client will begin empiric broad-spectrum antibiotics. Failure to recognize and treat febrile neutropenia may result in life-threatening sepsis.</para>
+    </note>
+    <para id="para-00018"><term id="term-00024">Thrombocytopenia</term>, another result of myelosuppression, results in increased risk of bleeding as the number of circulating platelets (<term id="term-00025">thrombocytes</term>) decreases. Thrombocytopenia may cause gastrointestinal hemorrhage, intracerebral bleeding, and other sites of bleeding such as gum and scleral hemorrhages. Platelet counts less than 50,000 per microliter require special precautions; below 20,000, the bleeding risk greatly increases, and the client may require platelet transfusions.</para>
+    <note class="client-teaching" id="note-00006">
+    <para id="para-00019"><emphasis effect="bold">To prevent bleeding, the client being treated for thrombocytopenia should:</emphasis></para>
+    <list list-type="bulleted" id="list-00005">
+    <item>Use tooth sponges for oral care to decrease the risk of bleeding secondary to brushing. Avoid alcohol-based mouthwash which can dry the mouth and increase the risk of bleeding.</item>
+    <item>Increase dietary fluids and fiber.</item>
+    <item>Use stool softeners and fiber laxatives to produce regular, soft bowel movements.</item>
+    </list>
+    <para id="para-00020"><emphasis effect="bold">To prevent bleeding, the client being treated for thrombocytopenia <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00006">
+    <item>Participate in contact sports or other activities that could cause bleeding.</item>
+    </list>
+    </note>
+    <para id="para-00021"><term id="term-00026">Erythrocytopenia</term> (anemia), a decrease in the production of red blood cells (<term id="term-00027">erythrocytes</term>), is another result of myelosuppression. Red blood cells function to carry oxygen to tissues, remove carbon dioxide from tissues, and provide volume within the intravascular space. When red cell counts decrease, clients may become hypoxemic when there are not enough red blood cells to transport oxygen. This results in fatigue and shortness of breath. Hypovolemia also occurs, in which decreased numbers of circulating red blood cells cause lowered vascular pressure. Clients may then experience orthostatic hypotension, dizziness, and disequilibrium. Clients may require transfusions of packed red blood cells, hydration with isotonic intravenous fluids, and oxygen. To decrease the occurrence of erythrocytopenia, clients may be given biologic colony stimulators to increase red blood cell production. These include epoetin alfa and darbepoetin.</para>
+    <note class="client-teaching" id="note-00007">
+    <para id="para-00022"><emphasis effect="bold">To promote oxygenation, the client with anemia (erythrocytopenia) should:</emphasis></para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Schedule activities around periods of rest.</item>
+    <item>Notify the health care provider if shortness of breath increases or does not resolve with rest.</item>
+    <item>Sit on the side of the bed or chair for a few minutes before rising.</item>
+    </list>
+    <para id="para-00023"><emphasis effect="bold">To promote oxygenation, the client with anemia (erythrocytopenia) <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Perform tasks or engage in activities that cause shortness of breath.</item>
+    </list>
+    </note>
+    <para id="para-00024"><term id="term-00028">Alopecia,</term> or hair loss, is a side effect of some chemotherapies. Drugs such as doxorubicin damage hair follicles, which results in partial or complete hair loss. While this is not usually permanent, it will last throughout the duration of the treatments. Although this is not harmful for the client physically, it may be very difficult for a client emotionally and socially. Hair loss ultimately affects body image and self-esteem and may cause others to be uncomfortable around the client. Regrowth of hair usually begins within 6 months after treatments have finished (American Cancer Society, 2021).</para>
+    <para id="para-00025">Skin and nail changes may occur with administration of some types of cancer treatments. Skin rashes (erythema) or peeling of the skin on the hands and feet may occur. Hyperpigmentation of the skin and nail beds may develop as well. Tactile effects may cause neuropathic pain or increased sensitivity to cold. Nails may break, crack, or fall off. The nurse must provide care to prevent the development of infection should the nails or skin become broken.</para>
+    <para id="para-00026">Chemotherapy-associated nausea and vomiting is another common side effect and can vary from drug to drug and client to client. Risk factors for chemotherapy-induced nausea and vomiting include female sex, clients who experienced nausea and vomiting during pregnancy, age less than 50 years, and incidence of nausea and vomiting with previous chemotherapy treatments. Dehydration and electrolyte imbalances are also associated with increased nausea and vomiting. While there is pharmacological support for nausea and vomiting, some chemotherapeutic agents continue to cause significant negative effects. Nausea and vomiting may occur as anticipatory, beginning before a treatment begins, or during or soon after a treatment. Some agents like cisplatin may cause delayed nausea and vomiting, defined as occurring more than 24 hours after administration. This may last 5 days or more. Management of chemotherapy-induced nausea and vomiting includes efforts to maintain client comfort, adequate hydration, and electrolyte balance. Antiemetics such as ondansetron and aprepitant may be given before, during, and after treatment. Nutritional support to help maintain adequate intake of required nutrients and prevent chemotherapy-related cachexia (“wasting syndrome”) accompanies the management of nausea and vomiting.</para>
+    <para id="para-00027">For clients undergoing chemotherapy, another complication involves long-term effects. Most chemotherapy treatments effectively begin both therapeutic and untoward effects as soon as they are administered. The acute effects may last throughout the treatment period and for a few months afterward. However, the cumulative effects of repeated cycles of treatment often result in effects that persist and even worsen over many years. Long-term effects typically involve decreased pulmonary and cardiac function, but other effects such as infertility may be seen.</para>
+    <para id="para-00028">In addition to monitoring for late-term effects of chemotherapies, clients must be evaluated for recurrence of disease and for development of <term class="no-emphasis" id="term-00029">secondary cancers</term>. Recurrence of a tumor happens when cells of the original cancer return and begin growing despite treatment modalities. Secondary cancers differ from recurrent cancer in that these tumors develop in different tissues than the original cancer. Chemotherapeutic agents, unfortunately, are carcinogens. Receiving chemotherapeutic agents for cancer treatment places a client at risk of developing other types of cancers known as secondary cancers. For cancer survivors, follow-up care includes continued surveillance to assess for these effects.</para>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Alkylating Drugs</title>
+    <para id="para-00029"><term class="no-emphasis" id="term-00030">Alkylating agents</term> are among the oldest group of chemotherapies. They were developed after World War I when it was noted that these substances, when used as weapons, caused myelosuppression. Upon this discovery, they were developed into chemotherapeutic agents. In general, the medications in this class kill cancer cells by cross-linking DNA, which produces a suicide-like effect on cancer cells. These agents work most effectively on slower-growing tumors with a slowed mitotic rate. Alkylating agents are separated into several different subclasses. Some of these medications are dosed based on the client’s weight, and others are administered based on the client’s body surface area (BSA), which is determined using a formula using the client’s height and weight (mg/m<sup>2</sup>).</para>
+    <section id="sect-00011">
+    <title>Subclass 1: Nitrogen Mustards</title>
+    <para id="para-00030">In use today are five alkylating agents that are classified as nitrogen mustards. These include mechlorethamine, melphalan, chlorambucil, ifosfamide, and cyclophosphamide. Cyclophosphamide is the most widely used nitrogen mustard and can be found in the regimens for many different cancers. Cyclophosphamide and ifosfamide pose the risk of <term id="term-00031">hemorrhagic cystitis</term>, usually when high-dose therapy is used. To prevent this, a rescue agent, or uroprotectant, is given to prevent bladder irritation. <term id="term-00032">Mesna</term> is the rescue agent used with these drugs for supportive interventions to prevent bladder complications.</para>
+    </section>
+    <section id="sect-00012">
+    <title>Subclass 2: Nitrosoureas</title>
+    <para id="para-00031">Nitrosoureas are classified as alkylating agents, yet these have an advantage that nitrogen mustards do not: they cross the blood-brain barrier. This characteristic allows these drugs to pass into the brain, treating cancers like glioblastomas and other brain tumors. Carmustine is a more commonly used intravenous nitrosourea. Lomustine, which is similar to carmustine, is administered via oral routes.</para>
+    </section>
+    <section id="sect-00013">
+    <title>Subclass 3: Alkyl Sulfonates</title>
+    <para id="para-00032">Alkyl sulfonates such as busulfan are administered as an intravenous infusion rather than IV push. These are very potent drugs, used to treat chronic leukemia, and they have severe adverse effects. These include myelosuppression, stomatitis, nausea, vomiting, diarrhea, and electrolyte imbalances including hypomagnesemia and hypokalemia. Busulfan requires very close pharmacokinetic monitoring and dose alteration.</para>
+    <para id="para-00033">Chemotherapy, while it acts to target cell functions and reproduction, may cause widespread undesired damage to normal cells. For this reason, many chemotherapeutic agents have black box warnings. These warnings are used to emphasize the most serious and potentially damaging side effects of a drug or a class of drugs. Boxed warnings are set specifically to make clients and health care providers aware of very serious risks of using certain medications. With chemotherapeutics, there are multiple reasons that a boxed warning may be issued. However, the most common reasons include myelosuppression, teratogenicity, and hypersensitivity reactions. Prior to administering a chemotherapeutic drug, nurses should check for boxed warnings so that drugs may be administered safely and clients may be educated regarding these warnings.</para>
+    <para id="para-00034">[link]Table 8.3[/link] lists common alkylating agents and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00033">Nitrogen Mustards</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00034">Cyclophosphamide</term><newline/>
+    (<term class="no-emphasis" id="term-00035">Cytoxan</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 1–5 mg/kg once daily.<newline/>
+    <emphasis effect="italics">Intravenous (IV) (monotherapy):</emphasis> 40–50 mg/kg given in divided doses over 2–3 days, or 10–15 mg/kg given every 7–10 days.<newline/>
+    <emphasis effect="italics">IV (combination therapy):</emphasis> 3–5 mg/kg given twice weekly.<newline/>
+    <emphasis effect="italics">Note</emphasis>: Doses may be reported in grams versus milligrams.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Chlorambucil</term><newline/>
+    (<term class="no-emphasis" id="term-00037">Lukeran</term>)</entry>
+    <entry valign="middle" align="left">0.1–0.2 mg/kg orally once daily for 3–6 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00038">Nitrosoureas</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00039">Carmustine</term>
+    (<term class="no-emphasis" id="term-00040">BCNU</term>)</entry>
+    <entry valign="middle" align="left">150–200 mg/m<sup>2</sup> IV every 6 weeks administered as a single dose or divided injections on two successive days.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00041">Lomustine</term>
+    (<term class="no-emphasis" id="term-00042">CCNU</term>)</entry>
+    <entry valign="middle" align="left">130 mg/m<sup>2</sup> orally every 6 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00043">Alkyl Sulfonates</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Busulfan</term>
+    (<term class="no-emphasis" id="term-00045">Busulfex</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Clients >12 kg:</emphasis> 0.8 mg/kg IV as a single treatment, every 6 hours for 16 doses.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00046">Alkylating-Like Drugs</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00047">Cisplatin</term></entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Advanced testicular cancer</emphasis>: 20 mg/m<sup>2</sup> IV daily for 5 days.<newline/>
+    <emphasis effect="italics">Advanced ovarian cancer:</emphasis> 75–100 mg/m<sup>2</sup> IV once every 3–4 weeks.<newline/>
+    <emphasis effect="italics">Advanced bladder cancer</emphasis>: 50–70 mg/m<sup>2</sup> IV once every 3–4 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00048">Carboplatin</term> <newline/>
+    (<term class="no-emphasis" id="term-00049">Paraplatin</term>)</entry>
+    <entry valign="middle" align="left">300 mg/m<sup>2</sup> IV (combination therapy) or 360 mg/m<sup>2</sup> (monotherapy) every 4 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00050">Oxaliplatin</term><newline/>
+    (<term class="no-emphasis" id="term-00051">Eloxatin</term>)</entry>
+    <entry valign="middle" align="left">85 mg/m<sup>2</sup> IV every 2 weeks.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Alkylating Agents (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00014">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00035">Alkylating agents are some of the most toxic chemotherapies used in cancer treatment. One benefit of these toxicities is that drugs like busulfan can be used to eradicate bone-marrow production prior to stem-cell and bone-marrow transplants. This reduces recurrence of the primary disease after transplant. However, alkylating agents are known for the negative effects associated with administration of these drugs. Short-term side effects include myelosuppression, which usually occurs 6–10 days after administration, with recovery after 14–21 days. Myelosuppression resulting in neutropenia can result in severe infections and sepsis. <term id="term-00052">Mucositis</term>, nausea, and vomiting are side effects that affect the client’s overall nutritional status. Neurotoxicity and alopecia are also short-term side effects. Long-term (delayed) effects of alkylating agents include pulmonary fibrosis, infertility, and secondary malignancies (Amjad &amp; Kasi, 2020). These long-term effects may occur months after treatment or may develop many years later.</para>
+    <para id="para-00036">[link]Table 8.4[/link] is a drug prototype table for alkylating agents featuring cyclophosphamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00004">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Alkylating agent – nitrogen mustard<newline/>
+    Cell cycle nonspecific<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Causes crosslinking of DNA during mitosis to cause nucleic acid chain breakage resulting in cell destruction</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    <emphasis effect="italics">Oral:</emphasis> 1–5 mg/kg once daily. <newline count="2"/>
+    <emphasis effect="italics">Intravenous (IV) (monotherapy):</emphasis> 40–50 mg/kg given in divided doses over 2–3 days, or 10–15 mg/kg given every 7–10 days.<newline count="2"/>
+    <emphasis effect="italics">IV (combination therapy):</emphasis> 3–5 mg/kg given twice weekly.<newline count="2"/>
+    <emphasis effect="italics">Note</emphasis>: Doses may be reported in grams versus milligrams.</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Lymphomas<newline/>
+    Multiple myeloma<newline/>
+    Leukemia<newline/>
+    Ovarian and breast cancers<newline count="2"/>
+    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    Reduction of cancer cells</entry>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Protease inhibitors<newline/>
+    ACE inhibitors<newline/>
+    Thiazide diuretics<newline/>
+    Zidovudine<newline/>
+    Amiodarone<newline/></entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Myelosuppression<newline/>
+    Sepsis<newline/>
+    Nephrotoxicity<newline/>
+    Pulmonary toxicity<newline/>
+    Cardiotoxicity<newline/>
+    Infertility<newline/>
+    Hyponatremia</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Myelosuppression<newline/>
+    Urinary outflow obstruction<newline count="2"/>
+    Caution:<newline/>
+    Monitor for hemorrhagic cystitis<newline/>
+    Mesna may be used in high-dose therapy to prevent bladder irritation
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Cyclophosphamide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00015">
+    <title>Nursing Implications</title>
+    <para id="para-00037">The nurse should do the following for clients who are receiving alkylating agents:</para>
+    <list list-type="bulleted" id="list-00009">
+    <item>Assess client overall well-being prior chemotherapy administration, including vital signs, hydration status, and weight.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes.</item>
+    <item>Observe clients for adverse effects before, during, and after treatment.</item>
+    <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering chemotherapies.</item>
+    <item>Be prepared to manage extravasation and follow spill protocols.</item>
+    <item>Become familiar with the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions, bleeding, and sepsis.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00008">
+    <para id="para-00038"><emphasis effect="bold">The client taking an alkylating drug should:</emphasis></para>
+    <list list-type="bulleted" id="list-00010">
+    <item>Report the following signs and symptoms to the health care provider: fever, chills, productive cough, urinary symptoms, hematuria (cyclophosphamide), changes in hearing (cisplatin).</item>
+    <item>Remain well hydrated. Report side effects including nausea and vomiting and mucositis.</item>
+    <item>Know how to care for long-term intravenous access at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Monitor for and report any long-term effects of the chemotherapy.</item>
+    <item>Follow up with all recommended health screenings.</item>
+    <item>Report any concerning signs and symptoms to their health care provider.</item>
+    </list>
+    <para id="para-00039"><emphasis effect="bold">The client taking an alkylating drug <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00011">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to protect their hands from the risk of bacterial contamination.</item>
+    <item>Clean feline litter boxes to decrease the risk of exposure to bacteria or parasites.</item>
+    <item>Take vaccines without their health care provider’s approval.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    <note class="black-box" id="note-00009">
+    <para id="para-00040"><emphasis effect="bold">Various Alkylating Agents</emphasis></para>
+    <para id="para-00041"><emphasis effect="bold">Busulfan</emphasis> injection causes severe and prolonged myelosuppression at the recommended dosage.</para>
+    <para id="para-00042"><emphasis effect="bold">Carboplatin</emphasis> causes severe bone marrow suppression, resulting in bleeding, infection, and anemia. Anaphylactic-like reactions to carboplatin may occur within minutes of administration.</para>
+    <para id="para-00043"><emphasis effect="bold">Carmustine</emphasis> causes bone marrow suppression which may contribute to bleeding and overwhelming infection. In cumulative doses above 1400 mg/m<sup>2</sup>, pulmonary toxicity is a significant risk.</para>
+    <para id="para-00044"><emphasis effect="bold">Chlorambucil</emphasis> causes severe bone marrow suppression and infertility and is carcinogenic, mutagenic, and teratogenic.</para>
+    <para id="para-00045"><emphasis effect="bold">Cisplatin</emphasis> causes severe renal toxicity that is dose related and cumulative. Peripheral neuropathy occurs and is cumulative with repeat courses. Cisplatin causes severe nausea and vomiting. Bone marrow suppression may be severe, requiring interruption of therapy.</para>
+    <para id="para-00046"><emphasis effect="bold">Lomustine</emphasis> causes severe, dose-related, delayed, and cumulative myelosuppression, occurring 4–6 weeks after administration. Overdose is fatal. Only 1 dose should be dispensed with each prescription.</para>
+    <para id="para-00047"><emphasis effect="bold">Oxaliplatin</emphasis> may cause anaphylactic-like reactions that may occur within minutes of administration.</para>
+    </note>
+    </section>
+    <section id="sect-00016">
+    <title>Antimetabolites</title>
+    <para id="para-00048">Antimetabolite chemotherapies are a group of drugs that prevent cancer cell growth by imitating metabolites, which are substances necessary for tumor cell growth. Cancer cells use these substances which, once inside the cell, prevent DNA replication. This results in cell death. Within this class, there are three types of metabolites that are inhibited: purines, pyrimidines, and folic acid. Each drug in this class specifically targets replacement of one of these substances. The most common drugs within this class are fluorouracil, fludarabine, gemcitabine, and methotrexate. Common side effects include nausea and vomiting, diarrhea, anorexia, stomatitis, alopecia, and myelosuppression. Antimetabolites are useful in treating leukemias, lymphomas, and cancers of the gastrointestinal and biliary tracts.</para>
+    <para id="para-00049">[link]Table 8.5[/link] lists common antimetabolite agents and typical routes and dosing for adult clients.</para>
+          <table class="vertically-tight" id="table-00005">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00053">Folate Antimetabolites</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00054">Methotrexate</term><newline/>
+    (<term class="no-emphasis" id="term-00055">Trexall</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Intrathecal:</emphasis> 6–15 mg/m<sup>2</sup> age-based dose; frequency depends on regimen.<newline/>
+    <emphasis effect="italics">IV:</emphasis> 10 mg/m<sup>2</sup> up to 12 g/m<sup>2</sup> at varying frequencies depending on the diagnosis and treatment regimen.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00056">Pemetrexed</term> <newline/>
+    (<term class="no-emphasis" id="term-00057">Alimta</term>)</entry>
+    <entry valign="middle" align="left">500 mg/m<sup>2</sup> IV every 21 days.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00058">Pyrimidine Antimetabolites</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">5-Fluoroururacil</term><newline/>
+    (<term class="no-emphasis" id="term-00060">5-FU</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
+    <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
+    <emphasis effect="italics">Breast adenocarcinoma:</emphasis> 400–600 mg/m<sup>2</sup> IV days 1 and 8 every 28 days for 6 cycles.<newline/>
+    <emphasis effect="italics">Gastric adenocarcinoma):</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00061">Capecitabine</term><newline/>
+    (<term class="no-emphasis" id="term-00062">Xeloda</term>)</entry>
+    <entry valign="middle" align="left">1250 mg/m<sup>2</sup> orally twice daily for 2 weeks followed by a 1-week rest period.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00063">Cytarabine</term><newline/> 
+    (<term class="no-emphasis" id="term-00064">Ara-C</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">IV:</emphasis> 100 mg/m<sup>2</sup> daily as a single treatment over 7 days.<newline/>
+    <emphasis effect="italics">Intrathecal:</emphasis> 5–75 mg/m<sup>2</sup> once every 4 days.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00065">Purine Antimetabolites</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00066">Mercaptopurine</term> <newline/>
+    (<term class="no-emphasis" id="term-00067">Purixan</term>)</entry>
+    <entry valign="middle" align="left">1.5–2.5 mg/kg orally once daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00068">Thioguanine</term><newline/>
+    (<term class="no-emphasis" id="term-00069">Tabloid</term>)</entry>
+    <entry valign="middle" align="left">2–3 mg/kg orally daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00070">Gemcitabine</term><newline/>
+    (<term class="no-emphasis" id="term-00071">Gemzar</term>)</entry>
+    <entry valign="middle" align="left">1,000 mg/m<sup>2</sup> IV on days 1 and 8 of a 21-day cycle.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00072">Fludarabine</term><newline/>
+    (<term class="no-emphasis" id="term-00073">Fludara)</term>25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Antimetabolite Agents (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00017">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00050">Antimetabolites are associated with many adverse effects. Folate antimetabolites are associated with myelosuppression, mucositis, hepatotoxicity, nephrotoxicity, and cutaneous reactions. Pyrimidine antimetabolites cause mucositis and myelosuppression as well but are also associated with dose-limiting hand-foot syndrome and diarrhea. Contraindications for fluorouracil include clients with dihydropyridine dehydrogenase (DPD) deficiency, which may result in toxic levels of fluorouracil. This can lead to cardiac dysfunction, colitis, neutropenia, and encephalopathy. Uridine triacetate is used to treat toxicity in these clients. Cytarabine is associated with inflammation of the conjunctiva. Corticosteroid eye drops are used prophylactically to prevent this. Purine antimetabolites, in addition to causing myelosuppression, also decrease the CD4 lymphocyte count, resulting in immunosuppression and risk of opportunistic infections (Amjad &amp; Kasi, 2020).</para>
+    <para id="para-00051">[link]Table 8.6[/link] is a drug prototype chart for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00006">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Antimetabolite (pyrimidine antagonist)<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+    Antagonizes metabolites necessary for cell growth, results in apoptosis (cell death) of cancerous cells</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    <emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
+    <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
+    <emphasis effect="italics">Breast adenocarcinoma:</emphasis> 400–600 mg/m<sup>2</sup> IV days 1 and 8 every 28 days for 6 cycles.<newline/>
+    <emphasis effect="italics">Gastric adenocarcinoma):</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.<newline/>
+    Often given in combination with leucovorin calcium to enhance effectiveness.</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Breast, colon, pancreatic, and gastric cancers<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Prevents DNA synthesis to cause tumor cell death</entry>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Warfarin</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Mucositis<newline/>
+    Diarrhea<newline/>
+    Hand-foot syndrome<newline/>
+    Myelosuppression<newline/>
+    Neurotoxicity<newline/>
+    Gastrointestinal ulcers<newline/></entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity<newline/>
+    Decreased dipyridine dehydrogenase<newline count="2"/>
+    Caution:<newline/>
+    Increases international normalized ratio (INR) when administered to clients receiving warfarin</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Fluorouracil</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00018">
+    <title>Nursing Implications</title>
+    <para id="para-00052">The nurse should do the following for clients who are receiving antimetabolite agents:</para>
+    <list list-type="bulleted" id="list-00012">
+    <item>Assess client overall well-being prior chemotherapy administration, including vital signs, hydration status, oral mucosa, skin, eyes (cytarabine), and weight.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes. Observe clients for adverse effects before, during and after treatment.</item>
+    <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering chemotherapies.</item>
+    <item>Be prepared to manage extravasation and spill protocols.</item>
+    <item>Be aware of drugs’ boxed warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions, bleeding, and sepsis.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00010">
+    <para id="para-00053"><emphasis effect="bold">The client taking an antimetabolite agent should:</emphasis></para>
+    <list list-type="bulleted" id="list-00013">
+    <item>Report the following signs and symptoms to the health care provider: fever, chills, productive cough, urinary symptoms, hematuria, eye irritation (cytarabine), and mouth ulcers (fluorouracil).</item>
+    <item>Remain well hydrated.</item>
+    <item>Report side effects including nausea and vomiting and mucositis.</item>
+    <item>Know how to care for long-term intravenous accesses at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Monitor and report any long-term effects.</item>
+    <item>Follow up with recommended screenings for early identification of any secondary malignancies.</item>
+    </list>
+    <para id="para-00054"><emphasis effect="bold">The client taking an antimetabolite <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00014">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to decrease the risk of exposure to mold and bacteria.</item>
+    <item>Clean feline litter boxes to minimize bacteria or parasite exposure.</item>
+    <item>Take vaccines without consulting with their health care provider.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    <note class="black-box" id="note-00011">
+    <para id="para-00055"><emphasis effect="bold">Methotrexate</emphasis></para>
+    <para id="para-00056">Methotrexate causes embryo-fetal toxicity, hypersensitivity reactions, benzyl alcohol toxicity, and other serious adverse reactions.</para>
+    <para id="para-00057"><emphasis effect="bold">Capecitabine</emphasis></para>
+    <para id="para-00058">Capecitabine causes increased risk for bleeding when administered with coumarins such as warfarin.</para>
+    <para id="para-00059"><emphasis effect="bold">Fludarabine</emphasis></para>
+    <para id="para-00060">Fludarabine causes severe central nervous system toxicity, including blindness, coma seizures, and death. Autoimmune syndromes including hemolytic anemia, thrombocytopenia, and hemophilia may occur with fludarabine administration. Concomitant use of deoxycoformycin (pentostatin) may cause fatal pulmonary toxicity.</para>
+    </note>
+    </section>
+    <section id="sect-00019">
+    <title>Anthracyclines/Antitumor Antibiotics</title>
+    <para id="para-00061">Anthracyclines are some of the most potent chemotherapies on the market today. These drugs are very strong vesicants that cause severe necrosis when extravasated. Three major drugs in this class are daunorubicin, doxorubicin and epirubicin. These drugs cause cell death by preventing DNA replication. They do this by inhibiting topoisomerase, leaving DNA strands unable to unwind and replicate. The major side effects of anthracyclines are myelosuppression, nausea and vomiting, alopecia, skin, and nail hyperpigmentation, and, most notably, cardiotoxicity. Many drugs in this class are red in color and can resultingly cause urine and other body fluids to turn red/orange. This is a benign side effect but is usually discussed with clients to avoid any panic. These drugs are assigned maximum lifetime dose limits to aid in preventing debilitating chemotherapy-induced heart failure. Additionally, clients must have a left ventricular ejection fraction of at least 55% to receive these drugs. [link]Table 8.7[/link] lists common anthracyclines/antitumor antibiotics and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00007">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Drug Routes and Dosages</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><emphasis effect="bold"><term class="no-emphasis" id="term-00074">Anthracyclines/Antitumor Antibiotics</term></emphasis></entry>
+    <entry valign="middle" align="left">Cell cycle nonspecific.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00075">Daunorubicin</term><newline/>
+    (<term class="no-emphasis" id="term-00076">Cerubidine</term>)</entry>
+    <entry valign="middle" align="left">25–45 mg/m<sup>2</sup> IV; frequency depends on cancer type and other agents administered in combination (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00077">Doxorubicin</term> <newline/>
+    (<term class="no-emphasis" id="term-00078">Adriamycin, Doxil</term>)</entry>
+    <entry valign="middle" align="left">60–75 mg/m<sup>2</sup> IV every 21 days (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00079">Epirubicin</term><newline/> 
+    (<term class="no-emphasis" id="term-00080">Ellence</term>)</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">IV:</emphasis> 100–120 mg/m<sup>2</sup> frequency depends on prescribed regimen (720 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00081">Other Anthracyclines</term></span></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00082">Bleomycin</term><newline/>
+    (<term class="no-emphasis" id="term-00083">Blenoxane</term>)</entry>
+    <entry valign="middle" align="left">0.25–0.5 units/kg (10–20 units/m<sup>2</sup>) given IV, intamuscularly, or subcutaneously weekly or twice weekly. (Drug may be discontinued if pulmonary toxicity occurs.)</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00084">Dactinomycin</term><newline/>
+    (<term class="no-emphasis" id="term-00085">Cosmegen</term>)</entry>
+    <entry valign="middle" align="left">12–1250 mcg/m<sup>2</sup> IV; frequency depends on cancer type.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00086">Mitomycin</term><newline/>
+    (<term class="no-emphasis" id="term-00087">Mutamycin</term>)</entry>
+    <entry valign="middle" align="left">20 mg/m<sup>2</sup> IV at 6–8 week intervals.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Anthracyclines/Antitumor Antibiotics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00020">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00062">Anthracyclines and antitumor antibiotics are associated with very serious adverse effects. In general, the drugs cause significant myelosuppression, alopecia, and nausea and vomiting. Doxorubicin and daunorubicin are associated with both short- and long-term cardiotoxicity. These drugs are contraindicated in clients with preexisting cardiac disease when the left ventricular ejection fraction is less than 55%. Clients receiving doxorubicin are also limited to a lifetime cumulative dose of 550 mg/m<sup>2</sup>. Bleomycin administration requires vigilant monitoring for cumulative <term id="term-00088">pulmonary toxicity</term> and <term id="term-00089">fibrosis</term>. Doxorubicin and daunorubicin are vesicant drugs that cause severe necrosis if extravasation into tissues occurs.</para>
+    <para id="para-00063">[link]Table 8.8[/link] is a drug prototype table for anthracycline agents featuring doxorubicin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00008">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Anthracycline/antitumor antibiotic<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Inhibits topoisomerase to prevent DNA replication</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    60–75 mg/m<sup>2</sup> IV every 21 days (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Breast, bronchogenic, and thyroid cancers<newline/>
+    Leukemia<newline/>
+    Lymphoma<newline/>
+    Sarcoma<newline/>
+    Wilms tumor<newline count="2"/>
+    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    Prevents DNA synthesis to cause tumor cell death</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Paclitaxel<newline/>
+    Trastuzumab<newline/>
+    6-mercaptopurine<newline/>
+    Dexrazoxane (may be used as a cardioprotective agent in certain populations or upon extravasation)</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Cardiotoxicity<newline/>
+    Myelosuppression<newline/>
+    Alopecia<newline/>
+    Hyperpigmentation of skin and nails<newline/>
+    Stomatitis</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity<newline/>
+    Myelosuppression<newline/>
+    Decreased cardiac function<newline count="2"/>
+    Caution:<newline/>
+    550 mg/m<sup>2</sup> maximum lifetime limit<newline/>
+    Client must have ejection fraction of at least 55% to receive doxorubicin<newline/>
+    Severe necrosis with extravasation</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Doxorubicin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00021">
+    <title>Nursing Implications</title>
+    <para id="para-00064">The nurse should do the following for clients who are receiving anthracyclines/antitumor antibiotic agents:</para>
+    <list list-type="bulleted" id="list-00015">
+    <item>Assess client overall well-being prior chemotherapy administration including vital signs, hydration status, oral mucosa, skin, and weight.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, liver enzymes, and left ventricular ejection fraction and pulmonary function tests (bleomycin).</item>
+    <item>Carefully record cumulative doses when lifetime limits are necessary.</item>
+    <item>Observe clients for adverse effects before, during, and after treatment.</item>
+    <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering chemotherapies.</item>
+    <item>Be prepared to manage extravasation and follow spill protocols.</item>
+    <item>Be aware of the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions, bleeding, and sepsis.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00012">
+    <para id="para-00065"><emphasis effect="bold">The client taking an anthracycline/antitumor antibiotic agent should:</emphasis></para>
+    <list list-type="bulleted" id="list-00016">
+    <item>Know signs and symptoms to report to the health care provider, including fever, chills, productive cough, urinary symptoms, hematuria, palpitations, chest pain, shortness of breath (doxorubicin, daunorubicin, epirubicin), pulmonary pain, breathing difficulties (bleomycin).</item>
+    <item>Remain well-hydrated.</item>
+    <item>Report side effects including nausea and vomiting and mucositis.</item>
+    <item>Know how to care for long-term intravenous accesses at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Follow up with screenings for long-term effects and secondary malignancies.</item>
+    </list>
+    <para id="para-00066"><emphasis effect="bold">The client taking an anthracycline and antitumor antibiotic agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00017">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to protect hands from direct contact with bacteria and mold present in the soil.</item>
+    <item>Clean feline litter boxes to reduce risk of contact with bacteria and parasites.</item>
+    <item>Take vaccines without prior approval of their health care provider.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00022">
+    <title>Plant Alkaloids</title>
+    <para id="para-00067">Several chemotherapies are derived from plants and are considered <term id="term-00090">plant alkaloids</term>. Vinca alkaloids are the most common plant alkaloids. Vincristine, vinblastine, and etoposide (VP-16) are all plant alkaloids that cause misalignment of chromosomes in cancer cells, resulting in apoptosis, or cell death. These are useful in treating lymphomas, leukemias, Kaposi sarcoma, squamous cell carcinomas, lung cancer and bladder cancer. Side effects include myelosuppression, mouth sores, nausea, vomiting and fatigue. The most significant adverse effects involve the nervous system. Because plant alkaloids decrease nerve function, these substances can cause hearing loss, neuropathies, and severe constipation that may develop into a paralytic ileus. Neurologic symptoms may necessitate discontinuance of therapy. Vinca alkaloids are often part of regimens that also require intrathecal administration. However, close attention and safety measures (i.e., drug is always compounded in an IV bag for infusion) must be in place to ensure these are <emphasis effect="italics">never</emphasis> administered via the intrathecal route. The drugs are fatal if administered intrathecally.</para>
+    <para id="para-00068">[link]Table 8.9[/link] lists common plant alkaloids and typical routes and dosing for adult clients.</para>
+          <table class="vertically-tight" id="table-00009">
+         <tgroup cols="2">
+          <colspec colnum="1" colname="c1" colwidth="1*"/>
+          <colspec colnum="2" colname="c2" colwidth="2*"/>
+         <thead>
+          <row>
+          <entry valign="middle" align="center"><span class="blue-text">Drug</span></entry>
+          <entry valign="middle" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+          </row>
+          </thead>
+          <tbody>
+          <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00091">Vincristine</term><newline/>
+    (<term class="no-emphasis" id="term-00092">Oncovin</term>)</entry>
+    <entry valign="middle" align="left">1.4 mg/m<sup>2</sup> IV weekly.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00093">Vinblastine</term><newline/>
+    (<term class="no-emphasis" id="term-00094">Velban</term>)</entry>
+    <entry valign="middle" align="left">3.7 mg/m<sup>2</sup> IV initial dose; subsequent doses up to 18.5 mg/m<sup>2</sup> administered weekly.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00095">Etoposide</term><newline/>
+    (<term class="no-emphasis" id="term-00096">Vepesid, VP-16</term>)</entry>
+    <entry valign="middle" align="left">35–100 mg/m<sup>2</sup> IV; frequency depends on cancer type and other agents administered.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Plant Alkaloids (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00023">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00069">Peripheral neuropathy is a common but serious adverse effect of plant alkaloids. Both motor and sensory functions are affected, and neuropathy can be severe enough to result in paralytic ileus. Myelosuppression is another adverse effect caused by plant alkaloids. These drugs are classified as irritants, which may cause significant irritation to the skin should extravasation occur.</para>
+    <para id="para-00070">[link]Table 8.10[/link] is a drug prototype chart for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00010">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Plant alkaloid<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Causes chromosomal link errors, results in apoptosis of cancerous cells</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">rug Dosage</span></emphasis><newline/>
+    1.4 mg/m<sup>2</sup> IV weekly.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Lymphoma<newline/>
+    Leukemia<newline/>
+    Kaposi sarcoma<newline/>
+    Squamous cell carcinoma<newline/>
+    Lung cancer<newline/>
+    Bladder cancer<newline count="2"/>
+    <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+    Prevents DNA synthesis to cause tumor cell death</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Anticonvulsants<newline/>
+    Amiodarone<newline/>
+    Carvedilol<newline/>
+    Erythromycin<newline/>
+    Fluconazole<newline/>
+    Rifampin<newline/>
+    Warfarin<newline count="2"/>
+    <emphasis effect="bold">Food Interactions</emphasis><newline/>
+    Grapefruit</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Neuropathy<newline/>
+    Severe constipation<newline/>
+    Paralytic ileus<newline/>
+    Urinary retention<newline/>
+    Hearing loss<newline/>
+    Alopecia</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity<newline/>
+    Charcot-Marie-Tooth disease<newline count="2"/>
+    Caution:<newline/>
+    For intravenous administration only<newline/>
+    Fatal if administered intrathecally<newline/>
+    Causes severe irritation with extravasation<newline/>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Vincristine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00024">
+    <title>Nursing Implications</title>
+    <para id="para-00071">The nurse should do the following for clients who are receiving plant alkaloid agents:</para>
+    <list list-type="bulleted" id="list-00018">
+    <item>Assess client overall well-being prior chemotherapy administration including vital signs, hydration status, oral mucosa, skin, weight, bowel function, and signs of neuropathy.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes.</item>
+    <item>Observe clients for adverse effects before, during, and after treatment.</item>
+    <item>Inspect drug preparation to ensure that these drugs are properly mixed and prepared as intravenous infusions. Do not administer these medications directly to the client using a syringe. This will decrease the risk of having the medication erroneously administered intrathecally, which can be fatal. Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering chemotherapies.</item>
+    <item>Be prepared to manage extravasation and follow spill protocols.</item>
+    <item>Be aware of the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions, bleeding, and sepsis.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00013">
+    <para id="para-00072"><emphasis effect="bold">The client taking a plant alkaloid agent should</emphasis>:</para>
+    <list list-type="bulleted" id="list-00019">
+    <item>Report the following signs and symptoms to the health care provider: fever, chills, productive cough, urinary symptoms, hematuria, decreased bowel elimination or constipation, hearing loss and peripheral neuropathy.</item>
+    <item>Remain well hydrated and use stool softeners and laxatives when needed.</item>
+    <item>Report side effects including nausea and vomiting, mucositis, and constipation.</item>
+    <item>Learn how to care for long-term intravenous accesses at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Understand the need for surveillance for long-term effects and secondary malignancies.</item>
+    </list>
+    <para id="para-00073"><emphasis effect="bold">The client taking a plant alkaloid agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00020">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to avoid direct contact with potentially contaminated soil.</item>
+    <item>Clean feline litter boxes to protect hands from contamination by bacteria or parasites.</item>
+    <item>Take vaccines without consulting with their health care provider.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00025">
+    <title>Taxanes</title>
+    <para id="para-00074"><term class="no-emphasis" id="term-00097">Taxanes</term> are a group of chemotherapeutic agents that were developed from the bark of a yew tree. These are effective in the treatment of breast, ovarian, prostate, gastric, esophageal, pancreatic, and non-small cell lung cancers as well as Kaposi sarcoma. These agents are typically used in combination with other agents rather than as a monotherapy. Adverse reactions include, most notably, hypersensitivity reactions. For this reason, clients will be premedicated, usually with corticosteroids, but may also receive diphenhydramine and a histamine-2 receptor antagonist to prevent these reactions from occurring. Other adverse effects include hepatotoxicity, fluid retention, myelosuppression, alopecia, skin and nail changes, and nausea, vomiting and diarrhea.</para>
+    <para id="para-00075">[link]Table 8.11[/link] lists common taxanes and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00011">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00098">Docetaxel</term><newline/>
+    (<term class="no-emphasis" id="term-00099">Taxotere</term>)</entry>
+    <entry valign="top" align="left">60–100 mg/m<sup>2</sup> IV every 3 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00100">Paclitaxel</term><newline/>
+    (<term class="no-emphasis" id="term-00101">Taxol</term>)</entry>
+    <entry valign="top" align="left">100–175 mg/m<sup>2</sup> IV every 3 weeks.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Emphasis Table: Taxanes (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00026">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00076">Taxanes are most known for the adverse effect of hypersensitivity reactions. A test dose and premedication with antihistamines and acetaminophen may be used prior administration. Myelosuppression may result in lowered levels of platelets and white blood cells. Taxanes are contraindicated in solid tumors with myelosuppression with neutrophil counts under 1500 cells/mm<sup>3</sup>. Peripheral neuropathy is also commonly associated with taxanes, resulting in pain and limited movement. Fatigue and arthralgias are also seen with these drugs. Cardiovascular changes including hypotension, bradycardia, hypertension, and electrocardiogram (ECG, EKG) changes may be noted (DailyMed, <emphasis effect="italics">Paclitaxel</emphasis>, 2023).</para>
+    <para id="para-00077">[link]Table 8.12[/link] is a drug prototype chart for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00012">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="col1" colwidth="1*"/>
+    <colspec colnum="2" colname="col2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+    Taxane<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Binds to microtubules to block spindle formation during mitosis, blocking cell division during the M phase of mitosis</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+    100–175 mg/m<sup>2</sup> IV every 3 weeks.</entry>
+        </row>
+    <row>
+    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Breast, ovarian, and non-small cell lung cancers<newline/>
+    Kaposi sarcoma<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+    Prevents tumor cell growth</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Midazolam<newline/>
+    Buspirone<newline/>
+    Statins<newline/>
+    Felodipine<newline/>
+    Protease inhibitors<newline/>
+    Repaglinide<newline/>
+    Rifampin</entry>
+    </row>
+    <row>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+    Hypersensitivity reactions<newline/>
+    Myelosuppression<newline/>
+    ECG changes<newline/>
+    Peripheral neuropathy<newline/>
+    Arthralgia<newline/>
+    Nausea<newline/>
+    Vomiting<newline/>
+    Diarrhea<newline/>
+    Mucositis<newline/>
+    Alopecia<newline/>
+    Infusion site reactions</entry>
+    <entry valign="top">
+    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+    Hypersensitivity<newline/>
+    Myelosuppression with neutrophil counts under 1500 µL<newline count="2"/>
+    Caution:<newline/>
+    May cause anaphylaxis due to the medication vehicle, not the drug itself<newline/>
+    Must premedicate</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Drug Prototype Table: Paclitaxel (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00027">
+    <title>Nursing Implications</title>
+    <para id="para-00078">The nurse should do the following for clients who are receiving taxane agents:</para>
+    <list list-type="bulleted" id="list-00021">
+    <item>Assess client overall well-being prior chemotherapy administration, including vital signs, hydration status, oral mucosa, skin, weight, cardiac function, and signs of neuropathy.</item>
+    <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes.</item>
+    <item>Observe clients for adverse effects before, during, and after treatment.</item>
+    <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
+    <item>Adhere to proper handling and administration procedures when administering chemotherapies.</item>
+    <item>Be prepared to manage extravasation and follow spill protocols.</item>
+    <item>Be aware of the drug’s black box warnings.</item>
+    <item>Recognize and manage emergent situations such as hypersensitivity reactions, bleeding, and sepsis.</item>
+    <item>Assess for and provide supportive therapies as needed.</item>
+    <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00014">
+    <para id="para-00079"><emphasis effect="bold">The client taking a taxane agent should:</emphasis></para>
+    <list list-type="bulleted" id="list-00022">
+    <item>Recognize signs and symptoms to report to the health care provider: fever, chills, productive cough, urinary symptoms, hematuria, decreased bowel elimination or constipation, hearing loss, and peripheral neuropathy.</item>
+    <item>Understand the importance of remaining well hydrated and use stool softeners and laxatives when needed.</item>
+    <item>Learn how to manage side effects including nausea and vomiting, mucositis, and constipation.</item>
+    <item>Understand how to care for long-term intravenous accesses at home.</item>
+    <item>Understand the need for frequent follow-up and laboratory tests.</item>
+    <item>Know which drug/food interactions to avoid.</item>
+    <item>Understand the need for surveillance and follow-up for management of long-term effects and early identification of secondary malignancies.</item>
+    </list>
+    <para id="para-00080"><emphasis effect="bold">The client taking a taxane agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00023">
+    <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
+    <item>Garden without the use of gloves to protect hands from exposure to bacteria and mold.</item>
+    <item>Clean feline litter boxes to protect hands from direct contact with bacteria.</item>
+    <item>Take vaccines without consulting with their health care provider.</item>
+    <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
+    <item>Begin taking new supplements or medications without consulting with their health care provider.</item>
+    <item>Become pregnant.</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00028">
+    <title>Common Drugs Used as Supportive Therapies for Clients Receiving Chemotherapy</title>
+    <para id="para-00081">Because chemotherapy regimens are so complex, supportive care with other pharmacologic agents is usually required. Management of adverse effects is critical to safe and successful chemotherapy treatment. Myelosuppression and nausea and vomiting are most commonly managed with supportive therapies. Corticosteroids and biologic colony stimulating factors are frontline supportive therapies. [link]Table 8.13[/link] encompasses the most common supportive therapies that may be necessary when administering chemotherapy.</para>
+    <table class="vertically-tight" id="table-00013">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text">Classification/Drug</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Routes and Dosages</span></entry>
+    <entry valign="middle" align="center"><span class="blue-text">Use</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c3"><term class="no-emphasis" id="term-00102"><span class="blue-text">Corticosteroids</span></term></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00103">Dexamethasone</term><newline/>
+    (<term class="no-emphasis" id="term-00104">Decadron</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral:</emphasis> 0.75–9 mg/day.<newline/>
+    <emphasis effect="italics">IV/intramuscular:</emphasis> 0.5–9 mg/day.</entry>
+    <entry valign="top" align="left">Decreases nausea and vomiting.<newline/>
+    Used as premedication to reduce hypersensitivity reactions.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c3"><term class="no-emphasis" id="term-00105"><span class="blue-text">Antihistamines</span></term></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00106">Diphenhydramine</term><newline/>
+    (<term class="no-emphasis" id="term-00107">Benadryl</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral:</emphasis> 25–50 mg every 4–6 hours as needed.<newline/>
+    <emphasis effect="italics">IV/intramuscular</emphasis>: 10–50 mg up to 100 mg if required; 400 mg maximum daily dose.</entry>
+    <entry valign="top" align="left">Treats/prevents hypersensitivity reactions.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00108">Loratadine</term>
+    (<term class="no-emphasis" id="term-00109">Allegra</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Oral:</emphasis> 10 mg 1 hour prior to chemotherapy initiation.</entry>
+    <entry valign="top" align="left">Prevents hypersensitivity reactions.</entry></row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c3"><term class="no-emphasis" id="term-00110"><span class="blue-text">Colony Stimulating Factors</span></term></entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00111">Filgrastim</term><newline/>
+    (<term class="no-emphasis" id="term-00112">Neupogen</term>)</entry>
+    <entry valign="top" align="left">5–10 mcg/kg/day administered as a single daily subcutaneous or IV injection or by continuous subcutaneous or IV infusion.</entry>
+    <entry valign="top" align="left">Stimulates bone marrow stem cells to produce increased neutrophil production.<newline/>
+    Prevents infection.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00113">Pegfilgrastim</term><newline/>
+    (<term class="no-emphasis" id="term-00114">Neulasta</term>)</entry>
+    <entry valign="top" align="left">6 mg/dose subcutaneously</entry>
+    <entry valign="top" align="left">Stimulates bone marrow stem cells to produce increased neutrophil production.<newline/>
+    Prevents infection.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00115">Epoetin alfa</term><newline/>
+    <term class="no-emphasis" id="term-00116"> (Epogen</term>)</entry>
+    <entry valign="top" align="left">150 units/kg subcutaneously 3 times weekly or 40,000 units/dose weekly; titrated based on hemoglobin response.</entry>
+    <entry valign="top" align="left">Stimulates bone marrow stem cells to produce increased erythocyte production.<newline/>
+    Prevents/treats anemia.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Most Supportive Therapies Used with Chemotherapy (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <para id="para-00082">These supportive therapies can increase the client’s quality of life as well as decrease risks associated with pancytopenia, such as sepsis and decreased oxygen-carrying capacity of the blood. The advent of biologic colony stimulating factors marked a significant decrease in sepsis-related deaths for clients receiving chemotherapy. Ondansetron, specifically, has greatly changed the way chemotherapy-related nausea and vomiting are treated. Traditional phenothiazines cause vein and tissue irritation as well as central nervous system depression, placing a client at risk for injury. Ondansetron does not affect central nervous system function, reducing the risk of falls and other injuries.</para>
+    <note class="unfolding-casestudy" id="note-00015">
+    <title>Part A</title>
+    <para id="para-00083">Read the following clinical scenario to answer the questions that follow. This case will evolve throughout the chapter.</para>
+    <para id="para-00084">Guadalupe Himenez is a 32-year-old female client who presents to the oncology clinic for her first visit after recently being diagnosed with breast cancer. She initially saw her gynecologist after detecting a lump in her left breast. Her provider ordered a mammogram and biopsy, which determined the mass was malignant, and a surgeon performed a lumpectomy to remove it. The surgeon has referred her to the oncologist to start chemotherapy. Prior to this, she has been in good health without any chronic medical conditions.</para>
+    <para id="para-00085"><emphasis effect="bold">Social History</emphasis><newline/>
+    Tobacco use: None<newline/>
+    Alcohol use: Occasionally drinks socially<newline/>
+    Married with two children</para>
+    <para id="para-00086"><emphasis effect="bold">Current Medications</emphasis><newline/>
+    None</para>
+    <table class="vertically-tight" id="table-00014">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+    <entry valign="top" align="center"><span class="blue-text">Physical Examination</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Temperature:</emphasis></entry>
+    <entry valign="top">98.2°F</entry>
+    <entry valign="top" morerows="6">
+    <list list-type="bulleted" id="list-00024">
+    <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
+    <item><emphasis effect="italics">Cardiovascular:</emphasis> S1, S2 noted</item>
+    <item><emphasis effect="italics">Respiratory:</emphasis> Clear bilaterally</item>
+    <item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended</item>
+    <item><emphasis effect="italics">GU:</emphasis> Reports normal urine output</item>
+    <item>Neurological: Within normal limits</item>
+    <item><emphasis effect="italics">Integumentary:</emphasis> Skin appropriate; healing surgical incision noted on the left breast; no signs of infection</item>
+    <item><emphasis effect="italics">GYN:</emphasis> History of two pregnancies with two living children</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+    <entry valign="top">122/76 mm Hg</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Heart rate:</emphasis></entry>
+    <entry valign="top">73 beats/min</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Height:</emphasis></entry>
+    <entry valign="top">5’7”</entry>
+    </row>
+    <row>
+    <entry valign="top"><emphasis effect="italics">Weight:</emphasis></entry>
+    <entry valign="top">174 pounds</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00087"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_UCSQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00088"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_UCSQ2"/></para></problem></exercise>
+    </note>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>alopecia</term> <meaning>abnormal loss of body hair</meaning></definition>
+    <definition id="def-00002"><term>chemotherapy</term> <meaning>drug therapy focused on killing cancer cells</meaning></definition>
+    <definition id="def-00003"><term>erythrocytes</term> <meaning>a red blood cell</meaning></definition>
+    <definition id="def-00004"><term>erythrocytopenia</term> <meaning>a decrease below normal levels of circulating erythrocytes</meaning></definition>
+    <definition id="def-00005"><term>extravasate</term> <meaning>the leakage of a vesicant drug into the tissues surrounding the intravenous infusion site</meaning></definition>
+    <definition id="def-00006"><term>febrile neutropenia</term> <meaning>occurrence of a fever during a period of neutropenia, when the risk of infection is higher than normal</meaning></definition>
+    <definition id="def-00007"><term>fibrosis</term> <meaning>the thickening or scarring of connective tissue</meaning></definition>
+    <definition id="def-00008"><term>granulocytes</term> <meaning>a white blood cell type; assists in fighting invading organisms</meaning></definition>
+    <definition id="def-00009"><term>granulocytopenia</term> <meaning>a decrease below normal levels of circulating granulocytes</meaning></definition>
+    <definition id="def-00010"><term>hemorrhagic cystitis</term> <meaning>inflammation of the bladder lining, resulting in bleeding and hematuria</meaning></definition>
+    <definition id="def-00011"><term>leukocytes</term> <meaning>a white blood cell type; assists in fighting invading organisms</meaning></definition>
+    <definition id="def-00012"><term>leukopenia</term> <meaning>a decrease below normal levels of circulating leukocytes</meaning></definition>
+    <definition id="def-00013"><term>mesna</term> <meaning>a medicine used to prevent hemorrhagic cystitis in clients receiving chemotherapy</meaning></definition>
+    <definition id="def-00014"><term>mucositis</term> <meaning> inflammation and ulceration of oral and/or gastrointestinal mucous membranes; often a side effect of chemotherapy or radiation therapy</meaning></definition>
+    <definition id="def-00015"><term>myelosuppression</term> <meaning>decreased production of blood cells by the stem cells in the bone marrow</meaning></definition>
+    <definition id="def-00016"><term>nadir</term> <meaning>the point after a chemotherapy treatment at which a client’s blood cell counts are at the lowest level before recovery</meaning></definition>
+    <definition id="def-00017"><term>neutropenia</term> <meaning>a decrease below normal levels of circulating neutrophils</meaning></definition>
+    <definition id="def-00018"><term>neutrophils</term> <meaning>a white blood cell type; assists in fighting invading organisms</meaning></definition>
+    <definition id="def-00019"><term>pancytopenia</term> <meaning>a decrease below normal levels of all circulation blood cell lines including white blood cells, red blood cells, and platelets</meaning></definition>
+    <definition id="def-00020"><term>plant alkaloid</term> <meaning>naturally occurring organic nitrogen-containing bases derived from plants</meaning></definition>
+    <definition id="def-00021"><term>pulmonary toxicity</term> <meaning>lung damage</meaning></definition>
+    <definition id="def-00022"><term>secondary cancer</term> <meaning>a cancer that develops after exposure to treatment for a previous cancer</meaning></definition>
+    <definition id="def-00023"><term>thrombocytes</term> <meaning>a platelet: a cell that helps to form blood clots</meaning></definition>
+    <definition id="def-00024"><term>thrombocytopenia</term> <meaning>a decrease below normal levels of circulating thrombocytes</meaning></definition>
+    <definition id="def-00025"><term>tumor lysis syndrome</term> <meaning>a condition occurring after administration of chemotherapy resulting in cell death that releases cellular contents into the blood</meaning></definition>
+    <definition id="def-00026"><term>vesicant</term> <meaning>any intravenous drug capable of causing blistering and tissue damage should extravasation occur</meaning></definition>
+    </glossary>
 </document>

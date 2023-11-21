@@ -6,8 +6,16 @@
     <md:uuid>b2727817-b2dd-42ab-9dd2-6a2d7b202dd9</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="An iridescent illustration shows cells clustered together.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit03_06_08_001_Splash.jpg"/></media>
+    <caption>The immune system is a complex network of cells, tissues, and organs that work together to protect the body from harmful substances, such as pathogens. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption>
+    </figure>
+    <para id="para-00001">Cancer is a broad term used to describe the development of cell mutations that cause unrestricted cell growth, ultimately resulting in malignant neoplasms or tumors (<term id="term-00001">benign</term> overgrowths can also occur but will not be discussed in this chapter). These malignancies can occur in many areas of the body and can <term id="term-00002">metastasize</term>, or spread, to other sites from which the tumor originated.</para>
+    <para id="para-00002">Cancer care is a large part of the health care economy. However, when considering cancer care, nurses should be aware that there are many disparities in the provision of cancer care. Nurses should consider these disparities in order to understand the issues and challenges for clients and health care providers. Nurses must be client advocates to help negate those disparities in the care of clients with cancer. The <term class="no-emphasis" id="term-00003">National Cancer Institute</term> provides <link url="https://openstax.org/r/cancergov">substantial information about the disparities and effects on client care</link>.</para>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>benign</term> <meaning>not causing harmful effects</meaning></definition>
+    <definition id="def-00002"><term>metastasize</term> <meaning>spread to other sites in the body</meaning></definition>
+    </glossary>
 </document>
