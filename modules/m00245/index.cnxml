@@ -511,8 +511,6 @@ Renal impairment</entry>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00065">Nirmatrelvir/ritonavir</term><newline/>
 (<term class="no-emphasis" id="term-00066">Paxlovid</term>)</entry>
-</row>
-<row>
 <entry valign="top" align="left">300 mg nirmatrelvir plus 100 mg ritonavir orally twice daily for 5 days.</entry>
 </row>
 <row>
@@ -537,14 +535,14 @@ Renal impairment</entry>
 <tbody>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
-Antiviral agent<newline count="2"/>
+Antiviral agent<newline/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="2"/>
 Inhibits the SARS-CoV-2 main protease, which inhibits viral replication</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 300 mg nirmatrelvir plus 100 mg ritonavir orally twice daily for 5 days.</entry>
 </row>
 <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
-COVID-19 infection<newline count="2"/>
+COVID-19 infection<newline/>
 <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
 Treats infections caused by the SARS-CoV-2 virus</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
@@ -684,7 +682,7 @@ Inhibits fungal cytochrome P450 activity, decreasing ergosterol synthesis and in
 </row>
 <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
 Treatment of fungal infections caused by susceptible fungi<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Treats fungal infections caused by susceptible organisms</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 CYP3A4 substrates<newline/>
