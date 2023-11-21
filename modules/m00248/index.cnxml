@@ -46,7 +46,7 @@
 <title>Drug Therapy for Multidrug-Resistant Tubercular Infections</title>
 <para id="para-00009">Growing resistance to standard therapy is an ongoing concern for health care professionals managing TB. Health care providers should take care to select agents that the mycobacterium is susceptible to and weigh that efficacy against the adverse effect profiles of these agents. Selection should be based on sensitivity testing performed on samples collected from the client at the time of diagnosis and is made based on the discretion of an expert in infectious disease. Alternative agents include aminosalicylate sodium, capreomycin, ethionamide, and streptomycin. Resistant cases of TB should be referred to infectious disease specialists to ensure appropriate management of these complex cases.</para>
 <para id="para-00010"><link target-id="table-00001" document="m00248"/> lists <term class="no-emphasis" id="term-00002">antitubercular drugs</term> and typical routes and dosing for adult clients, along with the typical treatment times for standard TB regimens.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -181,7 +181,7 @@ None<newline count="2"/>
 <emphasis effect="bold">Current Medications</emphasis><newline/>
 Acetaminophen 650 mg orally every 6 hours as needed for fever
 Dextromethorphan 20 mg orally every 4 hours as needed for cough, which has not provided relief
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
