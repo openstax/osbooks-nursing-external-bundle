@@ -6,8 +6,150 @@
     <md:uuid>cc0a287d-71b9-490b-a82e-73fd28e2366e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list list-type="bulleted" id="list-00001">
+<item>Identify the characteristics of phosphodiesterase 5 inhibitor drugs used to treat erectile dysfunction.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of phosphodiesterase 5 inhibitor drugs used to treat erectile dysfunction.</item>
+<item>Describe nursing implications of phosphodiesterase 5 inhibitor drugs used to treat erectile dysfunction.</item>
+<item>Explain the client education related to phosphodiesterase 5 inhibitor drugs used to treat erectile dysfunction.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Phosphodiesterase 5 (PDE5) inhibitors</term> are used to treat erectile dysfunction. PDE5 is an enzyme located within the walls of blood vessels that impacts blood flow. PDE5 inhibitors prevent the PDE5 enzyme from functioning, which results in the relaxation of the blood vessels and increased blood flow. PDE5 inhibitors work in cases when blood flow to the corpus cavernosum is inadequate, such as in aging or due to vascular or neurological problems. However, these medications cannot be used for every cause of erectile dysfunction, and they do have serious side effects if taken incorrectly, such as taking more than 1 dose in 24 hours or taking with nitroglycerin. Sildenafil, tadalafil, avanafil, and vardenafil are the common PDE inhibitors. (Use of PDE5 inhibitors for treating benign prostatic hypoplasia is discussed in <link document="m00443">Urinary and Bladder Disorder Drugs</link>.</para>
+<para id="para-00003">[link]<emphasis effect="bold">Table 36.23</emphasis>[/link] lists common PDE5 inhibitors and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Sildenafil</term><newline/>
+(<term class="no-emphasis" id="term-00003">Viagra</term>)</entry>
+<entry valign="top" align="left">50 mg orally, as needed, approximately 60 minutes before sexual activity.<newline/>
+Dose range: 25–100 mg. Maximum of 1 dose/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Tadalafil</term><newline/>
+(<term class="no-emphasis" id="term-00005">Cialis</term>)</entry>
+<entry valign="top" align="left">10 mg orally, as needed, approximately 60 minutes before sexual activity. Dose range: 5–20 mg. Maximum of 1 dose/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Avanafil</term><newline/>
+(<term class="no-emphasis" id="term-00007">Stendra</term>)
+</entry>
+<entry valign="top" align="left">100 mg orally, as needed, as early as approximately 15 minutes before sexual activity.<newline/>
+Dose range: 50–200 mg. Maximum of 1 dose/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Vardenafil</term><newline/>
+(<term class="no-emphasis" id="term-00009">Levitra</term>)</entry>
+<entry valign="top" align="left">10 mg orally, as needed, approximately 60 minutes before sexual activity. Dose range: 5–20 mg. Maximum of 1 dose/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Emphasis Table: Phosphodiesterase 5 Inhibitors (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Contraindications and Adverse Effects</title>
+<para id="para-00004">Contraindications for PDE5 inhibitors include the concomitant use of nitrates or alpha-adrenergic blockers, medications often prescribed for cardiovascular problems. The drug interaction can cause life-threatening hypotension and death. Another contraindication is any obstructive condition or anatomical deformation of the penis (DailyMed; Dhaliwal &amp; Gupta, 2023).</para>
+<para id="para-00005"><emphasis effect="bold">Table 36.24</emphasis>[/link] is a drug prototype table for PDE5 inhibitors featuring sildenafil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Phosphodiesterase 5 inhibitor<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Smooth muscle relaxation and inflow of blood to the corpus cavernosum</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+50 mg orally, as needed, approximately 1 hour before sexual activity.<newline/>
+Dose range: 25–100 mg. Maximum of 1 dose/day.</entry></row>
+<row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Male erectile dysfunction<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Enhanced penile erection</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Nitrates (all forms)<newline/>
+Alpha blockers<newline/>
+Strong CYP3A4 inhibitors<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry></row>
+<row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Headaches<newline/>
+Flushing<newline/>
+Symptoms resembling those of the common cold<newline/>
+Stomach upset<newline/>
+Muscle and back pain<newline/>
+Dizziness, lightheadedness<newline/>
+Nausea<newline/>
+Abnormal vision<newline/>
+Nasal congestion</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Known hypersensitivity to the drug or its components<newline count="2"/>
+Caution:<newline/>
+History of heart attack, heart failure, angina, severe arrhythmia, or stroke in the last 6 months<newline/>
+Hypotension or hypertension (resting BP &lt;90/50 mm Hg or BP >170/110 mm Hg)<newline/>
+Hepatic impairment<newline/>
+Severe renal impairment<newline/>
+Anatomical deformation of the penis</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype Table: Sildenafil (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Nursing Implications</title>
+<para id="para-00006">The nurse should do the following for clients using phosphodiesterase 5 inhibitors:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Assess understanding of indication for specific drug therapy and ability to comprehend instructions.</item>
+<item>Perform physical assessment as appropriate and obtain any diagnostic testing necessary.</item>
+<item>Obtain list of current medications and any OTC or herbal remedies the client uses, especially regarding nitrates and alpha blockers.</item>
+<item>Assess past medical history and family history for cardiovascular disease (heart attack, stroke, hypertension, serious arrhythmias), prostate cancer, BPH, and liver or renal disease.</item>
+<item>Assess smoking history and use of alcohol.</item>
+<item>Assess ability to administer drug at home and follow medication regimen.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00001">
+<para id="para-00007"><emphasis effect="bold">The client taking a phosphodiesterase 5 inhibitor should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Understand the medication’s purpose, side effects, contraindications, and precautions.</item>
+<item>Monitor any signs and symptoms of adverse effects and report those that require immediate attention (e.g., vision or hearing loss, priapism).</item>
+<item>Know how to manage the side effects of the specific drug therapy.</item>
+<item>Understand drug, food, and/or herbal interactions that could be harmful.</item>
+<item>Verbalize the importance of follow-up appointments to manage the medication regimen and to observe for adverse effects.</item>
+</list>
+<para id="para-00008"><emphasis effect="bold">The client taking a phosphodiesterase 5 inhibitor <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Take nitrates and alpha blockers within 48 hours of taking PDE5 inhibitors.</item>
+<item>Take these medications after a high-fat meal.</item>
+</list>
+</note>
+<note class="black-box" id="note-00002">
+<para id="para-00009"><emphasis effect="bold">Phosphodiesterase 5 (PDE5) Inhibitors</emphasis></para>
+<para id="para-00010">PDE5 inhibitors can cause:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Severe hypotension and death when used within 48 hours of any form of nitrate medication</item>
+<item>Prolonged erection greater than 4 hours and priapism (painful erections greater than 6 hours in duration)</item>
+<item>Sudden loss of vision in one or both eyes (may be a sign of nonarteritic anterior ischemic optic neuropathy)</item>
+<item>Sudden decrease in or loss of hearing</item>
+</list>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>phosphodiesterase 5 (PDE5) inhibitors</term> <meaning> a group of medications developed to aid in penile erection for the purpose of sexual intercourse</meaning></definition>
+</glossary>
 </document>
