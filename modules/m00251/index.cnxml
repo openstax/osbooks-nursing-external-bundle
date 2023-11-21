@@ -30,7 +30,7 @@
     </section>
     <section id="sect-00004">
     <title>Cancer Treatments</title>
-    <para id="para-00004">Chemotherapy may be given for many different reasons. Often, it is given as a curative measure to eradicate all malignant cells. However, cure is not always realistic. When cure is not attainable, chemotherapy can be used to decrease tumor size and prevent metastasis, and sometimes it may be used for palliation and symptom control. Differing regimens of chemotherapy are used for varying client needs (see [link]Table 8.1[/link]).</para>
+    <para id="para-00004">Chemotherapy may be given for many different reasons. Often, it is given as a curative measure to eradicate all malignant cells. However, cure is not always realistic. When cure is not attainable, chemotherapy can be used to decrease tumor size and prevent metastasis, and sometimes it may be used for palliation and symptom control. Differing regimens of chemotherapy are used for varying client needs (see <link target-id="table-00001" document="m00251"/>).</para>
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -80,7 +80,7 @@
     </section>
     <section id="sect-00006">
     <title>Routes of Chemotherapy Administration</title>
-    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicants</term>, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see [link]Figure 8.3[/link]).</para>
+    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicants</term>, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see <link target-id="fig-00001" document="m00251"/>).</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="Numerous skin lesions of different sizes and color on a patient's forearm. One lesion is very large, dark, and scaly, while the others around it are coin sized circles.">
     <image mime-type="image/png" src="../../media/PHA_Figure_08_02_003.jpg"/></media>
@@ -90,7 +90,7 @@
     <title>Administering Vesicant Drugs</title>
     <para id="para-00008">When administering a vesicant drug, the nurse should use extreme caution. If, for any reason, the nurse feels that an intravenous site could be compromised, the infusion should be immediately stopped and a new access obtained. Should an actual extravasation occur, the health care provider should be notified and any applicable protocols should be followed.</para>
     </note>
-    <para id="para-00009">Chemotherapy may be given by different routes, depending on the cancer location. When cancer develops in a body cavity or in the brain or spinal column, treatment may require the use of special routes of administration to overcome the blood-brain barrier or to increase effectiveness by placing drug therapy more directly at the tumor site. [link]Table 8.2[/link] describes the different methods of <term class="no-emphasis" id="term-00010">chemotherapy administration</term>.</para>
+    <para id="para-00009">Chemotherapy may be given by different routes, depending on the cancer location. When cancer develops in a body cavity or in the brain or spinal column, treatment may require the use of special routes of administration to overcome the blood-brain barrier or to increase effectiveness by placing drug therapy more directly at the tumor site. <link target-id="table-00002" document="m00251"/> describes the different methods of <term class="no-emphasis" id="term-00010">chemotherapy administration</term>.</para>
     <table class="vertically-tight" id="table-00002">
     <tgroup cols="1">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -121,7 +121,7 @@
     </section>
     <section id="sect-00007">
     <title>Types of Chemotherapy</title>
-    <para id="para-00010">There are many different classifications of chemotherapy drugs, many of which fall into one of two broad categories—cell-cycle specific and cell-cycle nonspecific therapies. Each cell goes through five phases of mitosis before producing daughter cells (see Figure 8.4). Chemotherapy agents that cause cancer cell death in all phases of mitosis are referred to as <term class="no-emphasis" id="term-00011">cell-cycle nonspecific (CCNS)</term>, whereas those that are effective only in one phase of mitosis are called <term class="no-emphasis" id="term-00012">cell-cycle specific agents (CCS)</term>. In combination chemotherapy, both CCS and NCCS agents are used to eliminate cancer cells more completely.</para>
+    <para id="para-00010">There are many different classifications of chemotherapy drugs, many of which fall into one of two broad categories—cell-cycle specific and cell-cycle nonspecific therapies. Each cell goes through five phases of mitosis before producing daughter cells (see <link target-id="fig-00002" document="m00251"/>). Chemotherapy agents that cause cancer cell death in all phases of mitosis are referred to as <term class="no-emphasis" id="term-00011">cell-cycle nonspecific (CCNS)</term>, whereas those that are effective only in one phase of mitosis are called <term class="no-emphasis" id="term-00012">cell-cycle specific agents (CCS)</term>. In combination chemotherapy, both CCS and NCCS agents are used to eliminate cancer cells more completely.</para>
     <figure class="scaled-down" id="fig-00002">
     <media alt="A diagram shows one complete cell cycle. In the mitotic phase, mitosis and cytokinesis occurs, causing the formation of two daughter cells. Next is interphase G1 where cell growth occurs, followed by interphase S where D N A synthesis occurs. The final stage is Interphase G2 where more cell growth occurs.">
     <image mime-type="image/png" src="../../media/PHA_Figure_08_02_004.png"/></media>
@@ -205,7 +205,7 @@
     <title>Subclass 3: Alkyl Sulfonates</title>
     <para id="para-00032">Alkyl sulfonates such as busulfan are administered as an intravenous infusion rather than IV push. These are very potent drugs, used to treat chronic leukemia, and they have severe adverse effects. These include myelosuppression, stomatitis, nausea, vomiting, diarrhea, and electrolyte imbalances including hypomagnesemia and hypokalemia. Busulfan requires very close pharmacokinetic monitoring and dose alteration.</para>
     <para id="para-00033">Chemotherapy, while it acts to target cell functions and reproduction, may cause widespread undesired damage to normal cells. For this reason, many chemotherapeutic agents have black box warnings. These warnings are used to emphasize the most serious and potentially damaging side effects of a drug or a class of drugs. Boxed warnings are set specifically to make clients and health care providers aware of very serious risks of using certain medications. With chemotherapeutics, there are multiple reasons that a boxed warning may be issued. However, the most common reasons include myelosuppression, teratogenicity, and hypersensitivity reactions. Prior to administering a chemotherapeutic drug, nurses should check for boxed warnings so that drugs may be administered safely and clients may be educated regarding these warnings.</para>
-    <para id="para-00034">[link]Table 8.3[/link] lists common alkylating agents and typical routes and dosing for adult clients.</para>
+    <para id="para-00034"><link target-id="table-00003" document="m00251"/> lists common alkylating agents and typical routes and dosing for adult clients.</para>
     <table class="vertically-tight" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -282,7 +282,7 @@
     <section id="sect-00014">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00035">Alkylating agents are some of the most toxic chemotherapies used in cancer treatment. One benefit of these toxicities is that drugs like busulfan can be used to eradicate bone-marrow production prior to stem-cell and bone-marrow transplants. This reduces recurrence of the primary disease after transplant. However, alkylating agents are known for the negative effects associated with administration of these drugs. Short-term side effects include myelosuppression, which usually occurs 6–10 days after administration, with recovery after 14–21 days. Myelosuppression resulting in neutropenia can result in severe infections and sepsis. <term id="term-00052">Mucositis</term>, nausea, and vomiting are side effects that affect the client’s overall nutritional status. Neurotoxicity and alopecia are also short-term side effects. Long-term (delayed) effects of alkylating agents include pulmonary fibrosis, infertility, and secondary malignancies (Amjad &amp; Kasi, 2020). These long-term effects may occur months after treatment or may develop many years later.</para>
-    <para id="para-00036">[link]Table 8.4[/link] is a drug prototype table for alkylating agents featuring cyclophosphamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00036"><link target-id="table-00004" document="m00251"/> is a drug prototype table for alkylating agents featuring cyclophosphamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00004">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -394,7 +394,7 @@
     <section id="sect-00016">
     <title>Antimetabolites</title>
     <para id="para-00048">Antimetabolite chemotherapies are a group of drugs that prevent cancer cell growth by imitating metabolites, which are substances necessary for tumor cell growth. Cancer cells use these substances which, once inside the cell, prevent DNA replication. This results in cell death. Within this class, there are three types of metabolites that are inhibited: purines, pyrimidines, and folic acid. Each drug in this class specifically targets replacement of one of these substances. The most common drugs within this class are fluorouracil, fludarabine, gemcitabine, and methotrexate. Common side effects include nausea and vomiting, diarrhea, anorexia, stomatitis, alopecia, and myelosuppression. Antimetabolites are useful in treating leukemias, lymphomas, and cancers of the gastrointestinal and biliary tracts.</para>
-    <para id="para-00049">[link]Table 8.5[/link] lists common antimetabolite agents and typical routes and dosing for adult clients.</para>
+    <para id="para-00049"><link target-id="table-00005" document="m00251"/> lists common antimetabolite agents and typical routes and dosing for adult clients.</para>
           <table class="vertically-tight" id="table-00005">
          <tgroup cols="2">
           <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -472,7 +472,7 @@
     <section id="sect-00017">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00050">Antimetabolites are associated with many adverse effects. Folate antimetabolites are associated with myelosuppression, mucositis, hepatotoxicity, nephrotoxicity, and cutaneous reactions. Pyrimidine antimetabolites cause mucositis and myelosuppression as well but are also associated with dose-limiting hand-foot syndrome and diarrhea. Contraindications for fluorouracil include clients with dihydropyridine dehydrogenase (DPD) deficiency, which may result in toxic levels of fluorouracil. This can lead to cardiac dysfunction, colitis, neutropenia, and encephalopathy. Uridine triacetate is used to treat toxicity in these clients. Cytarabine is associated with inflammation of the conjunctiva. Corticosteroid eye drops are used prophylactically to prevent this. Purine antimetabolites, in addition to causing myelosuppression, also decrease the CD4 lymphocyte count, resulting in immunosuppression and risk of opportunistic infections (Amjad &amp; Kasi, 2020).</para>
-    <para id="para-00051">[link]Table 8.6[/link] is a drug prototype chart for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00051"><link target-id="table-00006" document="m00251"/> is a drug prototype chart for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00006">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -569,7 +569,7 @@
     </section>
     <section id="sect-00019">
     <title>Anthracyclines/Antitumor Antibiotics</title>
-    <para id="para-00061">Anthracyclines are some of the most potent chemotherapies on the market today. These drugs are very strong vesicants that cause severe necrosis when extravasated. Three major drugs in this class are daunorubicin, doxorubicin and epirubicin. These drugs cause cell death by preventing DNA replication. They do this by inhibiting topoisomerase, leaving DNA strands unable to unwind and replicate. The major side effects of anthracyclines are myelosuppression, nausea and vomiting, alopecia, skin, and nail hyperpigmentation, and, most notably, cardiotoxicity. Many drugs in this class are red in color and can resultingly cause urine and other body fluids to turn red/orange. This is a benign side effect but is usually discussed with clients to avoid any panic. These drugs are assigned maximum lifetime dose limits to aid in preventing debilitating chemotherapy-induced heart failure. Additionally, clients must have a left ventricular ejection fraction of at least 55% to receive these drugs. [link]Table 8.7[/link] lists common anthracyclines/antitumor antibiotics and typical routes and dosing for adult clients.</para>
+    <para id="para-00061">Anthracyclines are some of the most potent chemotherapies on the market today. These drugs are very strong vesicants that cause severe necrosis when extravasated. Three major drugs in this class are daunorubicin, doxorubicin and epirubicin. These drugs cause cell death by preventing DNA replication. They do this by inhibiting topoisomerase, leaving DNA strands unable to unwind and replicate. The major side effects of anthracyclines are myelosuppression, nausea and vomiting, alopecia, skin, and nail hyperpigmentation, and, most notably, cardiotoxicity. Many drugs in this class are red in color and can resultingly cause urine and other body fluids to turn red/orange. This is a benign side effect but is usually discussed with clients to avoid any panic. These drugs are assigned maximum lifetime dose limits to aid in preventing debilitating chemotherapy-induced heart failure. Additionally, clients must have a left ventricular ejection fraction of at least 55% to receive these drugs. <link target-id="table-00007" document="m00251"/> lists common anthracyclines/antitumor antibiotics and typical routes and dosing for adult clients.</para>
     <table class="vertically-tight" id="table-00007">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -626,7 +626,7 @@
     <section id="sect-00020">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00062">Anthracyclines and antitumor antibiotics are associated with very serious adverse effects. In general, the drugs cause significant myelosuppression, alopecia, and nausea and vomiting. Doxorubicin and daunorubicin are associated with both short- and long-term cardiotoxicity. These drugs are contraindicated in clients with preexisting cardiac disease when the left ventricular ejection fraction is less than 55%. Clients receiving doxorubicin are also limited to a lifetime cumulative dose of 550 mg/m<sup>2</sup>. Bleomycin administration requires vigilant monitoring for cumulative <term id="term-00088">pulmonary toxicity</term> and <term id="term-00089">fibrosis</term>. Doxorubicin and daunorubicin are vesicant drugs that cause severe necrosis if extravasation into tissues occurs.</para>
-    <para id="para-00063">[link]Table 8.8[/link] is a drug prototype table for anthracycline agents featuring doxorubicin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00063"><link target-id="table-00008" document="m00251"/> is a drug prototype table for anthracycline agents featuring doxorubicin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00008">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -726,7 +726,7 @@
     <section id="sect-00022">
     <title>Plant Alkaloids</title>
     <para id="para-00067">Several chemotherapies are derived from plants and are considered <term id="term-00090">plant alkaloids</term>. Vinca alkaloids are the most common plant alkaloids. Vincristine, vinblastine, and etoposide (VP-16) are all plant alkaloids that cause misalignment of chromosomes in cancer cells, resulting in apoptosis, or cell death. These are useful in treating lymphomas, leukemias, Kaposi sarcoma, squamous cell carcinomas, lung cancer and bladder cancer. Side effects include myelosuppression, mouth sores, nausea, vomiting and fatigue. The most significant adverse effects involve the nervous system. Because plant alkaloids decrease nerve function, these substances can cause hearing loss, neuropathies, and severe constipation that may develop into a paralytic ileus. Neurologic symptoms may necessitate discontinuance of therapy. Vinca alkaloids are often part of regimens that also require intrathecal administration. However, close attention and safety measures (i.e., drug is always compounded in an IV bag for infusion) must be in place to ensure these are <emphasis effect="italics">never</emphasis> administered via the intrathecal route. The drugs are fatal if administered intrathecally.</para>
-    <para id="para-00068">[link]Table 8.9[/link] lists common plant alkaloids and typical routes and dosing for adult clients.</para>
+    <para id="para-00068"><link target-id="table-00009" document="m00251"/> lists common plant alkaloids and typical routes and dosing for adult clients.</para>
           <table class="vertically-tight" id="table-00009">
          <tgroup cols="2">
           <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -761,7 +761,7 @@
     <section id="sect-00023">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00069">Peripheral neuropathy is a common but serious adverse effect of plant alkaloids. Both motor and sensory functions are affected, and neuropathy can be severe enough to result in paralytic ileus. Myelosuppression is another adverse effect caused by plant alkaloids. These drugs are classified as irritants, which may cause significant irritation to the skin should extravasation occur.</para>
-    <para id="para-00070">[link]Table 8.10[/link] is a drug prototype chart for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00070"><link target-id="table-00010" document="m00251"/> is a drug prototype chart for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00010">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -861,7 +861,7 @@
     <section id="sect-00025">
     <title>Taxanes</title>
     <para id="para-00074"><term class="no-emphasis" id="term-00097">Taxanes</term> are a group of chemotherapeutic agents that were developed from the bark of a yew tree. These are effective in the treatment of breast, ovarian, prostate, gastric, esophageal, pancreatic, and non-small cell lung cancers as well as Kaposi sarcoma. These agents are typically used in combination with other agents rather than as a monotherapy. Adverse reactions include, most notably, hypersensitivity reactions. For this reason, clients will be premedicated, usually with corticosteroids, but may also receive diphenhydramine and a histamine-2 receptor antagonist to prevent these reactions from occurring. Other adverse effects include hepatotoxicity, fluid retention, myelosuppression, alopecia, skin and nail changes, and nausea, vomiting and diarrhea.</para>
-    <para id="para-00075">[link]Table 8.11[/link] lists common taxanes and typical routes and dosing for adult clients.</para>
+    <para id="para-00075"><link target-id="table-00011" document="m00251"/> lists common taxanes and typical routes and dosing for adult clients.</para>
     <table class="vertically-tight" id="table-00011">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -891,7 +891,7 @@
     <section id="sect-00026">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00076">Taxanes are most known for the adverse effect of hypersensitivity reactions. A test dose and premedication with antihistamines and acetaminophen may be used prior administration. Myelosuppression may result in lowered levels of platelets and white blood cells. Taxanes are contraindicated in solid tumors with myelosuppression with neutrophil counts under 1500 cells/mm<sup>3</sup>. Peripheral neuropathy is also commonly associated with taxanes, resulting in pain and limited movement. Fatigue and arthralgias are also seen with these drugs. Cardiovascular changes including hypotension, bradycardia, hypertension, and electrocardiogram (ECG, EKG) changes may be noted (DailyMed, <emphasis effect="italics">Paclitaxel</emphasis>, 2023).</para>
-    <para id="para-00077">[link]Table 8.12[/link] is a drug prototype chart for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00077"><link target-id="table-00012" document="m00251"/> is a drug prototype chart for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00012">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -991,7 +991,7 @@
     </section>
     <section id="sect-00028">
     <title>Common Drugs Used as Supportive Therapies for Clients Receiving Chemotherapy</title>
-    <para id="para-00081">Because chemotherapy regimens are so complex, supportive care with other pharmacologic agents is usually required. Management of adverse effects is critical to safe and successful chemotherapy treatment. Myelosuppression and nausea and vomiting are most commonly managed with supportive therapies. Corticosteroids and biologic colony stimulating factors are frontline supportive therapies. [link]Table 8.13[/link] encompasses the most common supportive therapies that may be necessary when administering chemotherapy.</para>
+    <para id="para-00081">Because chemotherapy regimens are so complex, supportive care with other pharmacologic agents is usually required. Management of adverse effects is critical to safe and successful chemotherapy treatment. Myelosuppression and nausea and vomiting are most commonly managed with supportive therapies. Corticosteroids and biologic colony stimulating factors are frontline supportive therapies. <link target-id="table-00013" document="m00251"/> encompasses the most common supportive therapies that may be necessary when administering chemotherapy.</para>
     <table class="vertically-tight" id="table-00013">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
