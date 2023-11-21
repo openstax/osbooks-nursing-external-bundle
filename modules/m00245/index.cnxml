@@ -393,7 +393,7 @@ Renal impairment
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
 Antiviral agent<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits DNA synthesis and viral replication by competing with deoxyguanosine triphosphate for viral DNA polymerase and being incorporated into viral DNA</entry>
@@ -409,10 +409,10 @@ Inhibits DNA synthesis and viral replication by competing with deoxyguanosine tr
 </row>
 <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline count="2"/>
 Treatment of infections due to susceptible viruses (e.g., herpes simplex virus, cytomegalovirus)<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Treats viral infections caused by susceptible organisms
 </entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Clozapine<newline/>
 Theophylline<newline/>
 Tizanidine<newline/>
@@ -430,7 +430,7 @@ Hypersensitivity<newline/>
 Crystalluria<newline/>
 Malaise<newline/>
 Increased serum creatinine/acute kidney injury</entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline count="2"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline count="2"/>
 Caution:
 Intravenous injection extravasation<newline/>
@@ -492,7 +492,7 @@ Renal impairment</entry>
 <title>Molnupiravir</title>
 <para id="para-00067">Molnupiravir is an oral product that works by being incorporated into the SARS-CoV-2 RNA; it then induces errors that lead to inhibited viral reproduction. There are some questions about the efficacy of molnupiravir in the treatment of COVID-19, so it is recommended as an alternative if clients cannot receive nirmatrelvir due to drug interactions or impaired renal function. Initiation of molnupiravir should occur within 5 days of symptom onset.</para>
 <para id="para-00068"><link target-id="table-00005" document="m00245"/> lists anti–COVID-19 drugs and typical routes and dosing for adult clients.</para>
-<table class="vertically-tight" id="table-00005">
+<table class="vertically-tight full-width" id="table-00005">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -534,16 +534,16 @@ Renal impairment</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline count="2"/>
-Antiviral agent<newline/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline count="2"/>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Antiviral agent<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits the SARS-CoV-2 main protease, which inhibits viral replication</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 300 mg nirmatrelvir plus 100 mg ritonavir orally twice daily for 5 days.</entry>
 </row>
 <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/> 
-COVID-19 infection<newline/>
-<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline count="2"/>
+COVID-19 infection<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Treats infections caused by the SARS-CoV-2 virus</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 CYP3A4 substrates<newline/>
