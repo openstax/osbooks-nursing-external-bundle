@@ -24,7 +24,7 @@
 <title>Bisphosphonates</title>
 <para id="para-00004">Bisphosphonates are a category of drugs used to prevent and treat osteoporosis in postmenopausal clients. Vitamin D and calcium may be used as an adjunct with bisphosphonate therapy. Weight-bearing exercises, such as walking for 30 minutes several days a week, should be included as part of client education. Routine bone density testing should be scheduled to determine the effectiveness of the drug therapy (DailyMed; Fink, 2019).</para>
 <para id="para-00005"><link target-id="table-00001" document="m00450"/> lists common <term class="no-emphasis" id="term-00003">bisphosphonates</term> and typical routes and dosing for adult clients.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -89,7 +89,7 @@ Antacids<newline/>
 Aspirin<newline/>
 Nonsteroidal anti-inflammatory drugs (NSAIDs)<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
-No significant interactions unless food or beverages (except water) are taken within 30 minutes of drug.<newline/>
+No significant interactions unless food or beverages (except water) are taken within 30 minutes of drug.<newline count="2"/>
 Avoid orange juice for at least 2 hours after taking.</entry></row>
 <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
 Decreased serum calcium and serum phosphate levels<newline/>
@@ -101,8 +101,8 @@ Heartburn<newline/>
 Irritation or pain of the esophagus<newline/>
 Osteonecrosis of the jaw</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
-Esophageal abnormalities that prevent adequate and timely emptying of the stomach<newline/>
-Inability of client to sit up or stand for at least 30 minutes after taking the medication (to reduce risk of esophageal irritation)<newline/>
+Esophageal abnormalities that prevent adequate and timely emptying of the stomach<newline count="2"/>
+Inability of client to sit up or stand for at least 30 minutes after taking the medication (to reduce risk of esophageal irritation)<newline count="2"/>
 Severe renal insufficiency</entry>
 </row>
 </tbody>
@@ -115,7 +115,7 @@ Severe renal insufficiency</entry>
 <title>Calcium Preparations</title>
 <para id="para-00009">Calcium, the most abundant mineral in the body, is necessary for bone development and bone maintenance. In fact, about 98% of the body’s calcium is stored in the bones. Calcium from food and supplements is absorbed by both active transport and passive diffusion across the intestinal mucosa. Vitamin D is essential for calcium absorption and for maintaining adequate calcium levels. Estrogen is also important for maintaining bone health; thus, during menopause when females produce less estrogen, they have a considerable risk of developing osteopenia and osteoporosis (National Institutes of Health, 2022).</para>
 <para id="para-00010">Food sources of calcium include dairy, salmon, dark green vegetables (broccoli, kale, spinach), and other foods with high levels of oxalic acid such as sweet potatoes, rhubarb, and beans. Calcium supplements vary widely as to their source and the amount of calcium contained in the tablets (National Institutes of Health, 2022).</para>
-<para id="para-00011"><term class="no-emphasis" id="term-00012">Calcium supplements</term> include <term class="no-emphasis" id="term-00013">calcium acetate</term>, <term class="no-emphasis" id="term-00014">calcium citrate</term>, <term class="no-emphasis" id="term-00015">calcium gluconate</term>, and <term class="no-emphasis" id="term-00016">calcium chloride</term>. Calcium supplements used to treat osteoporosis and osteopenia are administered orally; dosages depend on the specific type of calcium supplement being prescribed and the reason for its use. Calcium carbonate and calcium citrate are the two most common forms of calcium used in supplements. Calcium has varying rates of absorption depending on the specific supplement, an individual’s level of stomach acid, and the fat content in a meal eaten when a calcium supplement is taken. The greater the fat content, the less calcium is absorbed. Calcium gluconate and calcium chloride are administered intravenously and used for serious and life-threatening acute hypocalcemia, hyperkalemia, and certain cardiac emergencies. See <link document="m00300">Fluids and Electrolytes, Vitamins, Minerals, and Alternative Therapies</link> for more information about calcium and Vitamin D.</para>
+<para id="para-00011"><term class="no-emphasis" id="term-00012">Calcium supplements</term> include <term class="no-emphasis" id="term-00013">calcium acetate</term>, <term class="no-emphasis" id="term-00014">calcium citrate</term>, <term class="no-emphasis" id="term-00015">calcium gluconate</term>, and <term class="no-emphasis" id="term-00016">calcium chloride</term>. Calcium supplements used to treat osteoporosis and osteopenia are administered orally; dosages depend on the specific type of calcium supplement being prescribed and the reason for its use. Calcium carbonate and calcium citrate are the two most common forms of calcium used in supplements. Calcium has varying rates of absorption depending on the specific supplement, an individual’s level of stomach acid, and the fat content in a meal eaten when a calcium supplement is taken. The greater the fat content, the less calcium is absorbed. Calcium gluconate and calcium chloride are administered intravenously and used for serious and life-threatening acute hypocalcemia, hyperkalemia, and certain cardiac emergencies. See <emphasis effect="bold"><link document="m00300">Fluids and Electrolytes, Vitamins, Minerals, and Alternative Therapies</link></emphasis> for more information about calcium and Vitamin D.</para>
 <section id="sect-00006">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00012">Adverse effects of calcium supplements are usually GI related and include abdominal pain, gas, bloating, constipation, and nausea. Hypercalcemia can lead to poor muscle tone, renal insufficiency, weight loss, fatigue, polyuria, and heart arrhythmias.</para>

@@ -261,7 +261,7 @@ Endometriosis<newline/>
 Undiagnosed uterine bleeding<newline/>
 Cardiac/renal/liver disease<newline/>
 Hormonal sensitive cancers<newline count="2"/>
-<emphasis effect="bold">Precautions</emphasis><newline/>
+<span class="blue-text"><emphasis effect="bold">Precautions</emphasis></span><newline/>
 Any condition which can be affected by fluid retention (migraine headache, cardiac/renal disease, seizure disorder)<newline/>
 Diabetes<newline/>
 Hyperlipidemia<newline/>
@@ -448,13 +448,13 @@ Intrauterine 13.5 mg.</entry>
 <note class="unfolding-casestudy" id="note-00006">
 <para id="para-00051">Read the following clinical scenario to answer the questions that follow.</para>
 <para id="para-00052">Susan Lopez is a 34-year-old female who presents to the public health department for counseling regarding contraception. She is planning to be married, and she and her fiancé do not want children. Susan has been sexually active with three male partners including her fiancé. She has always insisted that the partners use condoms.</para>
-<para id="para-00053"><emphasis effect="bold">Social History</emphasis></para>
-<para id="para-00054">Tobacco use: Smokes e-cigarettes daily. Formerly smoked regular cigarettes, 1/2 pack per day. Total time smoking is 10 years.</para>
-<para id="para-00055">Alcohol use: Occasional social drink, usually wine</para>
-<para id="para-00056">Sexually active<newline count="2"/>
+<para id="para-00053"><emphasis effect="bold">Social History</emphasis><newline/>
+Tobacco use: Smokes e-cigarettes daily. Formerly smoked regular cigarettes, 1/2 pack per day. Total time smoking is 10 years.<newline/>
+Alcohol use: Occasional social drink, usually wine<newline/>
+Sexually active<newline count="2"/>
 <emphasis effect="bold">Current Medications</emphasis><newline/>
 None</para>
-<table class="vertically-tight" id="table-00008">
+<table class="vertically-tight full-width" id="table-00008">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -483,15 +483,15 @@ None</para>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Blood&#160;pressure:</emphasis></entry>
 <entry valign="top" align="left">128/78 mm Hg</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Heart&#160;rate:</emphasis></entry>
 <entry valign="top" align="left">74 beats/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory&#160;rate:</emphasis></entry>
 <entry valign="top" align="left">16 breaths/min</entry>
 </row>
 <row>
