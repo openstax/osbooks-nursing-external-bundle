@@ -6,8 +6,649 @@
     <md:uuid>008f68ec-e8a3-4fc8-a05d-b4a750eefa51</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of antiglaucoma drugs used to treat glaucoma-related eye disorders.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of antiglaucoma drugs used to treat glaucoma-related eye disorders.</item>
+    <item>Describe nursing implications of antiglaucoma drugs used to treat glaucoma-related eye disorders.</item>
+    <item>Explain the client education related to antiglaucoma drugs used to treat glaucoma-related eye disorders.</item>
+    </list>
+    </section>
+    <para id="para-00002">There are two common forms of glaucoma: <term class="no-emphasis" id="term-00001">primary open-angle glaucoma (POAG)</term>, which is the most common form, and <term class="no-emphasis" id="term-00002">acute angle-closure (narrow-angle) glaucoma</term>. These differ with respect to underlying pathology and treatment. Treatment of POAG focuses on reducing elevated IOP, the only risk factor that can be modified. Although no cure exists, reducing IOP can slow or even cease disease progression. Drugs lower IOP by either promoting aqueous humor drainage or reducing the production of aqueous humor. First-line drugs belong to three classes: beta-adrenergic blockers (beta blockers), alpha-2 adrenergic agonists, and prostaglandin analogs. Carbonic anhydrase inhibitors are considered second-line drugs. All of these medications are available in ophthalmic form, which is the preferred route. Because these classifications lower IOP by different mechanisms, combined therapy is usually more effective than monotherapy. If sufficient amounts of drug enter the circulation, systemic adverse effects may occur (Farkouh et al., 2016).</para>
+    <para id="para-00003">Angle-closure glaucoma is triggered by displacement of the iris where it covers the trabecular meshwork. The angle between the cornea and the iris is greatly reduced. This prevents aqueous humor from leaving the anterior chamber. IOP levels increase rapidly to dangerous levels. The client will complain of severe ocular pain and headache. Permanent vision loss may occur within 24–48 hours if left untreated. Treatment consists of a combination of drugs to suppress symptoms. Once the IOP is reduced to a safe level, the client will undergo surgery on the iris. This is performed to allow unobstructed outflow of aqueous humor.</para>
+    <para id="para-00004">Nonadherence is an issue for POAG drugs for multiple reasons. These include the asymptomatic nature of the condition where they feel drug therapy is unnecessary, frequent dosing intervals, multiple drugs to administer, and age-related issues (see the box below). It is essential to emphasize to the client the importance of having regular eye exams to track progress or identify complications (Centers for Disease Control and Prevention, 2020).</para>
+    <note class="special-considerations" id="note-00001">
+    <para id="para-00005"><emphasis effect="bold">Older Adults</emphasis></para>
+    <para id="para-00006">Glaucoma affects <term class="no-emphasis" id="term-00003">older adults</term> more than any other population. Due to the complexity of treatment, older adults may struggle with following the treatment plan. This occurs for various reasons:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Forgetfulness due to mild cognitive impairment (MCI) or dementia</item>
+    <item>Unable to remember in which sequence to administer the multiple drugs</item>
+    <item>High cost</item>
+    <item>Inability to properly instill eye medication</item>
+    <item>Medication causing temporary blurry vision, leading to an increased risk for falls</item>
+    </list>
+    <para id="para-00007">Concerns related to specific drug classifications include:</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Beta blockers may exacerbate heart failure in those who have a history of this condition.</item>
+    <item>Alpha-2 agonists can cause orthostatic hypotension, creating a risk for falls.</item>
+    <item>Those with inadequate renal function should avoid carbonic anhydrase inhibitors.</item>
+    </list>
+    </note>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Beta-Adrenergic Blockers</title>
+    <para id="para-00008">Beta blockers reduce IOP by decreasing the production of aqueous humor. They are mainly used to treat PAOG. These drugs are suitable for both initial and maintenance therapy. Beta blockers, in conjunction with other drugs, are also used for emergency management of acute narrow-angle glaucoma. Some ophthalmic beta blockers can be absorbed in sufficient amounts to create systemic adverse effects including angina, upper respiratory infection, and muscle or joint pain (Haga et al., 2022); therefore, health care personnel and clients should be aware of these. This classification of drugs does not cause miosis like other classes and must be used in combination for angle-closure glaucoma.</para>
+    <para id="para-00009">In some clients, the lowering of intraocular pressure may require a few weeks to stabilize. More information on systemic administration of this classification can be found in [link]Antihypertensive and Antianginal Drugs[/link].</para>
+    <section id="sect-00004">
+    <title>Betaxolol Hydrochloride (Cardioselective)</title>
+    <para id="para-00010">Betaxolol is a selective blocker for the beta-1 adrenergic receptors. The onset of this drug generally occurs within 30 minutes, and peak effect is reached in about 2 hours after administration. A single dose has a duration of 12 hours. Studies have shown clients treated with this drug for up to 3 years have maintained lowered IOP levels (DailyMed, <emphasis effect="italics">Betaxolol hydrochloride,</emphasis> 2022).</para>
+    </section>
+    <section id="sect-00005">
+    <title>Timolol Hydrochloride (Nonselective)</title>
+    <para id="para-00011">The onset of timolol is 30 minutes. Peak effects occur in 1–2 hours, and the duration of action is 24 hours. This allows the drug to be given once daily. Clients studied over a period of 1 year exhibited well-maintained IOP levels (DailyMed, <emphasis effect="italics">Timolol</emphasis>, 2023).</para>
+    <note class="clinical-tip" id="note-00002">
+    <para id="para-00012"><emphasis effect="bold">Identifying Names of Beta Blockers</emphasis></para>
+    <para id="para-00013">All beta blockers end in the suffix “olol.” This is useful to know when the nurse does not recognize the drug’s name but can identify it is a beta blocker based on its suffix.</para>
+    </note>
+    <para id="para-00014">[link]Table 38.14[/link] lists common <term class="no-emphasis" id="term-00004">beta-adrenergic blockers</term> and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Betaxolol hydrochloride</term><newline/>
+    (<term class="no-emphasis" id="term-00006">Betoptic</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Ophthalmic dosage (0.25% suspension):</emphasis> 1 drop in affected eye(s) twice daily; maximum dose: 2 drops/day.<newline/>
+    <emphasis effect="italics">Ophthalmic dosage (0.5% solution):</emphasis> 1–2 drops in affected eyes twice daily; maximum dose: 4 drops/day.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Carteolol hydrochloride</term><newline/>
+    (<term class="no-emphasis" id="term-00008">Ocupress</term>)</entry>
+    <entry valign="top" align="left">1 drop 1% solution applied to conjunctiva of affected eye(s) twice daily; maximum dose: 2 drops/day.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Timolol hydrochloride</term><newline/>
+    (<term class="no-emphasis" id="term-00010">Timoptic</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Ophthalmic dosage (solution):</emphasis> 1 drop of 0.25% solution in affected eye(s) twice daily; may increase to 1 drop of 0.5% solution twice daily, if necessary for adequate reduction of intraocular pressure. Dosage may be reduced to 1 drop daily if effective to maintain reduced pressure.<newline/>
+    <emphasis effect="italics">Ophthalmic dosage (Timoptic-XE gel):</emphasis> 1 drop of 0.25% solution in affected eye(s) once daily; may increase to 1 drop of 0.5% solution once daily, if necessary for adequate reduction of intraocular pressure. Doses greater than 1 drop of the 0.5% solution once daily have not been studied.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Beta-Adrenergic Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00006">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00015">Ocular beta-adrenergic blockers are contraindicated in clients who have a known hypersensitivity to any of the ingredients. They also are contraindicated in clients with sinus bradycardia, second- or third-degree AV block, cardiogenic shock, or severe heart failure.</para>
+    <para id="para-00016">Ocular adverse effects of beta-adrenergic blockers include eye pain, itching or discomfort, corneal sensitivity, eye erythema, keratitis, and photophobia. Although there is less concern about systemic effects when using beta blockers topically, some systemic absorption can occur when direct pressure is not applied to the medial canthus to occlude the nasolacrimal sac. If adequate amounts of drug reach the circulation, the client may experience some systemic adverse effects. These effects may include bradycardia, hypotension, heart block, or worsening of heart failure. Dyspnea and bronchospasm can occur in clients with severe respiratory conditions like chronic obstructive pulmonary diseases (COPD) and asthma who are taking a non-selective beta blocker (timolol), but are less likely to occur with cardioselective agents (betaxolol). Additionally, CNS effects including dizziness, vertigo, lethargy, and headaches have been associated with the use of beta blockers. Because of the potential effect on heart rate, beta blockers may mask the symptoms of hypoglycemia in clients with diabetes (DailyMed, <emphasis effect="italics">Timolol</emphasis>, 2023).</para>
+    <para id="para-00017">[link]Table 38.15[/link] is a drug prototype table for beta-adrenergic blockers featuring timolol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Beta-adrenergic blocker<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    Reduces the production of aqueous humor by blocking the sympathetic nerve endings in the ciliary process</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    <emphasis effect="italics">Ophthalmic dosage (solution):</emphasis> 1 drop of 0.25% solution in affected eye(s) twice daily; may increase to 1 drop of 0.5% solution twice daily, if necessary for adequate reduction of intraocular pressure. Dosage may be reduced to 1 drop daily if effective to maintain reduced pressure.<newline/>
+    <emphasis effect="italics">Ophthalmic dosage (Timoptic-XE gel):</emphasis> 1 drop of 0.25% solution in affected eye(s) once daily; may increase to 1 drop of 0.5% solution once daily, if necessary for adequate reduction of intraocular pressure. Doses greater than 1 drop of the 0.5% solution once daily have not been studied.</entry>
+    </row>
+    <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary open-angle glaucoma<newline/>
+    Ocular hypertension<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Decreases the amount of aqueous humor in the anterior chamber</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Other antihypertensives<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Transient ocular stinging<newline/>
+    Bradycardia<newline/>
+    Second- or third-degree heart block<newline/>
+    Hypotension<newline/>
+    Bronchospasm</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Sinus bradycardia<newline/>
+    Atrioventricular block<newline/>
+    Heart failure<newline/>
+    Cardiogenic shock<newline/>
+    COPD<newline/>
+    Asthma<newline count="2"/>
+    Caution:<newline/>
+    Diabetes mellitus (due to masking symptoms of hypoglycemia)<newline/>
+    COPD<newline/>
+    Asthma</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Timolol</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00007">
+    <title>Nursing Implications</title>
+    <para id="para-00018">The nurse should do the following for clients who are taking beta-adrenergic blockers:</para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Review the client’s cardiovascular and respiratory history.</item>
+    <item>Obtain information about the client’s smoking and alcohol use.</item>
+    <item>Monitor the client’s heart rate and rhythm.</item>
+    <item>Periodically assess blood pressure.</item>
+    <item>Assess respiratory status, such as respiratory rate, lung sounds, and difficulty breathing.</item>
+    <item>Monitor for signs of hypoglycemia in clients with diabetes.</item>
+    <item>Emphasize the importance of holding pressure against the lacrimal sac at the medial canthus when administering.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00003">
+    <para id="para-00019"><emphasis effect="bold">The client taking a beta-adrenergic blocker should:</emphasis></para>
+    <list list-type="bulleted" id="list-00005">
+    <item>Notify their provider if they are pregnant or planning to become pregnant.</item>
+    <item>Notify the health care provider if dizziness, shortness of breath, wheezing, excess fatigue, peripheral edema, or palpitations occur.</item>
+    <item>Be certain they occlude the inner canthus to avoid systemic absorption.</item>
+    <item>Identify signs/symptoms of hypoglycemia and monitor blood glucose levels if they have diabetes because these drugs may mask hypoglycemia.
+    <emphasis effect="bold">The client taking a beta-adrenergic blocker<emphasis effect="italics"> should</emphasis> <emphasis effect="italics">not:</emphasis></emphasis></item>
+    <item>Change positions quickly to avoid falls (especially older adults) because this may cause dizziness, which may result in a fall.</item>
+    <item>Wear contact lenses during administration and for 15 minutes afterwards.</item>
+    <item>Operate machinery if feeling dizzy or lightheaded.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00008">
+    <title>Carbonic Anhydrase Inhibitors</title>
+    <para id="para-00020">This classification of drugs reduces IOP by decreasing production of aqueous humor. They are not as effective as others; however, they are very beneficial when used as an adjunct therapy with other drug classes. Carbonic anhydrase is an enzyme found in many tissues of the body, including the eye. It speeds up the reaction of hydrating carbon dioxide and dehydrating carbonic acid.</para>
+    <para id="para-00021">During chronic use, dorzolamide accumulates in red blood cells (RBCs) as it binds to carbonic anhydrase. When the drug is stopped, it will wash out of the RBCs (DailyMed, <emphasis effect="italics">Dorzolamide</emphasis>, 2021). Brinzolamide and dorzolamide have the same effects. A combination drug consisting of dorzolamide and timolol exists. The combination provides an additive effect for decreasing the production of aqueous humor. The therapeutic and adverse effects of timolol are discussed in a previous section of this chapter.</para>
+    <para id="para-00022">[link]Table 38.16[/link] lists common <term class="no-emphasis" id="term-00011">ocular lubricants</term> and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Brinzolamide 1% solution</term><newline/>
+    (<term class="no-emphasis" id="term-00013">Azopt</term>)</entry>
+    <entry valign="top" align="left">1 drop, 3 times daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Dorzolamide 2% solution</term><newline/>
+    (<term class="no-emphasis" id="term-00015">Trusopt</term>)</entry>
+    <entry valign="top" align="left">1 drop, 3 times daily.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Carbonic Anhydrase Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <section id="sect-00009">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00023">Clients with sulfonamide hypersensitivity can experience severe or even fatal reactions, such as Stevens–Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, aplastic anemia, or agranulocytosis. Sensitivity can occur regardless of the route of administration. If there are any signs of an allergic reaction, the client should notify the provider immediately. Local ocular adverse effects occur with chronic administration (DailyMed, <emphasis effect="italics">Brinzolamide</emphasis>, 2021). Although acid–base imbalance and electrolyte disturbances primarily occur with the oral form, the potential should be considered with clients receiving this classification via the topical route. The risk of metabolic acidosis is compounded with concurrent use of high-dose salicylic acid. These adverse effects do disappear once the underlying condition is treated (Tang et al., 2021). Other adverse effects include alopecia, chest pain, conjunctivitis, diarrhea, diplopia (double vision), dizziness, dry mouth, dyspnea, dyspepsia, eye fatigue, hypertonia, keratoconjunctivitis, keratopathy, kidney pain, lid margin crusting or a sticky sensation, nausea, pharyngitis, tearing, and urticaria (DailyMed, <emphasis effect="italics">Dorzolamide</emphasis>, 2021).</para>
+    <para id="para-00024">[link]Table 38.17[/link] is a drug prototype table for carbonic anhydrase inhibitors featuring dorzolamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00004">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Carbonic anhydrase inhibitor<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/><newline/>
+    Reduces the production of aqueous humor from the ciliary process by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    1 drop, 3 times daily when used alone.<newline/>
+    1 drop, twice daily if used in combination with other topical glaucoma treatment.</entry>
+    </row>
+    <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary open-angle glaucoma<newline/>
+    Ocular hypertension<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Decreases the level of IOP</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    High-dose salicylates<newline/>
+    Oral carbonic anhydrase inhibitors<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Ocular burning and stinging<newline/>
+    Bitter taste<newline/>
+    Superficial punctate keratitis<newline/>
+    Ocular allergic reaction (conjunctivitis, eyelid edema)<newline/>
+    Eye redness, photophobia, tearing<newline/>
+    Metabolic acidosis/hyperkalemia</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Allergy to sulfonamides<newline/>
+    Hypersensitivity to any component of this product</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Dorzolamide</emphasis> (sources: https://dailymed.nlm.nih.gov/dailymed/; Hoffmanova &amp; Sanchez, 2018.)</caption>
+    </table>
+    </section>
+    <section id="sect-00010">
+    <title>Nursing Implications</title>
+    <para id="para-00025">The nurse should do the following for clients who are taking carbonic anhydrase inhibitors:</para>
+    <list list-type="bulleted" id="list-00006">
+    <item>Monitor potassium levels periodically in clients with impaired renal function.</item>
+    <item>Assess for signs/symptoms of metabolic acidosis, such as rapid breathing in clients with impaired renal function.</item>
+    <item>Teach the client that they may experience a bitter taste and that this is not harmful.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00004">
+    <para id="para-00026"><emphasis effect="bold">The client taking a carbonic anhydrase inhibitor should:</emphasis></para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Be acclimated to the medication before operating machinery because they may experience fatigue, tiredness, or dizziness.</item>
+    <item>Be aware that they may experience a bitter taste, stinging, burning, or conjunctival irritation.</item>
+    <item>Stop taking the drug and contact their health care provider if they develop conjunctivitis or eyelid edema.</item>
+    <item>Contact the health care provider immediately with any manifestations of ocular or systemic allergic reactions, such as skin rash, jaundice, right upper quadrant (RUQ) pain, or easy bruising (Mayo Clinic, 2023a).</item>
+    </list>
+    <para id="para-00027"><emphasis effect="bold">The client taking a carbonic anhydrase inhibitor<emphasis effect="italics"> should</emphasis> <emphasis effect="italics">not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Wear contact lenses during administration and for 15 minutes afterward because the preservative in the medication will bind to the contacts.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00011">
+    <title>Prostaglandin Analogues</title>
+    <para id="para-00028">These drugs are as effective as beta blockers without the serious adverse effects. The recommended daily dosage produces the same reduction in IOP as does twice-daily timolol. <term class="no-emphasis" id="term-00016">Prostaglandin analogues</term> are considered first-line agents for glaucoma, especially in clients with cardiac conditions. In contrast to beta blockers, these drugs lower IOP by relaxing the ciliary muscle to facilitate aqueous humor outflow. If the drug is given more frequently or at a higher dose, this action can have the opposite effect and decrease the IOP-lowering effect (DailyMed, <emphasis effect="italics">Prostaglandin</emphasis> <emphasis effect="italics">analog</emphasis>, 2022).</para>
+    <section id="sect-00012">
+    <title>Latanoprost</title>
+    <para id="para-00029">The onset of action for latanoprost occurs in about 3–4 hours, and peak effect is reached in 8–12 hours. This drug has a 24-hour duration of action (DailyMed, <emphasis effect="italics">Latanoprost</emphasis>, 2023).</para>
+    </section>
+    <section id="sect-00013">
+    <title>Bimatoprost</title>
+    <para id="para-00030">The actions and adverse effects of bimatoprost are the same as those of latanoprost. When marketed as Latisse, it is used for the specific purpose of increasing eyelash length, darkening lashes, and making the lashes thicker (DailyMed, <emphasis effect="italics">Bimatoprost</emphasis>, 2022).</para>
+    </section>
+    <section id="sect-00014">
+    <title>Travoprost</title>
+    <para id="para-00031">The actions and adverse effects of travoprost are the same as those of latanoprost. This drug was found to be more effective in Black clients than in other groups. The reason for this is unknown (DailyMed, <emphasis effect="italics">Travoprost</emphasis>, 2020).</para>
+    <note class="clinical-tip" id="note-00005"> 
+    <para id="para-00032"><emphasis effect="bold">Identifying Names of Prostaglandin Analogues</emphasis></para>
+    <para id="para-00033">All prostaglandin analogues end in the suffix “prost.” This is useful to know when the nurse does not recognize the drug’s name but can identify it is a prostaglandin analog based on its suffix.</para>
+    </note>
+    <para id="para-00034">[link]Table 38.18[/link] lists common <term class="no-emphasis" id="term-00017">prostaglandin analogues</term> and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00005">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Latanaprost 0.005% solution</term><newline/>
+    (<term class="no-emphasis" id="term-00019">Xalatan</term>)</entry>
+    <entry valign="top" align="left">1 drop in the affected eye(s) once daily in the evening.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Bimatoprost 0.01% and 0.03% solution</term><newline/>
+    (<term class="no-emphasis" id="term-00021">Lumigan</term>)</entry>
+    <entry valign="top" align="left">1 drop in the affected eye(s) once daily in the evening.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Travoprost 0.004% solution</term><newline/>
+    (<term class="no-emphasis" id="term-00023">Travatan</term>)</entry>
+    <entry valign="top" align="left">1 drop in each affected eye once daily in the evening; maximum dose: 1 drop per day per affected eye.</entry>
+    </row>  
+  </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Prostaglandin Analogues</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00015">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00035">On rare occasions and for reasons unknown, this drug classification can cause migraines. The most common adverse effect is ocular hyperemia, which is engorgement of ocular blood vessels.</para>
+    <para id="para-00036">There are two main contraindications: hypersensitivity and active intraocular inflammation. Clients with iritis or uveitis should not use this drug because the inflammation may worsen, which could have negative effects on vision (DailyMed, <emphasis effect="italics">Latanoprost</emphasis>, 2023)</para>
+    <para id="para-00037">[link]Table 38.19[/link] is a drug prototype table for prostaglandin analogues featuring latanoprost. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00006">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Prostaglandin analogues<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/><newline/>
+    Reduces IOP by increasing the outflow of aqueous humor through relaxation of the ciliary process, and increasing the outflow at both the uveoscleral and trabecular meshwork structures</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    1 drop in the affected eye(s) once daily in the evening.</entry>
+    </row>
+    <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary open-angle glaucoma<newline/>
+    Ocular hypertension<newline/>
+    Treatment of hypotrichosis of the eyelashes<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Reduces the amount of IOP</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    No significant interactions<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Ocular hyperemia<newline/>
+    Intraocular inflammation (iritis/uveitis)<newline/>
+    Foreign body sensation<newline/>
+    Local irritation, stinging<newline/>
+    Redness<newline/>
+    Blurred vision<newline/>
+    Heightened brown pigmentation of the iris<newline/>
+    Increased pigmentation of the eyelid<newline/>
+    Increased length and thickness of the eyelashes<newline/>
+    Burning or stinging<newline/>
+    Punctate keratopathy</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Hypersensitivity to the active and inactive ingredients of the drug<newline/>
+    Active intraocular inflammation<newline count="2"/>
+    Caution:<newline/>
+    Herpetic and bacterial keratitis</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Latanoprost 0.005% Ophthalmic Solution</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00016">
+    <title>Nursing Implications</title>
+    <para id="para-00038">The nurse should do the following for clients who are taking prostaglandin analogues:</para>
+    <list list-type="bulleted" id="list-00009">
+    <item>Assess for ocular changes, including hyperemia, pruritus, conjunctivitis, and visual disturbances.</item>
+    <item>Explain the hyperpigmentation changes that can occur so the client is not alarmed. Be certain the client is aware that the hyperpigmentation of the iris is usually permanent, but the darkened skin of the eyelids more than likely will resolve.</item>
+    <item>Assess for hypersensitivity reactions, both locally and systemically, including stinging, painful eyes and blurry vision.</item>
+    <item>Explain that the medication should be administered at bedtime.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00006">
+    <para id="para-00039"><emphasis effect="bold">The client taking a prostaglandin analogue should:</emphasis></para>
+    <list list-type="bulleted" id="list-00010">
+    <item>Notify the health care provider of ocular redness, swelling, or visual changes.</item>
+    <item>Administer the medication at bedtime as ocular pressure is typically highest in the morning, so usage at night is a timely intervention to address an expected higher ocular pressure by morning.</item>
+    <item>Observe for the hyperpigmentation changes and increase in eyelash length.
+     <emphasis effect="bold">The client taking a prostaglandin analogue <emphasis effect="italics">should not:</emphasis></emphasis></item>
+    <item>Wear contact lenses during administration and for 15 minutes afterward because the preservative in the medication will bind to the contacts.</item>
+    <item>Skip follow-up appointments with the ophthalmologist for intraocular pressure measurements.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00017">
+    <title>Rho Kinase Inhibitors</title>
+    <para id="para-00040">This drug class was approved in 2017. It decreases IOP by increasing aqueous humor outflow through the trabecular meshwork. The exact mechanism is unknown. Clinical trials have shown up to a 5 mm Hg reduction in the baseline IOP (DailyMed, <emphasis effect="italics">Rhopressa</emphasis>, 2023).</para>
+    <para id="para-00041">The 0.02% solution of <term class="no-emphasis" id="term-00024">netarsudil</term> (<term class="no-emphasis" id="term-00025">Rhopressa</term>) is used to reduce IOP in clients with POAG. This drug is typically taken in the evening because IOP is elevated in the morning. The solution should not be administered while wearing contact lenses.</para>
+    <section id="sect-00018">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00042"><term id="term-00026">Conjunctival hyperemia</term> is the most common ocular adverse effect. Clients may experience discomfort and erythema in the early phase of treatment; however, these will subside as the drug is continued. Corneal verticillata (gray-brown opacities) were noted to develop at 4 weeks of therapy. This reaction did not affect visual acuity. Most corneal verticillata will disappear once the medication is discontinued. Besides the physical aspect, conjunctival hemorrhage is harmless and will resolve on its own. Other common adverse reactions include conjunctival hemorrhage, corneal staining, blurred vision, increased lacrimation, and reduced visual acuity. Safety and effectiveness in clients under age 18 have not been established. Hypersensitivity is currently the only major contraindication (DailyMed, <emphasis effect="italics">Rhopressa</emphasis>, 2023).</para>
+    <para id="para-00043">[link]Table 38.20[/link] is a drug prototype table for <term class="no-emphasis" id="term-00027">rho kinase inhibitors</term> featuring netarsudil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00007">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Rho kinase inhibitor 0.02% solution<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/><newline/>
+    Inhibits the rho kinase enzyme, thus reducing IOP by increasing the outflow of aqueous humor through the trabecular meshwork</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    1 drop of solution every evening.
+    </entry>
+    </row>
+    <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    Primary open-angle glaucoma<newline/>
+    Ocular hypertension<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Reduces elevated IOP<newline/>
+    Increased healing of corneal epithelium<newline/>
+    Decreases progression of diabetic retinopathy</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    No significant interactions<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Conjunctival hyperemia<newline/>
+    Eye discomfort and/or erythema during instillation<newline/>
+    Conjunctival hemorrhage<newline/>
+    Corneal verticillata<newline/>
+    Increased lacrimation<newline/>
+    Reduced visual acuity</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    None</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Netarsudil 0.02% Ophthalmic Solution</emphasis> (sources: https://dailymed.nlm.nih.gov/dailymed/; Moshirfar et al., 2018)</caption>
+    </table>
+    </section>
+    <section id="sect-00019">
+    <title>Nursing Implications</title>
+    <para id="para-00044">The nurse should do the following for clients who are taking rho kinase inhibitors:</para>
+    <list list-type="bulleted" id="list-00011">
+    <item>Inform the client they may experience discomfort and redness upon instillation during the initial treatment phase, but this will subside.</item>
+    <item>Encourage the client not to discontinue medication based on the adverse effects without contacting the health care provider.</item>
+    <item>Maintain a safe environment to prevent falls.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00007">
+    <para id="para-00045"><emphasis effect="bold">The client taking a rho kinase inhibitor should:</emphasis></para>
+    <list list-type="bulleted" id="list-00012">
+    <item>Notify the health care provider of eye swelling or changes in vision, or if they experience conjunctivitis or eyelid discomfort.</item>
+    <item>Understand the eye changes are mainly harmless and will subside spontaneously or once drug stopped.</item>
+    </list>
+    <para id="para-00046"><emphasis effect="bold">The client taking a rho kinase inhibitor <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00013">
+    <item>Double up on a dose if one is missed because this is not well tolerated.</item>
+    <item>Wear contact lenses during administration and for 15 minutes afterward because the preservative in the medication will bind to the contacts.</item>
+    <item>Stop taking the drug without contacting the health care provider.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    
+    <section id="sect-00020">
+    <title>Alpha-2 Adrenergic Agonists</title>
+    <para id="para-00047">Alpha-2 adrenergic agonists work by reducing aqueous outflow to lower pressure. <term class="no-emphasis" id="term-00028">Combigan</term> is an alpha-2 adrenergic agonist combined with a beta blocker (timolol). This drug synergistically uses both mechanisms of action to reduce IOP. If an ocular beta blocker is contraindicated, an alpha-2 adrenergic agent can be used alone. <term class="no-emphasis" id="term-00029">Brimonidine</term> (<term class="no-emphasis" id="term-00030">Alphagan P</term>) has a rapid onset of action with a half-life of two hours. Brimonidine reduces aqueous humor production and increases uveoscleral outflow in clients with POAG and ocular hypertension. It may have properties in delaying optic nerve degeneration and may protect retinal neurons from dying due to ischemia.</para>
+    <para id="para-00048">A fixed-dose combination drug consisting of brimonidine and timolol exists. The combination provides an additive effect for decreasing the production of aqueous humor. The therapeutic and adverse effects of each drug class are discussed previously in this chapter.</para>
+    <section id="sect-00021">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00049">Brimonidine is contraindicated in those under age 2 because they are at a higher risk of CNS depression. Severe cardiovascular disease and vascular and cerebral insufficiency can be aggravated by this drug classification (DailyMed, <emphasis effect="italics">Brimonidine</emphasis>, 2022). There has been a causal relationship noted between depression and alpha-2 agonists. Because the alpha-2 adrenergic receptors are part of the CNS, dilation of the pupils can occur, which will further impede the outflow of aqueous humor and exaggerate closed-angle glaucoma.</para>
+    <para id="para-00050">[link]Table 38.21[/link] is a drug prototype table for carbonic anhydrase inhibitors featuring brimonidine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00008">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Alpha-2 adrenergic agonist<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/><newline/>
+    Reduces production of aqueous humor and increases uveoscleral outflow</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    1 drop every 8 hours of 0.1% or 0.15% solution.</entry>
+    </row>
+    <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+    For lowering IOP in clients with open-angle glaucoma or ocular hypertension<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Decreases pressure in the anterior chamber of the eye</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+    Monoamine oxidase (MAO) inhibitors<newline/>
+    Selective serotonin reuptake inhibitors (SSRIs)<newline/>
+    CNS depressants<newline/>
+    Antihypertensives/cardiac glycosides<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row><entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Ocular hypotension<newline/>
+    Systemic hypotension<newline/>
+    Tachycardia/bradycardia<newline/>
+    Fatigue<newline/>
+    Headache/dizziness<newline/>
+    Reduced attention span and alertness<newline/>
+    CNS depression<newline/>
+    Cough/dyspnea<newline/>
+    Sinusitis/nasal dryness<newline/>
+    Blepharitis<newline/>
+    Conjunctival edema/hemorrhage<newline/>
+    Eye dryness/irritation<newline/>
+    Allergic conjunctivitis/hyperemia/pruritus</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    &lt;2 years of age<newline/>
+    Hypersensitivity to the active and inactive ingredients of the drug<newline count="2"/>
+    Caution:<newline/>
+    Vascular insufficiency<newline/>
+    Advanced cardiac disease<newline/>
+    Cerebral insufficiency<newline/>
+    Raynaud’s disease<newline/>
+    Thromboangiitis obliterans (Buerger’s disease, where blood vessels are occluded in the hands and feet)<newline/>
+    Depression</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Brimonidine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    
+    <section id="sect-00022">
+    <title>Nursing Implications</title>
+    <para id="para-00051">The nurse should do the following for clients who are taking alpha-2 adrenergic agonists:</para>
+    <list list-type="bulleted" id="list-00014">
+    <item>Review client’s past medical history and medications.</item>
+    <item>Monitor client’s blood pressure and heart rate periodically.</item>
+    <item>Assess client’s mental status and alertness.</item>
+    <item>Maintain a safe environment and reduce risk of falls.</item>
+    <item>Evaluate upper respiratory system for cough, sinus pressure, dyspnea, and nasal dryness.</item>
+    <item>Check for hypersensitivity reaction.</item>
+    <item>Emphasize to the client the importance of keeping follow-up appointments with their health care provider.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00008">
+    <para id="para-00052"><emphasis effect="bold">The client taking an alpha-2 adrenergic agonist should:</emphasis></para>
+    <list list-type="bulleted" id="list-00015">
+    <item>Notify the health care provider of severe headaches, visual disturbance, dizziness, syncope, excessive fatigue, difficulty concentrating, and vision changes.</item>
+    <item>Check their blood pressure and heart rate at least weekly while maintaining a log of readings.</item>
+    </list>
+    <para id="para-00053"><emphasis effect="bold">The client taking an alpha-2 adrenergic agonist <emphasis effect="italics">should not:</emphasis></emphasis></para>
+    <list list-type="bulleted" id="list-00016">
+    <item>Wear contact lenses during administration and for 15 minutes afterward because the preservative in the medication will bind to the contacts.</item>
+    <item>Drive or engage in activity that requires attention and concentration until they know how the medications affects them.</item>
+    <item>Get up quickly and ambulate because the drug can cause orthostatic hypotension and dizziness.</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    </section>
+    <section id="sect-00023">
+    <title>Chapter Summary</title>
+    <para id="para-00054">This chapter introduced various ophthalmic medications used for multiple purposes. Drugs were discussed based on their classification and primary mechanism of action. The eye itself can have ocular pathology, such as infection. Because the eye can be a portal of infection, it is essential that the nurse administer ocular medications via aseptic technique. In addition, the eye can also reflect illness, injury, and autoimmune systemic diseases. Ocular medications are available in several forms including drops, solutions, gels, and ointments. Medications covered in this chapter included ocular anti-inflammatories, anti-infectives (antibacterials, antivirals, antifungals), anesthetics, lubricants, and drugs used to treat or manage glaucoma. The two main types of glaucoma were discussed, including the more common presentation of POAG as well as closed-angle glaucoma, which has a much quicker onset and can present as blindness.</para>
+    </section>
+    <section class="review-questions" id="sect-00024">
+    <title>Review Questions</title>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00055"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec02_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00056"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec02_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00057"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec01_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00058"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec01_RQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00059"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec04_RQ5"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00060"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec04_RQ6"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00061"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec02_RQ7"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00062"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec02_RQ8"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00063"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec02_RQ9"/></para></problem></exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00064"><link class="os-embed" url="#exercise/PHAR_Ch38_Sec04_RQ10"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00025">
+    <para id="para-00065">Ahmad, S. S. (2018). Glaucoma suspects: A practical approach. <emphasis effect="italics">Taiwan Journal of Ophthalmology, 2,</emphasis> 74–81. doi:10.4103/tjo.tjo_106_17. PMID: 30038885; PMCID: PMC6055310.</para>
+    <para id="para-00066">American Academy of Ophthalmology. (2022, September). <emphasis effect="italics">What is the different between a stye and a chalazion?</emphasis> https://aao.org/eye-health/diseases/what-are-chalazia-styes</para>
+    <para id="para-00067">American Optometric Association. (n.d.). <emphasis effect="italics">Diet and nutrition</emphasis>. https://www.aoa.org/healthy-eyes/caring-for-your-eyes/diet-and-nutrition?sso=y</para>
+    <para id="para-00068">American Society of Retina Specialists. (2023). <emphasis effect="italics">Retina health services</emphasis>. https://www.asrs.org/patients/retinal-diseases/26/retinal-tears</para>
+    <para id="para-00069">Begum, J. (2023). <emphasis effect="italics">Ocular hypertension.</emphasis> WebMD. https://www.webmd.com/eye-health/occular-hypertension</para>
+    <para id="para-00070">Boyd, K. (2022a). <emphasis effect="italics">What is astigmatism? Symptoms, causes, diagnoses, treatment</emphasis>. American Academy of Ophthalmology. https://www.aao.org/eye-health/diseases/what-is-astigmatism</para>
+    <para id="para-00071">Boyd, K. (2022b). <emphasis effect="italics">What is glaucoma? Symptoms, causes, diagnosis, treatment.</emphasis> American Academy of Ophthalmology.<emphasis effect="italics"/> https://www.aao.org/eye-health/diseases/what-is-glaucoma</para>
+    <para id="para-00072">Centers for Disease Control and Prevention. (2019). <emphasis effect="italics">Conjunctivitis (pink eye).</emphasis> https://www.cdc.gov/conjunctivitis/about/treatment.html</para>
+    <para id="para-00073">Centers for Disease Control and Prevention. (2020). <emphasis effect="italics">Keep an eye on your vision health</emphasis>. https://www.cdc.gov/visionhealth/resources/features/keep-eye-on-vision-health.html</para>
+    <para id="para-00074">Cleveland Clinic. (2023a). <emphasis effect="italics">Artificial tears eye ointment</emphasis>. https://my.clevelandclinic.org/health/drugs/18594-artificial-tears-eye-ointment</para>
+    <para id="para-00075">Cleveland Clinic. (2023b). <emphasis effect="italics">Natamycin eye suspension</emphasis>. https://my.clevelandclinic.org/health/drugs/20370-natamycin-eye-suspension</para>
+    <para id="para-00076">College of Optometrists. (2023). <emphasis effect="italics">Conjunctivitis medicamentosa (also Dermatoconjunctivitis medicamentosa)</emphasis>. https://www.college-optometrists.org/clinical-guidance/clinical-management-guidelines/conjunctivitismedicamentosa_alsodermatoconjunctivi</para>
+    <para id="para-00077">DailyMed. (Updated April 1, 2021). <emphasis effect="italics">Artificial tears glycerin and propylene glycol solution/drops</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99cfea82-afb8-4c5f-ac0c-492204a42c08</para>
+    <para id="para-00078">DailyMed. (Updated September 30, 2022). <emphasis effect="italics">Betaxolol hydrochloride solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a73519d5-546c-4377-92ed-0d4be2685d60</para>
+    <para id="para-00079">DailyMed. (Updated March 7, 2022). <emphasis effect="italics">Bimatoprost solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ce5c7f22-ade3-41ea-8dd8-3ec0399d3279</para>
+    <para id="para-00080">DailyMed. (Updated April 30, 2022). <emphasis effect="italics">Brinzolamide suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=37b19837-fcab-4536-abad-6f4f92dfe794</para>
+    <para id="para-00081">DailyMed. (Updated April 4, 2023). <emphasis effect="italics">Brimonidine tartrate ophthalmic solution, 0.15% solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a52b2033-0333-4630-9b1f-e22918b0962c</para>
+    <para id="para-00082">DailyMed. (Updated August 31, 2021). <emphasis effect="italics">Carteolol hydrochloride solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=571fe550-399d-4296-835c-37aa1ab9b409</para>
+    <para id="para-00083">DailyMed. (Updated October 28, 2022). <emphasis effect="italics">Ciprofloxacin hydrochloride ophthalmic solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=41363a06-d6f5-4bc6-b0e9-34e5616ae387</para>
+    <para id="para-00084">DailyMed. (Updated August 3, 2022). <emphasis effect="italics">Dexamethasone sodium phosphate solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6bdcefbe-51e3-4ca4-afda-5aeca7b6fa73</para>
+    <para id="para-00085">DailyMed. (Updated June 30, 2022). <emphasis effect="italics">Diclofenac sodium solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39dfffb0-612a-48f3-8db5-1a59899b91e9</para>
+    <para id="para-00086">DailyMed. (Updated November 26, 2021). <emphasis effect="italics">Dorzolamide</emphasis> <emphasis effect="italics">hydrochloride ophthalmic solution solution/drops</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea</para>
+    <para id="para-00087">DailyMed. (Updated May 16, 2023). <emphasis effect="italics">Erythromycin ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=061ddd20-94a6-4e3c-ba84-1ebd8529eea6</para>
+    <para id="para-00088">DailyMed. (Updated June 17, 2022). <emphasis effect="italics">Gentamicin sulfate opth solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e1a5bc32-f9a0-6b33-e053-2995a90ab9ac</para>
+    <para id="para-00089">DailyMed. (Updated February 2, 2023). <emphasis effect="italics">Ketorolac tromethamine solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9a186ba-74a9-b6d4-1109-1e045ba1763e</para>
+    <para id="para-00090">DailyMed. (Updated April 17, 2023). <emphasis effect="italics">Latanoprost solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=68aaacbe-98c5-450b-9bf4-4809d7ad2ca0</para>
+    <para id="para-00091">DailyMed. (Updated August 21, 2006). <emphasis effect="italics">Maxidex – dexamethasone suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0aa9dc9-265c-4dd6-9b03-276a47217839</para>
+    <para id="para-00092">DailyMed. (Updated November 16, 2022). <emphasis effect="italics">Natacyn – natamycin suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2818fcb8-5bac-41fb-864e-3b598308a428</para>
+    <para id="para-00093">DailyMed. (Updated January 31, 2023). <emphasis effect="italics">Neomycin and polymyxin b sulfates, bacitracin zinc and hydrocortisone ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3b00eb5c-dd98-467e-a883-04c37a8ecc42</para>
+    <para id="para-00094">DailyMed. (Updated April 17, 2023). <emphasis effect="italics">Prednisolone</emphasis> <emphasis effect="italics">sodium phosphate solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a7f0f2a-3a48-4488-89cd-3e91c3b1365f</para>
+    <para id="para-00095">DailyMed. (Updated February 3, 2020). <emphasis effect="italics">Proparacaine hydrochloride solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b699f838-8b69-4bac-953b-ea8822ec19fc</para>
+    <para id="para-00096">DailyMed. (Updated December 1, 2022). <emphasis effect="italics">Refresh lacri-lube – mineral oil, petrolatum ointment</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d232a44b-516d-4cdf-a4e7-c3a9a50dc7af</para>
+    <para id="para-00097">DailyMed (Updated April 14, 2021). <emphasis effect="italics">Restasis – cyclosporine emulsion.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ce9325ab-fca1-4dae-8e53-a46ec95d3a76</para>
+    <para id="para-00098">DailyMed. (Updated February 21, 2023). <emphasis effect="italics">Rhopressa – netarsudil solution/drops</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d4f0e3a-5b86-4c43-982a-813b22ae7e22</para>
+    <para id="para-00099">DailyMed. (Updated April 6, 2020). <emphasis effect="italics">Tetracaine hydrochloride solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=78404c9e-9c31-4b0a-90f4-04182e82e183</para>
+    <para id="para-00100">DailyMed. (Updated May 5, 2023). <emphasis effect="italics">Timolol maleate solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea585fe8-3356-4f08-8078-34e8ab5de37e</para>
+    <para id="para-00101">DailyMed (Updated April 29, 2020). <emphasis effect="italics">Travoprost ophthalmic solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c17aa704-1ec6-4610-a448-4964bdb1cba1</para>
+    <para id="para-00102">DailyMed. (Updated August 5, 2021). <emphasis effect="italics">Trifluridine solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=abc1d07f-91ee-4421-bc9b-457d0ed41f4c</para>
+    <para id="para-00103">Drugs.com. (2023). <emphasis effect="italics">Ocular lubricant</emphasis>. https://www.drugs.com/mtm/ocular-lubricant.html</para>
+    <para id="para-00104">Farkouh, A., Frigo, P., &amp; Czejka, M. (2016). Systemic side effects of eye drops: A pharmacokinetic perspective. <emphasis effect="italics">Clinical Ophthalmology, 10,</emphasis> 2433–2441. doi: 10.2147/OPTH.S118409. PMID: 27994437; PMCID: PMC5153265</para>
+    <para id="para-00105">Fung, A. T., Tran, T., Lim, L. L., Samarawickrama, C., Arnold, J., Gillies, M., Catt, C., Mitchell, L., Symons, A., Buttery, R., Cottee, L., Tumuluri, K., &amp; Beaumont, P. (2020). Local delivery of corticosteroids in clinical ophthalmology: A review. <emphasis effect="italics">Clinical and Experimental Ophthalmology, 48</emphasis>(3), 366–401. doi: 10.1111/ceo.13702. PMID: 31860766; PMCID: PMC7187156.</para>
+    <para id="para-00106">Garrity, J. (2022a). <emphasis effect="italics">Protective features of the eyes</emphasis>. Merck Manual. https://www.merckmanuals.com/home/eye-disorders/biology-of-the-eyes/protective-features-of-the-eyes</para>
+    <para id="para-00107">Garrity, J. (2022b). <emphasis effect="italics">Structure and function of the eyes</emphasis>. Merck Manual. https://www.merckmanuals.com/home/eye-disorders/biology-of-the-eyes/structure-and-function-of-the-eyes</para>
+    <para id="para-00108">Glaucoma Research Foundation. (2022). <emphasis effect="italics">The importance of corneal thickness</emphasis>. http://glaucoma.org/the-importance-of-corneal-thickness/</para>
+    <para id="para-00109">Haga, C., Waller, T., Ahuja, A. S., Farford, B., Dawson, N., &amp; Yin, M. (2022). There’s danger in the drops: Systemic effects of ophthalmic drops used to treat glaucoma. <emphasis effect="italics">Cureus, 14</emphasis>(1), e20945. doi:10.7759/cureus.20945. PMID: 35154926; PMCID: PMC8814563.</para>
+    <para id="para-00110">Hoffmanova, I., &amp; Sanchez, D. (2018). Metabolic acidosis and anaemia associated with dorzolamide in a patient with impaired renal function. <emphasis effect="italics">British Journal of Clinical Pharmacology, 84</emphasis>, 796–799. https://doi.10.1111/bcp.13499</para>
+    <para id="para-00111">Hu, K., Patel, J., &amp; Patel, B. C. (2022). <emphasis effect="italics">Crigler technique for congenital nasolacrimal duct obstruction</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK559267/</para>
+    <para id="para-00112">Institute for Safe Medication Practices. (2023). <emphasis effect="italics">List of confused drug names.</emphasis> https://www.ismp.org/recommendations/confused-drug-names-list</para>
+    <para id="para-00113">Iskandar, K., Marchin, L., Kodjikian, L., Rocher, M., &amp; Roques, C. (2022). Highlighting the microbial contamination of the dropper tip and cap of in-use eye drops, the associated contributory factors, and the risk of infection: A past-30-years literature review. <emphasis effect="italics">Pharmaceutics</emphasis>. 2022, <emphasis effect="italics">14</emphasis>(10), 2176. https://doi.org/10.3390/pharmaceutics14102176</para>
+    <para id="para-00114">Johns Hopkins Medicine. (n.d.). <emphasis effect="italics">Episcleritis</emphasis>. https://www.hopkinsmedicine.org/health/conditions-and-diseases/episcleritis</para>
+    <para id="para-00115">Khan, S. (n.d.-a). <emphasis effect="italics">How do ophthalmic lubricants work?</emphasis> RxList. https://www.rxlist.com/how_do_ophthalmic_lubricants_work/drug-class.htm</para>
+    <para id="para-00116">Kopplin, L. J. (2020). When to consider systemic treatments. <emphasis effect="italics">Retina Specialist</emphasis>. https://www.retina-specialist.com/article/when-to-consider-systemic-treatments</para>
+    <para id="para-00117">Liu, Y., Xu, H., Yan, N., Tang, Z., &amp; Wang, Q. (2023). Research progress of ophthalmic preparations of immunosuppressants. <emphasis effect="italics">Drug Delivery, 30</emphasis>(1), 2175925. https://doi.org/10.1080/10717544.2023.2175925</para>
+    <para id="para-00118">Mayo Clinic. (2022). <emphasis effect="italics">Glaucoma</emphasis>. https://www.mayoclinic.org/diseases-conditions/glaucoma/symptoms-causes/syc-20372839</para>
+    <para id="para-00119">Mayo Clinic. (2023a). <emphasis effect="italics">Dorzolamide (ophthalmic route).</emphasis> https://www.mayoclinic.org/drugs-supplements/dorzolamide-ophthalmic-route/side-effects/drg-20063524?p=1</para>
+    <para id="para-00120">Mayo Clinic. (2023b). <emphasis effect="italics">Tetracaine (ophthalmic route)</emphasis>. https://www.mayoclinic.org/drugs-supplements/tetracaine-ophthalmic-route/proper-use/drg-20074790?p=1</para>
+    <para id="para-00121">Moshirfar, M., Parker, L., Birdsong, O. C., Ronquillo, Y. C., Hofstedt, D., Shah, T. J., Gomez, A. T., Hoopes, P. C. S. (2018). Use of rho kinase inhibitors in ophthalmology: A review of the literature. <emphasis effect="italics">Medical Hypothesis Discovery and Innovation in Ophthalmology, 7</emphasis>(3), 101–111. PMID: 30386798; PMCID: PMC6205677.</para>
+    <para id="para-00122">Mrowicka, M., Mrowicki, J., Kucharska, E., &amp; Majsterek, I. (2022). Lutein and zeaxanthin and their roles in age-related macular degeneration—neurodegenerative disease. <emphasis effect="italics">Nutrients, 14</emphasis>, 827. https://doi.org/10.3390/nu14040827</para>
+    <para id="para-00123">National Eye Institute. (2020, September). <emphasis effect="italics">Presbyopia.</emphasis> https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/presbyopia</para>
+    <para id="para-00124">National Eye Institute. (2022, June). <emphasis effect="italics">Refractive errors</emphasis>. https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/refractive-errors</para>
+    <para id="para-00125">National Health Service. (2023, February). <emphasis effect="italics">Conjunctivitis</emphasis>. NHS Inform. https://www.nhsinform.scot/illnesses-and-conditions/eyes/conjunctivitis</para>
+    <para id="para-00126">National Retina Institute. (2023). <emphasis effect="italics">Macular degeneration.</emphasis> https://nationalretina.com/macular-degeneration</para>
+    <para id="para-00127">Rehman, I., Mahabadi, N., Motlagh, M., &amp; Ali, T. (2022). <emphasis effect="italics">Anatomy, head and neck, eye fovea</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482301/</para>
+    <para id="para-00128">Rosenbaum, J. T. (2019). The eye in spondyloarthritis. <emphasis effect="italics">Seminars in Arthritis and Rheumatism</emphasis>, <emphasis effect="italics">49</emphasis>(3S), S29–S31. doi: 10.1016/j.semarthrit.2019.09.014. PMID: 31779847; PMCID: PMC6981236.20230416150255131436109</para>
+    <para id="para-00129">Satar, H. A., Yaakub, A., Shukri, N., &amp; Tajudin, L. S. (2021). Orbital cellulitis secondary to dental abscess in children. <emphasis effect="italics">Cureus</emphasis>, <emphasis effect="italics">13</emphasis>(4). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106993/</para>
+    <para id="para-00130">Schonberg, S., &amp; Stokkermans, T. (2023). <emphasis effect="italics">Episcleritis.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534796/</para>
+    <para id="para-00131">Sharifi, A., Naisiri, N., Shams, M., Sharifi, M., &amp; Sharifi, H. (2022). Adverse reactions from topical ophthalmic anesthetic abuse. <emphasis effect="italics">Journal of Ophthalmic and Vision Research, 17</emphasis>(4), 470–478. doi: 10.18502/jovr.v17i4.12297. PMID: 36620720; PMCID: PMC9806309.</para>
+    <para id="para-00132">Singh, P., Gupta, A., &amp; Tripathy, K. (2023). <emphasis effect="italics">Keratitis</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK559014/</para>
+    <para id="para-00133">Stringer, C. M, Lopez, M. J., &amp; Maani, C. V. (2023). <emphasis effect="italics">Tetracaine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK535437/</para>
+    <para id="para-00134">Tang, X. J., Liu, Q., Pi, L. H., Chen, X. K., &amp; Chen, L. (2021). Thygeson’s superficial punctate keratitis (TSPK): A paediatric case report and review of the literature. <emphasis effect="italics">BMC Ophthalmology, 21</emphasis>(1), 64. doi: 10.1186/s12886-020-01790-6. PMID: 33514353; PMCID: PMC7845125.</para>
+    <para id="para-00135">Waisberg, E., &amp; Micieli J. A. (2021, December). Neuro-ophthalmological optic nerve cupping: An overview. <emphasis effect="italics">Eye Brain</emphasis>, <emphasis effect="italics">13,</emphasis> 255–268. doi: 10.2147/EB.S272343.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>conjunctival hyperemia</term> <meaning>excess of blood in the eye’s vessels, causing redness</meaning></definition>
+    </glossary>
 </document>
