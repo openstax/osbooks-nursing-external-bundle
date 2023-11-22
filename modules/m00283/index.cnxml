@@ -81,7 +81,7 @@
       </tbody>
      </tgroup>
 
-<caption>Drug Emphasis Table: Beta-Adrenergic Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption>Drug Emphasis Table: Beta-Adrenergic Blockers (source: https://dailymed.nlm.nih.gov/dailymed/; January et al., 2014)</caption>
       </table>
 </section>
 <section id="sect-00005">
@@ -113,7 +113,7 @@ Acts as a beta-1 receptor antagonist in cardiac tissue, slowing pacing from the 
       </row>
       <row>
  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-Rate control of atrial fibrillation/flutter (off-label)<newline/>
+Rate control of atrial fibrillation/flutter<newline/>
 Angina<newline/>
 Heart failure<newline/>
 Hypertension<newline/>
@@ -197,7 +197,7 @@ Bronchospastic disease</entry>
 This client has a past medical history of type 2 diabetes and hypercholesterolemia.</para>
 <para id="para-00022"><emphasis effect="bold">Current Medications</emphasis><newline/>
 Omeprazole 20 mg daily</para>
-  <table class="vertically-tight" id="table-00003">
+  <table class="vertically-tight full-width" id="table-00003">
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
