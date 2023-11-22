@@ -361,7 +361,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Name</span></entry>
 <entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
 </row>
 </thead>
@@ -391,7 +391,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Table 36.6</emphasis> Drug Emphasis Table: Progestin-Only Contraceptives (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption>Drug Emphasis Table: Progestin-Only Contraceptives (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="link-to-learning" id="note-00005">
 <title>Contraceptive Options</title>
