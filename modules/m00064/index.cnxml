@@ -31,64 +31,49 @@
     <para id="para-00005">Read the following clinical scenario and then answer the questions that follow. This case study is a follow-up to Case Study Parts A and B.</para>
     <para id="para-00006">Kai is in the clinic today for difficulty breathing upon walking. His current vital signs are listed on the left side of the following table. Kai states that he has smoked for 30 years and frequently eats fast food because his job demands long hours and he does not have time for grocery shopping. You notice a cough; Kai states he does not know when it began exactly. He has noted a decrease in his weight, and he has a hard time working the long days his job demands because he becomes short of breath. You look at his chart, shown on the right side of the following table, which includes his vital signs and exam notes from his visit last year.</para>
     
-    <table class="vertically-tight" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <colspec colnum="4" colname="c4" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text">Today’s Vital Signs</span></entry>
-    <entry valign="top" align="left" namest="c3" nameend="c4"><span class="blue-text">Last Year’s Vital Signs and Exam Notes</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Today’s Vital Signs</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Last Year’s Vital Signs and Exam Notes</span></entry>
     </row>
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Temperature:</entry>
-    <entry valign="top" align="left">97.6ºF</entry>
-    <entry valign="top" align="left">Temperature:</entry>
-    <entry valign="top" align="left">98.0ºF</entry>
+    <entry valign="top" align="left">Temperature: 97.6ºF</entry>
+    <entry valign="top" align="left">Temperature: 98.0ºF</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Blood pressure:</entry>
-    <entry valign="top" align="left">128/89 mm Hg</entry>
-    <entry valign="top" align="left">Blood pressure:</entry>
-    <entry valign="top" align="left">126/82 mm Hg</entry>
+    <entry valign="top" align="left">Blood pressure: 128/89 mm Hg</entry>
+    <entry valign="top" align="left">Blood pressure: 126/82 mm Hg</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Heart rate:</entry>
-    <entry valign="top" align="left">99 beats/min</entry>
-    <entry valign="top" align="left">Heart rate:</entry>
-    <entry valign="top" align="left">89 beats/min</entry>
+    <entry valign="top" align="left">Heart rate: 99 beats/min</entry>
+    <entry valign="top" align="left">Heart rate: 89 beats/min</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Respiratory rate:</entry>
-    <entry valign="top" align="left">28</entry>
-    <entry valign="top" align="left">Respiratory rate:</entry>
-    <entry valign="top" align="left">20</entry>
+    <entry valign="top" align="left">Respiratory rate: 28</entry>
+    <entry valign="top" align="left">Respiratory rate: 20</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Oxygen saturation:</entry>
-    <entry valign="top" align="left">89% on room air (drops to 77 while walking)</entry>
-    <entry valign="top" align="left">Oxygen saturation:</entry>
-    <entry valign="top" align="left">92% on room air</entry>
+    <entry valign="top" align="left">Oxygen saturation: 89% on room air<newline/>
+       (drops to 77 while walking)</entry>
+    <entry valign="top" align="left">Oxygen saturation: 92% on room air</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Height:</entry>
-    <entry valign="top" align="left">6'0"</entry>
-    <entry valign="top" align="left">Height:</entry>
-    <entry valign="top" align="left">6'0"</entry>
+    <entry valign="top" align="left">Height: 6'0"</entry>
+    <entry valign="top" align="left">Height: 6'0"</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Weight:</entry>
-    <entry valign="top" align="left">268 lb</entry>
-    <entry valign="top" align="left">Weight:</entry>
-    <entry valign="top" align="left">280 lb</entry>
+    <entry valign="top" align="left">Weight: 268 lb</entry>
+    <entry valign="top" align="left">Weight: 280 lb</entry>
     </row>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2"/>
-    <entry valign="top" align="left" namest="c3" nameend="c4">The client presents with mild dry cough for 2 weeks. Client’s chest x-ray shows enlarged lung air pockets. The client does not have a history of respiratory conditions but stated he has smoked for 30 years. The client is a construction worker with a fluctuating dietary history. Recommendations for client include smoking cessation.</entry>
+    <entry valign="top" align="left"></entry>
+    <entry valign="top" align="left">The client presents with mild dry cough for 2 weeks. Client’s chest x-ray shows enlarged lung air pockets. The client does not have a history of respiratory conditions but stated he has smoked for 30 years. The client is a construction worker with a fluctuating dietary history. Recommendations for client include smoking cessation.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -344,10 +329,10 @@
     <para id="para-00026">Ginger is another spice belonging to the curcumin category, demonstrating similar antiviral and anti-inflammatory responses, such as its classmate turmeric. Ginger is thought to act by diminishing lung inflammation.</para>
     <para id="para-00027">Garlic has antioxidant, anti-inflammatory, and cholesterol-lowering effects. Garlic is high in folic acid, vitamin C, calcium, iron, magnesium, potassium, zinc, vitamin B2, vitamin B1, and vitamin B3. Garlic is thought to have antiviral, antibiotic, and antifungal effects on the body. See <link target-id="table-00004" document="m00064"/>.</para>
     
-    <table class="vertically-tight alternate-shading" id="table-00004">
+    <table class="vertically-tight alternate-shading full-width" id="table-00004">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Source</emphasis></span></entry>
