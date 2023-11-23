@@ -73,7 +73,7 @@
     <para id="para-00017">Overall, the physiological changes that occur during adolescence contribute to or deter from pulmonary capacity and function. Although RTI susceptibility increases and asthma can be challenging during adolescence, the pulmonary systems of most adolescents experience growth.</para>
     <para id="para-00018">Nutritional intake during adolescence is crucial as the pulmonary system grows and develops (Gozzi-Silva et al., 2021). Adequate macronutrient and micronutrient intake also aids in the immune system’s development. Protein consumption should include 0.85–1.2 g of protein per kilogram of body weight per day (Hudson et al., 2021). Solid recommended sources of protein include lean meats, poultry, fish, eggs, dairy products, beans, tofu, legumes, and nuts.</para>
     <para id="para-00019">Micronutrient intake for adolescents should focus on vitamins A, C, and E, omega-3 fatty acids, magnesium, and water (Gozzi-Silva et al., 2021; Scoditti et al., 2019). Vitamins A, C, and E are essential <term class="no-emphasis" id="term-00045">antioxidants</term> that protect the lungs from <term class="no-emphasis" id="term-00046">oxidative stress</term> and inflammation. See <link target-id="table-00001" document="m00063"/> for a list of vitamins and possible food sources. Finally, adolescents must remain hydrated, which is essential for all life functions.</para>
-    <table class="vertically-tight alternate-shading" id="table-00001">
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -113,6 +113,8 @@
     Nuts<newline/>
     Seeds<newline/>
     Whole grain</entry>
+  </row>
+  <row>
     <entry valign="top" align="left">Omega-3 fatty acids</entry>
     <entry valign="top" align="left">Chia seeds<newline/>
     Flaxseeds<newline/>
