@@ -5,9 +5,403 @@
     <md:content-id>m00324</md:content-id>
     <md:uuid>42217c13-6c11-4232-8015-102ec73d83c1</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Recognize major diseases affecting adults.</item>
+<item>Compare health outcomes between adults.</item>
+<item>Create evidence-based educational interventions to promote self-care for health promotion, illness prevention, and illness management of adults.</item>
+<item>Examine major risk factors influencing the health of adults.</item>
+<item>Identify Healthy People 2030 goals established for adults.</item>
+<item>Describe health promotion and disease prevention actions applicable to adults.</item>
+<item>Discuss evidence-based strategies for integrating sociocultural and linguistically responsive health promotion and disease prevention interventions in the clinical practice of adults.</item>
+</list>
+<para id="para-00002">Health promotion and disease prevention must focus on chronic, noncommunicable diseases and communicable diseases because the prevention of chronic diseases has become a major public health concern. Cardiovascular disease, diabetes, and cancer are leading causes of death and disability in adults globally; in the United States alone, one in three deaths each year occurs due to heart disease, stroke, or other cardiovascular diseases (National Center for Chronic Disease Prevention and Health Promotion, 2022c). The good news is that many of these chronic diseases are preventable through efforts that target lifestyle modification and appropriate health behaviors. Therefore, promoting and maintaining good health practices among adults is critical for preventing chronic diseases and improving quality of life. While chronic diseases are a significant concern for adults, communicable diseases also substantially threaten public health. Influenza, tuberculosis, and STIs are only some illnesses caused by infectious agents, which spread from person to person without efforts to control this spread. The <term class="no-emphasis" id="term-00001">COVID-19</term> pandemic demonstrated the importance of preventing the spread of infection (National Foundation for Infectious Diseases, 2023).</para>
+<para id="para-00003">This section discusses various aspects of adult health promotion and disease prevention, including healthy lifestyle habits, recommended screenings and immunizations, the impact of both communicable and noncommunicable diseases on vulnerable populations, and the importance of cultural competence in addressing these health issues. By understanding and implementing these activities into their lives, adults can protect themselves and their communities while also improving their overall health and well-being.</para>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Major Diseases Affecting Adults</title>
+<para id="para-00004">In the United States, several major diseases affect adults, leading to significant mortality (see [link]Table 26.10[/link]). These diseases cause physical limitations, significantly impact quality of life, and increase health care costs. Nurses must understand the causes, risk factors, and preventive measures associated with these diseases to help reduce their burden on the population and promote healthy living. Of these 13 diseases, 11 are noncommunicable diseases.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="middle" align="center" morerows="1"><span class="blue-text"><emphasis effect="bold"/></span></entry>
+<entry valign="middle" align="center" namest="c2" nameend="c4"><span class="blue-text"><emphasis effect="bold">Mortality</emphasis></span></entry>
+</row>
+<row>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Cause of Death Rank</emphasis></span></entry>
+<entry valign="middle" align="center" morerows="8"><span class="blue-text"><emphasis effect="bold">Number of Deaths</emphasis></span></entry>
+<entry valign="middle" align="center" morerows="8"><span class="blue-text"><emphasis effect="bold">Deaths per 100,000 Population</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Noncommunicable</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">Diseases of heart</entry>
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">694,619</entry>
+<entry valign="top" align="left">278.1</entry>
+</row>
+<row>
+<entry valign="top" align="left">Malignant neoplasms</entry>
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">603,484</entry>
+<entry valign="top" align="left">241.6</entry>
+</row>
+<row>
+<entry valign="top" align="left">Accidents</entry>
+<entry valign="top" align="left">4</entry>
+<entry valign="top" align="left">215,485</entry>
+<entry valign="top" align="left">86.3</entry>
+</row>
+<row>
+<entry valign="top" align="left">Cerebrovascular disease</entry>
+<entry valign="top" align="left">5</entry>
+<entry valign="top" align="left">162,577</entry>
+<entry valign="top" align="left">65.1</entry>
+</row>
+<row>
+<entry valign="top" align="left">Chronic lower respiratory diseases</entry>
+<entry valign="top" align="left">6</entry>
+<entry valign="top" align="left">142,136</entry>
+<entry valign="top" align="left">56.9</entry>
+</row>
+<row>
+<entry valign="top" align="left">Alzheimer’s disease</entry>
+<entry valign="top" align="left">7</entry>
+<entry valign="top" align="left">119,398</entry>
+<entry valign="top" align="left">47.8</entry>
+</row>
+<row>
+<entry valign="top" align="left">Diabetes</entry>
+<entry valign="top" align="left">8</entry>
+<entry valign="top" align="left">103,135</entry>
+<entry valign="top" align="left">41.3</entry>
+</row>
+<row>
+<entry valign="top" align="left">Chronic liver disease and cirrhosis</entry>
+<entry valign="top" align="left">9</entry>
+<entry valign="top" align="left">56,576</entry>
+<entry valign="top" align="left">22.7</entry>
+</row>
+<row>
+<entry valign="top" align="left">Nephritis, nephrotic syndrome, and nephrosis</entry>
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="left">54,283</entry>
+<entry valign="top" align="left">21.7</entry>
+</row>
+<row>
+<entry valign="top" align="left">Intentional self-harm (suicide)</entry>
+<entry valign="top" align="left">11</entry>
+<entry valign="top" align="left">45,229</entry>
+<entry valign="top" align="left">18.1</entry>
+</row>
+<row>
+<entry valign="top" align="left">Essential hypertension and hypertensive renal disease</entry>
+<entry valign="top" align="left">12</entry>
+<entry valign="top" align="left">42,806</entry>
+<entry valign="top" align="left">17.1</entry>
+</row>
+<row>
+<entry valign="top" align="left">Communicable</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+<row>
+<entry valign="top" align="left">COVID-19</entry>
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">416,252</entry>
+<entry valign="top" align="left">166.7</entry>
+</row>
+<row>
+<entry valign="top" align="left">Influenza and pneumonia</entry>
+<entry valign="top" align="left">13</entry>
+<entry valign="top" align="left">41,653</entry>
+<entry valign="top" align="left">16.7</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Top Causes of Death for Adults in the United States, 2021</emphasis> (See National Center for Health Statistics, 2021.)</caption>
+</table>
+<section id="sect-00004">
+<title>Coronary Artery Disease</title>
+<para id="para-00005"><term class="no-emphasis" id="term-00002">Coronary artery disease (CAD)</term>, also called coronary heart disease or ischemic heart disease, (CDC, 2021j) occurs when plaque buildup in the wall of the coronary arteries (atherosclerosis) leads to a decreased blood supply to the heart. Risks factors for CAD include being overweight, unhealthy eating, and smoking tobacco. CAD also has genetic connections, particularly a family history of heart disease before age 50. For many, the first indicator of CAD is a heart attack.</para>
+</section>
+<section id="sect-00005">
+<title>Cancer</title>
+<para id="para-00006"><term class="no-emphasis" id="term-00003">Cancer</term> occurs when abnormal cells divide out of control and can invade other tissues (CDC, 2021f). Cancer cells can also spread to other body parts through the blood and lymph symptoms. There are more than 100 different types of cancer. Some cancers are preventable, and others are not. One of every five deaths in the United States is due to cancer (U.S. Cancer Statistics Working Group, 2022). One leading cause of cancer is smoking. Lung cancer has been known to be caused by smoking for many years, but smoking can cause cancer in other areas of the body, including the blood, bladder, cervix, colon and rectum, esophagus, kidney, larynx, liver, mouth and throat, pancreas, and stomach. Lowering one’s cancer risk can occur through making healthier choices such as maintaining a healthy weight, limiting alcohol intake, and protecting the skin from UV exposure.</para>
+</section>
+<section id="sect-00006">
+<title>Cerebrovascular Disease</title>
+<para id="para-00007"><term class="no-emphasis" id="term-00004">Cerebrovascular disease</term>, or a <term class="no-emphasis" id="term-00005">stroke</term>, is caused when something blocks the blood supply going to a part of the brain or a blood vessel in the brain ruptures (CDC, 2023i). Regardless of the cause, parts of the brain become damaged or die, leading to problems with movements, memories, thoughts, emotions, language, or other body functions. Strokes can occur at any age, but some people are more at risk for developing a stroke. Those with a history of a previous stroke or transient ischemic attack (TIA), <term class="no-emphasis" id="term-00006">hypertension</term>, <term class="no-emphasis" id="term-00007">high cholesterol</term>, coronary artery disease, atrial fibrillation, diabetes, obesity, and sickle cell disease are at much higher risk of having a stroke. Some lifestyle choices that increase the risk of stroke include (CDC, 2023j)</para>
+<list list-type="bulleted" id="list-00002">
+<item>a diet high in saturated fats and cholesterol,</item>
+<item>a lack of enough physical activity,</item>
+<item>too much alcohol consumption, and</item>
+<item>use of tobacco.</item>
+</list>
+<para id="para-00008">There are also genetic components to stroke risk and factors related to age, sex, race, and ethnicity. Individuals aged 55 and older are more likely to have a stroke, and they are more common in women than men. Those who are non-Hispanic Black or Pacific Islander are more likely to die from a stroke than non-Hispanic White people, Hispanic people, AIAN, and Asians. Black people have a higher risk of having a first stroke and are more likely to die from a stroke than White people (CDC, 2023j).</para>
+</section>
+<section id="sect-00007">
+<title>Chronic Obstructive Pulmonary Disease</title>
+<para id="para-00009">Chronic obstructive pulmonary disease (COPD) is a group of diseases that cause blocking of airflow and other breathing-related problems. COPD includes emphysema and chronic bronchitis. Tobacco smoking is the primary cause of COPD; other causes are related to exposure to air pollutants in the home and workplace, genetic factors, and a history of respiratory infections. The CDC (2021h) reports that women; people aged 65 and older; AIAN and multiracial non-Hispanic people; those who are unemployed, retired, or unable to work; those with less than a high school education; those who are divorced, widowed, or separated; current or former smokers; and those with a history of asthma are more likely to develop COPD.</para>
+</section>
+<section id="sect-00008">
+<title>Alzheimer’s Disease</title>
+<para id="para-00010"><term class="no-emphasis" id="term-00008">Alzheimer’s disease</term> is the most common type of dementia. It begins with mild memory loss and then progresses to the inability to hold a conversation or respond to the environment appropriately, causing severe difficulties in performing activities of daily living (CDC, 2020d). Alzheimer’s disease impacts the part of the brain that controls thoughts, memories, and language. Much remains to be learned about this disease. The best-known risk factor for developing Alzheimer’s disease is age. There are also beliefs that genetics play a role in its development. There are findings that a healthy lifestyle could decrease the risk of developing Alzheimer’s disease (CDC, 2020d).</para>
+<note class="media-feature" id="note-00001">
+<title>Alzheimer’s Disease—Genes Do Not Equal Destiny</title>
+<para id="para-00011">In the Aging and Health Matters podcast episode “<link url="https://openstax.org/r/toolscdc">Alzheimer’s Disease—Genes Do Not Equal Destiny</link>,” host Montrece Ransom speaks with CDC’s Scott Bowen about research that found a healthy lifestyle can help reduce the risk for Alzheimer’s disease (CDC, 2022o).</para>
+<para id="para-00012">Listen to the podcast or read the transcript, and then respond to the questions below:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>What were the new findings from the research?</item>
+<item>What were the four healthy lifestyles that helped to prevent dementias in the research?</item>
+</list>
+</note>
+</section>
+<section id="sect-00009">
+<title>Diabetes</title>
+<para id="para-00013">Diabetes is a chronic health condition caused by the body either not making enough insulin or not using insulin as well as it should. When either of these occurs, too much blood sugar remains in the bloodstream (CDC, 2022e). Over time, the increased blood sugar can lead to serious health problems, including heart disease, vision difficulties, and kidney disease. More than one in three adults in the United States have prediabetes, with blood sugar levels higher than normal but not high enough to develop type 2 diabetes, and over 80 percent of adults do not know they have prediabetes (CDC, 2022j). Even prediabetes can increase the risk of heart disease and stroke. Prediabetes can be viewed as an opportunity to prevent type 2 diabetes. See [link]Figure 26.3[/link] for more about prediabetes.</para>
+<para id="para-00014">The three types of diabetes are type 1 diabetes, type 2 diabetes, and gestational diabetes. Gestational diabetes was discussed briefly earlier in this chapter. Type 1 diabetes involves the body not making enough insulin, perhaps due to an immune reaction. Risk factors for this type of diabetes are family history and age, as it usually develops in children, teens, or young adults. White people in the United States are more likely to develop type 1 diabetes than Black or Hispanic people (CDC, 2022j). There is no known way to prevent type 1 diabetes. In type 2 diabetes, the pancreas makes less insulin than previously, and the body becomes resistant to it. Type 2 diabetes can sometimes be preventable with healthy diet and activity. There are a variety of factors that put a person at risk for type 2 diabetes, including</para>
+<list list-type="bulleted" id="list-00004">
+<item>having prediabetes;</item>
+<item>being overweight;</item>
+<item>being age 45 or older;</item>
+<item>having a direct relative with type 2 diabetes;</item>
+<item>being physically active less than three times weekly;</item>
+<item>having gestational diabetes or giving birth to a baby weighing over 9 pounds; and</item>
+<item>being African American, Hispanic, or AIAN (CDC, 2022e).</item>
+</list>
+<para id="para-00015">Also, more than half of women with PCOS develop type 2 diabetes by age 40, likely related to insulin resistance that occurs with PCOS (CDC, 2022x). Diabetes is the primary cause of kidney failure, lower-limb amputations, and adult blindness. The number of adults diagnosed with diabetes has more than doubled over the last 20 years. Of the adult U.S. population, 38 percent have prediabetes (CDC, 2022j).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="An infographic states that prediabetes increases your risk of developing Type 2 diabetes, heart disease, and stroke. Ignoring prediabetes increases the risk of developing Type 2 diabetes, which carries the associated health risks of blindness, kidney failure, heart disease, stroke, and loss of toes, feet, or legs."><image mime-type="image/png" src="../../media/PH_Figure_26_04_003.png"/></media>
+<caption>The Prediabetes: Could It Be You? infographic describes statistics, the definition of, risks for, and health risks of prediabetes. (See Centers for Disease Control and Prevention, 2022q; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00010">
+<title>Chronic Liver Disease</title>
+<para id="para-00016"><term class="no-emphasis" id="term-00009">Chronic liver disease</term> is a progressive deterioration of liver function, which includes the production of clotting factors and other proteins, detoxification of harmful metabolism products, and bile excretion. Cirrhosis is the final stage of chronic liver disease. The most common causes of chronic liver disease are alcoholic liver disease, non-alcoholic fatty liver disease, chronic viral hepatitis, and certain genetic and autoimmune causes. Other causes of chronic liver disease include use of certain drugs (amiodarone, isoniazid, methotrexate, phenytoin, and nitrofurantoin) and the vascular Budd-Chiari syndrome (Sharma &amp; Nagalli, 2022). Of the causes, it is possible to deter chronic liver disease by limiting the use of over-the-counter pain medications and consumption of high-fat foods and alcohol and reducing the risk of developing hepatitis through vaccination, safer sex practices, and good hygiene.</para>
+</section>
+<section id="sect-00011">
+<title>Chronic Kidney Disease</title>
+<para id="para-00017"><term class="no-emphasis" id="term-00010">Chronic kidney disease</term> involves the damage of kidneys such that they cannot filter blood to remove wastes, toxins, and excess fluid. This excess fluid and waste remain in the body, leading to heart disease and stroke. The kidneys also help control blood pressure, stimulate the production of red blood cells, keep the bones healthy, and regulate important chemicals such as sodium, potassium, and calcium (CDC, 2022c). Risk factors for chronic kidney disease include diabetes, high blood pressure, heart disease, a family history of chronic kidney disease, and obesity. Following a healthy lifestyle and addressing any of the conditions that are risk factors can help decrease the effects or prevent chronic kidney disease.</para>
+</section>
+<section id="sect-00012">
+<title>Communicable Diseases</title>
+<para id="para-00018">Two of the 10 diseases in [link]Table 26.10[/link] are <term class="no-emphasis" id="term-00011">communicable diseases</term> (influenza and COVID-19). Both are respiratory in nature, with similar symptoms, and are easily transmitted (CDC, 2022p). See <link document="m00167"><emphasis effect="bold">Pandemics and Infectious Disease Outbreaks</emphasis></link> for more information.</para>
+</section>
+</section>
+<section id="sect-00013">
+<title>Comparison of Health Outcomes Between Adults</title>
+<para id="para-00019">When comparing health outcomes between adults, many factors must be considered. SDOH, discussed in <link document="m00140"><emphasis effect="bold"> Social Determinants Affecting Health Outcomes</emphasis></link>, including economic stability, education access and quality, health care access and quality, neighborhood and built environment, and social and community context, are only a few of these factors. Others include age, gender, race, and lifestyle behaviors.</para>
+<para id="para-00020">The following key health outcomes are commonly compared in adults; see <link document="m00118"><emphasis effect="bold">The Health of the Population</emphasis></link> for more information:</para>
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="bold">Overall health status:</emphasis> An individual’s self-perceived health status ranges from excellent to poor. In the United States, in 2019, 11.2 percent of people reported fair or poor health status. Trends related to age group and economic stability can be viewed at <link url="https://openstax.org/r/cdcnchshus">https://www.cdc.gov/nchs/hus/topics/health-status.htm#featured-charts</link>.<newline/>
+A document with statistics by age group, sex, race, ethnicity, and geographic region can be viewed at <link url="https://openstax.org/r/cdcpcd">Prevalence of Multiple Chronic Conditions Among U.S. Adults, 2018</link> (NCHS, 2022c).</item>
+<item><emphasis effect="bold">Chronic disease prevalence:</emphasis> This refers to the proportion of a population with chronic disease at a point in time. Data from the 2018 National Health Interview Survey (NHIS) found that 51.8 percent of the U.S. adult population had been diagnosed with at least one of the 10 chronic conditions previously discussed, and 27.2 percent had more than one of them. Data broken down into categories of sex, race/ethnicity, age, health insurance coverage, and location of residence (urban versus rural) can be viewed at <link url="https://openstax.org/r/cdcpcd">Prevalence of Multiple Chronic Conditions Among U.S. Adults, 2018</link> (Boersma et al., 2020).</item>
+<item><emphasis effect="bold">Mortality rates:</emphasis> These are the number of deaths in a population, typically measured as the number of deaths per 100,000 individuals. The provisional mortality data in the U.S. in 2022 indicated that overall death rates were highest among males, older adults, and Black persons. In 2022, the highest weekly numbers of overall deaths and COVID-19-associated deaths were in January and December. Overall death and COVID-19-associated death data by age group, sex, and race and ethnicity can be viewed at <link url="https://openstax.org/r/cdcmmwr">Provisional Mortality Data — United States, 2022</link> (Ahmad et al., 2023).</item>
+<item><emphasis effect="bold">Quality of life:</emphasis> Health-related <term class="no-emphasis" id="term-00012">quality of life</term> (HRQOL) is an individual’s or a group’s perceived physical and mental health over time. On the individual level, HRQOL involves perceptions of physical and mental health and their correlates, including health risks and conditions, functional status, social support, and socioeconomic status. On the community level, HRQOL includes community-level resources, conditions, policies, and practices that can influence a population’s functional status and perceptions of health (CDC, 2018). The <link url="https://openstax.org/r/healthrankings">County Health Rankings</link> (University of Wisconsin Population Health Institute, 2023) model of health indicates measures that influence how well and how long people live. In this model, the following measures connect to quality of life:
+<list list-type="bulleted" id="list-00006">
+<item>Poor or fair health</item>
+<item>Poor physical health days</item>
+<item>Poor mental health days</item>
+<item>LBW</item>
+<item>Frequent physical distress</item>
+<item>Frequent mental distress</item>
+<item>Diabetes prevalence</item>
+<item>HIV prevalence</item></list></item></list>
+<para id="para-00021">In 2020, 12 percent of U.S. adults reported that they considered themselves in fair or poor health, that their physical health was not good on 3 of the previous 30 days, and that their mental health was not good on 4.4 of the previous 30 days. The percentage of live births with low birthweight (&lt; 2,500 grams) was 8 percent. Also, 9 percent of adults were living with a diagnosis of diabetes, and 380 of every 100,000 residents aged 13 and over were living with a diagnosis of HIV (University of Wisconsin Population Health Institute, 2023).</para>
+</section>
+<section id="sect-00014">
+<title>Educational Interventions to Promote Self-Care in Adults</title>
+<para id="para-00022">The WHO (2022d, para. 2) defines <term class="no-emphasis" id="term-00013">self-care</term> as “the ability of individuals, families, and communities to promote their own health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a health professional.” The concept of self-care recognizes individuals as active participants in managing their health in various areas, including health promotion, disease prevention and control, self-medication, providing care to dependent persons, and rehabilitation, including palliative care. Self-care is not intended to replace the need for the formal health care system but allows a different option to receive health care.</para>
+<para id="para-00023">Some examples of <term class="no-emphasis" id="term-00014">educational interventions</term> that may be used to promote self-care in the adult population include the following:</para>
+<list list-type="bulleted" id="list-00007">
+<item>Health education classes: can provide individuals or groups with information on topics such as healthy eating, physical activity, <term class="no-emphasis" id="term-00015">stress management</term>, and disease prevention. Classes can be offered in various settings, such as community centers, workplaces, or health care facilities.</item>
+<item>Self-help materials: brochures, pamphlets, and books can provide individuals with information to maintain good health and prevent illness and can be made available in waiting rooms, libraries, and other public spaces.</item>
+<item>Workshops: can focus on learning practical self-care skills, such yoga or healthy cooking; may be led by health care professionals, community leaders, or trained volunteers.</item>
+<item>Mobile health applications (apps): can provide individuals with personalized health information, reminders, and tracking tools to help them maintain healthy habits. Apps are downloaded on smartphones and are available at any time.</item>
+<item>Social support groups: can provide individuals with the emotional support and encouragement needed to maintain healthy habits; can be led by trained facilitators and can meet in-person or virtually.</item>
+</list>
+<para id="para-00024">The WHO’s <link url="https://openstax.org/r/ncbibooks">Guideline on Self-Care Interventions for Health and Well-Being</link> offers suggestions for many health situations for adults. These guidelines stress the importance of tailoring these interventions to the needs and preferences of the target population to ensure maximum effectiveness (WHO, 2022d). See <link document="m00196"><emphasis effect="bold">Planning Community Health Education</emphasis></link> for more information.</para>
+</section>
+<section id="sect-00015">
+<title>Healthy People 2030 Goals for Adults</title>
+<para id="para-00025">Several <term class="no-emphasis" id="term-00016">Healthy People 2030</term> goals specifically target the health of the adult population. Healthy People 2030 divides these into goals for men and goals for women. The overarching goal for men is to “improve health and well-being for men” (ODPHP, n.d.-d, para. 1), and the overarching goal for women is to “promote health and well-being for women” (ODPHP, n.d.-i, para. 1).</para>
+<para id="para-00026">The difference in the wording of the Healthy People 2030 goals for each sex is likely because men die an average of 5 years earlier than women (ODPHP, n.d.-d). According to the NCHS (2022d),</para>
+<para id="para-00027">Life expectancy at birth for women in the United States dropped 0.8 years from 79.9 years in 2020 to 79.1 in 2021, while life expectancy for men dropped one full year, from 74.2 years in 2020 to 73.2 in 2021. The report shows the disparity in life expectancy between men and women grew in 2021 from 5.7 years in 2020 to 5.9 years in 2021. From 2000 to 2010, this disparity had narrowed to 4.8 years, but gradually increased from 2010 to 2019 and is now the largest gap since 1996. (para. 4)</para>
+<para id="para-00028">Men are also at higher risk for some serious health conditions, such as heart disease, lung cancer, and HIV (ODPHP, n.d.-d). Specific Healthy People 2030 objectives for men are related to prostate cancer (reduce the prostate cancer death rate) and sexually transmitted infections (reduce the syphilis rate in men who have sex with men and reduce gonorrhea rates in male adolescents and young men) (ODPHP, n.d.-d).</para>
+<para id="para-00029">Women also have unique health issues, such as <term class="no-emphasis" id="term-00017">menopause</term>, and some health issues that may affect both sexes can pose unique challenges for women (ODPHP, n.d.-i). Women are also at risk for breast cancer and cervical cancer. There are several specific Healthy People 2030 Objectives for women, including the following:</para>
+<list list-type="bulleted" id="list-00008">
+<item>Reduce iron deficiency in females aged 12 to 49 years</item>
+<item>Reduce the female breast cancer death rate</item>
+<item>Increase the proportion of females who get screened for breast cancer</item>
+<item>Increase the proportion of females who get screened for cervical cancer</item>
+<item>Increase the proportion of females at increased risk who get genetic counseling for breast and/or ovarian cancer</item>
+<item>Reduce infections cause by <emphasis effect="italics">Listeria</emphasis></item>
+<item>Reduce the proportion of adults with osteoporosis</item>
+<item>Reduce pelvic inflammatory disease in female adolescents and young women</item>
+<item>Increase the proportion of sexually active female adolescents and young women who get screened for chlamydia</item>
+<item>Reduce the syphilis rate in females</item>
+</list>
+<para id="para-00030">Other goals target adult health, even though Healthy People 2030 does not specifically group these into such a category. [link]Table 26.11[/link] provides some examples.</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text">Category</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Example of Healthy People 2030 Objective</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Physical activity</entry>
+<entry valign="top" align="left">One objective for physical activity in adults is to increase the proportion of adults who meet the guidelines for aerobic physical activity and muscle-strengthening activity. The target is to increase the proportion of adults who meet these guidelines from 25.2% in 2020 to 29.7% in 2030.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Nutrition and healthy eating</entry>
+<entry valign="top" align="left">One objective for nutrition in adults is to reduce the proportion of adults with obesity. The target is to reduce the proportion of adults with obesity from 41.8% between 2017 and 2020 to 36% in 2030.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Tobacco use</entry>
+<entry valign="top" align="left">Tobacco use: One objective for tobacco use in adults is to reduce current tobacco use in adults. The target is to reduce current tobacco use in adults from 19.3% in 2021 to 17.4% in 2030.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Drug and alcohol use</entry>
+<entry valign="top" align="left">One objective for substance use in adults is to reduce the proportion of people who had alcohol use disorder in the past year. The target is to reduce the proportion of people who had alcohol use disorder in the past year from 5.3% in 2019 to 3.9% in 2030.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Mental health</entry>
+<entry valign="top" align="left">One objective for mental health in adults is to reduce the suicide rate. The target is to reduce the suicide rate from 14.2 suicides per 100,000 population in 2018 to 12.8 per 100,000 population in 2030.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Chronic diseases</entry>
+<entry valign="top" align="left">One objective for chronic diseases is specific to diabetes. The objective is to reduce the number of diabetes cases diagnosed yearly. The target is to reduce the number from 5.5 new cases of diabetes per 1,000 adults that occurred in the past 12 months in 2019–2021 to 4.8 per 1,000 adults in 2030.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Healthy People 2030 Objectives Related to Adult Health (See ODPHP, n.d.c.)</caption>
+</table>
+<para id="para-00031">These Healthy People 2030 goals and objectives reflect the importance of promoting healthy behaviors, preventing chronic diseases, and improving mental health in adults. This can be achieved by addressing some of the SDOH, mentioned previously in this chapter and in <link document="m00140"><emphasis effect="bold">Social Determinants Affecting Health Outcomes</emphasis></link>. For instance, increasing access to healthy, safe, and affordable food can improve the nutrition and health of adults ([link]Figure 26.4[/link]). There are a variety of factors contributing to access of such foods (ODPHP, n.d.-e):</para>
+<list list-type="bulleted" id="list-00009">
+<item>Availability: The location, number, variety, and quality of grocery stores, food services, and farmers markets affects the availability of healthy foods in the community.</item>
+<item>Cost: The cost of foods affects which items adults can afford or choose to purchase. The availability of produce and other healthier items can be limited and often more expensive at convenience stores or smaller food markets.</item>
+<item>Transportation: Access to reliable transportation can make it easier to travel for food and gives adults more choice in where they obtain food. Less access to reliable transportation can be a challenge for those living in rural communities.</item>
+<item>Community Programs: Local participation in community food support programs can help reduce prices and encourage healthier food choices, such as farmers markets that accept payment using Supplemental Nutrition Assistance Program (SNAP) benefits.</item>
+</list>
+<figure class="scaled-down" id="fig-00002">
+<media alt="A large basket of vegetables and fruits sits on a table above a chalkboard that states This Is What 10 Dollars Of SNAP Benefits Will Get You At The Market Today."><image mime-type="image/png" src="../../media/PH_Figure_26_04_004.jpg"/></media>
+<caption>A USDA farmers market provides a sample of what $10 of SNAP benefits might purchase. (credit: “At each U.S. Department of Agriculture (USDA) Farmers Market, a sample of what $10 of USDA Supplemental Nutrition Assistance Program (SNAP) benefits can purchase on Oct 27, 2017, in Washington, DC” by Lance Cheung/U.S. Department of Agriculture/Flickr, Public Domain)</caption>
+</figure>
+</section>
+<section id="sect-00016">
+<title>Health Promotion and Disease Prevention Activities to Improve the Health of Adults</title>
+<para id="para-00032">Many health promotion activities for adults focus on addressing the short list of <term class="no-emphasis" id="term-00018">risk behaviors</term> that lead to chronic illness; these include tobacco use, poor nutrition, physical inactivity, and excessive alcohol use. By engaging in health promotion activities, adults can improve their health, reduce their risk of chronic diseases, and create supportive environments that make healthy choices easier and more accessible. Mitigation of 7 of the 10 diseases shown in [link]Table 26.10[/link] can occur by addressing these behaviors. The CDC’s National Center for Chronic Disease Prevention and Health Promotion (2022c) provides detailed approaches to address these behaviors, including</para>
+<list list-type="bulleted" id="list-00010">
+<item>helping people who smoke quit,</item>
+<item>increasing access to healthy foods and physical activity,</item>
+<item>preventing excessive alcohol use,</item>
+<item>promoting lifestyle change and disease management,</item>
+<item>promoting community water fluoridation,</item>
+<item>promoting mental health and emotional well-being, and</item>
+<item>promoting better sleep.</item>
+</list>
+<para id="para-00033">Public health policies and programs can also play a critical role in promoting health and improving the overall well-being of adults. Many success stories have resulted from health promotion activities to address the risk behaviors connected to the United States’ common chronic illnesses:</para>
+<list list-type="bulleted" id="list-00011">
+<item><link url="https://openstax.org/r/nccdsuccessstories">Healthy Foods in Alabama Corner Stores Help Fight Food Deserts</link> (Division of Nutrition, Physical Activity, and Obesity [DNPAO], 2020).</item>
+<item><link url="https://openstax.org/r/cdcnccdsuccessstories">Coeur d’Alene Tribe Gets More Native Americans Moving with Pow Wow Sweat</link> (DNPAO, 2020)</item>
+<item><link url="https://openstax.org/r/tobaccotips">Tiffany R.’s Story: Tips from Former Smokers<sup>®</sup></link> (CDC, 2022t)</item>
+<item><link url="https://openstax.org/r/checkyourdrinking">Check Your Drinking. Make a Plan to Drink Less.</link> (CDC, 2022n)</item>
+<item><link url="https://openstax.org/r/experience">Beth’s Experience as a Breathe Well, Live Well Educator</link> (American Lung Association, 2021)</item>
+<item><link url="https://openstax.org/r/howrightnow">How Right Now</link> (CDC, 2023d)</item>
+</list>
+<para id="para-00034">Adulthood comes with many responsibilities and increased productivity. From the ages of 18 through 65 years, significant biological, physiological, social, and psychological changes occur (Mayo Clinic, 2023). During this time, adults develop relationships with significant others, marriages or partnerships, families, and careers while making lifelong decisions. All of this impacts the health of adults.</para>
+<para id="para-00035">Nurses are integral to fostering health promotion and disease prevention in U.S. adults. Along with individual, <term class="no-emphasis" id="term-00019">client-centered care</term>, the nurse may need to provide family-centered and workplace health promotion and disease prevention to best address the health of this population. Despite the environment of care, nurses play a critical role in promoting health and preventing disease in adults (Melariri et al., 2022). Nurses often conduct health assessments to identify risk factors and develop individualized, family, and population plans. This may include assessing lifestyle factors or screening for chronic diseases. Nurses provide education to individual and adult populations on healthy lifestyle behaviors, disease prevention, and self-care management. Nurses perform preventative measures to detect and prevent diseases, such as administering immunizations, performing screenings, and providing counseling. Nurses coordinate care for adults with complex health needs through referrals to appropriate health care providers, community resources, or social services to assist in meeting their needs. Finally, nurses advocate for the adult population by promoting policies and environments that support health and prevent disease, such as working to address SDOH that contribute to health disparities (Melariri et al., 2022).</para>
+<section id="sect-00017">
+<title>Primary Prevention</title>
+<para id="para-00036"><term class="no-emphasis" id="term-00020">Primary prevention</term> involves taking measures to prevent health problems or injuries before they happen. A variety of primary prevention strategies can be used in the adult population. Some of these include the following:</para>
+<list list-type="bulleted" id="list-00012">
+<item><term class="no-emphasis" id="term-00021">Immunizations</term>: Immunizations are a highly effective mechanism of preventing infectious diseases such as influenza, pneumonia, COVID-19, and hepatitis B. The HPV vaccine can prevent several different types of cancer (CDC, 2023e). See the <link url="https://openstax.org/r/cdcadult">CDC’s 2023 Recommended Adult Immunization Schedule</link> for specific recommendations for adults (CDC, 2023a).</item>
+<item><term class="no-emphasis" id="term-00022">Health education</term>: Education can alter unhealthy or risky behaviors that could lead to disease or injury and increase resistance to disease or injury should exposure occur. Some examples of health education for the adult population include nutrition, regular exercise, avoidance of smoking, workplace safety, safer sex practices, and sun safety ([link]Figure 26.5[/link]).</item>
+<item><term class="no-emphasis" id="term-00023">Advocacy</term>: Nurses can advocate for legislation and enforcement to ban or control the use of hazardous products, such as asbestos, or to mandate safe and healthy practices, such as the use of seat belts.</item>
+</list>
+<para id="para-00037">An example of primary prevention involves preventing musculoskeletal disorders such as lower back pain, neck and shoulder pain, wrist strain, and tendonitis. These are among the leading causes of work-related disability that are associated with prescription opioid use and can progress into substance use disorder (Le &amp; Rosen, 2021). Many employers do not see the connection between unhealthy working conditions, workplace injury and illness, and opioid use or addiction. Primary prevention can occur by addressing musculoskeletal disorders and implementing proper ergonomics in the workplace. For example, nurse can educate workers to use their arm and leg muscles for lifting rather than their back. Implementing a work site stretch and flex program can prepare the employee’s body for the shift ahead ( ResponsAble Safety Staffing, 2018). Also, providing personal protective equipment (PPE) designed specifically to reduce the risk of injury, such as shoulder and knee pads, can prevent injury. These strategies can prevent the progression to a substance use disorder and reduce workers’ compensation, health care, social security, and other disability costs associated with work-related injuries (Le &amp; Rosen, 2021). <link document="m00338">Caring Across Practice Settings</link> discusses occupational health in more detail.</para>
+<figure class="scaled-down" id="fig-00003">
+<media alt="A row of people exercise on treadmills in a gym."><image mime-type="image/png" src="../../media/PH_Figure_26_04_005.jpg"/></media>
+<caption>This image illustrates an employee fitness center where a number of activities are provided for employees’ health, including treadmills for aerobic exercise. (credit: “This image was captured on one of the Centers for Disease Control and Prevention (CDC) campuses, in the facility’s fitness center” by Amanda Mills/Centers for Disease Control and Prevention, Public Domain)</caption>
+</figure>
+</section>
+<section id="sect-00018">
+<title>Secondary Prevention</title>
+<para id="para-00038"><term class="no-emphasis" id="term-00024">Secondary prevention</term> is critical for detecting and treating diseases early before they progress and cause significant harm. Screening tests, diagnostic tests, and routine health exams are essential for early detection and treatment of diseases. View the <link url="https://openstax.org/r/highmarkprc">2023 Adult Preventive Health Guidelines: Ages 19 through 64 Years</link> for specific information (Highmark, 2023a). Here are some examples of secondary prevention strategies for adults:</para>
+<list list-type="bulleted" id="list-00013">
+<item>Cancer screening: Screenings for cancer, such as mammograms, colonoscopies, and Pap tests, can detect cancers at its earliest stages, when treatment is most effective.</item>
+<item>Cardiovascular disease screenings: Regular blood pressure and cholesterol screenings can detect early signs of cardiovascular disease, allowing for early intervention and treatment.</item>
+<item>Diabetes screenings: Screening for diabetes with a simple blood test can detect the disease or prediabetes early, allowing for early intervention and treatment to prevent progression and complications.</item>
+<item>Routine health exams: Regular checkups with a health care provider can help identify health problems early before they become more serious.</item>
+<item>Skin cancer screenings: Routine skin cancer screenings can detect early signs of skin cancer.</item>
+<item>STI screenings: Regular STI screenings can detect early signs of infection, allowing for early treatment, prevention of spread, and prevention of complications</item>
+<item>Osteoporosis screenings: Regular bone density screenings can detect early signs of osteoporosis, allowing for early intervention and treatment to prevent fractures.</item>
+</list>
+<para id="para-00039">The HPV test, which looks for the HPV virus that can cause cell changes on the cervix, and the Pap test, which looks for precancers or cell changes on the cervix that might become cervical cancer if they are not treated appropriately, are the two tests that can help either prevent cervical cancer or find it early in adult women. <link url="https://openstax.org/r/swxzftsfstq">Jasmine’s Story: Preventing Cervical Cancer</link> provides one person’s experience with this screening (CDC, 2022u).</para>
+<para id="para-00040">The CDC has also developed an interactive experience, called <link url="https://openstax.org/r/cdccancer">Talk to Nathan</link>, that provides a conversation with an avatar to help clients determine if they should be screened for prostate cancer. Another interactive experience is provided to health care providers to allow them to practice helping clients make decisions about prostate cancer screening and treatment (CDC, 2022m).</para>
+</section>
+<section id="sect-00019">
+<title>Tertiary Prevention</title>
+<para id="para-00041"><term class="no-emphasis" id="term-00025">Tertiary prevention</term> focuses on preventing further complications and improving the quality of life for adults who are already living with a chronic disease or condition. Here are some examples of tertiary prevention strategies for adults:</para>
+<list list-type="bulleted" id="list-00014">
+<item><term class="no-emphasis" id="term-00026">Disease management</term> programs: Disease management or disease self-management programs are designed to help adults with chronic diseases manage their condition and prevent progression or complications. They may include education, lifestyle changes, medication management, and support groups.</item>
+<item><term class="no-emphasis" id="term-00027">Rehabilitation</term> programs: Rehabilitation programs, such as physical therapy and occupational therapy, can help adults regain strength and function following an illness or injury.</item>
+<item><term class="no-emphasis" id="term-00028">Chronic pain management</term>: Chronic pain management programs can help adults manage their pain and improve their quality of life. These may include medication management, therapies, and psychological support.</item>
+<item><term class="no-emphasis" id="term-00029">Palliative care</term>: Palliative care is specialized medical care for those living with a serious illness, such as cancer or heart failure. It is not meant to cure the disease itself, but instead to provide care for their symptoms to allow them to focus on their quality of life. Palliative care can be provided along with curative treatment (National Institute on Aging, 2021).</item>
+<item><term class="no-emphasis" id="term-00030">End-of-life care</term>: End-of-life care is often also known as hospice care. It focuses on the care, comfort, and quality of life of a person with a serious illness who is approaching the end of life. Attempts to cure a person’s illness are no longer used (National Institute on Aging, 2021).</item>
+<item><term class="no-emphasis" id="term-00031">Mental health support</term>: Mental health support may include therapy and support groups to assist adults and their families in coping with emotional and psychological effects of diseases.</item>
+</list>
+<para id="para-00042">The CDC’s National Diabetes Prevention Program was created in 2010 to address the increasing burden of prediabetes and type 2 diabetes on adults in the United States. Partnerships between public and private organizations led to the development of evidence-based, cost-effective interventions to help prevent type 2 diabetes in communities. The <link url="https://openstax.org/r/cdcdiabetes">Lifestyle Change Program</link> is one result of this effort. It is designed for adults who are overweight, not yet diagnosed with type 1 or type 2 diabetes, and not currently pregnant but either are diagnosed with prediabetes, were previously diagnosed with gestational diabetes, or have high-risk results on the CDC’s prediabetes risk test. The program involves a CDC-approved curriculum, a lifestyle coach, and a support group of people with similar goals and challenges (CDC, 2022v).</para>
+</section>
+</section>
+<section id="sect-00020">
+<title>Integration of Sociocultural and Linguistically Responsive Interventions for Adults</title>
+<para id="para-00043">Nurses must recognize that a “one size fits all” approach to health promotion and disease prevention may not be effective for all clients. Sociocultural and linguistic factors such as language barriers, cultural beliefs, and SDOH can significantly influence an individual’s health outcomes. Therefore, integrating sociocultural and linguistically responsive interventions into health care is crucial for promoting health equity and improving health outcomes for all individuals, including adults. This section explores the importance of integrating sociocultural and linguistically responsive interventions for adults and some examples of how nurses can effectively implement these interventions into practice.</para>
+<section id="sect-00021">
+<title>Sociocultural Interventions</title>
+<para id="para-00044">By incorporating socioculturally responsive components into the design of health promotion and disease prevention programs, nursing interventions can be more effective in engaging and promoting healthy behaviors among the adult population. Immigrant adults are one specific population that may benefit from such integration. Immigrants face unique cultural barriers to participation in mainstream health promotion programs. These include a lack of access to health care for a variety of reasons, including ineligibility for certain programs, limited support for culturally appropriate health care services, lack of knowledge of the U.S. health care system, distrust of the U.S. health care system, and fears related to deportation with the use of public services (Ali et al., 2021). Other barriers may involve specific customs and unique cultural or religious understandings of health and disease. U.S. immigrants are more likely to be unaware of a chronic disease, such as hypertension, and have lower treatment rates. Ali et al. (2021) determined that while modifiable lifestyle behavioral risk factors must be the common target for hypertension reduction interventions, additional factors should be considered in immigrant communities. These factors include</para>
+<list list-type="bulleted" id="list-00015">
+<item>gender roles,</item>
+<item>perceptions about physical activity,</item>
+<item>demanding work schedules,</item>
+<item>neighborhood barriers to healthy living, and</item>
+<item>limited physical and financial accessibility to appropriate spaces for healthy activities.</item>
+</list>
+<para id="para-00045">For example, Oshunluyi et al. (2020) described group-based culturally adapted educational sessions on hypertension for African immigrants that incorporated culturally appropriate storytelling. Ma et al. (2020) described using local libraries, churches, and homes to provide group-based culturally adapted education sessions to Filipino Americans at risk of hypertension. Family members have been shown to have a very strong role in impacting sociocultural and economic factors related to immigrant health and behavior change (Ali et al., 2021). Therefore, family members have been successful as change agents in this population.</para>
+</section>
+<section id="sect-00022">
+<title>Linguistically Responsive Interventions</title>
+<para id="para-00046">While sociocultural responsiveness as a whole is imperative in the design of health promotion and disease prevention programs for adults, there is a specific need for linguistic responsive interventions. Kling et al. (2018) described using open, multipurpose rooms inside park recreation centers for group-based multilingual fitness classes. In the classes, five instructors were Hispanic, and four were non-Hispanic Black. Six instructors led the class in English, one led in Spanish, and one led in a mixture of English and Spanish.</para>
+</section>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00023">
+<title>Chapter Summary</title>
+<para id="para-00047">Through a focus on the top causes of death in adults, health promotion and disease prevention address both chronic, noncommunicable diseases and communicable diseases. Adult health topics included healthy habits, screenings, immunizations, and the effects of diseases on vulnerable populations. The significance of sociocultural and linguistic factors that impact health were also addressed. These strategies can provide adults with the ability to best safeguard themselves, their communities, and their overall health.</para>
+</section>
+</content>
 </document>

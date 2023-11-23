@@ -5,9 +5,605 @@
     <md:content-id>m00323</md:content-id>
     <md:uuid>730e722f-4c43-4ea3-a23a-5a7e8745dd69</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list list-type="bulleted" id="list-00001">
+<item>Assess the global and national health status of preschool, school-age, and adolescent health.</item>
+<item>Examine major risk factors influencing the health of the preschool, school-age, and adolescent population.</item>
+<item>Create evidence-based educational interventions to promote self-care for health promotion, illness prevention, and illness management of preschool and school-age children and adolescents.</item>
+<item>Identify Healthy People 2030 goals established for preschool, school-age, and adolescent health.</item>
+<item>Describe health promotion and disease prevention actions applicable to preschool, school-age, and adolescent health.</item>
+<item>Discuss evidence-based strategies for integrating sociocultural and linguistically responsive health promotion and disease prevention interventions in clinical practice of preschool, school-age, and adolescent health.</item>
+</list>
+<para id="para-00002">The preschool, school-age, and adolescent population includes children aged 4 to 17. Health promotion and disease prevention are important for children in this age range as this is a crucial period of growth and development when children are forming habits and behaviors that will impact their health and well-being throughout their lives. Children who learn healthy habits early in life are more likely to continue these habits into adulthood. Through promoting the development of healthy eating, regular physical activity, and good hygiene practices, children can establish a healthy lifestyle that will benefit them for years. Many chronic diseases, such as diabetes, heart disease, and obesity, begin in childhood. Helping children develop these healthy habits and behaviors may reduce their risk of such diseases occurring. Children at this age are also building strong bones and muscles, which will reduce their risk of injury as they age. Finally, children in this age group are developing social and emotional skills they will take into adulthood. Through the promotion, for example, of physical activity such as participating in sports, children will build self-esteem and confidence. Learning good hygiene practices can help build <term class="no-emphasis" id="term-00001">social skills</term> and respect for others (National Center for Chronic Disease Prevention and Health Promotion, 2022b).</para>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>National and Global Status of Preschool, School-Age, and Adolescent Health</title>
+<para id="para-00003">There are wide differences between children aged 4 and children aged 17. Because of these differences, health data for this population is often divided into different groups. [link]Table 26.6[/link] presents some of the health data from the National Center for Health Statistics (2023c). Additional U.S. health data for children and adolescents can be seen at the <link url="https://openstax.org/r/cdcnchs">Health, United States – Data Finder</link>.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Children</emphasis></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Adolescents</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Health Status</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">Percent of children who are in fair or poor health (2022) as identified by the question to adults “Would you say [child’s name]’s health in general is excellent, very good, good, fair, or poor?”</entry>
+<entry valign="top" align="center">2.2%<newline/>
+Ages 5–11</entry>
+<entry valign="top" align="center">3.8%<newline/>
+Ages 12–17</entry>
+</row>
+<row>
+<entry valign="top" align="left">Percent of children who missed 11 or more days of school in the past 12 months due to illness, injury, or disability (2022)</entry>
+<entry valign="top" align="center">8%<newline/>
+Ages 5–11</entry>
+<entry valign="top" align="center">9.9%<newline/>
+Ages 12–17</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Obesity</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">Percent of children who are obese (2017–March 2020)</entry>
+<entry valign="top" align="center">20.7%<newline/>
+Ages 6–11</entry>
+<entry valign="top" align="center">22.2%<newline/>
+Ages 12–19</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Access to Care</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">Percent of children with a usual place of health care (2022)</entry>
+<entry valign="top" align="center">97.2%<newline/>
+Ages 5–11</entry>
+<entry valign="top" align="center">96.4%<newline/>
+Ages 12–17</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Mortality</emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">Number of deaths (2021)</entry>
+<entry valign="top" align="center">5,975<newline/>
+Ages 5–14</entry>
+<entry valign="top" align="center">13,407<newline/>
+Ages 15–19</entry>
+</row>
+<row>
+<entry valign="top" align="left">Deaths per 100,000 population (2021)</entry>
+<entry valign="top" align="center">14.3<newline/>
+Ages 5–14</entry>
+<entry valign="top" align="center">62.2<newline/>
+Ages 15–19</entry>
+</row>
+<row>
+<entry valign="top" align="left">Leading causes of death (2020)
+<list list-type="bulleted" id="list-00002">
+<item>Unintentional injury causes (2020)</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00003">
+<item>Unintentional injuries
+<list list-type="enumerated" number-style="arabic" id="list-00004">
+<item>Motor vehicle traffic</item>
+<item>Drowning</item>
+<item>Fire/burn</item></list></item>
+<item>Cancer</item>
+<item>Congenital anomalies<newline/>
+Ages 5–9</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00005">
+<item>Unintentional injuries
+<list list-type="enumerated" number-style="arabic" id="list-00006">
+<item>Motor vehicle traffic</item>
+<item>Poisoning (prescription or illegal drugs)</item>
+<item>Drowning</item></list></item>
+<item>Homicide</item>
+<item>Suicide<newline/>
+Ages 15–24</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00007">
+<item>Unintentional injuries
+<list list-type="enumerated" number-style="arabic" id="list-00008">
+<item>Motor vehicle traffic</item>
+<item>Drowning</item>
+<item>Other land transport</item></list></item>
+<item>Intentional self-harm (suicide)</item>
+<item>Cancer<newline/>
+Ages 10–14
+</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Selected U.S. Health Data for Children Aged 4</emphasis>–<emphasis effect="bold">17</emphasis> (See NCHS, 2023a, 2023b, 2023c.)</caption>
+</table>
+<para id="para-00004"><term class="no-emphasis" id="term-00002">Immunization rates</term> are also important data to review concerning child and adolescent health. Rates for certain vaccinations (measles, mumps, and rubella; varicella; diphtheria; tetanus; and acellular pertussis) decreased by 1 percent from the 2020–2021 school year to the 2021–2022 school year in incoming kindergarteners (Seither et al., 2022). Also, 2.6 percent of the 2021–2022 kindergarteners were exempted from at least one state-required vaccination per their caregivers’ requests.</para>
+<note class="media-feature" id="note-00001">
+<title>Child Vaccination Across America</title>
+<para id="para-00005">The American Academy of Pediatrics offers an interactive map, “<link url="https://openstax.org/r/downloads">Child Vaccination Across America</link>,” that allows viewers the opportunity to explore state immunization rates and compare these with national rates.</para>
+<para id="para-00006">Visit the map and do the following:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00009">
+<item>Watch the video “How to explore the interactive map.”</item>
+<item>Hover over your state and learn about the percentage of children immunized by the various vaccines. How does your state compare with the national rates?</item>
+<item>Hover over one area designated with a recent disease outbreak, and then click on the area to learn more about this specific disease and outbreak.</item>
+<item>Click on the “Explore Data” button and learn more about vaccination gaps related to insurance, race and ethnicity, poverty, and geographic area.</item>
+<item>Were you surprised by what you learned? Why or why not?</item>
+</list>
+</note>
+<para id="para-00007">Global health data regarding immunizations is not promising. Immunization rates, in particular, are somewhat difficult to gauge beyond the toddler years. A 2022 systematic review confirmed a worldwide decline or delay in vaccination during the <term class="no-emphasis" id="term-00003">COVID-19</term> pandemic (SeyedAlinaghi et al., 2022). This follows indications that 13.5 million children were not vaccinated in 2018 (Vanderslott et al., 2022). Although there has been a global decline in v<term class="no-emphasis" id="term-00004">accine-preventable diseases (VPDs)</term>, they are still responsible for 1.5 million deaths annually. Ninety-two percent of people worldwide thought that vaccines were important for children to have, but support for vaccination varies among countries (Vanderslott et al., 2022). This is described further in <link document="m00167"><emphasis effect="bold">Pandemics and Infectious Disease Outbreaks</emphasis></link>.</para>
+<para id="para-00008">Globally, <term class="no-emphasis" id="term-00005">obesity</term> in children aged 5 to 19 is considered a major health concern as it is a significant risk factor for many noncommunicable diseases, including cardiovascular disease, diabetes, and some cancers (endometrial, breast, ovarian, prostate, liver, gallbladder, kidney, and colon) as well as for musculoskeletal disorders. In 2016, the WHO reported that the share of those aged 5 to 19 who are overweight or obese has increased from 4 percent in 1975 to around 18 percent in 2016. Also in 2016, over 340 million children and adolescents aged 5 to 19 were overweight or obese, while 39 million children under age 5 were overweight or obese in 2020 (WHO, 2021).</para>
+<note class="media-feature" id="note-00002">
+<title>Childhood Obesity Globally</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/childhoodobesity"/>
+</media>
+<para id="para-00009">Once considered a high-income country problem, overweight and obesity are now increasing in low- and middle-income countries, particularly in urban areas. For example, “in Africa, the number of overweight children under age 5 has increased by nearly 24 percent since 2000, and almost half of the children under age 5 who were overweight or obese in 2019 lived in Asia” (WHO, 2021, para. 7). These low- and middle-income countries are now facing what the WHO refers to as a “double burden” of malnutrition. Children in these countries are more vulnerable to inadequate nutrition prenatally and as newborns and infants, and then they get introduced to “high-fat, high-sugar, high-salt, energy-dense, and micronutrient-poor foods, which tend to be lower in cost” (WHO, 2021, para. 12). This is illustrated in the WHO Regional Office for the Western Pacific video “Addressing Childhood Obesity Today to Protect the Health of Future Generations.”</para>
+<para id="para-00010">After watching the video, answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00010">
+<item>What two lifestyle behaviors put children like Avoca at risk for obesity?</item>
+<item>Overweight or obese children are at greater risk for developing which three diseases?</item>
+</list>
+<para id="para-00011">What is one solution that could decrease the consumption of cheap and unhealthy foods?</para>
+</note>
+<para id="para-00012">The WHO (2022b, 2022c) divides mortality rates into categories of older children and young adolescents (aged 5–14) and older adolescents (aged 15–19). In 2020, the global mortality rate for those aged 5 to 14 was 7 per 1,000 children. Infectious diseases have declined in the last decade, but injuries (including road traffic injuries and drowning) remain the leading causes of death and lifelong disability in this age group (WHO, 2022b). In those aged 15 to 19, the probability of dying is 4.6 per 1,000 (World Bank Group, 2023a). Again, there is a shift away from infectious diseases of childhood and toward accidents and injuries, self-harm, and interpersonal violence as the leading causes of death (WHO, 2022b, 2022c).</para>
+</section>
+<section id="sect-00004">
+<title>Risk Factors Influencing Preschool, School-Age, and Adolescent Health</title>
+<para id="para-00013">As children and adolescents grow and develop, numerous risk factors can influence their health and well-being. These risk factors vary depending on the age group and can be broadly categorized into environmental, social, and physical factors (See [link]Table 26.7[/link]).</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Preschool</emphasis></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">School Age</emphasis></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Adolescent</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Environmental</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00011">
+<item>Exposure to lead</item>
+<item>Poor air quality</item>
+<item>Exposure to environmental toxins</item>
+<item>Inadequate access to clean water and sanitation</item>
+<item>Access to safe and healthy food</item>
+<item>Poor housing conditions</item>
+<item>Limited access to safe outdoor spaces</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00012">
+<item>Noise pollution</item>
+<item>All the same risk factors listed for the preschool population
+</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00013">
+<item>Substance use and abuse</item>
+<item>All the same risk factors listed for the preschool and school-age populations</item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Social</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00014">
+<item>Poverty and low socioeconomic status</item>
+<item>Lack of access to quality early childhood education and care</item>
+<item>Limited social support</item>
+<item>Exposure to violence and crime</item>
+<item>Family dysfunction</item>
+<item>Discrimination and racism</item>
+<item>Limited access to transportation and safe pedestrian infrastructure
+</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00015">
+<item>Limited access to educational opportunities</item>
+<item>Peer pressure and social norms</item>
+<item>All the same risk factors listed for the preschool population</item>
+</list>
+</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00016">
+<item>Stigma and discrimination related to sexual orientation, gender identity, and other aspects of identity</item>
+<item>All the same risk factors listed for the preschool and school-age populations</item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Physical</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00017">
+<item>Prenatal and perinatal factors</item>
+<item>Genetic factors</item>
+<item>Infections and communicable diseases</item>
+<item>Developmental delays and disabilities</item>
+<item>Allergies and asthma</item>
+<item>Chronic health conditions</item>
+<item>Nutritional deficiencies or imbalances</item>
+<item>Sleep disturbances</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00018">
+<item>Hormonal changes during puberty</item>
+<item>All the same risk factors listed for the preschool population</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00019">
+<item>All the same risk factors listed for the preschool and school-age populations</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Risk Factors Influencing Health</emphasis> (See Centers for Disease Control and Prevention, 2021a, 2021b, 2021c, 2021d, 2021e.)</caption>
+</table>
+<para id="para-00014">Environmental and social risk factors can have long-lasting effects on the health and development of this population (National Institute of Environmental Health Sciences [NIEHS], 2023). See <link document="m00140"><emphasis effect="bold">Social Determinants Affecting Health Outcomes</emphasis></link> for more information. Physical or biological risk factors can also influence the health of the preschool, school-age, and adolescent population (Negussie et al., 2019). The same prenatal and perinatal factors and genetic factors mentioned previously can continue to affect children as they age. Any developmental delays or disabilities continue to impact cognitive, physical, and socio-emotional development. Infections and communicable diseases can adversely affect physical health acutely and can also lead to long-term health problems. Allergies and asthma have negative effects on respiratory health and quality of life. Other chronic health conditions have long-term health and development consequences. These may include diseases such as diabetes or congenital heart defects. <term class="no-emphasis" id="term-00006">Nutritional deficiencies</term> or imbalances, including obesity, can impact growth, development, and overall health. <term class="no-emphasis" id="term-00007">Sleep disturbances</term> may negatively influence cognitive and behavioral development (Negussie et al., 2019). <term class="no-emphasis" id="term-00008">Hormonal changes</term> during puberty can impact physical, cognitive, and emotional development.</para>
+<para id="para-00015"><term class="no-emphasis" id="term-00009">Lifestyle-related risk factors</term> may play a huge role in a child’s risk of developing some conditions, such as childhood cancers, ADHD, and asthma (American Cancer Society, 2019; Cleveland Clinic, 2023a; Mayo Clinic, 2019). As mentioned previously, childhood cancers are a leading cause of death for preschool and school-age children. Cancer prevention during early life can begin prenatally and continue through early childhood. In addition to getting enough folic acid, avoiding alcohol and tobacco use prenatally, and breastfeeding postpartum, childbearing clients may lower a child’s cancer risk through other behaviors (CDC, 2021k). Safe, stable, and nurturing relationships and environments can help protect children against many harms and ensure they reach their full potential. This includes keeping children away from harmful exposures to secondhand smoke, traffic-related air pollution, carcinogens, and excessive radiation used during medical tests. However, many childhood cancers cannot be prevented (American Cancer Society, 2019).</para>
+<para id="para-00016"><term class="no-emphasis" id="term-00010">ADHD</term> and <term class="no-emphasis" id="term-00011">asthma</term> are other common health concerns in this population. While there is no known cause for ADHD, prevention efforts also involve addressing maternal substance use and abuse, premature birth, and exposure to environmental toxins (Mayo Clinic, 2019). Researchers also have not determined the exact cause of childhood asthma, which often develops during childhood when the child’s immune system is developing (Cleveland Clinic, 2023a). Asthma may have genetic components, and exposure to allergens, such as tobacco smoke, and viral infections, such as the common cold, at an early age have also been associated with its development in children (Cleveland Clinic, 2023a). Gender, racial, and geographic disparities also exist, as males, BIPOC children, and children who live in urban environments or around high amounts of air pollution are at higher risk of developing asthma (Cleveland Clinic, 2023a).</para>
+<para id="para-00017">Poor mental health can be a risk factor for substance abuse, sexual health issues, and suicide. Suicide, as mentioned previously, is the second most common cause of death in those aged 10 to 14 years and the third most common cause of death in those aged 15 to 24 years (CDC, 2022r). Many factors can increase the risk for suicide or protect against it. It is also often connected to other forms of injury or violence. Those who have experienced violence such as child abuse, bullying, or sexual violence have a higher risk for a suicide attempt. <term class="no-emphasis" id="term-00012">Suicide</term>, however, is rarely caused by one single event or circumstance. Instead, a range of factors increase the risk ([link]Table 26.8[/link]).</para>
+<table class="vertically-tight alternate-shading" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Circumstances That Increase Suicide Risk</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Individual Risk Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00020">
+<item>Previous suicide attempt</item>
+<item>History of depression and other mental illnesses</item>
+<item>Serious illness such as chronic pain</item>
+<item>Criminal/legal problems</item>
+<item>Job/financial problems or loss</item>
+<item>Impulsive or aggressive tendencies</item>
+<item>Substance use</item>
+<item>Current or prior history of adverse childhood experiences (ACEs)</item>
+<item>Sense of hopelessness</item>
+<item>Violence victimization and/or perpetration</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Relationship Risk Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00021">
+<item>Bullying</item>
+<item>Family/loved one’s history of suicide</item>
+<item>Loss of relationships</item>
+<item>High-conflict or violent relationships</item>
+<item>Social isolation</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Community Risk Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00022">
+<item>Lack of access to health care</item>
+<item>Suicide cluster in the community</item>
+<item>Stress of acculturation</item>
+<item>Community violence</item>
+<item>Historical trauma</item>
+<item>Discrimination</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Societal Risk Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00023">
+<item>Stigma associated with help-seeking and mental illness</item>
+<item>Easy access to lethal means of suicide among people at risk</item>
+<item>Unsafe media portrayals of suicide</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Circumstances That Protect Against Suicide Risk</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">Individual Protective Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00024">
+<item>Effective coping and problem-solving skills</item>
+<item>Reasons for living (family, friends, pets, etc.)</item>
+<item>Strong sense of cultural identity</item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Relationship Protective Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00025">
+<item>Support from partners, friends, and family</item>
+<item>Feeling connected to others</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Community Protective Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00026">
+<item>Feeling connected to school, community, and other social institutions</item>
+<item>Availability of consistent and high-quality physical and behavioral health care</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Societal Protective Factors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00027">
+<item>Reduce access to lethal means of suicide among people at risk</item>
+<item>Cultural, religious, or moral objections to suicide</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Child and Adolescent Suicide</emphasis> (See Centers for Disease Control and Prevention, 2022r.)</caption>
+</table>
+<para id="para-00018">Adolescent girls and adolescents identifying as <term class="no-emphasis" id="term-00013">LGBTQIA+</term> experience high levels of violence, sadness, mental health challenges, and suicide risk (CDC, 2023k). Adolescent females reported double the amount of sadness or hopelessness as compared to adolescent males, and nearly one in three females seriously considered attempting suicide ([link]Figure 26.2[/link]) (CDC, 2023c).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A multi-bar graph shows that the percent of teen girls who reported feelings of sadness or hopelessness increased from 36% in 2011 to 57% in 2021, while the percent of teen boys who reported those feelings rose from 21% to 29%."><image mime-type="image/png" src="../../media/PH_Figure_26_03_002.png"/></media>
+<caption>The graphic shows the increase in the amount of adolescent females who persistently felt sad or hopeless from 36 percent to 57 percent in a 10-year period. The increase for adolescent males was from 21 percent to 29 percent in the same period. (data source: Centers for Disease Control and Prevention, 2023c; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00019">Another area of health risk for this population is <term id="term-00014">concussion</term> or brain injury. Anyone in this population who obtains a bump, blow, or jolt to the head or hit to the body that causes the head and brain to move rapidly back and forth could suffer a concussion, with youth athletes particularly at risk (CDC, 2022b). School and community health nurses may educate youth athletes, caregivers, coaches, and officials in preventing concussions, recognizing their signs and consequences, and identifying a safe return to activity following a concussion.</para>
+<para id="para-00020">Risk factors for adolescents related to sexual health include activities that can lead to adverse health outcomes such as HIV infection, other STIs, or pregnancy. <term id="term-00015">Sexual risk behavior</term> is any sexual behavior—typically condom-unprotected oral, vaginal, or anal intercourse—that puts one at risk for one or more of these adverse health outcomes (Senn, 2020).</para>
+<para id="para-00021">Recognizing these many risk factors that can adversely impact this population’s health and well-being is the first step in promoting health. Children and adolescents from marginalized or disadvantaged backgrounds may be at higher risk for experiencing risk factors. The HEADSS (Home, Education, Activities, Drug use and abuse, Sexual behavior, Suicidality, and depression) for Adolescents tool is a psychosocial risk assessment instrument that health care professionals may find useful in finding out about issues in adolescents’ lives (Cohen et al., 1991).</para>
+</section>
+<section id="sect-00005">
+<title>Educational Interventions to Promote Self-Care in Preschool, School-Age, and Adolescent Populations</title>
+<para id="para-00022"><term class="no-emphasis" id="term-00016">Educational interventions</term> geared toward this population and their caregivers should focus on preventing their leading causes of death and morbidity, and the risk factors identified above. To promote <term class="no-emphasis" id="term-00017">self-care</term> and the development of healthy habits, nurses should provide education directly to the child or adolescent. Educating adults on how to support their child’s development can be an effective way of introducing and maintaining the child’s health. Educational interventions may occur as individual instruction, group workshops, or classes ([link]Table 26.9[/link]).</para>
+<table class="vertically-tight alternate-shading" id="table-00004">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Education for the Caregiver</emphasis></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Education for the Child/Adolescent</emphasis></span></entry>
+<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Education Techniques for the Child/Adolescent</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Preschool</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00028">
+<item>Regular health screenings and vaccinations</item>
+<item>Child development</item>
+<item>Safety and prevention of unintentional injuries or accidents</item>
+<item>Nutrition</item>
+<item>Positive discipline</item>
+<item>Mental health</item>
+<item>Encouragement to promote a healthy school environment to their child</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00029">
+<item>Importance of physical activity</item>
+<item>Importance of healthy eating habits</item>
+<item>Proper hygiene practices</item>
+<item>Safety to prevent accidents and injuries (fire, water, automobile, pedestrian, and environmental navigation safety)</item></list></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00030">
+<item>Use imagination</item>
+<item>Explore through words, play, and fantasy</item>
+<item>Storytelling</item>
+<item>Music, movement, hands-on activities, and visual aids</item>
+<item>Include parents in education</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">School Age</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00031">
+<item>All topics listed above</item>
+<item>Sexual education</item></list></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00032">
+<item>All topics listed above</item>
+<item>Nutrition (portion control, balanced diets)</item>
+<item>Safety to prevent accidents and injuries (bike and technology safety)</item>
+<item>Management of emotions</item>
+<item>Healthy communication and conflict management</item>
+<item>Substance abuse (risks and consequences and how to resist peer pressure)</item>
+<item>Sexual education (puberty, reproduction, contraception)</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00033">
+<item>Hands-on learning</item>
+<item>Role-play</item>
+<item>Technology-based learning (interactive games, videos, and simulations)</item>
+<item>Peer education (develops leadership skills and reinforces the importance of healthy behaviors)</item>
+<item>Include parents in education</item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Adolescent</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00034">
+<item>All topics listed above</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00035">
+<item>All topics listed above</item>
+<item>Safety to prevent accidents and injuries (driving safety)</item>
+<item>Importance of healthy relationships to avoid dating violence</item>
+<item>Sexual education (contraception, STI prevention, consent)</item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00036">
+<item>Open and interactive discussions about health issues</item>
+<item>Role-play</item>
+<item>Personalized goal setting</item>
+<item>Peer education</item>
+<item>Education provided via social media and other forms of technology</item>
+<item>Community involvement related to health issues that interest them</item>
+<item>Must build trust between the nurse and the client</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Educational Interventions for Preschool, School-Age, and Adolescent Populations</emphasis> (See American Academy of Pediatrics, 2023; UCSF Benioff Children’s Hospital, 2023b.)</caption>
+</table>
+<para id="para-00023">School nurses and school health programs are ideal for health promotion and disease prevention for the preschool, school-age, and adolescent population, as described in <link document="m00338"><emphasis effect="bold">Caring across Practice Settings</emphasis></link>. The CDC (2020c) indicates that schools have direct contact with 56 million students for at least six hours daily during the most critical years of their development. School health programs can decrease the prevalence of health risk behaviors. Such programs can deliver quality sexual health education; increase youth access to sexual health services; establish healthy, safe, and supportive environments to promote positive mental health; and implement policies that will provide health promotion and disease prevention (CDC, 2020c).</para>
+</section>
+<section id="sect-00006">
+<title>Healthy People 2030 Goals for Preschool, School-Age, and Adolescent Health</title>
+<para id="para-00024">Preschoolers and school-age children fall into the Healthy People 2030 overarching goal to “improve the health and safety of children” (ODPHP, n.d.-b, para. 1), as described in the section on toddlers. There are some additional Healthy People Objectives for preschoolers and even more for the school age and adolescent ranges.</para>
+<note class="healthy-people" id="note-00003">
+<para id="para-00025"><link url="https://openstax.org/r/content"><emphasis effect="bold">Children</emphasis></link></para>
+<para id="para-00026"><term class="no-emphasis" id="term-00018">Healthy People 2030</term> children objectives address outcomes for those aged 1 through 19. There are specific objectives geared toward the population in the preschool and school-age years. Some of these are related to vision and developmental screenings; trauma, literacy, early childhood education, nutrition, and other school programs; decreasing obesity; increasing physical activity and promotion of sports; mental health treatment; preventive dental care; and violence prevention.</para>
+</note>
+<para id="para-00027">The overarching goal of Healthy People 2030 related to adolescents is to “improve the health and well-being of adolescents” (ODPHP, n.d.-a, para. 1). By improving adolescent health, some behaviors that can affect health later in life can be prevented. As mentioned above, adolescents have many risk factors, many of which are preventable. <term class="no-emphasis" id="term-00019">Substance use disorders</term>, <term class="no-emphasis" id="term-00020">sexually transmitted infections</term>, and injuries from motor vehicle accidents are only some of these. The physical and mental changes occurring during adolescence can also impact their safety and health. Encouragement of positive health behaviors is essential in this population. Therefore, there are many Healthy People 2030 objectives geared toward adolescents.</para>
+<note class="healthy-people" id="note-00004">
+<para id="para-00028"><link url="https://openstax.org/r/adolescents"><emphasis effect="bold">Adolescents</emphasis></link></para>
+<para id="para-00029">Healthy People 2030 adolescents objectives address outcomes specifically for adolescents. Some of these outcomes are related to prevention of skin cancer, chronic school absence, school achievement, adult support, prevention of chronic kidney disease, family planning, oral care, transition to adult health care, prevention of infectious diseases, LGBTQIA+ health issues, mental health disease issues, prevention of obesity, STI prevention, sleep, prevention of tobacco and other substance use, and violence prevention.</para>
+</note>
+</section>
+<section id="sect-00007">
+<title>Health Promotion and Disease Prevention Activities to Improve the Health of Preschool, School-Age, and Adolescent Populations</title>
+<para id="para-00030">Improving the health of preschool children, school-age children, and adolescents is an important public health goal. Health promotion and disease prevention are just as crucial for the health and well-being of children and adolescents as they are for newborns and infants. Health promotion activities, such as the education described in the section above, can play a crucial role in achieving this goal. Nurses can promote positive health outcomes by enabling this population to increase control over their health and its determinants as they age, thereby improving their health. Activities can include various interventions to promote healthy behaviors, prevent diseases and injuries, and improve health care access and may occur in various settings, including schools, health care facilities, community centers, and homes. Examples of promotion activities include education and awareness campaigns, nutrition and physical activity interventions, mental health interventions, and health care access initiatives. By implementing these interventions, nurses can help promote healthy behaviors and improve children’s and adolescents' overall health and well-being.</para>
+<para id="para-00031">The CDC (2021a, 2021b, 2021d, 2021e) website provides information for caregivers of <link url="https://openstax.org/r/cdcchildren">children ages 4<emphasis effect="bold">–</emphasis>11</link> and for <link url="https://openstax.org/r/teens">teens</link>. These pages discuss the topics in greater detail and provide specific schedules for growth charts and immunizations.</para>
+<para id="para-00032">Disease prevention promotes healthy growth and development by supporting children’s and adolescents’ physical and cognitive growth and development. By protecting this population from illnesses, the nurse can help the children and adolescents reach their full potential (ODPHP, n.d.-a). Preventing diseases also helps reduce health care costs through a lesser need for medical treatment or hospitalizations. Healthy children and adolescents are more likely to have good academic performance with less absenteeism. Reducing absenteeism can positively influence their academic lives and contribute to their future professional lives. By preventing certain diseases that have long-term health consequences, nurses help to protect this population’s long-term health and the wider community by reducing the spread of infectious diseases (ODPHP, n.d.-a).</para>
+<para id="para-00033">Some of the most common preventable diseases that impact children and adolescents during these years include COVID-19, influenza, and obesity. Health promotion and any applicable prevention efforts should target these. Prevention of accidents, homicides, and suicides is also imperative for this population. School-age children must also combat other infectious diseases, most notably chicken pox. Adolescents and their caregivers should receive preventive services related to anxiety and depression, substance abuse, violence, blood clots, cervical cancer, and STDs (CDC, 2021d).</para>
+<section id="sect-00008">
+<title><term class="no-emphasis" id="term-00021">Primary Prevention</term></title>
+<para id="para-00034">Prevention of disease onset occurs through primary prevention. It is an essential way to promote the health and well-being of the preschool, school-age, and adolescent population. Some examples of primary prevention include the following:</para>
+<list list-type="bulleted" id="list-00037">
+<item><link url="https://openstax.org/r/child">Immunizations per the recommended schedule</link> (CDC, 2023b). Additional information can be seen at the <link url="https://openstax.org/r/playlist">American Academy of Pediatrics’ Childhood and Adolescent Vaccine Education Series</link> playlist on YouTube.</item>
+<item>Hand hygiene, such as washing hands frequently with soap and water to prevent the spread of germs.</item>
+<item>Healthy eating habits, such as eating plenty of fruits and vegetables to support their immune system and promote growth and development.</item>
+<item>Sun protection to prevent skin damage and cancer from sun exposure.</item>
+<item>Regular physical activity to promote overall health and well-being and prevent the development of obesity.</item>
+<item>Injury prevention, including providing safe play environments for preschoolers, bike safety for school-age children, and driving safety for adolescents.</item>
+<item>Sexual health education to prevent STDs and unintended pregnancies.</item>
+<item>Mental health promotion, including stress management and coping skills to prevent anxiety, depression, and suicide.</item>
+<item>Substance abuse prevention, including the risks and consequences.</item>
+<item>Violence prevention, including adverse childhood experiences (ACEs), child abuse and neglect, child sexual abuse, firearm violence, intimate partner violence, sexual violence, and youth violence prevention to prevent violence before it actually occurs or buffer people from violence.</item>
+</list>
+<note class="theory-action" id="note-00005">
+<title>Adverse Childhood Experiences (ACEs)</title>
+<para id="para-00035">The CDC’s (2021m) VetoViolence® resources empower people to prevent violence and implement evidence-based prevention strategies in their communities. In particular, the CDC has an infographic, “<link url="https://openstax.org/r/acesinfographic">We Can Prevent Childhood Adversity</link>,” that addresses adverse childhood experiences, or ACEs.</para>
+<para id="para-00036">After viewing the infographic, answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00038">
+<item>What are ACEs?</item>
+<item>What groups are more likely to experience ACEs?</item>
+<item>What are two ways to create positive childhood experiences?</item>
+</list>
+</note>
+</section>
+<section id="sect-00009">
+<title>Secondary Prevention</title>
+<para id="para-00037"><term class="no-emphasis" id="term-00022">Secondary prevention</term> measures identify problems as early as possible, usually before symptoms arise. Some examples of these for the preschool, school-age, and adolescent population include the following:</para>
+<list list-type="bulleted" id="list-00039">
+<item>Regular health checkups, including dental, vision and hearing as applicable, to help identify any health issues early and ensure appropriate medical care is received</item>
+<item><link url="https://openstax.org/r/periodicity">Recommended screenings</link> for the age group as per the American Academy of Pediatrics or the U.S. Preventive Services Task Force <link url="https://openstax.org/r/uspstftopic">guidelines</link></item>
+<item>Immediately after a violent event, addressing any short-term consequences and focusing on the immediate needs such as emergency services or medical care</item>
+</list>
+</section>
+<section id="sect-00010">
+<title>Tertiary Prevention</title>
+<para id="para-00038"><term class="no-emphasis" id="term-00023">Tertiary prevention</term> involves managing and treating health issues that have already developed to minimize their impact and prevent further complications. Here are some examples of tertiary prevention activities for preschoolers, school-age children, and adolescents:</para>
+<list list-type="bulleted" id="list-00040">
+<item>Providing early intervention services such as speech therapy or occupational therapy for preschoolers with developmental delays or disabilities</item>
+<item>Managing asthma symptoms and providing appropriate treatment to prevent attacks and minimize the impact of the disease</item>
+<item>Providing appropriate mental health treatment to help children or adolescents manage symptoms and improve their quality of life</item>
+<item>Providing emotional support or mental health services long-term following a violent event to decrease trauma to the victim</item>
+</list>
+<note class="theory-action" id="note-00006">
+<title>What Is Youth Violence?</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/youthviolence"/>
+</media>
+<para id="para-00039">Youth violence is a significant public health problem affecting thousands of young people each day, including their families, schools, and communities. Youth violence is widespread in the United States and is the third leading cause of death for young people between the ages of 10 and 24. Learn more about youth violence from the CDC’s video “What Is Youth Violence?”</para>
+<para id="para-00040">As you watch the video, answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00041">
+<item>Who experiences youth violence?</item>
+<item>What are two risk factors for experiencing violence?</item>
+</list>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/voiceschange"/>
+</media>
+<para id="para-00041">Part of the CDC’s commitment to injury and violence prevention includes efforts to change social norms about youth violence. Watch its video “Voices of Change: Engage Youth, Prevent Violence” to see how the University of Louisville Youth Violence Prevention Research Center (YVPRC) engages and empowers local youth as subject experts in their own community</para>
+<para id="para-00042">As you watch the video, answer the following:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00042">
+<item>What are two strategies taught to prevent violence?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00011">
+<title>Integration of Sociocultural and Linguistically Responsive Interventions for Preschool, School-Age, and Adolescent Health</title>
+<para id="para-00043">Promoting the health and well-being of this population requires consideration of sociocultural factors, such as race, ethnicity, culture, and language. Various challenges and considerations are involved in implementing sociocultural and linguistically responsive interventions in this population. This section provides examples of successful programs that effectively integrate responsiveness into health interventions. Nurses can improve health outcomes and reduce health disparities for children and adolescents from diverse backgrounds through integrations such as these.</para>
+<para id="para-00044">Caregivers who identify as <term class="no-emphasis" id="term-00024">BIPOC</term> are less likely than non-Hispanic White parents to report their children receive high-quality health care. Examples of structural inequities experienced by these clients include <term class="no-emphasis" id="term-00025">racism</term>, <term class="no-emphasis" id="term-00026">xenophobia</term>, and <term class="no-emphasis" id="term-00027">poverty</term>. Okoniweski et al. (2022) reported that children whose parents’ primary language is not English face additional disparities and are less likely to have a medical home or access to a usual provider at a usual source of care. These indications strengthen the need for sociocultural and linguistic interventions to promote better pediatric outcomes.</para>
+<section id="sect-00012">
+<title>Sociocultural Interventions</title>
+<para id="para-00045">The cigarette smoking rate among <term class="no-emphasis" id="term-00028">Alaska Native</term> adults was 36 percent from 2018 to 2020 (Alaska Department of Health, 2022). This provides Alaska with a unique challenge to protect children from the harmful effects of secondhand smoke exposure. The Alaska Tobacco Prevention and Control Program (TPC) has promoted smoke-free environments through various interventions geared to the Alaska Native population. The Alaska Tobacco Quit Line provides resources for tobacco cessation. TPC has partnered with the American Lung Association and the Alaska Tobacco Control Alliance to promote smoke-free unit housing and promote policies to prohibit the use of tobacco products on school properties (ODPHP, 2021). Additional partnerships have occurred between TPC and the Alaska Native Tribal Health Consortium to coordinate outreach efforts in rural communities, where as many as 4 in 10 adults smoke (ODPHP, 2021). Rural community health workers, who may reach citizens via boat or snowmobile, provide adults with tobacco cessation education and describe the hazards of secondhand smoke in children.</para>
+<para id="para-00046">The CDC’s (2023f) <link url="https://openstax.org/r/whatworks">What Works in Schools</link> program is a school-based health approach to improve health behaviors and experiences, support mental health, and reduce suicidality. Children and adolescents who identify as <term class="no-emphasis" id="term-00029">LGBTQIA+</term> are particularly at risk for facing social stigma about their sexual choices or identities, which places their health at risk. Some specific interventions identified by this CDC program to help this population are establishing gender and sexuality alliances (GSA), identifying safe spaces, and implementing anti-harassment policies (CDC, 2023f).</para>
+</section>
+<section id="sect-00013">
+<title>Linguistically Responsive Interventions</title>
+<para id="para-00047">One important example of being <term class="no-emphasis" id="term-00030">culturally responsive</term> in health care is incorporating linguistically responsive interventions by ensuring language supports, such as professional medical interpreters or health care providers with professional language proficiency, are available to all clients. The Centers for Medicare and Medicaid Services (CMS) released an updated framework to advance health equity, expand health coverage, and improve health outcomes for people covered by Medicare, Medicaid, CHIP, and the health insurance marketplaces. This framework identified the need to advance language access and health literacy and provide culturally tailored services to all groups. In particular, one priority in the CMS Framework for Health Equity 2022–2032 states, “Each person CMS serves should receive effective, understandable, and respectful care that is responsive to their preferred languages or dialects, health literacy, cultural health beliefs and practices, traditions, and other communication needs” (CMS, 2022, p. 25). The government’s dedication to being linguistically responsive can also be seen regarding child and youth behavioral health crisis care. The Substance Abuse and Mental Health Services Administration’s (SAMHSA, 2022) National Guidelines for Child and Youth Behavioral Health Crisis Care also requires incorporating linguistically responsive care as one of its core values for youth crisis care. This includes care regarding LGBTQIA+ youth who may be unable to access the mental health care they need to prevent suicide (SAMHSA, 2022).</para>
+<para id="para-00048">To achieve the goal of <term class="no-emphasis" id="term-00031">linguistically responsive care</term>, nurses may use several interventions to overcome language barriers with clients who do not speak English. These typically involve using in-person interpreters or interpreter services via telephone. Jackson and Mixer (2017) describe the difficulty the Spanish-speaking parents of clients in acute care experienced and proposed using the UTalk app on an Apple iPad as a solution. The app’s interface design included a split-screen layout with an English statement on one side of the device (facing the nurse) and the same statement in Spanish flipped 180° on the other side of the screen (facing the Spanish-speaking client or family member). The app included many statements or closed-ended questions that could be used for basic communication. Examples were “The interpreter has been called,” “Do you need anything to eat?” and “Are you having any pain?” Participants using the app reported facilitation of communication. They even indicated that teaching the parents and clients how to use the app was an icebreaker. The tool even helped nurses develop relationships with the families (Jackson &amp; Mixer, 2017).</para>
+</section>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00014">
+<title>Chapter Summary</title>
+<para id="para-00049">Promoting health and preventing disease in children from preschool through adolescents is necessary for their lifelong well-being. Clients in this age group form habits and behaviors during this time frame that will impact their health for years. By fostering healthy habits and behaviors during these formative years, nurses can help establish a foundation of health for the rest of these children’s’ lives. Prevention of common childhood illnesses through immunization and other means was addressed, as well as the role of education in empowering this population to make informed decisions about every aspect of their health. Using health promotion and disease prevention, this age group can develop healthy lifestyles and reduce their risk of developing chronic diseases.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>concussion</term> <meaning>a traumatic brain injury caused by a bump, blow, or jolt to the head or body, which causes the person to then experience any of a defined set of signs or symptoms</meaning></definition>
+<definition id="def-00002"><term>sexual risk behavior</term> <meaning>any sexual behavior (typically condom-unprotected oral, vaginal, or anal intercourse) that puts one at risk for one or more defined adverse health outcomes</meaning></definition>
+</glossary>
 </document>
