@@ -78,8 +78,8 @@
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="middle" align="center"><span class="blue-text">Topic</span></entry>
@@ -133,7 +133,7 @@
 <para id="para-00016">Health promotion activities are necessary to improve the health and well-being of this population. The nurse should encourage mothers to breastfeed their newborns exclusively for the first six months of life, as breast milk provides all the necessary nutrients and antibodies for optimal growth and development (U.S. Department of Agriculture, 2020). Nurses should also ensure that children in this age group receive all the recommended immunizations to protect against serious infectious diseases and all the recommended screenings to identify health issues early. Various genetic, endocrine, and metabolic disorders; hearing loss; and critical congenital heart defects screenings are provided to newborns before discharge home after a hospital or birthing-center birth (CDC, 2021n). Nurses should encourage caregivers to maintain regular checkups with a health care provider for their child throughout this time frame to monitor their growth and development and address any health concerns or developmental delays.</para>
 <para id="para-00017">Nurses should promote safe infant sleep practices to prevent <term id="term-00009">sudden unexpected infant death (SUID)</term>. SUID is the umbrella category that describes all sudden, unexpected infant deaths from known causes, such as injury or accident, and those from unknown causes (Eunice Kennedy Shriver NICHHD, n.d., para. 2). <term id="term-00010">Sudden infant death syndrome (SIDS)</term> is defined as the sudden death of a baby younger than 1 year of age that does not have a known cause even after full investigation (Eunice Kennedy Shriver NICHHD, n.d., para. 3). About 3,400 babies in the United States die from SUID annually, including those from SIDS, accidental suffocation in a sleeping environment, and other deaths from unknown causes (CDC, 2022h).</para>
 <note class="client-teaching" id="note-00003">
-<title>Client Teaching Guidelines: Prevention of SUID</title>
+<title>Prevention of SUID</title>
 <para id="para-00018">The community health nurse should teach caregivers to do the following:</para>
 <list list-type="bulleted" id="list-00007">
 <item>Place the infant on their back for all sleep—naps and at night.</item>
