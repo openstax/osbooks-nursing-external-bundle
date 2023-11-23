@@ -23,7 +23,7 @@
 <section id="sect-00003">
 <title>Pregnancy</title>
 <para id="para-00002">Maternal diet has been shown to have a significant impact on fetal neurodevelopment in a number of ways. Several nutrients and micronutrients have been shown to impact neural tube formation and other aspects of <term class="no-emphasis" id="term-00001">neurological development</term> (Cortés-Albornoz et al., 2021). The developing brain of the fetus consumes more than half of the available nutrition delivered via the placenta, mainly in the form of glucose. The developing fetal brain is vulnerable to insufficient macronutrients and micronutrients, especially in the first stages of pregnancy. Nutrition during p<term class="no-emphasis" id="term-00002">regnancy</term> is of critical importance to both the developing fetus and the mother. This section will discuss the effect of specific nutrients on healthy brain function for both the mother and the developing fetus. Specific vitamins and minerals, such as vitamins A, B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), D, E, and K, as well as certain minerals, such as copper, iron, creatine, choline, zinc, and iodine, are required to prevent a host of neurological conditions in the fetus. They can also impact rates of maternal preeclampsia and postpartum depression.</para>
-<para id="para-00003">[link]Table 6.1[/link] outlines the recommended daily allowances for micronutrients for women and men.</para>
+<para id="para-00003"><link target-id="table-00001" document="m00027"/> outlines the recommended daily allowances for micronutrients for women and men.</para>
 <table class="vertically-tight alternate-shading" id="table-00001">
 <title/>
 <tgroup cols="3">
@@ -40,7 +40,7 @@
 <tbody>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Vitamin A</term></entry>
-<entry valign="top" align="left">700–900 μg/day</entry>
+<entry valign="top" align="left">700–900 µg/day</entry>
 <entry valign="top" align="left">Sweet potato, cantaloupe, carrots, liver, eggs, mango spinach, pumpkin, butternut squash</entry>
 </row>
 <row>
@@ -81,7 +81,7 @@ Adult males:<newline/>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Chromium</term></entry>
-<entry valign="top" align="left">10 μg/day</entry>
+<entry valign="top" align="left">10 µg/day</entry>
 <entry valign="top" align="left">Grape juice, meat, Brazil nuts, whole wheat, mussels, broccoli</entry>
 </row>
 <row>
@@ -96,7 +96,7 @@ Adult males:<newline/>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00019">Folate (vitamin B<sub>9</sub></term>)</entry>
-<entry valign="top" align="left">400 μg/day</entry>
+<entry valign="top" align="left">400 µg/day</entry>
 <entry valign="top" align="left">Fresh fruits, whole grain, peanuts, beans, dark green leafy vegetables</entry>
 </row>
 <row>
@@ -106,7 +106,7 @@ Adult males:<newline/>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00021">Iodine</term></entry>
-<entry valign="top" align="left">220 μg/day</entry>
+<entry valign="top" align="left">220 µg/day</entry>
 <entry valign="top" align="left">Fish, dairy (milk, yogurt, cheese), iodized salt</entry>
 </row>
 <row>
