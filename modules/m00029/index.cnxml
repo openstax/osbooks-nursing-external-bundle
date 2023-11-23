@@ -5,9 +5,478 @@
     <md:content-id>m00029</md:content-id>
     <md:uuid>27af3d9c-c12e-4d2f-9306-6c54ef66dd41</md:uuid>
   </metadata>
- <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify drug-food interactions for their impact on treatments utilized for neurological disorders.</item>
+<item>Identify treatments and medications that can cause nutritional deficiencies in clients with neurological disorders.</item>
+</list>
+</section>
+<para id="para-00002">Specific dietary needs change over the course of a client’s lifespan, and certain neurologic conditions may benefit from a diet that contains specific key nutrients that promote health and delay symptoms. <term id="term-00001">Anticonvulsants</term> are medications used to prevent or treat epileptic seizures and can also cause nutritional deficiencies ([link]Table 6.2[/link]). Clients who have experienced a <term class="no-emphasis" id="term-00002">stroke</term> or who have <term class="no-emphasis" id="term-00003">Parkinson’s disease</term>, <term class="no-emphasis" id="term-00004">myasthenia gravis</term>, or <term class="no-emphasis" id="term-00005">ALS</term> should be screened for <term class="no-emphasis" id="term-00006">dysphagia</term> before offering oral meals and then must be monitored when eating for symptoms of choking, watery eyes, or coughing. While dysphagia symptoms among clients with ALS may present with slowly progressive symptoms that lead to a malnourished state, clients with Parkinson’s disease or myasthenia gravis may develop symptoms suddenly and may quickly develop exacerbations in which oral intake is not possible. The nurse should assess the client, perform a dysphagia screen, and withhold any oral intake until oral intake is safe. The risk for <term class="no-emphasis" id="term-00007">aspiration pneumonia</term> can preclude oral feeding in clients with several neurologic conditions. If these symptoms are present, the nurse should consult with a speech pathologist and dietitian for the best treatment plan. Liquids may need to be thickened if dysphagia is present, and this can lead to dehydration. The nurse should follow fluid intake and urinary output closely to ensure adequate fluid status. In some cases, supplemental nutrition may be required temporarily or permanently via <term class="no-emphasis" id="term-00008">enteral feeding</term> to ensure adequate nutrient and fluid intake.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Medication</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nutritional Considerations</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00009">Anticonvulsant/Antiepileptic Medications</term> (Alcohol should be avoided with all antiepileptic medications.)</span></entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00002">
+<item><term class="no-emphasis" id="term-00010">Phenytoin</term></item>
+<item><term class="no-emphasis" id="term-00011">Barbiturates</term></item>
+<item><term class="no-emphasis" id="term-00012">Carbamazepine</term></item>
+</list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00003"><item>Can cause deficiencies in vitamin D and biotin</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00004">
+<item><term class="no-emphasis" id="term-00013">Valproic acid (VPA)</term></item>
+</list></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00005">
+<item>Can decrease L-carnitine, cause hypoglycemia in neonates, reduce zinc in the bloodstream, and cause hair loss</item>
+<item>Absorption of VPA diminished with soy.</item>
+<item>Hepatotoxicity occurs when high-fat diet is consumed</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00006">
+<item><term class="no-emphasis" id="term-00014">Gabapentin</term></item>
+<item><term class="no-emphasis" id="term-00015">Pregabalin</term></item>
+<item><term class="no-emphasis" id="term-00016">Carbamazepine</term></item>
+</list>
+</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Increase in body weight by increasing appetite</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Monoamine Oxidase Inhibitors</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00008">
+<item><term class="no-emphasis" id="term-00017">Phenelzine</term></item></list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00009">
+<item>May block vitamin B<sub>12</sub>, cause an increase in body weight and appetite, and reduce activity</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Tricyclic Antidepressants</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00010">
+<item><term class="no-emphasis" id="term-00018">Nortripgyline</term></item>
+<item><term class="no-emphasis" id="term-00019">Amitriptyline</term></item>
+<item><term class="no-emphasis" id="term-00020">Imipramine</term></item>
+<item><term class="no-emphasis" id="term-00021">Desipramine</term></item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00011">
+<item>Dietary high fiber, legumes, fish, meat, and vitamin C may decrease drug absorption</item>
+<item>May cause a decrease in plasma tryptophan serum concentration but an increase in brain concentration of tryptophan and the risk for serotonin syndrome</item>
+<item>May increase body weight by stimulating hunger and carbohydrate intake</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Antipsychotic Drugs</span></emphasis></entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00012">
+<item><term class="no-emphasis" id="term-00022">Chlorpromazine</term></item>
+</list>
+</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Can cause deficiency of riboflavin and vitamin B<sub>12</sub></item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Sleep Medications</span></emphasis> (Do not take with alcohol.)</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00014">
+<item><term class="no-emphasis" id="term-00023">Zolpidem</term></item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00015"><item>May interact with St. John’s wort</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00016">
+<item><term class="no-emphasis" id="term-00024">Triazolam</term></item>
+</list>
+</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00017">
+<item>May interact with grapefruit juice</item></list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Common Food and Medication Interactions in Clients with Neurologic Conditions (source: FDA, 2020a–b)</caption>
+</table>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Drug-Food Interactions with Treatments for Neurological Disorders</title>
+<para id="para-00003">Many clients with neurologic conditions require treatments and medications that can affect their nutritional status. It is important for the nurse to identify potential nutritional risks and help plan dietary adjustments with clients. This section familiarizes the nurse with some of the more common treatments and medications used for these clients.</para>
+<para id="para-00004">A person’s genetic background strongly influences food and drug interactions, and certain nutritional deficiencies alter the <term class="no-emphasis" id="term-00025">gut microbiome</term>, which can alter future medication absorption. Excessive intake of some vitamins can reduce the effectiveness of certain drugs, especially those used to treat <term class="no-emphasis" id="term-00026">epilepsy</term>. Understanding the interactions between food and medications used for neurologic conditions among the health care team can ensure appropriate use and promote efficacy and client safety.</para>
+<para id="para-00005">Nurses must consistently monitor clients for <term class="no-emphasis" id="term-00027">drug-food interactions</term>; this is a collaborative effort involving the client reports, pharmacists, physicians, nurses, and dieticians. The ongoing assessment of clients receiving neurologic medications is critical. For example, identifying changes in <term class="no-emphasis" id="term-00028">body weight</term> or nutritional deficits is key in promoting medication effectiveness and improving health ([link]Table 6.3[/link]).</para>
+<table class="vertically-tight alernate-shading" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Increased Body Weight</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Decreased Body Weight</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">
+<para id="para-00006"><term class="no-emphasis" id="term-00029">Antidepressants</term>:</para>
+<list list-type="bulleted" id="list-00018">
+<item><term class="no-emphasis" id="term-00030">Mirtazapine</term></item>
+<item><term class="no-emphasis" id="term-00031">Fluvoxamine</term></item>
+<item><term class="no-emphasis" id="term-00032">Phenelzine</term></item>
+<item><term class="no-emphasis" id="term-00033">Citalopram</term></item>
+<item><term class="no-emphasis" id="term-00034">Amitriptyline</term></item>
+<item><term class="no-emphasis" id="term-00035">Doxepin</term></item>
+<item><term class="no-emphasis" id="term-00036">Imipramine</term></item>
+</list>
+</entry>
+<entry valign="top" align="left"><para id="para-00007"><term class="no-emphasis" id="term-00037">Amphetamines</term>:</para>
+<list list-type="bulleted" id="list-00019">
+<item><term class="no-emphasis" id="term-00038">Phenifuramine</term></item>
+<item><term class="no-emphasis" id="term-00039">Phentermine</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<para id="para-00008"><term class="no-emphasis" id="term-00040">Neuroleptics</term>:</para>
+<list list-type="bulleted" id="list-00020">
+<item><term class="no-emphasis" id="term-00041">Clozapine</term></item>
+<item><term class="no-emphasis" id="term-00042">Olanzapine</term></item>
+<item><term class="no-emphasis" id="term-00043">Risperidone</term></item>
+<item><term class="no-emphasis" id="term-00044">Quetiapine</term></item>
+<item><term class="no-emphasis" id="term-00045">Haloperidol</term></item>
+</list>
+</entry>
+<entry valign="top" align="left"><para id="para-00009"><term class="no-emphasis" id="term-00046">Antipsychotics</term>:</para>
+<list list-type="bulleted" id="list-00021">
+<item><term class="no-emphasis" id="term-00047">Phenothiazines</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><para id="para-00010"><term class="no-emphasis" id="term-00048">Benzodiazepines</term>:</para>
+<list list-type="bulleted" id="list-00022">
+<item><term class="no-emphasis" id="term-00049">Alprazolam</term></item>
+<item><term class="no-emphasis" id="term-00050">Diazepam</term></item>
+<item><term class="no-emphasis" id="term-00051">Clonazepam</term></item>
+</list></entry>
+<entry valign="top" align="left">
+<para id="para-00011"><term class="no-emphasis" id="term-00052">Psychostimulants</term>:</para>
+<list list-type="bulleted" id="list-00023">
+<item><term class="no-emphasis" id="term-00053">Methylphenidate</term></item>
+<item><term class="no-emphasis" id="term-00054">Glucagon-like protein-1 (GLP-1) receptor agonists</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><para id="para-00012"><term class="no-emphasis" id="term-00055">Antiepileptics</term>:</para>
+<list list-type="bulleted" id="list-00024">
+<item><term class="no-emphasis" id="term-00056">Valproic acid</term></item>
+<item><term class="no-emphasis" id="term-00057">Gabapentin</term></item>
+</list>
+</entry>
+<entry valign="top" align="left"/>
+</row>
+</tbody>
+</tgroup>
+<caption>Neurologic Medications That Affect Body Weight (source: Verhaegen et al., 2019; FDA, 2022a)</caption>
+</table>
+<section id="sect-00004">
+<title>Medications used to treat Parkinson Disorder</title>
+<para id="para-00013">One of the main medications used to treat <term class="no-emphasis" id="term-00058">Parkinson’s disease</term> is <term class="no-emphasis" id="term-00059">levodopa</term>, a dopaminergic agent. As the body metabolizes levodopa, elevated <term id="term-00060">homocysteine</term> levels (an amino acid) can present. This elevation can cause greater stiffness of the aorta and a lower bioavailability of <term class="no-emphasis" id="term-00061">CoQ10</term>, placing the individual at a higher risk for cardiovascular events such as stroke. Therefore, due to the given the nature of the breakdown of levodopa, an adequate intake of folate, niacin, and vitamins B<sub>6</sub> and B<sub>12</sub> is recommended to prevent increased <term class="no-emphasis" id="term-00062">homocysteine</term> levels, mitigating an increased cardiovascular risk. Alternatively, too much protein when taken with levodopa can inhibit its action, so medication should be taken 30–60 minute before a meal and is not recommended in conjunction with a high-protein diet (Gezmen-Karadağ, 2018). Sugar or fat can worsen Parkinson’s symptoms as these foods can inhibit absorption of levodopa, while a high-carbohydrate diet will increase the effect of levodopa (Gezmen-Karadağ, 2018). In addition, clients with Parkinson’s disease who have a high levodopa requirement will often present with constipation and may require stool softeners.</para>
+</section>
+<section id="sect-00005">
+<title>Medications Used to Treat Epilepsy</title>
+<para id="para-00014">Many of the anticonvulsant drugs (i.e., <term class="no-emphasis" id="term-00063">phenobarbital</term>, <term class="no-emphasis" id="term-00064">carbamazepine</term>) used to prevent <term class="no-emphasis" id="term-00065">seizures</term> can also cause an increase in <term class="no-emphasis" id="term-00066">vitamin D metabolism</term> in the liver and reduced bioavailability of vitamin D, which decreases <term class="no-emphasis" id="term-00067">calcium</term> absorption in the intestine. This signals an increase in calcium uptake away from the bones. Low levels of vitamin D, serum calcium, and serum phosphate have been seen among children with <term class="no-emphasis" id="term-00068">epilepsy</term> who receive these medications (Kija et al., 2019).</para>
+<para id="para-00015">Other nutritional deficiencies that can result from taking antiepileptic drugs include low levels of biotin, an increase in homocysteine levels, and a deficiency of several B vitamins (Samahan et al., 2020). Therefore, it is recommended that clients taking <term class="no-emphasis" id="term-00069">anticonvulsant medications</term> take calcium and vitamin D supplements. It was also noted that high folate levels can increase homocysteine concentrations and, therefore, folate levels should be monitored (Safahani et al., 2020). <term class="no-emphasis" id="term-00070">Hypocalcemia</term>, reduced serum L-carnitine, zinc, and copper levels have been associated specifically with administration of phenytoin or valproic acid, but the supplementation of calcium has been shown to improve both cognition and function (Kija et al., 2019).</para>
+<para id="para-00016">Nutrition education is recommended for clients prescribed <term class="no-emphasis" id="term-00071">valproic acid</term>, as the intended action may be inhibited among people who consume large amounts of soy, as seen in vegan and <term class="no-emphasis" id="term-00072">vegetarian diets</term>. Moreover, while some anticonvulsant medications, such as <term class="no-emphasis" id="term-00073">topiramate</term>, may reduce total body weight, <term class="no-emphasis" id="term-00074">valproic acid</term> has been associated with weight gain because of decreased serum glucose levels, which increase <term class="no-emphasis" id="term-00075">appetite</term>. Clients who receive valproic acid should be closely monitored, as <term id="term-00076">hepatotoxicity</term>may result. Clients taking any anticonvulsant medications should not consume <term class="no-emphasis" id="term-00077">alcohol</term>, because these medications weaken the tolerance to alcohol, increasing the risk for intoxication. [link]Table 6.4[/link] provides a list of common medications used to treat seizures.</para>
+<table class="vertically-tight alernate-shading" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Generic name</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nutritional Effect</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00078">Carbamazepine</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00025">
+<item>Can cause deficiency in vitamins B and D</item>
+<item>Can cause bone loss, <term class="no-emphasis" id="term-00079">hyperhomocysteinemia</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00080">Clonazepam</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00026">
+<item>Can decrease appetite but cause <term class="no-emphasis" id="term-00081">weight gain</term> as it slows the metabolism</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00082">Diazepam</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00027">
+<item>Do not take with grapefruit or grapefruit juice, kava, or St. John’s wort</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00083">Ethosuximide</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00028"><item>Can cause <term class="no-emphasis" id="term-00084">loss of appetite</term> and <term class="no-emphasis" id="term-00085">weight loss</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00086">Levetiracetam</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00029">
+<item>Can deplete biotin, calcium, L-carnitine, and vitamins A, B<sub>12</sub>, D, and E</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<term class="no-emphasis" id="term-00087">Midazolam</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00030">
+<item>Do not take with grapefruit or grapefruit juice</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<term class="no-emphasis" id="term-00088">Oxcarbazepine</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00031">
+<item>Can increase appetite and cause weight gain</item>
+<item>Can reduce sodium levels and cause nausea, upset stomach, and indigestion</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<term class="no-emphasis" id="term-00089">Phenobarbital</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00032">
+<item>Causes vitamin D deficiency</item>
+<item>Can cause bone loss</item>
+<item>Increases biotin breakdown</item>
+<item>Can cause loss of appetite and weight loss</item>
+<item>Can deplete calcium and vitamins A, B<sub>9</sub> (folate), and D</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00090">Phenytoin</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00033"><item>Vitamins B and D deficiency</item>
+<item>Can cause bone loss</item>
+<item>Hyperhomocysteinemia</item>
+<item>Do not mix with <term class="no-emphasis" id="term-00091">enteral tube feedings</term></item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<term class="no-emphasis" id="term-00092">Pregabalin</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00034">
+<item>Can increase appetite and cause weight gain</item>
+<item>Can lower vitamin B<sub>12</sub> levels</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00093">Primidone</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00035"><item>Can cause loss of appetite and weight loss</item>
+<item>Can lower vitamin B<sub>12</sub> levels</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">
+<term class="no-emphasis" id="term-00094">Topiramate</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00036"><item>Can suppress appetite, causing weight loss</item>
+<item>Can cause <term class="no-emphasis" id="term-00095">ketosis</term> and increase risk for <term class="no-emphasis" id="term-00096">kidney stones</term></item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Valproic acid</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00037">
+<item>Vitamin D deficiency</item>
+<item>Can cause bone loss, as well as hyperammonemia and L-carnitine deficiency</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Common Medications Used to Treat Seizures (source: Dhaliwal et al., 2023; Epilepsy Foundation, 2023)</caption>
+</table>
+</section>
+<section id="sect-00006">
+<title>Medications Used to Treat Multiple Sclerosis (MS)</title>
+<para id="para-00017">Several medications and treatments may be used to treat clients with <term class="no-emphasis" id="term-00097">MS</term>, depending on the type and severity of the condition and considering potential risks and benefits. One group of medications is <term class="no-emphasis" id="term-00098">immunomodulators</term>. <term class="no-emphasis" id="term-00099">Interferon beta-1a</term> is an injectable immunomodulator that is often prescribed to clients with MS, as it acts to reduce inflammation and halt nerve damage through the destruction of certain cells. While flu-like symptoms may be common, liver damage is a critical side effect of this medication. A loss of appetite as well as nausea, clay-colored stools, dark urine, and jaundice may indicate that the <term class="no-emphasis" id="term-00100">liver</term> is failing and should be reported to the provider immediately. (Filipi &amp; Jack, 2020). One of the newest medications that prevent MS relapses is <term class="no-emphasis" id="term-00101">ofatumumab</term>, which can also cause nausea, and if this occurs, the nurse should report it to the health care provider. A rare adverse and potentially lethal effect of this medication is brain infection, which could cause speech, vision, or muscle movement abnormalities. The ketogenic diet can reduce the need for medication in people with MS.</para>
+</section>
+<section id="sect-00007">
+<title>Medications Used to treat Depression, Psychosis, and Sleep</title>
+<para id="para-00018">Several classes of medications are used routinely to treat <term class="no-emphasis" id="term-00102">depression</term>, such <term class="no-emphasis" id="term-00103">as selective serotonin reuptake inhibitors (SSRIs)</term>, tricyclic <term class="no-emphasis" id="term-00104">antidepressants</term>, and <term class="no-emphasis" id="term-00105">monoamine oxidase inhibitors (MAOIs)</term>. One commonly prescribed medication to treat <term class="no-emphasis" id="term-00106">depression</term> is <term class="no-emphasis" id="term-00107">fluoxetine</term>, which may be associated with increased insulin levels and subsequent short-term weight gain in some individuals. Other common antidepressants, such as <term class="no-emphasis" id="term-00108">sertraline</term> and <term class="no-emphasis" id="term-00109">paroxetine</term>, have been linked to high LDL cholesterol, and long-term use may increase the risk for cardiovascular disease. Some of the <term class="no-emphasis" id="term-00110">tricyclic antidepressants</term>, such as <term class="no-emphasis" id="term-00111">amitriptyline</term>, may also cause weight gain, as they can increase appetite. A high intake of fiber foods, such as legumes, fish, meat, and foods rich in vitamin C, may decrease absorption of these medications. <term class="no-emphasis" id="term-00112">Tyramine</term> is a trace monoamine found in aged cheeses and cured meats and should be avoided if the client is taking a monoamine oxidase inhibitor. Some <term class="no-emphasis" id="term-00113">antipsychotic medications</term>, such as <term class="no-emphasis" id="term-00114">chlorpromazine</term> and <term class="no-emphasis" id="term-00115">clozapine</term>, can cause a vitamin B<sub>12</sub> deficiency and/or constipation. Therefore, supplemental B vitamins and minerals are recommended, as well as adequate fluid and fiber intake.</para>
+<para id="para-00019">For clients with <term class="no-emphasis" id="term-00116">sleep disturbances</term>, medications like <term class="no-emphasis" id="term-00117">zolpidem</term> rapidly decelerate brain activity and can help them fall asleep and asleep. Clients taking sleeping medications should avoid caffeine and alcohol and should take them on an empty stomach to ensure adequate absorption. Zolpidem interacts with <term class="no-emphasis" id="term-00118">St. John’s wort</term>, and the two should not be administered together. Another medication prescribed to treat <term class="no-emphasis" id="term-00119">insomnia</term>, <term class="no-emphasis" id="term-00120">triazolam</term>, should not be taken with grapefruit juice, as this has been shown to increase blood levels of the drug, causing excessive drowsiness.</para>
+</section>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00008">
+<list list-type="bulleted" id="list-00038">
+<item>For proper functioning of the neurologic system, specific nutrients are required across the client’s lifespan.</item>
+<item>The health of the client and fetus is optimized by ensuring that the client consumes adequate protein and has a diet is rich in micronutrients including vitamins A, B<sub>9</sub> (folate), B<sub>12</sub> (cobalamin), D, E, and K as well as minerals such as copper, iron, creatine, choline, zinc, and iodine.</item>
+<item>Specific nutrients for infants, children, and adolescents offer optimal neural development.</item>
+<item>The nutrient needs for adults change with the aging process; ensuring adequate intake of key macronutrients and micronutrients prevents cognitive decline.</item>
+<item>Weight management is important throughout the client’s lifespan and can promote neurological health.</item>
+<item>Neurologic conditions and subsequent treatment and medications can alter the client’s nutritional state.</item>
+<item>Nurses should be aware of the potential nutritional challenges that could present and teach their clients about specific nutritional strategies to prevent rapid declines related to neurologic diseases and conditions.</item>
+</list>
+</section>
+<section class="review-questions" id="sect-00009">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00020"><link class="os-embed" url="#exercise/NUT_Ch06_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00021"><link class="os-embed" url="#exercise/NUT_Ch06_Sec02_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00022"><link class="os-embed" url="#exercise/NUT_Ch06_Sec03_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00023"><link class="os-embed" url="#exercise/NUT_Ch06_Sec01_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch06_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00025"><link class="os-embed" url="#exercise/NUT_Ch06_Sec02_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00026"><link class="os-embed" url="#exercise/NUT_Ch06_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00027"><link class="os-embed" url="#exercise/NUT_Ch06_Sec01_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/NUT_Ch06_Sec02_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/NUT_Ch06_Sec03_RQ10"/></para></problem></exercise>
+</section>
+<section class="suggested-reading" id="sect-00010">
+<para id="para-00030">Alzheimer’s Disease International (2023, June 19). https://www.alzint.org/news-events/news/new-data-predicts-the-number-of-people-living-with-alzheimers-disease-to-triple-by-2050/</para>
+<para id="para-00031">Cortés-Albornoz, M. C., García-Guáqueta, D. P., Velez-van-Meerbeke, A., &amp; Talero-Gutiérrez, C. (2021). Maternal Nutrition and Neurodevelopment: A Scoping Review. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">13</emphasis>(10), 3530. http://dx.doi.org/10.3390/nu13103530</para>
+<para id="para-00032">Gezmen-Karadağ, M., Çelik, E., Kadayifçi, F., Yeşildemir, Ö., Öztürk, Y. E., &amp; Ağagündüz, D. (2018). Role of food-drug interactions in neurological and psychological diseases. <emphasis effect="italics">Acta Neurobiologiae Experimentalis</emphasis>, <emphasis effect="italics">78</emphasis>(3), 187–197.</para>
+<para id="para-00033">Zambrano, M., Miller, E. (2019). Maternal Stroke: An Update. <emphasis effect="italics">Current atherosclerosis reports</emphasis>, <emphasis effect="italics">21</emphasis>(9), 33. https://doi.org/10.1007/s11883-019-0798-2</para>
+</section>
+<section class="references" id="sect-00011">
+<para id="para-00034">Al Rubaye, H., Adamson, C. C., &amp; Jadavji, N. M. (2021). The role of maternal diet on offspring gut microbiota development: A review. <emphasis effect="italics">Journal of Neuroscience Research</emphasis>, <emphasis effect="italics">99</emphasis>(1), 284–293. https://doi.org/10.1002/jnr.24605</para>
+<para id="para-00035">Alrumayh, A., Alfuhaid, F., Sayed, A. J., Tareen, S. U. K., Alrumayh, I., &amp; Habibullah, M. A. (2021). Maternal Periodontal Disease: A Possible Risk Factor for Adverse Pregnancy Outcomes in the Qassim Region of Saudi Arabia. <emphasis effect="italics">Journal of Pharmacy &amp; Bioallied Sciences</emphasis>, <emphasis effect="italics">13</emphasis>(Suppl 2), S1723–S1727. https://doi.org/10.4103/jpbs.JPBS_838_20</para>
+<para id="para-00036">Alzheimer’s Disease International (2023, June 19). <emphasis effect="italics">New study predicts the number of people living with Alzheimer’s disease to triple by 2050.</emphasis> https://www.alzint.org/news-events/news/new-data-predicts-the-number-of-people-living-with-alzheimers-disease-to-triple-by-2050/</para>
+<para id="para-00037">Arora, S. (2022). Effects of Breakfast on Cognitive Function of Children. <emphasis effect="italics">ACTA Scientific Nutritional Health</emphasis>, 6(4), 75–79.</para>
+<para id="para-00038">Bethlehem, R.A.I., Seidlitz, J., White, S.R. (2022). Brain charts for the human lifespan. <emphasis effect="italics">Nature,</emphasis> <emphasis effect="italics">604</emphasis>, 525–533. https://doi.org/10.1038/s41586-022-04554-y</para>
+<para id="para-00039">Carazo, A., Macáková, K., Matoušová, K., Krčmová, L. K., Protti, M., &amp; Mladěnka, P. (2021). Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">13</emphasis>(5), 1703. https://doi.org/10.3390/nu13051703</para>
+<para id="para-00040">Centers for Disease Control and Prevention (CDC). (2020, November 3). <emphasis effect="italics">Water Fluoridation Guidelines &amp; Recommendations</emphasis>. https://www.cdc.gov/fluoridation/guidelines/index.htm</para>
+<para id="para-00041">Centers for Disease Control and Prevention (CDC). (2022, February 1). <emphasis effect="italics">Micronutrient Facts.</emphasis> https://www.cdc.gov/nutrition/micronutrient-malnutrition/micronutrients/</para>
+<para id="para-00042">Centers for Disease Control and Prevention (CDC). (2023a, September 22). <emphasis effect="italics">Do mothers need more calories while breastfeeding?</emphasis> https://www.cdc.gov/breastfeeding/breastfeeding-special-circumstances/diet-and-micronutrients/maternal-diet.html</para>
+<para id="para-00043">Centers for Disease Control and Prevention (CDC). (2023b, September 22). <emphasis effect="italics">Prevalence of Childhood Obesity in the United States.</emphasis> https://www.cdc.gov/obesity/data/childhood.html</para>
+<para id="para-00044">Chauhan K, Shahrokhi M, Huecker MR. <emphasis effect="italics">Vitamin D</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK441912/</para>
+<para id="para-00045">Chea, N., Tegene, Y., Astatkie, A., &amp; Spigt, M. (2023). Prevalence of undernutrition among pregnant women and its differences across relevant subgroups in rural Ethiopia: a community-based cross-sectional study. <emphasis effect="italics">Journal of Health, Population, and Nutrition</emphasis>, <emphasis effect="italics">42</emphasis>(1), 17. https://doi.org/10.1186/s41043-023-00358-6</para>
+<para id="para-00046">Choi, S., Hong, D. K., Choi, B. Y., &amp; Suh, S. W. (2020). Zinc in the Brain: Friend or Foe? <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">21</emphasis>(23), 8941. https://doi.org/10.3390/ijms21238941</para>
+<para id="para-00047">Cortés-Albornoz, M. C., García-Guáqueta, D. P., Velez-van-Meerbeke, A., &amp; Talero-Gutiérrez, C. (2021). Maternal Nutrition and Neurodevelopment: A Scoping Review. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">13</emphasis>(10), 3530. http://dx.doi.org/10.3390/nu13103530</para>
+<para id="para-00048">Czarnecka, K., Pilarz, A., Rogut, A., Maj, P., Szymańska, J., Olejnik, Ł., &amp; Szymański, P. (2021). Aspartame—True or False? Narrative Review of Safety Analysis of General Use in Products. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">13</emphasis>(6), 1957. http://dx.doi.org/10.3390/nu13061957</para>
+<para id="para-00049">de Havenon A, Delic A, Stulberg E, et al. Association of Preeclampsia with Incident Stroke in Later Life Among Women in the Framingham Heart Study (2021). <emphasis effect="italics">JAMA Network Open, 4</emphasis>(4), e215077. doi:10.1001/jamanetworkopen.2021.5077</para>
+<para id="para-00050">Dhaliwal, J.S., Rosani, A.R., &amp; Saadabadi, A. (2023). Diazepam. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK537022</para>
+<para id="para-00051">Dunbar M., &amp; Kirton, A. (2018). Perinatal stroke: mechanisms, management, and outcomes of early cerebrovascular brain injury. <emphasis effect="italics">Lancet Child Adolesc Health,</emphasis> 9, 666–676. doi: 10.1016/S2352-4642(18)30173-1.</para>
+<para id="para-00052">Duttaroy, A., Basak, S. (2020). Maternal dietary fatty acids and their roles in human placental development. <emphasis effect="italics">Prostaglandins, Leukotrienes and Essential Fatty Acids</emphasis>, 155: 102080, https://doi.org/10.1016/j.plefa.2020.102080</para>
+<para id="para-00053">Dyńka, D., Kowalcze, K., &amp; Paziewska, A. (2022). The Role of Ketogenic Diet in the Treatment of Neurological Diseases. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">14</emphasis>(23), 5003. https://doi.org/10.3390/nu14235003</para>
+<para id="para-00054">Elgendy, I., Bukhari, S., Barakat,A., Pepine, C., Lindley, K., Miller E. (2021). Maternal Stroke A Call for Action. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">143</emphasis>(7). 727–738. https://doi.org/10.1161/CIRCULATIONAHA.120.051460</para>
+<para id="para-00055">Epilepsy Foundation. (2023). <emphasis effect="italics">Seizure Medication List</emphasis>. https://www.epilepsy.com/tools-resources/seizure-medication-list</para>
+<para id="para-00056">Fei, H. X., Qian, C. F., Wu, X. M., Wei, Y. H., Huang, J. Y., &amp; Wei, L. H. (2022). Role of micronutrients in Alzheimer's disease: Review of available evidence. <emphasis effect="italics">World Journal of Clinical Cases</emphasis>, <emphasis effect="italics">10</emphasis>(22), 7631–7641. https://doi.org/10.12998/wjcc.v10.i22.7631</para>
+<para id="para-00057">Filipi, M., &amp; Jack, S. (2020). Interferons in the Treatment of Multiple Sclerosis: A Clinical Efficacy, Safety, and Tolerability Update. <emphasis effect="italics">International Journal of MS Care</emphasis>, <emphasis effect="italics">22</emphasis>(4), 165–172. https://doi.org/10.7224/1537-2073.2018-063</para>
+<para id="para-00058">Francis, H., &amp; Stevenson, R. (2018). Potential for diet to prevent and remediate cognitive deficits in neurological disorders. <emphasis effect="italics">Journal of Nutrition Reviews</emphasis>, 3(76), 204–217. https://doi.org/10.1093/nutrit/nux073</para>
+<para id="para-00059">Fryar C., Carroll M., Afful J. (2020). Prevalence of overweight, obesity, and severe obesity among adults aged 20 and over: United States, 1960–1962 through 2017–2018. <emphasis effect="italics">NCHS Health E-Stats, Centers for Disease Control and Prevention</emphasis>. Updated February 8, 2021. www.cdc.gov/nchs/data/hestat/obesity-adult-17-18/obesity-adult.htm</para>
+<para id="para-00060">Georgieff, M. (2020). Iron deficiency in pregnancy. <emphasis effect="italics">American Journal of Obstetrics and Gynecology, 223</emphasis>(4), 516–524. https://doi.org/10.1016/j.ajog.2020.03.006.</para>
+<para id="para-00061">Gezmen-Karadağ, M., Çelik, E., Kadayifçi, F., Yeşildemir, Ö., Öztürk, Y. E., &amp; Ağagündüz, D. (2018). Role of food-drug interactions in neurological and psychological diseases. <emphasis effect="italics">Acta Neurobiologiae Experimentalis</emphasis>, <emphasis effect="italics">78</emphasis>(3), 187–197.</para>
+<para id="para-00062">Gleason, J., Sundaram, R., Mitro, S. Hinkle, S., Gilman, S., Zhang, C., Newman, R. … Grantz, K. (2022). Association of Maternal Caffeine Consumption During Pregnancy With Child Growth, <emphasis effect="italics">JAMA Network Open,</emphasis> <emphasis effect="italics">5</emphasis>(10): e2239609. doi:10.1001/jamanetworkopen.2022.39609</para>
+<para id="para-00063">Griebsch, L. V., Theiss, E. L., Janitschke, D., Erhardt, V. K. J., Erhardt, T., Haas, E. C., Kuppler, K. N., Radermacher, J., Walzer, O., Lauer, A. A., Matschke, V., Hartmann, T., Grimm, M. O. W., &amp; Grimm, H. S. (2023). Aspartame and Its Metabolites Cause Oxidative Stress and Mitochondrial and Lipid Alterations in SH-SY5Y Cells. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">15</emphasis>(6), 1467. https://doi.org/10.3390/nu15061467</para>
+<para id="para-00064">Filipi, M., &amp; Jack, S. (2020). Interferons in the Treatment of Multiple Sclerosis: A Clinical Efficacy, Safety, and Tolerability Update. <emphasis effect="italics">International Journal of MS Care</emphasis>, <emphasis effect="italics">22</emphasis>(4), 165–172. https://doi.org/10.7224/1537-2073.2018-063</para>
+<para id="para-00065">Hoyert, DL (2023). Maternal mortality rates in the United States, 2021. NCHS Health E-Stats.DOI: 10.1056/EVIDoa2300058Jiang, Z., Yin, X., Wang, M., Chen, T., Wang, Y., Gao, Z., &amp; Wang, Z. (2022). Effects of Ketogenic Diet on Neuroinflammation in Neurodegenerative Diseases. <emphasis effect="italics">Aging and Disease</emphasis>, <emphasis effect="italics">13</emphasis>(4), 1146–1165. https://doi.org/10.14336/AD.2021.1217</para>
+<para id="para-00066">Kija, E., Gidal, B., Shapson-Coe, A., Cader, S., van der Watt, G., Delport, S., Wilmshurst, J. (2019). Vitamin D abnormalities and bone turn over analysis in children with epilepsy in the Western Cape of South Africa. <emphasis effect="italics">Seizure,</emphasis> 69, 186–192. https://doi.org/10.1016/j.seizure.2019.04.020.</para>
+<para id="para-00067">Larqué E., Morales E., Leis R., Blanco-Carnero J. (2018). Maternal and Foetal Health Implications of Vitamin D Status during Pregnancy. <emphasis effect="italics">Ann. Nutr. Metab.,</emphasis></para>
+<para id="para-00068"> 72:179–192. doi: 10.1159/000487370.</para>
+<para id="para-00069">Leonhard S, Mandarakas M, Gondim F. (2019). Diagnosis and management of Guillain-Barré syndrome in ten steps. <emphasis effect="italics">National Review Neurology,</emphasis> 15<emphasis effect="italics">,</emphasis> 671–683. https:// doi: 10.1038/s41582-019-0250-9</para>
+<para id="para-00070">Li, M., Francis E., Hinkle S., Ajjarapu A., Zhang C. (2019). Preconception and Prenatal Nutrition and Neurodevelopmental Disorders: A Systematic Review and Meta-Analysis. <emphasis effect="italics">Nutrients,</emphasis> 11, 1628. doi: 10.3390/nu11071628.</para>
+<para id="para-00071">Li, Q., Liang, J., Fu, N., Han, Y., Qin, J. (2021). A Ketogenic Diet and the Treatment of Autism Spectrum Disorder, <emphasis effect="italics">Frontiers in Pediatrics,</emphasis> 9. https://www.frontiersin.org/articles/10.3389/fped.2021.650624</para>
+<para id="para-00072">Miller, J., LaFountain, R., Barnhart, E., Sapper, T. et al. (2020). A Ketogenic Diet combined with exercise alters mitochondrial function in human skeletal muscle while improving metabolic health, <emphasis effect="italics">American Journal of Physiology: Endocrinology and Metabolism, 319(</emphasis>6), E995-E1007. https://doi.org/10.1152/ajpendo.00305.2020</para>
+<para id="para-00073">Richardt A, Aarnio K, Korhonen A, et al. Etiology and risk factors of ischemic stroke during pregnancy and puerperium: A population-based study. <emphasis effect="italics">European Stroke Journal</emphasis>. 2023;8(2):475-482. doi:10.1177/23969873231170096</para>
+<para id="para-00074">Moscatelli, F., De Maria, A., Marinaccio, L. A., Monda, V., Messina, A., Monacis, D., Toto, G., et al. (2023). Assessment of Lifestyle, Eating Habits and the Effect of Nutritional Education among Undergraduate Students in Southern Italy. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">15</emphasis>(13), 2894. MDPI AG. Retrieved from http://dx.doi.org/10.3390/nu15132894</para>
+<para id="para-00075">Murphy, M. M., Higgins, K. A., Bi, X., &amp; Barraj, L. M. (2021). Adequacy and Sources of Protein Intake among Pregnant Women in the United States, NHANES 2003–2012. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">13</emphasis>(3), 795.</para>
+<para id="para-00076">National Institutes of Health. (2021). <emphasis effect="italics">Magnesium</emphasis>. https://ods.od.nih.gov/factsheets/Magnesium-Consumer/</para>
+<para id="para-00077">National Institutes of Health. (2022a). <emphasis effect="italics">Biotin</emphasis>. https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/</para>
+<para id="para-00078">National Institutes of Health. (2022b). <emphasis effect="italics">Chromium</emphasis>. https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/</para>
+<para id="para-00079">Nawaz, A., Khattak, N.N., Khan, M., Nangyal, H., Sabri, S., Shakir, M. (2020). Deficiency of vitamin B<sub>12</sub> and its relation with neurological disorders: a critical review. <emphasis effect="italics">Journal of Basic and Applied Zoology,</emphasis> 81<emphasis effect="italics">,</emphasis> 10. https://doi.org/10.1186/s41936-020-00148-0</para>
+<para id="para-00080">Newman, C., Rabbitt, L., Ero, A., &amp; Dunne, F. P. (2023). Focus on Metformin: Its Role and Safety in Pregnancy and Beyond. <emphasis effect="italics">Drugs</emphasis>, 83(11), 985–999. https://doi.org/10.1007/s40265-023-01899-0</para>
+<para id="para-00081">Nieto-Ruiz, A., García-Santos, J. A., Bermúdez, M. G., Herrmann, F., Diéguez, E., Sepúlveda-Valbuena, N., García, S., Miranda, M. T., De-Castellar, R., Rodríguez-Palmero, M., Catena, A., &amp; Campoy, C. (2019). Cortical Visual Evoked Potentials and Growth in Infants Fed with Bioactive Compounds-Enriched Infant Formula: Results from COGNIS Randomized Clinical Trial. <emphasis effect="italics">Nutrients</emphasis>, 11(10), 2456. https://doi.org/10.3390/nu11102456</para>
+<para id="para-00082">Oei, J. (2020). Alcohol use in pregnancy and its impact on the mother and child. <emphasis effect="italics">Addiction</emphasis>, 115, 2148–2163. https://doi.org/10.1111/add.15036</para>
+<para id="para-00083">Okuda T. (2019). Dietary Control of Ganglioside Expression in Mammalian Tissues. <emphasis effect="italics">International journal of Molecular Sciences</emphasis>, 21(1), 177. https://doi.org/10.3390/ijms21010177</para>
+<para id="para-00084">Oppedisano, F., Maiuolo, J., Gliozzi, M., Musolino, V., Carresi, C., Nucera, S., Scicchitano, M., et al. (2020). The Potential for Natural Antioxidant Supplementation in the Early Stages of Neurodegenerative Disorders. <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">21</emphasis>(7), 2618. http://dx.doi.org/10.3390/ijms21072618</para>
+<para id="para-00085">Richardt A, Aarnio K, Korhonen A, et al.(2023). Etiology and risk factors of ischemic stroke during pregnancy and puerperium: A population-based study. <emphasis effect="italics">European Stroke Journal 8</emphasis>(2):475-482. doi:10.1177/23969873231170096</para>
+<para id="para-00086">Rivell, A., Mattson, M. (2019). Intergenerational Metabolic Syndrome and Neuronal Network Hyperexcitability in Autism. <emphasis effect="italics">Trends Neuroscience,</emphasis> 42, 709–726.</para>
+<para id="para-00087">Román, G. C., Jackson, R. E., Gadhia, R., Román, A. N., &amp; Reis, J. (2019). Mediterranean diet: The role of long-chain ω-3 fatty acids in fish; polyphenols in fruits, vegetables, cereals, coffee, tea, cacao, and wine; probiotics and vitamins in prevention of stroke, age-related cognitive decline, and Alzheimer disease. <emphasis effect="italics">Revue Neurologique</emphasis>, 175(10), 724–741. https://doi.org/10.1016/j.neurol.2019.08.005</para>
+<para id="para-00088">Rudloff, S., Bührer, C., Jochum, F., Kauth, T., Kersting, M., Körner, A., Koletzo, B., Mihatsch, W., Prell, C., Reinehr, T., Zimmer, K. (2019). Vegetarian diets in childhood and adolescence. <emphasis effect="italics">Molecular and Cellular Pediatrics,</emphasis> 6, (4). https://doi.org/10.1186/s40348-019-0091-z</para>
+<para id="para-00089">Safahani, M., Aligholi, H. &amp; Asadi-Pooya, A.A. (2020). Management of antiepileptic drug–induced nutrition-related adverse effects. <emphasis effect="italics">Neurol Sci,</emphasis> 41, 3491–3502. https://doi.org/10.1007/s10072-020-04573-5</para>
+<para id="para-00090">Sanchez, C. Barry, C., Sabhlok, A., Russell, K., Majors, A., Kollins, S., Fuemmeler, B. (2018). Maternal pre-pregnancy obesity and child neurodevelopmental outcomes: A meta-analysis. <emphasis effect="italics">Obesity Review,</emphasis> 19, 464–484. doi: 10.1111/obr.12643.</para>
+<para id="para-00091">Sheehy, S., Aparicio, H., Xu, N., Bertrand, K., Robles, Y., Lioutas, B., Shulman, J., Rosenberg, L., Palmer, J. (2023). Hypertensive Disorders of Pregnancy and Risk of Stroke in U.S. Black Women. <emphasis effect="italics">NEJM Evidence</emphasis>, https://doi.org:10.1056/EVIDoa2300058</para>
+<para id="para-00092">Sipione, S., Monyror, J., Galleguillos, D., Steinberg, N., Kadam, V. (2020). Gangliosides in the Brain: Physiology, Pathophysiology and Therapeutic Applications. <emphasis effect="italics">Frontiers in Neuroscience</emphasis>, 6(14<emphasis effect="italics">)</emphasis>. https://doi.org: 10.3389/fnins.2020.572965</para>
+<para id="para-00093">Steane, S.E., Cuffe, J.S.M. and Moritz, K.M. (2023), The role of maternal choline, folate and one-carbon metabolism in mediating the impact of prenatal alcohol exposure on placental and fetal development. <emphasis effect="italics">J Physiol</emphasis>, 601: 1061–1075. https://doi.org/10.1113/JP283556</para>
+<para id="para-00094">Sun, S., Corbeels, K., Desmet, L., Segers, A., Wang, Q., Van Der Schueren, B., Deporortere, I. (2020). Involvement in the CHSR in the developmental programming and metabolic disturbances induced by maternal undernutrition. <emphasis effect="italics">The Journal of Nutritional Biochemistry</emphasis>, 85. https://doi.org/10.1016/j.jnutbio.2020.108468</para>
+<para id="para-00095">Tabaie, E., Reddy, A., Brahmbhatt, H. (2021). A narrative review on the effects of a ketogenic diet on patients with Alzheimer's disease. <emphasis effect="italics">AIMS Public Health</emphasis>, 9(1), 185–193. https://doi.org/10.3934/publichealth.2022014</para>
+<para id="para-00096">Tous, M., Villalobos, M., Iglesias, L., Fernández-Barrés, S., Arija V. (2020). Vitamin D status during pregnancy and offspring outcomes: A systematic review and meta-analysis of observational studies. <emphasis effect="italics">European Journal of Clinical Nutrition,</emphasis> 74<emphasis effect="italics">,</emphasis> 36–53. doi: 10.1038/s41430-018-0373-x.</para>
+<para id="para-00097">U.S. Department of Agriculture. (2019). <emphasis effect="italics">Scientific Report of the 2015 Dietary Guidelines Advisory Committee, Table E3.1.A4</emphasis>. https://www.dietaryguidelines.gov/sites/default/files/2019-05/15-Appendix-E-3.pdf</para>
+<para id="para-00098">U.S. Food and Drug Administration. (2022a, August 9). <emphasis effect="italics">Find Information about a Drug.</emphasis> https://www.fda.gov/drugs/information-consumers-and-patients-drugs/find-information-about-drug</para>
+<para id="para-00099">U.S. Food and Drug Administration. (2020b, November 24). <emphasis effect="italics">Resources | Drugs</emphasis>. https://www.fda.gov/drugs/resources-drugs</para>
+<para id="para-00100">Verhaegen, AA, Van Gaal, LF. <emphasis effect="italics">Drugs That Affect Body Weight, Body Fat Distribution, and Metabolism.</emphasis> [Updated 2019 Feb 11]. In: Feingold KR, Anawalt B, Blackman MR, et al., editors. Endotext [Internet]. South Dartmouth (MA): MDText.com, Inc., 2000-. https://www.ncbi.nlm.nih.gov/books/NBK537590/</para>
+<para id="para-00101">Xu, Y., Zhang, N., Xu, S., Xu, H., Chen, S., &amp; Xia, Z. (2019). Effects of phenytoin on serum levels of homocysteine, vitamin B<sub>12</sub>, folate in patients with epilepsy: A systematic review and meta-analysis (PRISMA-compliant article). <emphasis effect="italics">Medicine</emphasis>, 98(12), e14844. https://doi.org/10.1097/MD.0000000000014844</para>
+<para id="para-00102">Zambrano, M., Miller, E. (2019). Maternal Stroke: An Update. <emphasis effect="italics">Current Atherosclerosis Reports</emphasis>, <emphasis effect="italics">21</emphasis>(9), 33. https://doi.org/10.1007/s11883-019-0798-2</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>hepatotoxicity</term> <meaning>injury to the liver, or impaired liver function, due to the exposure to certain drugs, food additives, alcohol, solvents, some plants, and other environmental toxins</meaning></definition>
+<definition id="def-00002"><term>anticonvulsants</term> <meaning>medications used to prevent or treat epileptic seizures; many anticonvulsants are also used to treat certain psychiatric conditions</meaning></definition>
+<definition id="def-00003"><term>homocysteine</term> <meaning>an amino acid that can be found in meat; high levels are associated with the development of heart and neurologic conditions</meaning></definition>
+</glossary>
 </document>
