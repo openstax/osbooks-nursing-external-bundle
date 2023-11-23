@@ -43,37 +43,22 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Temperature:&#160;97.6ºF</entry>
-    <entry valign="top" align="left">Temperature:&#160;98.0ºF</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Blood pressure:&#160;128/89 mm Hg</entry>
-    <entry valign="top" align="left">Blood pressure:&#160;126/82 mm Hg</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Heart rate:&#160;99 beats/min</entry>
-    <entry valign="top" align="left">Heart rate:&#160;89 beats/min</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Respiratory rate:&#160;28</entry>
-    <entry valign="top" align="left">Respiratory rate:&#160;20</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Oxygen saturation:&#160;89% on room air<newline/>
-       (drops to 77 while walking)</entry>
-    <entry valign="top" align="left">Oxygen saturation:&#160;92% on room air</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Height:&#160;6'0"</entry>
-    <entry valign="top" align="left">Height:&#160;6'0"</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Weight:&#160;268 lb</entry>
-    <entry valign="top" align="left">Weight:&#160;280 lb</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left"></entry>
-    <entry valign="top" align="left">The client presents with mild dry cough for 2 weeks. Client’s chest x-ray shows enlarged lung air pockets. The client does not have a history of respiratory conditions but stated he has smoked for 30 years. The client is a construction worker with a fluctuating dietary history. Recommendations for client include smoking cessation.</entry>
+    <entry valign="top" align="left">Temperature:&#160;97.6ºF<newline/>
+Blood pressure:&#160;128/89 mm Hg<newline/>
+Heart rate:&#160;99 beats/min<newline/>
+Respiratory rate:&#160;28<newline/>
+Oxygen saturation:&#160;89% on room air<newline/>
+(drops to 77 while walking)<newline/>
+Height:&#160;6'0"<newline/>
+Weight:&#160;268 lb</entry>
+<entry valign="top" align="left">Temperature:&#160;98.0ºF<newline/>
+Blood pressure:&#160;126/82 mm Hg<newline/>
+Heart rate:&#160;89 beats/min<newline/>
+Respiratory rate:&#160;20<newline/>
+Oxygen saturation:&#160;92% on room air<newline/>
+Height:&#160;6'0"<newline/>
+Weight:&#160;280 lb<newline/>
+The client presents with mild dry cough for 2 weeks. Client’s chest x-ray shows enlarged lung air pockets. The client does not have a history of respiratory conditions but stated he has smoked for 30 years. The client is a construction worker with a fluctuating dietary history. Recommendations for client include smoking cessation.</entry>
     </row>
     </tbody>
     </tgroup>
