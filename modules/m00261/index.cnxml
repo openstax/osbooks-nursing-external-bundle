@@ -1,13 +1,1008 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Anti-Parkinson and Anticholinergic Drugs</title>
+  <title>Anti-Parkinsonian Drugs </title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Anti-Parkinson and Anticholinergic Drugs</md:title>
     <md:content-id>m00261</md:content-id>
     <md:uuid>1df3e7a7-ac5c-4a1a-826b-4ee0155a4ecf</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list list-type="bulleted" id="list-00001">
+<item>Identify the characteristics of drugs used to treat Parkinson’s disease.</item>
+<item>Explain the indications, actions, adverse reactions, contraindications, and interactions of drugs used to treat Parkinson’s disease.</item>
+<item>Describe nursing implications of drugs used to treat Parkinson’s disease.</item>
+<item>Explain the client education related to drugs used to treat Parkinson’s disease.</item>
+</list>
+</section>
+<para id="para-00002">Currently there is no cure for PD. Although pharmacologic management is a first-line treatment, drugs only provide symptomatic relief; they do not cease or reverse the neuronal degeneration. Unfortunately, although symptoms may significantly improve at first, the symptoms frequently reappear over time as the disease worsens and drugs become less effective.</para>
+<para id="para-00003">Drugs are given to restore the balance of dopamine and ACh in certain areas of the brain. This can be achieved by increasing dopamine levels with dopaminergics (classes of drugs that have different mechanisms of action), such as dopamine agonists, monoamine oxidase-B (MAO-B) inhibitors, and catechol-<emphasis effect="italics">O</emphasis>-methyltransferase (COMT) inhibitors. Drugs are also given to block the excitatory actions of ACh. These are cholinergic antagonists (anticholinergics). Many times, the client is on combination therapy to prolong the therapeutic effects. Notably, administering exogenous dopamine is not an option because it has difficulty crossing the blood–brain barrier and has an extremely short half-life.</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Anticholinergics</title>
+<para id="para-00004"><term class="no-emphasis" id="term-00001">Anticholinergics</term> are not as frequently used as they were in the past due to their multiple adverse effects. Several interchangeable terms are used for the medication class of anticholinergics—<term class="no-emphasis" id="term-00002">cholinergic blockers</term>, <term class="no-emphasis" id="term-00003">muscarinic antagonists</term>, and <term class="no-emphasis" id="term-00004">parasympatholytics</term>—all of which have the same meaning. Anticholinergic agents produce their effects by preventing the activation of muscarinic receptors. These drugs work in opposition to cholinergic agonists. The two most common anticholinergics are benztropine mesylate and trihexyphenidyl hydrochloride (Parkinson’s Foundation, 2023a).</para>
+<note class="clinical-tip" id="note-00001">
+<title><emphasis effect="bold">Differences in Receptor Sensitivity</emphasis></title>
+<para id="para-00005">Not all muscarinic receptors are equally sensitive to blockade by most of the anticholinergic agents. At some sites, only a small concentration of drug is required to effectively block receptors. These drugs are considered high-potency agents. At other sites, a higher concentration is needed. Using higher concentrations of a muscarinic antagonist will result in increased risk of adverse effects.</para>
+</note>
+<para id="para-00006">Benztropine mesylate possesses both anticholinergic and antihistaminic effects, although only the anticholinergic action has been established to be the source of therapeutic effectiveness in managing PD. Despite the ability to divide doses into two or three daily, clients experience greatest relief by taking the entire dose at bedtime. The drug’s long duration of action makes it suitable for bedtime medication because its effects may last throughout the night, enabling clients to turn in bed during the night more easily and to rise in the morning without having much difficulty (DailyMed, <emphasis effect="italics">Benztropine Mesylate,</emphasis> 2021).</para>
+<para id="para-00007">There are no significant differences between trihexyphenidyl and benztropine. Both are predominantly used for reducing tremors and dystonia in younger people. The drugs should be avoided in the older adult client due to the potential adverse effects.</para>
+<para id="para-00008">[link]Table 11.1[/link] lists common anticholinergics and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Benztropine mesylate</term><newline/>
+(<term class="no-emphasis" id="term-00006">Cogentin</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Tablets (EPS except tardive dyskinesia):</emphasis> 1–4 mg orally once or twice daily. In some clients, this will be adequate; others may require more or less.<newline/>
+<emphasis effect="italics">Intravenously (acute dystonic reaction):</emphasis> 1–2 mg daily, followed by 1–2 mg orally twice a day to prevent recurrence.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Trihexyphenidyl hydrochloride</term><newline/>
+(<term class="no-emphasis" id="term-00008">Artane</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Tablets:</emphasis> Initial dose: 1 mg orally the first day; can be increased by 2-mg increments every 3–5 days until a total of 6–10 mg is given daily. Total daily dose will depend on what is found to be the optimal level. Many clients derive maximum benefit from 6–10 mg daily.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Anticholinergics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00009">This drug classification can cause numerous adverse effects, which is why it is not used as commonly as it was in the past. <term class="no-emphasis" id="term-00009"><term id="term-00010">Anhidrosis</term></term> can occur from the decreased secretion from sweat glands. This can be dangerous because the body is unable to release heat, which can lead to hyperthermia or heat stroke. Dry mouth, due to the decrease in salivation, can become very severe, resulting in difficulty with swallowing or speaking. This increases the client’s risk for choking and/or aspiration pneumonia. Dry mouth can also cause dental caries, halitosis (bad breath), gum problems, and oral infections. A slight reduction in dosage may control nausea and still give sufficient relief of symptoms (DailyMed, <emphasis effect="italics">Benztropine Mesylate,</emphasis> 2021; Parkinson’s Foundation, 2023a).</para>
+<para id="para-00010">Clients with mental disorders may experience an intensification of mental symptoms. In such cases, anti-Parkinsonian drugs can precipitate a toxic psychosis characterized by confusion, memory impairment, visual hallucinations, delusions, and nervousness. Clients with mental disorders should be kept under careful observation.</para>
+<para id="para-00011">Blockade of cholinergic receptors in the eye may precipitate or aggravate glaucoma because it increases the aqueous humor in the anterior chamber by disrupting the exit of the fluid. In addition, these drugs cause mydriasis (pupil dilation) by blocking muscarinic receptors on the ciliary muscle and sphincter of the iris; paralysis of the iris sphincter results, preventing pupil constriction. The eye is unable to adapt to bright light, which causes photophobia or intolerance to light (DailyMed, <emphasis effect="italics">Benztropine Mesylate</emphasis>, 2021; Parkinson’s Foundation, 2023a).</para>
+<para id="para-00012">Blocking cardiac muscarinic receptors will eliminate parasympathetic nervous system influence on the heart. Anticholinergics cause an increase in heart rate, which can cause dysrhythmias in a client with preexisting tachycardia or a co-existing condition, such as hyperthyroidism. Urinary retention can occur due to the blockade of muscarinic receptors of the urinary tract. This relaxes the detrusor muscle, which reduces pressure within the bladder and increases the tone of the urinary internal sphincter, placing the client at risk for urinary tract infections. Also, muscarinic antagonists block receptors in the intestine, decreasing the tone and motility of the intestinal smooth muscle. This can result in constipation or paralytic ileus. Furthermore, because anticholinergics block muscarinic receptors in the bronchi, they can promote bronchial dilation. This is a benefit for those who have asthma; however, these drugs also cause drying and thickening of bronchial secretions, which can lead to mucus plugging. Asthmatics must be closely monitored (Capriotti, 2022).</para>
+<para id="para-00013">If a client has any type of intestinal or urinary obstruction, like benign prostatic hypertrophy, these medications should be avoided because they will worsen the condition. Those with a diagnosis of myasthenia gravis should avoid anticholinergics because they could further reduce ACh’s ability to send signals, which could worsen symptoms or trigger a crisis.</para>
+<para id="para-00014">Antihistamines, first-generation antipsychotics, and tricyclic antidepressants should not be used concurrently with anticholinergics because these agents also possess antimuscarinic properties. The combination of multiple anticholinergic drugs can worsen the adverse effects mentioned previously. The use of alcohol can increase the risk of psychosis. Cholinergic agents, such as bethanechol used for urinary retention, can negate the effects of the anticholinergic agents because these drugs stimulate the parasympathetic nervous system by mimicking the action of ACh.</para>
+<para id="para-00015">[link]Table 11.2[/link] is a drug prototype table for anticholinergics featuring benztropine mesylate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Centrally acting cholinergic blocker (anticholinergic)<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action:</emphasis></span><newline/>
+Exerts a direct inhibitory effect upon the parasympathetic nervous system by blocking muscarinic receptors in the striatum, thus preventing receptor stimulation from endogenous ACh or drugs that act as muscarinic agonists</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Tablets (EPS except tardive dyskinesia):</emphasis> 1–4 mg orally once or twice daily. In some clients, this will be adequate; others may require more or less.<newline/>
+<emphasis effect="italics">Intravenously (acute dystonic reaction):</emphasis> 1–2 mg daily, followed by 1–2 mg orally twice daily to prevent recurrence.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+As adjunct therapy for all forms of parkinsonism.<newline/>
+For control of extrapyramidal disorders (except tardive dyskinesia) caused by neuroleptic drugs<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Improves the balance between dopamine and ACh levels<newline/>
+Can reduce resting tremors, along with possible rigidity and bradycardia</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Antihistamines<newline/>
+First-generation antipsychotics<newline/>
+Tricyclic antidepressants<newline/>
+Cholinergic agonists (parasympathomimetics)<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Alcohol</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Confusion/agitation<newline/>
+Anhidrosis<newline/>
+Dry mouth (xerostomia)<newline/>
+Hyperthermia/heat stroke<newline/>
+Tachycardia<newline/>
+Urinary retention<newline/>
+Constipation/paralytic ileus<newline/>
+Bronchial plugging<newline/>
+Nausea/vomiting<newline/>
+Psychosis/visual hallucinations/tardive dyskinesia<newline/>
+Blurred vision/dilated pupils/photophobia<newline/>
+Increases intraocular pressure<newline/>
+Muscarinic antagonist poisoning</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Children ≤3 years of age<newline/>
+Hypersensitivity to ingredients of drug<newline count="2"/>
+Caution: <newline/>
+Children >3 years of age<newline/>
+Tachycardia<newline/>
+Individuals who work outside in hot weather<newline/>
+Central nervous system (CNS) disease<newline/>
+Angle-closure glaucoma<newline/>
+Benign prostatic hypertrophy (BPH)<newline/>
+Intestinal or urinary obstruction<newline/>
+Tardive dyskinesia<newline/>
+Myasthenia gravis</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Benztropine Mesylate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00002">
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00011">American Geriatric Society Beers Criteria</term>®</emphasis></title>
+<para id="para-00016">Anticholinergic drugs are designated as potentially inappropriate for use in adults 65 years and older because <term class="no-emphasis" id="term-00012">older adults</term> are very sensitive to the adverse effects like orthostatic hypotension, urinary retention, constipation, and tachycardia. Sedation, confusion, and blurred vision are risk factors for falls.</para>
+<para id="para-00017">(Source: <term class="no-emphasis" id="term-00013">American Geriatrics Society</term>, 2023)</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Nursing Implications</title>
+<para id="para-00018">The nurse should do the following for clients taking anticholinergics:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Assess for decreased rigidity and tremor.</item>
+<item>Monitor client’s ability to engage in self-care tasks and walk independently.</item>
+<item>Assess for an increase in heart rate and/or blood pressure.</item>
+<item>Monitor for any signs of respiratory distress or moist, nonproductive cough.</item>
+<item>Assess level of consciousness and orientation.</item>
+<item>Darken room for photophobia due to mydriasis (dilated pupils).</item>
+<item>Ensure the client is receiving proper oral hygiene.</item>
+<item>Encourage frequent sips of water to prevent dehydration.</item>
+<item>Assess for difficulty with swallowing—if needed, request consult with occupational therapy.</item>
+<item>Assess for speech impairments—if needed, request consult for speech pathologist.</item>
+<item>Monitor intake and output for reduction of urine output and positive net balance.</item>
+<item>Perform a bladder scan to assess for residual volume of urine due to urinary retention.</item>
+<item>Assess for signs and symptoms of paralytic ileus, such as constipation, abdominal pain, diminished bowel sounds, and abdominal distention.</item>
+<item>Assess for muscle weakness.</item>
+<item>Provide frequent rest periods during the day to avoid aggravating the tremors and rigidity.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00019"><emphasis effect="bold">The client taking an anticholinergic should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Have an understanding that PD is not curable, but treatment can significantly reduce symptoms.</item>
+<item>Be advised to report gastrointestinal complaints, fever, or heat intolerance promptly.</item>
+<item>Minimize urinary retention by voiding just before taking the medication.</item>
+<item>Keep lighting dim to avoid discomfort due to pupillary dilation. Wear dark glasses when out in the sun.</item>
+<item>Engage in physical therapy to increase balance and strength.</item>
+<item>Wear shoes that slip on and clothing that contains Velcro or zippers for easier handling.</item>
+<item>Avoid alcohol and sedatives, including over-the-counter medications that contain these.</item>
+<item>Drink water frequently.</item>
+<item>Keep sugarless hard candy or gum on hand to minimize the dry mouth.</item>
+<item>Maintain adequate dental/oral hygiene.</item>
+<item>Visit the ophthalmologist and dentist regularly.</item>
+<item>Consume adequate dietary fiber and fluid.</item>
+</list>
+<para id="para-00020"><emphasis effect="bold">The client taking an anticholinergic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Engage in strenuous activity outside when the temperature is high.</item>
+<item>Drive or perform hazardous tasks if their vision or alertness is impaired.</item>
+<item>Rise or change positions quickly due to possible orthostatic hypotension.</item>
+<item>Stop drugs abruptly because symptoms will quickly reoccur.</item>
+<item>Overexert themselves; they should take rest periods between activities.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00006">
+<title>Dopaminergics</title>
+<para id="para-00021"><term class="no-emphasis" id="term-00014">Dopaminergic</term> means related to dopamine. Dopamine constitutes approximately 80% of the <term id="term-00015">catecholamine</term> content within the brain. Dopamine is known to have an essential role in nearly all cognitive functions, including self-initiated motor control, motivation, and learning (Costa &amp; Schoenbaum, 2022). Dopaminergic substances increase dopamine-related activity in the brain. These dopaminergic substances are also referred to as dopamine replacers when dopaminergic neurons are dysfunctional or destroyed, such as what occurs in PD. Neurons that synthesize or contain dopamine and synapses with dopamine receptors in them may also be labeled as dopaminergic. Enzymes that regulate the biosynthesis or metabolism of dopamine, such as dopamine decarboxylase, MAO, and COMT, also are deemed dopaminergic. In addition, any endogenous or exogenous chemical substances that affect dopamine receptors or dopamine release can be said to have dopaminergic properties. Two prominent examples are opioids and amphetamines.</para>
+<section id="sect-00007">
+<title>Levodopa</title>
+<para id="para-00022">Levodopa was introduced in the 1960s and has been a cornerstone of PD treatment for many years (Ovallath &amp; Sulthana, 2017). Levodopa is a metabolic precursor of dopamine and is inactive until it undergoes conversion to its active state. This drug has proven to be extremely beneficial in the early stages of PD. Unfortunately, over time, the number of neurons decreases, and fewer cells are capable of converting the levodopa to dopamine. Motor fluctuations then develop, and the client experiences the relief of symptoms only when the drug is present.</para>
+<para id="para-00023">The purpose of this drug is to replenish the brain’s reduced supply of dopamine by increasing dopamine synthesis. Levodopa is absorbed in the blood from the small intestine and travels through the circulation to the brain. Once it crosses the blood–brain barrier, it binds to dopamine receptors on GABA neurons, helping to restore the balance between neurotransmitters (Parkinson’s Foundation, 2023b).</para>
+<para id="para-00024">Levodopa is not used as a monotherapy; given alone it is not beneficial. It should be administered with carbidopa (discussed later in this chapter). Without the combination, a large majority of levodopa gets decarboxylated in the periphery—causing systemic effects such as nausea and vomiting, dysrhythmias, and hypotension—and resulting in less levodopa crossing the blood–brain barrier. The drug combination increases the amount available to cross the blood–brain barrier.</para>
+<para id="para-00025">Inbrija is an inhaled levodopa powder that is a dopamine precursor commonly used for early morning or sudden “off” episodes. These episodes are seen when levodopa’s effects wear off before the next dose is due. The inhalation route enables a low but quicker acting boost of dopamine. Inbrija is not intended to replace a client’s maintenance medications but is given concurrently with levodopa/carbidopa. The drug comes in a capsule and must be administered through the appropriate inhaler device. Inhalation-specific contraindications include asthma, chronic obstructive pulmonary disease, or other long-term underlying lung disease (DailyMed, <emphasis effect="italics">Inbrija</emphasis>, 2023).</para>
+</section>
+<section id="sect-00008">
+<title>Carbidopa/Levodopa</title>
+<para id="para-00026">Carbidopa is a dopamine decarboxylase inhibitor; combined with levodopa, levodopa’s effects are enhanced. The drug inhibits decarboxylation of levodopa in the intestines and peripheral tissues. Therefore, less levodopa is converted into dopamine within the periphery, and more is available to cross the blood–brain barrier. This is beneficial, not only to increase the amount of dopamine that reaches the brain, but also to diminish the adverse effects dopamine causes when circulating in the periphery. Combining levodopa with carbidopa allows the dosage of levodopa to be reduced by 75%. Carbidopa has no pharmacological effects on its own and is unable to cross the blood–brain barrier. This drug combination stops the motor symptoms early in the disease process but has no effect on the disease itself.</para>
+<para id="para-00027">Therapeutic effects may not be seen for weeks or months. This drug should be taken on an empty stomach, typically 30 minutes before a meal. Food can significantly decrease absorption, especially a large amount of protein. Carbidopa decreases nausea and vomiting and the cardiovascular response by reducing the amount of dopamine in the periphery (DailyMed, <emphasis effect="italics">Sinemet,</emphasis> 2022). Levodopa comes in multiple forms and is administered via several routes, including oral (immediate-release, control-release, and extended-release) tablets, intestinal gel, and inhalation.</para>
+<para id="para-00028">DUOPA is the intestinal gel form of carbidopa/levidopa delivered through a surgically implanted tube in the small intestine. This drug is used for clients who have advanced disease and have difficulty swallowing. The overall goal of this delivery method is to increase “on” time episodes. The maximum recommended daily dose of DUOPA is 2,000 mg administered over 16 hours (Parkinson’s Foundation, 2023b). Distinct contraindications for this route include complications from the insertion of the intestinal tube or incision site inflammation (DailyMed, <emphasis effect="italics">DUOPA</emphasis>, 2022).</para>
+<para id="para-00029">[link]Table 11.3[/link] lists common dopaminergics and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Levodopa</term><newline/>
+(<term class="no-emphasis" id="term-00017">Inbrija</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Inhaled:</emphasis> 84 mg capsule up to 5 times daily as needed.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Carbidopa/levodopa immediate-release tablet</term><newline/>
+(<term class="no-emphasis" id="term-00019">Sinemet</term>)<newline count="2"/>
+<term class="no-emphasis" id="term-00020">Carbidopa/levodopa oral disintegrating tablet</term><newline/>
+(<term class="no-emphasis" id="term-00021">Parcopa</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Immediate-release tablet:</emphasis> Initial dose: one 25–100 mg tablet 3 times daily. Dosage may be increased by 1 tablet every day or every other day, as necessary, up to eight 25–100 mg tablets daily.<newline/>
+<emphasis effect="italics">Oral disintegrating tablet (ODT):</emphasis> Levodopa must be discontinued at least 12 hours before starting ODTs. A daily dosage should be chosen that will provide approximately 25% of the previous levodopa dosage. Clients taking &lt;1500 mg of levodopa daily should be started on one 25 mg/100 mg tablet 3–4 times daily. Clients taking ≥1500 mg should start on one 25 mg/250 mg tablet 3–4 times daily.<newline/>
+At least 70–100 mg of carbidopa daily should be provided for both types of tablets.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Carbidopa/levodopa extended release</term><newline/>
+(<term class="no-emphasis" id="term-00023">Rytary</term>)</entry>
+<entry valign="top" align="left">Levodopa must be discontinued at least 12 hours before this therapy.<newline/>
+<emphasis effect="italics">Mild to moderate disease:</emphasis> Initial dose: one 50 mg/200 mg tablet twice daily.<newline/>
+Maintenance dose: 400–1600 mg daily administered in divided doses every 4–8 hours.<newline/>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Dopaminergics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00009">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00030">Nausea and vomiting are common symptoms that usually disappear after a few months on levodopa/carbidopa. The symptoms are usually caused by activation of dopamine receptors in the chemoreceptor trigger zone, which contains receptors that detect emetic agents in the blood and relay that information to the vomiting center<emphasis effect="italics">.</emphasis> This is reduced with carbidopa. Carbidopa can be given as a single drug (Lodosyn). If added to levodopa/carbidopa, the extra carbidopa can reduce levodopa-induced nausea and vomiting. It also allows smaller doses of levodopa to be used while promoting a faster response.</para>
+<para id="para-00031">Conversion of levodopa to dopamine in the periphery can produce excessive activation of beta-adrenergic receptors in the heart. Dysrhythmias can result, especially in clients with heart disease. Clients with preexisting coronary artery disease may take propranolol to counteract cardiac dysrhythmias.</para>
+<para id="para-00032">“Wearing off” develops near the end of the dosing interval, indicating drug levels have declined to a subtherapeutic value. This can be minimized in three ways: (1) shortening the dosing interval, (2) giving a drug that prolongs levodopa’s plasma half-life (MAO-B inhibitors or COMT inhibitors), or (3) giving a direct-acting dopamine agonist. “On-off” episodes occur any time during the dosing interval, even if drug levels are high. These episodes may last from minutes to hours. Over time, off periods usually increase in both intensity and frequency. One reason these episodes occur in PD is because the gastrointestinal (GI) motility decreases, delaying absorption of levodopa and altering serum levels.</para>
+<para id="para-00033">About 80% of clients treated with levodopa will experience drug-induced <term id="term-00024">dyskinesias</term> during the advanced stages of the disease and 30% will develop it after only 3 years of levodopa treatment (Kwon et al., 2022). Some of these are just bothersome (head bobbing tics, grimacing), whereas others can be disabling, such as <term id="term-00025">ballismus</term>—rapid, involuntary jerking or flinging of proximal muscle groups—or <term id="term-00026">choreoathetosis</term>—slow, involuntary, writhing movements. Levodopa exacerbates symptoms of psychosis, possibly through the buildup of central dopamine. Urine and sweat can become brownish because of the melanin produced from catecholamine oxidation.</para>
+<para id="para-00034">This drug can cause clients to become impulsive. Clients may either begin to engage in or increase already existing gambling/sexual urges, or uncontrolled spending. This is due to the increase of dopamine in the brain.</para>
+<para id="para-00035">There have been reports of clients suddenly falling asleep without warning of feeling drowsy. Before these sleep attacks, the clients were engaged in performing activities of daily living, driving a vehicle, or conversing. If these occur, the drug should be discontinued. Importantly, the drug should not be stopped abruptly because it could lead to the reemergence of signs and symptoms of PD, sometimes worse than the initial manifestations. It could also lead to confusion, muscle rigidity, autonomic instability, and hyperpyrexia, which resembles <term id="term-00027">neuroleptic malignant syndrome (NMS)</term>.</para>
+<para id="para-00036">Narrow-angle glaucoma is a contraindication as levodopa can worsen the condition due to the potential of further increase of intraocular pressure.</para>
+<para id="para-00037">Epidemiological studies have shown that clients with PD have a higher risk (two- to approximately six-fold) of developing melanoma than the general population. It is unknown whether this is due to PD itself or the drugs used in the treatment of PD. Clients and providers are advised to monitor for melanomas frequently and on a regular basis when using carbidopa and levodopa for any indication. Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).</para>
+<para id="para-00038">First-generation antipsychotics block receptors for dopamine in the striatum, diminishing the therapeutic effects of levodopa. This may augment Parkinsonian symptoms. Low doses of atypical antipsychotics are sometimes used to treat levodopa-induced psychotic symptoms. Nonselective MAO inhibitors (MAOIs) can result in a hypertensive crisis if administered to a client taking levodopa. Nonselective MAOIs should be withdrawn at least 2 weeks before starting levodopa. Dopamine receptor antagonists, such as phenothiazines, risperidone, or metoclopramide, should be avoided because they will decrease the effects due to their dopamine receptor antagonistic properties.</para>
+<para id="para-00039">If levodopa is administered alone, pyridoxine (B<sub>6</sub>) will decrease its effects (greater than 200 mg daily) because it enhances decarboxylase and increases peripheral breakdown of levodopa. If given in combination with carbide, this is not a concern. Other antihypertensives can exacerbate orthostatic hypotension. Iron salts can form chelates with levodopa and reduce its bioavailability. Because amino acids compete with levodopa for intestinal absorption and for transport across the blood–brain barrier, high-protein foods will reduce levodopa’s therapeutic effects.</para>
+<para id="para-00040">[link]Table 11.4[/link] is a drug prototype table of dopaminergics featuring oral carbidopa/levodopa. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Dopaminergic<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Taken up by dopaminergic nerve terminals in the striatum, where it is converted into dopamine and then released into the synaptic space and binds to dopamine receptors</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Mild to moderate disease:</emphasis><newline/>
+Initial dose: One 50 mg/200 mg tablet twice daily.<newline/>
+Maintenance dose: 400–1600 mg daily administered as divided doses every 4–8 hours.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Reduces symptoms of PD by increasing dopamine synthesis<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Decreases rigidity, tremors, and other symptoms of nonmotor symptoms</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Nonselective MAOIs<newline/>
+Antipsychotics (first generation)<newline/>
+Pyridoxine (B<sub>6</sub>) decreases effects (>200 mg daily)<newline/>
+Antihypertensives<newline/>
+Iron salts<newline/>
+Dopamine receptor antagonists<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+High protein</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Wearing-off phenomenon (gradual)<newline/>
+On-off phenomenon (abrupt)<newline/>
+Nausea and vomiting<newline/>
+Dose-related dyskinesias (abnormal movements)<newline/>
+Orthostatic hypotension<newline/>
+Tachycardia/dysrhythmias/chest discomfort<newline/>
+Psychosis (visual and auditory hallucinations, nightmares, paranoia, dementia)<newline/>
+Brownish urine and sweat<newline/>
+Depression/anxiety/suicidal ideations<newline/>
+Impulse control<newline/>
+Sleep attacks<newline/>
+Cough/expectoration of sputum, headache, and reduced red blood cell count (inhaled form)</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Known hypersensitivity to any component of drug<newline/>
+Narrow-angle glaucoma
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype: Carbidopa/Levodopa</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00004">
+<title><emphasis effect="bold">Similarly Named Drugs</emphasis></title>
+<para id="para-00041">Do not confuse <term class="no-emphasis" id="term-00028">Sinemet</term> (<term class="no-emphasis" id="term-00029">dopaminergic</term>) with <term class="no-emphasis" id="term-00030">Janumet</term> (<term class="no-emphasis" id="term-00031">antidiabetic</term>).</para>
+<para id="para-00042">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+</note>
+<note class="clinical-tip" id="note-00005">
+<para id="para-00043"><emphasis effect="bold">Combination Drug (Stalevo)</emphasis></para>
+<para id="para-00044"><term class="no-emphasis" id="term-00032">Stalevo</term> is a combination of <term class="no-emphasis" id="term-00033">levodopa</term>, <term class="no-emphasis" id="term-00034">carbidopa</term>, and <term class="no-emphasis" id="term-00035">entacapone</term>. This fixed-dose combination drug enhances the amount of levodopa that reaches the brain. Both carbidopa and entacapone prevent the breakdown of levodopa within the periphery, decreasing the dopamine effects in the periphery. In addition, this drug can significantly reduce the “wearing off” time experienced by levodopa. The combination form increases adherence because the client only needs to take one drug versus two different ones. For more information about this combination drug, please refer to each individual agent discussed above (DailyMed, <emphasis effect="italics">Stalevo</emphasis>, 2021).</para>
+</note>
+</section>
+<section id="sect-00010">
+<title>Nursing Implications</title> 
+<para id="para-00045">The nurse should do the following for clients who are taking dopaminergics:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Encourage slow position changes to minimize postural hypotension.</item>
+<item>Assess neurological status, such as orientation, grip strength, gait, reflexes, tremors, or spasticity.</item>
+<item>Inform client that hallucinations and other psychotic behavior can occur, and these will be treated appropriately.</item>
+<item>Evaluate therapeutic effects—decrease in drooling, tremors, bradykinesia, or rigidity and increase in facial expressions.</item>
+<item>Space activities evenly throughout the day for adequate rest periods.</item>
+<item>Monitor serum liver enzymes, hemoglobin/hematocrit, bilirubin, blood urea nitrogen (BUN), Coombs tests, and elevated serum glucose periodically throughout treatment.</item>
+<item>Monitor for involuntary movements of the tongue, mouth, and face.</item>
+<item>Provide demonstration on proper technique of using the inhalation form and have client return demonstrate.</item>
+<item>Look for signs of increased depression or suicidal ideations.</item>
+<item>Specifically ask the client about feeling drowsy or sleepy while performing certain activities.</item>
+<item>Advise clients to exercise caution while driving, operating machinery, or working at heights.</item>
+<item>Ask about new or increased gambling urges, sexual urges, or uncontrolled spending.</item>
+<item>Monitor for melanomas frequently by performing a thorough skin assessment.</item>
+<item>Explain to client that the color of the urine may become brownish orange, but this is harmless.</item>
+<item>Provide dietary counseling about high-protein foods and to evenly space their intake throughout the day.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00006">
+<para id="para-00046"><emphasis effect="bold">The client taking a dopaminergic should:</emphasis></para>
+<list list-type="bulleted" id="list-00006">
+<item>Have an understanding that they will not experience immediate improvement. Therapeutic responses will steadily increase over the first few months.</item>
+<item>Take their medications even if not experiencing symptoms.</item>
+<item>Sit or lie down if dizziness occurs and wait until it subsides before standing or walking.</item>
+<item>Space activities to obtain optimal benefit from the drug.</item>
+<item>Immediately notify the provider at the start of involuntary movements of the face or mouth.</item>
+<item>Perform a skin assessment weekly for any evidence of changes in existing lesions or an onset of lesions.</item>
+<item>Understand that their urine can be a brownish organ color, but this is not something to worry about.</item>
+</list>
+<para id="para-00047"><emphasis effect="bold">The client taking a dopaminergic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00007">
+<item>Chew, break, or crush extended-release capsules.</item>
+<item>Swallow the capsules that are indicated for the inhalation route.</item>
+<item>Rise or change positions quickly due to possible orthostatic hypotension.</item>
+<item>Stop drugs abruptly because symptoms will quickly reoccur.</item>
+<item>Eat foods with high iron content, such as red meat.</item>
+<item>Take multivitamin preparations containing pyridoxine and/or iron salts.</item>
+<item>Eat a high-protein meal; they should evenly space their daily protein intake throughout the day.</item>
+<item>Drive or engage in activities that require alertness if experiencing sleep attacks.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00011">
+<title>Dopamine Agonists</title> 
+<para id="para-00048"><term class="no-emphasis" id="term-00036">Dopamine agonists</term> are first-line drugs in the treatment of mild to moderate PD. These drugs mimic the role of dopamine in the brain. Their duration is longer than compared with levodopa. They are relatively selective for D2 receptors. Activating these receptors causes increased dopamine levels in the nigrostriatal pathway, which leads to smooth and coordinated movements. This classification is used as a monotherapy or in combination with levodopa. Initial therapy is associated with less risk of developing dyskinesias and motor fluctuations compared with clients started on levodopa. Dopamine agonists may delay the need to use levodopa in early PD and may decrease the dose of levodopa in advanced PD. When used on a long-term basis, they have a lower incidence of response failures. In addition, they can be used as an adjunct medication to supplement levodopa when further dopaminergic effect is needed or if complications of levodopa treatment arise, such as dyskinesias, “wearing off,” and motor fluctuations. These drugs will be ineffective in clients who do not improve with levodopa (American Parkinson Disease Association, 2014).</para>
+<para id="para-00049">para>Dopamine agonists are divided into ergot and nonergot derivatives. The <term class="no-emphasis" id="term-00037">ergot derivatives</term> are nonselective and block serotonergic and alpha-adrenergic receptors. Because of this, the ergots cause more cardiovascular concerns. The nonergot derivatives are selective for dopamine receptor subtypes. The <term class="no-emphasis" id="term-00038">nonergot derivatives</term> have similar mechanisms of actions, adverse effects, and interactions. This information can be found below. Any distinct changes are mentioned with the specific drug sections.</para>
+<list list-type="bulleted" id="list-00008">
+<item><emphasis effect="italics">Pramipexole:</emphasis> A nonergot dopamine agonist that selectively binds to dopamine-2 receptor subtypes, which activates CNS postsynaptic dopamine receptors in the striatum. This drug is mainly used as a monotherapy in the early stages of PD. As the disease progresses, it is used in combination with levodopa (DailyMed, <emphasis effect="italics">Pramipexole dihydrochloride,</emphasis> 2022).</item>
+<item><emphasis effect="italics">Ropinirole:</emphasis> Essentially the same as pramipexole. This drug should be discontinued over a 7-day period to prevent adverse reactions such as confusion, rigidity, or hyperpyrexia.</item>
+<item><emphasis effect="italics">Rotigotine:</emphasis> Similar to pramipexole, but one main difference is the route. Rotigotine is only available as a daily transdermal patch. This is beneficial for those who are unable to take oral formulations due to dysphagia. This route provides unfluctuating drug levels over 24 hours. The other difference is this drug can cause peripheral edema (cause unknown) or skin reactions at the site of application (DailyMed, <emphasis effect="italics">Neupro,</emphasis> 2022).</item>
+<item><emphasis effect="italics">Apomorphine hydrochloride:</emphasis> Another nonergot derivative, this is a short-acting drug delivered by subcutaneous injection or sublingually. This drug is reserved as an acute “rescue” medication to treat “off” episodes in between doses or “off-on” periods that occur randomly in clients with advanced PD. Both routes have a rapid onset of action. Their mechanism of action is the same as for pramipexole. The injection route is advantageous for those unable to adequately or safely swallow. A duration of at least 2 hours between doses is highly recommended, and five doses a day is maximum. To prevent a medication error, the prescribed dose needs to be written in milliliters because the multi-dose pen has markings in milliliters. This is a highly emetogenic drug (induces vomiting); therefore, it is routinely given concurrently with an antiemetic such as trimethobenzamide 300 mg three times a day starting 3 days before the first dose and continued as needed to control nausea and vomiting. Use should generally not exceed 2 months (DailyMed, <emphasis effect="italics">Apomorphine hydrochloride,</emphasis> 2022).</item>
+<item><emphasis effect="italics">Bromocriptine:</emphasis> An ergot derivative. Because the ergot derivatives are nonselective, they block other receptors, such as serotonergic and adrenergic receptors. This causes a variety of adverse effects unseen with the nonergot derivatives (DailyMed, <emphasis effect="italics">Bromocriptine mesylate</emphasis>, 2021).</item>
+</list>
+<note class="safety-alert" id="note-00007">
+<title><emphasis effect="bold">Similarly Named Drugs</emphasis></title>
+<para id="para-00050">Do not confuse <term class="no-emphasis" id="term-00039">ropinirole</term> (<term class="no-emphasis" id="term-00040">dopamine agonist</term>) with <term class="no-emphasis" id="term-00041">risperidone</term> (<term class="no-emphasis" id="term-00042">antipsychotic</term>).</para>
+<para id="para-00051">(Source: https://www.ismp.org/recommendations/confused-drug-names-list )</para>
+</note>
+<para id="para-00052">[link]Table 11.5[/link] lists common dopamine agonists and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00005">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00043">Pramipexole</term><newline/>
+(<term class="no-emphasis" id="term-00044">Mirapex</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Immediate-release tablets:</emphasis> 0.125 mg 3 times daily initially; increase over 7 weeks to a maximum of 1.5 mg 3 times daily.<newline/>
+<emphasis effect="italics">Extended-release tablets:</emphasis> 0.375 mg daily initially; gradually increase to a maximum of 4.5 mg daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00045">Bromocriptine mesylate</term><newline/>
+(<term class="no-emphasis" id="term-00046">Parlodel</term>)</entry>
+<entry valign="top" align="left">Initial dose: 1.25 mg twice daily with meals. Doses may be increased every 14–28 days by 2.5 mg daily. Dose reduction must be done gradually in 2.5-mg increments.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00047">Apomorphine hydrochloride</term><newline/>
+(<term class="no-emphasis" id="term-00048">Apokyn</term>)</entry>
+<entry valign="top" align="left">2–6 mg subcutaneously for each “off” episode; maximum: 5 doses daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00049">Ropinirole</term><newline/>
+(<term class="no-emphasis" id="term-00050">Requip</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Immediate-release tablets:</emphasis> 0.25 mg 3 times daily initially; increase over several months to a maximum of 8 mg 3 times daily.<newline/>
+<emphasis effect="italics">Extended-release tablets:</emphasis> 2 mg daily initially; Increase weekly by 2 mg over several months to a maximum of 24 mg daily.</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00051">Rotigotine</term><newline/>
+(<term class="no-emphasis" id="term-00052">Neupro</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Early stage:</emphasis> Initial dose: 2 mg patch daily; increase by 2 mg weekly until lowest effective dose is obtained or maximum dose of 6 mg daily is reached.<newline/>
+<emphasis effect="italics">Advanced stage:</emphasis> Initial dose: 4 mg patch daily; increase by 2 mg weekly up to the maximum dose of 8 mg daily.<newline/>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Dopamine Agonists</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00012">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00053">Nonergot derivatives are known to produce unusual effects, such as compulsive gambling, hypersexuality, overspending, and overeating. These behaviors are dose related and will reverse when the drug is discontinued. Providers should screen for compulsive and addictive behaviors before starting medication. Also, clients may not be aware of this behavior so they should be specifically asked about it. Another unusual effect is these medications can make one quickly fall asleep while performing daily activities. Often the person will not feel drowsy before falling asleep. This creates an elevated risk of injury and/or accidents.</para>
+<para id="para-00054">Hyperhidrosis (excessive sweating unrelated to heat or exercise) is caused by the dysregulation of the autonomic nervous system, which could be related to PD or the dopamine agonist. Hyperhidrosis can result in dehydration and electrolyte loss. <term class="no-emphasis" id="term-00053">Older adults</term> and clients with a history of psychiatric disorders are more sensitive and at increased risk of experiencing confusion and hallucinations. Dyskinesias are seen more frequently in the aforementioned dopamine agonists when combined with levodopa. Clinical studies have revealed this drug class has teratogenic effects and should be avoided in pregnancy and breastfeeding (DailyMed, <emphasis effect="italics">Pramipexole Dihydrochloride</emphasis>, 2022).</para>
+<para id="para-00055">Cardiovascular disease may occur due to severe hypotension and impaired perfusion. Orthostatic hypotension occurs due to a dopamine-mediated blunting of the noradrenergic response to standing and subsequent decrease in peripheral vascular resistance. Valvular heart disease occurs due to activation of serotonin receptors on the heart valves.</para>
+<para id="para-00056">Antipsychotics or dopamine antagonists will cancel the dopamine agonist effects. Higher doses of estrogens reduce clearance of the drug. Starting or stopping hormone replacement therapy may require adjustment of dosage. Because significant hypotension and loss of consciousness has occurred with these drugs when taken with serotonin receptor antagonists, this combination should be avoided.</para>
+<para id="para-00057">Although apomorphine is a morphine derivative, this drug does not cause analgesia, euphoria, or respiratory depression. The most common adverse reactions specific to this drug are excessive yawning, injection-site reactions, rhinorrhea, and cardiac issues. It is important to monitor cardiac status due to the associated risk for hypotension and dose-related prolongation of the QT interval. There have been reports of chest pain, myocardial infarction, dysrhythmias, and cardiac arrest. Furthermore, this drug has the potential to exacerbate coronary and cerebral ischemia in clients with known disease. Any client with an allergy to sulfites should not receive apomorphine.</para>
+<para id="para-00058">(DailyMed, <emphasis effect="italics">Apomorphine Hydrochloride</emphasis>, 2022).</para>
+<para id="para-00059">[link]Table 11.6[/link] is a drug prototype table of dopamine agonists featuring pramipexole. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00006">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Dopamine agonist, nonergot derivative<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Selectively binds to dopamine receptor subtype that activates CNS postsynaptic dopamine receptors in the striatum; not dependent on enzymatic conversion to become active</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+<emphasis effect="italics">Immediate-release tablets:</emphasis> 0.125 mg 3 times daily initially; increase over 7 weeks to a maximum of 1.5 mg 3 times daily.<newline/>
+<emphasis effect="italics">Extended-release tablets:</emphasis> 0.375 mg daily initially; gradually increase to a maximum of 4.5 mg daily.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Used alone in early-stage PD<newline/>
+Combined with levodopa in advanced stages of PD<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Monotherapy: Produces significant improvement in motor performance<newline/>
+Combination: Reduces motor fluctuations and causes less dyskinesias due to lower dose of levodopa needed</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+First-generation antipsychotic drugs<newline/>
+Dopamine antagonists<newline/>
+Serotonin receptor antagonists<newline/>
+Hormone replacement therapy (estrogen)<newline/>
+Drugs that can cause QT interval prolongation<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Nausea/vomiting/constipation<newline/>
+Hallucinations<newline/>
+Hyperhidrosis<newline/>
+Sleep attacks/daytime sleepiness<newline/>
+Impulse control disorders<newline/>
+Orthostatic hypotension/bradycardia<newline/>
+Dyskinesias</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+None<newline count="2"/>
+Caution: <newline/>
+Adults >60 years of age<newline/>
+Falling asleep during ADLs<newline/>
+Symptomatic orthostatic hypotension<newline/>
+Impulse control/Compulsive behaviors<newline/>
+Hallucinations and psychotic-like behavior<newline/>
+Dyskinesia<newline/>
+Postural deformity<newline/>
+Renal impairment<newline/>
+Rhabdomyolysis<newline/>
+History of myocardial infarction/valve disease<newline/>
+History of peripheral vascular disease
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Pramipexole</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00013">
+<title>Nursing Implications</title> 
+<para id="para-00060">The nurse should do the following for clients taking dopamine agonists:</para>
+<list list-type="bulleted" id="list-00009">
+<item>Measure blood pressure and heart rate in the supine and standing positions before and after dosing.</item>
+<item>Emphasize to the client/caregiver to maintain safety precautions because falling asleep can suddenly occur without feeling drowsy.</item>
+<item>Monitor for peripheral edema and perfusion.</item>
+<item>Ask about compulsive and uncontrollable behaviors.</item>
+<item>Assess for any involuntary movements, especially with the upper and lower extremities.</item>
+<item>Teach client ways to cope with the excessive sweating they may experience.</item>
+<item>Provide clients education about high-fiber foods to reduce risk of constipation.</item>
+<item>Monitor routine electrocardiogram (ECG, EKG) for prolongation of QT interval when receiving apomorphine.</item>
+<item>Evaluate electrolytes periodically if individual has hyperhidrosis.</item>
+<item>Instruct client about the correct way to administer the subcutaneous apomorphine.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00008">
+<para id="para-00061"><emphasis effect="bold">The client taking a dopamine agonist should:</emphasis></para>
+<list list-type="bulleted" id="list-00010">
+<item>Be aware that they can suddenly fall asleep while performing regular daily activities.</item>
+<item>Sit or lie down if dizziness occurs and wait until it subsides before standing or walking.</item>
+<item>Notify the provider immediately if there are any signs of rashes, hives, pruritis, or facial or tongue swelling.</item>
+<item>Increase their intake of water if experiencing excessive sweating.</item>
+<item>Eat a high-fiber diet and obtain adequate exercise to reduce/prevent constipation.</item>
+<item>Contact the provider if experiencing involuntary movements, chest pain, and peripheral edema.</item>
+<item>Understand that the medication may not reach full therapeutic effect for several weeks.</item>
+<item>Be able to correctly demonstrate the use of the apomorphine pen delivery device and to use a new sterile needle with each injection.</item>
+<item>Use a different site each time they administer apomorphine.</item>
+</list>
+<para id="para-00062"><emphasis effect="bold">The client taking a dopamine agonist <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00011">
+<item>Abruptly stop the medication because this can worsen PD symptoms.</item>
+<item>Chew, break, or crush extended-release formulations.</item>
+<item>Rise or change positions quickly due to possible orthostatic hypotension.</item>
+<item>Take if pregnant or breastfeeding.</item>
+<item>Administer apomorphine intravenously due to the risk of thrombus formation or pulmonary embolism.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00014">
+<title>Monoamine Oxidase-B Inhibitors</title>
+<para id="para-00063"><term class="no-emphasis" id="term-00054">MAO-B inhibitors</term> block or reduce the activity of the enzyme MAO type B that breaks down dopamine in the brain. They cause dopamine to accumulate in surviving nerve cells and reduce PD symptoms<emphasis effect="italics">.</emphasis> Some evidence suggests selegiline may delay neurodegeneration and disease progression. Despite no existing conclusive evidence, current guidelines suggest trying it in newly diagnosed clients because it might confer some protection (Parkinson’s Foundation, 2023c).</para>
+<list list-type="bulleted" id="list-00012">
+<item><emphasis effect="italics">Selegiline hydrochloride:</emphasis> An irreversible MAO-B agent that is used with carbidopa/levodopa to enhance and prolong the response to levodopa. This may reduce the wearing off times. Three days after starting selegiline, the health care provider can attempt to reduce the dose of levodopa to help decrease adverse effects related to levodopa. Selegiline hydrochloride causes insomnia because the drug metabolizes to methamphetamine and amphetamine, which have stimulating properties. This should improve over time (DailyMed, <emphasis effect="italics">Selegiline Hydrochloride</emphasis>, 2023).</item>
+<item><emphasis effect="italics">Safinamide:</emphasis> A reversible MAO-B inhibitor that inhibits voltage-sensitive sodium channels and glutamate release. It is the prototype of a new generation of multi-active MAO-B inhibitors. Salfinamide originally was developed as an antiseizure agent; however, in 2017 the drug was FDA-approved for the treatment of PD. This drug is used in conjunction with levodopa/carbidopa for those experiencing “off” episodes and to increase motor function and decrease motor fluctuations (DailyMed, <emphasis effect="italics">Xadago</emphasis>, 2022).</item>
+<item><emphasis effect="italics">Rasagiline:</emphasis> The major difference between selegiline and rasagiline is that the latter drug does not convert to amphetamine and methamphetamine. Therefore, insomnia is not a concern (DailyMed, <emphasis effect="italics">Rasagiline Mesylate</emphasis>, 2022).</item>
+</list>
+<para id="para-00064">[link]Table 11.7[/link] lists common <term class="no-emphasis" id="term-00055">monoamine oxidase-B inhibitors</term> and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00007">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center">Selegiline hydrochloride<newline/>
+(<term class="no-emphasis" id="term-00056">Eldepryl</term>)</entry>
+<entry valign="top" align="left">10 mg daily, divided in 2 doses.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00057">Safinamide</term><newline/>
+(<term class="no-emphasis" id="term-00058">Xadago</term>)</entry>
+<entry valign="top" align="left">Initial dose: 50 mg orally daily at the same time each day. After 2 weeks, the dose may be increased to 100 mg daily dependent on individual need.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">Rasagiline</term><newline/>
+(<term class="no-emphasis" id="term-00060">Azilect</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Monotherapy:</emphasis> 1 mg once daily.<newline/>
+<emphasis effect="italics">Adjunct to levodopa:</emphasis> 0.5 mg once daily; increase dose to 1 mg daily as needed for sufficient clinical response.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Monoamine Oxidase-B Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00009">
+<title><emphasis effect="bold">Similarly Named Drugs</emphasis></title>
+<para id="para-00065">Do not confuse <term class="no-emphasis" id="term-00061">selegiline</term> (MAO-B inhibitor) with <term class="no-emphasis" id="term-00062"><term class="no-emphasis" id="term-00063">Salagen</term></term> (<term class="no-emphasis" id="term-00064">saliva production stimulator</term>).</para>
+<para id="para-00066">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+</note>
+<section id="sect-00015">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00067">Because selegiline hydrochloride causes insomnia, taking it late in the day could disrupt sleep. Severe hypertension is a possibility if administered in high doses because the drug becomes nonselective and can then inhibit both MAO-A and MAO-B. At doses less than or equal to 10 mg/day the drug is selective for MAO-B. It does not affect MAO-A, which metabolizes tyramine, norepinephrine, epinephrine, and serotonin, unless given above the recommended dose. This subtype can cause excessive stimulation of the sympathetic nervous system (SNS), causing severe hypertension and possibly stroke. This crisis can be triggered by taking sympathomimetic drugs and by ingesting foods containing tyramine. High levels of tyramine are found in foods that are aged, cured, or fermented (DailyMed, <emphasis effect="italics">Selegiline Hydrochloride,</emphasis> 2023).</para>
+<para id="para-00068">Several opioids should not be used concurrently with this drug classification. Combining MAO-B inhibitors with morphine can increase the opioid adverse reactions. Sympathomimetics, including over-the-counter medications containing dextromethorphan, should also be avoided due to increased risk of exaggerating psychotic symptoms. Serotonin syndrome is a life-threatening condition characterized by delirium, extreme agitation, tachycardia, labile blood pressure, rigidity, and hyperthermia. Several medications, including meperidine, tramadol, and selective serotonin reuptake inhibitors (SSRIs), can increase the risk of serotonin syndrome and should be avoided. SSRIs should be stopped 2–5 weeks before the initiation of selegiline. The tapering of the SSRIs is dependent on that particular drug’s half-life. Severe CNS toxicity characterized by hyperpyrexia, seizures, changes in behavioral status, agitation, muscle rigidity, and death have been reported with combining tricyclic antidepressants (TCAs) and nonselective MAOIs (DailyMed, <emphasis effect="italics">Selegiline Hydrochloride</emphasis>, 2023).</para>
+<para id="para-00069">[link]Table 11.8[/link] is a drug prototype table of MAO-B inhibitors featuring selegiline hydrochloride. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00008">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+<term class="no-emphasis" id="term-00065">Selective and irreversible MAO-B inhibitor</term><newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Selectively and irreversibly inhibits MAO-B, an enzyme that metabolizes dopamine mainly in the brain</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+10 mg daily divided in 2 doses.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Adjunctive therapy of idiopathic PD with levodopa-carbidopa in clients whose response to that therapy has decreased.<newline/>
+Helps decrease fluctuations in motor control<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Indirectly preserves dopamine levels in the brain<newline/>
+Enhances the effects of levodopa and substantially reduces its required dose, which is helpful in limiting the adverse effects</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Morphine<newline/>
+Meperidine<newline/>
+Tramadol<newline/>
+SSRIs<newline/>
+TCAs<newline/>
+Sympathomimetics<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+Foods high in tyramine if drug becomes nonselective</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Insomnia<newline/>
+Headache/dizziness<newline/>
+Depression<newline/>
+Irritation of the buccal mucosa with orally disintegrating tablets<newline/>
+Severe hypertension in high doses<newline/>
+Melanoma<newline/>
+Serotonin syndrome<newline/>
+Impulsive control disorders<newline/>
+Sleep attacks<newline/>
+Dyskinesias<newline/>
+Hallucinations/psychotic behavior<newline/>
+QT interval prolongation</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity to components of drug<newline count="2"/>
+Caution:<newline/>
+Melanoma<newline/>
+Severe hepatic impairment<newline/>
+Severe psychotic disorder</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype: Selegiline Hydrochloride</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00016">
+<title>Nursing Implications</title> 
+<para id="para-00070">The nurse should do the following for clients taking MAO-B inhibitors:</para>
+<list list-type="bulleted" id="list-00013">
+<item>Perform a skin assessment to monitor for melanomas.</item>
+<item>Assess cardiac monitoring periodically for prolonged QT interval and episodes of angina.</item>
+<item>Evaluate therapeutic effectiveness of PD clinical manifestations.</item>
+<item>Assess mood for depression, impulsivity, and psychotic behavior.</item>
+<item>Monitor liver function tests routinely for elevations in liver enzymes.</item>
+<item>Periodically monitor clients for visual changes.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00010">
+<para id="para-00071"><emphasis effect="bold">The client taking an MAO-B inhibitor should:</emphasis></para>
+<list list-type="bulleted" id="list-00014">
+<item>Immediately notify the provider if severe headache occurs due to MAOI-induced hypertension.</item>
+<item>Sit or lie down if dizziness occurs and wait until it subsides before standing or walking.</item>
+<item>Perform a skin assessment on a routine basis and notify provider if any changes are observed.</item>
+<item>Establish a routine bedtime regimen to promote sleep.</item>
+<item>Contact the provider with any manifestations of liver damage, such as jaundice, dark urine, clay-colored stools, anorexia, or right upper quadrant pain.</item>
+<item>Notify health care provider with any involuntary movements.</item>
+<item>Routinely have an eye examination performed.</item>
+</list>
+<para id="para-00072"><emphasis effect="bold">The client taking an MAO-B inhibitor<emphasis effect="italics"> should</emphasis> <emphasis effect="italics">not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00015">
+<item>Exceed the recommended daily dose of 10 mg.</item>
+<item>Take SSRIs, TCAs, or opioids.</item>
+<item>Chew, break, or crush extended-release capsules.</item>
+<item>Stop drugs abruptly because symptoms will quickly reoccur.</item>
+<item>Drive or participate in activities that can be considered hazardous until the effects are known.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="sect-00017">
+<title><term class="no-emphasis" id="term-00066">Catecholomethyltransferase (COMT) Inhibitors</term></title>
+<para id="para-00073">Normally, the methylation of levodopa by COMT to 3-O-methyldopa is a minor pathway for levodopa metabolism; however, when peripheral dopamine decarboxylase is inhibited by carbidopa, the result is a significant increase of 3-O-methlydopa and the COMT pathway becomes more significant. This then competes with levodopa for entry into the CNS. The COMT inhibitors selectively and reversibly inhibit COMT. The inhibition of COMT leads to reduction of 3-O-methlydopa plasma concentrations. The outcome is more levodopa crossing the blood–brain barrier and increased levels of brain dopamine. These agents are beneficial in reducing the symptoms of the “wearing off” phenomenon seen with levodopa. The two <term class="no-emphasis" id="term-00067">COMT inhibitors</term> discussed in this section differ primarily in their adverse drug reaction profiles. Entacapone is safer than tolcapone. These drugs have no direct effects on their own; they are only indicated for use with levodopa.</para>
+<list list-type="bulleted" id="list-00016">
+<item><emphasis effect="italics">Entacapone:</emphasis> A selective, reversible COMT inhibitor for the treatment of PD. When administered with levodopa and a decarboxylase inhibitor (e.g., carbidopa), increased and more sustained plasma levodopa concentrations are reached as compared with the administration of levodopa and carbidopa given alone. It is believed that at a given frequency of levodopa administration, these more sustained plasma levels of levodopa result in more constant dopaminergic stimulation in the brain, leading to a greater reduction in the manifestations of Parkinsonian syndrome PD (DailyMed, <emphasis effect="italics">Entacapone</emphasis>, 2022).</item>
+<item><emphasis effect="italics">Tolcapone:</emphasis> Tolcapone should be reserved for clients who cannot be treated adequately with safer drugs. This drug can cause severe, sometimes fatal, hepatocellular injury. Before treatment, clients must be fully informed of the risks, and then sign an acknowledgment consent form confirming their understanding. Liver monitoring is a requirement at baseline and periodically throughout therapy. If there is any evidence of liver damage, tolcapone should be discontinued and not be used again. The enzymes generally decline within several weeks once the drug is stopped (DailyMed, <emphasis effect="italics">Tasmar</emphasis>, 2020).</item>
+</list>
+<para id="para-00074">[link]Table 11.9[/link] lists common COMT inhibitors and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00009">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00068">Entacapone</term><newline/>
+(<term class="no-emphasis" id="term-00069">Comtan</term>)</entry>
+<entry valign="top" align="left">Initial dose: 200 mg taken with the levodopa/carbidopa dose; can increase to a maximum of 8 doses (1600 mg daily).</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00070">Tolcapone</term><newline/>
+(<term class="no-emphasis" id="term-00071">Tasmar</term>)</entry>
+<entry valign="top" align="left">Initial dose: 100 mg 3 times daily; increase to 200 mg 3 times daily if necessary. The first dose should be administered in the morning along with levodopa/carbidopa. The next two doses are taken 6 and 12 hours later.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: COMT Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00018">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00075">Most of the adverse effects of these drugs result from the increased dopamine levels. These can be managed by decreasing the levodopa dose. GI and urinary adverse reactions are the most common manifestations of the COMT inhibitors themselves. Notably, only 10% of the dose is excreted in the urine; the remaining 90% is through biliary excretion. If there is biliary obstruction, these drugs may not get eliminated adequately and will accumulate.</para>
+<para id="para-00076">There are reports of clients suddenly falling asleep without warning of feeling drowsy. If this occurs, the COMT inhibitors should be discontinued because these sleep attacks can recur.</para>
+<para id="para-00077">Because these drugs increase dopamine (pleasure neurotransmitter) in the brain, they can cause intense urges to gamble, engage in sex, or spend money uncontrollably. In these cases, it may be necessary to reduce the dose or stop it altogether. Diarrhea can be experienced and is thought to be caused by drug-induced microscopic colitis. Diarrhea can lead to associated weight loss, dehydration, and electrolyte imbalance. If this occurs, the drug should be discontinued.</para>
+<para id="para-00078">Dyskinesia occurs because entacapone potentiates the dopaminergic side effect of levodopa and may either cause or worsen preexisting dyskinesia.</para>
+<para id="para-00079">Entacapone can increase levels of methyldopa, dobutamine, and isoproterenol because they are metabolized by the COMT enzyme. The accumulation of these drugs results in tachycardia, elevated blood pressure, and possible arrhythmias. Nonselective MAOIs should not be used concurrently. COMT and MAO are two major enzyme systems involved in metabolizing catecholamines. Combining a COMT inhibitor with a nonselective MAOI could lead to the inhibition of most of the pathways responsible for normal catecholamine metabolism. This leads to accumulation of catecholamines and sympathomimetic responses. Entacapone is a chelator of iron (DailyMed, <emphasis effect="italics">Entacapone,</emphasis> 2022).</para>
+<para id="para-00080">This class is contraindicated in clients with a history of psychotic disorder who are at risk of experiencing exacerbation of symptoms. Also, certain medications used to treat psychosis may exacerbate the symptoms of PD and decrease the effectiveness of the COMT inhibitor. This drug classification should not be stopped abruptly because it could lead to the reemergence of signs and symptoms of PD, which are sometimes worse than the initial manifestations. It could also lead to confusion, muscle rigidity, hyperpyrexia, and autonomic instability that resembles NMS.</para>
+<para id="para-00081">[link]Table 11.10[/link] is a drug prototype table of COMT inhibitors featuring entacapone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00010">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Selective and reversible COMT inhibitors<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+Prevents destruction of levodopa in the intestine and peripheral tissues<newline/>
+Decreases production of levodopa metabolites that compete for transport across the blood–brain barrier</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+Initial dose: 200 mg taken with the levodopa/carbidopa dose; can increase to a maximum of 8 doses (1600 mg/day).</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Adjunctive to levodopa in the treatment of PD<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Increases the levels of levodopa that cross the blood–brain barrier, which permits more levodopa to become dopamine<newline/>
+Prolongs the half-life of levodopa, increasing the time levodopa is available to the brain<newline/>
+Helps to maintain stable blood levels of levodopa<newline/>
+Improves motor function<newline/>
+Reduces the “wearing off” time experienced during levodopa therapy</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+Methyldopa<newline/>
+Dobutamine<newline/>
+Isoproterenol<newline/>
+Nonselective MAOIs<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Orthostatic hypotension<newline/>
+Dyskinesias<newline/>
+Hepatotoxicity<newline/>
+Hallucinations<newline/>
+Sleep disturbances<newline/>
+Hyperpyrexia/rigidity/confusion<newline/>
+Nausea/vomiting/anorexia/diarrhea<newline/>
+Brownish-orange discoloration of the urine<newline/>
+Neuroleptic malignant syndrome</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity to any component of drug<newline count="2"/>
+Caution: <newline/>
+Hypotension/orthostatic hypotension<newline/>
+Syncope<newline/>
+Hallucinations and psychotic-like behavior<newline/>
+Impulse control/compulsive behavior<newline/>
+Diarrhea/colitis<newline/>
+Dyskinesias</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Entacapone</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00019">
+<title>Nursing Implications</title> 
+<para id="para-00082">The nurse should do the following for clients taking COMT inhibitors:</para>
+<list list-type="bulleted" id="list-00017">
+<item>Monitor liver enzymes at baseline and throughout therapy as recommended.</item>
+<item>Monitor blood pressure with position changes due to the risk of orthostatic hypotension.</item>
+<item>Encourage and educate the client to be compliant with the required lab testing to identify liver disease early.</item>
+<item>Routinely assess level of consciousness and orientation.</item>
+<item>Educate the client to monitor temperature periodically due to the risk of NMS.</item>
+<item>Specifically ask the client about feeling drowsy or sleepy while performing certain activities.</item>
+<item>Advise clients to exercise caution while driving, operating machinery, or working at heights.</item>
+<item>Ask about new or increased gambling urges, sexual urges, or uncontrolled spending.</item>
+<item>Monitor for melanomas frequently by performing a thorough skin assessment.</item>
+<item>Inform client that hallucinations and other psychotic behavior can occur.</item>
+<item>Explain to client that the color of the urine may become brownish orange, but this is harmless.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00011">
+<para id="para-00083"><emphasis effect="bold">The client taking a COMT inhibitor should:</emphasis></para>
+<list list-type="bulleted" id="list-00018">
+<item>Immediately notify the provider of the occurrence of right upper quadrant pain, persistent nausea, anorexia, clay-colored stools, dark urine, jaundice, fatigue, and/or lethargy.</item>
+<item>Notify the health care provider if they have experienced episodes of falling asleep during activities.</item>
+<item>Drink adequate fluids to maintain hydration if diarrhea occurs.</item>
+<item>Perform a routine skin assessment.</item>
+</list>
+<para id="para-00084"><emphasis effect="bold">The client taking a COMT inhibitor <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00019">
+<item>Rise or change positions quickly due to possible orthostatic hypotension.</item>
+<item>Stop drugs abruptly because symptoms will quickly reoccur.</item>
+<item>Take any sedating medications.</item>
+</list>
+</note>
+<note class="black-box" id="note-00012">
+<para id="para-00085"><emphasis effect="bold">Tolcapone</emphasis></para>
+<para id="para-00086">Clients who take tolcapone risk potentially fatal acute fulminant liver failure.</para>
+</note>
+</section>
+</section>
+<section id="sect-00020">
+<title>Dopamine Antagonists</title> 
+<para id="para-00087"><term class="no-emphasis" id="term-00072">Dopamine antagonists</term> can help reduce symptoms of PD and levodopa-induced dyskinesia. Unfortunately, after several months, the effects of the drug wear off. This classification of drugs can be used as a monotherapy in the early stages of the disease and/or combined with levodopa/carbidopa during later stages to control dyskinesia.</para>
+<section id="sect-00021">
+<title>Amantadine</title> 
+<para id="para-00088"><term class="no-emphasis" id="term-00073">Amantadine</term> (<term class="no-emphasis" id="term-00074">Gocovri</term>) is a second-line therapy because it is not as effective as other anti-Parkinsonian drugs. Although multiple drugs fit this classification, amantadine is the most used in PD. This drug falls into two drug classifications: antiviral and anti-Parkinsonian agent. Onset of action usually occurs within 48 hours, and it has a half-life of 10–25 hours. Because the medication is excreted unchanged in the kidneys, it may accumulate within the plasma of <term class="no-emphasis" id="term-00075">older adults</term> and those with renal insufficiency. The dose should be reduced in those with renal impairment and in clients who are 65 years of age or older. This is one reason it is a second-line therapy, because older adults are more likely to have PD (DailyMed, <emphasis effect="italics">Amantadine</emphasis>, 2023).</para>
+<note class="safety-alert" id="note-00013">
+<title><emphasis effect="bold">Similarly Named Drugs</emphasis></title>
+<para id="para-00089">Do not confuse amantadine (dopamine antagonist) with <term class="no-emphasis" id="term-00076">amiodarone</term> (<term class="no-emphasis" id="term-00077">antiarrhythmic</term>).</para>
+<para id="para-00090">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+</note>
+</section>
+<section id="sect-00022">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00091">Suicidal attempts, some of which have been fatal, have been reported. The practitioner must sufficiently assess suicide risk factors and suicidal ideations before medication is prescribed. Other psychiatric manifestations caused by this drug include delirium, hypertonia, delusions, hallucinations, anxiety, euphoria, paranoia, manic reaction, and tremors. This drug can cause clients to engage in compulsive behavior and to lack impulse control. In some clients, reduction of dose or discontinuing the drug can stop these urges. Other clients may need additional help with psychotherapy. CNS stimulants can exacerbate the mental and psychiatric manifestations.</para>
+<para id="para-00092">Amantadine can cause elevated levels of creatinine phosphate kinase (CPK), serum myoglobin, BUN, serum creatinine, alkaline phosphatase, low-density lipoprotein (LDL), and liver enzymes. Clients who take amantadine for more than 1 month often develop livedo reticularis, which is characterized by purple mottling of the skin. This condition is benign and gradually subsides after the drug is discontinued (DailyMed, <emphasis effect="italics">Amantadine</emphasis>, 2023).</para>
+<para id="para-00093">Abrupt discontinuation may precipitate agitation, slurred speech, depression, stupor, delirium, delusions, and hallucinations. In addition, several cases of NMS have occurred upon discontinuing the medication. This is a life-threatening condition and immediate treatment is necessary. Clinical manifestations of this includes high fever, muscle rigidity, involuntary movements, altered consciousness, tachycardia, tachypnea, and changes in blood pressure.</para>
+<para id="para-00094">The drug can exacerbate symptoms in clients with heart failure. The seizure threshold is lowered by this drug; therefore, those with seizure disorders are more apt to have frequent seizures if their medications are not adjusted.</para>
+<para id="para-00095">Angle-closure glaucoma is a contraindication due to the mydriasis and further narrowing of the angle between the cornea and iris. This can worsen the glaucoma.</para>
+<para id="para-00096">[link]Table 11.11[/link] is a drug prototype table of dopamine antagonists featuring amantadine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00011">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+Dopamine antagonist<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action:</emphasis></span><newline/>
+Increases release of dopamine from vesicles in the presynaptic neurons<newline/>
+Blocks reuptake of dopamine into the presynaptic neurons<newline/>
+Blocks cholinergic, NMDA, and glutamate receptors</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+100 mg capsule orally twice daily; if not adequately effective, increase to 400 mg daily in 2 divided doses.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+Reduction of PD symptoms<newline/>
+Management of levodopa-induced dyskinesia<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+Decrease in tremors, bradykinesia, and rigidity<newline/>
+Can help to reduce dyskinesias resulting from levodopa</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+CNS stimulants<newline/>
+Anticholinergics<newline/>
+Quinidine<newline/>
+Live vaccines<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+Severe allergic reaction<newline/>
+Suicidal thoughts<newline/>
+Livedo reticularis<newline/>
+Seizures<newline/>
+NMS<newline/>
+Orthostatic hypotension<newline/>
+Tachypnea<newline/>
+Anxiety/irritability/nervousness<newline/>
+Agranulocytosis<newline/>
+Peripheral edema<newline/>
+Mydriasis/blurry vision<newline/>
+Psychiatric manifestations</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+Hypersensitivity to any component of drug<newline count="2"/>
+Caution: <newline/>
+Renal impairment<newline/>
+Epilepsy<newline/>
+Heart failure/peripheral edema<newline/>
+Hepatic disease<newline/>
+History of suicide<newline/>
+NMS<newline/>
+Melanoma<newline/>
+Impulse control/compulsive behaviors<newline/>
+Hypotension<newline/>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Amantadine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00023">
+<title>Nursing Implications</title> 
+<para id="para-00097">The nurse should do the following for clients taking dopamine antagonists:</para>
+<list list-type="bulleted" id="list-00020">
+<item>Ask about suicidal ideations, plan, and accessibility of their plan.</item>
+<item>Measure temperature for increases because client is at risk for infection, due to reduction in white blood cell count, or it can indicate NMS.</item>
+<item>Monitor for an increase in respirations and heart rate as these are related to NMS.</item>
+<item>Assess for decreases in blood pressure upon position changes.</item>
+<item>Obtain a periodic ECG to monitor the QT interval.</item>
+<item>Assess for any seizure activity because the drug can decrease the seizure threshold.</item>
+<item>Perform a skin examination to monitor for melanomas.</item>
+<item>Specifically ask client about new or increased gambling urges, sexual urges, and uncontrolled spending.</item>
+<item>Monitor intake and output for a positive net result due to risk of urinary retention.</item>
+<item>Assess for peripheral edema, shortness of breath, and increased blood pressure.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00014">
+<para id="para-00098"><emphasis effect="bold">The client taking a dopamine antagonist should:</emphasis></para>
+<list list-type="bulleted" id="list-00021">
+<item>Immediately notify a support person or health care provider if having thoughts of harming self.
+<list list-type="bulleted" id="list-00022">
+<item>Caregivers should be aware of indications that client is suicidal, such as giving treasured items away, social isolation, or increased happiness (because they have made the decision to carry out their plan).</item></list></item>
+<item>Move and change positions slowly due to orthostatic hypotension.</item>
+<item>Sit or lie down if dizziness occurs and wait until it subsides before standing or walking.</item>
+<item>Ensure lighting is dimmed to prevent light sensitivity secondary to mydriasis.</item>
+<item>Maintain observation of any skin lesions to assess for changes.</item>
+<item>Contact the health care provider immediately if having signs of an allergic reaction, such as urticarial rash, angioedema, pharyngeal/tongue edema, and difficulty breathing.</item>
+<item>Gradually increase physical activity as symptoms of PD improve.</item>
+<item>Notify health care provider if they notice signs of mental status or mood changes, edema of extremities, shortness of breath, or difficulty urinating.</item>
+<item>Be observant for any impulsive spending or compulsive behavior.</item>
+</list>
+<para id="para-00099"><emphasis effect="bold">The client taking a dopamine antagonist <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00023">
+<item>Stop taking the drug abruptly to prevent Parkinsonism crisis or psychiatric manifestations.</item>
+<item>Overexert themselves; they should take rest periods between activities.</item>
+<item>Engage in driving or other tasks that require clear vision.</item>
+<item>Eat or drink items that can cause the urine to become acidic, such as citrus juices and fruits (lemons, grapes, grapefruits, pineapples, oranges, and blueberries).</item>
+</list>
+</note>
+<note class="single-casestudy" id="note-00015">
+<title>Case Study</title>
+<para id="para-00100">Read the following clinical scenario to answer the questions that follow.</para>
+<para id="para-00101">Marcus Bell is a 68-year-old client who arrives at the provider’s office reporting a tremor in his right hand that has developed gradually over several months. He notices the tremors disappear when he is concentrating on it; however, they return quickly when he gets distracted. His wife states he has had a difficult time writing. He struggles holding the pen, and his writing is very small and sloppy. The client’s wife also voiced her concerns that he never smiles anymore and he cannot keep up with her when walking. Based on the history and physical examination, the provider diagnoses Marcus with the early stages of PD. The provider prescribes carbidopa/levodopa (Sinemet) 25 mg/100 mg three times daily.<newline count="2"/>
+<emphasis effect="bold">History</emphasis><newline/>
+Benign prostatic hyperplasia<newline/>
+Atrial fibrillation<newline/>
+Osteoarthritis<newline/>
+Emphysema<newline/>
+Cataracts<newline count="2"/>
+<emphasis effect="bold">Current Medications</emphasis><newline/>
+Flomax 0.4 mg orally, once daily<newline/>
+Xarelto 2.5 mg orally, twice daily<newline/>
+Lisinopril 20 mg orally, once daily<newline/>
+Advair Diskus 250 mg/50 mg, inhalation, twice daily</para>
+<para id="para-00102">Denies nicotine, vaping, alcohol, or illicit drug use</para>
+<table class="vertically-tight" id="table-00012">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">98.4°F</entry>
+<entry valign="top" align="left" morerows="6">
+<list list-type="bulleted" id="list-00024">
+<item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Slight drooling but otherwise unremarkable.</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> Audible S1, S2. Rhythm irregular. Absent jugular vein distention, no peripheral edema noted bilaterally.</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Clear in all fields bilaterally. Breath sounds unlabored and regular. Equal chest expansion.</item>
+<item><emphasis effect="italics">Gastrointestinal:</emphasis> Abdomen flat, soft, and nontender.</item>
+<item><emphasis effect="italics">Genitourinary:</emphasis> Difficulty starting urinary stream, weak flow, and dribbling afterward. Mild suprapubic distention.</item>
+<item><emphasis effect="italics">Musculoskeletal:</emphasis> Stooped posture while sitting. Gait unsteady with shuffling, slow steps, and reduced arm swing. Increased muscle tone with cogwheel rigidity in upper extremities.</item>
+<item><emphasis effect="italics">Neurological:</emphasis> Resting tremor in right hand. Flat affect.</item>
+<item><emphasis effect="italics">Integumentary:</emphasis> Skin intact; color consistent with ethnicity.</item>
+</list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left">126/72 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left">78 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left">22 breaths/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left">90% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis> 5’8”</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis> 204 pounds</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00103"><link class="os-embed" url="#exercise/PHAR_Ch11_Sec02_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00104"><link class="os-embed" url="#exercise/PHAR_Ch11_Sec02_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>anhidrosis</term> <meaning>lack of sweating due to decreased sweat glands</meaning></definition>
+<definition id="def-00002"><term>ballismus</term> <meaning>rapid, involuntary jerking or flinging of proximal muscle groups</meaning></definition>
+<definition id="def-00003"><term>catecholamine</term> <meaning>monoamine neurotransmitters released in response to physical or emotional stress (e.g., epinephrine, dopamine)</meaning></definition>
+<definition id="def-00004"><term>choreoathetosis</term> <meaning>slow, involuntary, writhing movements</meaning></definition>
+<definition id="def-00005"><term>dyskinesia</term> <meaning>abnormality or impairment of voluntary movement</meaning></definition>
+<definition id="def-00006"><term>neuroleptic malignant syndrome (NMS)</term> <meaning>a potentially life-threatening condition characterized by symptoms of confusion or altered mental states, muscle rigidity, hyperthermia, arrhythmias, and autonomic instability</meaning></definition>
+</glossary>
 </document>
