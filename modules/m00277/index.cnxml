@@ -46,7 +46,7 @@
 <title>Varenicline</title>
 <para id="para-00009">Varenicline is a partial <term class="no-emphasis" id="term-00003">nicotine receptor agonist</term> that has a greater affinity for the receptor than nicotine itself. Just as buprenorphine partially activates opioid receptors to reduce withdrawal symptoms and prevent other opioids from working as well, varenicline possesses the same actions for nicotine. Nicotine is safe to use if the client relapses and begins using nicotine-containing products again. In fact, it is recommended that varenicline be initiated one week prior to the chosen quit date to ease the transition into nicotine abstinence.</para>
 <para id="para-00010"><link target-id="table-00001" document="m00277"/> lists medications used to treat nicotine use disorder and typical routes and dosing for adult and <term class="no-emphasis" id="term-00004">pediatric clients</term>.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -202,7 +202,7 @@ Major depressive disorder<newline count="2"/>
 <emphasis effect="bold">Current medications</emphasis><newline/>
 Buprenorphine-naloxone: 16 mg/4 mg orally daily<newline/>
 Duloxetine: 40 mg orally daily</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
