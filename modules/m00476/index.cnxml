@@ -458,7 +458,7 @@ None</para>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
