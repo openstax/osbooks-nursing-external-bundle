@@ -15,7 +15,7 @@
     </section>
     <section id="sect-00003">
     <title>C.2 Nursing Theories at the Individual Level</title>
-    <para id="para-00003">While community-based models generally focus on the family, community, and population levels of care, serious illness care programs are often driven by the goals and priorities of the person directly affected and their family. Therefore, <link document="m00376"><emphasis effect="bold">Table C.1</emphasis></link> in this section includes individual-level theories. Services should be culturally and linguistically responsive, and careful attention must be paid to social risks such as poverty, mental illness, insecure housing, food, and transportation, which create unique challenges, as do past or present traumatic events. Comprehensive assessments at the individual level offer insight into collaboration with colleagues and community partners.</para>
+    <para id="para-00003">While community-based models generally focus on the family, community, and population levels of care, serious illness care programs are often driven by the goals and priorities of the person directly affected and their family. Therefore, <link target-id="table-00001" document="m00376"/> in this section includes individual-level theories. Services should be culturally and linguistically responsive, and careful attention must be paid to social risks such as poverty, mental illness, insecure housing, food, and transportation, which create unique challenges, as do past or present traumatic events. Comprehensive assessments at the individual level offer insight into collaboration with colleagues and community partners.</para>
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -122,12 +122,12 @@
     </row>
     </tbody>
     </tgroup>
+    <caption id="para-00004">Nursing Theories at an Individual Level</caption>  
     </table>
-    <para id="para-00004"><emphasis effect="bold">Table C.1</emphasis> Nursing Theories at an Individual Level</para>
     </section>
     <section id="sect-00004">
     <title>C.2 Nursing Theories at the Family/Community/Population Level</title>
-    <para id="para-00005"><link document="m00376"><emphasis effect="bold">Table C.2</emphasis></link> in this section includes family/community/population-level theories.</para>
+    <para id="para-00005"><link target-id="table-00002" document="m00376"/> in this section includes family/community/population-level theories.</para>
     <table class="vertically-tight alternate-shading" id="table-00002">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -301,8 +301,8 @@
     </row>
     </tbody>
     </tgroup>
+    <caption id="para-00006">Nursing Theories at the Family/Community/Population Level</caption>  
     </table>
-    <para id="para-00006"><emphasis effect="bold">Table C.2</emphasis> Nursing Theories at the Family/Community/Population Level</para>
     </section>
     </section>
     </content>
