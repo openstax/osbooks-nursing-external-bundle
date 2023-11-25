@@ -6,8 +6,11 @@
     <md:uuid>fbcfec8b-823f-43ec-bb13-f2dea9e98b1e</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="Different pills in a pile. There are round, oval, and capsule shaped pills in different sizes and colors.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit01_01_03_001_Splash.jpg"/></media>
+    <caption>Pharmacology is the study of the biological effects of drugs on the body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00001">The primary focus of this chapter is the quality of care and safety of the client as it relates to the administration of medications. The learner is introduced to legislative acts on a federal and state level that affect nursing. The emphasis then moves to client safety and the prevention of medication errors. The core ethical principles of nursing are discussed, and the learner is also introduced to the American Nurses Association (ANA) Code of Ethics. The chapter finishes with a discussion of nursing informatics and how it affects drug administration and error prevention.</para>
+    </content>
 </document>
