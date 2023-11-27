@@ -64,7 +64,7 @@
 <section id="sect-00009">
 <title>Triptans</title>
 <para id="para-00010">Triptans are <term id="term-00006">serotonin agonists</term> that target the pathophysiological mechanism of migraine headaches, effectively eliminating symptoms. By selectively binding to serotonin receptors 5-HT<sub>1B</sub> and 5-HT<sub>1D</sub>, triptans induce vasoconstriction of cranial arteries that are typically dilated during migraines. The vasoconstriction helps to reduce the intensity and duration of migraine headaches.</para>
-<para id="para-00011">[link]Table 12.10[/link] lists common <term class="no-emphasis" id="term-00007">triptans</term> and typical routes and dosing for adult clients.</para>
+<para id="para-00011"><link target-id="table-00001" document="m00264"/> lists common <term class="no-emphasis" id="term-00007">triptans</term> and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -112,7 +112,7 @@ Maximum daily dose is 10 mg in a 24-hour period</entry>
 <para id="para-00013"><emphasis effect="bold">Sumatriptan</emphasis></para>
 <para id="para-00014">There is cardiovascular risk from sumatriptan with an increased risk of adverse thrombotic events, including myocardial infarction and stroke.</para>
 </note>
-<para id="para-00015">The drug prototype for triptans is <term class="no-emphasis" id="term-00015">sumatriptan</term> (<term class="no-emphasis" id="term-00016">Imitrex</term>). [link]Table 12.11[/link] is a drug prototype table for triptans featuring sumatriptan. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00015">The drug prototype for triptans is <term class="no-emphasis" id="term-00015">sumatriptan</term> (<term class="no-emphasis" id="term-00016">Imitrex</term>). <link target-id="table-00002" document="m00264"/> is a drug prototype table for triptans featuring sumatriptan. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -179,7 +179,7 @@ Monitor closely for arrhythmias including ventricular tachycardia and ventricula
 <para id="para-00017"><emphasis effect="bold">Ergotamine</emphasis></para>
 <para id="para-00018">Ergotamine is contraindicated with potent inhibitors CYP3A4 drugs. Concomitant use of these drugs may result in serious vasospasm producing cerebral limb ischemia.</para>
 </note>
-<para id="para-00019">The most common ergot alkaloid used in the treatment of migraine headaches is ergotamine <term class="no-emphasis" id="term-00019">tartrate</term> (<term class="no-emphasis" id="term-00020">Cafergot</term>). <emphasis effect="bold">[link]Table 12.12 [/link]</emphasis> is a drug prototype table for ergot alkaloids featuring ergotamine tartrate. It lists drug class, mechanism of action, adult and pediatric dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00019">The most common ergot alkaloid used in the treatment of migraine headaches is ergotamine <term class="no-emphasis" id="term-00019">tartrate</term> (<term class="no-emphasis" id="term-00020">Cafergot</term>). <link target-id="table-00003" document="m00264"/> is a drug prototype table for ergot alkaloids featuring ergotamine tartrate. It lists drug class, mechanism of action, adult and pediatric dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -235,7 +235,7 @@ Monitor closely in clients who have bronchial asthma</entry>
 <section id="sect-00012">
 <title>Selective Serotonin Receptor Agonists</title>
 <para id="para-00020">Selective serotonin receptor agonists are a novel drug class that is used in the treatment of migraine headaches. It is centrally and peripherally acting 5-HT1F receptor agonist that decreases the release of neuropeptides and the neurotransmitter glutamate, thereby inhibiting neuronal firing. Adverse effects include paresthesia, fatigue, drowsiness, nausea, vomiting, muscle weakness, and hypertension. They are contraindicated in hypersensitivity to the drug or its components (Berger et al., 2020).</para>
-<para id="para-00021">The most prescribed selective serotonin receptor agonist for migraine headaches is <term class="no-emphasis" id="term-00021">lasmiditan</term> (<term class="no-emphasis" id="term-00022">Reyvow</term>), [link]Table 12.13[/link] is a drug prototype table for <term class="no-emphasis" id="term-00023">selective serotonin receptor agonists</term> featuring lasmiditan. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00021">The most prescribed selective serotonin receptor agonist for migraine headaches is <term class="no-emphasis" id="term-00021">lasmiditan</term> (<term class="no-emphasis" id="term-00022">Reyvow</term>), <link target-id="table-00004" document="m00264"/> is a drug prototype table for <term class="no-emphasis" id="term-00023">selective serotonin receptor agonists</term> featuring lasmiditan. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00004">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -284,7 +284,7 @@ Monitor closely for central nervous system depression/impaired driving</entry>
 <section id="sect-00013">
 <title>Calcitonin Gene Related Peptide (CGRP) Receptor Antagonists</title>
 <para id="para-00022"><term class="no-emphasis" id="term-00024">Calcitonin gene related peptide (CGRP) receptor antagonists</term> are a novel drug class used in the treatment of migraine headaches. They block CGRP receptors and inhibits the biological activity of CGRP neuropeptides. Adverse effects include nausea, rash, and dyspnea. Contraindications include hypersensitivity to the drug or its constituents (Rashid &amp; Manghi, 2022).</para>
-<para id="para-00023">The most prescribed CGRP receptor antagonist is <term class="no-emphasis" id="term-00025">rimegepant</term> (<term class="no-emphasis" id="term-00026">Nurtec</term>). <emphasis effect="bold">[link]Table 12.14 [/link]</emphasis> is a drug prototype table for CGRPs featuring rimegepant. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00023">The most prescribed CGRP receptor antagonist is <term class="no-emphasis" id="term-00025">rimegepant</term> (<term class="no-emphasis" id="term-00026">Nurtec</term>). <link target-id="table-00005" document="m00264"/> is a drug prototype table for CGRPs featuring rimegepant. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00005">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
