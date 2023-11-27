@@ -39,20 +39,20 @@
 <para id="para-00007">Diagnosis of seizures or epilepsy is multifaceted. The health care provider will obtain a thorough history and perform a neurological examination. The health care provider may order one or more of the following diagnostic tests to identify seizures or rule out other causes or structural abnormalities that could be contributing to the seizure diagnosis:</para>
 <list list-type="bulleted" id="list-00002">
 <item><term id="term-00005">Electroencephalogram (EEG)</term>
-<list list-type="bulleted" bullet-style="none" id="list-00003">
+<list list-type="bulleted" id="list-00003">
 <item>An EEG is a test that measures changes in the brain’s electrical patterns that relate to seizures or other neurological conditions. Small metal electrodes are attached to the scalp and the electrical impulses of the brain appear as wavy lines on the EEG recording.</item>
 </list></item>
 <item><term id="term-00006">Computed tomography (CT) scan</term>
-<list list-type="bulleted" bullet-style="none" id="list-00004">
+<list list-type="bulleted" id="list-00004">
 <item>A CT scan is a non-invasive imaging procedure that uses x-rays to produce horizontal and axial images of the brain.</item>
 </list></item>
 <item><term id="term-00007">Magnetic resonance imaging (MRI)</term>
-<list list-type="bulleted" bullet-style="none" id="list-00005">
+<list list-type="bulleted" id="list-00005">
 <item>An MRI of the brain is a painless imaging procedure that uses large magnetic radio waves to produce clear images of the structures inside the skull.</item>
 </list>
 </item>
 <item><term id="term-00008">Positron emission tomography (PET) scan</term>
-<list list-type="bulleted" bullet-style="none" id="list-00006">
+<list list-type="bulleted" id="list-00006">
 <item>A PET scan is an imaging procedure that uses a radioactive tracer substance to detect disease or injury in the brain.</item>
 </list></item>
 </list>
@@ -104,7 +104,7 @@ Decreases abnormal electrical activity in the brain through a voltage dependent 
 Individualized based on disease process<newline count="2"/>
 Adults: Initial dose of 100 mg extended-release capsule by mouth three times daily<newline/>
 Upward titration with a maximum of two capsules three times a day<newline count="2"/>
-Serum blood level determinations may be necessary for optimal dosing adjustments<newline/>
+Serum blood level determinations may be necessary for optimal dosing adjustments<newline count="2"/>
 Children: Initial dose of 5 mg/kg/day in two or three equally divided doses, with subsequent dosage individualized to a maximum of 300 mg daily<newline count="2"/>
 A recommended daily maintenance dosage is usually 4 to 8 mg/kg<newline/>
 Children over 6 years old and adolescents may require the minimum adult dose (300 mg/day)
@@ -164,7 +164,7 @@ Caution also advised for using this drug during pregnancy because it may cause p
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-Barbiturate<newline/>
+Barbiturate<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Inhibits the central nervous system by enhancing GABA, which slows activity in the brain<newline/>
 </entry>
@@ -283,7 +283,7 @@ Caution also advised during pregnancy as this drug may cause fetal malformations
 <para id="para-00022"><term class="no-emphasis" id="term-00031">Benzodiazepines</term> are a class of drug that act on the benzodiazepine receptors (BZ-Rs) in the central nervous system. They work by enhancing the activity of the neurotransmitter GABA, which is inhibitory and slows brain activity. Dosing is individualized and depends on the drug being used. Benzodiazepines such as clonazepam, clorazepate, and diazepam are commonly prescribed to treat seizures.</para>
 <para id="para-00023">Nurses should note that these drugs can result in sedation and use of these drugs in late pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns.</para>
 <para id="para-00024"><link target-id="table-00004" document="m00263"/> lists common benzodiazepines and typical routes and dosing for adult and <term class="no-emphasis" id="term-00032">pediatric clients</term>.</para>
-<table class="vertically-tight" id="table-00004">
+<table class="vertically-tight full-width" id="table-00004">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -343,7 +343,7 @@ Benzodiazepine<newline count="2"/>
 Binds to the benzodiazepine receptors on the postsynaptic GABA-A ligand-gated chloride channel neuron in the central nervous system, thereby enhancing the inhibitory effects of GABA</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 Individualized based on disease process<newline/>
-<emphasis effect="italics">Adult:</emphasis> Oral dosing of 2–6 mg/day given in divided doses two to three times daily<newline/>
+<emphasis effect="italics">Adult:</emphasis> Oral dosing of 2–6 mg/day given in divided doses two to three times daily<newline count="2"/>
 <emphasis effect="italics">Adult:</emphasis> Intravenous dosing of 4 mg given slowly<newline/>
 If seizure continues or recurs after 10- to15-minute observation period, an additional 4 mg IV may be slowly administered<newline count="2"/>
 <emphasis effect="italics">Children:</emphasis> Not recommended in children less than 18 years of age</entry>
@@ -438,8 +438,8 @@ Dosage generally should not exceed 1,000 mg daily<newline count="2"/>
 <emphasis effect="italics">Maintenance</emphasis><emphasis effect="italics">:</emphasis> Adjust dosage to the minimum effective level, usually 400–800 mg daily<newline count="2"/>
 <emphasis effect="italics">Children under 6 years of age:</emphasis><newline/>
 Initial dose of 10 to 20 mg/kg/day twice a day or three times a day as tablets<newline count="2"/>
-Increase weekly to achieve optimal clinical response administered three times a day or four times a day<newline/>
-<emphasis effect="italics">Maintenance</emphasis><emphasis effect="italics">:</emphasis> Ordinarily, optimal clinical response achieved at daily doses below 35 mg/kg<newline/>
+Increase weekly to achieve optimal clinical response administered three times a day or four times a day<newline count="2"/>
+<emphasis effect="italics">Maintenance</emphasis><emphasis effect="italics">:</emphasis> Ordinarily, optimal clinical response achieved at daily doses below 35 mg/kg<newline count="2"/>
 If satisfactory clinical response not achieved, measure plasma levels to determine if they are in the therapeutic range<newline count="2"/>
 No recommendation regarding safety of carbamazepine for use at doses above 35 mg/kg/24 hours</entry>
 </row>
@@ -631,7 +631,7 @@ Monitor closely for behavioral abnormalities such as increase in aggression, agi
 <para id="para-00051"><emphasis effect="bold">Lamotrigine</emphasis></para>
 <para id="para-00052">Lamotrigine may cause serious dermatologic reactions such as Stevens-Johnson syndrome or toxic epidermal necrosis.</para>
 </note>
-<table class="vertically-tight" id="table-00009">
+<table class="vertically-tight full-width" id="table-00009">
 <tgroup cols="5">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -649,13 +649,14 @@ Monitor closely for behavioral abnormalities such as increase in aggression, agi
 </thead>
 <tbody>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00056">Gabapentin</term><newline/>(<term class="no-emphasis" id="term-00057">Neurontin</term>)</entry>
-<entry valign="top" align="left">Anticonvulsant<newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00056">Gabapentin</term><newline/>
+  (<term class="no-emphasis" id="term-00057">Neurontin</term>)</entry>
+<entry valign="top" align="left">Anticonvulsant<newline count="2"/>
 <emphasis effect="italics">Indication:</emphasis> Adjunctive therapy for partial onset seizures, with or without secondary generalization, in adults and children 3 years and older with epilepsy</entry>
 <entry valign="top" align="left">Increases the concentration and probably the rate of synthesis of GABA in brain, which may enhance non-vesicular GABA release during seizures</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> <newline/>
-in clients > 12 years of age: Somnolence, dizziness, ataxia, fatigue, and nystagmus<newline/>
-<emphasis effect="italics">In clients 3–12 years:</emphasis> viral infection, fever, nausea and/or vomiting, somnolence, and hostility.<newline/>
+in clients > 12 years of age: Somnolence, dizziness, ataxia, fatigue, and nystagmus<newline count="2"/>
+<emphasis effect="italics">In clients 3–12 years:</emphasis> viral infection, fever, nausea and/or vomiting, somnolence, and hostility.<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis> Hypersensitivity to the drug or its ingredients</entry>
 <entry valign="top" align="left"><emphasis effect="italics">In clients 12 years of age and above:</emphasis> Starting dose 300 mg three times a day orally<newline/>
 Recommended maintenance is 300–600 mg three times a day.<newline/>
@@ -665,10 +666,10 @@ Recommended maintenance is 300–600 mg three times a day.<newline/>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00058">Lamotrigine</term><newline/>
 (<term class="no-emphasis" id="term-00059">Lamictal</term>)</entry>
-<entry valign="top" align="left">Anticonvulsant<newline/>
+<entry valign="top" align="left">Anticonvulsant<newline count="2"/>
 <emphasis effect="italics">Indication:</emphasis> Adjunctive therapy for partial seizures</entry>
 <entry valign="top" align="left">Blocks voltage-gated sodium ion channels and inhibiting presynaptic glutamate and aspartate release</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> GI upset, dizziness, drowsiness, blurred vision, fatigue, and rash related to Steven Johnson syndrome<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> GI upset, dizziness, drowsiness, blurred vision, fatigue, and rash related to Steven Johnson syndrome<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis> Hypersensitivity to the drug or its ingredients</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Oral dosing:</emphasis> <newline/>
 <emphasis effect="italics">Weeks 1and 2:</emphasis> 25 mg every other day<newline/>
@@ -677,7 +678,7 @@ Recommended maintenance is 300–600 mg three times a day.<newline/>
 <emphasis effect="italics">Week 6:</emphasis> 100 mg every day<newline/>
 <emphasis effect="italics">Week 7:</emphasis> 150 mg every day<newline/>
 <emphasis effect="italics">Maintenance dose:</emphasis> 200–250 mg every day<newline/>
-<emphasis effect="italics">Maximum dose:</emphasis> 400 mg/day<newline/>
+<emphasis effect="italics">Maximum dose:</emphasis> 400 mg/day<newline count="2"/>
 <emphasis effect="italics">Extended-release oral dosing:</emphasis><newline/>
 <emphasis effect="italics">Weeks 1 and 2:</emphasis> 25 mg every other day<newline/>
 <emphasis effect="italics">Weeks 3 and 4:</emphasis> 25 mg every day<newline/>
@@ -690,14 +691,14 @@ Maximum dose: 400 mg/day</entry>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00060">Topiramate</term><newline/>
 (<term class="no-emphasis" id="term-00061">Topamax, Qudexy, Trokendi</term>)</entry>
-<entry valign="top" align="left">Anticonvulsant, Other<newline/>
+<entry valign="top" align="left">Anticonvulsant, Other<newline count="2"/>
 <emphasis effect="italics">Indication:</emphasis> Treatment of partial or generalized seizures</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Stimulates GABA-A receptor activity at brain non-benzodiazepine receptor sites and reduces glutamate activity</emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Drowsiness, somnolence, fatigue, coordination difficulties<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Drowsiness, somnolence, fatigue, coordination difficulties<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis> <newline/>
 Hypersensitivity to the drug or its ingredients</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adults and children 10 years of age and older:</emphasis><newline/>
-Oral dosing 400 mg/day in two divided doses.<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children 10 years of age and older:</emphasis><newline count="2"/>
+Oral dosing 400 mg/day in two divided doses.<newline count="2"/>
 The dose should be achieved by titrating as follows:<newline/>
 <emphasis effect="italics">Week 1:</emphasis> 25 mg in morning and evening<newline/>
 <emphasis effect="italics">Week 2:</emphasis> 50 mg in morning and evening<newline/>
@@ -705,48 +706,48 @@ The dose should be achieved by titrating as follows:<newline/>
 <emphasis effect="italics">Week 4:</emphasis> 100 mg in morning and evening<newline/>
 <emphasis effect="italics">Week 5:</emphasis> 150 mg in morning and evening<newline/>
 <emphasis effect="italics">Week 6:</emphasis> 200 mg in morning and evening<newline/>
-<emphasis effect="italics">Maximum dose:</emphasis> 400 mg/day<newline/>
-<emphasis effect="italics">Children 2</emphasis>–<emphasis effect="italics">9 years of age:</emphasis><newline/>
-Dosing in clients 2– 9 years of age based on weight<newline/>
-During the titration period, the initial dose of topiramate tablet is 25 mg/day nightly for the first week<newline/>
-Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week<newline/>
-Dosage can be increased by 25–50 mg/day each subsequent week as tolerated<newline/>
-Titration to the minimum maintenance dose should be attempted over 5–7 weeks of the total titration period<newline/>
+<emphasis effect="italics">Maximum dose:</emphasis> 400 mg/day<newline count="2"/>
+<emphasis effect="italics">Children 2</emphasis>–<emphasis effect="italics">9 years of age:</emphasis><newline count="2"/>
+Dosing in clients 2– 9 years of age based on weight<newline count="2"/>
+During the titration period, the initial dose of topiramate tablet is 25 mg/day nightly for the first week<newline count="2"/>
+Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week<newline count="2"/>
+Dosage can be increased by 25–50 mg/day each subsequent week as tolerated<newline count="2"/>
+Titration to the minimum maintenance dose should be attempted over 5–7 weeks of the total titration period<newline count="2"/>
 Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25–50 mg/day weekly increments</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00062">Lacosamide</term><newline/>
 (<term class="no-emphasis" id="term-00063">Vimpat, Motpoly XR</term>)</entry>
-<entry valign="top" align="left">Anticonvulsant, Other<newline/>
+<entry valign="top" align="left">Anticonvulsant, Other<newline count="2"/>
 <emphasis effect="italics">Indication:</emphasis> Treatment of partial seizures</entry>
 <entry valign="top" align="left">Blocks voltage-gated sodium ion channels, and decreases brain activity.</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Dizziness, nausea, headache, fatigue, drowsiness<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Dizziness, nausea, headache, fatigue, drowsiness<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis> Hypersensitivity, 2<sup>nd,</sup> and 3<sup>rd</sup> degree AV (atrioventricular) block which may cause severe bradycardia</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adults and adolescents 17 years of age or older:</emphasis><newline/>
-Initial oral dose of 100 mg twice daily or 200 mg single loading dose, followed 12 hours later by 100 mg twice daily<newline/>
-Increase by 50 mg twice daily every week to reach maintenance dose of 150 mg to 200 mg twice daily<newline/>
-Children weighing over 50 kg or more: Oral initial dose 50 mg twice daily or 100 mg daily<newline/>
-Increase by 50 mg twice daily or 100 mg daily every week.<newline/>
-Maintenance dose: 150 mg to 200 mg twice daily or 300 mg to 400 mg daily<newline/>
-<emphasis effect="italics">Children weighing 30 kg to less than 50 kg:</emphasis> Oral initial dose 1 mg/kg twice daily or 2 mg/kg daily<newline/>
-Increase by 1 mg/kg twice daily or 2 mg/kg daily every week<newline/>
-<emphasis effect="italics">Maintenance:</emphasis> 2 mg/kg twice daily or 4 mg/kg/day to 8 mg/kg/day<newline/>
-<emphasis effect="italics">Children weighing 11 kg to less than 50 kg:</emphasis> Oral initial dose 1 mg/kg twice daily or 2 mg/kg daily<newline/>
-Increase by 1 mg/kg twice daily or 2 mg/kg daily every week<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and adolescents 17 years of age or older:</emphasis><newline count="2"/>
+Initial oral dose of 100 mg twice daily or 200 mg single loading dose, followed 12 hours later by 100 mg twice daily<newline count="2"/>
+Increase by 50 mg twice daily every week to reach maintenance dose of 150 mg to 200 mg twice daily<newline count="2"/>
+Children weighing over 50 kg or more: Oral initial dose 50 mg twice daily or 100 mg daily<newline count="2"/>
+Increase by 50 mg twice daily or 100 mg daily every week.<newline count="2"/>
+Maintenance dose: 150 mg to 200 mg twice daily or 300 mg to 400 mg daily<newline count="2"/>
+<emphasis effect="italics">Children weighing 30 kg to less than 50 kg:</emphasis> Oral initial dose 1 mg/kg twice daily or 2 mg/kg daily<newline count="2"/>
+Increase by 1 mg/kg twice daily or 2 mg/kg daily every week<newline count="2"/>
+<emphasis effect="italics">Maintenance:</emphasis> 2 mg/kg twice daily or 4 mg/kg/day to 8 mg/kg/day<newline count="2"/>
+<emphasis effect="italics">Children weighing 11 kg to less than 50 kg:</emphasis> Oral initial dose 1 mg/kg twice daily or 2 mg/kg daily<newline count="2"/>
+Increase by 1 mg/kg twice daily or 2 mg/kg daily every week<newline count="2"/>
 <emphasis effect="italics">Maintenance:</emphasis> 3 mg/kg to 6 mg/kg twice daily or 6mg/kg/day to 12 mg/kg/day</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00064">Zonisamide</term><newline/>
 (<term class="no-emphasis" id="term-00065">Zonegran, Zonisade</term>)</entry>
-<entry valign="top" align="left">Sulfonamide anticonvulsant<newline/>
+<entry valign="top" align="left">Sulfonamide anticonvulsant<newline count="2"/>
 <emphasis effect="italics">Indication:</emphasis> Adjunctive therapy for partial seizures</entry>
 <entry valign="top" align="left">Blocks voltage-gated sodium ion channels and inhibiting presynaptic glutamate and aspartate release</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Headache, fatigue, coordination difficulties, visual disturbances, drowsiness<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Adverse Effects:</emphasis> Headache, fatigue, coordination difficulties, visual disturbances, drowsiness<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis><newline/>
 Hypersensitivity to the drug or its ingredients</entry>
-<entry valign="top" align="left">Adults and adolescents 16 years of age and older:<newline/>
-Oral dosing initial dose 100 mg daily<newline/>
-After two weeks the dose may be increased to 200 mg/day for at least two weeks<newline/>
+<entry valign="top" align="left">Adults and adolescents 16 years of age and older:<newline count="2"/>
+Oral dosing initial dose 100 mg daily<newline count="2"/>
+After two weeks the dose may be increased to 200 mg/day for at least two weeks<newline count="2"/>
 It can be increased to 300 mg/day and 400 mg/day with the dose stable for at least two weeks to achieve steady state at each level</entry>
 </row>
 </tbody>

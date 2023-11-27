@@ -68,7 +68,7 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
@@ -80,21 +80,21 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Eletriptan</term><newline/>
 (<term class="no-emphasis" id="term-00009">Relpax</term>)
 </entry>
-<entry valign="top" align="center">Single doses of 20 mg to 40 mg oral once<newline/>
+<entry valign="top" align="left">Single doses of 20 mg to 40 mg oral once<newline/>
 If the migraine has not resolved by 2 hours after taking eletriptan, or returns after transient improvement, a second dose may be administered at least 2 hours after the first dose<newline/>
 The maximum daily dose should not exceed 80 mg</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Rizatriptan</term><newline/>
 (<term class="no-emphasis" id="term-00011">Maxalt</term>)</entry>
-<entry valign="top" align="center">The recommended starting dose is either 5 mg or 10 mg oral once, for acute treatment of migraines in adults<newline/>
+<entry valign="top" align="left">The recommended starting dose is either 5 mg or 10 mg oral once, for acute treatment of migraines in adults<newline/>
 May repeat dose after at least 2 hours if headache returns<newline/>
 Maximum daily dose should not exceed 30 mg</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Zolmitriptan</term><newline/>
 (<term class="no-emphasis" id="term-00013">Zomig</term>)</entry>
-<entry valign="top" align="center">The recommended starting dose is 1.25 mg or 2.5 mg<newline/>
+<entry valign="top" align="left">The recommended starting dose is 1.25 mg or 2.5 mg<newline/>
 The maximum recommended single dose of zolmitriptan is 5mg<newline/>
 If the migraine has not resolved by 2 hours after taking zolmitriptan or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose<newline/>
 Maximum daily dose is 10 mg in a 24-hour period</entry>
@@ -125,11 +125,11 @@ Serotonin agonists<newline count="2"/>
 Selectively binds to serotonin receptors 5-HT<sub>1B</sub> and 5-HT<sub>1D</sub> and induces vasoconstriction of cranial arteries
 </entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-The recommended daily doses are 25 mg, 50 mg, or 100 mg orally<newline/>
-If the migraine has not resolved by 2 hours after taking sumatriptan or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose<newline/>
-Maximum daily dose is 200 mg in 24 hours<newline/>
-Subcutaneous dosing 6 mg with a maximum dose of 12 mg/day. Maximum dosing should be 2–6 mg injections separated at least 1 hour apart<newline/>
-Intranasal doses are 5 mg, 10mg, and 20 mg given as a single spray in one nostril<newline/>
+The recommended daily doses are 25 mg, 50 mg, or 100 mg orally<newline count="2"/>
+If the migraine has not resolved by 2 hours after taking sumatriptan or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose<newline count="2"/>
+Maximum daily dose is 200 mg in 24 hours<newline count="2"/>
+Subcutaneous dosing 6 mg with a maximum dose of 12 mg/day. Maximum dosing should be 2–6 mg injections separated at least 1 hour apart<newline count="2"/>
+Intranasal doses are 5 mg, 10mg, and 20 mg given as a single spray in one nostril<newline count="2"/>
 The maximum daily dose is 40 mg in a 24-hour period</entry>
 </row>
 <row>
@@ -188,11 +188,11 @@ Monitor closely for arrhythmias including ventricular tachycardia and ventricula
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
 Ergot alkaloid and alpha-adrenergic blocker<newline/>
-<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline count="2"/>
 Inhibits norepinephrine and directly stimulates vascular smooth muscle, causing vasoconstriction</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 <emphasis effect="italics">Starting dose:</emphasis> 1 mg to 2 mg sublingually at the first sign on a migraine and 1 mg additional sublingually every ½ hour, if needed for full relief.<newline count="2"/>
-<emphasis effect="italics">Maximum dose</emphasis>: 6 mg in 24 hours<newline/>
+<emphasis effect="italics">Maximum dose</emphasis>: 6 mg in 24 hours<newline count="2"/>
 Also available in suppository form and in tablets with caffeine</entry>
 </row>
 <row>
@@ -247,7 +247,7 @@ Selective serotonin receptor agonist<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Decreases the release of neuropeptides and the neurotransmitter glutamate, inhibiting neuronal firing</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-Recommended dose is 50 mg, 100 mg, or 200 mg taken orally, as needed<newline/>
+Recommended dose is 50 mg, 100 mg, or 200 mg taken orally, as needed<newline count="2"/>
 No more than one dose should be taken in 24 hours</entry>
 </row>
 <row>
@@ -296,7 +296,7 @@ CGRP receptor antagonist<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Binds to CGRP receptors, decreasing inflammation in the meninges of the brain</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-Recommended dose is 75 mg orally as needed<newline/>
+Recommended dose is 75 mg orally as needed<newline count="2"/>
 <emphasis effect="italics">Maximum dose:</emphasis> 75 mg in a 24-hour period</entry>
 </row>
 <row>
