@@ -71,7 +71,7 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
     <thead>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">The CDC’s Six Guiding Principles to Address the Overdose Crisis</emphasis></span></entry>
@@ -79,23 +79,23 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="center">1. Promote Health Equity</entry>
+    <entry valign="top" align="center">1.&#160;Promote Health Equity</entry>
     <entry valign="top" align="left">Ensure everyone has an equitable opportunity to prevent overdose and substance use-related harms by resolving health disparities related to the overdose crisis, with the promotion of interventions that advance health equity in all communities.</entry>
     </row>
     <row>
-    <entry valign="top" align="center">2. Address Underlying Factors</entry>
+    <entry valign="top" align="center">2.&#160;Address Underlying Factors</entry>
     <entry valign="top" align="left">Identify harmful and protective factors to better design and focus interventions to address the overdose crisis, while attending to health disparities and inequities.</entry>
     </row>
     <row>
-    <entry valign="top" align="center">3. Partner Broadly</entry>
+    <entry valign="top" align="center">3.&#160;Partner Broadly</entry>
     <entry valign="top" align="left">Form broad and diverse partnerships as a foundation of preventing overdose and substance-use related harms that include opportunities to develop, coordinate, and implement targeted strategies to prevent harm.</entry>
     </row>
     <row>
-    <entry valign="top" align="center">4. Take Evidence-Based Action</entry>
+    <entry valign="top" align="center">4.&#160;Take Evidence-Based Action</entry>
     <entry valign="top" align="left">Promote extensively researched strategies, because evidence-based action ensures the delivery of effective methods for preventing and reducing overdose and substance use-related harms that are translated and adapted for diverse populations.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">5. Advance Science</entry>
+    <entry valign="top" align="left">5.&#160;Advance Science</entry>
     <entry valign="top" align="left">Build the evidence-base for what is most effective to end the overdose crisis by:
     <list list-type="bulleted" id="list-00005">
     <item>advancing science through supporting public health surveillance</item>
