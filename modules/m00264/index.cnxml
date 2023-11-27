@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Introduction to Migraine Headaches and Migraine Headache Drugs</title>
+  <title>Migraine Headaches and Migraine Headache Drugs</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction to Migraine Headaches and Migraine Headache Drugs</md:title>
     <md:content-id>m00264</md:content-id>
@@ -80,14 +80,14 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Eletriptan</term><newline/>
 (<term class="no-emphasis" id="term-00009">Relpax</term>)
 </entry>
-<entry valign="top" align="left">Single doses of 20 mg to 40 mg oral once<newline/>
-If the migraine has not resolved by 2 hours after taking eletriptan, or returns after transient improvement, a second dose may be administered at least 2 hours after the first dose<newline/>
+<entry valign="top" align="left">Single doses of 20 mg to 40 mg oral once<newline count="2"/>
+If the migraine has not resolved by 2 hours after taking eletriptan, or returns after transient improvement, a second dose may be administered at least 2 hours after the first dose<newline count="2"/>
 The maximum daily dose should not exceed 80 mg</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Rizatriptan</term><newline/>
 (<term class="no-emphasis" id="term-00011">Maxalt</term>)</entry>
-<entry valign="top" align="left">The recommended starting dose is either 5 mg or 10 mg oral once, for acute treatment of migraines in adults<newline/>
+<entry valign="top" align="left">The recommended starting dose is either 5 mg or 10 mg oral once, for acute treatment of migraines in adults<newline count="2"/>
 May repeat dose after at least 2 hours if headache returns<newline/>
 Maximum daily dose should not exceed 30 mg</entry>
 </row>
@@ -95,7 +95,7 @@ Maximum daily dose should not exceed 30 mg</entry>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Zolmitriptan</term><newline/>
 (<term class="no-emphasis" id="term-00013">Zomig</term>)</entry>
 <entry valign="top" align="left">The recommended starting dose is 1.25 mg or 2.5 mg<newline/>
-The maximum recommended single dose of zolmitriptan is 5mg<newline/>
+The maximum recommended single dose of zolmitriptan is 5mg<newline count="2"/>
 If the migraine has not resolved by 2 hours after taking zolmitriptan or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose<newline/>
 Maximum daily dose is 10 mg in a 24-hour period</entry>
 </row>
@@ -119,7 +119,7 @@ Maximum daily dose is 10 mg in a 24-hour period</entry>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Clas</span></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
 Serotonin agonists<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Selectively binds to serotonin receptors 5-HT<sub>1B</sub> and 5-HT<sub>1D</sub> and induces vasoconstriction of cranial arteries
@@ -138,7 +138,7 @@ To treat migraine headaches<newline/>
 To treat cluster headaches<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
 Reduces migraine and cluster headaches</entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interaction</span></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Ergot containing drugs<newline/>
 Monoamine oxidase inhibitors<newline/>
 Selective serotonin reuptake inhibitors<newline/>
@@ -149,7 +149,7 @@ No significant interactions
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effect</span></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
 Paresthesia<newline/>
 Flushing<newline/>
 Vertigo<newline/>
@@ -157,7 +157,7 @@ Malaise<newline/>
 Hypotension<newline/>
 Dystonia
 </entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindication</span></emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
 Hypersensitivity<newline/>
 Ischemic coronary disease<newline/>
 Stroke<newline/>
@@ -187,8 +187,8 @@ Monitor closely for arrhythmias including ventricular tachycardia and ventricula
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-Ergot alkaloid and alpha-adrenergic blocker<newline/>
-<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline count="2"/>
+Ergot alkaloid and alpha-adrenergic blocker<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Inhibits norepinephrine and directly stimulates vascular smooth muscle, causing vasoconstriction</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 <emphasis effect="italics">Starting dose:</emphasis> 1 mg to 2 mg sublingually at the first sign on a migraine and 1 mg additional sublingually every ½ hour, if needed for full relief.<newline count="2"/>
@@ -197,7 +197,7 @@ Also available in suppository form and in tablets with caffeine</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-To treat migraine and vascular headaches<newline/>
+To treat migraine and vascular headaches<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
 Reduces headache symptoms</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
