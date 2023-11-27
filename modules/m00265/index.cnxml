@@ -5,9 +5,325 @@
     <md:content-id>m00265</md:content-id>
     <md:uuid>dc04ae08-5f4c-40b0-ab38-c2a38aa193bb</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the pathophysiology of common intracranial emergencies.</item>
+<item>Identify the clinical manifestations related to common intracranial emergencies.</item>
+<item>Identify the etiology and diagnostic studies related to common intracranial emergencies.</item>
+<item>Identify the characteristics of drugs used to treat common intracranial emergencies.</item>
+<item>Explain the indications, action, adverse reactions, and interactions of drugs used to treat common intracranial emergencies.</item>
+<item>Describe nursing implications of drugs used to treat common intracranial emergencies.</item>
+<item>Explain the client education related to drugs used to treat common intracranial emergencies.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Intracranial Emergency Overview</title>
+<para id="para-00002">In adults, the brain has a constant volume, but the amount of <term id="term-00001">cerebrospinal fluid</term> and blood in the skull changes regularly to control pressure in the brain. Cerebrospinal fluid is produced by the brain and absorbed by the veins in the skull. Normal cerebrospinal fluid pressure varies with age but generally should not exceed 250 mm H<sub>2</sub>O in adults. The skull has a relatively fixed volume of approximately 1,400–1,700 mL, consisting of 80 percent brain parenchyma, 10 percent cerebrospinal fluid, and 10 percent blood. Any increase in the volume of components within the skull or an addition of a pathological element, such as a brain tumor, will result in increased pressure within the skull since the skull’s volume is considered constant.</para>
+<para id="para-00003"><term id="term-00002">Intracranial emergencies</term> encompass a range of sudden and serious medical conditions that affect the brain, its surrounding structures, or blood vessels within the skull (see [link]Figure 12.3[/link]). These conditions can result from a variety of factors including head trauma, bleeding, blockage of blood vessels within the brain, head or sinus infections, brain tumors, or other underlying medical conditions. Early recognition and prompt medical intervention are critical in the management of intracranial emergencies, as delays in treatment can lead to irreversible brain damage or death. This chapter will specifically delve into <term id="term-00003">intracranial hypertension</term> and <term id="term-00004">increased intracranial pressure</term>, providing an in-depth examination of their causes, symptoms, and treatment options.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A drawing of a head showing the brain inside has a close up that shows the layers of tissue that surrounds the brain. Starting with the outermost layer and working in, there is the skin, aponeurosis, periosteum, and bone. Next is the Meniges, which consists of dura mater, arachnoid mater, and pia mater. Between the arachnoid mater and pia mater is subarachnoid space and cerebrospinal fluid, also known as CSF. Below the pia mater is brain tissue.">
+<image mime-type="image/png" src="../../media/PHA_Figure_12_03_003.png"/></media>
+<caption>The layers of tissue surrounding the brain play an important role during intracranial emergencies, especially when there is an elevation in intracranial pressure<emphasis effect="italics">.</emphasis> (credit: modification of work from <emphasis effect="italics">Microbiology.</emphasis> attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<section id="sect-00004">
+<title>Intracranial Hypertension and Increased Intracranial Pressure</title>
+<para id="para-00004">Intracranial hypertension and increased intracranial pressure are related conditions, but they have distinct differences. Intracranial hypertension refers specifically to an elevated pressure within the skull that may or may not cause symptoms. However, increased intracranial pressure refers to a rise in the pressure within the skull that can cause various symptoms, such as headache, nausea, vomiting, visual changes, and altered mental status. Intracranial hypertension can be a cause of increased intracranial pressure, but it is not the only cause. Other factors that can lead to increased intracranial pressure include brain tumors, bleeding within the brain, infections, or trauma. Significantly, prompt recognition and management of increased intracranial pressure are critical to prevent irreversible brain damage and ensure the best possible outcomes for clients (Munakomi &amp; Das, 2023).</para>
+<para id="para-00005">Intracranial pressure is typically measured at the level of the <term id="term-00005">foramen of Monro</term> and is normally between 7 mmHg and 15 mmHg in vertically positioned adults. Intracranial hypertension is a clinical condition that is associated with an elevation of the pressures within the cranium. The cranial vault is measured in millimeters of mercury (mmHg) and is normally less than 20 mmHg (Pinto et al., 2023). Therapy to lower intracranial pressure should be initiated when increased intracranial pressure is greater than 20 mmHg to 25 mmHg (Munakomi &amp; Das, 2023).</para>
+<note class="link-to-learning" id="note-00001">
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/increased"/>
+</media>
+<para id="para-00006">Dr. Mike Todorovic and Dr. Matt Barton, senior lecturers and medical researchers at Griffith University, Australia, present an educational video on increased intracranial pressure.</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Diagnostic Testing</title>
+<para id="para-00007">Intracranial hypertension and increased intracranial pressure can be diagnosed with the following tests:</para>
+<list list-type="bulleted" id="list-00002">
+<item><term class="no-emphasis" id="term-00006">Neurologic assessment</term>: A physical examination of the client’s neurological function can provide information about the presence of increased pressure or fluid within the skull and brain.</item>
+<item><term class="no-emphasis" id="term-00007">Radiologic imaging</term>: CT and MRI are commonly used to evaluate the brain for structural abnormalities that may cause intracranial hypertension or increased intracranial pressure.</item>
+<item><term class="no-emphasis" id="term-00008">Intracranial pressure monitoring:</term> Direct measurement of intracranial pressure can be obtained by inserting a catheter into the skull and connecting it to a pressure transducer. This is the “gold standard” for diagnosing and monitoring increased intracranial pressure.</item>
+<item><term class="no-emphasis" id="term-00009">Transcranial doppler</term>: This is a non-invasive test that uses ultrasound to measure the velocity of blood flow in the brain’s blood vessels. It can be used to assess cerebral blood flow and help diagnose and monitor increased intracranial pressure.</item>
+<item><term class="no-emphasis" id="term-00010">Ophthalmologic examinatio</term>n<emphasis effect="bold">:</emphasis> Increased intracranial pressure can cause swelling of the optic nerve, which can be detected by an ophthalmologist during an eye examination.</item>
+</list>
+<para id="para-00008">The choice of diagnostic test depends on the suspected cause of intracranial hypertension and increased intracranial pressure, the severity of the symptoms, and the availability of resources. A combination of these tests may be necessary to make an accurate diagnosis and to develop an appropriate plan of treatment.</para>
+</section>
+<section id="sect-00006">
+<title>Clinical Manifestations</title>
+<para id="para-00009">Clinical manifestations of intracranial hypertension and increased intracranial pressure can vary depending on the underlying cause and the individual client factors. A thorough evaluation by a health care provider is necessary to accurately diagnose and manage these conditions.</para>
+<para id="para-00010">Clinical manifestations of intracranial hypertension may include:</para>
+<list list-type="bulleted" id="list-00003">
+<item>Headache</item>
+<item>Nausea</item>
+<item>Blurred vision</item>
+<item>Dizziness</item>
+<item>Tinnitus</item>
+</list>
+<para id="para-00011">Confusion or altered mental status</para>
+<para id="para-00012">Clinical manifestations of increased intracranial pressure may include:</para>
+<list list-type="bulleted" id="list-00004">
+<item>Headache</item>
+<item>Seizures</item>
+<item>Papilledema</item>
+<item>Altered mental status, including drowsiness, confusion, or coma</item>
+<item>Changes in vital signs, such as bradycardia (slow heart rate) or hypertension</item>
+</list>
+<para id="para-00013">In severe cases, increased intracranial pressure can lead to <term id="term-00011">brain herniation</term>, a condition in which a portion of the brain is displaced due to increased intracranial pressure, a life-threatening condition. Symptoms of brain herniation can include changes in breathing pattern, dilation of one or both pupils, loss of consciousness, coma, and death.</para>
+<note class="clinical-tip" id="note-00002">
+<title>Nursing Interventions to Lower/Stabilize Increased Intracranial Pressure</title>
+<para id="para-00014">Along with administering drugs to decrease elevated intracranial pressure, the nurse must keep the head of the client’s bed at a 30-degree angle, or as directed by the health care provider, and keep the client’s neck in a neutral position to help stabilize and lower intracranial pressure (Faraj et al, 2022)</para>
+</note>
+</section>
+</section>
+<section id="sect-00007">
+<title>Drugs Used for Intracranial Emergencies</title>
+<para id="para-00015">The health care provider selects drugs to treat intracranial hypertension and increased intracranial pressure based on the underlying cause and severity of the condition. For example, in some cases of <term id="term-00012">cerebral edema</term>, osmotic diuretics or carbonic anhydrase inhibitors (CAIs) may be used to reduce brain swelling and lower intracranial pressure. Non-pharmaceutical treatments—such as radiation or surgery—may also be needed as adjuvant treatment, particularly if there is a mass, tumor, bleeding, or trauma to the brain. The health care provider may also need to monitor the client’s response to treatment and adjust the drug regimen accordingly. Common drugs used to treat issues with intracranial hypertension and increased intracranial pressure include glucocorticoids, hyperosmolar therapy (mannitol and hypertonic saline), barbiturates, sedatives, and antiepileptic drugs (Faraj et al., 2022). This section of the chapter will focus on drugs that are aimed at reducing intracranial pressure and cerebral edema including CAIs and osmotic diuretics.</para>
+<section id="sect-00008">
+<title><term class="no-emphasis" id="term-00013">Carbonic Anhydrase Inhibitors (CAIs)</term></title>
+<para id="para-00016">CAIs are a class of drugs that are commonly used to treat a range of conditions, including intracranial hypertension, altitude sickness, and glaucoma. In managing intracranial emergencies, CAIs work by blocking carbonic anhydrase on the luminal membrane and inside the proximal renal tubule, which results in a reduction in the secretion of bicarbonate ions through the <term id="term-00014">sodium and hydrogen antiporter</term>. This decrease in bicarbonate ion secretion leads to a reduction in cerebrospinal fluid and intracranial pressure, making CAIs an important therapeutic option for managing intracranial hypertension (Aslam &amp; Gupta, 2022).</para>
+<para id="para-00017">Adverse effects of CAIs include changes in taste, fatigue, abdominal pain, nausea, diarrhea, blurred vision, tinnitus, paresthesia, rash, and headache. Serious adverse effects include hypokalemia, metabolic acidosis, aplastic anemia, <term id="term-00015">fulminant hepatic necrosis</term>, and <term id="term-00016">nephrolithiasis</term>. CAIs are contraindicated in clients with hepatic disease, in those with certain electrolytes imbalances—such as hypokalemia and hyponatremia—and in those with hypersensitivity to the drug or its components (Aslam &amp; Gupta, 2022).</para>
+<note class="safety-alert" id="note-00003">
+<title>Aspirin and Acetazolamide</title>
+<para id="para-00018">Caution is advised for client’s receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, and death have been reported.</para>
+</note>
+<para id="para-00019">The most common CAI prescribed for intracranial hypertension is <term class="no-emphasis" id="term-00017">acetazolamide</term> (Farzam &amp; Abdullah, 2022). [link]Table 12.15[/link] is a drug prototype table for CAIs featuring acetazolamide. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+CAI<newline/>
+Diuretic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks carbonic anhydrase on the luminal membrane and inside the proximal renal tubule, decreasing bicarbonate ion secretion thereby reducing cerebrospinal fluid and increased intracranial pressure</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+Recommended dose is 500 mg two times daily (one capsule in the morning and one capsule in the evening); may increase by 250 mg up to 4,000 mg/day</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+To treat idiopathic intracranial hypertension<newline/>
+Also used in the treatment of treat glaucoma, heart failure, altitude sickness, and epilepsy<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Reduces edema</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Ritonavir<newline/>
+Indinavir<newline/>
+Amiodarone<newline/>
+Cyclosporine<newline/>
+Quinidine<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Headaches<newline/>
+Malaise<newline/>
+Fever<newline/>
+Nausea/vomiting<newline/>
+Aplastic anemia<newline/>
+Fulminant hepatic necrosis<newline/>
+Metabolic acidosis<newline/>
+Paresthesia<newline/>
+Nephrolithiasis<newline/>
+Alterations in taste</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline/>
+Hyponatremia<newline/>
+Hypokalemia<newline/>
+Hepatic disease<newline count="2"/>
+Caution:<newline/>
+Monitor closely in clients with hepatic and renal insufficiency, and in those with certain electrolyte imbalances such as hyponatremia and hypokalemia</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype: Acetazolamide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00009">
+<title>Osmotic Diuretics</title>
+<para id="para-00020"><term class="no-emphasis" id="term-00018">Osmotic diuretics</term> are a class of drugs that primarily function by inhibiting the reabsorption of water in the proximal convoluted tubule, the descending loop of Henle, and the collecting duct, all of which are regions of the kidney that are highly permeable to water. In addition to this mechanism, osmotic diuretics also extract water from the intracellular compartments, thereby increasing extracellular fluid volume, which results in a reduction in edema. Adverse effects include dehydration, heart failure due to the shift of free water, hyponatremia, hypokalemia, and hypocalcemia. Osmotic diuretics are contraindicated in clients with anuria due to renal disease, pulmonary edema, severe dehydration, progressive heart failure, and in those with hypersensitivity to the drug or any of its compounds (Tenny et al., 2022). More information on this topic is included in <link document="m00437">Diuretic Drugs</link>.</para>
+<para id="para-00021">Mannitol administration preparation should include inspecting the injection for particulate matter, discoloration, or crystallization before administration and periodically during administration. If particulates, crystallization, or discoloration are present, discard the mannitol solution.</para>
+<para id="para-00022"><term class="no-emphasis" id="term-00019">Mannitol</term> is the most prescribed osmotic diuretic indicated for decreasing cerebral edema. [link]Table 12.16[/link] is a drug prototype table for osmotic diuretics featuring mannitol. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Osmotic Diuretic<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Causes osmosis from intracellular fluid (ICF) to extracellular fluid (ECF) by drawing water out of the brain parenchyma and into the intravascular space</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+The total dosage, concentration, and rate of administration depend on the age, weight, and condition of the client being treated, including fluid requirement, electrolyte balance, serum osmolality, urinary output, and concomitant therapy<newline/>
+Monitor serum osmolarity<newline/>
+<emphasis effect="italics">Reduction of Intracranial Pressure:</emphasis><newline/>
+Usually a maximum reduction in intracranial pressure in adults can be achieved with a dose of 0.25 g/kg/dose infused intravenously over 30 minutes, which may be repeated every six to eight hours<newline/>
+<emphasis effect="italics">Reduction of Intraocular Pressure:</emphasis><newline/>
+The recommended dosage is 1.5–2 g/kg of a 25% solution (7.5 to 10 mL/kg) as a single dose infused intravenously over a period of at least 30 minutes<newline/>
+When used preoperatively, administer one to one and one-half hours before surgery to achieve maximal reduction of intraocular pressure before operation</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+To treat increased intracranial pressure and cerebral edema<newline/>
+To treat increased intraocular pressure<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Reduces intracranial pressure and cerebral edema<newline/>
+Decreased intraocular pressure</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Aminoglycosides<newline/>
+Cyclosporine<newline/>
+Digoxin<newline/>
+Other diuretics<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Acute kidney injury<newline/>
+Dehydration<newline/>
+Headache<newline/>
+Lethargy<newline/>
+Confusion<newline/>
+Metabolic acidosis<newline/>
+Congestive heart failure<newline/>
+Pulmonary edema<newline/>
+Dry mouth<newline/>
+Malaise<newline/>
+Urticaria</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline/>
+Anuria<newline/>
+Severe hypovolemia<newline/>
+Pre-existing pulmonary edema<newline/>
+Active intracranial bleeding except during craniotomy<newline count="2"/>
+Caution:<newline/>
+Monitor closely in clients who have congestive heart failure as this drug may cause volume overload from fluid shift</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Drug Prototype: Mannitol (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00010">
+<title>Nursing Implications</title>
+<para id="para-00023">The nurse should do the following when administering intracranial emergency drugs to clients:</para>
+<list list-type="bulleted" id="list-00005">
+<item>Before administering, assess the client’s medical history, current drug list, and allergies.</item>
+<item>Administer the drug as prescribed by the health care provider.</item>
+<item>Observe and report symptoms of cerebral edema and intracranial hypertension to the health care provider. These symptoms include headache, confusion, dizziness, convulsions, unconsciousness, bradycardia, or failure of the pupils to react to light.</item>
+<item>Monitor laboratory tests to detect for possible complications of these drugs such as metabolic acidosis and electrolyte imbalances as hypo/hypernatremia and hypo/hyperkalemia.</item>
+<item>Monitor intake and output as well as urinary output in response to diuresis.</item>
+<item>Educate the client and their family members/support system about the drug, including its purpose, how to administer it, potential side effects, and when to call the health care provider. See below for additional client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00004">
+<para id="para-00024"><emphasis effect="bold">The client taking an intracranial drug should:</emphasis></para>
+<list list-type="bulleted" id="list-00006">
+<item>Keep a journal of symptoms and note improved or worsening symptoms.</item>
+<item>Be aware of signs of decreased intracranial pressure and cerebral edema, such as decreased confusion, improved coordination, decreased blood pressure, and increased urine output.</item>
+<item>Report symptoms of fluid retention including swelling in legs and feet, weight gain, and shortness of breath to their health care provider as these may represent an adverse reaction to the drug.</item>
+<item>Store out of reach children.</item>
+<item>Keep follow up appointments with the health care provider.</item>
+</list>
+<para id="para-00025"><emphasis effect="bold">The client taking an intracranial drug <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+<list list-type="bulleted" id="list-00007">
+<item>Stop taking the drug unless directed by their health care provider, as this drug class may cause fluid shifts within the body resulting in shortness of breath, peripheral edema, and bradycardia.</item>
+</list>
+</note>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00011">
+<title>Chapter Summary</title>
+<para id="para-00026">This chapter provided an overview of epilepsy, migraine headaches, and intracranial emergencies. A brief pathophysiology was provided, as well as discussion on etiology, diagnostic testing, and clinical manifestations for each of the conditions.</para>
+<para id="para-00027">Anticonvulsant drugs and drugs used to treat epilepsy were discussed. Common classifications of these drugs include hydantoins, barbiturates, succinates, benzodiazepines, iminostilbene, and valproates. An overview of nursing implications and client education was provided.</para>
+<para id="para-00028">Drugs used to treat migraine headaches were briefly presented. Drug cases discussed included triptans, ergot alkaloids, selective serotonin receptor agonists, and CGRP receptor antagonists. Consideration was given to nursing implications and client education.</para>
+<para id="para-00029">Additionally, drugs used in the treatment of intracranial hypertension and increased intracranial pressure during intracranial emergencies were presented, including CAIs and osmotic diuretics. Special consideration is given to nursing implications and client education for this drug classifications.</para>
+</section>
+<section class="review-questions" id="sect-00012">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec03_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00031"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00032"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00033"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec01_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00034"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec01_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00035"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec01_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00036"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00037"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec03_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00038"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch12_Sec01_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00013">
+<title>References</title>
+<para id="para-00040">American Migraine Foundation. (2023). https://americanmigrainefoundation.org/resource-library/what-is-migraine/#:~:text=We%20are%20a%20nonprofit%20organization,million%20Americans%20living%20with%20migraine.</para>
+<para id="para-00041">Aslam, S., &amp; Gupta, V. (2022, April 25). <emphasis effect="italics">Carbonic anhydrase inhibitors</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557736/</para>
+<para id="para-00042">Berger, A. A., Winnick, A., Popovsky, D., Kaneb, A., Berardino, K., Kaye, A. M., Cornett, E. M., Kaye, A. D., Viswanath, O., &amp; Urits, I. (2020). Lasmiditan for the treatment of migraines with or without aura in adults. <emphasis effect="italics">Psychopharmacology Bulletin</emphasis>, <emphasis effect="italics">50</emphasis>(4 Suppl 1), 163–188. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7901123/#:~:text=Lasmiditan%20(COL%2D144%2FLY573144,the%205%2DHT1F%20receptor.&amp;text=It%20is%20a%20centrally%20and,used%20to%20treat%20acute%20migraine.&amp;text=Lasmiditan%20is%20administered%20orally%20in%2050%20mg%20and%20100%20mg%20tablets.</para>
+<para id="para-00043">Centers for Disease Control and Prevention. (2020a) Epilepsy fast facts. https://www.cdc.gov/epilepsy/about/fast-facts.htm#:~:text=Active%20Epilepsy&amp;text=This%20is%20about%203.4%20million,million%20adults%20and%20470%2C000%20children.</para>
+<para id="para-00044">Centers for Disease Control and Prevention. (2020b). <emphasis effect="italics">Frequently asked questions about epilepsy</emphasis>. https://www.cdc.gov/epilepsy/about/faq.htm</para>
+<para id="para-00045">Centers for Disease Control and Prevention. (2020c). <emphasis effect="italics">Types of seizures</emphasis>. https://www.cdc.gov/epilepsy/about/types-of-seizures.htm</para>
+<para id="para-00046">DailyMed. (Updated February 27, 2023). <emphasis effect="italics">Acetazolamide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9a368b35-cd51-47ad-83cc-ccc56c4585e8</para>
+<para id="para-00047">DailyMed. (Updated May 15, 2023). <emphasis effect="italics">Carbamazepine capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7a1e523a-b377-43dc-b231-7591c4c888ea</para>
+<para id="para-00048">DailyMed. (Updated June 3, 2023). <emphasis effect="italics">Clonazepam tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebc11109-e7bf-452d-b675-4b3236d54164</para>
+<para id="para-00049">DailyMed. (Updated August 24, 2023). <emphasis effect="italics">Clorazepate dipotassium tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a4b80e69-b7c7-471a-8ce8-4e992808c669</para>
+<para id="para-00050">DailyMed. (Updated April 4, 2023). <emphasis effect="italics">Diazepam tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c397a9da-862f-4f3f-8109-7d21691de53a</para>
+<para id="para-00051">DailyMed. (Updated April 07, 2023). <emphasis effect="italics">Diazepam injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f466f8a3-f31c-44f4-b0e8-444464f20f66</para>
+<para id="para-00052">DailyMed. (Updated November 22, 2021). <emphasis effect="italics">Eletriptan hydrobromide tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a65315d7-a30a-4c1f-95a9-30226e559c3d</para>
+<para id="para-00053">DailyMed. (Updated December 21, 2021). <emphasis effect="italics">Ergotamine tartrate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=41f88ae7-c124-5b9c-e054-00144ff88e88</para>
+<para id="para-00054">DailyMed. (Updated October 04, 2022). <emphasis effect="italics">Ethosuximide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=85c50760-98cc-4888-b27f-146937acc893</para>
+<para id="para-00055">DailyMed. (Updated 2022 March 01, 2022). <emphasis effect="italics">Extended phenytoin sodium capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b17816d-5b7f-4e4b-9471-30c93822afe8</para>
+<para id="para-00056">DailyMed. (Updated January 21, 2023). <emphasis effect="italics">Gabapentin capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7538e255-95df-4991-aae0-a90d709f1e95</para>
+<para id="para-00057">DailyMed. (Updated April 03, 2023). <emphasis effect="italics">Keppra tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ca9df05-a506-4ec8-a4fe-320f1219ab21</para>
+<para id="para-00058">DailyMed. (Updated February 27, 2023). <emphasis effect="italics">Lacosamide injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec1c5ddb-1143-7e6a-e053-2995a90a8382</para>
+<para id="para-00059">DailyMed. (Updated April 30, 2021). <emphasis effect="italics">Lamotrigene tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb59c76a-9b6f-40ea-ac3a-58c3195c4377</para>
+<para id="para-00060">DailyMed. (Updated September 12, 2022). <emphasis effect="italics">Lorazepam injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5b17cde-a94c-4105-871c-54e7d2bd47e8</para>
+<para id="para-00061">DailyMed. (Updated December 30, 2022). <emphasis effect="italics">Lorazepam tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4fae1607-69d7-47ce-9b78-7474af50036d</para>
+<para id="para-00062">DailyMed. (Updated August 15, 2023). <emphasis effect="italics">Mannitol injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d12cc802-b538-4065-a264-f474ff3b3043</para>
+<para id="para-00063">DailyMed. (Updated November 22, 2022). <emphasis effect="italics">Phenobarbital elixir.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e34926f-e5e5-41da-836a-c854b00d1a20</para>
+<para id="para-00064">DailyMed. (Updated March 17, 2023). <emphasis effect="italics">Phenobarbital sodium injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b42d35de-a07a-4db5-998d-d4dbb92342cf</para>
+<para id="para-00065">DailyMed. (Updated September 14, 2022). <emphasis effect="italics">Phenobarbital tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa83619c-81b9-4e69-b36e-46e396bb7286</para>
+<para id="para-00066">DailyMed. (Updated September 15, 2022). <emphasis effect="italics">Reyvow tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aea3358c-ff41-4490-9e6d-c7bf7b3de13f</para>
+<para id="para-00067">DailyMed. (Updated April 20, 2023). <emphasis effect="italics">NURTEC ODT-rimegepant sulfate tablet, orally disintegrating.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d</para>
+<para id="para-00068">DailyMed. (Updated August 02, 2022). <emphasis effect="italics">Rizatriptan benzoate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=53e7e016-1175-45af-a6b7-d44e3d0f92e4</para>
+<para id="para-00069">DailyMed. (Updated December 10, 2020). <emphasis effect="italics">Sumatriptan tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac80d018-6abf-2e41-ddea-90b4ff9e9013</para>
+<para id="para-00070">DailyMed. (Updated January 21, 2022). <emphasis effect="italics">Topiramate capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1f5f940c-d5b9-4d09-958d-246931e167af</para>
+<para id="para-00071">DailyMed. (Updated June 02, 2022). <emphasis effect="italics">Valproic acid capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dcce9cbd-ab6d-4ddf-b638-74e336ebc3d8</para>
+<para id="para-00072">DailyMed. (Updated November 22, 2021). <emphasis effect="italics">Zolmitriptan tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5c5cb44-7581-4856-8324-13c02a6101dd</para>
+<para id="para-00073">DailyMed. (Updated April 27, 2023). <emphasis effect="italics">Zonisamide capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab0631ca-5339-4570-bc27-f1dd92de1d6f</para>
+<para id="para-00074">Faraj, C.A., Snyder, R.I., &amp; McCutcheon, I.E. (2022). Intracranial emergencies in neurosurgical oncology: pathophysiology and clinical management. <emphasis effect="italics">Emergency Cancer Care 1</emphasis>, 13. https://doi.org/10.1186/s44201-022-00013-6</para>
+<para id="para-00075">Farzam, K., &amp; Abdullah, M. (2022, December 27). <emphasis effect="italics">Acetazolamide</emphasis>. StatPearls. https://www.ncbi.nlm.nih/books/NBK532282/</para>
+<para id="para-00076">Ghiasi, N., Bhansali, R. K., &amp; Marwaha, R. (2023). <emphasis effect="italics">Lorazepam</emphasis>. StatPearls. https://www.ncbi.nl.nih.gov/books/NBK532890/</para>
+<para id="para-00077">Gupta, M., &amp; Tripp, J. (2022, July 11). <emphasis effect="italics">Phenytoin</emphasis>. StatPearls. https://www/ncbi.nlm.nih.gov/books/NBK55120</para>
+<para id="para-00078">Hanrahan, B., &amp; Carson, R. P. (2022, November 28). <emphasis effect="italics">Ethosuximide</emphasis>. StatPearls. https://www.ncbi/nlm.nih.gov/books/NBK544244</para>
+<para id="para-00079">Jahan, A.R., &amp; Burgess, D. M. (2022, June 13). <emphasis effect="italics">Substance use disorder.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK570642</para>
+<para id="para-00080">Magheru, C., Magheru, S., Coltau, M., Hoza, A., Moldovan, C., Sachelarie, L., Gradinaru, I., Hurjui, L. L., Marc, F., &amp; Farcas, D. M. (2022). Antiepileptic drugs and their dual mechanism of action on carbonic anhydrase. <emphasis effect="italics">Journal of Clinical Medicine</emphasis>, <emphasis effect="italics">11</emphasis>(9), 2614. https://doi.org/10.3390/jcm11092614</para>
+<para id="para-00081">Munakomi, S., &amp; Das, J.M. (2023, February 12). <emphasis effect="italics">Intracranial pressure monitoring.</emphasis> StatPearls. https://www.ncbi/nlm.nih.gov/books/NBK542298</para>
+<para id="para-00082">Nicholas, S., &amp; Nicholas, D. (2023, March 7). <emphasis effect="italics">Triptans</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554507/</para>
+<para id="para-00083">National Institutes of Health, National Institute of Neurological Disorders and Stroke (2023). <emphasis effect="italics">Migraine</emphasis>. https://www.ninds.nih.gov/health-information/disorders/migraine</para>
+<para id="para-00084">Pinto, V. L., Tadi, P., &amp; Adeyinka, A. <emphasis effect="italics">Increased intracranial pressure</emphasis>. [Updated 2022 Aug 1]. StatPearls.</para>
+<para id="para-00085">Rahman, M., &amp; Nguyen, H. (2022). <emphasis effect="italics">Valproic acid</emphasis>. StatPearls. https://www.ncbi/nlm/nih.gov/books/NBK559112/</para>
+<para id="para-00086">Rashid, A., &amp; Manghi, A. (2022, July 12). <emphasis effect="italics">Calcitonin gene related peptide receptor</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK560648/</para>
+<para id="para-00087">Skibiski, J., &amp; Abdijadid, S. (2022, December 31). <emphasis effect="italics">Barbiturates</emphasis>. StatPearls. https://www.ncbi/nlm.nih.gov/books/NBK539731/</para>
+<para id="para-00088">Tenny, S., Patel, R., &amp; Thorell, W. (2022, November 14). <emphasis effect="italics">Mannitol</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBL470392/</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>brain herniation</term> <meaning>a life-threatening condition in which a portion of the brain is displaced due to increased intracranial pressure</meaning></definition>
+<definition id="def-00002"><term>cerebral edema</term> <meaning>swelling of the brain</meaning></definition>
+<definition id="def-00003"><term>cerebrospinal fluid</term> <meaning>a clear, colorless, watery fluid that flows in and around the brain and spinal cord</meaning></definition>
+<definition id="def-00004"><term>foramen of Monro</term> <meaning>a short communication channel between the paired lateral ventricles and the third ventricle of the brain</meaning></definition>
+<definition id="def-00005"><term>fulminant hepatic necrosis</term> <meaning>terminology for acute liver failure</meaning></definition>
+<definition id="def-00006"><term>intracranial emergencies</term> <meaning>a range of sudden and serious medical conditions that affect the brain, its surrounding structures, or blood vessels within the skull</meaning></definition>
+<definition id="def-00007"><term>intracranial hypertension</term> <meaning>an elevated pressure within the skull which may or may not cause symptoms</meaning></definition>
+<definition id="def-00008"><term>increased intracranial pressure</term> <meaning>a rise in the pressure within the skull that can cause various symptoms, such as headache, nausea, vomiting, visual changes, and altered mental status</meaning></definition>
+<definition id="def-00009"><term>intracranial pressure monitoring</term> <meaning>direct measurement of intracranial pressure by inserting a catheter into the skull and connecting it to a pressure transducer</meaning></definition>
+<definition id="def-00010"><term>nephrolithiasis</term> <meaning>hard deposits of mineral and salts that form inside the kidney or urinary tract, also known as renal calculi or kidney stones</meaning></definition>
+<definition id="def-00011"><term>sodium and hydrogen antiporter</term> <meaning>a membrane protein that transports sodium into the cell and hydrogen out of the cell</meaning></definition>
+</glossary>
 </document>
