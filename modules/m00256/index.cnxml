@@ -5,9 +5,231 @@
     <md:content-id>m00256</md:content-id>
     <md:uuid>98b27d32-fec2-4525-b14f-105e637c4125</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Describe the main neurotransmitters and their functions.</item>
+<item>Define characteristics of drugs to treat nervous system disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Neurotransmitters</title>
+<para id="para-00002">Neurotransmitters play a crucial role in the communication between neurons in the nervous system. Neurotransmitters are chemical messengers that transmit signals across the chemical <term id="term-00001">synapse</term>s, enabling various functions and processes in the body, including signaling to release neurotransmitter molecules. Synapses are composed of three components: the presynaptic terminal, the post-synaptic terminal, and the synaptic cleft. Synaptic vesicles, containing neurotransmitter molecules, are located on the presynaptic terminal at the end neuron’s axon. Subsequently, the postsynaptic terminal uses specialized protein receptors to bind to these neurotransmitters. Neurotransmitters result in an action, inaction, or inhibition of a neuron (see [link]Figure 9.6 [/link]). When neurotransmitter levels are imbalanced or disrupted, it can lead to pathological conditions and disorders.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram of a synapse shows its three components. A narrow tube-like structure at the top is the presynaptic neuron. This contains the axon terminal, which is narrow at the top but gets wider at the bottom. The axon terminal contains neurotransmitters and synaptic vesicles. The synaptic cleft separates the presynaptic neuron from the postsynaptic neuron. The synaptic cleft also contains neurotransmitters. The top part of the postsynaptic neuron is lined with ligand-gated channels with receptors for neurotransmitters.">
+<image mime-type="image/png" src="../../media/PHA_Figure_09_03_006.png"/></media>
+<caption>The synapse is the space between the axon of one neuron and the dendrite of another. The three components of the synapse are the presynaptic and post-synaptic terminals and the synaptic cleft. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<para id="para-00003">It is important to note that neurotransmitter imbalances are just one aspect of the complex mechanisms underpinning pathological conditions. Many disorders involve a combination of genetic, environmental, and neurochemical factors. Diagnosis and treatment of these conditions often require a comprehensive approach involving various therapies and medications targeting specific neurotransmitter systems.</para>
+<para id="para-00004">The main neurotransmitters of the nervous system, function, and potential pathology are shown in [link]Table 9.1 [/link]. (The items in the “Potential Pathology” column are provided as examples, not as an exhaustive list.)</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Neurotransmitter</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry> 
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Potential Pathology</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center"><term id="term-00002">Acetylcholine</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00002">
+<item>sleep</item>
+<item>arousal</item>
+<item>pain</item>
+<item>muscle contractions</item>
+<item>movement</item>
+<item>memory</item></list></entry>
+<entry valign="top" align="left">Low levels of acetylcholine have been noted in Alzheimer’s disease and myasthenia gravis.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Norepinephrine</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00003">
+<item>mood</item>
+<item>cognition</item>
+<item>perception</item>
+<item>locomotion</item>
+<item>cardiovascular function</item>
+<item>sleep</item>
+<item>arousal</item></list></entry>
+<entry valign="top" align="left">Imbalances in norepinephrine levels have been associated with various disorders, including attention deficit hyperactivity disorder (ADHD) and mood disorders.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Dopamine</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00004">
+<item>movement</item>
+<item>coordination</item>
+<item>emotions</item>
+<item>voluntary judgment</item>
+<item>prolactin release</item>
+<item>reward</item>
+<item>pleasure</item></list></entry>
+<entry valign="top" align="left">Imbalanced levels of dopamine have been associated with psychiatric and neurological disorders, including schizophrenia, depression, and Parkinson’s disease.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Serotonin</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00005">
+<item>sleep</item>
+<item>arousal/libido</item>
+<item>appetite</item>
+<item>mood</item>
+<item>aggression</item>
+<item>pain</item>
+<item>coordination</item>
+<item>judgment</item></list></entry>
+<entry valign="top" align="left">Serotonin pathology is typically associated with depression, but is also associated with bowel motility, bladder control, and cardiovascular function.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Histamine</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00006">
+<item>wakefulness</item>
+<item>pain</item>
+<item>inflammatory response</item></list></entry>
+<entry valign="top" align="left">Histamine plays a role in asthma, bronchospasm, and mucosal edema, as well as multiple sclerosis.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Gamma-amino-butyric acid (GABA)</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00007">
+<item>decreased neuron activity</item>
+<item>decreased body activity</item></list></entry>
+<entry valign="top" align="left">GABA, considered primarily an inhibitory neurotransmitter, has been implicated in anxiety disorders, epilepsy, and sleep disorders.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Glutamate</term></entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00008">
+<item>sensory information relay</item>
+<item>various motor and spinal reflexes regulation</item>
+<item>memory and learning</item></list></entry>
+<entry valign="top" align="left">Glutamate is the primary excitatory neurotransmitter; it is dysfunction has been related to Alzheimer’s disease and Parkinson’s disease.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Neurotransmitters and Pathology (source: adapted from Sam &amp; Bordoni, 2023, Sheffler, et al., 2023)</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>Nervous System Drug Properties</title>
+<para id="para-00005">The primary neurotransmitters of the PNS are <term class="no-emphasis" id="term-00009">acetylcholine</term>, <term class="no-emphasis" id="term-00010">norepinephrine</term>, and <term class="no-emphasis" id="term-00011">epinephrine</term>.</para>
+<para id="para-00006">Nerves that release acetylcholine are called <term class="no-emphasis" id="term-00012">cholinergic nerves</term>. Nicotinic receptors and muscarinic receptors are the two subtypes of cholinergic receptors. Cholinergic receptor activation results in tachycardia, hypertension, increased tone, and motility of the digestive tract. Drugs that increase or stimulate the release of acetylcholine are known as <term id="term-00013">parasympathomimetic</term> due to their mimicking of the parasympathetic nervous system. Drugs that block acetylcholine are known as anticholinergic, cholinergic-blocking, or parasympatholytic and result in inhibition of the parasympathetic nervous system and sympathetic nervous system induction.</para>
+<para id="para-00007">Adrenergic receptors mediate the response to epinephrine (adrenaline) and norepinephrine. The subtypes of <term class="no-emphasis" id="term-00014">adrenergic receptors</term> are the <term class="no-emphasis" id="term-00015">alpha receptors</term> (alpha1 and alpha2) and <term class="no-emphasis" id="term-00016">beta receptors</term> (beta1, beta2, and beta3). Adrenergic drugs, also referred to as <term id="term-00017">sympathomimetics</term>, mimic the sympathetic nervous system response. Adrenergic antagonists block adrenergic receptors and reduce the effects of norepinephrine. Some drugs may target the activation of one receptor or activate multiple receptors. See [link]Table 9.2[/link] for an overview of autonomic receptors and subsequent responses.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Primary Neurotransmitter</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Receptor</span></emphasis></entry> 
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Response</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" morerows="4" align="left"><term class="no-emphasis" id="term-00018">Norepinephrine</term></entry>
+<entry valign="top" align="left">Alpha1</entry>
+<entry valign="top" align="left">Mydriasis (pupil dilation), smooth muscle contraction</entry>
+</row>
+<row>
+<entry valign="top" align="left">Alpha2</entry>
+<entry valign="top" align="left">Inhibited norepinephrine release</entry>
+</row>
+<row>
+<entry valign="top" align="left">Beta1</entry>
+<entry valign="top" align="left">Increased heart rate, increased heart contraction force, renin release</entry>
+</row>
+<row>
+<entry valign="top" align="left">Beta2</entry>
+<entry valign="top" align="left">Smooth muscle inhibition</entry>
+</row>
+<row>
+<entry valign="top" align="left">Beta3</entry>
+<entry valign="top" align="left">Increased lipolysis</entry>
+</row>
+<row>
+<entry valign="top" align="left" morerows="1"><term class="no-emphasis" id="term-00019">Acetylcholine</term></entry>
+<entry valign="top" align="left">Nicotinic</entry>
+<entry valign="top" align="left">Stimulates smooth muscle and gland secretions</entry>
+</row>
+<row>
+<entry valign="top" align="left">Muscarinic</entry>
+<entry valign="top" align="left">Decreased heart rate and heart contraction force</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Autonomic Receptors and Anticipated Actions (source: adapted from information in Alhayek &amp; Preuss, 2023; Carlson &amp; Kraus, 2023; Farzam et al, 2023; Waxenbaum et al., 2023)</caption>
+</table>
+<section id="sect-00005">
+<title>Autonomic Nervous System Stimulant and Blocker Characteristics</title>
+<para id="para-00008">Any pathological process that causes a disruption in the homeostasis between the SNS and the PNS may cause one of these branches to become overexcited while causing the other system to be extremely inhibited (Clar, &amp; Sharma, 2023). A wide range of symptoms may occur due to this disruption in homeostasis, and medications may be used to restore homeostasis. There are four groups of medications that are used to restore homeostasis between the SNS and PNS, and they are classified on how they affect the ANS (Clar &amp; Sharma, 2023):</para>
+<list list-type="enumerated" number-style="arabic" id="list-00009">
+<item>Cholinomimetics/cholinesterase antagonists include medications that are used in the treatment of urinary retention, glaucoma, smoking cessation, the diagnosis and treatment of myasthenia gravis, and the treatment of Alzheimer’s disease.</item>
+<item>Anticholinergics can be used in the treatment of bradycardias, bronchospasm, postoperative nausea and vomiting, bladder spasms and diarrhea.</item>
+<item>Adrenoreceptor agonists/sympathomimetics include medications that are indicated for the treatment of hypertension, asthma (bronchodilators), and Parkinson’s disease. The drugs dobutamine, phenylephrine and epinephrine are also in this category; they are used to treat hypotension, heart failure, cardiogenic shock, and anaphylaxis.</item>
+<item>Adrenoreceptor antagonists are indicated in the treatment of urinary retention (in benign prostatic hyperplasia), hypertension, dysrhythmias, angina, heart failure, and migraine prophylaxis.</item>
+</list>
+<para id="para-00009">It is important to remember that the four categories just discussed act as either an agonist or an antagonist for the receptors mentioned in [link]Table 9.2[/link].</para>
+</section>
+<section id="sect-00006">
+<title>Sympathetic Nervous System Stimulant and Blocker Characteristics</title>
+<para id="para-00010">Medications that are classified as stimulants cover a wide range of drugs that increase the activity of the central nervous system (Farzam et al., 2023). Some of the medications in this category treat attention deficit hyperactivity disorder, narcolepsy, asthma, obesity, sinus congestions, and hypotension. Drugs in this category range from caffeine to amphetamines and from legal to illegal.</para>
+<para id="para-00011">Since the sympathetic nervous system plays a rather large role in the regulation of the circulatory system and in the regulation of blood pressure, many medications that act to block the sympathetic nervous system reduce blood pressure (see <link document="m00313"><emphasis effect="bold">Antihypertensive and Antianginal Drugs</emphasis></link>). Some of these drugs work by affecting the central nervous system and others work at peripheral neuromuscular sites.</para>
+</section>
+<section id="sect-00007">
+<title>Parasympathetic Nervous System Stimulant and Blocker Characteristics</title>
+<para id="para-00012">As mentioned earlier in this section, parasympathomimetic drugs mimic the physiologic effects of the parasympathetic nervous system by acting as the muscarinic acetylcholine receptors. Bethanechol, which treats urinary retention, carbachol, and is used in the treatment of open-angle glaucoma, and pilocarpine, which treats both open- and closed-angle glaucoma, are examples of direct-acting parasympathomimetic drugs. There are other indirect-acting parasympathomimetic drugs that cause an increase in the synaptic concentration of acetylcholine, which result in the extended stimulation of cholinergic receptors throughout both the central and PNS (Patel &amp; Dewaswala, 2023).</para>
+</section>
+</section>
+</section>
+<section class="chapter-summary" id="sect-00008">
+<para id="para-00013">This chapter provided an overview of the nervous system. The nervous system is divided into two main parts: the central nervous system and the peripheral nervous system. The central nervous system consists of the brain and spinal cord. The peripheral nervous system consists of the autonomic nervous system and the somatic nervous system. The autonomic nervous system is further divided into the sympathetic nervous system (i.e., the fight or flight system) and the parasympathetic nervous system (i.e., the rest and digest system).</para>
+<para id="para-00014">Neurons are the fundamental units of the nervous system. Neurons send electrical signals to other neurons via chemical messengers, known as neurotransmitters. The primary neurotransmitters of the nervous system are acetylcholine, norepinephrine, dopamine, serotonin, histamine, gamma-amino-butyric acid (GABA), and glutamate. Acetylcholine, epinephrine, and norepinephrine are the fundamental neurotransmitters within the autonomic nervous system. Drugs that stimulate acetylcholine (cholinergic medications) are known as parasympathomimetic. Drugs that block acetylcholine (anticholinergic) result in sympathetic stimulation. Drugs that stimulate the sympathetic nervous system are adrenergic receptor agonists or sympathomimetic.</para>
+</section>
+<section class="review-questions" id="sect-00009">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00015"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00016"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec02_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00019"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00020"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec02_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00021"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec03_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00022"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec03_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch09_Sec03_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00010">
+<title>References</title>
+<para id="para-00025">Alhayek, S., &amp; Preuss, C. V. (2023) <emphasis effect="italics">Beta 1 receptors</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK532904/</para>
+<para id="para-00026">Carlson, A. B., &amp; Kraus, G. P. (2023). <emphasis effect="italics">Physiology, cholinergic receptors.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK526134/</para>
+<para id="para-00027">Centers for Disease Control and Prevention [CDC]. (2023). <emphasis effect="italics">National neurological conditions surveillance system (NNCSS)</emphasis>. https://www.cdc.gov/surveillance/neurology/index.html</para>
+<para id="para-00028">Chen I., &amp; Lui, F. (2023). <emphasis effect="italics">Neuroanatomy, neuron action potential.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK546639/</para>
+<para id="para-00029">Clar, D. T., &amp; Sharma, S. (2023). <emphasis effect="italics">Autonomic pharmacology.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK538180/</para>
+<para id="para-00030">Farzam K., Faizy R. M., &amp; Saadabadi, A. (2023). <emphasis effect="italics">Stimulants.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539896/</para>
+<para id="para-00031">Farzam, K., Kidron, A., &amp; Lakhkar, A. D. (2023). <emphasis effect="italics">Adrenergic drugs.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534230/</para>
+<para id="para-00032">National Institute of Neurological Disorders and Stroke. (2023). <emphasis effect="italics">Brain basics: know your brain.</emphasis> https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain</para>
+<para id="para-00033">Office of Disease Prevention and Health Promotion. (2021). <emphasis effect="italics">Browse objectives</emphasis>. Healthy People 2030. https://health.gov/healthypeople/objectives-and-data/browse-objectives</para>
+<para id="para-00034">Pan American Health Organization [PAHO]. (2021). <emphasis effect="italics">Burden of neurological conditions.</emphasis> https://www.paho.org/en/enlace/burden-neurological-conditions</para>
+<para id="para-00035">Patel N. M., &amp; Dewaswala N. (2023). <emphasis effect="italics">Parasympathomimetic medications</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554534/</para>
+<para id="para-00036">Sam, C. &amp; Bordoni, B. (2023). <emphasis effect="italics">Physiology, acetylcholine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557825/</para>
+<para id="para-00037">Sargsyan, A. (2020). <emphasis effect="italics">Essential notes on pathophysiology for advanced practice nurses</emphasis>. East Tennessee State University. https://dc.etsu.edu/etsu-oer/3</para>
+<para id="para-00038">Shahrokhi, M., &amp; Asuncion, R.,M.,D. (2023). <emphasis effect="italics">Neurologic exam.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557589/</para>
+<para id="para-00039">Sheffler, Z. M., Reddy, V., &amp; Pillarisetty, L. S. (2023). <emphasis effect="italics">Physiology, neurotransmitters.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539894/</para>
+<para id="para-00040">U.S. Department of Health and Human Services. (2023). <emphasis effect="italics">National neurological conditions surveillance system (NNCSS).</emphasis></para>
+<para id="para-00041">Waxenbaum, J. A., Reddy, V., &amp; Varacallo, M. (2023). <emphasis effect="italics">Anatomy, autonomic nervous system.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539845/</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>synapse</term> <meaning>the space between two neurons</meaning></definition>
+<definition id="def-00002"><term>parasympathomimetic</term> <meaning>drugs that stimulate or mimic the parasympathetic nervous system (rest and digest)</meaning></definition>
+<definition id="def-00003"><term>sympathomimetics</term> <meaning>drugs that stimulate or mimic the sympathetic nervous system (fight or flight)</meaning></definition>
+</glossary>
 </document>

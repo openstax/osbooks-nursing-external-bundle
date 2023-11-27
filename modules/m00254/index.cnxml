@@ -5,9 +5,34 @@
     <md:content-id>m00254</md:content-id>
     <md:uuid>c452abf9-90e2-482a-b766-7a6c880037f2</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Define the nervous system.</item>
+<item>Identify the purpose of the nervous system and how it affects the body.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>The Nervous System</title>
+<para id="para-00002">The <term id="term-00001">nervous system</term> is composed of the central nervous system (CNS) (i.e., the brain and the spinal cord) and the peripheral nervous system (PNS) (i.e., the nerves that extend from the spinal cord to the body). The PNS is subdivided into the somatic nervous system and the autonomic nervous system. Together the CNS and PNS communicate with each other, the organs, and the body to promote <term id="term-00002">homeostasis</term> <emphasis effect="bold">(</emphasis>see [link]Figure 9.2 [/link]<emphasis effect="bold">)</emphasis>.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A diagram of the human body shows the Central nervous system (CNS) and the Peripheral nervous system (PNS). The Central nervous system consists of the brain and the spinal cord, which starts at the base of the brain and continues down the torso. The Peripheral nervous system consists of ganglion and nerves, which branch out from the spinal cord throughout the entire body.">
+<image mime-type="image/png" src="../../media/PHA_Figure_09_01_002.png"/></media>
+<caption>The central nervous system (CNS) contains the brain and spinal cord. The peripheral nervous system (PNS) is composed of the nerves that branch out from the brain and spinal cord and serve as the communication between the CNS and the body. The peripheral nervous system is subdivided into the somatic nervous system and the autonomic nervous system. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+</section>
+<section id="sect-00004">
+<title>The Nervous System and the Human Body</title>
+<para id="para-00003">The nervous system serves as the communication and control system for the human body. This control system, which is essentially composed of all of the nerve cells in the body, regulates everything that we remember, think, and say. It also controls movement and sensation as well as the autonomic responses of breathing, blood pressure, and digestion. It has the unique ability to interact with the environment as well as regulate the activities of the body’s internal organs. Essentially, the nervous system propels the other systems of the body; no other system can function without input from the nervous system. It does so by its composition of structures that transmit electrical and chemical signals between the organs, tissues, and brain.</para>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>homeostasis</term> <meaning>maintenance of equilibrium and stability necessary for human life</meaning></definition>
+<definition id="def-00002"><term>nervous system</term> <meaning>system that includes the brain and spinal cord (the central nervous system) and an intricate network of nerves (the peripheral nervous system)</meaning></definition>
+</glossary>
 </document>
