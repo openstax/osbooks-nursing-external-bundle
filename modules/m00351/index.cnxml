@@ -71,7 +71,7 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">The CDC’s Six Guiding Principles to Address the Overdose Crisis</emphasis></span></entry>
@@ -106,7 +106,7 @@
     </entry>
     </row>
     <row>
-    <entry valign="top" align="center">6. Drive Innovation</entry>
+    <entry valign="top" align="left">6. Drive Innovation</entry>
     <entry valign="top" align="left">Promote the generation, implementation, evaluation, and widespread adoption of new and innovative ideas to address the overdose crisis in all areas of its work.</entry>
     </row>
     </tbody>
