@@ -6,8 +6,11 @@
     <md:uuid>3868fc8d-b135-4673-8d30-9ad5f1b57b11</md:uuid>
   </metadata>
   <content class="introduction">
-<section id="sect-00001">
-  <para id="para-00001">placeholder text</para>
-</section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="Different pills in a pile. There are round, oval, and capsule shaped pills in different sizes and colors.">
+    <image mime-type="image/jpeg" src="../../media/PHA_Unit01_01_03_001_Splash.jpg"/></media>
+    <caption>Pharmacology is the study of the biological effects of drugs on the body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00001">This book aims to provide a fundamental understanding of the pharmacological use of drugs that the nurse needs to provide safe and effective care to the client. It is vital to comprehend not only the mechanisms by which drugs impact the human body but also how a client’s physiological factors influence drug responses. Along with a discussion of each body system, this text will also review the pathophysiology of various disease processes and medications used in treatment. The field of medicine is constantly changing, and the nurse must stay vigilant about keeping up to date with new drugs and research in disease process. For the nurse, education is a lifelong process.</para>
+    </content>
 </document>

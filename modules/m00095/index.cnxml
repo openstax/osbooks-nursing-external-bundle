@@ -6,176 +6,83 @@
     <md:uuid>417e7e99-045e-4fd1-8771-6347c3601c08</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <title>Table</title>
-      <table id="table-00001">
-        <title/>
-        <tgroup cols="4">
-        <thead>
-        <row>
-        <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
-        <entry><span class="blue-text"><emphasis>Systolic (mm Hg)</emphasis></span></entry>
-        <entry/>
-        <entry><span class="blue-text"><emphasis>Diastolic (mm Hg)</emphasis></span></entry>
-        </row>
-        </thead>
-        <tbody>
-        <row>
-        <entry>Normal</entry>
-        <entry>&lt; 120</entry>
-        <entry>and</entry>
-        <entry>&lt; 80</entry>
-        </row>
-        <row>
-        <entry>Elevated</entry>
-        <entry>120–129</entry>
-        <entry>and</entry>
-        <entry>&lt; 80</entry>
-        </row>
-        <row>
-        <entry>Stage 1 Hypertension</entry>
-        <entry>130–139</entry>
-        <entry>or</entry>
-        <entry>80–89</entry>
-        </row>
-        <row>
-        <entry>Stage 2 Hypertension</entry>
-        <entry>140–180 </entry>
-        <entry>or</entry>
-        <entry>90–120</entry>
-        </row>
-        <row>
-        <entry>Hypertensive Crisis</entry>
-        <entry>> 180</entry>
-        <entry>and/or</entry>
-        <entry>> 120</entry>
-        </row>
-        </tbody>
-        </tgroup>
-        <caption>The American College of Cardiology and American Heart Association’s Categories for Hypertension (source: American Heart Association, https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings; Centers for Disease Control and Prevention, https://www.cdc.gov/bloodpressure/facts.htm)</caption>
-        </table>
-
-        <table class="vertically-tight" id="table-00002">
-          <tgroup cols="2">
-          <thead>
-          <row>
-          <entry><span class="blue-text">Drug</span></entry>
-          <entry><span class="blue-text">Routes and Dosage Ranges: Adults</span></entry>
-          </row>
-          </thead>
-          <tbody>
-          <row>
-          <entry>Benazepril<newline/>(Lotensin)</entry>
-          <entry>10–40 mg daily orally</entry>
-          </row>
-          <row>
-          <entry>Captopril<newline/>(Capto)</entry>
-          <entry>25–150 mg 2–3 times daily orally<newline/>maximum dose 450 mg daily</entry>
-          </row>
-          <row>
-          <entry>Enalapril<newline/>(Vasotec)</entry>
-          <entry>5–40 mg administered in either one or two daily doses.<newline/>Initial dose: 5 mg orally once daily<newline/>maximum dose: 40 mg/day.<newline/>May divide dose and administer twice daily.</entry>
-          </row>
-          <row>
-          <entry>Lisinopril<newline/>(Zestril)</entry>
-          <entry>10–40 mg daily orally</entry>
-          </row>
-          </tbody>
-          </tgroup>
-          <caption>Drug Emphasis Table: ACE Inhibitors (source: DailyMed)</caption>
-          </table>
-
-          <table class="vertically-tight" id="table-00003">
-            <tgroup cols="2">
-              <colspec colnum="1" colname="c1"/>
-              <colspec colnum="2" colname="c2"/>
-             <tbody>
-            <row>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
-            Angiotensin-converting enzyme (ACE) inhibitor
-            <newline count="2"/><span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span>
-            <newline/>Enalapril inhibits the enzyme that converts angiotensin I to angiotensin II and thereby suppresses the renin-angiotensin-aldosterone system.</entry>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-            5–40 mg administered in either one or two daily doses. Initial dose: 5 mg orally once daily; maximum dose: 40 mg/day. May divide dose and administer twice daily.</entry>
-            </row>
-            <row>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
-            To control hypertension<newline/>
-            In the treatment of class C heart failure<newline count="2"/>
-            <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
-            Lowers blood pressure<newline/>
-            Increases blood supply and oxygen to the heart</entry>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
-            Aliskiren<newline/>
-            Sacubitril/Valsartan<newline/>
-            Nonsteroidal anti-inflammatory drugs (NSAIDs) including selective cyclooxygenase-2 inhibitors<newline/>
-            Potassium-sparing diuretics<newline/>
-            Lithium<newline/>
-            Temsirolimus<newline/>
-            Sirolimus<newline/>
-            Everolimus<newline count="2"/>
-            <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
-            Alcohol<newline/>
-            Tobacco</entry>
-            </row>
-            <row>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
-            Angioedema<newline/>
-            Fatigue<newline/>
-            Orthostatic hypotension<newline/>
-            Asthenia<newline/>
-            Diarrhea<newline/>
-            Nausea/vomiting<newline/>
-            Headache<newline/>
-            Dizziness/vertigo<newline/>
-            Hyperkalemia<newline/>
-            Cough<newline/>
-            Rash<newline/>
-            Abdominal pain<newline/>
-            Angina</entry>
-            <entry valign="top"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
-            Hypersensitivity<newline/>
-            A history of angioedema related to previous treatment with an angiotensin-converting enzyme inhibitor or hereditary or idiopathic angioedema<newline/>
-            Pregnancy<newline count="2"/>
-            <emphasis effect="bold">Caution:</emphasis><newline/>
-            Aortic stenosis<newline/>
-            Diabetes<newline/>
-            Syncope<newline/>
-            Orthostatic hypotension<newline/>
-            Impaired renal function<newline/>
-            Breastfeeding</entry>
-            </row>
-            </tbody>
-            </tgroup>
-            <caption>Drug Prototype Table: Enalapril (source: DailyMed)</caption>
-            </table>
-
-            <note class="unfolding-casestudy" id="note-00001">
-              <title>Part A</title>
-              <para id="para-00001">Read the following clinical scenario to answer the Knowledge Check questions that follow. This case study will evolve throughout the chapter.</para>
-              <para id="para-00002">Hahn Tran is a 53-year-old Asian American client who presents to her health care provider's office with reports of a headache and dizziness. When questioned, Ms. Tran describes her headache as throbbing and that it is worse in the morning when she awakens. She is unable to identify any triggers for the headaches but states they are relieved with acetaminophen.</para>
-              <para id="para-00003">Ms. Tran reports trying to follow a healthy diet, but states that she does not really know what that means and that she uses a lot of salt in her cooking. She smokes about six to eight cigarettes/day, which is down from one pack/day 3 months ago. Ms. Tran does not exercise regularly and reports having 1-2 glasses of wine on the weekend. She lives with her husband and two teenage children and works in the kitchen at the children's school.</para>
-              <para id="para-00004"><emphasis effect="bold">History</emphasis><newline/>Hyperlipidemia<newline/>Type 2 diabetes</para>
-              <para id="para-00005"><emphasis effect="bold">Current Medications</emphasis><newline/>Atorvastatin, 20 mg once daily<newline/>Metformin, 500 mg twice daily</para>
-              <table class="unnumbered" summary="" id="table-00004">
-              <tgroup cols="2">
-                <colspec colnum="1" colname="c1" colwidth="1*"/>
-                <colspec colnum="2" colname="c2" colwidth="2*"/>
-              <tbody>
-              <row>
-              <entry><emphasis effect="bold">Vital Signs</emphasis><newline/>Temperature: 98.4°F<newline/>Blood pressure: 168/96 mm Hg<newline/>Heart rate: 88 beats/min<newline/>Respiratory rate: 16 breaths/min<newline/>Oxygen saturation: 97% on room air<newline/>Height: 5'3"<newline/>Weight: 184 pounds</entry>
-              <entry><emphasis effect="bold">Physical Assessment/Signs and Symptoms</emphasis><newline/>Head, eyes, ears, nose, throat (HEENT): Denies any changes in vision. No difficulty hearing conversations.<newline/>Cardiovascular: No jugular vein distention or pedal edema noted; S1, S2 heard on auscultation. Denies chest pain. Capillary refill brisk, mucous membranes pink and moist.<newline/>Respiratory: Lungs clear to auscultation. States she does not experience shortness of breath and sleeps on one pillow. Has been told she snores but denies apnea.<newline/>GI: Abdomen soft, nontender, nondistended; bowel sounds heard in all four quadrants. No report of nausea, vomiting, or abdominal pain. Has regular daily bowel movements.<newline/>GU: Deferred<newline/>Neurological: Alert and oriented to time, place, person, and events. No reports of numbness, dizziness, vertigo, weakness, or seizures.<newline/>Integumentary: No wounds noted; skin appropriate for age.</entry>
-              </row>
-              </tbody>
-              </tgroup>
-              </table>
-             </note>
-              <note class="unfolding-casestudy" id="note-00002">
-              <title>Part B</title>
-              <para id="para-00008">Read the following clinical scenario to answer the knowledge check questions that follow. This case study is a follow-up to Case Study Part A.</para>
-              <para id="para-00009">Ms. Tran follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnoses her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Ms. Tran about this new drug.</para>
-            </note>
-              
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Define pharmacology.</item>
+    <item>Identify key events in the history of pharmacology.</item>
+    <item>Discuss the interdisciplinary nature of pharmacology and client care.</item>
+    <item>Explain the importance of pharmacology in nursing practice.</item>
+    </list>
     </section>
-  </content>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>History of Pharmacology</title>
+    <para id="para-00002">The word <term id="term-00001">pharmacology</term> (from two Greek words, <emphasis effect="italics">pharmakon</emphasis>, which means “<term id="term-00002">drug</term>” or “medicine,” and <emphasis effect="italics">logos</emphasis>, which means “study”) essentially means the study of medicine; it could also be described as the study of the biological effects of chemicals on the body. The history of pharmacology dates back thousands of years, most likely beginning with the use of medicinal plants and herbs to relieve symptoms of various diseases. Herbal medications have been used in medicine in most civilizations around the globe dating back to ancient times. One generation passed its knowledge to the next through oral tradition. Individuals might not know how a treatment worked, but they were able to observe its effects.</para>
+    <para id="para-00003">The word <emphasis effect="italics">drug</emphasis> may originate from an old Dutch word, <emphasis effect="italics">droog</emphasis>, which means dry, or an old French term, <emphasis effect="italics">drogue</emphasis>. This may have referred to “dry barrels,” the method for preserving medicinal plants as dry matter or any substance, such as animal products or inorganic materials, used in the composition of medicines. The words <emphasis effect="italics">drug</emphasis> and <emphasis effect="italics">medication</emphasis> are used interchangeably throughout this text.</para>
+    <para id="para-00004">More than 2,000 years ago in China, Greece, and Egypt, poultices composed of moldy bread were used to treat open wounds. (Was it possible that this had antimicrobial effects?) This treatment was documented in the <emphasis effect="italics">Ebers papyrus</emphasis> (see [Link]Figure 1.2 [/Link]), one of the world’s oldest preserved medical documents, in 1550 BCE. Medicinal soils were used at that time as well. An Anglo-Saxon recipe has been found that dates back 1,000 years ago, and it was recently discovered that it is helpful in the treatment of methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (Hutchings et al., 2019)<emphasis effect="italics">.</emphasis></para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An old piece of paper has writing in an ancient language on it.">
+    <image mime-type="image/png" src="../../media/PHA_Figure_01_01_002.jpg"/></media>
+    <caption>The Ebers Papyrus is considered one of the oldest preserved medical documents. (credit: “Plates vi &amp;amp; vii of the Edwin Smith Papyrus at the Rare Book Room” by Jeff Dahl/New York Academy of Medicine, Public Domain)</caption>
+    </figure>
+    <para id="para-00005">It is true that although many treatments or remedies were simply ineffective, others unfortunately were poisonous. However, some treatments did contain substances that worked. Opium, from the poppy plant, has been used for centuries to relieve pain and for sedation by the Sumerians and the Greeks. However, the first authentic use was recorded by the Greek philosopher Theophrastus in the 3rd century BCE (Stefano et al., 2017).</para>
+    <para id="para-00006">The <emphasis effect="italics">London Pharmacopoeia</emphasis>, first published in 1618, contained over 1,000 simple drugs and over 900 preparations and compounds. Progress in the use of pharmacological treatments continued to develop worldwide at differing rates, but in the late 1700s, several advances in Europe were made that remain significant today. William Withering in England developed digitalis, a derivative from the foxglove plant, which was and still is used in treating heart disease and rhythm disorders. Foxglove had been used for centuries in folk medicine, but Withering was able to use small amounts of the foxglove leaves for the treatment of dropsy (now known as heart failure). Another advancement occurred in 1796 when Edward Jenner developed the first vaccine against smallpox. His work established that infectious diseases could be controlled with the deliberate use of vaccination.</para>
+    <para id="para-00007">The era of modern pharmacology began approximately 200 years ago. Even in the early 1800s, chemists could isolate various chemicals from substances and mixtures. In 1804 or 1805, Fredrich Serturner isolated morphine from opium, which is still used for treating severe pain (Kumar, 2022). Once scientists could isolate the drugs from plants and other natural resources, they could better study their actions on the body. Most often, these experiments were conducted on animals, but occasionally the chemists would test the drug on themselves or on friends and family, sometimes with disastrous results. The first school of pharmacy was established in 1847 in the country of Estonia. The oldest pharmacology journal, <emphasis effect="italics">Naunyn-Schmeideberg’s Archives of Pharmacology</emphasis>, was first published in 1873 and is still being published today (Hattori &amp; Seifert, 2023).</para>
+    <para id="para-00008">Scientists in the 1890s developed aspirin from the bark of the willow tree, using it to treat fevers and mild discomfort. The link between diabetes mellitus and the pancreas was established in 1889 through the work of Joseph von Mering and Oskar Minkowski. Approximately 30 years later, in 1921, Frederick Banting and Charles Best formulated the first insulin preparation (Karamanou et al., 2016; Lee &amp; Yoon, 2021). Paul Ehrlich introduced the first treatment for syphilis in 1909 by isolating a chemical compound that could be used against a microorganism (arsphenamine or compound 606). Arsphenamine is a derivative of arsenic, and although it could successfully treat syphilis, it did have potentially fatal side effects, which caused it to fall out of use quickly. Shortly after that, in 1928, Alexander Fleming discovered that <emphasis effect="italics">Penicillium notatum</emphasis> mold prevented the growth of <emphasis effect="italics">Staphylococcus aureus </emphasis>and ushered in the era of antibiotic use. Millions of lives have been saved since then by using antibiotics to treat infectious diseases such as pneumonia, sepsis, gangrene, scarlet fever, syphilis, gonorrhea, meningitis, and tuberculosis.</para>
+    <para id="para-00009">Although plants and natural resources are still used today, they can be a finite resource. The development of new medicines has continued to evolve with the synthesis of drugs in the laboratory and the use of biomolecules or biologics<emphasis effect="italics">. </emphasis>(Biologics will be discussed in further detail later in this chapter.) There have been tremendous strides in the development of medications that have revolutionized (and will continue to revolutionize) the treatment of disease and our understanding of the human body.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Interdisciplinary Nature of Pharmacology</title>
+    <para id="para-00010">The nurse administers medication as part of a team that includes other professions. The health care provider (physician, physician’s assistant, or nurse practitioner) orders the drug indicated to treat the client. (The term <emphasis effect="italics">client</emphasis> is interchangeable with <emphasis effect="italics">patient</emphasis> in some settings.) The pharmacist evaluates the client and their situation and verifies the appropriateness of the requested medication and its dose for the client. Then, the pharmacist may dispense the medication, recommend the appropriate time for administration, and complete teaching to the client. In the hospital setting, the nurse assesses the client and the potential effects of the medication and then administers the drug after determining the safety to the client. A social worker may become involved if issues of non-adherence to the medication regimen are found or if the client cannot afford the drug once discharged from the hospital. These are just a few of the health care roles involved in the pharmacological care of the client, and often these roles overlap in practice. Communication between professions is crucial in delivering the best care to the client. The concept of <term class="no-emphasis" id="term-00003">collaborative practice</term>, also known as <term class="no-emphasis" id="term-00004">interprofessional (IP) collaboration</term>, within health care professions is viewed as “best practice” because inadequate collaboration may adversely affect the delivery of health care and the safety of the client. More efficient use of resources also results from IP teamwork.</para>
+    <para id="para-00011">Health care providers should understand each other’s roles to prevent mistakes. Competence in interprofessional collaboration is crucial for effective teamwork among physicians, nurses, pharmacists, and others. Interprofessional teamwork improves the efficiency of client care, helps lower costs to the client and the institution, improves client outcomes, and enhances the delivery of holistic care. It also boosts job satisfaction and  reduces staff burnout. Maintaining competency includes understanding team goals, having a shared identity, and committing to safe client care while relying on mutual respect and trust. Effective communication and decision-making involves active listening and embracing each discipline’s roles in client care.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Pharmacology and Clinical Nursing Practice</title>
+    <para id="para-00012">Knowledge about pharmacology and the various drugs prescribed and administered to clients is a major part of the nurse’s role. Even when not administering the medications directly to the client, it is crucial to the client’s care. Nurses must understand the pharmacotherapeutic effects of the drugs in their clinical practice. Drugs have intended or <term id="term-00005">therapeutic effects</term>—these are effects that are expected and desired from that particular medication. However, drugs may also have undesirable <term id="term-00006">adverse effects</term> or <term id="term-00007">side effects</term>.</para>
+    <para id="para-00013">There are thousands of drugs on the market. Although the nurse is usually responsible for a much smaller number of medications in a specialty area, it is still a significant task to be responsible for the consequences of administering several drugs to various clients with an assortment of diseases. A few of the nurse’s responsibilities as they relate to medication administration are listed here (also see <link document="m00099">Drug Administration</link>, for additional information):</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Incorporating the nursing process (assessment, nursing diagnoses, planning, implementation, and evaluation) and clinical judgment into medication administration</item>
+    <item>Knowledge of the client and their disease process (or the prevention of disease)</item>
+    <item>Knowledge of the drug’s name (both generic and brand [trade] names)</item>
+    <item>Understanding the indication for the drug (why the client has been prescribed this drug)</item>
+    <item>Appropriateness of the drug ordered by the provider</item>
+    <item>Assessment of the client prior to administering the drug</item>
+    <item>Determining which focused assessments show that the drug is safe for each client</item>
+    <item>Understanding which abnormal lab values would prohibit this drug from being given to a specific client</item>
+    <item>Special considerations:
+    <list list-type="bulleted" bullet-style="none" id="list-00003">
+    <item><term class="no-emphasis" id="term-00008">Life phase</term> (e.g., <term class="no-emphasis" id="term-00009">pediatric</term>, <term class="no-emphasis" id="term-00010">pregnancy</term>, or <term class="no-emphasis" id="term-00011">geriatric</term> populations)</item>
+    <item><term class="no-emphasis" id="term-00012">Body weight</term></item>
+    <item><term class="no-emphasis" id="term-00013">Nutritional status</term></item>
+    <item><term class="no-emphasis" id="term-00014">Pathophysiology</term> of the disease process</item>
+    <item><term class="no-emphasis" id="term-00015">Race and ethnicity</term></item></list></item>
+    <item>Determining the safety of the drug in the client</item>
+    <item>Contraindications to the use of a drug in a particular client</item>
+    <item>Administering the drug(s) using the seven “rights,” which are as follows:
+    <list list-type="bulleted" bullet-style="none" id="list-00004">
+    <item>Right client</item>
+    <item>Right medication</item>
+    <item>Right indication</item>
+    <item>Right dosage range and rate of administration (if appropriate)</item>
+    <item>Right route</item>
+    <item>Right time</item>
+    <item>Right documentation</item></list>
+    </item>
+    <item>Monitoring for potential drug interactions</item>
+    <item>Assessment of the therapeutic and adverse effects of the drug</item>
+    <item>Education of the client and family (or caregivers) about the disease process, drugs prescribed, and therapeutic and adverse effects</item>
+    </list>
+    <para id="para-00014">Follow-up with the client is critical to their safety and well-being. The nursing care plan will need to be modified if goals are not reached, and this may need to be done in collaboration with other health care team members. Communication between interprofessional team members is key to preventing <term id="term-00016">adverse drug events</term>. The nurse should allow plenty of time to counsel the client about the prescribed drugs and speak clearly, using simple language that avoids medical jargon. It is helpful to have the client repeat the instructions back to the nurse to assess understanding.</para>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>adverse drug event</term> <meaning>when an individual is harmed by a drug</meaning></definition>
+    <definition id="def-00002"><term>drug</term> <meaning>a chemical that exerts an effect on the living body; a compound used in the prevention, treatment, diagnosis, or cure of a condition or disease</meaning></definition>
+    <definition id="def-00003"><term>pharmacology</term> <meaning>the study of medicines (or drugs) or the study of the biological effects of chemicals on the body</meaning></definition>
+    <definition id="def-00004"><term>side effect</term> <meaning>an effect of a drug that is undesired</meaning></definition>
+    <definition id="def-00005"><term>therapeutic effects</term> <meaning>the effects that are expected and desired from a particular medication</meaning></definition>
+    </glossary>
 </document>
