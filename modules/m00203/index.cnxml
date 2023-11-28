@@ -146,57 +146,51 @@
     <section id="sect-00010">
     <title>Public Health Ontario’s Steps for Evaluating Health Promotion Programs</title>
     <para id="para-00014">Public Health Ontario (Ontario Agency for Health Protection and Promotion, 2016), a scientific and technical public health organization in Ontario, Canada, recommends 10 systematic steps to evaluate health promotion programs (<link target-id="table-00002" document="m00203"/>). Similar to other public health evaluation frameworks, the program team conducts the first steps of program evaluation planning concurrently with program development. The program team engages stakeholders, develops the program goals and objectives, determines the target population, creates program strategies and activities, and locates program resources. The organization recommends developing a logic model to represent the program to summarize its main components and to align evaluation questions with program activities (Ontario Agency for Health Protection and Promotion, 2016). <link document="m00192">Planning Health Promotion and Disease Prevention Interventions</link> discusses using logic models in health program planning. Process and outcome evaluation measures should be used. The program team plans to gather data using quantitative and qualitative measures to have substantial information to determine program effectiveness and make decisions regarding health programs. The program team shares findings with stakeholders to solicit recommendations and make program decisions. An <link url="https://openstax.org/r/publichealthontario">introductory workbook</link> (Ontario Agency for Health Protection and Promotion, 2016) is available to assist the program team through evaluation planning and gathering, analyzing, and reporting program data.</para>
-    <table class="vertically-tight full-width" id="table-00002">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <tbody>
-    <row>
-    <entry valign="top" align="center" morerows="6"><emphasis effect="bold">Planning</emphasis></entry>
-    </row>
-    <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 1:</emphasis> Clarify the program</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 2:</emphasis> Engage stakeholders</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 3:</emphasis> Assess resources and evaluability</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 4:</emphasis> Determine your evaluation questions</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 5:</emphasis> Determine appropriate methods of measurement and procedures</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 6:</emphasis> Develop an evaluation plan</entry>
-    </row>
-    <row>
-    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Implementation</emphasis></entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 7:</emphasis> Collect data</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 8:</emphasis> Process data and analyze results</entry>
-    </row>
-    <row>
-    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Utilization</emphasis></entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 9:</emphasis> Interpret and disseminate the results</entry>
-  </row>
-  <row>
-    <entry valign="top" align="left"><emphasis effect="bold">Step 10:</emphasis> Apply evaluation findings</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2">For more information, view <link url="https://openstax.org/r/publichealthontarioa">Evaluating health promotion programs: introductory workbook</link>.</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Public Health Ontario’s 10 Steps to Systematically Evaluate Public Health Programs</caption>
-    </table>
+<table class="vertically-tight full-width" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<tbody>
+<row>
+<entry valign="middle" align="center" morerows="5"><emphasis effect="bold">Planning</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Step 1:</emphasis> Clarify the program</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 2:</emphasis> Engage stakeholders</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 3:</emphasis> Assess resources and evaluability</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 4:</emphasis> Determine your evaluation questions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 5:</emphasis> Determine appropriate methods of measurement and procedures</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 6:</emphasis> Develop an evaluation plan</entry>
+</row>
+<row>
+  <entry valign="middle" align="center" morerows="1"><emphasis effect="bold">Implementation</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Step 7:</emphasis> Collect data</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 8:</emphasis> Process data and analyze results</entry>
+</row>
+<row>
+  <entry valign="middle" align="center" morerows="1"><emphasis effect="bold">Utilization</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Step 9:</emphasis> Interpret and disseminate the results</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Step 10:</emphasis> Apply evaluation findings</entry>
+</row>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2">For more information, view <link url="https://openstax.org/r/publichealthontarioa">Evaluating health promotion programs: introductory workbook</link>.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Public Health Ontario’s 10 Steps to Systematically Evaluate Public Health Programs</caption>
+</table>
     </section>
     <section id="sect-00011">
     <title>Logic Models</title>
