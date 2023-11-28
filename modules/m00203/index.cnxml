@@ -152,22 +152,42 @@
     <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
-    <entry valign="top" align="center" morerows="6"><emphasis effect="bold">Planning</emphasis></entry>
+    <entry valign="top" align="center" morerows="5"><emphasis effect="bold">Planning</emphasis></entry>
+    </row>
+    <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 1:</emphasis> Clarify the program</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 2:</emphasis> Engage stakeholders</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 3:</emphasis> Assess resources and evaluability</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 4:</emphasis> Determine your evaluation questions</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 5:</emphasis> Determine appropriate methods of measurement and procedures</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 6:</emphasis> Develop an evaluation plan</entry>
     </row>
     <row>
-    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Implementation</emphasis></entry>
+    <entry valign="top" align="center" morerows="1"><emphasis effect="bold">Implementation</emphasis></entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 7:</emphasis> Collect data</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 8:</emphasis> Process data and analyze results</entry>
     </row>
     <row>
-    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Utilization</emphasis></entry>
+    <entry valign="top" align="center" morerows="1"><emphasis effect="bold">Utilization</emphasis></entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 9:</emphasis> Interpret and disseminate the results</entry>
+  </row>
+  <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 10:</emphasis> Apply evaluation findings</entry>
     </row>
     <row>
