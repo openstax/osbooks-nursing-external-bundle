@@ -152,7 +152,7 @@
     <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
-    <entry valign="top" align="center" morerows="5"><emphasis effect="bold">Planning</emphasis></entry>
+    <entry valign="top" align="center" morerows="6"><emphasis effect="bold">Planning</emphasis></entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 1:</emphasis> Clarify the program</entry>
@@ -173,7 +173,7 @@
     <entry valign="top" align="left"><emphasis effect="bold">Step 6:</emphasis> Develop an evaluation plan</entry>
     </row>
     <row>
-    <entry valign="top" align="center" morerows="1"><emphasis effect="bold">Implementation</emphasis></entry>
+    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Implementation</emphasis></entry>
   </row>
   <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 7:</emphasis> Collect data</entry>
@@ -182,7 +182,7 @@
     <entry valign="top" align="left"><emphasis effect="bold">Step 8:</emphasis> Process data and analyze results</entry>
     </row>
     <row>
-    <entry valign="top" align="center" morerows="1"><emphasis effect="bold">Utilization</emphasis></entry>
+    <entry valign="top" align="center" morerows="2"><emphasis effect="bold">Utilization</emphasis></entry>
   </row>
   <row>
     <entry valign="top" align="left"><emphasis effect="bold">Step 9:</emphasis> Interpret and disseminate the results</entry>
@@ -191,7 +191,7 @@
     <entry valign="top" align="left"><emphasis effect="bold">Step 10:</emphasis> Apply evaluation findings</entry>
     </row>
     <row>
-    <entry valign="top" align="center" namest="c1" nameend="c2">For more information, view <link url="https://openstax.org/r/publichealthontarioa">Evaluating health promotion programs: introductory workbook</link>.</entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2">For more information, view <link url="https://openstax.org/r/publichealthontarioa">Evaluating health promotion programs: introductory workbook</link>.</entry>
     </row>
     </tbody>
     </tgroup>
