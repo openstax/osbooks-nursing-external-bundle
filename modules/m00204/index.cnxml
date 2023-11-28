@@ -6,8 +6,238 @@
     <md:uuid>b41e589d-db68-46e8-bc15-26b29eb0473a</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Compare information and communication technologies used in the community setting.</item>
+    <item>Describe various communication tools and culturally and linguistically responsive communication strategies.</item>
+    <item>Explain the use of multimedia applications to communicate outcomes.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">The nurse uses effective and appropriate verbal and written communication strategies to promote health programs and healthy behaviors, increase awareness of health issues and health programs, recruit and retain program participants, share information with community partners, and disseminate program evaluation findings. The program team strategically develops and employs messages using a variety of tools and technologies. They also determine communication strategies prior to sending any health-related or program message, considering the intended target population’s communication needs.</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Communication Tools and Technologies Used in the Community Setting</title>
+    <para id="para-00003">A variety of community tools and technologies are used in the community setting. The program team must weigh the advantages and disadvantages of each when developing a communication plan. They should use multiple communication tools and methods to reach a larger number of the intended target population (U.S. Department of Health and Human Services [HHS], 2014; RHIhub, 2018a; Center for Rural Health, 2023). [link]Table 20.8[/link] lists the types of communication tools and technologies and their advantages and disadvantages.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
+    <colspec colnum="4" colname="c4" colwidth="4*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Communication Tool</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Examples</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Advantages of Use</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Disadvantages of Use</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Broadcast media</entry>
+    <entry valign="top" align="left">Television<newline/>
+    Radio<newline/>
+    Podcast<newline/>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00002">
+    <item>Broad audience reach</item>
+    <item>Message conveyed faster</item>
+    <item>Opportunity to replay message</item>
+    <item>Script is used for consistent and controlled messaging</item>
+    <item>Multiple delivery of message is most effective</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00003">
+    <item>May be limited to single message or to one time per day</item>
+    <item>One-time communication not always effective</item>
+    <item>Costly if paid advertisement</item>
+    <item>Limited reach to some populations (those who do not have access to broadcast media)</item></list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Print media</entry>
+    <entry valign="top" align="left">Newspaper<newline/>
+    Magazine<newline/>
+    Brochures or flyers<newline/>
+    Mail<newline/>
+    Email<newline/>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00004">
+    <item>Broad audience reach</item>
+    <item>Message conveyed faster</item>
+    <item>Opportunity to reread message</item>
+    <item>Script is used for consistent and controlled messaging</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00005">
+    <item>May be limited to single message or to one time per day</item>
+    <item>One-time communication not always effective</item>
+    <item>Costly if paid advertisement</item>
+    <item>Costly if mass-produced for mail</item>
+    <item>Limited reach to some populations (those who do not have access to print media)</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Social and digital media</entry>
+    <entry valign="top" align="left">Internet/websites<newline/>
+    Social media<newline/>
+    Mobile applications<newline/>
+    Video/YouTube<newline/>
+    Kiosks<newline/>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00006">
+    <item>Reach a large population rapidly</item>
+    <item>Combines audio and visual</item>
+    <item>Script or common material is used for consistent and controlled messaging</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00007">
+    <item>May be costly</item>
+    <item>Limited reach to some populations (those without internet access)</item>
+    <item>May require monitoring of comments</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Outdoor media and public display</entry>
+    <entry valign="top" align="left">Billboard<newline/>
+    Mass transit<newline/>
+    Community businesses<newline/>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00008">
+    <item>Broad audience reach</item>
+    <item>Message conveyed faster</item>
+    <item>Opportunity to reread message</item>
+    <item>Script is used for consistent and controlled messaging</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00009">
+    <item>May be costly</item>
+    <item>Limited reach for population that does not use the method of transport or visit the community business</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Word of mouth</entry>
+    <entry valign="top" align="left">Personal communication<newline/>
+    Telephone<newline/>
+    Organizational meetings<newline/>
+    Community presentations<newline/>
+    Partnerships<newline/>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00010">
+    <item>Promotes discussion</item>
+    <item>More effective in promoting change</item>
+    <item>Effective in reaching intended audience</item>
+    <item>Messages can be tailored to individual or audience needs</item>
+    <item>Partnerships and other organizations provide support of the message</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00011">
+    <item>Time-consuming to coordinate communication and arrange presentations</item>
+    <item>May have limited audience</item>
+    <item>Message less controlled</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Advantages and Disadvantages of Communication Tools Used in Public Health Programs (See U.S. Department of Health and Human Services, 2014.)</caption>
+    </table>
+    </section>
+    <section id="sect-00004">
+    <title>Communication Strategies</title>
+    <para id="para-00004">The program team develops and follows a systematic process to plan and implement communication strategies. Systematic processes ensure that communication is grounded in evidence, effective, efficient, and able to reach the intended target audience. HHS (2014) and the Center for Rural Health (2023) provide toolkits for health communication planning and implementation.</para>
+    <section id="sect-00005">
+    <title>Four Stages of the Health Communication Cycle</title>
+    <para id="para-00005">HHS (2014) provides a <link url="https://openstax.org/r/cancergova">workbook</link> to assist the program team throughout four stages of health communication planning and implementation. [link]Figure 20.4[/link] illustrates the four stages of the <term class="no-emphasis" id="term-00001">health communication program cycle</term>.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="The health communications program cycle is presented as four numbered circles connected by arrows in a larger circular shape. The steps are:  1 Planning and strategy development; 2 Developing and pretesting concepts, messages, and materials; 3 Implementing the program; 4 Assessing effectiveness and making refinements.">
+    <image mime-type="image/png" src="../../media/PH_Figure_20_04_004.png"/></media>
+    <caption>The nurse and program team use the health communication program cycle to systematically develop and implement health communication. (See HHS, 2014; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00006">First, the program team decides how to use communication, defines the intended target population, determines communication objectives, plans for evaluation of communication, and drafts communication activities.</para>
+    <para id="para-00007">Second, they develop messages and materials and collaborate with members of the intended target audience to get feedback and revise messages and materials as needed. The team answers the following questions during the planning stages (HHS, 2014):</para>
+    <list list-type="bulleted" id="list-00012">
+    <item>Will this type of communication reach and influence the intended target population?</item>
+    <item>Are the chosen types of communication acceptable and trusted by the intended target population?</item>
+    <item>Is the type of communication appropriate for the message?</item>
+    <item>What is the reach of the type of communication? How many of the intended target population might be exposed?</item>
+    <item>What is the cost of this type of communication?</item>
+    <item>Are the resources available to create, maintain, and fund this type of communication?</item>
+    </list>
+    <para id="para-00008">Third, they implement the message, track exposure of the intended target audience, and continue to solicit feedback to revise the message as needed. Finally, they assess the effectiveness of the message and communication plan and revise them if needed. Strategies for effective health communication include the following:</para>
+    <list list-type="bulleted" id="list-00013">
+    <item>Use a variety of communication tools to increase reach (HHS, 2014; RHIhub, 2018a)</item>
+    <item>Select evidence-based methods to develop materials and messages (RHIhub, 2018a)</item>
+    <item>Incorporate health literacy and cultural needs of the intended target population (HHS, 2014; RHIhub, 2018a)</item>
+    <item>Define the goal of the program (HHS, 2014)</item>
+    <item>Pretest and revise materials and messages (HHS, 2014)</item>
+    <item>Evaluate communication at delivery and throughout implementation (HHS, 2014)</item>
+    </list>
+    </section>
+    <section id="sect-00006">
+    <title>Creating a Communication Plan</title>
+    <para id="para-00009">The Center for Rural Health provides a <link url="https://openstax.org/r/ruralhealth">communication toolkit</link> to guide the program team to focus “the right message on the right audience at the right time” (Center for Rural Health, 2023, para 1). A systematic communication planning and implementation method leads to efficient and effective communication delivered using the resources of the program budget. The steps of communication plan development include the following:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00014">
+    <item>Analysis: Summarize the overarching and communication goals of the program, resources available for communication, and the effectiveness of current communication strategies.</item>
+    <item>Goals &amp; Objectives: Create SMART objectives for communication. <link document="m00192">Planning Health Promotion and Disease Prevention Interventions</link> describes <term class="no-emphasis" id="term-00002">SMART objectives</term>.</item>
+    <item>Key Messages: Create three to five central messages for the program.</item>
+    <item>Target Audience: Identify the intended target population and assess communication needs and barriers.</item>
+    <item>Tactics: Choose communication tools and technologies to deliver the message.</item>
+    <item>Implementation Timeline: Set target dates for communication implementation, establish accountability for communication activities, and allocate finances and resources for implementation.</item>
+    <item>Evaluate &amp; Revise: Set dates for evaluation throughout implementation to assess the effectiveness of the communication plan and revise if needed.</item>
+    </list>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Communication Considerations</title>
+    <para id="para-00010">The program team considers the needs of and barriers to communication with the intended <term class="no-emphasis" id="term-00003">target population</term>. They integrate the target population’s health priorities, culture, language, and health literacy into messages and materials used in community health programs.</para>
+    <section id="sect-00008">
+    <title>Cultural and Linguistic Communication Needs</title>
+    <para id="para-00011">The program team incorporates cultural and linguistic needs of the intended target population into communication to enhance communication effectiveness. Assessment of the target population will provide some information, but inviting key members of the target population to assist with program planning and communication planning will increase the likelihood that the team will identify barriers and meet cultural and linguistic needs. The <term class="no-emphasis" id="term-00004">program team</term> should consider the target population’s access to the internet and potential for media exposure as well as what communication technologies members use most often. Various communication tools that are used by the intended target population should be incorporated into the communication plan in order to increase reach (RHIhub, 2018). Additionally, messages and materials should be available in English and languages most commonly used by the target population and should include concepts, priorities, images, and language that represent the target population. <link document="m00213">Culturally and Linguistically Responsive Nursing Care</link> discusses how the nurse incorporates communication and language assistance services and translates written material for community health programs. <link document="m00220">Culturally and Linguistically Appropriate Program Design</link> discusses national standards for culturally and linguistically appropriate services and tools to incorporate those standards into community health programs.</para>
+    <note class="culture-conversations" id="note-00001">
+    <title>Stories from the Field: The White Earth Nation</title>
+    <para id="para-00012">The nurse and program team incorporate culturally and linguistically appropriate messaging and materials into health promotion programs. In this blog, the local public department incorporated Anishinaabeg culture into messages encouraging COVID-19 prevention and vaccination. Read the <link url="https://openstax.org/r/blogscdc">blog</link>, and then respond to the questions below.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00015">
+    <item>How did the White Earth Public Health team incorporate cultural and linguistic needs into COVID-19 health communication?</item>
+    <item>How did tailoring communication to the intended target population influence the health behaviors of the Anishinaabeg?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00009">
+    <title>Health Literacy and Plain Language</title>
+    <para id="para-00013">The nurse and program team must also consider the health literacy of the intended target population. <link document="m00220">Assessment, Analysis, and Diagnosis</link> discusses tools to assess health literacy. One method to account for health literacy of communities is using <term id="term-00005">plain language</term> in messages and materials. Plain language is communication that is visually appealing, logically organized, appropriate for the intended audience, and understandable at the first reading (Smith &amp; Wallace, n.d., para 1). The team should follow these principles when using plain language (National Archives, 2023):</para>
+    <list list-type="bulleted" id="list-00016">
+    <item>Write for the intended target audience.</item>
+    <item>Begin with the key message.</item>
+    <item>Keep it short.</item>
+    <item>Write in the active voice.</item>
+    <item>Use common language, not medical terminology.</item>
+    <item>Omit words that are not needed to convey the message.</item>
+    <item>Use headings, lists, and tables.</item>
+    <item>Proofread and have a member of the intended target audience review.</item>
+    </list>
+    <note class="theory-action" id="note-00002">
+    <title>Demand to Understand: How Plain Language Makes Life Simpler</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/demandtounderstand"/>
+    </media>
+    <para id="para-00014">In this 19-minute TEDx Talk, Deborah Bosley discusses the importance of using plain language when communicating health information and suggests strategies to improve clarity of health communication.</para>
+    <para id="para-00015">Watch the video, and then respond to the questions below. If time does not allow full viewing, watch at 8:50 for the definition of plain language and then from 14:37 to the end for strategies.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00017">
+    <item>Why is it important to use plain language when developing messages and materials for community health programs?</item>
+    <item>What strategies are recommended to ensure health communication is delivered using plain language?</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00010">
+    <title>Chapter Summary</title>
+    <para id="para-00016">The program team develops a communication plan to deliver effective and appropriate messages and materials. Various communication tools and technologies are used to expand the reach of communication. A communication plan includes developing and testing messages and materials, implementing communication, and assessing effectiveness and revising messages and materials as needed. Cultural, linguistic, and literacy needs of the intended target population are considered when developing communication. It is recommended that plain language and concepts, images, and languages that represents the target population are used in messages and materials.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>plain language</term> <meaning>communication that is visually appealing, logically organized, appropriate for the intended audience, and understandable at the first reading</meaning></definition>
+    </glossary>
 </document>

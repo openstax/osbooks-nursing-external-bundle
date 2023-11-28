@@ -6,8 +6,165 @@
     <md:uuid>a2b7d049-be71-4b3a-a2ca-c422fd15d5a9</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Define sustainability.</item>
+    <item>Consider the influence of efficiency, value, and cost on program continuity and sustainability. LO 20.5.3 Examine how external and internal funding streams and levels can influence program continuity.</item>
+    <item>Explain the relevance of creating a sustainability plan early in the planning and implementation stages.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">The goal of health promotion and disease prevention is to deliver community health programs that effectively and efficiently meet the needs of the community. Funding and resources are required to deliver community health programs. The program team must address funding needs and program <term id="term-00001">sustainability</term> at the beginning of the program planning process and before the end of the initial funding cycle. Sustainability is the continuation of community health programs because the program is valued, cost and resource efficient, effective, and supported by the community (Georgia Health Policy Center, 2011; U.S. Department of Housing and Urban Development [HUD], 2012). The program team enhances sustainability by decreasing dependence on one funding source and shifting to one or more new funding streams. Sustainability goals may differ depending upon the developmental stage of the program. For example, newer programs focus on the continuation of activities once the initial funding stream ends, and experienced programs may focus on expanding <term class="no-emphasis" id="term-00002">program reach</term>, building new <term class="no-emphasis" id="term-00003">partnerships</term>, and promoting policy initiatives (HUD, 2012). Additionally, sustainability does not refer to the continuation of a program using the original strategies and activities. In fact, most often sustainable programs evolve over time to adjust to changing funding, support, and community needs (Georgia Health Policy Center, 2011). Sustainability is influenced by the following (HUD, 2012):</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Efficiency and effectiveness of program activities</item>
+    <item>Community support</item>
+    <item>Partnerships that maximize use of resources</item>
+    <item>Funding diversification</item>
+    <item>Ability to draw new funds and partnerships</item>
+    <item>Understanding of the overall cost savings associated with program implementation and improvement of community health status</item>
+    </list>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>External and Internal Funding Streams</title>
+    <para id="para-00003">The program team must identify funding to support new and continuing community health programs. The nurse must be aware of possible external and internal funding streams and have experience with soliciting funds for community health programs (see [link]Table 20.9[/link]). Frequently, community health programs begin with funding support from one stream that does not continue throughout the program’s lifetime, so it is necessary to identify diverse funding streams to enhance program sustainability.</para>
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Funding stream</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nurse’s Role in Acquiring Funds</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Grants</entry>
+    <entry valign="top" align="left">Funds provided by a government source or private foundation for a specific purpose and for a specified time frame</entry>
+    <entry valign="top" align="left">The nurse may locate potential grants, write grant applications, communicate with funders, and carry out activities, or deliverables, specified within the grant.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Indirect funding</entry>
+    <entry valign="top" align="left">Resources, such as volunteers, equipment, materials, or funding, provided by an external source</entry>
+    <entry valign="top" align="left">The nurse may solicit or recruit volunteers, materials, etc.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Contributions or sponsorships</entry>
+    <entry valign="top" align="left">Businesses, social and civic clubs, churches, or individuals make financial or resource donations.</entry>
+    <entry valign="top" align="left">The nurse may provide presentations or communicate with potential sponsors to solicit funds.<newline/>
+    Sponsorships and contributions are often communicated as funders in program messaging and materials.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Government budgets</entry>
+    <entry valign="top" align="left">Local, state, and federal monies are factored into the annual budget and are set aside for community health program funding. The funds are usually acquired via taxes and fees to community residents.</entry>
+    <entry valign="top" align="left">The nurse may advocate for additional annual monies to be provided for community health programs and health promotion activities.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Fundraising events</entry>
+    <entry valign="top" align="left">Sporting events, such as golf outings or marathons, or lunch/dinner events are held to raise funds to support community health programs.</entry>
+    <entry valign="top" align="left">The nurse may plan and implement events.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Earned income</entry>
+    <entry valign="top" align="left">Funds earned through internal streams, such as fee for service, consultation, reimbursement from second party payers, or product sales are used to support community health programs.</entry>
+    <entry valign="top" align="left">The nurse may provide services that contribute to the internal streams, such as vaccination clinics.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Funding Streams and the Nurse’s Role in Acquiring Funds (See Georgia Health Policy Center, 2011.)</caption>
+    </table>
+    <note class="theory-action" id="note-00001">
+    <title>Funding Public Health Projects</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/getfunding"/>
+    </media>
+    <para id="para-00004">The nurse must understand how to procure funds for public health programs. This video, “How to Get Funding for Your Public Health Project,” provides an introduction to funding for public health projects. It describes how funding agencies and funding cycles are structured. Watch the video, and then respond to the questions below.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00003">
+    <item>Why should the nurse understand the funding agency’s objective before applying for a grant?</item>
+    <item>What is the general process of grant application and funding?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Sustainability Planning</title>
+    <para id="para-00005">The program team begins intentionally planning for sustainability during program planning and development. The sustainability plan is supported by program evaluation and achievement of program objectives. The program team uses evaluation data to decide which program activities will continue following a grant period or when initial funds have been depleted (Georgia Health Policy Center, 2011). Sustainability efforts are strengthened if a program demonstrates effectiveness, positive results, strong leadership, and community engagement (HUD, 2012). Program growth and sustainability are promoted when the program team focuses on evaluation and <term class="no-emphasis" id="term-00004">continuous quality improvement</term>, organizational capacity, expansion of partnerships, systems or <term class="no-emphasis" id="term-00005">policy change</term>, identification of new funding streams, and diversification of sources of funding (RHIhub, 2022). Studies have shown that sustainable programs are adaptable, have leadership that develop a clear, strategic purpose for grants and commit to providing resources, include cross-sector partnerships, consider community needs and demand, use data to show program impact, and align with the current social and political environment (Georgia Health Policy Center, 2020).</para>
+    <para id="para-00006">The Georgia Health Policy Center (2011) <link url="https://openstax.org/r/ruralhealthinfoa">step-by-step workbook</link> can be used by the nurse and program team to guide sustainability planning. Generally, the program team answers the following questions when planning for sustainability (Georgia Health Policy, 2011; HUD, 2012):</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
+    <item>What criteria will be used to determine continuation? For example, criteria could include that the program
+       <list list-type="bulleted" id="list-00005">
+    <item>meets community needs,</item>
+    <item>is valued by the community,</item>
+    <item>has positively impacted participants and the community,</item>
+    <item>achieves objectives and goals,</item>
+    <item>uses cost-effective program delivery,</item>
+    <item>has a return on investment,</item>
+    <item>has sufficient partner and community support, and</item>
+    <item>can access needed resources.</item>
+       </list>
+    </item>
+    <item>Has the program met sustainability criteria?</item>
+    <item>What will continue to be offered—all or part of a program?</item>
+    <item>Who is needed to continue the program (leadership, staffing, and partnerships)?</item>
+    <item>Can support for the program and partnerships be expanded? How?</item>
+    <item>What is the cost of the program (budgeted line items and overall cost)?</item>
+    <item>What are current and potential funding strategies?</item>
+    <item>Are the funding strategies diversified?</item>
+    </list>
+    <para id="para-00007">RHIhub (2022) offers several <link url="https://openstax.org/r/ruralhealthinfob">resources for sustainability planning</link>, including toolkits for specific types of community health programs. For example, the maternal health toolkit lists potential federal, state, and other funding sources.</para>
+    <para id="para-00008">To successfully implement and sustain community health programs, the program team must consider facilitators and barriers to program implementation to plan interventions that will enhance facilitators and reduce barriers. Recruitment and retention of program participants is an important consideration. Without program participants, a program would not effectively meet its goals and objectives. Recruitment and retention are facilitated when sociocultural and linguistic needs are met. Systematic evaluation of the community health program provides evidence of efficacy, effectiveness, and efficiency in order to make decisions about the current and future programs. Program evaluation strategies depend upon the needs of the program team and community partners and on the developmental level of the program. Outcome evaluation should occur regardless of the developmental level. Most often process evaluation occurs along with outcome evaluation so that the program team can make inferences about outcome results. Effective communication, diverse funding streams, and sustainability planning are key in promoting and maintaining community health programs.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00005">
+    <title>Chapter Summary</title>
+    <para id="para-00009">The program team must plan for funding and sustainability in order to continue community health programs. Sustainability planning includes evaluation of the efficiency, value, and cost of a program. Diversification of funding streams enhances sustainability efforts. Potential funding streams include grants, indirect funding, contributions or sponsorships, government budget lines, fundraising, and earned income. Sustainable community health programs are flexible, have strong leadership, include cross-sector partnerships, incorporate community needs and demand, use evidence to show program impact, and align with the current political and social environment.</para>
+    </section>
+        <section class="review-questions" id="sect-00006">
+        <title>Review Questions</title>
+        <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/COM_Ch20_Sec01_RQ1"/></para></problem></exercise>
+        <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/COM_Ch20_Sec02_RQ2"/></para></problem></exercise>
+        <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00012"><link class="os-embed" url="#exercise/COM_Ch20_Sec03_RQ3"/></para></problem></exercise>
+        <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00013"><link class="os-embed" url="#exercise/COM_Ch20_Sec03_RQ4"/></para></problem></exercise>
+        <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00014"><link class="os-embed" url="#exercise/COM_Ch20_Sec04_RQ5"/></para></problem></exercise>
+        <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00015"><link class="os-embed" url="#exercise/COM_Ch20_Sec01_RQ6"/></para></problem></exercise>
+        <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00016"><link class="os-embed" url="#exercise/COM_Ch20_Sec04_RQ7"/></para></problem></exercise>
+        <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00017"><link class="os-embed" url="#exercise/COM_Ch20_Sec02_RQ8"/></para></problem></exercise>
+        <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00018"><link class="os-embed" url="#exercise/COM_Ch20_Sec04_RQ9"/></para></problem></exercise>
+        <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00019"><link class="os-embed" url="#exercise/COM_Ch20_Sec03_RQ10"/></para></problem></exercise>
+        </section>
+    <section class="references" id="sect-00007">
+    <title>References</title>
+    <para id="para-00020">Barnes-Proby, D., Shcults, D., Jaycox, L. H., &amp; Ayer, L. (2017). <emphasis effect="italics">A RAND toolkit: Five strategies for successful recruitment and retention of children and families in human service programs. </emphasis>RAND Corporation. https://www.rand.org/content/dam/rand/pubs/tools/TL200/TL242/RAND_TL242.pdf</para>
+    <para id="para-00021">Carter, N., Corey, M., &amp; O’Brien, C. (2016). <emphasis effect="italics">Integrating community health workers in Ohio’s health care teams.</emphasis> UHCAN Ohio. https://www.chcf.org/wp-content/uploads/2021/02/IntegratingCHWsOhiosHealthCareTeams.pdf</para>
+    <para id="para-00022">Center for Rural Health. (2023). <emphasis effect="italics">Creating a communication plan.</emphasis> University of North Dakota School of Medicine &amp; Health Sciences. https://ruralhealth.und.edu/communication/plan</para>
+    <para id="para-00023">Centers for Disease Control and Prevention. (1999). Framework for program evaluation in public health.<emphasis effect="italics"> Morbidity and Mortality Weekly Report, 48</emphasis>. https://www.cdc.gov/mmwr/PDF/rr/rr4811.pdf</para>
+    <para id="para-00024">Centers for Disease Control and Prevention. (2011). <emphasis effect="italics">Developing an effective evaluation plan</emphasis>. https://www.cdc.gov/obesity/downloads/cdc-evaluation-workbook-508.pdf</para>
+    <para id="para-00025">Centers for Disease Control and Prevention. (2012).<emphasis effect="italics"> Introduction to program evaluation for public health programs: A self-study guide.</emphasis> https://www.cdc.gov/evaluation/guide/introduction/index.htm</para>
+    <para id="para-00026">Centers for Disease Control and Prevention. (2014). <emphasis effect="italics">Types of evaluation.</emphasis> https://www.cdc.gov/std/program/pupestd/types%20of%20evaluation.pdf</para>
+    <para id="para-00027">Cooper, J., Murphy, J., Woods, C., Van Nassau, F., McGrath, A., Callaghan, D., Carroll, P., Kelly, P., Murphy, N., Murphy, M., &amp; Irish Physical Activity Research Collaboration. (2021). Barriers and facilitators to implementing community-based physical activity interventions: A qualitative systematic review.<emphasis effect="italics"> International Journal of Behavioral Nutrition and Physical Activity, 18</emphasis>(118). https://doi.org/10.1186/s12966-021-01177-w</para>
+    <para id="para-00028">Fernandez, M. E., Damschroder, L., &amp; Balasubramanian, B. (2022). Understanding barriers and facilitators for implementation across settings. In B. J. Weiner, C. C. Lewis, &amp; K. Sherr (Eds.), <emphasis effect="italics">Practical implementation science: Moving evidence into action</emphasis>. Springer Publishing. DOI: 10.1891/9780826186935</para>
+    <para id="para-00029">Georgia Health Policy Center. (2011). <emphasis effect="italics">Bringing the future into focus: A step-by-step sustainability planning workbook. </emphasis>https://www.ruralhealthinfo.org/sustainability/pdf/bringing-the-future-into-focus-sustainability-planning-workbook.pdf</para>
+    <para id="para-00030">Georgia Health Policy Center. (2020). <emphasis effect="italics">The DNA of program sustainability: Findings from a study of federal office of rural health policy grantees</emphasis>. https://ghpc.gsu.edu/download/the-dna-of-program-sustainability-findings-from-a-study-of-federal-office-of-rural-health-policy-grantees/</para>
+    <para id="para-00031">Hull, K. J., Suellentrop, K., &amp; Rios Villacorta, N. (2022). <emphasis effect="italics">Recruitment and retention</emphasis>. Administration on Children, Youth and Families, Family and Youth Services Bureau. https://teenpregnancy.acf.hhs.gov/sites/default/files/resource-files/RecruitmentAndRetention.pdf</para>
+    <para id="para-00032">Hunsicker, J. (2020). <emphasis effect="italics">Evaluation of the Kenton Hardin County Family Bike Program</emphasis> [Doctoral dissertation, Case Western Reserve University]. OhioLINK Electronic Theses and Dissertations Center. http://rave.ohiolink.edu/etdc/view?acc_num=casednp1571153144525499</para>
+    <para id="para-00033">Issel, L. M. &amp; Wells, R. (2018). <emphasis effect="italics">Health program planning and evaluation: A practical systematic approach for community health </emphasis>(4th ed.). Jones &amp; Bartlett.</para>
+    <para id="para-00034">Krebs, F., Lorenz, L., Nawabi, F., Luck, I., Bau, A-M., Alavli, A., &amp; Stock, S. (2021). Recruitment in health services research: A student on facilitators and barriers for recruitment of community-based healthcare providers. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">18</emphasis>(10521). https://doi.org/10.3390/ijerph181910521</para>
+    <para id="para-00035">Mathieson, A., Grande, G., &amp; Luker, K. (2019). Strategies, facilitators and barriers to implementation of evidence-based practice in community nursing: A systematic mixed-studies review and qualitative synthesis.<emphasis effect="italics"> Primary Health Care Research &amp; Development, 20</emphasis>(e6). DOI: 10.1017/S1463423618000488</para>
+    <para id="para-00036">National Archives. (2023). <emphasis effect="italics">Top 10 principles for plain language</emphasis>. https://www.archives.gov/open/plain-writing/10-principles.html</para>
+    <para id="para-00037">Ontario Agency for Health Protection and Promotion (Public Health Ontario), Snelling, S., &amp; Meserve, A. (2016).<emphasis effect="italics"> Evaluating health promotion programs: Introductory workbook</emphasis>. Queens Printer for Ontario. ISBN: 978-14606-8317-0</para>
+    <para id="para-00038">Prevention First. (2022). <emphasis effect="italics">Delivering culturally response prevention services professional development resource guide</emphasis>. https://www.prevention.org/Resources/648ff313-5591-4528-8449-a883089d3e13/Delivering%20Culturally%20Responsive%20Prevention%20Resource%20Guide%20FY22%20FINAL.pdf</para>
+    <para id="para-00039">Rural Health Information Hub. (2018a). <emphasis effect="italics">Health communication</emphasis>. https://www.ruralhealthinfo.org/toolkits/health-promotion/2/strategies/health-communication</para>
+    <para id="para-00040">Rural Health Information Hub. (2018b). <emphasis effect="italics">Recruiting and retaining program participants.</emphasis> https://www.ruralhealthinfo.org/toolkits/health-promotion/3/recruiting-and-maintaining</para>
+    <para id="para-00041">Rural Health Information Hub. (2022). <emphasis effect="italics">Module 5: Planning for funding and sustainability</emphasis>. https://www.ruralhealthinfo.org/toolkits/rural-toolkit/5/sustainability-planning</para>
+    <para id="para-00042">Smith, N. M. &amp; Wallace, A. D. (n.d.). <emphasis effect="italics">Plain English: At a glance</emphasis>. U.S. General Services Administration. https://www.plainlanguage.gov/resources/articles/at-a-glance/</para>
+    <para id="para-00043">U.S. Department of Health and Human Services. (2014). <emphasis effect="italics">Making health communication programs work</emphasis>. https://www.cancer.gov/publications/health-communication/pink-book.pdf</para>
+    <para id="para-00044">U.S. Department of Housing and Urban Development. (2012). Program sustainability. In U.S. Department of Housing and Urban Development, Office of Healthy Homes and Lead Hazard Control (Eds.), <emphasis effect="italics">Healthy Homes Program guidance manual </emphasis>(pp 157–172)<emphasis effect="italics">. </emphasis>https://www.hud.gov/sites/documents/HHPGM_FINAL_CH7.PDF</para>
+    <para id="para-00045">W. K. Kellogg Foundation (2004). <emphasis effect="italics">Logic model development guide</emphasis>. https://www.naccho.org/uploads/downloadable-resources/Programs/Public-Health-Infrastructure/KelloggLogicModelGuide_161122_162808.pdf</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>sustainability</term> <meaning>continuation of community health programs by decreasing dependence on one source of funding and shifting to a new funding stream because the program is valued, cost and resource efficient, effective, and supported by the community</meaning></definition>
+    </glossary>
 </document>
