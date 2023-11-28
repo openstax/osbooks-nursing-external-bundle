@@ -49,12 +49,12 @@ Tricyclic antidepressant<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Blocks the reuptake of norepinephrine (NE) and serotonin at the presynaptic nerve endings
 </entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> Initial dose: 25–50 mg/day orally at bedtime. Increase dose by 25 mg every 3–7 days. Maximum dose: 300 mg. Can be taken at one time or in divided doses.<newline/>
 <emphasis effect="italics">Adolescents (ages 12–17):</emphasis> 10 mg orally 3 times daily and 20 mg orally at bedtime.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
 Major depressive disorder (MDD)<newline/>
 Primary insomnia<newline/>
 Anxiety<newline/>
@@ -63,7 +63,7 @@ Chronic pain syndromes<newline count="2"/>
 Increases the effects of both NE and serotonin<newline/>
 Can increase dopamine neurotransmission in the frontal cortex
 </entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Tramadol<newline/>
 Anticholinergic agents<newline/>
 Fluvoxamine<newline/>
@@ -76,7 +76,7 @@ No significant interactions
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
 Prolongation of QTc interval<newline/>
 Tachycardia<newline/>
 Dysrhythmias<newline/>
@@ -89,7 +89,7 @@ Hypotension<newline/>
 Seizures<newline/>
 Photosensitization
 </entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline count="2"/>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
 Children &lt;12 years<newline/>
 Recent myocardial infarction<newline/>
 Uncompensated heart failure<newline/>
@@ -192,8 +192,8 @@ Selectively blocks neuronal reuptake of serotonin; over time, adaptive cellular 
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-Major depression (=8 years of age)<newline/>
-OCD (=7 years of age)<newline/>
+Major depression (&#8805;8 years of age)<newline/>
+OCD (&#8805;7 years of age)<newline/>
 Panic disorder<newline/>
 PMDD<newline/>
 Bulimia nervosa<newline/>
@@ -299,7 +299,7 @@ Adults >60 years of age</entry>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-Serotonin norepinephrine reuptake inhibitor<newline/>
+Serotonin norepinephrine reuptake inhibitor<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Powerful blockade of NE and serotonin reuptake<newline/>
 Weak blockade of dopamine reuptake</entry>
@@ -451,7 +451,7 @@ Hypertension</entry>
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00054">Phenelzine sulfate</term><newline/>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00054">Phenelzine&#160;sulfate</term><newline/>
 (<term class="no-emphasis" id="term-00055">Nardil</term>)</entry>
 <entry valign="top" align="left">15 mg orally 3 times daily; maximum dose: 90 mg/day.</entry>
 </row>
@@ -659,14 +659,14 @@ Depression/suicidal ideations in adolescents and young adults</entry>
 <note class="unfolding-casestudy" id="note-00005">
 <para id="para-00049">Read the following clinical scenario to answer the questions that follow.</para>
 <para id="para-00050">Jadalyn Sanchez is a 20-year-old Hispanic female student who arrives at the university’s student health center with complaints of frequent crying throughout the day and lack of motivation or interest in being with friends or engaging in activities she once used to enjoy. She describes a sense of helplessness and inadequacy at school. Jadalyn states it takes everything for her to get out of bed to attend classes. She has had no appetite and lost 12 pounds over the past month. She reports that her symptoms have been present for approximately 6 weeks. She denies any recent or past traumatic events or losses. She reports occasional dating but currently is not in any committed relationship. She is sexually active and states that she is compliant with her prescribed oral contraceptives. She denies tobacco or illicit drug use and says she drinks two or three 6-oz glasses of wine on the weekends. She does not recall being this sad in the past. She states normally she is very active, meets all due dates, and takes her academics very seriously. Her roommate talked her into coming to the center because of the drastic change.<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Family History</emphasis></span><newline/>
+<emphasis effect="bold">Family History</emphasis><newline/>
 Mother (age 50): History of depression<newline/>
 Father (age 54): History of hypertension and bipolar disorder<newline/>
 Sister (age 24): Panic disorder and ADHD<newline/>
 Brother (age 16): ADHD and GAD<newline/>
-<span class="blue-text"><emphasis effect="bold">Current Medications</emphasis></span><newline/>
+<emphasis effect="bold">Current Medications</emphasis><newline/>
 Loestrin Fe 1/20, once daily</para>
-<table class="vertically-tight" id="table-00011">
+<table class="vertically-tight full-width" id="table-00011">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -679,8 +679,8 @@ Loestrin Fe 1/20, once daily</para>
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
-<entry valign="top" align="left">98.6°F</entry>
+ <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+ <entry valign="top" align="left">97.6°F</entry>
 <entry valign="top" align="left" morerows="6">
 <list list-type="bulleted" id="list-00011">
 <item><emphasis effect="italics">HEENT:</emphasis> Normocephalic, bilateral eyes red and puffy, positive clear nasal drainage, and minimal eye contact. Ears and throat unremarkable. No lymphadenopathy. Thyroid nonpalpable with positive rise upon swallowing.</item>
@@ -689,10 +689,6 @@ Loestrin Fe 1/20, once daily</para>
 <item><emphasis effect="italics">Gastrointestinal:</emphasis> Abdomen round, soft, and nontender. Bowel sounds present in all four quadrants.</item>
 <item><emphasis effect="italics">Musculoskeletal:</emphasis> Active and full range of motion in bilateral upper extremities and lower extremities with 5/5 muscle strength.</item>
 </list></entry>
-</row>
-<row>
-<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
-<entry valign="top" align="left">97.6°F</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
