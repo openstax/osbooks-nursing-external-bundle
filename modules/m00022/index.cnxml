@@ -83,7 +83,7 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Serum albumin (g/dL)</entry>
+    <entry valign="top" align="left">Serum albumin&#160;(g/dL)</entry>
     <entry valign="top" align="left">3.5–4.5</entry>
     <entry valign="top" align="left">3.0–3.49</entry>
     <entry valign="top" align="left">2.5–2.99</entry>
@@ -123,7 +123,7 @@
     <entry valign="top" align="left">3</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Cholesterol (mg/dL)</entry>
+    <entry valign="top" align="left">Cholesterol&#160;(mg/dL)</entry>
     <entry valign="top" align="left">Greater than 180</entry>
     <entry valign="top" align="left">140–180</entry>
     <entry valign="top" align="left">100–139</entry>
@@ -526,7 +526,7 @@
     <table class="vertically-tight full-width" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
