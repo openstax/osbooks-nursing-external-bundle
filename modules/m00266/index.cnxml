@@ -5,9 +5,736 @@
     <md:content-id>m00266</md:content-id>
     <md:uuid>909d69a8-e55a-439f-949a-9936b0c83bba</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of drugs used to treat depression.</item>
+<item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat depression.</item>
+<item>Describe nursing implications of drugs used to treat depression.</item>
+<item>Explain the client education related to drugs used to treat depression.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Depression</term> is an <term id="term-00002">affective</term> disorder in which the person experiences feelings of sadness, anger, frustration, hopelessness, and helplessness. Although most individuals can feel this way at any point in their lives, genuine clinical depressive symptoms significantly interfere with daily life over a sustained period. This condition does not discriminate and can affect all ages, races, sexes, and genders. According to the <term class="no-emphasis" id="term-00003">American Psychiatric Association</term> (2022), the diagnostic criteria for major depressive disorder (MDD) is having five or more symptoms present during the same 2-week period, and it represents a change from previous function. At least one of the symptoms is either depressed mood most of the day nearly every day or loss of interest or pleasure. Other depressive symptoms include significant changes in weight or appetite, insomnia or <term id="term-00004">hypersomnia</term>, observable psychomotor agitation or retardation, fatigue, feelings of worthlessness or excessive and/or inappropriate guilt, diminished ability to think or concentrate, difficulty with decision making, and recurrent thoughts of death. Additionally, the symptoms cause clinically significant distress or impairment and are not in response to a significant loss, a medical condition, or the effects of substance use.</para>
+<para id="para-00003">The pathophysiology of depression is not well understood. Clients may need to try different medications before finding one that improves their symptoms with the fewest side effects. Research is ongoing to better understand the biochemical changes that occur with depression and, accordingly, which antidepressant medications are the most effective. Nurses who work with clients taking these medications should monitor current research and clinical guidelines for the most up-to-date findings and recommendations.</para>
+<note class="special-considerations" id="note-00001">
+<title>Racial and Ethnic Considerations</title>
+<para id="para-00004">Studies have shown there are differences in <term class="no-emphasis" id="term-00005">antidepressant responses in populations of color</term>. These differences are mainly related to genetic or ethnic variations in the <term id="term-00006">cytochrome P450 enzyme system</term> responsible for the metabolism of most drugs.</para>
+<list list-type="bulleted" id="list-00002">
+<item><term class="no-emphasis" id="term-00007">Black clients</term> tend to have higher plasma drug levels for a given dose, respond more rapidly, experience a higher incidence of adverse drug reactions (ADRs), and metabolize tricyclic antidepressants more slowly than White clients.</item>
+<item><term class="no-emphasis" id="term-00008">Asian clients</term> metabolize antidepressants more slowly than White clients. Based on current studies, Asian clients are generally considered to not metabolize antidepressants as quickly as clients from other racial and ethnic backgrounds. Metabolism is important for preparing the drug for excretion. If metabolism is inadequate, the drug accumulates in the plasma, and elevated drug levels induce toxicity.</item>
+</list>
+<para id="para-00005">(Source: Marazziti et al., 2021)</para>
+</note>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Tricyclic Antidepressants (TCAs)</title>
+<para id="para-00006"><term class="no-emphasis" id="term-00009">Tricyclic antidepressants (TCAs)</term> were introduced in the late 1950s. For decades, these were the drugs of choice to treat depression. Although they have been very effective over the years, they have some serious adverse drug reactions (ADRs), including <term id="term-00010">cardiotoxicity</term>. Therefore, today they are considered second-line drugs. If a client was able to tolerate a TCA in the past and it was effective, this may be the basis for selecting a TCA over a different class.</para>
+<para id="para-00007">Tricyclic antidepressants, in low doses, are frequently used for other indications, such as neuropathy and insomnia.</para>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00008">Tricyclic antidepressants block acetylcholine (muscarinic) receptors; therefore, blurred vision, dry mouth, constipation, and urine retention are common due to the anticholinergic properties. In addition, because they block histamine receptors, sedation and weight gain occur. Due to the blockade of alpha-1 adrenergic receptors, sedation and hypotension are common adverse effects. TCAs decrease vagal influence on the heart secondary to muscarinic blockade and act directly on the bundle of His to slow conduction. These drugs decrease the seizure threshold due to the blocking of ion channels, which can lead to the occurrence of seizures. Clients with a seizure disorder may need a dose increase for their antiseizure medication. Glaucoma is a contraindication because the anticholinergic properties can increase intraocular pressure (IOP).</para>
+<para id="para-00009">Medications that lower the seizure threshold may increase the risk of seizures in clients taking TCAs. Concurrent use of TCAs with other anticholinergic and central nervous system (CNS) depressant drugs can worsen those effects. Certain antipsychotics can increase amitriptyline concentrations, and use of monoamine oxidase inhibitors (MAOIs) should be separated by 2 weeks due to the risk for serotonin syndrom<emphasis effect="bold">e</emphasis> (described in the following section). Because TCAs can prolong the heart’s QTc interval, use with caution in clients who have bradycardia, are taking drugs that can induce bradycardia, or those with electrolyte abnormalities that could result in a life-threatening dysrhythmia.</para>
+<para id="para-00010">[link]Table 13.1[/link] is a drug prototype table for tricyclic antidepressants featuring amitriptyline. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00011">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="1*"/>
+<colspec colnum="2" colname="col2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Tricyclic antidepressant<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks the reuptake of norepinephrine (NE) and serotonin at the presynaptic nerve endings
+</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline count="2"/>
+<emphasis effect="italics">Adults:</emphasis> Initial dose: 25–50 mg/day orally at bedtime. Increase dose by 25 mg every 3–7 days. Maximum dose: 300 mg. Can be taken at one time or in divided doses.<newline/>
+<emphasis effect="italics">Adolescents (ages 12–17):</emphasis> 10 mg orally 3 times daily and 20 mg orally at bedtime.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline count="2"/>
+Major depressive disorder (MDD)<newline/>
+Primary insomnia<newline/>
+Anxiety<newline/>
+Chronic pain syndromes<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increases the effects of both NE and serotonin<newline/>
+Can increase dopamine neurotransmission in the frontal cortex
+</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline count="2"/>
+Tramadol<newline/>
+Anticholinergic agents<newline/>
+Fluvoxamine<newline/>
+Phenothiazines or haloperidol<newline/>
+Monoamine oxidase inhibitors (MAOIs)<newline/>
+Calcium channel blockers/beta blockers/digoxin<newline/>
+CNS depressants (opioids, antihistamines)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions
+</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline count="2"/>
+Prolongation of QTc interval<newline/>
+Tachycardia<newline/>
+Dysrhythmias<newline/>
+Sedation<newline/>
+Dry mouth<newline/>
+Blurred vision<newline/>
+Urine retention/constipation<newline/>
+Weight gain<newline/>
+Hypotension<newline/>
+Seizures<newline/>
+Photosensitization
+</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline count="2"/>
+Children &lt;12 years<newline/>
+Recent myocardial infarction<newline/>
+Uncompensated heart failure<newline/>
+Cardiac dysrhythmia<newline count="2"/>
+Caution:<newline/>
+Seizures<newline/>
+Urinary retention/benign prostatic hyperplasia (BPH)<newline/>
+Angle-closure glaucoma
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Amitriptyline Hydrochloride</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00005">
+<title>Selective Serotonin Reuptake Inhibitors</title>
+<para id="para-00011"><term class="no-emphasis" id="term-00012">Selective serotonin reuptake inhibitors (SSRIs)</term> are the most commonly prescribed antidepressants. All are indicated for major depression. Several of these medications are also prescribed “off-label” for other psychiatric disorders, meaning the prescriber is using them for purposes other than what they were approved for by the Food and Drug Administration (FDA) but still based upon scientific rationale (Van Norman, 2023). Normally, the actions of serotonin are terminated by active reuptake back into the nerve terminals from which it was released. By inhibiting the reuptake pump, the SSRIs cause serotonin to accumulate in the synaptic space. SSRIs have little effect on other neurotransmitters and accordingly cause fewer adverse effects (Chu &amp; Wadhwa, 2023). The most common SSRIs include:</para>
+<list list-type="bulleted" id="list-00003">
+<item><emphasis effect="italics">Citalopram:</emphasis> This drug is FDA-approved only for major depression; however, it is used off-label for other conditions.</item>
+<item><emphasis effect="italics">Paroxetine:</emphasis> In addition to major depression, this drug is used for obsessive-compulsive disorder (OCD), panic disorder, social phobia, generalized anxiety disorder (GAD), posttraumatic stress disorder (PTSD), and premenstrual dysphoric disorder (PMDD).</item>
+<item><emphasis effect="italics">Fluoxetine:</emphasis> This drug is used for major depression, OCD, panic disorder, PMDD, and bulimia nervosa. Fluoxetine does not block receptors for histamine, NE, or acetylcholine; therefore, the drug does not cause sedation, orthostatic hypotension, anticholinergic effects, or cardiotoxicity.</item>
+<item><emphasis effect="italics">Sertraline hydrochloride:</emphasis> This is FDA-approved for major depression, PMDD, OCD, PTSD, social anxiety disorder, and panic disorder.</item>
+<item><emphasis effect="italics">Escitalopram:</emphasis> This drug is FDA-approved for GAD in addition to the indications listed for fluoxetine.</item>
+</list>
+<para id="para-00012">[link]Table 13.2[/link] lists common SSRIs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00013">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Citalopram</term><newline/>
+(<term class="no-emphasis" id="term-00015">Celexa</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 20 mg/day orally; maximum dose: 40 mg/day.<newline/>
+<emphasis effect="italics">Older adults (>60 years):</emphasis> 20 mg orally daily.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Escitalopram</term><newline/>
+(<term class="no-emphasis" id="term-00017">Lexapro</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 10 mg/day orally; may increase to maximum dose of 20 mg/day after a minimum of 1 week of therapy.<newline/>
+<emphasis effect="italics">Adolescents 12–17 years:</emphasis> 10 mg/day orally; may increase to maximum dose of 20 mg/day if symptoms do not lessen within 3 weeks of therapy.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Fluoxetine</term><newline/>
+(<term class="no-emphasis" id="term-00019">Prozac</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release capsules:</emphasis> 20 mg orally once daily in the morning; may increase after several weeks if necessary; maximum dose: 60 mg/day.<newline/>
+<emphasis effect="italics">Delayed-release capsules:</emphasis> 90 mg orally weekly, starting 7 days after the last 20-mg immediate dose.<newline/>
+<emphasis effect="italics">Adolescents 12–17 years:</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release capsules:</emphasis> 10 mg/day orally; may increase to 20 mg/day after 1 week if necessary.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Paroxetine</term><newline/>
+(<term class="no-emphasis" id="term-00021">Paxil</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release tablets:</emphasis> 20 mg orally once daily in the morning; increase dose at 1-week intervals if necessary; usual range: 20–50 mg/day; maximum dose: 50 mg/day.<newline/>
+<emphasis effect="italics">Controlled-release tablets:</emphasis> 25 mg orally once daily in the morning; maximum dose: 62.5 mg/day.<newline/>
+<emphasis effect="italics">Older adults (>60 years):</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release tablets:</emphasis> 10 mg orally once daily; in the morning; maximum dose: 40 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Sertraline</term><newline/>
+(<term class="no-emphasis" id="term-00023">Zoloft</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 50 mg orally once daily morning or evening; may increase dose at 1-week intervals if necessary; maximum dose: 200 mg/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Selective Serotonin Reuptake Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00013">Sexual dysfunction is one main reason why clients may elect to stop taking SSRIs. Impotence, delayed or absent ejaculation or orgasm, and decreased libido can be side effects of these medications. This can be managed in several ways: reduction of the dose, taking drug holidays, or adding a drug that can overcome the problem. Weight gain can occur due to the decreased sensitivity of serotonin receptors that regulate appetite.</para>
+<para id="para-00014">MAOIs and fluoxetine should be separated at least 5 weeks apart to prevent <term class="no-emphasis" id="term-00024">serotonin syndrome</term>. The remaining SSRIs and MAOIs should be separated by 2 weeks. This is due to the long half-life of fluoxetine. Serotonin syndrome is characterized by altered mental status, anxiety, hallucinations, <term id="term-00025">hyperpyrexia</term>, muscle rigidity, hyperreflexia, diaphoresis, and tremor. Tramadol also can increase the risk of serotonin syndrome when combined with SSRIs. The syndrome will resolve spontaneously after the drug(s) have been stopped.</para>
+<para id="para-00015">Fluoxetine and other SSRIs can increase the risk of gastrointestinal (GI) bleeding either by impeding platelet aggregation or by increasing gastric acidity (Edinoff et al., 2022). These drugs can increase the risk for bleeding, so caution needs to be exercised for clients taking aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), and anticoagulants because these can further the risk of bleeding. Fluoxetine also has CNS stimulant effects, which can cause insomnia and anxiety.</para>
+<para id="para-00016">[link]Table 13.3[/link] is a drug prototype table for SSRIs featuring fluoxetine. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00026">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Selective serotonin reuptake inhibitor<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Selectively blocks neuronal reuptake of serotonin; over time, adaptive cellular changes take place in response to prolonged reuptake blockade</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release capsules:</emphasis> 20 mg orally once daily in the morning; may increase after several weeks if necessary; maximum dose: 60 mg/day.<newline/>
+<emphasis effect="italics">Delayed-release capsules:</emphasis> 90 mg orally weekly, starting 7 days after the last 20-mg immediate dose.<newline/>
+<emphasis effect="italics">Adolescents 12–17 years:</emphasis> <newline/>
+<emphasis effect="italics">Immediate-release capsules:</emphasis> 10 mg/day orally; may increase to 20 mg/day after 1 week if necessary.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Major depression (≥8 years of age)<newline/>
+OCD (≥7 years of age)<newline/>
+Panic disorder<newline/>
+PMDD<newline/>
+Bulimia nervosa<newline/>
+Bipolar depression (in combination with olanzapine)<newline/>
+Treatment-resistant depression (in combination with olanzapine)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Concentration of serotonin in the synapse increases, resulting in enhanced activation of postsynaptic serotonin receptors</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Tramadol<newline/>
+MAOIs<newline/>
+Warfarin<newline/>
+Aspirin<newline/>
+NSAIDs<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Nausea<newline/>
+Headache<newline/>
+Insomnia<newline/>
+Nervousness<newline/>
+Sexual dysfunction<newline/>
+Weight gain<newline/>
+Suicidal ideations (especially in children/adolescents)</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline count="2"/>
+Caution:<newline/>
+GI ulcers<newline/>
+History of GI bleeding<newline/>
+Adults >60 years of age</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Fluoxetine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="safety-alert" id="note-00002">
+<title>Similarly Named Drugs Associated with SSRIs</title>
+<para id="para-00017">Do not confuse:</para>
+<list list-type="bulleted" id="list-00004">
+<item><term class="no-emphasis" id="term-00027">Celexa</term> (SSRI) with <term class="no-emphasis" id="term-00028">Celebrex</term> (proton pump inhibitor) or <term class="no-emphasis" id="term-00029">Zyprexa</term> (antipsychotic)</item>
+<item><term class="no-emphasis" id="term-00030">Fluoxetine</term> (SSRI) with <term class="no-emphasis" id="term-00031">loxitane</term> (antipsychotic)</item>
+<item><term class="no-emphasis" id="term-00032">Prozac</term> (SSRI) with <term class="no-emphasis" id="term-00033">Prograf</term> (immunosuppressant), <term class="no-emphasis" id="term-00034">Provera</term> (progesterone hormone), or <term class="no-emphasis" id="term-00035">Prilosec</term> (proton pump inhibitor)</item>
+<item><term class="no-emphasis" id="term-00036">Paxil</term> (SSRI) with <term class="no-emphasis" id="term-00037">Plavix</term> (antiplatelet) or <term class="no-emphasis" id="term-00038">Taxol</term> (chemotherapy)</item>
+<item><term class="no-emphasis" id="term-00039">Sertraline</term> (SSRI) with <term class="no-emphasis" id="term-00040">cetirizine</term> (histamine-1 receptor antagonist)</item>
+</list>
+<para id="para-00018">(Source: Institute for Safe Medication Practices [ISMP], 2023)</para>
+</note>
+</section>
+</section>
+<section id="sect-00007">
+<title>Serotonin Norepinephrine Reuptake Inhibitors</title>
+<para id="para-00019">Besides blocking norepinephrine (NE) and serotonin, <term class="no-emphasis" id="term-00041">serotonin norepinephrine reuptake inhibitors (SNRIs)</term> have minimal effects on other transmitters or receptors. SNRIs increase the levels of serotonin and NE in the brain, which play an important role in mood. These drugs can also weakly inhibit dopamine reuptake. Pharmacological effects are similar to the SSRIs. The most common SNRIs are:</para>
+<list list-type="bulleted" id="list-00005">
+<item><emphasis effect="italics">Venlafaxine:</emphasis> Used in major depression, panic disorder, social phobia, and GAD</item>
+<item><emphasis effect="italics">Duloxetine:</emphasis> Used for MDD, diabetic peripheral neuropathic pain, fibromyalgia, GAD, social anxiety, panic disorder, and chronic musculoskeletal pain in adults. Used for depression, GAD, and fibromyalgia in <term class="no-emphasis" id="term-00042">children</term>.</item>
+<item><emphasis effect="italics">Levomilnacipran:</emphasis> FDA-approved only for major depression but used off-label for GAD and chronic pain disorder</item>
+</list>
+<para id="para-00020">[link]Table 13.4[/link] lists common SNRIs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00043">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Venlafaxine</term><newline/>
+(<term class="no-emphasis" id="term-00045">Effexor</term>)<newline/></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 37.5 mg/day (extended release) or 25–50 mg divided into 2–3 doses (immediate release) for 1 week; increase daily dose no faster than 75 mg every 4 days until desired response is optimal; maximum dose: 375 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00046">Duloxetine</term><newline/>
+(<term class="no-emphasis" id="term-00047">Cymbalta</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">MDD in adults:</emphasis> Initial dose: 40 mg/day orally in 2 doses; can increase to 60 mg/day in 1–2 doses if necessary; maximum dose: 120 mg/day.<newline/>
+<emphasis effect="italics">GAD in adults:</emphasis> 30–60 mg/day orally in capsules; maximum dose: 120 mg/day orally.<newline/>
+<emphasis effect="italics">MDD and GAD in children (7–17 years):</emphasis> 30 mg orally once daily; maximum dose: 120 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00048">Levomilnacipran</term><newline/>
+(<term class="no-emphasis" id="term-00049">Fetzima</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 20 mg/day orally for 2 days, then increase to 40 mg/day; can increase by 40 mg/day every 2 or more days; maximum dose: 120 mg/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Serotonin Norepinephrine Reuptake Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00008">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00021">Similar to most SSRIs, SNRIs should not be taken until the client has stopped taking MAOIs for at least 14 days. This is to decrease the risk of serotonin syndrome.</para>
+<para id="para-00022">Neonatal syndrome can occur when duloxetine is taken late in pregnancy. This syndrome is characterized by irritability, high-pitched cry, tremor, respiratory distress, and possible seizures in the neonate.</para>
+<para id="para-00023">Use with caution for clients who have <term id="term-00050">bipolar disorder</term>, unless they are treated with a concomitant mood-stabilizing agent.</para>
+<para id="para-00024">SNRIs have the potential to increase blood pressure; therefore, anyone with uncontrolled hypertension should avoid this class of drugs. Unwanted effects of insomnia, decreased appetite, increased blood pressure, and urinary retention can occur when the levels of serotonin and NE become elevated in certain parts of the brain and periphery that play no role in inducing the therapeutic effects.</para>
+<para id="para-00025">[link]Table 13.5[/link] is a drug prototype table for SNRIs featuring duloxetine. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00051">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00005">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Serotonin norepinephrine reuptake inhibitor<newline/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Powerful blockade of NE and serotonin reuptake<newline/>
+Weak blockade of dopamine reuptake</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">MDD in adults:</emphasis> Initial dose: 40 mg/day orally in 2 doses; can increase to 60 mg/day in 1–2 doses if necessary; maximum dose: 120 mg/day.<newline/>
+<emphasis effect="italics">GAD in adults:</emphasis> 30–60 mg/day orally in capsules; maximum dose: 120 mg/day orally.<newline/>
+<emphasis effect="italics">MDD and GAD in children (7–17 years):</emphasis> 30 mg orally once daily; maximum dose: 120 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+MDD<newline/>
+Diabetic peripheral neuropathic pain<newline/>
+Fibromyalgia<newline/>
+GAD<newline/>
+Social anxiety<newline/>
+Panic disorder<newline/>
+Chronic musculoskeletal pain<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increases concentration of NE and dopamine in the brain</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+MAOIs<newline/>
+Antiplatelet agents<newline/>
+Anticoagulants<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Nausea<newline/>
+Headache<newline/>
+Anxiety/nervousness<newline/>
+Hyperhidrosis (excessive sweating)<newline/>
+Insomnia<newline/>
+Hepatotoxicity<newline/>
+Weight loss (dose-dependent)<newline/>
+Sexual dysfunction<newline/>
+Elevated blood pressure<newline/>
+Urinary retention<newline/>
+Neonatal withdrawal syndrome<newline/>
+Suicidal ideations (especially in children)<newline/>
+Seizures</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+None<newline count="2"/>
+Caution:<newline/>
+Significant hepatic dysfunction<newline/>
+Orthostatic hypotension<newline/>
+Angle-closure glaucoma<newline/>
+Substantial alcohol user<newline/>
+Uncontrolled hypertension<newline/>
+Seizure disorders<newline/>
+Bipolar disorder<newline/>
+Hyponatremia<newline/>
+Depression/suicidal ideations in children, adolescents, and young adults</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Duloxetine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00009">
+<title>Norepinephrine Dopamine Reuptake Inhibitors</title>
+<para id="para-00026"><term class="no-emphasis" id="term-00052">Norepinephrine dopamine reuptake inhibitors (NDRIs)</term> inhibit the reuptake of dopamine, NE, and serotonin. Several metabolites are active, giving this class a prolonged duration of action. The most common drug in this class is bupropion hydrochloride (Aplenzin, Wellbutrin, Zyban). It is used for depression, seasonal affective disorder (SAD), and smoking cessation, and as an adjunct to other antidepressants if the client did not obtain a full therapeutic response with them.</para>
+</section>
+<section id="sect-00010">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00027">NDRIs have several CNS stimulant effects including agitation, anxiety, excitement, increased motor activity, and restlessness. These effects usually occur during the first few days of treatment. (The client may require a sedative for the first few days.) These effects occur because this drug is similar in structure to amphetamines. These effects also could potentially increase the risk of abuse.</para>
+<para id="para-00028">The dose must be reduced with any impaired hepatic or renal function. Clients should be screened for bipolar disorder before starting therapy to prevent mania or hypomania. When the drug is being used for smoking cessation, it can cause neuropsychiatric adverse effects. Postmarketing reports include serious or clinically significant changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide (DailyMed, <emphasis effect="italics">Bupropion</emphasis>, 2023). This drug should be used cautiously in clients with a history of psychosis.</para>
+<para id="para-00029">Unlike other antidepressants, this class does not cause sexual dysfunction or orthostatic hypotension.</para>
+<para id="para-00030">A higher incidence of seizures was observed in clients being treated with the immediate-release formulation who have a current or past diagnosis of anorexia or bulimia nervosa. In addition, clients with a history of seizure disorders may need their drug dosages modified, because bupropion decreases the seizure threshold and could trigger seizure activity.</para>
+<para id="para-00031">The SSRIs listed in [link]Table 13.2[/link] inhibit the metabolism of bupropion; therefore, bupropion levels are increased, which increases the risk of seizures. MAOIs can increase the risk for bupropion toxicity as well as increase the risk of hypertensive crisis. Clients should discontinue MAOIs at least 2 weeks before starting bupropion.</para>
+<para id="para-00032">[link]Table 13.6[/link] is a drug prototype table for NDRIs featuring bupropion hydrochloride. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00006">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Norepinephrine dopamine reuptake inhibitor<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Inhibits the reuptake of dopamine, norepinephrine, and serotonin</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Immediate release:</emphasis> Initial dose: 75 mg orally twice daily, increasing to 100 mg twice daily, and then 100 mg 3 times daily. Maximum dose: 450 mg/day.<newline/>
+<emphasis effect="italics">Extended release:</emphasis> Initial dose: 150 mg/day; can increase to 300 mg/day after 4 days; maximum dose: 450 mg/day.<newline/>
+<emphasis effect="italics">Sustained release:</emphasis> 100 mg orally twice daily; increase to 150 mg after 3 days; maximum dose: 450 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Depression<newline/>
+SAD<newline/>
+Smoking cessation<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increases the levels of dopamine, NE, and serotonin</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Sertraline<newline/>
+Fluoxetine<newline/>
+Paroxetine<newline/>
+MAOIs used within 14 days<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Seizures<newline/>
+Activation of mania/hypomania<newline/>
+Neuropsychiatric effects<newline/>
+Insomnia/tremors<newline/>
+Tachycardia<newline/>
+Increase in blood pressure<newline/>
+Dry mouth<newline/>
+Headache<newline/>
+Constipation/nausea/vomiting<newline/>
+Anorexia/weight loss<newline/>
+Photosensitivity</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity<newline/>
+Seizures<newline/>
+Conditions that may lower seizure threshold (anorexia/bulimia nervosa, alcohol/substance withdrawal)<newline count="2"/>
+Caution:<newline/>
+History of psychosis<newline/>
+Impaired hepatic function<newline/>
+Impaired renal function<newline/>
+Hyperthyroidism<newline/>
+Hypertension</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Bupropion Hydrochloride</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00011">
+<title>Monoamine Oxidase Inhibitors</title>
+<para id="para-00033"><term class="no-emphasis" id="term-00053">Monoamine oxidase inhibitors (MAOIs)</term> are third-line agents for treating depression. MAOIs are not often used in practice today, mainly because of the numerous food and drug interactions that produce severe hypertension. Blood pressure could be elevated enough to cause a stroke or myocardial infarction. MAOIs are used when other antidepressants have been unsuccessful. The following are the most common MAOIs:</para>
+<list list-type="bulleted" id="list-00006">
+<item><emphasis effect="italics">Phenelzine sulfate:</emphasis> Used to treat major depression.</item>
+<item><emphasis effect="italics">Selegiline hydrochloride:</emphasis> This is the first and only transdermal treatment for major depression. It is a potent irreversible MAOI with a great affinity for MAO-B in the brain at therapeutic doses. At higher doses, the drug becomes nonselective and can inhibit both MAO-A and MAO-B. It increases dopaminergic activity by interfering with dopamine reuptake at the synapse.</item>
+</list>
+<para id="para-00034">[link]Table 13.7[/link] lists common MAOIs and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00007">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00054">Phenelzine sulfate</term><newline/>
+(<term class="no-emphasis" id="term-00055">Nardil</term>)</entry>
+<entry valign="top" align="left">15 mg orally 3 times daily; maximum dose: 90 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00056">Selegiline</term><newline/>
+(<term class="no-emphasis" id="term-00057">Emsam</term>)</entry>
+<entry valign="top" align="left">6 mg/24 hours transdermally; may titrate based on clinical response in increments of 3 mg/day every 2 weeks; maximum dose: 12 mg/24 hours.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Monoamine Oxidase Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00012">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00035">MAOIs are contraindicated in <term class="no-emphasis" id="term-00058">older adults</term> due to their high risk of diminished hepatic, renal, and cardiac function.</para>
+<para id="para-00036">Tyramine is a <term id="term-00059">monoamine</term> precursor of NE. Normally, tyramine is deactivated in the GI tract and liver by the monoamine oxidase enzyme to avoid large amounts reaching the systemic circulation. Because these drugs block the monoamine oxidase enzyme, tyramine is absorbed systemically. It is transported to the adrenergic nerve terminals, where it causes a sudden release of significant amounts of NE. This NE activates the sympathetic nervous system.</para>
+<para id="para-00037">The antidepressants listed here can increase the risk of serotonin syndrome. Vasoconstrictors and sympathomimetics can intensify the hypertensive effect. The use of opioids and MAOIs can result in hyperpyrexia (high fever). Caffeine can also exacerbate the CNS stimulatory effect. Blood glucose levels may decrease with MAOIs, resulting in hypoglycemic effects. In addition, MAOIs can enhance insulin receptor sensitivity, compounding the hypoglycemic state. A decrease in dosage may be necessary.</para>
+<para id="para-00038">[link]Table 13.8[/link] is a drug prototype table for MAOIs featuring phenelzine sulfate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00008">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Monoamine oxidase inhibitor<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Irreversibly binds to the MAO-A enzyme</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+15 mg orally 3 times daily; maximum dose: 90 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Major depression<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increases and enhances the effect of norepinephrine, dopamine, and serotonin</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Antidepressants (TCAs, SSRIs, SNRIs, bupropion, carbamazepine)<newline/>
+Vasoconstrictors<newline/>
+Sympathomimetics (amphetamines, dextromethorphan, and diet pills)<newline/>
+Opioids<newline/>
+Insulin<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Caffeine<newline/>
+Foods high in tyramine (milk, turkey, chicken, oats, seeds, soy products, seafood, canned tuna, aged cheeses, brewer’s yeast, whole-wheat bread)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Hypertensive crisis (headache, tachycardia, nausea and vomiting)<newline/>
+Dysrhythmias<newline/>
+CNS stimulation (insomnia, anxiety, agitation)<newline/>
+Hepatotoxicity<newline/>
+Orthostatic hypotension<newline/>
+Sexual dysfunction<newline/>
+Dizziness</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Severe hepatic disease<newline/>
+Pheochromocytoma (adrenal tumor)<newline/>
+Congestive heart failure<newline/>
+Hypersensitivity to the drug or its ingredients<newline count="2"/>
+Caution:<newline/>
+Renal impairment<newline/>
+Hepatic insufficiency<newline/>
+Older adults</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Phenelzine Sulfate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00013">
+<title>Miscellaneous Antidepressants</title>
+<para id="para-00039">Some drugs that work just as well for depressive symptoms but do not fit into the criteria of other drug classes. They include:</para>
+<list list-type="bulleted" id="list-00007">
+<item><emphasis effect="italics">Mirtazapine:</emphasis> Used to treat major depressive disorder.</item>
+<item><emphasis effect="italics">Trazodone hydrochloride:</emphasis> This drug is a serotonin 2 antagonist/reuptake inhibitor. It increases the amount of serotonin available. It is more frequently used for sedation and sleep than for depression. High doses are needed for antidepressant effects; however, these doses cause significant sedation. The drug is often concurrently administered with a stimulating antidepressant such as bupropion.</item>
+<item><emphasis effect="italics">Vortioxetine:</emphasis> Increases the release of several neurotransmitters (serotonin, NE, dopamine, glutamate, acetylcholine, and histamine). In addition, it reduces the release of GABA, a neurotransmitter that inhibits mood-related neurotransmitters, through three different modes of action.</item>
+</list>
+<para id="para-00040">[link]Table 13.9[/link] lists common miscellaneous antidepressants and typical routes and dosing for adult clients.</para>
+<table class="vertically-tight" id="table-00009">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00060">Mirtazapine</term><newline/>
+(<term class="no-emphasis" id="term-00061">Remeron</term>)</entry>
+<entry valign="top" align="left">Initial dose: 15 mg/day orally in the evening; increase every 1–2 weeks until desired effect is achieved; maximum dose: 45 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00062">Trazodone hydrochloride</term><newline/></entry>
+<entry valign="top" align="left">Initial dose: 150 mg/day orally in divided doses; can increase by 50 mg/day every 3–4 days; maximum dose: 400 mg/day divided into 2 doses.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00063">Vortioxetine</term><newline/>
+(<term class="no-emphasis" id="term-00064">Trintellix</term>)</entry>
+<entry valign="top" align="left">Initial dose: 10 mg/day orally; can increase to 20 mg/day or decrease to 5 mg/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Miscellaneous Antidepressants</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00014">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00041">The antihistamine effects of mirtazapine and trazodone hydrochloride cause sedation and weight gain. Agranulocytosis is an identified adverse effect. If a client experiences generalized malaise, chills, fever, or myalgia, similar to the flu, this may indicate a low white blood cell (WBC) count. The provider should be notified. Because mirtazapine is associated with significant weight gain, clients should be weighed prior to starting the drug to determine their body mass index (BMI). If they are deemed overweight or obese, it is important to identify whether the client is prediabetic or diabetic and/or dyslipidemic. If so, clients should be treated or referred for therapy.</para>
+<para id="para-00042">Any of the miscellaneous antidepressants can cause a fatal serotonin syndrome when combined with MAOIs. Do not use with MAOIs or within 14 days after they have been discontinued. Drugs such as benzodiazepines, opioids, and antihistamines can increase the sedative properties.</para>
+<para id="para-00043">[link]Table 13.10[/link] is a drug prototype table for miscellaneous antidepressants featuring mirtazapine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00010">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Miscellaneous antidepressant<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks alpha-2 adrenergic presynaptic receptors, increasing NE neurotransmission<newline/>
+Blocks alpha-2 adrenergic presynaptic receptor on serotonin neurons, leading to an increase in serotonin levels<newline/>
+Blocks histamine-1 receptors</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+Initial dose: 15 mg/day orally in the evening; increase every 1–2 weeks until desired effect is achieved; maximum dose: 45 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Major depressive disorder<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Increased levels of NE and serotonin</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+MAOIs<newline/>
+Benzodiazepines/opioids/antihistamines<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+No significant interactions</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Sedation<newline/>
+Weight gain<newline/>
+Increased appetite<newline/>
+Elevates cholesterol and triglyceride levels<newline/>
+Hypotension<newline/>
+Malaise, fever, sore throat, myalgia, chills<newline/>
+Leukopenia (low WBC count)</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Hypersensitivity to the drug or any of its ingredients<newline/>
+Severe neutropenia<newline count="2"/>
+Caution:<newline/>
+Dyslipidemia<newline/>
+Angle-closure glaucoma<newline/>
+Risk factors for QT prolongation<newline/>
+Seizures<newline/>
+Hyponatremia<newline/>
+Impaired hepatic function<newline/>
+Bipolar disorder<newline/>
+Depression/suicidal ideations in adolescents and young adults</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Mirtazapine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00015">
+<title>Nursing Implications</title>
+<para id="para-00044">The nurse should do the following for clients who are taking antidepressants:</para>
+<list list-type="bulleted" id="list-00008">
+<item>Obtain orders for baseline testing prior to the client starting the medication and continue during treatment to monitor for side effects: an electrocardiogram for clients over age 50 and lab work (complete blood count [CBC], electrolytes, lipid panel, liver function tests, and HgbA1C). If client is on anticoagulants, such as warfarin, monitor PT/INR frequently.</item>
+<item>Obtain baseline weight and body mass index (BMI) and monitor throughout treatment.</item>
+<item>Monitor blood pressure and heart rate twice weekly during treatment.</item>
+<item>Monitor for signs and symptoms of mania or hypomania.</item>
+<item>Check mood and anxiety periodically during treatment.</item>
+<item>Monitor for seizure activity.</item>
+<item>Ensure safety precautions are in place due to sedation.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00003">
+<para id="para-00045"><emphasis effect="bold">The client taking an antidepressant should:</emphasis></para>
+<list list-type="bulleted" id="list-00009">
+<item>Be aware that these drugs can take 2 weeks to start seeing effects and 4–6 weeks for full therapeutic effects.</item>
+<item>Be informed about the high probability of sexual dysfunction and told to report any problems so they can be appropriately addressed.</item>
+<item>Immediately notify their provider about any clinical manifestations of increased depression or suicidal ideations.</item>
+<item>Contact their provider with signs of diabetes, such as increased thirst (polydipsia), extreme hunger (polyphagia), or increased urination (polyuria).</item>
+<item>Report signs of sore throat and/or fever.</item>
+<item>Assess for any signs of bleeding such as blood in urine (hematuria); dark, tarry stools; easy bruising; nosebleed (epistaxis); or bleeding gums.</item>
+<item>Notify their provider if there are any signs of liver disease, such as right upper quadrant pain, light-colored stools, and dark urine.</item>
+</list>
+<para id="para-00046"><emphasis effect="bold">The client taking an antidepressant <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00010">
+<item>Drive or engage in activities that require alertness until the effects of the medication are known.</item>
+<item>Eat foods high in tyramine (milk, turkey, chicken, oats, seeds, soy products, seafood, canned tuna, aged cheeses, brewer’s yeast, whole-wheat bread) if using an MAOI.</item>
+<item>Be in direct sunlight without appropriate clothing and sunscreen.</item>
+<item>Take aspirin or NSAIDs.</item>
+</list>
+</note>
+<note class="black-box" id="note-00004">
+<para id="para-00047"><emphasis effect="bold">Antidepressants</emphasis></para>
+<para id="para-00048">In short-term trials, antidepressant use for major depressive disorder increased the risk of suicidal thoughts and behavior in <term class="no-emphasis" id="term-00065">children</term>, <term class="no-emphasis" id="term-00066">adolescents</term>, and <term class="no-emphasis" id="term-00067">young adults</term> under age 24 when compared to placebos. These trials did not show an increase in the risk of suicidal thoughts and behavior in individuals over age 24. There was a reduction in risk with antidepressant use in individuals ages 65 and older.</para>
+</note>
+<note class="unfolding-casestudy" id="note-00005">
+<para id="para-00049">Read the following clinical scenario to answer the questions that follow.</para>
+<para id="para-00050">Jadalyn Sanchez is a 20-year-old Hispanic female student who arrives at the university’s student health center with complaints of frequent crying throughout the day and lack of motivation or interest in being with friends or engaging in activities she once used to enjoy. She describes a sense of helplessness and inadequacy at school. Jadalyn states it takes everything for her to get out of bed to attend classes. She has had no appetite and lost 12 pounds over the past month. She reports that her symptoms have been present for approximately 6 weeks. She denies any recent or past traumatic events or losses. She reports occasional dating but currently is not in any committed relationship. She is sexually active and states that she is compliant with her prescribed oral contraceptives. She denies tobacco or illicit drug use and says she drinks two or three 6-oz glasses of wine on the weekends. She does not recall being this sad in the past. She states normally she is very active, meets all due dates, and takes her academics very seriously. Her roommate talked her into coming to the center because of the drastic change.<newline count="2"/>
+<span class="blue-text"><emphasis effect="bold">Family History</emphasis></span><newline/>
+Mother (age 50): History of depression<newline/>
+Father (age 54): History of hypertension and bipolar disorder<newline/>
+Sister (age 24): Panic disorder and ADHD<newline/>
+Brother (age 16): ADHD and GAD<newline/>
+<span class="blue-text"><emphasis effect="bold">Current Medications</emphasis></span><newline/>
+Loestrin Fe 1/20, once daily</para>
+<table class="vertically-tight" id="table-00011">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<thead>
+<row>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Vital Signs</emphasis></span></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">98.6°F</entry>
+<entry valign="top" align="left" morerows="6">
+<list list-type="bulleted" id="list-00011">
+<item><emphasis effect="italics">HEENT:</emphasis> Normocephalic, bilateral eyes red and puffy, positive clear nasal drainage, and minimal eye contact. Ears and throat unremarkable. No lymphadenopathy. Thyroid nonpalpable with positive rise upon swallowing.</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> Audible S1, S2. Rhythm regular. No murmurs, rubs, or gallops. No peripheral edema bilaterally. Radial and DP pulses 2+.</item>
+<item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear bilaterally in all fields. No use of accessory muscles.</item>
+<item><emphasis effect="italics">Gastrointestinal:</emphasis> Abdomen round, soft, and nontender. Bowel sounds present in all four quadrants.</item>
+<item><emphasis effect="italics">Musculoskeletal:</emphasis> Active and full range of motion in bilateral upper extremities and lower extremities with 5/5 muscle strength.</item>
+</list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+<entry valign="top" align="left">97.6°F</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
+<entry valign="top" align="left">106/68 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
+<entry valign="top" align="left">74 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
+<entry valign="top" align="left">16 breaths/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
+<entry valign="top" align="left">98% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
+<entry valign="top" align="left">5’5”</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
+<entry valign="top" align="left">124 pounds</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00051"><link class="os-embed" url="#exercise/PHAR_Ch13_Sec01_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00052"><link class="os-embed" url="#exercise/PHAR_Ch13_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>affective</term> <meaning>relates to mood, feelings, emotion, and attitudes</meaning></definition>
+<definition id="def-00002"><term>bipolar disorder</term> <meaning>a disorder that causes intense changes in a person’s mood (ranging from manic to depressive), energy, and ability to function</meaning></definition>
+<definition id="def-00003"><term>cardiotoxicity</term> <meaning>adverse drug reactions that can negatively affect the structure and function of the heart</meaning></definition>
+<definition id="def-00004"><term>cytochrome P450 enzyme system</term> <meaning>enzymes responsible for breaking down drugs to their active or inactive metabolites; these can be inhibited or induced by drugs altering drug metabolism.</meaning></definition>
+<definition id="def-00005"><term>depression</term> <meaning>a disorder in which the person experiences feelings of sadness, anger, frustration, hopelessness, and helplessness</meaning></definition>
+<definition id="def-00006"><term>hyperpyrexia</term> <meaning>drug-induced elevation of body temperature and muscle rigidity</meaning></definition>
+<definition id="def-00007"><term>hypersomnia</term> <meaning>excessive sleeping at night or excessive fatigue during the day</meaning></definition>
+<definition id="def-00008"><term>monoamine</term> <meaning>a drug molecule that contains a single amine group, such as a neurotransmitter or hormone</meaning></definition>
+</glossary>
 </document>

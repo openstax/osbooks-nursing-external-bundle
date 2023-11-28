@@ -5,9 +5,209 @@
     <md:content-id>m00268</md:content-id>
     <md:uuid>e44ac55b-2b50-41da-b006-45d8cd2dcd88</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of drugs used to treat bipolar disorder.</item>
+<item>Explain the indications, actions, adverse reactions, contraindications, and interactions of drugs used to treat bipolar disorder.</item>
+<item>Describe nursing implications for drugs used to treat bipolar disorder.</item>
+<item>Explain the client education related to drugs used to treat bipolar disorder.</item>
+</list>
+</section>
+<para id="para-00002">Bipolar disorder is a complex brain-based illness with a primary characteristic of mood disturbance. Clients alternate between episodes of depression and mania. Depression was described in the beginning of this chapter. Mania involves a period of abnormally and persistently elevated or irritable mood and increased goal-directed activity or energy (American Psychiatric Association, 2022). During this period, at least three of the following symptoms are present: grandiosity, decreased need for sleep, more talkative, flight of ideas or racing thoughts, distractibility, increased activity or agitation, and excessive involvement in risky behaviors.</para>
+<para id="para-00003">Most times, clients seek help when they are in the depressed stage. However, if a client has an undiagnosed bipolar disorder, putting them solely on an antidepressant can cause the client to experience one or more manic phases. There are two main subtypes of this disorder. Bipolar Type 1 is characterized by the occurrence of one or more manic episodes interspersed with major depression. Bipolar Type II is characterized by occurrence of one or more major depressive episodes accompanied by at least one manic or hypomanic episode (persistent irritability without euphoria) (NIMH, 2023a).</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Lithium</title>
+<para id="para-00004"><term class="no-emphasis" id="term-00001">Lithium</term> is a naturally occurring metallic salt. It is used mainly to treat and prevent mania. It has historically been the “gold standard” mood stabilizer, effectively controlling manic episodes as well as decreasing the frequency and intensity of manic cycles (Volkmann et al., 2020). Lithium has a narrow margin of safety; even small increases in the dose could be toxic (Hedya et al., 2023). The goal is to initially maintain the serum lithium level between 0.6 and 1.2 mEq/L (Coryell, 2022). Target maintenance drug levels are closer to 0.6 mEq/L. [link]Table 13.15[/link] describes levels of lithium toxicity.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Serum Drug Levels</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Clinical Manifestations</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center">1.5–2.5 mEq/L</entry>
+<entry valign="top" align="left">Lethargy, tremors, nausea, and vomiting</entry>
+</row>
+<row>
+<entry valign="top" align="center">2.5–3.5 mEq/L</entry>
+<entry valign="top" align="left">Confusion, agitation, delirium, tachycardia, and hypertonia</entry>
+</row>
+<row>
+<entry valign="top" align="center">>3.5 mEq/L</entry>
+<entry valign="top" align="left">Coma, seizures, hyperthermia, and hypotension</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Adverse Reactions Related to Serum Levels of Lithium</emphasis> (source: Hedya et al., 2023)</caption>
+</table>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00005">Lithium is excreted through the kidneys unchanged; therefore, adequate renal function is essential. Because lithium is tied to sodium resorption, any drug that affects sodium balance may alter lithium concentrations leading to either treatment failure or toxicity. Examples include diuretics, NSAIDs, and angiotensin-converting enzyme (ACE) inhibitors. Lithium interacts with other medications including carbamazepine (CNS toxicity), neuromuscular blocking agents (prolonged effects), and other serotonergic drugs (serotonin syndrome). Addison’s disease is a contraindication because the person is losing more sodium through the kidneys due to the lack of aldosterone. The kidneys then will reabsorb lithium back into the bloodstream, which can quickly cause lithium toxicity. Lithium inhibits the synthesis and release of thyroid hormones, resulting in hypothyroidism. Theophylline increases the renal excretion of lithium, resulting in subtherapeutic effects.</para>
+<para id="para-00006">[link]Table 13.16[/link] is a drug prototype table for mood stabilizers featuring lithium. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Mood stabilizer<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Affects the synthesis, release, and reuptake of acetylcholine, dopamine, GABA, and norepinephrine within the brain<newline/>
+Stabilizes postsynaptic receptor sensitivity to neurotransmitters<newline/>
+Has a neuroprotective effect on areas of the brain associated with mood by stimulating neuronal growth<newline/>
+The exact mechanism of action is unknown.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="bold"><span class="blue-text">Immediate release (acute manic episodes):</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 300 mg orally 3 times daily; usual dose: 900–1800 mg/day orally in 3–4 divided doses.<newline/>
+<emphasis effect="italics">Children ≥6 years:</emphasis> &lt;30 kg: Initial dose: 300 mg orally twice daily; <emphasis effect="bold">≥</emphasis>30 kg: Initial dose: 300 mg orally 3–4 times daily.<newline/>
+<emphasis effect="bold"><span class="blue-text">Extended release (maintenance dosage):</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 450 mg orally twice daily. Usual dose: 900–1800 mg/day orally in 2 divided doses.<newline/>
+<emphasis effect="italics">Children >12 years:</emphasis> 450 mg orally twice daily. Maintenance dose: 15–60 mg/kg/day orally 3 times daily.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Treatment of active manic episodes<newline/>
+Maintenance therapy to prevent or diminish the frequency and intensity of future manic episodes<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Alters the sodium transport of nerve and muscle cells<newline/>
+Inhibits the release of NE and dopamine from stimulated neurons<newline/>
+Increases the intraneuronal stores of NE and dopamine<newline/>
+Decreases intraneuronal content of second messengers, which allows it to selectively modulate the responsiveness of the hyperactive neurons</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Diuretics<newline/>
+Serotonergic agent<newline/>
+Neuromuscular blocking agents<newline/>
+Carbamazepine<newline/>
+Lithium-iodide salt combination<newline/>
+Theophylline<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Sodium intake<newline/>
+Deficit fluid intake</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Nephrotoxic<newline/>
+Neurotoxic<newline/>
+Toxic to the thyroid gland (goiter)<newline/>
+Weight gain<newline/>
+Metallic taste<newline/>
+Hand tremors<newline/>
+Polyuria/polydipsia<newline/>
+Nausea<newline/>
+Vomiting<newline/>
+Diarrhea<newline/>
+Edema/weight gain<newline/>
+Muscular weakness<newline/></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Renal failure<newline/>
+Cardiovascular insufficiency<newline/>
+Addison’s disease<newline/>
+Untreated hypothyroidism<newline/>
+Children &lt;12 years of age<newline/>
+Pregnancy and breastfeeding<newline count="2"/>
+Caution:<newline/>
+Vomiting/diarrhea<newline/>
+Increase or decrease of sodium intake<newline/>
+Diaphoresis/dehydration<newline/>
+Suicidal or impulsive clients<newline/>
+Active infection with fever</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Lithium</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<note class="clinical-tip" id="note-00001">
+<title>Atypical Antipsychotic for Bipolar Disorder</title>
+<para id="para-00007">In December 2021, the FDA approved <term class="no-emphasis" id="term-00002">lumateperone</term> (<term class="no-emphasis" id="term-00003">Caplyta</term>) for bipolar depression. The drug is an atypical antipsychotic. It can be used as a monotherapy or in combination with lithium or valproate. It is available as a once-daily oral pill that needs no dose changes.</para>
+</note>
+</section>
+</section>
+<section id="sect-00005">
+<title>Antiseizure Medications</title>
+<para id="para-00008">Selected <term class="no-emphasis" id="term-00004">antiseizure medications</term> can be used to treat mood disorders, usually in combination with other medications. Please refer to <emphasis effect="bold"><link document="m00307">Anticonvulsant Drugs and Drugs to Treat Epilepsy, Migraine Headaches, and Intracranial Emergencies</link></emphasis> for a more detailed discussion of antiseizure medications.</para>
+<para id="para-00009">[link]Table 13.17[/link] lists common antiseizure medications and typical routes and dosing for adult and <term class="no-emphasis" id="term-00005">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Carbamazepine</term><newline/>
+(<term class="no-emphasis" id="term-00007">Tegretol</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and children >13 years:</emphasis> Initial dose: 200 mg orally twice daily (tablet); may increase by up to 200 mg/day in divided doses on a weekly basis. Maximum dose: 1200 mg in adults and 1000 mg in children 13–15 years. Therapeutic range: 4–12 mg/L.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Lamotrigine</term><newline/>
+(<term class="no-emphasis" id="term-00009">Lamictal, Subvenite</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Monotherapy:</emphasis> First 2 weeks, 25 mg/day orally; week 3, increase to 50 mg/day; week 5 increase to 100 mg/day; week 6 increase to 200 mg/day (maximum).<newline/>
+<emphasis effect="italics">As an adjunct to valproic acid:</emphasis> First 2 weeks, 25 mg orally every other day; week 3 increase to 25 mg/day; week 5 increase to 50 mg/day; week 6 increase to 100 mg/day. Therapeutic range: 3–14 mcg/mL.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Valproic acid, divalproex sodium</term><newline/>
+(<term class="no-emphasis" id="term-00011">Depakote, Depakote ER</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acute mania in adults:</emphasis> Initial dose: 1000 mg/day; increase dose rapidly. Maximum dose: 60 mg/kg/day.<newline/>
+<emphasis effect="italics">Less acute mania in adults:</emphasis> Initial dose: 200–500 mg; titrate upward as tolerated. Therapeutic range: 50–100 mcg/mL.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antiseizure Medications</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+<section id="sect-00006">
+<title>Nursing Implications</title>
+<para id="para-00010">The nurse should do the following for clients who are taking mood stabilizers:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Obtain baseline and periodic lab work including serum carbamazepine levels or serum lithium levels if indicated, CBC with differential, electrolytes, liver function tests, and thyroid-stimulating hormone (TSH) levels.</item>
+<item>Evaluate client’s medical history and ensure there are no renal or cardiac concerns. Obtain a baseline electrocardiogram.</item>
+<item>Assess for any indication of suicidal ideations. Institute suicide precautions for at-risk clients.</item>
+<item>Monitor temperature, heart rate/rhythm, respiratory status, and blood pressure periodically.</item>
+<item>Assess orientation, affect, reflexes, bowel sounds, amount of urine output, and lung sounds.</item>
+<item>Monitor client’s renal function while on lithium.</item>
+<item>If CNS effects occur, provide safety measures to prevent client injury.</item>
+<item>Monitor for decreased manic behavior and impulsivity.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00002">
+<para id="para-00011"><emphasis effect="bold">The client taking a mood stabilizer should:</emphasis></para>
+<list list-type="bulleted" id="list-00003">
+<item>Contact the health care provider with the first signs of rash if taking carbamazepine or lamotrigine.</item>
+<item>Notify the health care provider with unusual and easy bruising, blood in the urine or stool, fever, sore throat, right upper quadrant pain, and jaundice.</item>
+<item>Consider an additional or alternate form of contraception, because carbamazepine decreases the effectiveness of certain hormonal contraceptives.</item>
+<item>Drink 8–12 glasses of water daily to prevent dehydration, which could cause lithium toxicity. Also, maintain a consistent sodium intake.</item>
+<item>Be aware they can take lithium with food if they experience gastric irritation.</item>
+<item>Continue taking the medication as prescribed despite their symptoms subsiding, because this type of therapy is long term.</item>
+<item>Notify the health care provider and stop taking the drug immediately if manifestations of overdose occur (vomiting, diarrhea, ataxia, tremor, drowsiness, and muscle weakness).</item>
+<item>Notify the health care provider if thinking about getting pregnant. Studies have shown that lithium can be harmful to the fetus.</item>
+<item>Follow the prescribed schedule for lab work to check appropriate serum drug levels.</item>
+</list>
+<para id="para-00012"><emphasis effect="bold">The client taking a mood stabilizer <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00004">
+<item>Spend time in the sun without sunscreen and other coverings.</item>
+<item>Drive or perform tasks requiring alertness and coordination until effects of carbamazepine are known.</item>
+<item>Increase their exercise routine during hot weather, because this can increase the risk of dehydration and lithium toxicity.</item>
+<item>Abruptly stop lithium, to avoid negative manifestations.</item>
+<item>Take the morning dose of lithium until a blood sample has been obtained. (Blood should be drawn about 12 hours after the last lithium dose.)</item>
+<item>Alter dietary salt intake. If decreased, lithium toxicity can result. If increased, lithium will be subtherapeutic.</item>
+</list>
+</note>
+</section>
+</section>
+</content>
 </document>

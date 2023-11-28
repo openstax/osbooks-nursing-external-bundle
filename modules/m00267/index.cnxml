@@ -5,9 +5,395 @@
     <md:content-id>m00267</md:content-id>
     <md:uuid>f012d61d-1fa8-4080-8991-e44e15cfab68</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the characteristics of drugs used to treat psychosis.</item>
+<item>Explain the indications, actions, adverse reactions, contraindications, and interactions of drugs used to treat psychosis.</item>
+<item>Describe nursing implications for drugs used to treat psychosis.</item>
+<item>Explain the client education related to drugs used to treat psychosis.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Psychosis</term> is a collection of symptoms that include some level of disconnection with reality. These symptoms can include hallucinations, paranoid thoughts, and illogical thinking. Psychosis can be a symptom of a mental illness—most commonly schizophrenia. It can also be a symptom of bipolar disorder or severe depression. Psychotic disorders are generally known to have a strong genetic component. The onset of psychotic symptoms can begin either gradually or quickly. Initial symptoms are commonly seen during adolescence or young adulthood (National Institute of Mental Health [NIMH], 2023c). Psychosis can also develop later in life with neurological conditions such as dementia or be caused by sleep deprivation, certain medications, or alcohol/substance use.</para>
+<para id="para-00003">Schizophrenia is a severe mental disorder characterized by disorganized thought processes, blunted or inappropriate emotional responses, and bizarre behavior. In addition, it may involve social withdrawal (<term id="term-00002">asociality</term>) by the affected person. Eventually individuals begin to deteriorate and demonstrate a lack of self-care and interpersonal skills. Symptoms of schizophrenia are classified as either positive, referring to an excess of distortion of normal function (e.g., hallucinations), or negative, meaning diminishing or absent behaviors related to motivation or expression (Correll &amp; Schooler, 2020). Schizophrenia is diagnosed with at least two of the following symptoms present (American Psychological Association, 2022). At least one of the symptoms must be delusions, hallucinations, or disorganized speech. Other possible symptoms include disorganized or catatonic behavior (<term id="term-00003">catatonia</term>), or negative symptoms (diminished emotional expression or <term id="term-00004">avolition</term>). Research suggests that clients with schizophrenia have abnormal neurotransmission systems—primarily the dopaminergic, serotonergic, and glutamatergic systems. It is believed that positive symptoms are associated with overactivity of dopamine<sub>2</sub> (D<sub>2</sub>) receptors in the basal ganglia, hypothalamus, limbic system, brainstem, and medulla. It is theorized underactive dopamine<sub>1</sub> (D<sub>1</sub>) receptors in the prefrontal cortex account for the negative symptoms.</para>
+<note class="special-considerations" id="note-00001">
+<title>Schizophrenia in Children</title>
+<list list-type="bulleted" id="list-00002">
+<item><term class="no-emphasis" id="term-00005">Schizophrenia in children</term></item>
+<item>often presents with more intense clinical manifestations and has a more chronic course.</item>
+<item>The <term class="no-emphasis" id="term-00006">American Academy of Child and Adolescent Psychiatry</term></item>
+<item>has established current practice guidelines that advocate for high-quality assessment of the child who is receiving <term id="term-00007"> class="no-emphasis">antipsychotics</term>. The purpose of the guidelines is to promote the appropriate use of antipsychotics and to enhance safety. Today, multiple antipsychotics have specific dosing for <term class="no-emphasis" id="term-00008">children and adolescents</term>. These <link url="https://openstax.org/r/aacap">parents’ medication guides</link> may be helpful for client education.</item>
+<item>Regulating medication dosing for children is challenging. Children require lower doses to reach full therapeutic effects, yet they also metabolize medications more quickly.</item>
+</list>
+</note>
+<para id="para-00004">This section of the chapter will focus on treating psychosis. Historically, first-generation or “typical” antipsychotic agents were more effective in managing the positive symptoms versus the negative symptoms; however, the newer second-generation “atypical” medications have shown effectiveness in treating both the positive and negative symptoms. Antipsychotics are targeted at thought processes rather than affective states. Although they are not a cure, they can help both adult and <term class="no-emphasis" id="term-00009">pediatric clients</term> be able to adequately function in a healthier manner. In acute psychosis, the goal is to reduce symptoms in the first week and normalize clients’ eating and sleeping patterns. Subsequent goals are to increase the ability for self-care and increase socialization. Most of these drugs take 1–2 months to reach full therapeutic effects. With adequate drug treatment, clients can engage in individual or group psychotherapy sessions as well as return to their level of functioning prior to the illness.</para>
+<note class="safety-alert" id="note-00002">
+<title>Beers Criteria</title>
+<para id="para-00005">The <term class="no-emphasis" id="term-00010">Beers Criteria for Potentially Inappropriate Medication Use in Older Adults</term> is a list published by the American Geriatrics Society describing medications that are potentially harmful if prescribed to clients older than 65 years. Antipsychotics are included on the list because they are linked to higher rates of cognitive decline and death in persons with dementia.</para>
+<para id="para-00006">(Source: American Geriatrics Society, 2023)</para>
+</note>
+<note class="clinical-tip" id="note-00003">
+<title>Antipsychotics</title>
+<para id="para-00007">First-generation antipsychotics are frequently referred to as “neuroleptics” because of the increased risk of producing extrapyramidal neurologic effects, including <term id="term-00011">pseudoparkinsonism</term>, <term id="term-00012">dystonia</term> (spasms of the tongue, back, legs, and neck), <term id="term-00013">akathisia</term> (not being able to sit still), and <term id="term-00014">tardive dyskinesia</term> (abnormal muscle movements). Health care providers should monitor clients for extrapyramidal effects so they can be treated and the antipsychotic medication can be changed (Ameer &amp; Saadabadi, 2023).</para>
+</note>
+<para id="para-00008">Antipsychotics fit into the classification of dopamine receptor antagonists (blockers). They are used to treat disorders that involve thought processes. They help clients with organizing their thoughts and responding appropriately to stimuli. The therapeutic effects are most likely due to blocking dopamine receptors. Unfortunately, these medications can also bind to a variety of receptors, which leads to many of the ADRs. Antipsychotics are categorized in two main classes: first-generation agents, also known as typical or conventional, and second-generation agents, also known as atypical. These categories are based on their mechanism of action (described in the following sections). Although their names may imply that psychosis is the only condition these drugs are used for, there are numerous psychiatric disorders for which these drugs can be useful.</para>
+<para id="para-00009">Clients should be made aware they will usually need to remain on these drugs for years, if not for life, because there is a high rate of relapse when drug therapy is stopped. Most antipsychotics come in an oral form. Those clients who are unable or unwilling to take daily doses may receive periodic injections of a long-acting form (LAIs). The benefit of the LAIs is that they allow prescribers to tailor pharmacotherapy to each client’s needs. The LAIs are administered via <term id="term-00015">depot injections</term>. This refers to the way the drug is deposited and stored in the muscle before being absorbed. Because the drug takes a longer time to move out of the muscle and into the bloodstream, its action is prolonged.</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>First-Generation (Typical) Antipsychotics</title>
+<para id="para-00010"><term class="no-emphasis" id="term-00016">First-generation antipsychotics</term> are classified by their potency (strength). The level of potency (low, medium, or high) refers to the concentration of the drug needed to produce a given response. Keep in mind that this is different from efficacy. All first-generation agents have the same ability to relieve symptoms of psychosis (efficacy). In addition to blocking dopamine receptors, they also block muscarinic, histaminergic, and alpha-adrenergic receptors, leading to numerous adverse effects (discussed later in this chapter). The three most common first-generation antipsychotics are:</para>
+<list list-type="bulleted" id="list-00003">
+<item><emphasis effect="italics">Chlorpromazine:</emphasis> This is a low-potency agent and a phenothiazine. It is also used to decrease preoperative restlessness and apprehension, treat intermittent porphyria, as an adjunct in the treatment of tetanus, and to help control nausea, vomiting, and intractable hiccups.</item>
+<item><emphasis effect="italics">Fluphenazine:</emphasis> This is a high-potency agent and a phenothiazine. Compared to other antipsychotics, this drug has a low potential for causing anticholinergic effects. It is available in oral and intramuscular forms.</item>
+<item><emphasis effect="italics">Haloperidol:</emphasis> This is a high-potency nonphenothiazine. It is frequently used to treat acute psychiatric situations when it is given intramuscularly. Its mechanism of action, ADRs, and contraindications are the same as for chlorpromazine. An added contraindication is severe mental depression.</item>
+</list>
+<para id="para-00011">[link]Table 13.11[/link] lists common first-generation antipsychotics and typical routes and dosing for adult and <term class="no-emphasis" id="term-00017">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Chlorpromazine</term><newline/>
+(<term class="no-emphasis" id="term-00019">Thorazine</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults (mild to moderate symptoms):</emphasis> Initial dose: 25 mg 3 times daily; increase gradually until effective dose is reached, usually 400 mg/day.<newline/>
+<emphasis effect="italics">Adults (severe symptoms):</emphasis> Initial dose: 25 mg 3 times daily; after 1–2 days, daily dosage may be increased by 20–50 mg until client becomes calm.<newline/>
+<emphasis effect="italics">Older adults:</emphasis> Initial dose: 1/4 to 1/3 of the level for younger adults.<newline/>
+<emphasis effect="italics">Children (6 months to 12 years for severe behavioral problems):</emphasis> Outpatient dose: 0.25 mg/lb orally every 4–6 hours as needed. Inpatient dose: 50–200 mg/day orally until symptoms improve.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Fluphenazine</term><newline/>
+(<term class="no-emphasis" id="term-00021">Prolixin, Modecate</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 2.5–10 mg orally divided into intervals of 6–8 hours. Maximum dose: 40 mg/day; maintenance dose: 1–5 mg/day as a single dose.</entry>
+</row>
+<row>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00022">Haloperidol</term><newline/>
+(<term class="no-emphasis" id="term-00023">Haldol</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Oral</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 0.5–5 mg orally 2 or 3 times daily.<newline/>
+<emphasis effect="italics">Children (3–12 years):</emphasis> Initial dose: 0.5 mg/day orally. Increase dose by 0.5 mg increments at intervals of 5–7 days until desired effect is achieved.<newline/>
+<emphasis effect="bold"><span class="blue-text">Intramuscular</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis><newline/>
+<emphasis effect="italics">Long-acting:</emphasis> Starting dose form should be based on 10–20 times the previous daily dose in oral haloperidol equivalents and adjusted as needed.<newline/>
+<emphasis effect="italics">Short-acting:</emphasis> 2–5 mg as often as every hour up to a maximum dose of 20 mg/day.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: First-Generation Antipsychotics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00004">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00012">Most of the ADRs are related to these drugs’ anticholinergic properties, including blurred vision, dry mouth, constipation, urine retention, nasal congestion, and photophobia. Arrhythmias can be caused by the dopamine blocking effects or prolongation of the QTc interval, which could lead to fatal arrhythmias. Prolactin levels will increase, causing gynecomastia and changes in libido. First-generation antipsychotics are known to cause <term id="term-00024">extrapyramidal symptoms (EPS)</term>, which are involuntary, uncontrollable movements. These include pseudoparkinsonism (muscle tremors, cogwheel rigidity, stiff facial muscles, drooling due to difficulty swallowing, shuffling gait, and slow movements), dystonia, akathisia, and tardive dyskinesia. Extrapyramidal symptoms may be more problematic with depot injections.</para>
+<para id="para-00013">Neuroleptic malignant syndrome (NMS) is a rare but potentially fatal condition that can develop with antipsychotic use. The clinical manifestations include a sudden high-grade fever, fluctuations in blood pressure, dysrhythmias, extreme muscle rigidity, and significant tachycardia. Immediate supportive management must be instituted if this develops, which might include cooling blankets/fluids, administering antipyretics (drugs to reduce fever), antiarrhythmics, and dantrolene to treat muscle rigidity.</para>
+<para id="para-00014">The manifestations of Parkinson's disease can be exacerbated by antipsychotics due to their effect on dopamine receptors. This can happen with any antipsychotic that causes EPS. In addition, these drugs can cause urinary retention and constipation. Individuals who have a mechanical or neurological obstruction of the renal or GI system should avoid these drugs, including those with benign prostatic hyperplasia (BPH).</para>
+<para id="para-00015">Due to their anticholinergic properties, these drugs can increase intraocular pressure, worsening glaucoma and possibly cause vision loss. Furthermore, those with a seizure disorder may need an increase in their antiseizure medications, because the antipsychotics tend to lower the seizure threshold.</para>
+<para id="para-00016">Alcohol intake and taking medications that cause CNS depression will amplify the depressant effect.</para>
+<note class="safety-alert" id="note-00004">
+<title>Similarly Named Drugs Associated with First-Generation Antipsychotics</title>
+<para id="para-00017">Do not confuse <term class="no-emphasis" id="term-00025">chlorpromazine</term> (antipsychotic) with <term class="no-emphasis" id="term-00026">chlordiazepoxide</term> (<term class="no-emphasis" id="term-00027">sedative</term>) or <term class="no-emphasis" id="term-00028">chlorpropamide</term> (<term class="no-emphasis" id="term-00029">sulfonylurea antidiabetic</term>).</para>
+<para id="para-00018">(Source: ISMP, 2023)</para>
+</note>
+<para id="para-00019">[link]Table 13.12[/link] is a drug prototype table for first-generation antipsychotics featuring haloperidol. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00030">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00002">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+First-generation antipsychotic (typical antipsychotic)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks dopamine-2 receptors, which prevents the stimulation of the postsynaptic neurons by dopamine<newline/>
+Exact mechanism of action for schizophrenia is unclear.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="bold"><span class="blue-text">Oral</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 0.5–5 mg orally twice or three times daily.<newline/>
+<emphasis effect="italics">Children (3–12 years):</emphasis> Initial dose: 0.5 mg/day orally. Increase dose by 0.5 mg increments at intervals of 5–7 days until desired effect is achieved.<newline/>
+<emphasis effect="bold"><span class="blue-text">Intramuscular</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis><newline/>
+<emphasis effect="italics">Long-acting:</emphasis> Starting dose form should be based on 10–20 times the previous daily dose in oral haloperidol equivalents and adjusted as needed.<newline/>
+<emphasis effect="italics">Short-acting:</emphasis> 2–5 mg as often as every hour up to a maximum dose of 20 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Schizophrenia<newline/>
+Treatment of psychotic symptoms associated with brain impairment (head trauma, tumor, stroke, alcohol withdrawal, and overdoses of CNS stimulants)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Blocks dopamine receptors in the brain<newline/>
+Limits the stimuli coming into the brain</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+CNS depressants, such as opioids or sedatives<newline/>
+Antiarrhythmic medications that prolong the QTc interval<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Kava kava<newline/>
+Alcohol<newline/></entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Prolongation of the PR and QTc interval<newline/>
+Anticholinergic effects (blurred vision, <term id="term-00031">xerostomia</term>, constipation, urine retention, nasal congestion, photophobia)<newline/>
+Sexual dysfunction<newline/>
+Hypotension/arrhythmias<newline/>
+Pseudoparkinsonism<newline/>
+Akathisia<newline/>
+Tardive dyskinesia<newline/>
+Sedation/drowsiness<newline/>
+Impaired mobility<newline/>
+Impaired speech and mental processes</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Parkinson’s disease<newline/>
+Older adults with dementia<newline/>
+Cardiac arrhythmias/prolonged QTc interval<newline/>
+Liver damage<newline/>
+Coronary artery disease (CAD)<newline/>
+Cerebrovascular disease<newline count="2"/>
+Caution:<newline/>
+Glaucoma<newline/>
+Seizures<newline/>
+Active alcohol use disorder</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Haloperidol</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00005">
+<title>Second-Generation (Atypical) Antipsychotics</title>
+<para id="para-00020">The <term class="no-emphasis" id="term-00032">second-generation antipsychotics</term>, also known as <term class="no-emphasis" id="term-00033">atypical antipsychotics</term>, are the drugs of choice This is especially true for clients who are newly diagnosed. The atypical antipsychotics block both dopamine and serotonin receptors. This class of antipsychotics has a broader range of action than the first-generation agents because of their effects on the serotonergic, noradrenergic, and dopaminergic systems. They seem to be more effective in relieving some symptoms and usually produce milder adverse effects (Ameer &amp; Sadabadi, 2023). The following are the most common second-generation antipsychotics:</para>
+<list list-type="bulleted" id="list-00004">
+<item><emphasis effect="italics">Aripiprazole:</emphasis> This is the first of a new class of atypical antipsychotic medications called the <emphasis effect="italics">dopamine system stabilizers</emphasis>. This class is sometimes referred to as a third-generation antipsychotic. In its oral form, aripiprazole can be used in the management of schizophrenia, major depressive disorder, bipolar disorder, irritability related to autism spectrum disorder, and Tourette syndrome. In its injectable, immediate-release form, it is used to treat agitation associated with schizophrenia or bipolar mania. This drug does not prolong the QTc interval; however, the FDA has issued a safety alert, confirming that compulsive or uncontrollable urges to gamble, binge eat, shop, and have sex with multiple partners have been reported.</item>
+<item><emphasis effect="italics">Cariprazine:</emphasis> Used to treat schizophrenia or mania and depression related to bipolar disorder. It is also used to treat MDD.</item>
+<item><emphasis effect="italics">Clozapine:</emphasis> This medication was one of the first atypical antipsychotic medications used to treat schizophrenia, but because of its side effects, is only used when other treatments have failed. Clozapine is available only through to the FDA’s Approved Risk Evaluation and Mitigation Strategies (REMS) program to ensure monitoring of WBC count and absolute neutrophil count.</item>
+<item><emphasis effect="italics">Lurasidone:</emphasis> Used to treat schizophrenia and bipolar depression in clients age 13 and older. Administering this drug with food can greatly increase its absorption. This drug does not prolong the QT interval, cause orthostatic hypotension, or have any cholinergic effects.</item>
+<item><emphasis effect="italics">Olanzapine:</emphasis> In addition to treating schizophrenia, this drug is used for manic or mixed episodes of bipolar disorder and can be given parenterally to treat acute agitation.</item>
+<item><emphasis effect="italics">Paliperidone:</emphasis> Used in clients age 12 and over to treat schizoaffective disorders. This is a major active metabolite of risperidone; therefore, it has the same therapeutic and adverse effect profiles. Paliperidone is available in three forms: one short-acting oral and two long-acting injectables (one administered monthly and the other every 3 months).</item>
+<item><emphasis effect="italics">Quetiapine:</emphasis> Used to treat schizophrenia and depressive disorder, as well as for short-term treatment of acute manic episodes associated with bipolar disorder. The extended-release form is for use only in adults.</item>
+<item><emphasis effect="italics">Risperidone:</emphasis> Used to treat schizophrenia and acute bipolar mania. It is also frequently used to manage irritability and aggression associated with autism spectrum disorder in children and adolescents. In schizophrenia, relief of positive and negative symptoms can occur in as little as 1 week.</item>
+<item><emphasis effect="italics">Ziprasidone:</emphasis> Indicated for schizophrenia and bipolar disorder.</item>
+</list>
+<para id="para-00021">[link]Table 13.13[/link] lists common second-generation antipsychotics and typical routes and dosing for adult and <term class="no-emphasis" id="term-00034">pediatric clients</term>.</para>
+<table class="vertically-tight" id="table-00003">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00035">Aripiprazole</term><newline/>
+(<term class="no-emphasis" id="term-00036">Abilify</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 10–15 mg/day orally initial dose; effective dose range: 10–30 mg/day.<newline/>
+<emphasis effect="italics">Adolescents (13–17 years):</emphasis> Initial dose: 2 mg/day orally; target dose: 10 mg /day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00037">Cariprazine</term><newline/>
+(<term class="no-emphasis" id="term-00038">Vraylar</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 1.5 mg orally daily; recommended dose: 1.5–6 mg/day.<newline/>
+Pediatric safety, effectiveness, and dose have not been established.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00039">Clozapine</term><newline/>
+(<term class="no-emphasis" id="term-00040">Clozaril</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 12.5 mg/day orally; total daily dose can be increased in increments of 25–50 mg/day; target dose: 300–450 mg/day in divided doses.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00041">Lurasidone</term><newline/>
+(<term class="no-emphasis" id="term-00042">Latuda</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults and adolescents (13–17 years):</emphasis> Initial dose: 40 mg/day orally. Maximum dose for adults: 160 mg/day. Maximum dose for adolescents: 80 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00043">Olanzapine</term><newline/>
+(<term class="no-emphasis" id="term-00044">Zyprexa</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 5–10 mg/day orally; target dose: 10 mg/day.<newline/>
+<emphasis effect="italics">Adolescents (13-17 years):</emphasis> Initial dose: 2.5–5 mg/day; target dose: 10 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00045">Paliperidone</term><newline/>
+(<term class="no-emphasis" id="term-00046">Invega</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 6 mg/day orally; maximum dose: 12 mg/day.<newline/>
+<emphasis effect="italics">Adolescents (12</emphasis><emphasis effect="italics">–17 years):</emphasis> 3 mg orally once daily. Maximum dose: 6 mg for clients weighing less than 51 kg; 12 mg for clients weighing 51 kg or greater,</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00047">Quetiapine</term><newline/>
+(<term class="no-emphasis" id="term-00048">Seroquel</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 300 mg/day orally titrated to effect; maximum dose 800 mg/day<newline/>
+<emphasis effect="italics">Adolescents:</emphasis> Initial dose: 50 mg/day orally; titrated to effect: maximum 800 mg/day</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00049">Risperidone</term><newline/>
+(<term class="no-emphasis" id="term-00050">Risperdal</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 2 mg/day orally; effective dose: 4–16 mg/day.<newline/>
+<emphasis effect="italics">Adolescents:</emphasis> Initial dose: 0.5 mg/day; effective dose: 1–6 mg/day.</entry>
+</row>
+<row>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00051">Ziprasidone</term><newline/>
+(<term class="no-emphasis" id="term-00052">Geodon</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 20 mg orally twice daily; maximum dose: 80 mg twice daily for schizophrenia; 40 mg orally twice daily; 80 mg twice daily for bipolar disorder</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Emphasis Table: Second-Generation Antipsychotics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+<section id="sect-00006">
+<title>Adverse Effects and Contraindications</title>
+<para id="para-00022">For second-generation antipsychotics, the risk of seizures is higher as the drug dose increases. Hematologic effects include agranulocytosis, neutropenia, and fatal agranulocytosis. Clozapine is subject to additional monitoring through the FDA’s REMS program to decrease the risk of severe neutropenia. Metabolic effects are more common with these medications and include hyperglycemia and weight gain. Concerning ADRs for quetiapine include increased systolic and diastolic readings, decreased high-density cholesterol, and increased total cholesterol, low-density cholesterol, and triglycerides.</para>
+<para id="para-00023">Drugs with anticholinergic properties will potentiate these effects of clozapine. Alcohol can increase the sedative effect. Cimetidine and caffeine can increase the risk of toxicity for clozapine.</para>
+<note class="safety-alert" id="note-00005">
+<title>Similarly Named Drugs Associated with Second-Generation Antipsychotics</title>
+<para id="para-00024">Do not confuse:</para>
+<list list-type="bulleted" id="list-00005">
+<item><term class="no-emphasis" id="term-00053">Aripiprazole</term> (antipsychotic) with <term class="no-emphasis" id="term-00054">pantoprazole</term> (<term class="no-emphasis" id="term-00055">proton pump inhibitor</term>)</item>
+<item><term class="no-emphasis" id="term-00056">Clozaril</term> (antipsychotic) with <term class="no-emphasis" id="term-00057">Colazal</term> (<term class="no-emphasis" id="term-00058">anti-inflammatory</term> for inflammatory bowel disorder)</item>
+<item><term class="no-emphasis" id="term-00059">Olanzapine</term> (antipsychotic) with <term class="no-emphasis" id="term-00060">quetiapine</term> (antipsychotic)</item>
+<item><term class="no-emphasis" id="term-00061">Zyprexa</term> (antipsychotic) with <term class="no-emphasis" id="term-00062">Zestril</term> (<term class="no-emphasis" id="term-00063">ACE inhibitor</term>) or <term class="no-emphasis" id="term-00064">Zyrtec</term> (<term class="no-emphasis" id="term-00065">histamine-1 receptor antagonist</term>)</item>
+<item><term class="no-emphasis" id="term-00066">Risperdal</term> (antipsychotic) with <term class="no-emphasis" id="term-00067">Restoril</term> (<term class="no-emphasis" id="term-00068">benzodiazepine sedative-hypnotic</term>) or <term class="no-emphasis" id="term-00069">Ropinirole</term> (<term class="no-emphasis" id="term-00070">dopamine agonist</term>)</item>
+</list>
+<para id="para-00025">(Source: ISMP, 2023)</para>
+</note>
+<para id="para-00026">[link]Table 13.14[/link] is a drug prototype table for second-generation antipsychotics featuring risperidone. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00071">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<table class="vertically-tight" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<tbody>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+Second-generation antipsychotic (atypical antipsychotic)<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+Blocks dopamine and serotonin receptors in the brain</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 2 mg/day orally; effective dose: 4–16 mg/day.<newline/>
+<emphasis effect="italics">Adolescents:</emphasis> Initial dose: 0.5 mg/day; effective dose: 1–6 mg/day.</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+Schizophrenia<newline/>
+Bipolar mania<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+Decreases hallucinations and disordered thoughts in clients with schizophrenia<newline/>
+Decreases symptoms of mania including irritability, aggressive thoughts, elevated mood and activity, and sexual interest</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+Carbamazepine<newline/>
+Cimetidine<newline/>
+Ranitidine<newline/>
+Fluoxetine<newline/>
+Paroxetine<newline/>
+Erythromycin<newline/>
+Amitriptyline<newline count="2"/>
+<emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+Alcohol</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+Orthostatic hypotension<newline/>
+Increased risk of seizures<newline/>
+Hematologic effects (leukopenia, neutropenia, and agranulocytosis)<newline/>
+Hyperglycemia<newline/>
+Dyslipidemia<newline/>
+Neuroleptic malignant syndrome<newline/>
+Development of diabetes mellitus<newline/>
+Weight gain</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+Known hypersensitivity to risperidone, paliperidone, or any derivatives<newline/>
+Dementia-related psychosis<newline count="2"/>
+Caution:<newline/>
+Severe renal impairment<newline/>
+Hepatic impairment<newline/>
+Cardiovascular disease<newline/>
+Diabetes mellitus<newline/>
+Pulmonary disease</entry>
+</row>
+</tbody>
+</tgroup>
+<caption><emphasis effect="bold">Drug Prototype Table: Risperidone</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+</table>
+</section>
+</section>
+<section id="sect-00007">
+<title>Nursing Implications</title>
+<para id="para-00027">The nurse should do the following for clients who are taking antipsychotics:</para>
+<list list-type="bulleted" id="list-00006">
+<item>Watch carefully for developmental progress in children.</item>
+<item>Monitor for symptoms of schizophrenia.</item>
+<item>Obtain baseline physical assessment and relevant tests including an electrocardiogram, CBC, electrolytes, liver and renal function tests, lipid panel, blood glucose levels, and thyroid function. Continue to monitor these on an ongoing basis to identify potential adverse effects.</item>
+<item>Obtain baseline vital signs and urinary output.</item>
+<item>Monitor weight for weight gain, agitation, and/or sleep disturbances.</item>
+<item>Evaluate for the potential effects of hyperprolactinemia (high levels of the hormone prolactin in the blood).</item>
+<item>Assess for any anticholinergic effects. Promote comfort measures if necessary, such as laxatives or catheterization.</item>
+<item>Measure the PR and QTc interval at baseline and during the use of thioridazine or ziprasidone.</item>
+<item>Obtain a detailed history for any cardiovascular conditions, glaucoma, diabetes, obstructions, seizure disorder, pregnancy (or thinking about getting pregnant), and breastfeeding.</item>
+<item>Ensure the client is not a danger to themselves or others.</item>
+<item>Auscultate bowel sounds every 4 hours if client is an inpatient. The constipation caused by clozapine is significant and can progress to intestinal ischemia and necrotizing colitis.</item>
+<item>To prevent any unnecessary stress, explain gynecomastia and the reason it occurs.</item>
+<item>Assess CNS alertness and orientation and provide safety precautions when necessary.</item>
+<item>Assess for any extrapyramidal effects and provide safety measures.</item>
+<item>Ensure client receives an annual eye exam to monitor for glaucoma or worsening of glaucoma.</item>
+<item>Care for the client in a holistic manner, such as proper nutrition, adequate hygiene, activity level, and social interactions.</item>
+<item>With acute psychotic episodes, observe for decreased agitation, combativeness, and psychomotor activity to evaluate therapeutic effectiveness.</item>
+<item>Observe for decreased psychotic behaviors, such as decreased hallucinations and delusions.</item>
+<item>Ensure clozapine does not get stopped abruptly, because it will cause acute psychosis. This drug should be tapered over a 2-week period.</item>
+<item>For clients taking clozapine, perform a thorough assessment of their cardiovascular and cardiopulmonary status.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+</list>
+<note class="client-teaching" id="note-00006">
+<para id="para-00028"><emphasis effect="bold">The client taking an antipsychotic should:</emphasis></para>
+<list list-type="bulleted" id="list-00007">
+<item>Drink adequate amounts of water (at least 64 ounces/day or other prescribed amount), especially during hot weather.</item>
+<item>Have a total understanding that full therapeutic effects will not occur immediately; it may take several weeks to be able to experience effects.</item>
+<item>Obtain weekly blood tests to determine safe and effective dosage.</item>
+<item>Lie down for 30–60 minutes after an IM injection to prevent hypotension.</item>
+<item>Take the oral form 1–2 hours prior to bedtime because the drug peaks in 2 hours.</item>
+<item>Wear protective clothing when out in the sun.</item>
+<item>Report dark urine, right upper quadrant pain, clay-colored stools, and yellowing of the eyes or skin to the provider.</item>
+<item>Notify the health care provider if sore throat, fever, or flu-like symptoms arise.</item>
+<item>If needed, take the drug with food to decrease gastric upset.</item>
+<item>Increase fluid intake, dietary fiber, and exercises to prevent constipation.</item>
+<item>Be aware that only 1 week of medicine will be dispensed at a time (clozapine).</item>
+<item>Immediately notify the provider if having difficulty moving their bowels. The provider may need to prescribe a stool softener.</item>
+<item>Practice frequent hand hygiene and wear a mask in public if white blood cell count is low to decrease risk of infection.</item>
+<item>Practice good oral care and rinse mouth frequently or chew on sugarless gum to manage symptoms of dry mouth.</item>
+<item>Monitor for extrapyramidal symptoms and notify the provider if they occur.</item>
+</list>
+<para id="para-00029"><emphasis effect="bold">The client taking an antipsychotic <emphasis effect="italics">should not:</emphasis></emphasis></para>
+<list list-type="bulleted" id="list-00008">
+<item>Allow the liquid concentrations to touch the skin, because it can cause contact dermatitis.</item>
+<item>Quickly change positions due to orthostatic hypotension.</item>
+<item>Drive a vehicle or operate heavy machinery due to dizziness and sedation.</item>
+</list>
+</note>
+<note class="black-box" id="note-00007">
+<para id="para-00030"><emphasis effect="bold">Antipsychotics</emphasis></para>
+<para id="para-00031"><emphasis effect="bold">First- and second-generation antipsychotics:</emphasis> Increasing mortality occurs in the older adult with dementia-related psychosis.</para>
+<para id="para-00032"><emphasis effect="bold">Aripiprazole:</emphasis> Use places the client at risk for developing compulsive or uncontrollable urges to gamble, shop, binge eat, or be promiscuous.</para>
+</note>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>akathisia</term> <meaning>continuous restlessness, inability to sit still; clients may say they feel hyperactive deep inside their body</meaning></definition>
+<definition id="def-00002"><term>asociality</term> <meaning>lack of interest in social interactions</meaning></definition>
+<definition id="def-00003"><term>avolition</term> <meaning>total lack of motivation</meaning></definition>
+<definition id="def-00004"><term>catatonia</term> <meaning>state in which someone is awake but does not appropriately respond to other people and their environment; can affect someone’s movement, speech, and behavior</meaning></definition>
+<definition id="def-00005"><term>depot injection</term> <meaning>an injection that releases medication very slowly so it increases the duration of action</meaning></definition>
+<definition id="def-00006"><term>dystonia</term> <meaning>spasms of the tongue, neck, back, and legs; the spasms may cause unnatural positioning of the neck, eyes, and excessive salivation</meaning></definition>
+<definition id="def-00007"><term>extrapyramidal symptoms (EPS)</term> <meaning>variety of movement disorders such as tardive dyskinesia, akathisia, or bradykinesia, experienced as a result of taking dopamine antagonists</meaning></definition>
+<definition id="def-00008"><term>pseudoparkinsonism</term> <meaning>an adverse effect of antipsychotics that mimics the manifestations of Parkinson’s disease, such as shuffling gait, stooped posture, and muscle tremors</meaning></definition>
+<definition id="def-00009"><term>psychosis</term> <meaning>loss of external reality</meaning></definition>
+<definition id="def-00010"><term>tardive dyskinesia</term> <meaning>abnormal muscle movements such as lip smacking, tongue darting in and out of mouth, chewing movements without food in mouth, and slow, aimless extremity movements</meaning></definition>
+<definition id="def-00011"><term>xerostomia</term> <meaning>dry mouth; usually due to inadequate fluid intake or can be drug-induced</meaning></definition>
+</glossary>
 </document>
