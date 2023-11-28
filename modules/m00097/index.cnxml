@@ -76,13 +76,13 @@
     <title>Drug Schedules</title>
     <para id="para-00006">Many different chemicals, substances, and drugs come under U.S. Drug Enforcement Administration (DEA) oversight (U.S. DEA, n.d.). In 1970, Congress passed the <term class="no-emphasis" id="term-00004">Controlled Substances Act</term>, which led to the establishment of the DEA in 1973 and described the controls for manufacturing, distributing, and prescribing habit-forming drugs. This legislation not only categorized controlled substances based on their potential for abuse but also established drug schedules and provided drug treatment programs for those with addictions. All hospitals and pharmacies must keep records of drugs purchased and sold. Any health care provider with prescriptive authority must be registered with the DEA and given a unique DEA identifier that they must place on any controlled substance prescription.</para>
     <para id="para-00007">As noted in <link target-id="table-00002" document="m00097"/>, Schedule I drugs have no medical use and a very high potential for abuse and physical/psychological dependency; therefore, most health care providers cannot issue prescriptions for those drugs, and pharmacies cannot fill those prescriptions. If research is being conducted with a Schedule I drug, applications and supporting documents have to be sent to the DEA for special permission. Schedule II, III, and IV drugs must have a medically sound reason for a prescription. Schedule V drugs are those with the lowest potential for abuse and dependency (U.S. DEA, n.d.).</para>
-    <table class="vertically-tight alternate-shading" id="table-00002">
+    <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="5">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <colspec colnum="3" colname="c3" colwidth="3*"/>
-    <colspec colnum="4" colname="c4" colwidth="4*"/>
-    <colspec colnum="5" colname="c5" colwidth="5*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <colspec colnum="5" colname="c5" colwidth="1*"/>
     <thead>
     <row>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Schedule</span></emphasis></entry>
@@ -94,35 +94,35 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Schedule I</term></entry>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Schedule&#160;I</term></entry>
     <entry valign="top" align="left">Heroin, lysergic acid diethylamide (LSD), peyote; cannabis is still listed as a Schedule I drug</entry>
     <entry valign="top" align="left">No accepted medical use</entry>
     <entry valign="top" align="center">High</entry>
     <entry valign="top" align="center">The highest potential for abuse</entry>
     </row>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Schedule II</term></entry>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Schedule&#160;II</term></entry>
     <entry valign="top" align="left">Cocaine, methamphetamine, oxycodone, fentanyl, methadone, hydromorphone, mixed amphetamine salts, Adderall, Ritalin</entry>
     <entry valign="top" align="left">Medical use</entry>
     <entry valign="top" align="center">High</entry>
     <entry valign="top" align="center">High</entry>
     </row>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Schedule III</term></entry>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Schedule&#160;III</term></entry>
     <entry valign="top" align="left">Acetaminophen with codeine, ketamine, anabolic steroids</entry>
     <entry valign="top" align="left">Medical use</entry>
     <entry valign="top" align="center">Moderate to Low</entry>
     <entry valign="top" align="center">Moderate to Low</entry>
     </row>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Schedule IV</term></entry>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Schedule&#160;IV</term></entry>
     <entry valign="top" align="left">Benzodiazepines such as alprazolam and diazepam; tramadol</entry>
     <entry valign="top" align="left">Less abuse potential than Schedule III drugs and limited dependence liability</entry>
     <entry valign="top" align="center">Low</entry>
     <entry valign="top" align="center">Low</entry>
     </row>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Schedule V</term></entry>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Schedule&#160;V</term></entry>
     <entry valign="top" align="left">Atropine with diphenoxylate (Lomotil), pregabalin</entry>
     <entry valign="top" align="left">General medical use</entry>
     <entry valign="top" align="center">Low</entry>

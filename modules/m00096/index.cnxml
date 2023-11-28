@@ -89,15 +89,15 @@
     <note class="unfolding-casestudy" id="note-00001">
     <para id="para-00027">Read the following clinical scenario to answer the questions that follow.</para>
     <para id="para-00028">Vy Min is a 34-year-old Chinese American client who presents to her health care provider’s office with reports of a headache, cough, and sharp right-sided chest pain during deep inspiration and coughing. The client states she has been taking acetaminophen 500 mg every 4 hours for the last 48 hours and dextromethorphan 2 teaspoons every 4 hours, as needed, for coughing.<newline count="2"/>
-    <span class="blue-text"><emphasis effect="bold">History</emphasis></span><newline/>
+    <emphasis effect="bold">History</emphasis><newline/>
     Seasonal allergies<newline/>
     Indigestion<newline count="2"/>
-    <span class="blue-text"><emphasis effect="bold">Medications</emphasis></span><newline/>
+    <emphasis effect="bold">Medications</emphasis><newline/>
     Cetirizine 10 mg PO daily<newline/>
     Dextromethorphan (Robitussin) 2 tsp PO every 4 hours as needed for cough<newline/>
     Acetaminophen 500 mg PO every 4 hours for 48 hours<newline/>
     A small red pill (taken for indigestion, she doesn’t recall its name)</para>
-    <table class="vertically-tight" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -112,7 +112,7 @@
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
     <entry valign="top" align="left">100.4°F</entry>
-    <entry valign="top" align="left" morerows="5">
+    <entry valign="top" align="left" morerows="6">
     <list list-type="bulleted" id="list-00004">
     <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
     <item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention; no peripheral edema noted bilaterally; S1, S2 noted</item>
@@ -174,19 +174,19 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Preclinical trials</entry>
+    <entry valign="top" align="left">Preclinical&#160;trials</entry>
     <entry valign="top" align="left">Drugs are tested on animal subjects to evaluate the compound in living tissues and to evaluate for adverse effects.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase I studies</entry>
+    <entry valign="top" align="left">Phase I&#160;studies</entry>
     <entry valign="top" align="left">A very small sample of human volunteers is used to test the drugs. Usually, the individuals are healthy subjects.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase II studies</entry>
+    <entry valign="top" align="left">Phase II&#160;studies</entry>
     <entry valign="top" align="left">Clinical investigators test the drug on clients with the disease that the drug has been developed to treat. Subjects are monitored very closely to evaluate the intended effects and for adverse reactions.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase III studies</entry>
+    <entry valign="top" align="left">Phase III&#160;studies</entry>
     <entry valign="top" align="left">This is a large-scale clinical trial. Prescribers assist in observing the client taking the drug. The goal of this phase is to gather data about the effectiveness and safety of the drug.</entry>
     </row>
     <row>
@@ -194,7 +194,7 @@
     <entry valign="top" align="left">Once drugs make it through Phase III studies, they are evaluated by the FDA following the submission of a New Drug Application. If the FDA approves the drug, it can then be marketed.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase IV studies<newline/> (post-marketing surveillance)</entry>
+    <entry valign="top" align="left">Phase IV&#160;studies<newline/> (post-marketing surveillance)</entry>
     <entry valign="top" align="left">Continual evaluations of drugs following approval by the FDA</entry>
     </row>
     </tbody>
