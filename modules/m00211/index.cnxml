@@ -62,14 +62,14 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <tbody>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2">In a diverse community health setting, Lou, a nurse, provides care for 70-year-old Mrs. Sato, who recently emigrated to the U.S. from Japan. Mrs. Sato has been experiencing symptoms of depression and anxiety since her arrival, impacting her overall well-being. Lou recognizes the importance of applying transcultural nursing principles and utilizes the Giger/Davidhizar Assessment Model to understand and address Mrs. Sato’s unique needs.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Step 1: Gathering Data<newline/>
-Lou creates a safe and nonjudgmental environment for Mrs. Sato to share her experiences.</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2">Step 1: Gathering Data
+<para id="para-00036">Lou creates a safe and nonjudgmental environment for Mrs. Sato to share her experiences.</para></entry>
 </row>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2">Mrs. Sato’s cultural background: Japanese<newline/>
@@ -107,8 +107,8 @@ Previous experiences with the health care system: Limited exposure to Western me
 <entry valign="top" align="left">Mrs. Sato’s genetic and physiological makeup may differ from those of individuals from other cultures, impacting her response to treatment and medications.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Step 3: Analyzing the Data:<newline/>
-The nurse develops an understanding of the potential influences of cultural factors on Mrs. Sato’s mental health and overall well-being.</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2">Step 3: Analyzing the Data:
+<para id="para-00037">The nurse develops an understanding of the potential influences of cultural factors on Mrs. Sato’s mental health and overall well-being.</para></entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2">Step 4: Planning and Implementing Culturally-Sensitive Care</entry>
@@ -152,9 +152,9 @@ The nurse develops an understanding of the potential influences of cultural fact
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
-<colspec colnum="4" colname="c4" colwidth="4*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Domain</emphasis></span></entry>
@@ -280,7 +280,7 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 </row>
 <row>
 <entry valign="top" align="center"><span class="blue-text"/></entry>
-<entry valign="top" align="left">During the interaction, the nurse greets Mr. Petrov in Russian and uses culturally appropriate greetings, such as “З&#x0434;&#x0440;&#x0430;&#x0432;&#x0441;&#x0442;&#x0432;&#x0443;&#x0439;&#x0442;&#x0435;” (Hello). They introduce themselves by their name and role, explaining their purpose and the reason for their inquiry. The nurse ensures confidentiality and builds a rapport with Mr. Petrov to foster trust and comfort.</entry>
+<entry valign="top" align="left">During the interaction, the nurse greets Mr. Petrov in Russian and uses culturally appropriate greetings, such as “Здравствуйте” (Hello). They introduce themselves by their name and role, explaining their purpose and the reason for their inquiry. The nurse ensures confidentiality and builds a rapport with Mr. Petrov to foster trust and comfort.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Cultural Encounters</emphasis></span></entry>
@@ -308,10 +308,10 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 <title/>
 <tgroup cols="5">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
-<colspec colnum="5" colname="c5" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="4" colname="c4" colwidth="2*"/>
+<colspec colnum="5" colname="c5" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Theory</emphasis></span></entry>
