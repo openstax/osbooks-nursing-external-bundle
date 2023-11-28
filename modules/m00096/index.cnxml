@@ -165,7 +165,7 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Stage of Development</span></emphasis></entry>
@@ -174,28 +174,28 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Preclinical&#160;trials</entry>
+    <entry valign="top" align="left">Preclinical trials</entry>
     <entry valign="top" align="left">Drugs are tested on animal subjects to evaluate the compound in living tissues and to evaluate for adverse effects.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase&#160;I&#160;studies</entry>
+    <entry valign="top" align="left">Phase I studies</entry>
     <entry valign="top" align="left">A very small sample of human volunteers is used to test the drugs. Usually, the individuals are healthy subjects.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase&#160;II&#160;studies</entry>
+    <entry valign="top" align="left">Phase II studies</entry>
     <entry valign="top" align="left">Clinical investigators test the drug on clients with the disease that the drug has been developed to treat. Subjects are monitored very closely to evaluate the intended effects and for adverse reactions.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase&#160;III&#160;studies</entry>
+    <entry valign="top" align="left">Phase III studies</entry>
     <entry valign="top" align="left">This is a large-scale clinical trial. Prescribers assist in observing the client taking the drug. The goal of this phase is to gather data about the effectiveness and safety of the drug.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">FDA&#160;approval</entry>
+    <entry valign="top" align="left">FDA approval</entry>
     <entry valign="top" align="left">Once drugs make it through Phase III studies, they are evaluated by the FDA following the submission of a New Drug Application. If the FDA approves the drug, it can then be marketed.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Phase&#160;IV&#160;studies<newline/>
-     (post-marketing&#160;surveillance)</entry>
+    <entry valign="top" align="left">Phase IV studies<newline/>
+     (post-marketing surveillance)</entry>
     <entry valign="top" align="left">Continual evaluations of drugs following approval by the FDA</entry>
     </row>
     </tbody>
