@@ -6,8 +6,76 @@
     <md:uuid>7f2d2555-5653-43d0-8951-3dc1bb6dac6b</md:uuid>
   </metadata>
  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Discuss the impact of nutrition on chronic gastrointestinal disorders.</item>
+<item>Discuss the impact of nutrition on acute exacerbation of chronic gastrointestinal disorders.</item>
+</list>
+</section>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Nutritional Requirements for Optimal Health With Gastrointestinal Illness</title>
+<para id="para-00002">When gastrointestinal illness is present, prebiotics and probiotics are still recommended; however, there are additional recommendations to aid in gut health. High-fiber diets and high water intake are beneficial during nonexacerbation periods in <term class="no-emphasis" id="term-00001">gastrointestinal disease</term>. However,</para>
+<note class="safety-alert" id="note-00001">
+<title>Contraindications for High Fiber Intake</title>
+<para id="para-00003">When a client is experiencing inflammation of the gastrointestinal tract due to illness such as ulcerative colitis, Crohn’s disease, <term id="term-00002">diverticulitis</term> (inflammation of diverticula, which are bulging pouches that can form along the intestines), or any other acute condition, high fiber intake is contraindicated because it can irritate the intestinal lining and increase inflammation.</para>
+</note>
+<para id="para-00004">There are basic recommendations for <term class="no-emphasis" id="term-00003">gut health</term> for individuals with gastrointestinal disease. Foods high in saturated fats and trans fats should be avoided because they increase <term class="no-emphasis" id="term-00004">inflammation</term>. Healthy fats, such as omega-3 fatty acids and monounsaturated fats, may help decrease inflammation and should be used in place of less healthy fat (Nebraska Medicine, 2022). An anti-inflammatory diet is helpful overall in gastrointestinal illness. Antioxidants found in foods such as avocados, broccoli, spinach, carrots, potatoes, and artichokes may help decrease inflammation. Phytonutrients found in fruits and vegetables may help to protect against inflammation (Nebraska Medicine, 2022). The Mediterranean diet follows the principles of anti-inflammatory nutrition.</para>
+</section>
+<section id="sect-00004">
+<title>Alternative Food and Supplement Options</title>
+<para id="para-00005">Supplementation for gut health is often needed when gastrointestinal disease is exacerbated and in the inflammatory phase because malabsorptive issues occur most often during this time. Supplementation adds higher levels of needed nutrients to increase the chances of adequate absorption. In some severe cases, <term class="no-emphasis" id="term-00005">parenteral supplementation</term> may be required.</para>
+<para id="para-00006">Food alternatives and simple replacements can be beneficial for promoting gut health, whether illness is present or not ([link]Table 18.3[link]).</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Food</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Replacement for Improved Gut Health</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Milk</entry>
+<entry valign="top" align="left">Kefir</entry>
+</row>
+<row>
+<entry valign="top" align="left">Sugary drinks</entry>
+<entry valign="top" align="left">Kombucha</entry>
+</row>
+<row>
+<entry valign="top" align="left">Milk, cheese curd, mayonnaise</entry>
+<entry valign="top" align="left">Greek yogurt</entry>
+</row>
+<row>
+<entry valign="top" align="left">Red meats</entry>
+<entry valign="top" align="left">Fruits and vegetables, fish, chicken</entry>
+</row>
+<row>
+<entry valign="top" align="left">Sugary cereals</entry>
+<entry valign="top" align="left">Oats</entry>
+</row>
+<row>
+<entry valign="top" align="left">White bread</entry>
+<entry valign="top" align="left">Sourdough bread</entry>
+</row>
+<row>
+<entry valign="top" align="left">Nonsprouting lentils</entry>
+<entry valign="top" align="left">Sprouting lentils</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Food Replacements to Improve Gut Health (source: Nebraska Medicine, 2022; Crohn’s and Colitis Foundation, n.d.; Johns Hopkins Medicine, n.d.)</caption>
+</table>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>diverticulitis</term> <meaning>inflammation of diverticula, which are bulging pouches that can form along the intestines</meaning></definition>
+</glossary>
 </document>
