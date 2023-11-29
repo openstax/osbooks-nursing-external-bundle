@@ -6,8 +6,330 @@
     <md:uuid>8dcd1465-d24d-46c3-ad51-42b978491fef</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Identify the core principles of socio-ecological models.</item>
+<item>Describe how socio-ecological models serve as a framework to understand how behaviors both affect and are affected by various contexts.</item>
+<item>Discuss health behavior using the components of a theory or model.</item>
+</list>
+</section>
+<para id="para-00002">The Socio-Ecological Model (SEM) is a classic theory of child development that scholars and clinicians from different disciplines have adapted over time to fit the phenomena of other fields. Its core principles help us view individuals as existing within many relationships and contexts. A consistent idea among similar models is that multiple factors can influence health, and clinicians, educators, researchers, and policymakers must take a broad approach to thinking about health and the many shaping factors. Using the SEM as well as theories facilitating an exploration of the nested, interdependent, intersectional, dynamic interactions of individuals and their surroundings in today’s complex world will help nurses meaningfully understand and address health problems. The Socio-Ecological Model offers a way to study and organize how personal, situational, community, societal, political, and other contexts influence health behaviors and outcomes. Nurses and nursing students can guide their professional practices with this model to support thorough assessments of client health and targeted, realistic care planning, among other benefits. While SEMs can help structure the research, work, planning, and implementation processes of nurses in community/public health, remember that SEMs may not include all contextual factors that are important to a particular community or specific health problem. Further, not all findings from work guided by SEMs will apply to individuals within a population or community.</para>
+<para id="para-00003">The current version of the model has evolved from many interprofessional theories and studies of health and behavior that started in the 1970s with psychologist Urie Bronfenbrenner, who called for researchers to consider how human growth and behavior can both accommodate and change given the environment and systems that exist around people and how people interact with such environments and systems (Bronfenbrenner, 1977). Bronfenbrenner originally developed this model to describe child development and identified four systems nested around the individual child that impact development: microsystem, mesosystem, exosystem, and macrosystem. Years after initially developing this model, Bronfenbrenner added chronosystems as an additional context imperative to consider in analyzing child development (Bronfenbrenner, 1986). <link target-id="table-00001" document="m00153"/> presents definitions of each system.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">System</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Microsystem</entry>
+<entry valign="top" align="left">Complex relations between the developing individual and environment and the immediate setting of the individual. The setting is a place with particular features in which the individual engages in particular activities in particular roles—for example, their home (a child), school (a student), or workplace (an employee).</entry>
+</row>
+<row>
+<entry valign="top" align="left">Mesosystem</entry>
+<entry valign="top" align="left">The interrelations among major settings containing the developing individual at a particular point in their life—for example, interactions among family, school, and peer groups.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Exosystem</entry>
+<entry valign="top" align="left">An extension of the mesosystem that includes other specific informal and formal social structures that do not contain the individual but do encompass the settings where the individual is found—for example, major institutions of society, the neighborhood, mass media, government agencies, and social networks.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Macrosystem</entry>
+<entry valign="top" align="left">Institutional patterns of the culture and subculture. Macrosystems direct norms and activities. A macrosystem may include codified laws, regulations, and rules but can also include informal and implicit norms. For example, the economic, social, educational, and legal systems shape the meaning and motivation of how individuals are treated and interact with each other in different settings.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Chronosystem</entry>
+<entry valign="top" align="left">The influence of time on an individual’s development, including life transitions and events over the course of life.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Systems of Bronfenbrenner’s Socio-Ecological Model (See Bronfenbrenner, 1977; 1986.)</caption>
+</table>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>UNICEF Socio-Ecological Model</title>
+<para id="para-00004">Specific to population health, the <term class="no-emphasis" id="term-00001">United Nations Children’s Fund (UNICEF)</term> uses a SEM as a conceptual framework for many health-promoting initiatives (Baudot, 2015). The model facilitates an analysis of barriers and benefits to health. For example, researchers have used the model to study and improve health in complex settings related to organization priorities, including childhood immunization in Nigeria, nutrition in the Marshall Islands, suicidal ideation in China, and the relation of poverty, the environment, and menstrual health management in India (Angeli et al., 2022; Kodish et al., 2022; Olaniyan et al., 2021; Zhou et al., 2022). Levels of the UNICEF model include individual, interpersonal, community, organizational/institutional, and policy/systems (also known as enabling environments). UNICEF also specifies methods or actions to take to effect change at each level. <link target-id="table-00002" document="m00153"/> provides definitions of the levels and actions for health change.</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Level</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Method for Change</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Individual/Interpersonal</entry>
+<entry valign="top" align="left">Knowledge, attitudes, and practices among a person (individual) and families, friends, and social networks (interpersonal) that affect decisions and actions</entry>
+<entry valign="top" align="left">Advocacy<newline/>
+Social mobilization</entry>
+</row>
+<row>
+<entry valign="top" align="left">Community</entry>
+<entry valign="top" align="left">Social beliefs and norms, economic conditions, community resources, knowledge, and attitudes about an issue among community members, and the sense of empowerment and efficacy in a community that impacts choices, decisions, and practices</entry>
+<entry valign="top" align="left">Behavior change communication and social change communication</entry>
+</row>
+<row>
+<entry valign="top" align="left">Organizational/Institutional</entry>
+<entry valign="top" align="left">Conditions of a system (e.g., educational system, health care system) that affect inclusion and quality, such as specific institution policies, guidelines, access, geographical proximity, physical infrastructure, resource management, capacity, and safety</entry>
+<entry valign="top" align="left">Social mobilization</entry>
+</row>
+<row>
+<entry valign="top" align="left">Policy/System Enabling Environments</entry>
+<entry valign="top" align="left">Policies and governance that either facilitate or discourage inclusivity and quality</entry>
+<entry valign="top" align="left">Advocacy</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>UNICEF Socio-Ecological Model Levels and Methods for Change (See Baudot, 2015.)</caption>
+</table>
+</section>
+<section id="sect-00004">
+<title>CDC Social-Ecological Model</title>
+<para id="para-00005">The CDC has also used a social-ecological model (also SEM) for violence prevention to help community health clinicians and other workers in the field of violence prevention better understand the factors that influence violence, place people at risk of violence, and protect people from perpetrating or experiencing violence (CDC, 2022). The CDC model has four levels: individual, relationship, community, and societal. <link target-id="table-00003" document="m00153"/> defines the levels of the model and includes proposed prevention strategies to address violence at each level.</para>
+<table class="vertically-tight alternate-shading" id="table-00003">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Level</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Prevention</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Individual</entry>
+<entry valign="top" align="left">Factors of an individual’s biological or personal history that increase the likelihood of experiencing violence or becoming a perpetrator. For example, age, education, income, substance use, and history of abuse may correlate with violence.</entry>
+<entry valign="top" align="left">Promote violence-prevention attitudes, beliefs, and behaviors (e.g., healthy relationship skill programs and conflict resolution training).</entry>
+</row>
+<row>
+<entry valign="top" align="left">Relationship</entry>
+<entry valign="top" align="left">Close relationships, meaning those with social peers, partners, and family members, influence an individual’s behavior and can contribute to the violence experience.</entry>
+<entry valign="top" align="left">Prevention and mentoring programs for parents and families that strengthen parent-child communication and promote healthy relationships.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Community</entry>
+<entry valign="top" align="left">Schools, workplaces, and neighborhoods in which social relationships occur. Some communities have characteristics that are associated with becoming victims or perpetrators of violence.</entry>
+<entry valign="top" align="left">Improving the physical and social environment across community settings and addressing other conditions, such as poverty and alcohol access, that support violence in communities.</entry>
+</row>
+<row>
+<entry valign="top" align="left">Societal</entry>
+<entry valign="top" align="left">Broad societal factors that either encourage or inhibit violence. Social and cultural norms and health, economic, educational, and social policies that maintain inequalities between groups may promote violence.</entry>
+<entry valign="top" align="left">Promote societal norms that are protective against violence, and bolster household economic security, opportunities for education and employment, and policies that affect structural determinants of health. <link target-id="fig-00001" document="m00153"/> shows an example of change at the societal level.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>CDC Social-Ecological Model Levels and Prevention Strategies (See CDC, 2022.)</caption>
+</table>
+<figure class="scaled-down" id="fig-00001">
+<media alt="Five legislative measures included in the Bipartisan Safer Communities Act of 2022 are: Enhanced review process: gun buyers under the age of 21 years must undergo a background check of juvenile and mental health records; Closes the boyfriend loophole: dating partners, as well as spouses and ex-spouses, convicted of domestic abuse may not purchase guns; Provides federal aid for red flag laws: funds support removal of guns from owners for whom there is concern of harm to themselves or others; Stronger federal penalties for illegal purchases: those purchasing guns illegally may face a prison sentence of 15 years; and Mental health support: expansion of school-based health care services and crisis recognition and intervention."><image mime-type="image/png" src="../../media/PH_Figure_10_03_005.png"/></media>
+<caption>Access to a weapon can significantly increase the harm caused by violent incidents. Legislative measures included in the 2022 Bipartisan Safer Communities Act can mitigate the occurrence and impact of violence in communities. This bill represents the most significant federal legislation to address gun violence in nearly 30 years. (See National Institute for Health Care Management, 2023; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+</figure>
+<note class="healthy-people" id="note-00001">
+<para id="para-00006"><link url="https://openstax.org/r/healthfirearm"><emphasis effect="bold">Reduce Firearm-Related Deaths—IVP-13</emphasis></link></para>
+<para id="para-00007">Firearm-related injuries and deaths are a major health issue in the United States, and the problem is worsening. In 2018, there were 11.9 firearm-related deaths per 100,000 people in the United States, and by 2021 that number had increased to 14.6. The United States averages almost two mass shootings per day in which four or more people are killed or injured. Deaths and injuries following homicides, suicides, unintentional injuries, and mass shootings are both tragic and preventable with comprehensive policy and community-focused approaches. Generating such solutions remains elusive and contentious and must start with acknowledgement of gun violence as a public health problem. For more information on ending gun violence, visit the <link url="https://openstax.org/r/everytownresearch">Everytown for Gun Safety</link> site.</para>
+<para id="para-00008">(See ODPHP, n.d.b; O’Rourke, 2023.)</para>
+</note>
+<note class="theory-action" id="note-00002">
+<title>The Social-Ecological Model, Health Promotion, and Gun Violence</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/publichealthtackle"/>
+</media>
+<para id="para-00009">Mighty Fine of the American Public Health Association shares information about deaths and injuries secondary to gun violence in this video. He notes that homicides, unintentional shootings, assaults, suicides, and mass shootings are events that contribute to gun violence being a major public health problem in the United States.</para>
+<para id="para-00010">As Mighty discusses different aspects of health promotion and risk reduction related to gun violence throughout the video, note each intervention. Then, categorize each intervention based on the level of prevention and level of the CDC Social-Ecological Model. As a reminder:</para>
+<para id="para-00011">Levels of prevention include</para>
+<list list-type="bulleted" id="list-00002">
+<item>primordial,</item>
+<item>primary,</item>
+<item>secondary,</item>
+<item>tertiary, and</item>
+<item>quaternary.</item>
+</list>
+<para id="para-00012">The CDC Social-Ecological Model levels include</para>
+<list list-type="bulleted" id="list-00003">
+<item>individual,</item>
+<item>relationship,</item>
+<item>community, and</item>
+<item>societal.</item>
+</list>
+</note>
+</section>
+<section id="sect-00005">
+<title>Models in Research and Practice</title>
+<para id="para-00013">Using models and frameworks is not just for major organizations. Nurses and care teams can demonstrate, assess, evaluate, and plan for the complex and interacting nature of individual, community, and system factors through the use of models and frameworks as well. Nurses can impact change across levels by using these models and frameworks and considering the many factors that can impact the development of health problems and success or failure in adequately addressing problems. Client behaviors can affect their health, institution, community decisions, and larger system policies. Occurring concurrently, institutions, communities, policies, and social factors affect client health and behavior. Research teams also use these models to direct studies and organize data so meaningful clinical change can result. This section will explore several recent population health projects that were guided by the SEMs.</para>
+<para id="para-00014">Health literacy measures how well clients can find, understand, and use information and services to make informed health decisions for themselves or others. When health literacy is poor, clients may not engage in health care services, may lack sufficient access to care, and may not employ health-promoting behaviors. Researchers used the SEM to guide a study of factors at the interpersonal and organizational levels that impact health literacy among clients seeking care at a <term id="term-00002">federally qualified community health center (FQHC)</term> (Greaney et al., 2020). FQHCs are clinics providing primary care services to all clients regardless of their ability to pay (Centers for Medicare and Medicaid Services, 2017). Ensuring that the clinicians of FQHCs are prepared to address and improve health literacy is important in helping the clients truly access their care and improve their health. As the SEM posits that individual behaviors are influenced by intrapersonal, interpersonal, organizational, community, and policy-level factors, the researchers determined that exploring the interpersonal and organizational levels via staff interviews was essential to understanding health literacy at these critical centers. Staff participants recognized the impact of health literacy on client and population health outcomes and discussed creating a centralized health information database for clients of varying levels of health literacy. Such a database could include pictures and other visual aids to communicate health information. Training for staff on assessing health literacy among clients was also suggested, representing an organizational-level change that supports interpersonal clinician-client health communication.</para>
+<para id="para-00015">Pregnancy in children and adolescents poses significant health risk to both the pregnant person and the infant. Children and adolescents are at a higher risk of maternal mortality, preterm delivery, and delivering low birth weight babies (World Health Organization [WHO], 2023). In addition to physical health risks, young pregnant people face challenges completing their education and maintaining employment, which have both immediate and long-term implications for the health of the individual and their family. Researchers used the SEM to guide a study of contraceptive service use in the Ebonyi State of Nigeria, given the model’s ability to help describe the multiple layers and influences of environmental, social, and community factors that influence health behavior (Ezenwaka et al., 2020). <link target-id="table-00004" document="m00153"/> provides a listing of factors impacting contraceptive access at each SEM level related to this study. The research team determined that many barriers to accessing contraception existed across the SEM levels for youth in the Ebonyi State, and most were not within the control of children or adolescents. Strategic involvement of community partners, clinicians, and community adults would be essential in promoting contraceptive service use among children and adolescents.</para>
+<table class="vertically-tight alternate-shading" id="table-00004">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">SEM Level</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Factors</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Individual</entry>
+<entry valign="top" align="left">Poor awareness and knowledge of contraception<newline/>
+Fear and experience of side effects<newline/>
+Cost of services<newline/>
+Lack of confidence/low self-esteem related to seeking contraception</entry>
+</row>
+<row>
+<entry valign="top" align="left">Interpersonal</entry>
+<entry valign="top" align="left">Poor parental communication of sexual health matters</entry>
+</row>
+<row>
+<entry valign="top" align="left">Community (cultural, societal, religious)</entry>
+<entry valign="top" align="left">Gendered cultural norms<newline/>
+Cultural and religious norms<newline/>
+Societal shaming<newline/>
+Misconceptions about contraceptive use</entry>
+</row>
+<row>
+<entry valign="top" align="left">Organizational</entry>
+<entry valign="top" align="left">Unfriendly/judgmental providers<newline/>
+Lack of privacy and confidentiality<newline/>
+Poor support for youth-friendly health centers</entry>
+</row>
+<row>
+<entry valign="top" align="left">Societal</entry>
+<entry valign="top" align="left">Peer and media influence<newline/>
+Restricted sexuality education<newline/>
+Lack of social and community support<newline/>
+Poverty level</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Factors Affecting Contraceptive Service Use among Adolescents by SEM level</caption>
+</table>
+<para id="para-00016">Beyond the challenge of developing a vaccine for <term class="no-emphasis" id="term-00003">COVID-19</term>, clinicians and scientists faced obstacles in addressing vaccine hesitancy among the global population during the pandemic. Researchers conducted an online survey of 592 adults in the United States to examine intentions to obtain a COVID-19 vaccine, using the SEM to determine relations between vaccine intentions and the intrapersonal, interpersonal, institutional, and community-level factors (Latkin et al., 2021). Intrapersonal factors of the respondents who felt negative or ambivalent about becoming vaccinated against COVID-19 included Black race, lower educational attainment, conservative political ideology, no influenza vaccination in the last year, skepticism about COVID-19, and lower engagement in preventative behaviors. Lower levels of perceived social norms (i.e., social rules or typical behaviors and actions) and preventative behaviors were interpersonal factors contributing to negative or ambivalent intention to become vaccinated. Institutional factors such as lower trust in national health agencies also contributed to negative or ambivalent feelings. At the community level, lower perceived likelihood of becoming ill with COVID-19 was associated with negative vaccine intentions. At the time of vaccine development through today, studies that evaluate vaccine hesitance in the context of all SEM levels are important to developing targeted interventions. Targeted interventions are important to supporting vaccine uptake among a sufficient enough percentage of the global population to avoid acquisition, recurrence, or resurgence of vaccine-preventable illnesses such as COVID-19.</para>
+<para id="para-00017">Intimate partner violence (IPV) is a global health issue affecting people of all genders and across age groups. In Mexico, nearly 44 percent of women have reported experiencing IPV in their lifetime (Willie et al., 2020). Femicide, the intentional murder of women because they are women, is prevalent in Mexico with an estimated seven women killed each day (Meyer, 2017). These circumstances inspired a research team to investigate access to IPV resources among women in Mexico. A research team collected information via a survey of 950 Mexican women who experienced IPV to determine the socioecological factors that influenced their utilization of community-based supports (Willie et al., 2020). The socioecological levels used to organize the study were individual, partner, family, and community. At the individual level, the team determined that women who were separated or divorced from their partner used 70 percent more IPV resources than women in common-law marriages. Women who knew about more community resources accessed more resources. For women surveyed, the greater lethality present in the relationship with the partner increased the number of resources accessed. For women who had a family member of the violent partner encouraging IPV, 46 percent more resources were used. Also at the relationship level, women being likely to disclose IPV to family and friends increased the resources used. In the community, strong norms regarding resource utilization also supported resource access by women experiencing IPV. Results of the study can help researchers and clinicians develop targeted interventions toward publicizing the IPV services available at community site such as emergency medical services, counseling, and hotlines but also in creating community-wide outreach to bolster the social norms regarding IPV.</para>
+<note class="theory-action" id="note-00003">
+<title>Socio- and Social-Ecological Models</title>
+<para id="para-00018">Visit the <link url="https://openstax.org/r/uniceforg">CDC website</link> page about the socio-ecological model, view the <link url="https://openstax.org/r/Transtheoretical">UNICEF report online</link>, or review this video <link url="https://openstax.org/r/transtheoreticalmodels">Health Belief and Transtheoretical Models—Fundamentals of Nursing</link> to view how SEMs can be depicted via illustration. Select one that you would like to use to conduct a practice application, and then sketch the model on a piece of paper. Think back to Mo from the chapter opening scenario, and then do the following:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00004">
+<item>Pick one of Mo’s health problems or a condition he may be at risk for (the health problem may be acute, chronic, self-limiting, or requiring treatment and may be individual or a risk for his family/community).</item>
+<item>Fill in each level of your sketched model with information from his scenario.</item>
+<item>Add information to each level that you know about barriers and facilitators to health from your other foundational nursing courses.</item>
+<item>Identify at least one nursing action at each level of the model that can contribute to ameliorating Mo’s health problem and to helping clients in the future that may have similar health problems.</item>
+</list>
+</note>
+<para id="para-00019">The chapter began with a reminder that clients do not exist in isolation and emphasized the interdependence of clients and the environment. Multilayered external influences impact a client’s symptoms, health conditions, access to care, quality of care, and opportunities for improved health. Nurses can identify and address the intrapersonal, interpersonal, community, organizational, policy, behavior, genetic, environmental, and social factors that influence the health and well-being of people and populations.</para>
+<para id="para-00020">By using SEMs and theories of health behavior, nurses can comprehensively organize and address health. While SEMs are not a replacement for individual-level assessment and intervention in health care, the SEM recognizes the complexity of health status, health promotion, risk reduction, and disease prevention given the interplay between clients and their own situations and environments. SEMs help provide a comprehensive perspective of population health problems and offer insights into solutions across levels. By considering individual, interpersonal, community, and societal factors, the SEMs allow for a more holistic understanding of health problems that can arise from multiple sources. SEMs also acknowledge that individual behavior or choice is not solely responsible for the health outcomes of a particular client or the larger population, collectively. Instead, SEMs emphasize the importance of broader contextual factors and encourage clinicians and researchers to intervene at multiple levels to create sustainable and meaningful health change.</para>
+</section>
+</section>
+<section class="section-summary" id="sect-00006">
+<para id="para-00021">Clients and communities are unique, dynamic, complex, and constantly evolving. As such, nurses, researchers, educators, and policymakers must analyze and address the health of clients and communities with a broad lens that considers the interaction of many factors. SEMS have been used in health, education, and other disciplines as a guiding framework to evaluate, identify, and improve health and the human experience globally. SEMs in various forms provide a way for nurses, clinicians, and others to perform thorough health assessments, identify barriers and facilitators of health, and plan for interventions that can support health across personal, community, and system-wide levels. The complex interplay between clients and their environments and specific contextual factors can be described and organized with the use of SEMs. An approach to improving health with the support of an SEM facilitates a more holistic understanding of health problems and promotes sustainable and effective interventions for supporting population health.</para>
+</section>
+<section class="review-questions" id="sect-00007">
+<title>Review Questions</title>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00022"><link class="os-embed" url="#exercise/COM_Ch10_Sec01_RQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00023"><link class="os-embed" url="#exercise/COM_Ch10_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00024"><link class="os-embed" url="#exercise/COM_Ch10_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00025"><link class="os-embed" url="#exercise/COM_Ch10_Sec02_RQ4"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00026"><link class="os-embed" url="#exercise/COM_Ch10_Sec02_RQ5"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00027"><link class="os-embed" url="#exercise/COM_Ch10_Sec01_RQ6"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00028"><link class="os-embed" url="#exercise/COM_Ch10_Sec02_RQ7"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00029"><link class="os-embed" url="#exercise/COM_Ch10_Sec02_RQ8"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00030"><link class="os-embed" url="#exercise/COM_Ch10_Sec01_RQ9"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00031"><link class="os-embed" url="#exercise/COM_Ch10_Sec01_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00008">
+<para id="para-00032">Aguayo-Romero, R. A. (2021). (Re)centering black feminism into intersectionality research. <emphasis effect="italics">American Journal of Public Health</emphasis>, <emphasis effect="italics">111</emphasis>(1), 101–103. https://doi.org/10.2105/AJPH.2020.306005</para>
+<para id="para-00033">Ajzen, I. (1991). The theory of planned behavior. <emphasis effect="italics">Organizational Behavior and Human Decision Processes</emphasis>, <emphasis effect="italics">50</emphasis>(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T</para>
+<para id="para-00034">Al Shamsi, H., Almutairi, A. G., Al Mashrafi, S., &amp; Al Kalbani, T. (2020). Implications of language barriers for healthcare: A systematic review. <emphasis effect="italics">Oman Medical Journal</emphasis>, <emphasis effect="italics">35</emphasis>(2), e122–e122. https://doi.org/10.5001/omj.2020.40</para>
+<para id="para-00035">Angeli, F., Jaiswal, A. K., &amp; Shrivastava, S. (2022). Integrating poverty alleviation and environmental protection efforts: A socio-ecological perspective on menstrual health management. <emphasis effect="italics">Social Science &amp; Medicine</emphasis>, <emphasis effect="italics">314</emphasis>, 115427. https://doi.org/10.1016/j.socscimed.2022.115427</para>
+<para id="para-00036">Bandura, A. (1991). Social cognitive theory of self-regulation. <emphasis effect="italics">Organizational Behavior and Human Decision Processes</emphasis>, <emphasis effect="italics">50</emphasis>(2), 248–287. https://doi.org/10.1016/0749-5978(91)90022-L</para>
+<para id="para-00037">Bandura, A. (2001a). Social cognitive theory: An agentic perspective. <emphasis effect="italics">Annual Review of Psychology</emphasis>, <emphasis effect="italics">52</emphasis>(1), 1–26. https://doi.org/10.1146/annurev.psych.52.1.1</para>
+<para id="para-00038">Bandura, A. (2001b). Social cognitive theory of mass communication. <emphasis effect="italics">Media Psychology</emphasis>, <emphasis effect="italics">3</emphasis>(3), 265–299. https://doi.org/10.1207/S1532785XMEP0303_03</para>
+<para id="para-00039">Bandura, A., Freeman, W. H., &amp; Lightsey, R. (1999). Self-efficacy: The exercise of control. <emphasis effect="italics">Journal of Cognitive Psychotherapy</emphasis>, <emphasis effect="italics">13</emphasis>(2), 158–166. https://doi.org/10.1891/0889-8391.13.2.158</para>
+<para id="para-00040">Baudot, C. (2015). <emphasis effect="italics">A social and behavior change agenda for inclusion and equity in education</emphasis> (Programme Brief). UNICEF. https://www.unicef.org/esa/media/1756/file/UNICEF-ESA-2016-Program-Brief-Education-Inclusion.pdf</para>
+<para id="para-00041">Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. <emphasis effect="italics">American Psychologist</emphasis>, <emphasis effect="italics">32</emphasis>(7), 513–531. https://doi.org/10.1037/0003-066X.32.7.513</para>
+<para id="para-00042">Bronfenbrenner, U. (1986). Ecology of the family as a context for human development: Research perspectives. <emphasis effect="italics">Developmental Psychology</emphasis>, <emphasis effect="italics">22</emphasis>(6), 723–742. https://doi.org/10.1037/0012-1649.22.6.723</para>
+<para id="para-00043">Bronfenbrenner, U. (1995). Developmental ecology through space and time: A future perspective. In P. Moen, G. H. Elder, &amp; K. Lüscher (Eds.), <emphasis effect="italics">Examining lives in context: Perspectives on the ecology of human development.</emphasis> (pp. 619–647). American Psychological Association. https://doi.org/10.1037/10176-018</para>
+<para id="para-00044">Cardel, M. I., Szurek, S. M., Dillard, J. R., Dilip, A., Miller, D. R., Theis, R., Bernier, A., Thompson, L. A., Dulin, A., Janicke, D. M., &amp; Lee, A. M. (2020). Perceived barriers/facilitators to a healthy lifestyle among diverse adolescents with overweight/obesity: A qualitative study. <emphasis effect="italics">Obesity Science &amp; Practice</emphasis>, <emphasis effect="italics">6</emphasis>(6), 638–648. https://doi.org/10.1002/osp4.448</para>
+<para id="para-00045">Centers for Disease Control and Prevention (CDC). (2019). <emphasis effect="italics">Frequently asked questions</emphasis>. https://www.cdc.gov/nchhstp/socialdeterminants/faq.html</para>
+<para id="para-00046">Centers for Disease Control and Prevention. (2022). <emphasis effect="italics">The Social-Ecological Model: A framework for prevention</emphasis>. https://www.cdc.gov/violenceprevention/about/social-ecologicalmodel.html</para>
+<para id="para-00047">Centers for Medicare and Medicaid Services. (2017). Federally qualified health center. <emphasis effect="italics">Medicare Learning Network</emphasis>. https://static1.squarespace.com/static/53023f77e4b0f0275ec6224a/t/5a29875a0d92972420c91437/1512671067129/fqhcfactsheet.pdf</para>
+<para id="para-00048">Chaudhury, M., Hinckson, E., Badland, H., &amp; Oliver, M. (2019). Children’s independence and affordances experienced in the context of public open spaces: A study of diverse inner-city and suburban neighbourhoods in Auckland, New Zealand. <emphasis effect="italics">Children’s Geographies</emphasis>, <emphasis effect="italics">17</emphasis>(1), 49–63. https://doi.org/10.1080/14733285.2017.1390546</para>
+<para id="para-00049">Choi, D., &amp; Johnson, K. K. P. (2019). Influences of environmental and hedonic motivations on intention to purchase green products: An extension of the theory of planned behavior. <emphasis effect="italics">Sustainable Production and Consumption</emphasis>, <emphasis effect="italics">18</emphasis>, 145–155. https://doi.org/10.1016/j.spc.2019.02.001</para>
+<para id="para-00050">Cox, C., &amp; Fritz, Z. (2022). Presenting complaint: Use of language that disempowers patients. <emphasis effect="italics">BMJ</emphasis>, e066720. https://doi.org/10.1136/bmj-2021-066720</para>
+<para id="para-00051">Crenshaw, K. (1991). Mapping the margins: Intersectionality, identity politics, and violence against women of color. <emphasis effect="italics">Stanford Law Review</emphasis>, <emphasis effect="italics">43</emphasis>(6), 1241. https://doi.org/10.2307/1229039</para>
+<para id="para-00052">D’cruz, M., &amp; Banerjee, D. (2020). “An invisible human rights crisis”: The marginalization of older adults during the COVID-19 pandemic – An advocacy review. <emphasis effect="italics">Psychiatry Research</emphasis>, <emphasis effect="italics">292</emphasis>, 113369. https://doi.org/10.1016/j.psychres.2020.113369</para>
+<para id="para-00053">DiClemente, C. C., &amp; Prochaska, J. O. (1982). Self-change and therapy change of smoking behavior: A comparison of processes of change in cessation and maintenance. <emphasis effect="italics">Addictive Behaviors</emphasis>, <emphasis effect="italics">7</emphasis>(2), 133–142. https://doi.org/10.1016/0306-4603(82)90038-7</para>
+<para id="para-00054">Eriksson, M., Ghazinour, M., &amp; Hammarström, A. (2018). Different uses of Bronfenbrenner’s ecological theory in public mental health research: What is their value for guiding public mental health policy and practice? <emphasis effect="italics">Social Theory &amp; Health</emphasis>, <emphasis effect="italics">16</emphasis>(4), 414–433. https://doi.org/10.1057/s41285-018-0065-6</para>
+<para id="para-00055">Ezenwaka, U., Mbachu, C., Ezumah, N., Eze, I., Agu, C., Agu, I., &amp; Onwujekwe, O. (2020). Exploring factors constraining utilization of contraceptive services among adolescents in Southeast Nigeria: An application of the socio-ecological model. <emphasis effect="italics">BMC Public Health</emphasis>, <emphasis effect="italics">20</emphasis>(1), 1162. https://doi.org/10.1186/s12889-020-09276-2</para>
+<para id="para-00056">Gibb, J. K., DuBois, L. Z., Williams, S., McKerracher, L., Juster, R., &amp; Fields, J. (2020). Sexual and gender minority health vulnerabilities during the COVID-19 health crisis. <emphasis effect="italics">American Journal of Human Biology</emphasis>, <emphasis effect="italics">32</emphasis>(5). https://doi.org/10.1002/ajhb.23499</para>
+<para id="para-00057">Greaney, M. L., Wallington, S. F., Rampa, S., Vigliotti, V. S., &amp; Cummings, C. A. (2020). Assessing health professionals’ perception of health literacy in Rhode Island community health centers: A qualitative study. <emphasis effect="italics">BMC Public Health</emphasis>, <emphasis effect="italics">20</emphasis>(1), 1289. https://doi.org/10.1186/s12889-020-09382-1</para>
+<para id="para-00058">Greene, J., &amp; Ramos, C. (2021). A mixed methods examination of health care provider behaviors that build patients’ trust. <emphasis effect="italics">Patient Education and Counseling</emphasis>, <emphasis effect="italics">104</emphasis>(5), 1222–1228. https://doi.org/10.1016/j.pec.2020.09.003</para>
+<para id="para-00059">Healy, M., Richard, A., &amp; Kidia, K. (2022). How to reduce stigma and bias in clinical communication: A narrative review. <emphasis effect="italics">Journal of General Internal Medicine, 37</emphasis>(10), 2533–2540. https://doi.org/10.1007/s11606-022-07609-y</para>
+<para id="para-00060">Jalili Bahabadi, F., Estebsari, F., Rohani, C., Rahimi Khalifeh Kandi, Z., Sefidkar, R., &amp; Mostafaei, D. (2020). Predictors of health-promoting lifestyle in pregnant women based on Pender’s Health Promotion Model. <emphasis effect="italics">International Journal of Women’s Health</emphasis>, <emphasis effect="italics">Volume 12</emphasis>, 71–77. https://doi.org/10.2147/IJWH.S235169</para>
+<para id="para-00061">Janz, N. K., &amp; Becker, M. H. (1984). The Health Belief Model: A decade later. <emphasis effect="italics">Health Education Quarterly</emphasis>, <emphasis effect="italics">11</emphasis>(1), 1–47. https://doi.org/10.1177/109019818401100101</para>
+<para id="para-00062">Kaplan Serin, E., &amp; Citlik Saritas, S. (2021). The effect of the Transtheoretical Model based walking exercise training and follow-up on improving exercise behavior and metabolic control in patients with type 2 diabetes. <emphasis effect="italics">Clinical Nursing Research</emphasis>, <emphasis effect="italics">30</emphasis>(3), 273–284. https://doi.org/10.1177/1054773820920487</para>
+<para id="para-00063">Kephart, L. (2022). How racial residential segregation structures access and exposure to greenness and green space: A review. <emphasis effect="italics">Environmental Justice</emphasis>, <emphasis effect="italics">15</emphasis>(4), 204–213. https://doi.org/10.1089/env.2021.0039</para>
+<para id="para-00064">Knobel, P., Zhao, X., Müller, J. K., &amp; Grigoleit, L.-P. (2023). Sun-safe behavior and perceptions during winter sports: An Austrian study based on the Theory of Planned Behavior. <emphasis effect="italics">Psychology, Health &amp; Medicine</emphasis>, <emphasis effect="italics">28</emphasis>(2), 316–323. https://doi.org/10.1080/13548506.2022.2041205</para>
+<para id="para-00065">Kodish, S. R., Matean, M., Grey, K., Palaniappan, U., Northrup-Lyons, M., Yalvigi, A., Gwavuya, S., Mclean, J., &amp; Erasmus, W. (2022). Conceptualizing multi-level determinants of infant and young child nutrition in the Republic of Marshall Islands—a socio-ecological perspective. <emphasis effect="italics">PLOS Global Public Health</emphasis>, <emphasis effect="italics">2</emphasis>(12), e0001343. https://doi.org/10.1371/journal.pgph.0001343</para>
+<para id="para-00066">Kozhimannil, K. B., Interrante, J. D., Henning-Smith, C., &amp; Admon, L. K. (2019). Rural-urban differences in severe maternal morbidity and mortality in the US, 2007–15. <emphasis effect="italics">Health Affairs</emphasis>, <emphasis effect="italics">38</emphasis>(12), 2077–2085. https://doi.org/10.1377/hlthaff.2019.00805</para>
+<para id="para-00067">Lane, H. M., Morello-Frosch, R., Marshall, J. D., &amp; Apte, J. S. (2022). Historical redlining is associated with present-day air pollution disparities in U.S. cities. <emphasis effect="italics">Environmental Science &amp; Technology Letters</emphasis>, <emphasis effect="italics">9</emphasis>(4), 345–350. https://doi.org/10.1021/acs.estlett.1c01012</para>
+<para id="para-00068">Latkin, C., Dayton, L. A., Yi, G., Konstantopoulos, A., Park, J., Maulsby, C., &amp; Kong, X. (2021). COVID-19 vaccine intentions in the United States, a social-ecological framework. <emphasis effect="italics">Vaccine</emphasis>, <emphasis effect="italics">39</emphasis>(16), 2288–2294. https://doi.org/10.1016/j.vaccine.2021.02.058</para>
+<para id="para-00069">Manisalidis, I., Stavropoulou, E., Stavropoulos, A., &amp; Bezirtzoglou, E. (2020). Environmental and health impacts of air pollution: A review. <emphasis effect="italics">Frontiers in Public Health, 8</emphasis>, 14. https://doi.org/10.3389/fpubh.2020.00014</para>
+<para id="para-00070">McCormick, R. (2017). Does access to green space impact the mental well-being of children: A systematic review. <emphasis effect="italics">Journal of Pediatric Nursing</emphasis>, <emphasis effect="italics">37</emphasis>, 3–7. https://doi.org/10.1016/j.pedn.2017.08.027</para>
+<para id="para-00071">Meyer, M. (2017). Combatting femicide in Mexico: Achievements and ongoing challenges. In P. L. Ellman (Ed.), <emphasis effect="italics">The courage to fight violence against women: Psychoanalytic and multidisciplinary perspectives</emphasis> (1st ed., pp. 12–20). Routledge.</para>
+<para id="para-00072">Miller, Z. D. (2017). The enduring use of the Theory of Planned Behavior. <emphasis effect="italics">Human Dimensions of Wildlife</emphasis>, <emphasis effect="italics">22</emphasis>(6), 583–590. https://doi.org/10.1080/10871209.2017.1347967</para>
+<para id="para-00073">Mousavi, B., Mojdeh, S., &amp; Larti, N. (2021). Assessing safety hazards and occupational health in operating room nurses using Lean Six Sigma method. <emphasis effect="italics">Perioperative Care and Operating Room Management</emphasis>, <emphasis effect="italics">24</emphasis>, 100197. https://doi.org/10.1016/j.pcorm.2021.100197</para>
+<para id="para-00074">National Cancer Institute. (2020). <emphasis effect="italics">BRCA gene mutations: Cancer risk and genetic testing</emphasis>. https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet</para>
+<para id="para-00075">National Gaucher Foundation. (2023). <emphasis effect="italics">The 5 most common Ashkenazi genetic diseases</emphasis>. NGF blog. https://www.gaucherdisease.org/blog/5-common-ashkenazi-genetic-diseases/</para>
+<para id="para-00076">National Institute for Health Care Management. (2023). <emphasis effect="italics">Gun violence: The impact on public health.</emphasis> https://nihcm.org/publications/updated-gun-violence-the-impact-on-public-health</para>
+<para id="para-00077">Office of Disease Prevention and Health Promotion. (n.d.-a). <emphasis effect="italics">Healthy People 2030: Social determinants of health.</emphasis> https://health.gov/healthypeople/priority-areas/social-determinants-health</para>
+<para id="para-00078">Office of Disease Prevention and Health Promotion. (n.d.-b). <emphasis effect="italics">Reduce firearm-related deaths</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/violence-prevention/reduce-firearm-related-deaths-ivp-13</para>
+<para id="para-00079">Office of Disease Prevention and Health Promotion. (n.d.-c). <emphasis effect="italics">Reduce infections of HPV types prevented by the vaccine in young adults</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/infectious-disease/reduce-infections-hpv-types-prevented-vaccine-young-adults-iid-07</para>
+<para id="para-00080">Office of Disease Prevention and Health Promotion. (n.d.-d). <emphasis effect="italics">Reduce the proportion of students in grades 9 through 12 who report sunburn</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/cancer/reduce-proportion-students-grades-9-through-12-who-report-sunburn-c-10</para>
+<para id="para-00081">Office of Disease Prevention and Health Promotion. (n.d.-e). <emphasis effect="italics">Reduce the rate of infant deaths</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/infants/reduce-rate-infant-deaths-mich-02</para>
+<para id="para-00082">Oh, K. M., Alqahtani, N., Chang, S., &amp; Cox, C. (2021). Knowledge, beliefs, and practice regarding human papillomavirus (HPV) vaccination among American college students: Application of the health belief model. <emphasis effect="italics">Journal of American College Health</emphasis>, 1–10. https://doi.org/10.1080/07448481.2021.1967362</para>
+<para id="para-00083">Ohta, R., Ryu, Y., Kitayuguchi, J., Sano, C., &amp; Könings, K. D. (2021). Educational intervention to improve citizen’s healthcare participation perception in rural Japanese communities: A pilot study. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">18</emphasis>(4), 1782. https://doi.org/10.3390/ijerph18041782</para>
+<para id="para-00084">Olaniyan, A., Isiguzo, C., &amp; Hawk, M. (2021). The Socioecological Model as a framework for exploring factors influencing childhood immunization uptake in Lagos state, Nigeria. <emphasis effect="italics">BMC Public Health</emphasis>, <emphasis effect="italics">21</emphasis>(1), 867. https://doi.org/10.1186/s12889-021-10922-6</para>
+<para id="para-00085">O’Rourke, T. W. (2023). Reducing gun violence: using an upstream/downstream incremental and public opinion approach. <emphasis effect="italics">American Journal of Health Education, 54</emphasis>(1), 1–9. https://doi.org/10.1080/19325037.2022.2142707</para>
+<para id="para-00086">Pender, N. (2011). <emphasis effect="italics">The health promotion model manual</emphasis>. University of Michigan. https://deepblue.lib.umich.edu/bitstream/handle/2027.42/85350/HEALTH_PROMOTION_MANUAL_Rev_5-2011.pdf</para>
+<para id="para-00087">Prochaska, J. O., &amp; Velicer, W. F. (1997). The Transtheoretical Model of health behavior change. <emphasis effect="italics">American Journal of Health Promotion</emphasis>, <emphasis effect="italics">12</emphasis>(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38</para>
+<para id="para-00088">Rejeski, W. J., &amp; Fanning, J. (2019). Models and theories of health behavior and clinical interventions in aging: A contemporary, integrative approach. <emphasis effect="italics">Clinical Interventions in Aging</emphasis>, <emphasis effect="italics">14</emphasis>, 1007–1019. https://doi.org/10.2147/CIA.S206974</para>
+<para id="para-00089">Rosenstock, I. M. (1974). Historical origins of the Health Belief Model. <emphasis effect="italics">Health Education Monographs</emphasis>, <emphasis effect="italics">2</emphasis>(4), 328–335. https://doi.org/10.1177/109019817400200403</para>
+<para id="para-00090">Savari, M., &amp; Gharechaee, H. (2020). Application of the extended theory of planned behavior to predict Iranian farmers’ intention for safe use of chemical fertilizers. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">263</emphasis>, 121512. https://doi.org/10.1016/j.jclepro.2020.121512</para>
+<para id="para-00091">Schunk, D. H., &amp; DiBenedetto, M. K. (2020). Motivation and social cognitive theory. <emphasis effect="italics">Contemporary Educational Psychology</emphasis>, <emphasis effect="italics">60</emphasis>, 101832. https://doi.org/10.1016/j.cedpsych.2019.101832</para>
+<para id="para-00092">Short, S. E., &amp; Mollborn, S. (2015). Social determinants and health behaviors: Conceptual frames and empirical advances. <emphasis effect="italics">Current Opinion in Psychology</emphasis>, <emphasis effect="italics">5</emphasis>, 78–84. https://doi.org/10.1016/j.copsyc.2015.05.002</para>
+<para id="para-00093">Skinner, C. S., Tiro, J., &amp; Champion, V. L. (2015). The health belief model. In K. Glanz, B. K. Rimer, &amp; K. Viswanath (Eds.), <emphasis effect="italics">Health behavior and health education: Theory, research, and practice</emphasis> (5th ed.). Jossey-Bass.</para>
+<para id="para-00094">Soga, M., Evans, M. J., Tsuchiya, K., &amp; Fukano, Y. (2021). A room with a green view: The importance of nearby nature for mental health during the COVID-19 pandemic. <emphasis effect="italics">Ecological Applications</emphasis>, <emphasis effect="italics">31</emphasis>(2). https://doi.org/10.1002/eap.2248</para>
+<para id="para-00095">Srof, B. J., &amp; Velsor-Friedrich, B. (2006). Health promotion in adolescents: A review of Pender’s Health Promotion Model. <emphasis effect="italics">Nursing Science Quarterly</emphasis>, <emphasis effect="italics">19</emphasis>(4), 366–373. https://doi.org/10.1177/0894318406292831</para>
+<para id="para-00096">Ulker-Demirel, E., &amp; Ciftci, G. (2020). A systematic literature review of the theory of planned behavior in tourism, leisure, and hospitality management research. <emphasis effect="italics">Journal of Hospitality and Tourism Management</emphasis>, <emphasis effect="italics">43</emphasis>, 209–219. https://doi.org/10.1016/j.jhtm.2020.04.003</para>
+<para id="para-00097">van den Berg, N., Rodríguez-Girondo, M., van Dijk, I. K., Mourits, R. J., Mandemakers, K., Janssens, A. A. P. O., Beekman, M., Smith, K. R., &amp; Slagboom, P. E. (2019). Longevity defined as top 10% survivors and beyond is transmitted as a quantitative genetic trait. <emphasis effect="italics">Nature Communications</emphasis>, <emphasis effect="italics">10</emphasis>(1), 35. https://doi.org/10.1038/s41467-018-07925-0</para>
+<para id="para-00098">Wang, J., &amp; Geng, L. (2019). Effects of socioeconomic status on physical and psychological health: Lifestyle as a mediator. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">16</emphasis>(2), 281. https://doi.org/10.3390/ijerph16020281</para>
+<para id="para-00099">Willand, N., &amp; Nethercote, M. (2020). Smoking in apartment buildings: Spatiality, meanings, and understandings. <emphasis effect="italics">Health &amp; Place</emphasis>, <emphasis effect="italics">61</emphasis>, 102269. https://doi.org/10.1016/j.healthplace.2019.102269</para>
+<para id="para-00100">Willie, T. C., Bastida, C., Olavarrieta, C. D., Scolese, A., Campos, P. A., Falb, K. L., &amp; Gupta, J. (2020). Socioecological determinants of community resource utilisation among low-income women in Mexico City who experienced male-to-female intimate partner violence. <emphasis effect="italics">Global Public Health</emphasis>, <emphasis effect="italics">15</emphasis>(11), 1627–1638. https://doi.org/10.1080/17441692.2020.1775868</para>
+<para id="para-00101">World Health Organization. (2023). <emphasis effect="italics">Adolescent pregnancy</emphasis>. https://www.who.int/news-room/fact-sheets/detail/adolescent-pregnancy</para>
+<para id="para-00102">Wu, D., Gu, H., Gu, S., &amp; You, H. (2021). Individual motivation and social influence: A study of telemedicine adoption in China based on social cognitive theory. <emphasis effect="italics">Health Policy and Technology</emphasis>, <emphasis effect="italics">10</emphasis>(3), 100525. https://doi.org/10.1016/j.hlpt.2021.100525</para>
+<para id="para-00103">Yuchi, W., Sbihi, H., Davies, H., Tamburic, L., &amp; Brauer, M. (2020). Road proximity, air pollution, noise, green space, and neurologic disease incidence: A population-based cohort study. <emphasis effect="italics">Environmental Health</emphasis>, <emphasis effect="italics">19</emphasis>(1), 8. https://doi.org/10.1186/s12940-020-0565-4</para>
+<para id="para-00104">Zhou, Y., Mak, L., Zhao, C., He, F., Huang, X., Tian, X., Yi-zheng, &amp; Sun, J. (2022). Correlates of suicidal ideation in rural Chinese junior high school left-behind children: A socioecological resilience framework. <emphasis effect="italics">Frontiers in Psychiatry</emphasis>, <emphasis effect="italics">13</emphasis>, 901627. https://doi.org/10.3389/fpsyt.2022.901627</para>
+</section>
 </content>
+<glossary>
+<definition id="def-00001"><term>federally qualified community health center (FQHC)</term> <meaning>clinics providing primary care services to all clients regardless of their ability to pay</meaning></definition>
+</glossary>
 </document>
