@@ -61,8 +61,8 @@
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="3*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Level</emphasis></span></entry>
@@ -181,8 +181,8 @@ Social mobilization</entry>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">SEM Level</emphasis></span></entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Factors</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">SEM Level</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Factors</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
