@@ -32,7 +32,7 @@
 <table class="vertically-tight alternate-shading full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Food</span></emphasis></entry>
