@@ -6,8 +6,379 @@
     <md:uuid>c1010960-cdc8-416a-bd93-7242c985b32e</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-      </section>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the characteristics of drugs used to treat psoriasis.</item>
+    <item>Explain the indications, actions, adverse reactions, and interactions of drugs used to treat psoriasis.</item>
+    <item>Describe nursing implications of drugs used to treat psoriasis.</item>
+    <item>Explain the client education related to drugs used to treat psoriasis.</item>
+    </list>
+    <para id="para-00002"><term id="term-00001">Psoriasis</term> is a T-lymphocyte–mediated autoimmune disease that mainly affects the skin. In many cases, however, it also affects the eyes, joints, and nails. Plaque psoriasis is the subtype of psoriasis that affects the skin. In this condition, skin cells mature faster than normal, resulting in white-silvery <term id="term-00002">plaques</term> on body surfaces with red, erythematous lesions below (see [link]Figure 40.4[/link]). The head and scalp, eyes, elbows, knees, and back are primarily affected by these plaques. Plaque psoriasis may range from very mild with few lesions to severe, with large areas of disfiguring plaques. Treatment of psoriasis involves combination systemic and topical therapies used to decrease inflammation, exfoliate skin plaques, and decrease the mitotic rate and maturation of skin cells.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A photograph shows the back of a patient who has been diagnosed with psoriasis. The entire back is covered in clusters of raised, red, scaly patches."><image mime-type="image/png" src="../../media/PHA_Figure_40_03_004.jpg"/></media>
+    <caption><emphasis effect="bold">Psoriatic plaques can be widespread on the body.</emphasis> (credit: “The back of this patient displayed numerous erythematous patches dispersed over the entirety of his back that was diagnosed as a case of psoriasis”/CDC, Public Domain)</caption>
+    </figure>
+    </section>
+    
+    
+    <section id="sect-00002">
+    <title/>
+    <section id="sect-00003">
+    <title>Systemic Psoriatic Drugs</title>
+    <para id="para-00003">Systemic drugs used in the treatment of psoriasis include methoxsalen and acitretin. Methoxsalen is not effective as a monotherapy. It is used in combination with <term class="no-emphasis" id="term-00003">ultraviolet (UV) light therapy</term> to increase its effects. A safety concern with the use of this medication is that when clients are exposed to other sources of UV light, such as the sun, they may experience severe skin burns. Methoxsalen is reserved for treatment of severe psoriasis that has been nonresponsive to other therapies.</para>
+    <para id="para-00004">Acitretin, a retinoid, may be used alone or in combination with UV therapy or other medications to treat severe, refractory psoriasis. Like other <term class="no-emphasis" id="term-00004">retinoids</term>, acitretin requires very specific monitoring and prescribing limitations, especially with consideration of reproductive health. Prescriptions cannot be given until pregnancy tests and other screenings have been completed and results verified (DailyMed, <emphasis effect="italics">Acitretin,</emphasis> 2023).</para>
+    <para id="para-00005">[link]Table 40.5[/link] lists common <term class="no-emphasis" id="term-00005">systemic psoriatic drugs</term> and typical routes and dosing for adult clients.</para>
+    <table class="vertically-tight" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Acitretin</term><newline/>
+    (<term class="no-emphasis" id="term-00007">Soritane</term>)</entry>
+    <entry valign="top" align="left">25–50 mg orally once daily with main meal.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Methoxsalen</term><newline/>
+    (<term class="no-emphasis" id="term-00009">Oxsoralen</term>)</entry>
+    <entry valign="top" align="left">Take 1 1/2 to 2 hours before UVA exposure with some low-fat food or milk according to the following weight guidelines:<newline/>
+    <emphasis effect="italics">&lt;30 kg:</emphasis> 10 mg.<newline/>
+    <emphasis effect="italics">30–50 kg:</emphasis> 20 mg.<newline/>
+    <emphasis effect="italics">51–65 kg:</emphasis> 30 mg.<newline/>
+    <emphasis effect="italics">66–80 kg:</emphasis> 40 mg.<newline/>
+    <emphasis effect="italics">81–90 kg:</emphasis> 50 mg.<newline/>
+    <emphasis effect="italics">91–115 kg:</emphasis> 60 mg.<newline/>
+    <emphasis effect="italics">>115 kg:</emphasis> 70 mg.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Systemic Psoriatic Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <section id="sect-00004">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00006">Systemic psoriatic drugs that are classified as retinoids may cause systemic effects such as hypersensitivities, hypervitaminosis A syndrome, myocardial infarction, stroke, thromboembolism, neuropathy, yeast infections, capillary leak syndrome, exfoliative dermatitis, and skin fragility. These drugs are contraindicated in clients with pre-existing cardiac, renal, and hepatic conditions. As mentioned, methoxsalen may cause severe burning of the skin when clients are exposed to UV light. Use in clients receiving UV treatments and who are exposed to the sun may be contraindicated or require dose reductions. Retinoids, such as acitretin, are contraindicated for those who could become pregnant, are pregnant, or are breastfeeding.</para>
+    <para id="para-00007">[link]Table 40.6[/link] is a drug prototype table for systemic psoriatic drugs featuring acitretin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Retinoid<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+    Assists in regulating mitotic rate of skin cells</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    25–50 mg orally once daily with main meal.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+    Psoriasis<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Decreases psoriatic plaque formation</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+    Tetracycline drugs<newline/>
+    Methotrexate<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Hypersensitivity<newline/>
+    Hypervitaminosis A syndrome<newline/>
+    Myocardial infarction<newline/>
+    Stroke<newline/>
+    Thromboembolism<newline/>
+    Neuropathy<newline/>
+    Yeast infections<newline/>
+    Capillary leak syndrome<newline/>
+    Exfoliative dermatitis<newline/>
+    Skin fragility</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Hypersensitivity<newline/>
+    Liver or kidney disease<newline/>
+    Hyperlipidemia<newline/>
+    Pregnancy</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Acitretin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00005">
+    <title>Nursing Implications</title>
+    <para id="para-00008">The nurse should do the following for clients who are taking systemic psoriatic drugs:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Ensure that clients have met required screening to receive prescriptions for systemic psoriatic medications.</item>
+    <item>Assess and thoroughly document baseline skin condition.</item>
+    <item>Assess and monitor the client for adverse effects, drug and food interactions, and contraindications.</item>
+    <item>Evaluate and document the client’s response to current treatment and overall improvement of skin condition.</item>
+    <item>Assess the psychosocial impact of psoriasis on individual clients.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See the end of this section for client teaching guidelines.</item>
+    </list>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Topical Psoriatic Drugs</title>
+    <para id="para-00009">Topical therapies for treating psoriasis decrease the mitotic rate and differentiation of skin cells in the epidermis. Calcipotriene, a vitamin D analog, blocks vitamin D receptors in the skin to decrease skin cell production. Clobetasol, a topical steroid, reduces inflammation associated with psoriasis. This medication is only used in clients over 12 years of age. Application of clobetasol is limited to those areas that are not on the face, genitals, and axillae. It is important to remember that clients may experience systemic steroidal effects. For this reason, clobetasol should be limited to use for 2 weeks or less.</para>
+    <para id="para-00010">Coal tar is another topical medication that treats the itching, redness, and scaliness associated with psoriasis. Coal tar, along with anthralin, should not be applied to the skin surrounding the psoriatic lesions. Petrolatum or zinc oxide ointments may be used to coat the normal surrounding tissues before medication administration, to protect the normal tissue. Tazarotene, as with treatment for acne, is thought to assist with reducing discolorations in the skin and may also play a role in reduction of scarring from psoriatic lesions.</para>
+    <para id="para-00011">[link]Table 40.7[/link] lists common <term class="no-emphasis" id="term-00010">topical psoriatic drugs</term> and typical routes and dosing for adult and <term class="no-emphasis" id="term-00011">pediatric clients</term>.</para>
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Clobetasol</term><newline/>
+    (<term class="no-emphasis" id="term-00013">Dermovate</term>, <term class="no-emphasis" id="term-00014">ClobaDerm</term>, <term class="no-emphasis" id="term-00015">Etrivex</term>)<emphasis effect="italics">Adults and children >12 years:</emphasis> Apply aerosol foam (0.05%) topically in a thin layer twice daily for 2 weeks.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Calcipotriene</term></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Apply ointment (0.005%) topically, rubbing gently on lesions 1–2 times daily.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Coal tar lotion</term><newline/>
+    (<term class="no-emphasis" id="term-00018">Cutar</term>)<newline/>
+    <term class="no-emphasis" id="term-00019">Coal tar shampoo</term><newline/>
+    (<term class="no-emphasis" id="term-00020">Psoriderm</term>, <term class="no-emphasis" id="term-00021">Exorex</term>, <term class="no-emphasis" id="term-00022">Polyderm</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis><newline/>
+    <emphasis effect="italics">Lotion (7.5%):</emphasis> Apply to affected areas 1–4 times daily.<newline/>
+    <emphasis effect="italics">Shampoo (5%):</emphasis> Shake well, apply to wet hair, gently massage into hair and scalp to work up a lather. Rinse thoroughly and repeat. Use at least twice a week or as directed.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Tazarotene</term><newline/>
+    (<term class="no-emphasis" id="term-00024">Tazorac</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Apply a thin layer topically, once daily in the evening.<newline/>
+    <emphasis effect="italics">Children:</emphasis> Safety and efficacy have not been established in clients under the age of 17.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Topical Psoriatic Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <section id="sect-00007">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00012">Topical treatments for psoriasis are contraindicated for areas of open skin, mucous membranes, genitals, and the face. Adverse effects may be related to improper use of these medications. Applying too much or too often may cause excessive drying and irritation of the skin. Redness, flaking, or broken areas may also develop with improper use (DailyMed, <emphasis effect="italics">Tazarotene</emphasis>, 2022).</para>
+    <para id="para-00013">[link]Table 40.8[/link] is a drug prototype table for systemic psoriatic drugs featuring coal tar. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00004">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    Psoriatic<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+    Assists in treating redness, scaling, and itching of psoriatic lesions</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
+    <emphasis effect="italics">Adults:</emphasis><newline/>
+    <emphasis effect="italics">Lotion (7.5%):</emphasis> Apply to affected areas 1–4 times daily.<newline/>
+    <emphasis effect="italics">Shampoo (5%):</emphasis> Shake well, apply to wet hair, gently massage into hair and scalp to work up a lather. Rinse thoroughly and repeat. Use at least twice a week or as directed.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+    Psoriasis<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Decreases itching, redness, and scaling of psoriatic plaques</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+    No significant interactions<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Rash<newline/>
+    Skin irritation</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Hypersensitivity<newline/>
+    UV light/sun exposure</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Coal Tar</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00008">
+    <title>Nursing Implications</title>
+    <para id="para-00014">The nurse should do the following for clients taking topical psoriatic drugs:</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Assess and thoroughly document baseline skin condition.</item>
+    <item>Observe for hypersensitivity reactions or worsening of symptoms.</item>
+    <item>Assess for prolonged use or excessive application by clients.</item>
+    <item>Evaluate and document the client’s response to current treatment and overall improvement of skin condition.</item>
+    <item>Assess the psychosocial impact of psoriasis on individual clients.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See the end of this section for client teaching guidelines.</item>
+    </list>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Biologic Psoriatic Drugs</title>
+    <para id="para-00015">Biologic response modifiers and monoclonal antibodies are used in the treatment of psoriasis and other autoimmune diseases to reduce inflammation. Etanercept and infliximab decrease inflammation in psoriasis by inhibiting the action of tumor necrosis factor (TNF), substances within the body that stimulate immune responses and produce inflammatory effects. Adalimumab and ustekinumab are monoclonal antibodies that help to decrease inflammation as well but do so by affecting T-cell response through the inhibition of interleukin-12 and interleukin-23.</para>
+    <para id="para-00016">[link]Table 40.9[/link] lists common <term class="no-emphasis" id="term-00025">biologic psoriatic drugs</term> and typical routes and dosing for adult and <term class="no-emphasis" id="term-00026">pediatric clients</term>.</para>
+    <table class="vertically-tight" id="table-00005">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00027">Etanercept</term><newline/>
+    (<term class="no-emphasis" id="term-00028">Enbrel</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >63 kg:</emphasis> 50 mg subcutaneous injection twice weekly for 3 months, then weekly for maintenance.<newline/>
+    <emphasis effect="italics">Children &lt;63 kg:</emphasis> 0.8 mg/kg subcutaneous injection weekly.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Infliximab</term><newline/>
+    (<term class="no-emphasis" id="term-00030">Remicade</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 5 mg/kg intravenous (IV) infusion on weeks 0, 2, and 6 weeks, then every 8 weeks thereafter.<newline/>
+    <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00031">Adalimumab</term><newline/>
+    (<term class="no-emphasis" id="term-00032">Humira</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 80 mg subcutaneously, then 40 mg every other week.<newline/>
+    <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Ustekinumab</term><newline/>
+    (<term class="no-emphasis" id="term-00034">Stellara</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children &lt;100 kg:</emphasis> 45 mg subcutaneously initially, then 4 weeks later, then 45 mg every 12 weeks.<newline/>
+    <emphasis effect="italics">Adults and children >100 kg:</emphasis> 90 mg subcutaneously initially, then 4 weeks later, then 90 mg every 12 weeks.<newline/>
+    <emphasis effect="italics">Children &lt;60 kg:</emphasis> 0.75 mg/kg subcutaneously. Follow the adult administration timeframe but use weight-based guidelines to administer the same dose at each scheduled interval.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Biologic Psoriatic Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    <section id="sect-00010">
+    <title>Adverse Effects and Contraindications</title>
+    <para id="para-00017">The use of biologic drugs in psoriasis is associated with hypersensitivity reactions to the proteins that comprise these drugs. Because these drugs suppress the immune system to reduce inflammation, they can increase a client’s risk for serious, often life-threatening infections. Additionally, the immunosuppressive effects can cause secondary malignancies to develop, especially lymphomas. These medications are contraindicated for those clients who have infections, immunosuppressive conditions, or who may be taking other immunosuppressive treatments.</para>
+    <para id="para-00018">[link]Table 40.10[/link] is a drug prototype table for biologic psoriatic drugs featuring adalimumab. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <table class="vertically-tight" id="table-00006">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
+    TNF blocker, monoclonal antibody<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
+    Binds to TNF to block action of tumor necrosis factor-mediated inflammation<newline/>
+    Decreases scaling of skin</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosing</emphasis></span><newline/>
+    <emphasis effect="italics">Adults:</emphasis> Initial dose: 80 mg subcutaneously, then 40 mg every other week.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
+    Plaque psoriasis<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
+    Systemically reduces inflammation associated with plaque psoriasis and other autoimmune diseases
+    </entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
+    Cytochrome P450 substrates<newline/>
+    Anticoagulants<newline/>
+    Cyclosporine<newline/>
+    Theophylline<newline count="2"/>
+    <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
+    No significant interactions</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
+    Bacterial infections<newline/>
+    Yeast infections<newline/>
+    Neutropenia<newline/>
+    Anaphylaxis<newline/>
+    Secondary malignancies<newline/>
+    Heart failure</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
+    Hypersensitivity<newline count="2"/>
+    Caution:<newline/>
+    Clients at higher risk of infection</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption><emphasis effect="bold">Drug Prototype Table: Adalimumab</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    </table>
+    </section>
+    <section id="sect-00011">
+    <title>Nursing Implications</title>
+    <para id="para-00019">The nurse should do the following for clients taking biologic psoriatic drugs:</para>
+    <list list-type="bulleted" id="list-00004">
+    <item>Conduct vigilant assessments for baseline, response to treatment, adverse effects, infection, and secondary malignancies.</item>
+    <item>Evaluate blood urea nitrogen (BUN), creatinine, and glomerular filtration rate for renal function; review liver function tests for hepatotoxicity.</item>
+    <item>Ensure client received tuberculosis screening before initiation of therapy.</item>
+    <item>Observe for hypersensitivity reactions during and after administration.</item>
+    <item>Emphasize the importance of compliance with instructions and follow up with clients when necessary.</item>
+    <item>Assess and monitor the client for adverse effects, drug and food interactions, and contraindications.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+    </list>
+    <note class="client-teaching" id="note-00001">
+    <para id="para-00020"><emphasis effect="bold">The client taking a systemic psoriatic medication should:</emphasis></para>
+    <list list-type="bulleted" id="list-00005">
+    <item>Take prescribed medications exactly as directed.</item>
+    <item>Report side effects such as skin redness, excessive dryness, or peeling to the primary provider.</item>
+    <item>Report temperature above 100.4°F, chills, productive cough, and symptoms of urinary tract or other infections immediately.</item>
+    <item>Avoid crowds or others who are sick or who have received live vaccines in the last 3 months.</item>
+    <item>Use birth control methods as instructed and avoid pregnancy.</item>
+    <item>Refrain from breastfeeding.</item>
+    <item>Avoid UV light exposure (methoxsalen).</item>
+    <item>Follow up with appointments as instructed.</item>
+    </list>
+    <para id="para-00021"><emphasis effect="bold">The client taking a topical psoriatic medication should:</emphasis></para>
+    <list list-type="bulleted" id="list-00006">
+    <item>Take prescribed medications exactly as directed.</item>
+    <item>Report side effects such as skin redness, excessive dryness, or peeling to the primary provider.</item>
+    <item>Cleanse skin thoroughly before applying medication.</item>
+    <item>Apply only a thin layer of medications to the affected areas only.</item>
+    <item>Avoid contact with eyes and mucous membranes.</item>
+    <item>Wash hands well before and after application.</item>
+    </list>
+    <para id="para-00022"><emphasis effect="bold">The client taking a topical psoriatic medication <emphasis effect="italics">should not</emphasis>:</emphasis></para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Cover the medication with occlusive dressings.</item>
+    <item>Get the medication on clothing or other fabrics because it causes staining.</item>
+    </list>
+    <para id="para-00023"><emphasis effect="bold">The client taking a biologic psoriatic medication should:</emphasis></para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Take medications exactly as instructed.</item>
+    <item>Follow up with appointments.</item>
+    <item>Report temperatures above 100.4°F to their health care provider.</item>
+    <item>Contact the primary provider for productive cough, symptoms of urinary tract infection, yeast infection, or other unusual symptoms.</item>
+    <item>Continue lifelong follow-ups for monitoring for secondary malignancies.</item>
+    <item>Avoid crowds and other exposures to people with infections.</item>
+    <item>Avoid contact with those who have had live virus vaccinations within 3 months.</item>
+    </list>
+    </note>
+    <note class="black-box" id="note-00002">
+    <para id="para-00024"><emphasis effect="bold">Psoriatic Medications</emphasis></para>
+    <para id="para-00025"><emphasis effect="bold">Acitretin</emphasis> can cause embryo-fetal loss and malformations when administered to a pregnant woman.</para>
+    <para id="para-00026"><emphasis effect="bold">Methoxsalen</emphasis> can cause severe photosensitivity, ocular damage, skin aging, and skin cancers.</para>
+    <para id="para-00027"><emphasis effect="bold">Infliximab, adalimumab</emphasis>, and <emphasis effect="bold">ustekinumab</emphasis> can increase the risk of serious infections and the development of secondary malignancies.</para>
+    </note>
+    </section>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>plaque</term> <meaning>a raised, well-demarcated skin lesion arising from damage or deposits on the skin</meaning></definition>
+    <definition id="def-00002"><term>psoriasis</term> <meaning>a systemic condition of the skin resulting from increased skin cell mitosis</meaning></definition>
+    </glossary>
 </document>
