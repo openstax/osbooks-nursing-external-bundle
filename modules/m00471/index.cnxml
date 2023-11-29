@@ -39,12 +39,12 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Acitretin</term><newline/>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Acitretin</term><newline/>
     (<term class="no-emphasis" id="term-00007">Soritane</term>)</entry>
     <entry valign="top" align="left">25–50 mg orally once daily with main meal.</entry>
     </row>
     <row>
-    <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Methoxsalen</term><newline/>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Methoxsalen</term><newline/>
     (<term class="no-emphasis" id="term-00009">Oxsoralen</term>)</entry>
     <entry valign="top" align="left">Take 1 1/2 to 2 hours before UVA exposure with some low-fat food or milk according to the following weight guidelines:<newline/>
     <emphasis effect="italics">&lt;30 kg:</emphasis> 10 mg.<newline/>
@@ -63,7 +63,7 @@
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00006">Systemic psoriatic drugs that are classified as retinoids may cause systemic effects such as hypersensitivities, hypervitaminosis A syndrome, myocardial infarction, stroke, thromboembolism, neuropathy, yeast infections, capillary leak syndrome, exfoliative dermatitis, and skin fragility. These drugs are contraindicated in clients with pre-existing cardiac, renal, and hepatic conditions. As mentioned, methoxsalen may cause severe burning of the skin when clients are exposed to UV light. Use in clients receiving UV treatments and who are exposed to the sun may be contraindicated or require dose reductions. Retinoids, such as acitretin, are contraindicated for those who could become pregnant, are pregnant, or are breastfeeding.</para>
     <para id="para-00007"><link target-id="table-00002" document="m00471"/> is a drug prototype table for systemic psoriatic drugs featuring acitretin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00002">
+    <table class="vertically-tight full-width" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -141,7 +141,8 @@
     <tbody>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Clobetasol</term><newline/>
-    (<term class="no-emphasis" id="term-00013">Dermovate</term>, <term class="no-emphasis" id="term-00014">ClobaDerm</term>, <term class="no-emphasis" id="term-00015">Etrivex</term>)<emphasis effect="italics">Adults and children >12 years:</emphasis> Apply aerosol foam (0.05%) topically in a thin layer twice daily for 2 weeks.</entry>
+    (<term class="no-emphasis" id="term-00013">Dermovate</term>, <term class="no-emphasis" id="term-00014">ClobaDerm</term>, <term class="no-emphasis" id="term-00015">Etrivex</term>)</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >12 years:</emphasis> Apply aerosol foam (0.05%) topically in a thin layer twice daily for 2 weeks.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Calcipotriene</term></entry>
