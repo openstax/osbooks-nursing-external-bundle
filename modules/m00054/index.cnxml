@@ -57,7 +57,7 @@
 <row>
 <entry valign="top" align="left">Temperature:</entry>
 <entry valign="top" align="left">37.4ºC</entry>
-<entry valign="top" align="left" morerows="3"><list list-type="bulleted" id="list-00002"><item>Urine shows protein</item>
+<entry valign="top" align="left" morerows="4"><list list-type="bulleted" id="list-00002"><item>Urine shows protein</item>
 <item>Liver enzymes are slightly elevated</item>
 </list>
 </entry>
@@ -124,7 +124,7 @@
 <table class="vertically-tight alternate-shading full-width" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nutritional Needs</span></emphasis></entry>
@@ -373,7 +373,7 @@
 <table class="vertically-tight alternate-shading full-width" id="table-00007">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nutrient</span></emphasis></entry>
