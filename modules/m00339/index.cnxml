@@ -6,8 +6,260 @@
     <md:uuid>b01d9931-1881-4916-b42b-0ea70d4cc2d5</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Describe the history of occupational health nursing.</item>
+    <item>Examine competencies in occupational health nursing.</item>
+    <item>Describe the scope of practice in occupational health nursing.</item>
+    <item>Define the role of the Occupational Safety and Health Administration and the National Institute for Occupational Safety and Health.</item>
+    <item>Differentiate between various occupational health risks to promote safety.</item>
+    <item>Describe occupational health practice settings and nursing roles.</item>
+    <item>Explain how to conduct an incident investigation to ensure continuous improvement in safety.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002"><term id="term-00001">Occupational and environmental health nursing</term> is a specialty practice focused on providing preventive health care, health promotion, and health restoration within the work environment. The origin of this specialty is in public health, as its focus is protecting workers, promoting health, and preventing disease (Topcu &amp; Ardahan, 2019). The term refers to caring for and protecting the workforce, integrating occupational safety and health protection efforts with health promotion activities to prevent illness and injury (American Board for Occupational Health Nurses [ABOHN], n.d.). Occupational health nursing is research-based with a conceptual framework reflecting an interprofessional background of nursing science, medical science, public health science, occupational health science, social and behavioral sciences, and principles of business management and administration (American Association of Occupational Health Nursing [AAOHN], 2012). <term class="no-emphasis" id="term-00002">Occupational health nurses (OHNs)</term> help clients make informed decisions regarding health care concerns, advocate for clients by fostering equitable and quality health care, and ensure the environments in which clients work and live are healthy (AAOHN, 2012).</para>
+    <para id="para-00003">In 2022, approximately 160 million individuals were in the United States’ workforce (United States Bureau of Labor Statistics [USBLS], 2023c). These numbers support the need for OHNs to ensure a safe and healthy work environment.</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>In 2021, there were 2.6 million nonfatal workplace injuries and illnesses reported by private industry employers (USBLS, 2022b).</item>
+    <item>In 2021, there were 5,190 fatal work injuries in the private industry, an 8.9 percent increase from 2020 (USBLS, 2022a).</item>
+    <item>Transportation incidents were the largest cause of fatalities, accounting for almost 40 percent of all work-related fatalities in 2021 (USBLS, 2022a).</item>
+    <item>Black workers bore a disproportionate burden of work-related deaths in 2021, accounting for 12.6 percent of total fatalities, a 20.7 percent increase from 2020 (USBLS, 2022a).</item>
+    <item>Almost 25 percent of Black worker fatalities result from violence and other injuries by people or animals, a much higher rate than for non-Black individuals (USBLS, 2022a).</item>
+    </list>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>History of Occupational Health Nursing</title>
+    <para id="para-00004">Occupational health nursing, first called <term id="term-00003">industrial health nursing</term>, originated in the United States in the late 1800s when two nurses were hired to provide care specifically for workers. In 1888, a Pennsylvania coal mining company hired Betty Moulder to care for their employees and their families. Since little is known about her, Moulder is not often credited with being the first industrial nurse (Topcu &amp; Ardahan, 2019). That distinction often goes to Ada Mayo Stewart, hired in 1895 by the Vermont Marble Company to care for its employees and their families (Topcu &amp; Ardahan, 2019; Thompson &amp; Wachs, 2012). Stewart’s primary duties included health promotion, disease prevention, home visits, and maternity care.</para>
+    <para id="para-00005">The industrial health nursing profession continued to evolve with the second industrial revolution. Around the beginning of the twentieth century, factories employed OHNs to assist in stopping communicable disease spread—such as tuberculosis—and to prevent injuries to reduce costs (Thompson &amp; Wachs, 2012). In addition to industrial settings, retail stores, hotels, and insurance companies also employed nurses who practiced from a preventive and public health perspective, frequently providing health and childcare education to the community and employee families. They were expected to care for workers injured on the job, assist physicians in company-provided clinical sites, and visit ill or injured workers in their homes (Thompson &amp; Wachs, 2012). Industrial health nursing thrived during this period; the first book on the topic was published in 1919, and the American Industrial Nurses Association (AINA) was formed in 1942 to develop training for industrial nursing (Topcu &amp; Ardahan, 2019).</para>
+    <para id="para-00006">More changes to this nursing specialty occurred in the latter half of the twentieth century. The <term class="no-emphasis" id="term-00004">Coal Mine Safety and Health Act of 1969</term> and the <term class="no-emphasis" id="term-00005">Occupational Safety and Health Act of 1970</term> contributed to the growth of industrial health nursing, driven by concerns for workers’ health and welfare, costs associated with injuries, and public health considerations. The Coal Mine Safety Act was passed in response to a 1968 underground coal mine explosion that killed 78 miners in West Virginia, becoming a turning point for reform after decades of mine fatalities and increasing awareness of lung disease related to working in the coal mines (United States Department of Labor [USDL], n.d.c). This act was the most stringent health and safety law of its time. It required regular federal inspections of all coal mines and added health protections against lung disease (USDL, n.d.-c).</para>
+    <para id="para-00007">On the heels of this act, the Occupational Safety and Health Act of 1970 created two federal agencies, the <term class="no-emphasis" id="term-00006">National Institute for Occupational Safety and Health (NIOSH)</term> and the <term class="no-emphasis" id="term-00007">Occupational Safety and Health Administration</term> (OSHA) (Centers for Disease Control and Prevention [CDC], 2020; USDL, n.d.-b). In 1971, AINA established a certification organization for industrial health nursing that later became known as the ABOHN, founded officially in 1972, and is now the sole certification body for occupational health nursing. In 1977, AINA renamed itself the <term class="no-emphasis" id="term-00008">AAOHN</term> to reflect the growing diversity of workplaces and the roles of the occupational health nurse (Topcu &amp; Ardahan, 2019). The AAOHN is the professional association for OHNs.</para>
+    <para id="para-00008">In 1988, OSHA hired its first nurse to provide consultation and support; in 1993, OSHA established a nursing office (Topcu &amp; Ardahan, 2019). As discussed in the next section of this chapter, OSHA has made significant progress in decreasing work-related injury and death by setting and enforcing standards for safe and healthy working conditions and providing training, outreach, and education (USDL, n.d.-b). In 1998, the AAOHN adopted environmental health as an essential component of occupational health nursing application; occupational health nursing became known as occupational and environmental health nursing. Environmental health focuses on the connections between people and their surrounding environments (American Public Health Association, n.d.). The AAOHN published the first standards of occupational and environmental health nursing in 1999, and they have been updated periodically, with the last update in 2019 (AAOHN, 2019; Topcu &amp; Ardahan, 2019).</para>
+    </section>
+    <section id="sect-00004">
+    <title>Competencies in Occupational and Environmental Health Nursing</title>
+    <para id="para-00009">The AAOHN provides four overarching categories and 22 competencies that define the foundation for scope and standard of practice, knowledge, and skills and a legal and ethical framework for this specialty (AAOHN, 2015). The four categories include the following:</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Manage Total Worker Health® (TWH)</item>
+    <item>Adhere to professional nursing practice principles</item>
+    <item>Demonstrate an understanding of the business climate and its impact on a community’s health</item>
+    <item>Practice culturally appropriate and evidence-based nursing care within the scope of practice</item>
+    </list>
+    <para id="para-00010"><term id="term-00009">Total Worker Health®</term> (<term id="term-00010">TWH</term>) refers to policies, programs, and practices focusing on work-related safety and protection, promoting illness and injury prevention endeavors to advance worker well-being (CDC, 2020b). The TWH approach builds on the traditional idea of a hazard-free work environment by considering that where an individual works is a <term class="no-emphasis" id="term-00011">social determinant of health</term> (SDOH). Occupational-related factors of wages, hours, workload, health benefits, and access to paid leave impact the overall well-being of workers, their families, and their communities. The long-term vision is to protect safety and health and to advance workers’ well-being by creating safer and healthier work (CDC, 2020b).</para>
+    <para id="para-00011"><term class="no-emphasis" id="term-00012">Workplace risk factors</term>—such as sitting at a desk, performing shift work, or driving for long periods of time—can contribute to long-term health problems. There are work-related risk factors for obesity, sleep disorders, cardiovascular disease, and depression, among others (CDC, 2020b). The TWH approach aims to advance health and well-being by targeting work conditions.</para>
+    <para id="para-00012">OHNs work in various settings and roles where they may need additional competencies depending on the chosen industry. Focusing on identifying health hazards and implementing control measures to manage the risk of exposure are key roles and required competencies of the OHN. Identifying workers’ exposure to health hazards can be challenging as certain chemicals, vapors, and gases may be invisible without any obvious signs (OSHA, 2016). [link]Table 29.1[/link] lists common chemical, physical, biological, and ergonomic hazards in the occupational setting.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemical Hazards</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Physical Hazards</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Biological Hazards</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Ergonomic Hazards</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Solvents</entry>
+    <entry valign="top" align="left">Noise</entry>
+    <entry valign="top" align="left">Infectious agents</entry>
+    <entry valign="top" align="left">Heavy lifting</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Adhesives</entry>
+    <entry valign="top" align="left">Radiation</entry>
+    <entry valign="top" align="left">Contaminated bodily fluids</entry>
+    <entry valign="top" align="left">Repetitive motions</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Toxic dusts</entry>
+    <entry valign="top" align="left">Heat</entry>
+    <entry valign="top" align="left">Certain insects, spiders, scorpions</entry>
+    <entry valign="top" align="left">Vibration</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Paints</entry>
+    <entry valign="top" align="left">Electric &amp; magnetic fields</entry>
+    <entry valign="top" align="left">Venomous snakes</entry>
+    <entry valign="top" align="left"/>
+    </row>
+    <row>
+    <entry valign="top" align="left">Substances in cleaning solutions</entry>
+    <entry valign="top" align="left">Cold</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left"/>
+    </row>
+    <row>
+    <entry valign="top" align="left">Diesel exhaust</entry>
+    <entry valign="top" align="left">Unsafe machinery and equipment</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left"/>
+    </row>
+    <row>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Transportation accidents</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left"/>
+    </row>
+    <row>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Fires or blasting</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left"/>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Common Workplace Hazards by Practice Setting.</caption>
+    </table>
+    <note class="media-feature" id="note-00001">
+    <title>Workplace Ergonomics</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/workplace"/>
+    </media>
+    <para id="para-00013"><term id="term-00013">Ergonomics</term> refers to a set of practices in workplaces—such as adjustable desk heights and keyboards that more naturally fit the wrist’s contours—that increase worker efficiency and productivity while reducing injuries and discomfort, (Mayo Clinic, 2023).</para>
+    <para id="para-00014">Watch the video and then respond to the following questions:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
+    <item>Why is ergonomics in the workplace such an important concept?</item>
+    <item>What is the relationship between ergonomics and health?</item>
+    <item>How can the occupational health nurse incorporate ergonomics principles into various workplace settings?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00005">
+    <title>Scope of Practice in Occupational and Environmental Health Nursing</title>
+    <para id="para-00015">AAOHN (2012) delineates the Scope of Practice for the OHN and highlights the collaboration that must occur among workers, employers, and members of the occupational health team and safety team. Scope of practice includes the following:</para>
+    <list list-type="bulleted" id="list-00005">
+    <item>Identify health and safety needs.</item>
+    <item>Prioritize interventions.</item>
+    <item>Develop and implement interventions and programs.</item>
+    <item>Evaluate care and service delivery.</item>
+    <item>Provide comprehensive clinical and primary care, including assessment, diagnosis, management, and documentation of occupational and non-occupational illness and injury.</item>
+    <item>Provide comprehensive case management for occupational and non-occupational illnesses and injuries.</item>
+    <item>Provide <term class="no-emphasis" id="term-00014">holistic health hazard assessment</term> and surveillance of worker populations, workplaces, and community groups.</item>
+    <item>Investigate, monitor, and analyze illness and injury episodes, trends, and methods to promote and protect worker health and safety.</item>
+    <item>Comply with laws, regulations, and standards governing health and safety for workers and the environment.</item>
+    <item>Coordinate and provide management and administration of occupational and environmental health services.</item>
+    <item>Deliver health promotion and disease prevention strategies using primary, secondary, and tertiary principles.</item>
+    <item>Provide counseling, health education, and training programs using adult learning approaches.</item>
+    <item>Utilize and participate in research related to occupational and environmental health.</item>
+    </list>
+    <para id="para-00016">The scope of practice for OHNs is broad and will vary depending on the work site. Overarching concepts of community health, law, economy, politics, policy, and regulatory issues are evident within the scope of practice as OHNs are responsible for responding to legislative mandates governing worker health and safety.</para>
+    <para id="para-00017">AAOHN (2012) establishes standards for OHNs based on the scope of practice. The profession has developed these standards to establish and define reasonable standards of care. Eleven professional practice standards describe a competent level of performance by the OHN (AAOHN, 2012). These criteria allow the OHN to evaluate their practice relative to the standards.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Occupational Safety and Health Administration</title>
+    <para id="para-00018">In 1970, the Occupational Health and Safety Act created OSHA to develop and enforce standards of safety that employers must follow. A <term id="term-00015">standard</term>, also known as a regulation, is a requirement established by the agency to evaluate whether employers follow OSHA laws (USDL, n.d.-a). OSHA organizes the standards based on workplace sectors. There are standards for general industry, construction, agriculture, and maritime (USDL, n.d.-a). This is a hyperlink to the <link url="https://openstax.org/r/oshagov">OSHA rulemaking process</link> for creating standards. In addition to setting workplace standards for safety, OSHA provides training, education, and assistance with implementing these standards (USDL, n.d.a). OSHA has educational topics in the following sectors: agriculture, construction, federal agencies, health care, maritime, oil and gas, and warehousing (USDL, n.d.-a).</para>
+    <para id="para-00019">As noted previously, the formation of OSHA stimulated the growth of occupational health nursing employment to assist employers with creating these safe and healthy work environments. Since the 1970s, the specialty has grown significantly as OHNs can monitor workers’ health status, ensure employers meet OSHA standards, implement evidence-based interventions to prevent or mitigate adverse health effects from the work environment, and develop workplace prevention programs. OSHA has described occupational and environmental health nurses as using their specialized experience and education to recognize and prevent adverse health effects from hazardous exposures in the workplace (ABOHN, n.d.).</para>
+    </section>
+    <section id="sect-00007">
+    <title>National Institute for Occupational Safety and Health</title>
+    <para id="para-00020">The <term class="no-emphasis" id="term-00016">NIOSH</term> is the research agency tasked with studying worker safety and health (CDC, 2023k). NIOSH was established in collaboration with OSHA from the Occupational Safety and Health Act of 1970. Although OSHA creates and enforces safety standards in the workplace, NIOSH focuses on conducting research and making recommendations for the prevention of occupational illness and injury (CDC, 2023k). NIOSH is a part of the CDC, in the Department of Health and Human Services, employing more than 1,300 individuals with diverse fields of expertise such as epidemiology, medicine, nursing, industrial hygiene, safety, and toxicology (CDC, 2023k). NIOSH and OSHA work in synergy as NIOSH provides evidence for many of the standards that OSHA enforces. NIOSH offers many workplace safety and health topics, including hazards and exposures, chemicals, total worker health, industries and occupations, diseases and injuries, safety and prevention, and emergency preparedness and response (CDC, 2023k). NIOSH research, programs, and publications are relevant and responsive to current occupational health and safety problems that affect current and future workers (CDC, 2023k).</para>
+    </section>
+    <section id="sect-00008">
+    <title>Occupational Health Nursing Practice Settings</title>
+    <para id="para-00021">OHNs practice in a wide variety of sites. Wherever there are employees, there may be OHNs working with employers to design health and safety programs. OHNs use an interprofessional approach to advocate for employee rights to health and safety programs. They assist employers by decreasing work-related injuries, absenteeism, and disability claims and by ensuring compliance with local, state, and federal laws and regulations on workplace health and safety. Depending on the employment site, OHNs build their expertise by incorporating knowledge of chemical hazards, biological hazards, ergonomic considerations, industrial safety issues, disease management, and business management concepts. [link]Figure 29.2[/link] lists the most common industries that employ certified OHNs. Hospitals, medical centers, and manufacturing are the most cited work settings for certified OHNs. Within manufacturing and production, OHNs may work in textiles, oil refining, machinery, the metal industry, rubber, and plastics (ABOHN, 2018). Other smaller industries where OHNs have an impact are food production, retail trade, amusement and recreational services, construction, communications, biotechnology, agriculture, forestry, fishing, and consulting.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A pie graph shows settings where occupational health nurses work: 37% manufacturing and production; 34% hospital or medical center; 10% government; 2% utility service; 2% academia; and 2% work in finance, real estate, or insurance. The remaining 13% work in other settings."><image mime-type="image/jpg" src="../../media/PH_Figure_29_01_002.png"/></media>
+    <caption>According to the ABOHN 2018 Practice Analysis, more than two-thirds of certified OHNs work in manufacturing and production or hospital or medical center settings. (data source: American Board for Occupational Health Nurses, Inc., 2018; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </section>
+    <section id="sect-00009">
+    <title>Occupational Health Nursing Practice Roles</title>
+    <para id="para-00022">Many OHNs enter the field with a baccalaureate degree in nursing and experience in community health or ambulatory care. Many OHNs pursue master’s degrees in public health, business, or advanced practicing nursing to continue to develop their professional competencies. Certification in occupational health nursing is not required but is highly recommended. OHNs combine knowledge of health and business to provide a safe and healthy work environment while maintaining fiscal responsibility to the employer (AAOHN, n.d.). The roles of OHNs are diverse and cross different practice settings (AAOHN, n.d.). OHN responsibilities include the following responsibilities (AAOHN, n.d.):</para>
+    <list list-type="bulleted" id="list-00006">
+    <item>Case management</item>
+    <item>Counseling and crisis intervention</item>
+    <item>Health promotion and risk reduction</item>
+    <item>Legal and regulatory compliance</item>
+    <item>Worker and workplace hazard detection</item>
+    </list>
+    <section id="sect-00010">
+    <title>Clinician</title>
+    <para id="para-00023">The OHN is a skilled nurse clinician primarily responsible for preventing work-related health problems and restoring health after an injury or illness. The OHN assesses workplace hazards, monitors the workers and workplace for potential issues or patterns of illness or injury, and investigates illness or injury. Fundamental to the practice, OHNs usually take an occupational health history of every worker for information on work history, on potential occupational exposures, and on the worker’s current health status. The OHN can provide appropriate education and preventive steps during these assessments to eliminate or reduce potential adverse exposures.</para>
+    <para id="para-00024">Assessing workplace hazards is another foundational role of the OHN. This may take the form of a workplace walk-through to understand workflow, job requirements, materials utilized, presence of hazards, and employee work practices. This assessment should be a complete workplace survey enabling the OHN to compile information about factors that support or impede employee health. It includes looking at potential hazards, building plans, exits and entrances, availability of emergency equipment, alarm and detection devices, and personal protective equipment (OSHA, 2016; CDC, 2015). Please see [link]Box 29.1[/link] for information on accomplishing a <term class="no-emphasis" id="term-00017">workplace safety hazard evaluation</term> (OSHA, 2016, pp. 13–15).</para>
+    <note class="boxed-feature" id="note-00002">
+    <list list-type="bulleted" id="list-00007">
+    <item>Regularly inspect all operations, equipment, work areas, and facilities. Include workers on the inspection walk-through.</item>
+    <item>Document the inspections and be sure to verify any hazardous conditions that are found are corrected. Take photos or videos of problem areas to facilitate later discussion and brainstorming about controlling them.</item>
+    <item>Include all areas and activities in these inspections, such as storage and warehousing, facility and equipment maintenance, purchasing and office functions, and the activities of on-site contractors, subcontractors, and temporary employees.</item>
+    <item>Regularly inspect occupational vehicles such as forklifts, trucks, cars, etc.</item>
+    <item>Use checklists that highlight typical hazards, such as those listed below:
+    <list list-type="bulleted" id="list-00008">
+    <item>General housekeeping</item>
+    <item>Slip, trip, and fall hazards</item>
+    <item>Electrical hazards</item>
+    <item>Equipment operation</item>
+    <item>Equipment maintenance</item>
+    <item>Fire protection</item>
+    <item>Work organization and process flow</item>
+    <item>Work practices</item>
+    <item>Workplace violence</item>
+    <item>Ergonomic problems</item>
+    <item>Lack of emergency procedures</item>
+    </list></item></list>
+    </note>
+    <para id="para-00025"><emphasis effect="bold">Workplace Safety Hazard Evaluation</emphasis> (See USDL, 2016.)</para>
+    <para id="para-00026">After a work-related injury or illness, the OHN should complete an initial physical assessment and provide care and treatment of any injuries per agency protocol. Treatment provided may include first aid measures followed by appropriate referrals depending on the severity of the injury or illness. For legal and ethical reasons, proper documentation of occupational-related injuries is necessary. OSHA has special reporting requirements for occupational-related incidents leading to serious injury or fatality. They must be notified within 8 hours of a work-related fatality and within 24 hours of serious injury such as an amputation, loss of an eye, or inpatient hospitalization (USDL, 2016). Workplace incidents, near misses, and any reported concerns give the OHN a good indication that occupational hazards exist. The OHN should have a plan and procedure for conducting incident investigations. The plan should cover who will be involved, how information will be communicated, materials or supplies needed, and reporting forms to be used. An investigation aims to identify the cause or causes of the incident or the concern to prevent further injury or illness (OSHA, 2016). A <term id="term-00018">root cause analysis</term> <term id="term-00019">(RCA)</term> is a component of an incident investigation, and it is used to identify, evaluate, and correct the root causes of accidents (OSHA, 2023). [link]Box 29.2[/link] provides more information on conducting an incident investigation and RCA.</para>
+    <note class="boxed-feature" id="note-00003">
+    <list list-type="bulleted" id="list-00009">
+    <item>Begin the investigation immediately when an incident occurs.</item>
+    <item>Conduct investigations with a trained team that includes management and workers’ representatives.</item>
+    <item>Investigate close calls/near misses.</item>
+    <item>Ask several questions and do not stop after identifying a single factor that triggered an incident. Continue to ask: Why? What? How? The goal is to answer this question, <emphasis effect="italics">how could this incident have been prevented?</emphasis></item>
+    <item>Identify and analyze root causes to address underlying program shortcomings that allowed the incidents to happen. Listed below are the five steps in an RCA (OSHA, 2023):
+    <list list-type="bulleted" id="list-00010">
+    <item>The Five Whys. Ask “why” to each explanation of how an incident occurred, typically utilizing between two to five why questions.</item>
+    <item>Build a detailed timeline around the event and analyze it.</item>
+    <item>Perform a change analysis, looking at all the changes in the organization that proceeded the change in safety or the event and try to define the relationship between possible causes and effects.</item>
+    <item>Use a cause-and-effect diagram, known as a fishbone diagram or an Ishikawa diagram. With this diagram, brainstorm all possible causes, categorize them, and map them.</item>
+    <item>There are often multiple root causes for any incident. The key is to address all of them and not narrow it down to one cause.</item></list></item>
+    <item>Communicate the results of the investigation to managers, supervisors, and workers to prevent recurrence.</item>
+    </list>
+    </note>
+    <para id="para-00027"><emphasis effect="bold">Conducting an Incident Investigation and Root Cause Analysis</emphasis> (See USDL, 2016.)</para>
+    </section>
+    <section id="sect-00011">
+    <title>Case Manager</title>
+    <para id="para-00028">OHN case managers coordinate and manage the comprehensive health care services of ill or injured workers ([link]Figure 29.3[/link]). The goal is to provide or ensure cost-effective, quality care that ultimately facilitates a safe and timely return-to-work with cost savings (ABOHN, 2021). This can include managing issues related to health insurance, workers’ compensation, and federal regulations such as the <term class="no-emphasis" id="term-00020">Family Medical Leave Act (FMLA)</term>. OHN case managers integrate the nursing process into their care while coordinating other necessary services. The case manager follows the worker after any incident, beginning immediately after the onset and continuing through the return-to-work phase. Case management includes mobilizing necessary resources during an injury or illness, developing preventive systems, and delivering care aligned to return the worker to pre-injury function if possible (ABOHN, 2021).</para>
+    </section>
+    <section id="sect-00012">
+    <title>Counselor/Consultant</title>
+    <para id="para-00029">OHNs act as counselors or consultants to prevent work-related health problems. OHNs develop, implement, and evaluate occupational health and safety services within organizations and the community. OHNs investigate all potential material and chemical exposures that could result in adverse health outcomes in workers. Workers have a legal right to know the substances they may be exposed to at work and can request this information from the OHN. The OHN should use safety data sheets (SDS), which provide information from the manufacturers of chemicals or materials, when designing preventive educational materials on potential exposures. OHNs counsel workers about work-related illnesses, injuries, and wellness and health promotion concerns.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="A nurse sticks a needle into the upper arm area of a person sitting in a chair."><image mime-type="image/jpg" src="../../media/PH_Figure_29_01_003.jpg"/></media>
+    <caption>An occupational health nurse administers an influenza immunization to a city employee during a flu shot clinic, highlighting health promotion efforts to keep workers healthy. (credit: “Duggan at Speed Bump- Flu Shot N-Conf.-2111” by City of Detroit/Flickr, Public Domain)</caption></figure>
+    </section>
+    <section id="sect-00013">
+    <title>Educator</title>
+    <para id="para-00030">OHNs are educators in all their roles in occupational and environmental health; their goal is injury and illness prevention, health promotion, and health restoration. The OHN participates in developing and implementing health promotion programs that support business objectives while promoting wellness and injury prevention. Health promotion objectives include creating environments that provide work-life balance for workers in addition to prevention programs related to potentially hazardous exposures in the workplace. Health promotion programs require the OHN to effectively teach and motivate workers on a topic. Common topics include hearing protection, eye protection, nutrition, exercise, and smoking cessation. Please refer to <link document="m00178"><emphasis effect="bold">Health Promotion and Disease Prevention Strategies</emphasis></link> for health promotion models that could be utilized in the occupational health setting.</para>
+    </section>
+    <section id="sect-00014">
+    <title>Administrator/Corporate Director</title>
+    <para id="para-00031">OHNs often participate in the development, management, and evaluation of the health and safety program of the organization. This requires the OHN to act in a leadership role as an administrator or corporate director. To maintain <term class="no-emphasis" id="term-00021">compliance</term> with legal and regulatory requirements, organizations need written policies and procedures in place, and this often falls on the OHN administrator to ensure these policies are up-to-date and in full compliance with the law. Businesses need to maintain compliance with OSHA standards, and this requires the OHN administrator to give the USDL data on occupational injuries, illnesses, and deaths. OSHA distributes the record-keeping forms, and the OHN administrator completes them throughout the year, submitting them to OSHA at the year-end. In addition, the OHN administrator works on compliance with other laws and regulations, such as FMLA, and tracking workers who use it.</para>
+    <para id="para-00032">If the OHN administrator or director would like to increase the occupational health services offered to the workers or increase the availability of personal protective equipment (PPE) based on a recent incident or RCA, the administrator is expected to write up a proposal justifying the expanded services or increased PPE request. This often requires documentation of surveillance and monitoring efforts along with audits of safety conditions in the workplace. Employers must keep health records on all workers separate from their other employment records, and the OHN administrator is often the person involved in maintaining these records and adhering to strict privacy requirements. The OHN administrator also often oversees a workers’ compensation claim on behalf of the employee to ensure the worker receives appropriate benefits.</para>
+    </section>
+    <section id="sect-00015">
+    <title>Researcher</title>
+    <para id="para-00033">OHNs can be researchers, contributing to their profession by identifying, analyzing, measuring, and evaluating the effects of workplace exposures and hazards for workers and community members. They can use the data they gather to implement appropriate preventive and control measures. OHNs use the data they gather on worker surveillance to identify patterns, trends, changes, and concerning issues. Utilizing this information and the identified trends, the OHN can then create targeted interventions to address the issue. Just as NIOSH participates in occupational health-related research to arm OSHA with evidence for their standards, OHNs act as the epidemiologist or event investigator to recommend evidence-based changes to the employer, to avoid future illness or injury.</para>
+    <para id="para-00034">The <term class="no-emphasis" id="term-00022">National Occupational Research Agenda</term> (<link url="https://openstax.org/r/cdcgovc">NORA</link>) is a program to stimulate innovative occupational health research and improve workplace practices. NORA was established in 1996 and has grown tremendously over the years, consisting of 10 industry sectors—such as construction and manufacturing—and seven health and safety cross-sectors—such as hearing loss prevention and respiratory health—that are organized according to major health and safety issues affecting the working population within the United States (CDC, 2022i). Each sector and cross-sector council develops an agenda. These agendas comprise the national agenda for improvements in occupational health and safety. NORA provides a research framework for NIOSH as diverse groups, OHNs included, collaborate to identify the most pressing health and safety issues in the workplace. The number of workers at risk for a particular injury or illness, the severity of the hazard or issue, and the probability that new information can make a difference all inform NORA’s priority-setting process (CDC, 2022i).</para>
+    </section>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00016">
+    <title>Chapter Summary</title>
+    <para id="para-00035">Occupational and environmental health nursing focuses on providing preventive health care, health promotion, and health restoration within a safe and healthy work environment. Working in various settings and roles, OHNs require additional competencies depending on the industry. However, the scope of practice has common overarching concepts of community health, law, economy, politics, policy, and regulatory issues. OSHA creates and enforces workplace safety standards to ensure safe and healthy conditions for workers. NIOSH is the research agency tasked with studying worker safety and health. NIOSH and OSHA work in synergy with NIOSH, providing evidence for many of the standards that OSHA enforces. OHNs’ roles include clinician, educator, case manager, corporate director, consultant, and researcher with diverse work settings including hospitals, academia, government, military, and industrial factories.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>Total Worker Health® (TWH)</term> <meaning>policies, programs, and practices that focus on work-related safety and protection</meaning></definition>
+    <definition id="def-00002"><term>standard</term> <meaning>a regulatory requirement established by the agency that serves as criteria for evaluating whether employers are following Occupational Safety and Health Act laws (a.k.a. regulation)</meaning></definition>
+    <definition id="def-00003"><term>ergonomics</term> <meaning>a set of practices, such as adjustable desk heights and keyboards that more naturally fit the wrist’s contours, in workplaces that increase worker efficiency and productivity while reducing injuries and discomfort</meaning></definition>
+    <definition id="def-00004"><term>industrial health nursing</term> <meaning>the term used for occupational health nursing in the late 1800s and early 1900s</meaning></definition>
+    <definition id="def-00005"><term>occupational and environmental health nursing</term> <meaning>a specialty practice focused on providing preventive health care, health promotion, and health restoration within the setting of a safe and healthy environment</meaning></definition>
+    <definition id="def-00006"><term>root cause analysis (RCA)</term> <meaning>a component of an incident investigation that is used to identify, evaluate, and correct the causes of accidents</meaning></definition>
+    </glossary>
 </document>
