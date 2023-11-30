@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>The Impact of Nutrition on Cardiovascular Wellness across the Lifespan</title>
+  <title>The Impact of Nutrition on Cardiovascular Wellness Across the Lifespan</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The Impact of Nutrition on Cardiovascular Wellness across the Lifespan</md:title>
     <md:content-id>m00054</md:content-id>
@@ -42,33 +42,41 @@
 <title>Part A</title>
 <para id="para-00013">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
 <para id="para-00014">Upon arrival at the labor and delivery department, Tara is placed on a fetal monitor, blood work and urine are collected, and her vital signs are obtained.</para>
-<table class="vertically-tight alternate-shading" id="table-00001">
-<tgroup cols="2">
+<table class="vertically-tight full-width" id="table-00001">
+<tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
-<entry valign="top" align="left">Vital Signs</entry>
-<entry valign="top" align="left">Laboratory Results</entry>
+  <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Laboratory Results</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left">Temperature: 37.4ºC</entry>
-<entry valign="top" align="left">Urine shows protein</entry>
+<entry valign="top" align="left">Temperature:</entry>
+<entry valign="top" align="left">37.4ºC</entry>
+<entry valign="top" align="left" morerows="3"><list list-type="bulleted" id="list-00002"><item>Urine shows protein</item>
+<item>Liver enzymes are slightly elevated</item>
+</list>
+</entry>
 </row>
 <row>
-<entry valign="top" align="left">Blood pressure: 224/200 (141) mm Hg</entry>
-<entry valign="top" align="left" morerows="3">Liver enzymes are slightly elevated</entry>
+<entry valign="top" align="left">Blood pressure:</entry>
+<entry valign="top" align="left">224/200 (141) mm Hg</entry>
 </row>
 <row>
-<entry valign="top" align="left">Heart rate: 92 beats/min</entry>
+<entry valign="top" align="left">Heart rate:</entry>
+<entry valign="top" align="left">92 beats/min</entry>
 </row>
 <row>
-<entry valign="top" align="left">Respiratory rate: 22 breaths/min</entry>
+<entry valign="top" align="left">Respiratory rate:</entry>
+<entry valign="top" align="left">22 breaths/min</entry>
 </row>
 <row>
-<entry valign="top" align="left">Oxygen saturation: 96% on room air</entry>
+<entry valign="top" align="left">Oxygen saturation:</entry>
+<entry valign="top" align="left">96% on room air</entry>
 </row>
 </tbody>
 </tgroup>
@@ -113,7 +121,7 @@
 <section id="sect-00008">
 <title>Childhood</title>
 <para id="para-00032">The heart healthy <term class="no-emphasis" id="term-00023">eating behaviors</term> of infancy should also be followed in childhood, including calorie consumption that supports the growth and developmental needs of the child. As these needs fluctuate, children should take the lead on how much food they consume; parents and caregivers can allow then to stop eating when they are full rather than promoting a clean plate (American Heart Association, 2018). Foods low in added sugar, saturated fats, cholesterol, and salt should be the focus of a healthy childhood diet. A <term class="no-emphasis" id="term-00024">childhood diet</term> should be rich in a variety of colorful foods; 30–35% of daily caloric intake should be mono- or polyunsaturated fats from olive oil or canola oil. See <link target-id="table-00002" document="m00054"/> for the nutritional needs of an average 3-year-old.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight alternate-shading full-width" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -216,7 +224,7 @@
 <table class="vertically-tight alternate-shading" id="table-00004">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Disease Subtype</span></emphasis></entry>
@@ -255,7 +263,7 @@
 <caption>Atherosclerosis is due to plaque buildup which causes a narrowing of the artery and impacts blood flow distal to the area of stenosis. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00048">Risks for heart disease include high cholesterol and high triglyceride levels, high blood pressure, and a diet high in saturated fats (Mayo Clinic, 2023d). There are two types of blood cholesterol, <term class="no-emphasis" id="term-00040">low-density lipoprotein (LDL) cholesterol</term> and <term class="no-emphasis" id="term-00041">high-density lipoprotein (HDL) cholesterol</term>. Health care providers commonly refer to LDL as bad cholesterol because it contributes to the development of plaque deposits in arteries; HDL is referred to as good cholesterol as it provides some protection against heart disease (CDC, 2023d). <link target-id="table-00005" document="m00054"/> outlines cholesterol levels in the desirable, borderline, and high ranges.</para>
-<table class="vertically-tight alternate-shading" id="table-00005">
+<table class="vertically-tight alternate-shading full-width" id="table-00005">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -362,7 +370,7 @@
 <section id="sect-00011">
 <title>Later Adulthood</title>
 <para id="para-00058">Later adulthood can be further broken down as youngest-old adults between 65 and 74, middle-old adults between 75 and 84, with oldest-old age 85 and older (Lee et al., 2018). Although preventative care fostering a healthy cardiovascular system is the optimal desire, research indicates that there is an increase in cardiovascular disease as people age. The incidence of cardiovascular disease increases from approximately 40% in adults ages 40–59 to 75% from ages 60–79, and approximately 86% in those above age 80 (Rodgers et al., 2019). Depending on the activity level of the client, the older adult typically needs about 2000 calories daily. Additionally, healthy older adults need increased dietary fiber, calcium, vitamin D, and potassium; healthy older adults should decrease their consumption of saturated fats, sodium, and added sugars (FDA, 2022a). See <link target-id="table-00007" document="m00054"/> for the recommended nutritional needs for later adulthood.</para>
-<table class="vertically-tight alternate-shading" id="table-00007">
+<table class="vertically-tight alternate-shading full-width" id="table-00007">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>

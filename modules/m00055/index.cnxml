@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Nutrition and Chronic Cardiovascular Illnesses</title>
+  <title>Nutrition and Long-Term Cardiovascular Illnesses</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Nutrition and Chronic Cardiovascular Illnesses</md:title>
     <md:content-id>m00055</md:content-id>
@@ -30,7 +30,7 @@
 <image mime-type="image/png" src="../../media/NUT_Figure_12_02_004.jpg"/></media>
 <caption>Atherosclerosis is a primary cause of hypertension. (credit: “Hypertension (High Blood Pressure)” by Blausen.com staff (2014). “Medical gallery of Blausen Medical 2014”/Wikimedia Commons, CC BY 3.0)</caption>
 </figure>
-<table class="vertically-tight alternate-shading" id="table-00001">
+<table class="vertically-tight alternate-shading full-width" id="table-00001">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -163,7 +163,7 @@ Cooked meat, poultry, fish, or egg
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00004">
 <item>Steamed or grilled:
-<list list-type="bulleted" bullet-style="none" id="list-00005">
+<list list-type="bulleted" id="list-00005">
 <item>Dumplings or grilled fish</item>
 <item>Vegetables</item></list></item>
 <item>Steamed rice</item>
