@@ -6,8 +6,89 @@
     <md:uuid>97d804be-89ba-4869-805d-80953327f092</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Examine key technology trends impacting delivery of care.</item>
+<item>Describe how technology can advance cost-effective health solutions.</item>
+<item>Assess the implications of technology on quality and safety of care.</item>
+</list>
+</section>
+<para id="para-00002">According to the Health Care Information and Management Systems Society (2023, para. 4), “the use of technology increases provider capabilities and patient access while improving the quality of life for some patients and saving the lives of others.” The use of technology in health care in the U.S. has increased exponentially over the past 20 years along with continuing technological advancements. The most common and most impactful recent technological developments in health care are telehealth, home monitoring, and the electronic health record (EHR).</para>
+<para id="para-00003">This section will discuss each of these technologies and how they impact health care costs, the <term id="term-00001">quality of health care</term>, and the safety of health care. The <term class="no-emphasis" id="term-00002">Institutes of Medicine</term> define quality as “the degree to which health care services for individuals and populations increase the likelihood of desired health outcomes and are consistent with current professional knowledge” (Agency for Healthcare Research and Quality, 2020). Additionally, health care quality seeks to put into place standard procedures and systems with the intention of having the best possible health outcomes. For example, for a person with diabetes, quality activities would include checking the hemoglobin A1C on a regular basis as well as teaching the person with diabetes about disease self-management. The goal is to control the disease in clients living with diabetes, which also decreases the cost of care. A resulting reduction of the health care cost is especially advantageous for individuals who are beneficiaries of public health insurance programs such as Medicare and Medicaid.</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Telehealth</title>
+<para id="para-00004"><term id="term-00003">Telehealth</term> is the use of digital information and communication, including mobile devices such as smartphones, laptop computers, and tablets, to enable remote access to health care services and to facilitate health care management (Mayo Clinic, 2023). With telehealth, a health care provider such as a physician, nurse, or nurse practitioner can provide care to a client in one area while the client is in another. Telehealth has been especially beneficial to individuals living in rural areas, including ethnic minorities who are more likely to live in rural areas and may have limited access to health care services. During the COVID-19 pandemic, when federal and state governments mandated social distancing, telehealth linked health care providers to clients ([link]<emphasis effect="bold">Figure 5.5</emphasis>[/link]). The key benefits of telehealth include the following:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Allows for the remote monitoring of chronic diseases such as diabetes, hypertension, and heart disease</item>
+<item>Allows for remote monitoring of mental health and behavioral health conditions</item>
+<item>Allows for the coordination of care services between two or more health care providers (i.e., primary care provider and specialty care provider)</item>
+<item>Allows for improved communication between the client and the health care provider</item>
+<item>Increases access to health care services for individuals living in rural areas</item>
+<item>Allows for social distancing during pandemics such as COVID-19</item>
+<item>Allows clients to receive care in their home by way of mobile devices such as smartphones and tablets</item></list>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A healthcare provider stands in front of a computer screen and writes on a clipboard. The computer screen shows a person seated in an office."><image mime-type="image/png" src="../../media/PH_Figure_05_03_005.jpg"/></media>
+<caption>Telehealth enables nurses and other health care professionals to communicate with each other, providing care to clients who may not be able to access a health care facility in person. (credit: “JACKSONVILLE, Fla. (June 5, 2019) – Lt. Michael White, a nurse at Naval Hospital Jacksonville’s intensive care unit, uses telehealth” by Jacob Sippel/Navy Medicine/Flickr, public domain)</caption>
+</figure>
+<para id="para-00005">As of 2020, 76 percent of hospitals in the United States were using telehealth to remotely connect with clients, up approximately 35 percent from 2010 (Watson, 2022). Telehealth has gained in popularity in the United States. The need for telehealth became more apparent during the COVID-19 pandemic due to the fear of being infected with the disease secondary to face-to-face interactions between the client and the health care provider. A research study revealed that approximately three-quarters of individuals living in the United States were more eager to participate in virtual health care experiences due to the aforementioned (Watson, 2020). Although the use of telemedicine has its positive benefits, there are downsides: not every type of visit can be treated via telemedicine; a risk of personal health data being breached; and a risk of health insurance companies not covering each virtual visit type (Watson, 2020). Certain regions of the country—like remote and/or rural areas—may also lack access to the broadband high-speed internet access necessary for telehealth services (RHIH, 2022). According to Call (2020), in 2020 organizations invested over $14.1 billion in telehealth and other digital health technologies, a 43 percent increase.</para>
+<note class="case-reflection" id="note-00001">
+<para id="para-00006">Read the following scenario, then answer the questions that follow.</para>
+<para id="para-00007">A 40-year-old client presents to the local community health center for treatment of his ongoing type 2 diabetes. Upon assessment, the nurse learns the client is having difficulty affording his medication and must pay his neighbor to drive him 30 miles to his doctor’s appointments. The client reports that he was laid off from his job over a year ago and has had an extremely hard time adjusting. The client’s blood glucose is 300 fasting. His hemoglobin A1C is 8, and he appears to be extremely anxious.</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>What might the nurse do to address the client’s anxiety related to losing his job previously?</item>
+<item>Given the client’s difficulty in presenting to his doctor’s appointments due to transportation, what might be an option for the client?</item>
+</list>
+</note>
+<para id="para-00008">The use of telehealth has ushered in cost savings for clients and health insurance providers, both public and private. A 2017 study that found that telehealth cost clients $79 out of pocket, as opposed to $146 for an in-person office visit; telehealth also provides an estimated savings of $89 billion each year in lost time associated with travel to and from their doctor’s visit. Additionally, telehealth has lowered costs associated with unnecessary emergency department visits. It is estimated that more than $1,500 per visit was saved by using telehealth instead of an emergency department (Call, 2020). This is especially significant for ethnic minorities, who are more likely than White individuals to lack adequate insurance coverage and are therefore more likely to use the emergency department to receive care (CDC, 2020a). Research has indicated that as much as 90 percent of telehealth clients say they would not have sought care if telehealth was not available to them (Call, 2020); however, access to telehealth may be limited if the individual does not have adequate health insurance.</para>
+<para id="para-00009">Although the use of telehealth has shown many benefits, it also presents challenges, including potential fraud and waste, which increase costs (Call, 2020). Examples of fraud and waste include providers coding check-in phone visits as full telehealth visits between the client and the health care provider and billing for services that were not provided. Additionally, the time and effort it takes for health care organizations to deploy the technology of telehealth in their facility increases costs. Organizations are exploring the use of <term class="no-emphasis" id="term-00004">artificial intelligence</term> to combat the increase in costs related to telehealth set-up and deployment (Call, 2020). The use of artificial intelligence has the potential to, in some instances, remove the need to have a human on the opposite side of telehealth as is currently required for the system to work properly (Kuzimesky et al., 2019).</para>
+</section>
+<section id="sect-00004">
+<title>Electronic Health Records</title>
+<para id="para-00010">The HHS (2023, para. 1) defines the <term id="term-00005">electronic health record</term> (EHR) as “an electronic version of a client’s medical history, that is maintained by the provider over time and may include all the key administrative clinical data relevant to that person’s care under a particular provider, including demographics, progress notes, problems, medications, vital signs, past medical history, immunizations, laboratory data and radiology reports” (HHS, 2020). From time to time, an older term, <term id="term-00006">electronic medical record</term> (EMR), is used. An EMR is generally associated with software that contains very specific clinical functions—such as checking for drug interactions and allergies—as well as the documentation of the interaction between the client and the health care provider.</para>
+<para id="para-00011">The EHR enables the recording, tracking, and maintenance of the client’s information:</para>
+<list list-type="bulleted" id="list-00004">
+<item>health care record</item>
+<item>problem list</item>
+<item>demographics</item>
+<item>medications</item>
+<item>medical history</item>
+<item>care plans</item>
+</list>
+<para id="para-00012">The EHR also facilitates communication, providing a mechanism by which providers may convey instructions, guidelines, and protocols to clients after discharge and a means by which health care providers and organizations may communicate with each other (HHS, 2020).</para>
+<para id="para-00013">EHRs are essential to maintaining client safety and quality of care. The EHR provides a mechanism by which the provider can communicate instructions to the client and track certain clinical measures associated with the client’s health care. The EHR also improves client safety because it improves communication between providers. For example, the EHR helps reduce medication errors, preventing the client from being prescribed the same medication twice or being prescribed a harmful combination of medications. Additionally, the EHR is key to ensure the proper tracking of client progress during medication and other treatment activities as ordered by the health care provider (HHS, 2023).</para>
+<note class="unfolding-casestudy" id="note-00002">
+<title>Unfolding Case Study: Caring for a Client With Anxiety, Part B</title>
+<para id="para-00014">Read the following clinical scenario to answer the knowledge check questions that follow. Refer to the Answer Key at the back of the book for feedback. This case study is a follow-up to Case Study Part A.</para>
+<para id="para-00015">The client, Jose, presented with chest pain. Upon further assessment and evaluation, the physician has ruled out a heart attack. Instead, the physician believes Jose is experiencing anxiety. The nurse educates Jose on the diagnosis and works with him to develop a treatment plan. The client appears to be reluctant to share information with the nurse but does reveal that he has been treated for hypertension since the age of 23. Because he recently lost his job, he has been unable to afford health insurance. For this reason, he could not afford his blood pressure medications and has not taken them for the past 6 months. Jose appears tearful and anxious. He answers the nurse’s questions with brief responses. Jose and his family have also started utilizing a local food bank and have applied to the Supplemental Nutrition Assistance Program (SNAP). The nurse suspects that Jose is experiencing more financial hardship than he is sharing. The physician has prescribed medication for Jose, but the nurse is concerned he cannot afford to get the prescription filled.</para>
+<para id="para-00016">Answer the following questions based on all the case information provided in the chapter thus far.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00017"><link class="os-embed" url="#exercise/COM_Ch05_Sec01_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00018"><link class="os-embed" url="#exercise/COM_Ch05_Sec02_UCSQ2"/></para></problem></exercise>
+<para id="para-00019">Explanation: Frequently clients do not take medications as prescribed due to costs. In this situation, with a client who has lost his job and has limited financial resources, the most effective strategy to encourage him to take the medication is making sure he can afford it.</para>
+</note>
+</section>
+<section id="sect-00005">
+<title>Home Monitoring</title>
+<para id="para-00020">With <term id="term-00007">home monitoring</term>, clients use devices such as digitized scales, blood pressure monitoring devices, and glucometers (blood glucose monitor) that are linked to the EMR in the physician’s office. Mobile applications through the client’s smartphone, smartwatch, and other tracking devices, such as step trackers, are used to collect client data like heart rate and connect it directly to the client’s health care provider. According to the Health Resources and Services Administration (HRSA, 2023), home monitoring is often paired with telehealth to allow for the long-term and continuous monitoring of chronic diseases such as high blood pressure, diabetes, obesity, heart disease, chronic obstructive pulmonary disease, sleep apnea, and asthma. The use of home monitoring has led to improved health outcomes associated with these chronic diseases as well as cost savings for the client and the health care facility (HRSA, 2023). Home monitoring impacts both client safety and quality. As it relates to quality, health care providers can monitor health indicators such as blood pressure and hemoglobin A1C while the client is home. When health care providers notice an abnormal lab value, as an example, they can more readily address the issue in many instances without the client having to come to the clinic or hospital. Health outcomes are further improved by preventing hospital readmissions and emergency department visits, decreasing the cost of care for hospital stays and emergency department visits. Client safety is also achieved in this example (HRSA, 2023).</para>
+<note class="healthy-people" id="note-00003">
+<para id="para-00021"><link url="https://openstax.org/r/healthit"><emphasis effect="bold">Health IT</emphasis></link></para>
+<para id="para-00022">Healthy People 2030 includes the goal of helping health care providers and clients use health information technology to access and exchange health information. Health information technology (IT) is essential to the sharing of information between the client and their health care provider. The sharing of information allows the client to have access to their health information and enables them to use it more effectively, which can lead to better health outcomes.</para>
+</note>
+</section>
+</section>
+<section class="section-summary" id="sect-00006">
+<title>Chapter Summary</title>
+<para id="para-00023">As demographics in the U.S. change, developing new ways to reach and care for clients is crucial to ensure positive health outcomes. Technologies such as telehealth vastly increase the accessibility of health care providers and services. Telehealth has proven especially effective in improving accessibility to rural areas that chronically suffer from sparse health care facilities and providers. Additionally, as care of older adults shifts from hospitals and rehab centers to the home, home monitoring, EHRs, and telehealth can enable homecare that is high quality, safe, and generally more comfortable for the client than care in a health facility. The same is true for the monitoring of chronic diseases such as diabetics, which especially impacts both minorities and older adults.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>electronic health record (EHR)</term> <meaning>electronic version of a client’s medical history that is maintained by the provider over time and may include all key administrative clinical data relevant to that person’s care under a particular provider, i.e., demographics, progress notes, problems, medications, vital signs, past medical history, immunizations, laboratory data, and radiology reports</meaning></definition>
+<definition id="def-00002"><term>electronic medical record (EMR)</term> <meaning>software that performs very specific clinical functions such as checking for drug interactions and allergies as well as the documentation of client encounters, i.e., the interaction between the client and the health care provider</meaning></definition>
+<definition id="def-00003"><term>home monitoring</term> <meaning>use of devices such as digitized scales, blood pressure monitoring devices, and glucometers (blood glucose monitor) that are linked to the EHR or EMR in the physician’s office</meaning></definition>
+<definition id="def-00004"><term>quality of health care</term> <meaning>degree to which health care services for individuals and populations increase the likelihood of desired health outcomes and are consistent with current professional knowledge</meaning></definition>
+<definition id="def-00005"><term>telehealth</term> <meaning>use of digital information and communication technologies to access health care services remotely and manage health care</meaning></definition>
+</glossary>
 </document>
