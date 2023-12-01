@@ -5,9 +5,266 @@
     <md:content-id>m00122</md:content-id>
     <md:uuid>e06d611f-ec7e-4762-9038-37331eaaa63b</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Discuss the role of sustainable development goals (SDGs) in ensuring health equity.</item>
+<item>Recognize the Global Burden of Disease (GBD) study as a tool to quantify global health priorities.</item>
+<item>Examine global disease estimates to develop an understanding of global health challenges.</item>
+<item>Recognize how health in the United States intersects with global health.</item>
+<item>Describe the nurse’s role in global health.</item>
+</list>
+</section>
+<para id="para-00002">World health statistics are important to health care on a global basis. People continue to live longer and live more years in good health. The global life expectancy at birth increased from 66.8 years in 2000 to 73.3 years in 2019, and <term class="no-emphasis" id="term-00001">healthy life expectancy (HALE)</term> increased from 58.3 years to 63.7 years (WHO, 2022b).</para>
+<para id="para-00003">Despite these increases in life expectancy, health inequalities continue to take a toll on the lives and health of populations in areas that lack adequate resources. Both life expectancy and HALE were at least 10 years lower in lower-income countries than in higher-income countries. However, the total gains in life expectancy and HALE greatly impact mortality and morbidity. In the past 30 years, improvements have been made in global maternal and child health, with the global maternal mortality ratio and the under-5 mortality rate falling by nearly 40 percent and 60 percent, respectively, since 2000 (WHO, 2022b). From 2000 to 2020, the global maternal mortality ratio (MMR), or the number of maternal deaths per 100,000 live births, fell by about 34 percent worldwide. Almost 95 percent of all maternal deaths occurred in low- and lower-middle-income countries in 2020 (WHO, 2023a).</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Sustainable Development Goals</title>
+<para id="para-00004"><term id="term-00002">Sustainable development goals (SDGs)</term> were developed by the United Nations (UN) member countries in 2015 to create a world that is more fair, just, and equitable. SDGs are a 15-year plan with 17 interlinking goals that are a call to action to address global challenges such as <term class="no-emphasis" id="term-00003">poverty</term>, inequality, <term class="no-emphasis" id="term-00004">climate change</term>, peace, and justice ([link]<emphasis effect="bold">Table 4.2</emphasis>[/link]). The goals are aimed at all countries, including those that are developed and those that are developing. SDGs are organized into five categories: people, planet, prosperity, peace, and partnerships. SDGs related to people include ending poverty and hunger and ensuring everyone can fulfill their potential in a healthy environment. Goals related to the planet address climate change and managing natural resources. Prosperity goals, such as those related to education, economic growth, and gender equality, are to ensure that all human beings can enjoy fulfilling lives. Peace SDGs foster both peace and inclusive societies. Successful implementation of the 17 SDGs requires partnerships and global solidarity. The goals are transformational and, if implemented, will lead to an equitable world that supports the human rights of all people (United Nations, n.d.).</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text">Sustainable Development Goals</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Examples of Targets</span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="left">End poverty in all its forms everywhere.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00002">
+<item>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day.</item>
+<item>By 2030, reduce at least by half the proportion of people of all ages living in poverty in all its dimensions according to national definitions.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="left">End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00003">
+<item>By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious, and sufficient food all year round.</item>
+<item>By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, Indigenous peoples, family farmers, pastoralists, and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets, and opportunities for value addition and non-farm employment.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">3</entry>
+<entry valign="top" align="left">Ensure healthy lives and promote well-being for all at all ages.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00004">
+<item>By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.</item>
+<item>By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">4</entry>
+<entry valign="top" align="left">Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00005">
+<item>By 2030, ensure that all youth complete free, equitable, and quality primary and secondary education, leading to relevant and effective learning outcomes.</item>
+<item>By 2030, ensure that all youth and a substantial proportion of adults of all genders achieve <term class="no-emphasis" id="term-00005">literacy</term> and numeracy.</item></list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">5</entry>
+<entry valign="top" align="left">Achieve gender equality and empower all women and girls.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00006">
+<item>End all forms of <term class="no-emphasis" id="term-00006">discrimination</term> against all women and girls everywhere.</item>
+<item>Eliminate all forms of <term class="no-emphasis" id="term-00007">violence</term> against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">6</entry>
+<entry valign="top" align="left">Ensure availability and sustainable management of water and sanitation for all.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00007">
+<item>By 2030, achieve universal and equitable access to safe and affordable drinking water for all.</item>
+<item>By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">7</entry>
+<entry valign="top" align="left">Ensure access to affordable, reliable, sustainable, and modern energy for all.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00008">
+<item>By 2030, ensure universal access to affordable, reliable, and modern energy services.</item>
+<item>By 2030, double the global rate of improvement in energy efficiency.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">8</entry>
+<entry valign="top" align="left">Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00009">
+<item>Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7% gross domestic product growth per annum in the least developed countries.</item>
+<item>Achieve higher levels of economic productivity through diversification, technological upgrading, and innovation, including through a focus on high-value-added and labor-intensive sectors.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">9</entry>
+<entry valign="top" align="left">Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00010">
+<item>Develop quality, reliable, sustainable, and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.</item>
+<item>Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">10</entry>
+<entry valign="top" align="left">Reduce inequality within and among countries.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00011">
+<item>By 2030, progressively achieve and sustain income growth of the bottom 40% of the population at a rate higher than the national average.</item>
+<item>By 2030, empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion, or economic or other status.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">11</entry>
+<entry valign="top" align="left">Make cities and human settlements inclusive, safe, resilient, and sustainable.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00012">
+<item>By 2030, ensure access for all to adequate, safe, and affordable housing and basic services and upgrade slums.</item>
+<item>By 2030, provide access to safe, affordable, accessible, and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities, and older persons.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">12</entry>
+<entry valign="top" align="left">Ensure sustainable consumption and production patterns.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00013">
+<item>Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries.</item>
+<item>By 2030, substantially reduce waste generation through prevention, reduction, recycling, and reuse.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">13</entry>
+<entry valign="top" align="left">Take urgent action to combat climate change and its impacts.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00014">
+<item>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</item>
+<item>Integrate climate change measures into national policies, strategies, and planning.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">14</entry>
+<entry valign="top" align="center">Conserve and sustainably use the oceans, seas, and marine resources for sustainable development.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00015">
+<item>By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.</item>
+<item>Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">15</entry>
+<entry valign="top" align="left">Protect, restore, and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00016">
+<item>By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought, and floods, and strive to achieve a land-degradation-neutral world.</item>
+<item>Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity, and, by 2020, protect and prevent the extinction of threatened species.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">16</entry>
+<entry valign="top" align="left">Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00017">
+<item>Significantly reduce all forms of violence and related death rates everywhere.</item>
+<item>End abuse, exploitation, trafficking, and all forms of violence against and torture of children.</item>
+<item>By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets, and combat all forms of organized <term class="no-emphasis" id="term-00008">crime</term>.</item>
+</list>
+</entry>
+</row>
+<row>
+<entry valign="top" align="center">17</entry>
+<entry valign="top" align="left">Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development.</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00018">
+<item>Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.</item>
+<item>Mobilize additional financial resources for developing countries from multiple sources.</item>
+</list>
+</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>The 17 UN Sustainable Development Goals (See United Nations, n.d.-a.)</caption>
+</table>
+<para id="para-00005">The UN reports on progress toward realizing the SDGs annually. The 2022 report reveals that the goals are in jeopardy due to factors such as the COVID-19 pandemic, the war in Ukraine, and the climate crisis. The pandemic disrupted essential health services and pushed more people into extreme poverty, largely eradicating progress that had been made in this area since the SDGs were implemented. The war in Ukraine has heightened the risk of a global food crisis. Supply chains and global trade have been disrupted, and food, fuel, and fertilizer prices have increased dramatically. Effects of climate change, including floods, fires, and droughts, are affecting ecosystems worldwide. Based on the 2022 report, the UN has identified addressing inflation, ending armed conflict, addressing the root causes of increasing inequality, and mitigating climate change as priorities if the SDGs are to be realized (United Nations, n.d.).</para>
+</section>
+<section id="sect-00004">
+<title>Global Health Priorities</title>
+<para id="para-00006">In today’s interconnected society, a threat in one area of the globe is a threat everywhere. The <term id="term-00009">Global Burden of Disease (GBD)</term> study is a resource that studies the changing health care needs and challenges worldwide in the 21st century. This study is conducted by the <term class="no-emphasis" id="term-00010">Institute for Health Metrics and Evaluation (IHME)</term> and is used worldwide to help improve the lives of people. Among the key findings of the 2019 report are that the health of the world’s population is steadily improving, and global life expectancy has increased. Urgent action is needed, however, to address concerns such as the global crisis related to chronic diseases and risk factors, trends in maternal and child health, assessing the impact of the COVID-19 pandemic, and the relationship between climate change and health (IHME, 2020). This section reviews the top global health priorities.</para>
+<note class="media-feature" id="note-00001">
+<title>Global Burden of Disease</title>
+<para id="para-00007">Visit the Institute for Health Metrics and Evaluation <link url="https://openstax.org/r/healthdataresearch">Global Burden of Disease</link> (GBD) website to view global health indicator data. Select a health condition/risk factor or location of interest, find relevant data to learn more about the health status of a particular population, and then answer the following questions.</para>
+<list list-type="enumerated" number-style="arabic" id="list-00019">
+<item>Are the data consistent with what you expected to find on your topic?</item>
+<item>How can the data be used to measure a population’s health decline?</item>
+</list>
+</note>
+<section id="sect-00005">
+<title>Cardiovascular Diseases</title>
+<para id="para-00008">Cardiovascular diseases (CVDs) are a leading cause of death globally, representing 32 percent of all deaths (Coronado et al., 2022). Most CVDs are associated with risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity, and harmful alcohol use. The burden of CVDs can be reduced by addressing these modifiable risk factors and through CVD management interventions, such as controlling hypertension and managing acute events such as heart attacks promptly (WHO, 2021b). Three-quarters of deaths from CVDs, however, occur in low- and middle-income countries in which access to primary care is limited, resulting in diagnosis of CVD late in the course of the disease. Improvements in CVD statistics will only occur when health care systems are strengthened globally (WHO, 2021b).</para>
+</section>
+<section id="sect-00006">
+<title>Diabetes</title>
+<para id="para-00009">Diabetes is among the top 10 causes of death worldwide, and its prevalence is increasing more rapidly in low-income countries (LICs) and middle-income countries (MICs) than in high-income countries (HICs). Diabetes mortality rates also rose by 3 percent globally between 2000 and 2019 (WHO, 2023c). The WHO launched the <link url="https://openstax.org/r/whointa">Global Diabetes Compact</link> in 2021, an initiative to reduce diabetes rates and improve diabetes prevention and care. The focus of the compact is on LICs and MICs. Additionally, the World Health Assembly endorsed global health diabetes targets that are to be achieved by 2030. The targets are intended to reduce the risk of diabetes and provide people worldwide with equitable care (WHO, 2022c).</para>
+</section>
+<section id="sect-00007">
+<title>Cancer</title>
+<para id="para-00010">Cancer is the leading cause of death globally, with the most prevalent forms being breast, lung, colon and rectum, and prostate. As noted earlier in this chapter, approximately one-third of deaths from cancer are related to modifiable risk factors, such as tobacco use, obesity, harmful alcohol consumption, physical inactivity, and a diet low in fruit and vegetable intake. Approximately 30 percent of cancers in LICs and MICs are caused by infections such as the human papillomavirus (HPV) and hepatitis. The WHO urges governments to develop standards and tools to guide the planning and implementation of interventions for prevention, early diagnosis, screening, preventive vaccines, and treatment for adult and child cancers. Improved access to care is a critical component of this initiative. Comprehensive cancer treatment is available in 90 percent of HICs but only 15 percent of LICs (WHO, 2022a).</para>
+</section>
+<section id="sect-00008">
+<title>Malaria</title>
+<para id="para-00011">Malaria is a life-threatening illness mostly found in tropical countries and spread by certain types of mosquitoes ([link]<emphasis effect="bold">Figure 4.5</emphasis>[/link]). Although it is preventable and curable, the incidence of malaria and its associated deaths, are increasing. During the time span of 2020–2021, the height of the COVID-19 pandemic, the incidence of malaria increased by 13 million cases, and there were 63,000 more deaths. Additionally, Nigeria, the Democratic Republic of the Congo, the United Republic of Tanzania, and Niger account for over half of malaria deaths worldwide. Vector control is an essential aspect of preventing malaria; however, it is being threatened by resistance to insecticides. The WHO recommends the RTS,S/AS01 malaria vaccine for children, which significantly reduces malaria and its deadly sequelae. The WHO’s <emphasis effect="italics">Global Technical Strategy for Malaria, 2016–2030</emphasis> is a guide for malaria control and elimination that can be used by countries as they strive to reduce or eliminate this public health threat (WHO, 2023b).</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="Medical personnel stand inside a building near a window. On a table near them are many different bottles of medicine. Children peer in the window."><image mime-type="image/png" src="../../media/PH_Figure_04_04_005.jpg"/></media>
+<caption>Research to discover new interventions to prevent or limit the spread of malaria is ongoing. (credit: “U.S. Army medical researchers take part in World Malaria Day 2010, Kisumu, Kenya April 25, 2010” by U.S. Army Southern European Task Force, Africa/Flickr, CC BY 2.0)</caption>
+</figure>
+</section>
+<section id="sect-00009">
+<title>How Global Disease Estimates Support Challenges</title>
+<para id="para-00012">The GBD is an important component in identifying health priorities worldwide, as well as trending the data to determine if health-related issues improve over time. The data provide a comprehensive overview of mortality and disability throughout the world and quantify losses related to hundreds of diseases, injuries, and risk factors. The GBD looks at both prevalence, or the number of people with a condition, and the relative harm that the condition causes. The data can then be used at global, national, and local levels to improve health care systems and address health care disparities (IHME, 2020).</para>
+</section>
+</section>
+<section id="sect-00010">
+<title>Intersection of Health in America with Global Health</title>
+<para id="para-00013">The United States has engaged with global health activities for over a century and contributes more funds to international health programs than any other country. The investment of the United States in global health is important not only from a humanitarian standpoint for other countries but also because it protects the health and well-being of Americans. The health and safety of countries worldwide are more closely linked than ever before. Travel provides opportunities for people around the globe; however, it also increases exposure to health risks. Global health issues like climate change and communicable diseases know no boundaries. The COVID-19 pandemic demonstrated the impact of an infectious disease on not only the health but also the economy of the world. Improvements in global health mandate a shift from independence to interdependence. Countries that identify and exchange best practices and strategies strengthen global health and human services systems (HHS, 2019).</para>
+</section>
+<section id="sect-00011">
+<title>The Nurse’s Role in Global Health</title>
+<para id="para-00014">All nurses, not only those who work as part of an international health care team, have a professional obligation to understand global health issues and health care priorities. It is important for nurses to develop an understanding of SDGs and global health priorities, as they are connected to local and national concerns. Infectious diseases, for example, do not recognize borders, as was evident during the rapid global spread of COVID-19 during the pandemic. Chronic diseases such as cancer have common risk factors regardless of geographic location, and all nurses must support health promotion initiatives to improve health outcomes. Nurses are also well positioned to lead efforts in global health due to their knowledge of population-based care (Salvage &amp; White, 2020).</para>
+</section>
+</section>
+<section class="section-summary" id="sect-00012">
+<title>Chapter Summary</title>
+<para id="para-00015">World health statistics are important to health care on a global basis. The results of statistical measurements indicate that people continue to live longer and live more years in good health. Health inequalities that take a toll on life and health are present in areas that do not have adequate resources. Sustainable development goals (SDGs) were developed by United Nations (UN) member countries to create a more fair, just, and equitable world. SDGs are a call to action to address global challenges such as poverty, inequality, and climate change and promote peace and justice.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>Global Burden of Disease</term> <meaning>a study conducted by the Institute for Health Metrics and Evaluation (IHME) that reflects the current health care needs and challenges worldwide</meaning></definition>
+<definition id="def-00002"><term>sustainable development goals (SDGs)</term> <meaning>a call to action to address global challenges such as poverty, inequality, climate change, peace, and justice; aimed at all countries, including those that are developed and those that are developing</meaning></definition>
+</glossary>
 </document>

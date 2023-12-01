@@ -5,9 +5,116 @@
     <md:content-id>m00120</md:content-id>
     <md:uuid>30587e7f-678e-4669-8bb8-296d9274ae51</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Explain the purpose of health indicators.</item>
+<item>Identify approaches to measuring population health outcomes.</item>
+<item>Differentiate between various types of health status indicators.</item>
+<item>Discuss the nurse’s role in managing population health.</item>
+</list>
+</section>
+<para id="para-00002"><term id="term-00001">Health indicators</term> are health-related measures of data that are used to quantify and track an individual’s health status. Measuring health indicators allows health care providers to measure improvement or decline in an individual’s health over time. Just as health care providers follow individual health indicators, it is possible to measure health-related indicators for a population. Population health metrics are quantifiable group-level measures associated with health (Mathers et al., 2003; Pan American Health Organization, 2018; Roser et al., 2021). These metrics are used by health care professionals, researchers, and policymakers to make decisions and plan population health initiatives. Positive indicators, such as life expectancy, correlate with better health. Negative indicators, such as infant mortality rate, are inversely correlated with health. See [link]<emphasis effect="bold">Box 4.1</emphasis> [/link] for examples of population health metrics.</para>
+<note class="boxed-feature" id="note-00001">
+<table id="table-00001">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold">Box 4.1 Population Health Metrics</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term id="term-00002">Years of life lost (YLL)</term></entry>
+<entry valign="top" align="left">A measure of premature mortality that considers both the frequency of death and the age at which it occurs, calculated by multiplying number of deaths by a standard life expectancy at the age at which death occurs; used to determine public health priorities (WHO, n.d.-f)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00003">Years of healthy life lost due to disability (YLD)</term></entry>
+<entry valign="top" align="left">The number of healthy years one might lose from their life due to disability or sickness (WHO, n.d.-e)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00004">Disability-adjusted life years (DALYs)</term></entry>
+<entry valign="top" align="left">The sum of the YLLs and YLDs attributable to a disease or health condition, with each DALY representing the loss of one year of full health (WHO, n.d.-b)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00005">Quality-adjusted life years (QALYs)</term></entry>
+<entry valign="top" align="left">The months or years of reasonable quality that an individual may gain following treatment; measures both length and quality of life of an individual (Health Analytics, 2022)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Measures of Population Health Outcomes</title>
+<para id="para-00003">A population health measure is an indicator that reflects the quality of a group’s overall health and well-being. Examples of measured topics include access to care, clinical outcomes, <term class="no-emphasis" id="term-00006">health behaviors</term>, preventive care and screening, and utilization of health services. Life expectancy at birth, morbidity, mortality, and premature death are examples of population health outcome measures (Hernandez &amp; Kim, 2022).</para>
+<section id="sect-00004">
+<title>Life Expectancy at Birth</title>
+<para id="para-00004"><emphasis effect="italics">Life expectancy at birth</emphasis> refers to a population’s overall mortality level, or the average age of death. It is an important measure for assessing population health, as it reflects mortality patterns across all age groups. <term class="no-emphasis" id="term-00007">Life expectancy</term> at birth is calculated by identifying the number of deaths that occur in a population during an identified time frame and dividing it by the size of the population. This calculation is referred to as the population’s mortality number. Disease- or cause-specific mortality rates are used to describe the contributions of specific diseases to a population’s mortality, such as deaths related to heart disease or cancer (WHO, n.d.-d).</para>
+</section>
+<section id="sect-00005">
+<title>Morbidity and Mortality</title>
+<para id="para-00005">Morbidity and mortality are two measures commonly used for epidemiological surveillance that describe the progression and severity of a given health event. They are useful tools for learning about risk factors for diseases and comparing health events between different populations. <term id="term-00008">Morbidity</term> is the state of being symptomatic or unhealthy due to a disease or condition and is usually represented or estimated using prevalence or <term id="term-00009">incidence</term>. <term id="term-00010">Prevalence</term> refers to the proportion of a population that has a disease or condition over a given time frame, whereas <emphasis effect="italics">incidence</emphasis> refers to the number of new cases over a given time frame. <emphasis effect="italics"><term class="no-emphasis" id="term-00011">Mortality</term></emphasis>, in contrast, refers to the number of deaths in each time frame. <term class="no-emphasis" id="term-00012">Years of life lost (YLL)</term> measures premature deaths and has implications for public health, as risk factors can be addressed through health promotion initiatives (Hernandez &amp; Kim, 2022; National Institute of Mental Health, n.d.; National Research Council &amp; Institute of Medicine, 2015). See [link]<emphasis effect="bold">Epidemiology for Informing Population/Community Health Decisions</emphasis>[/link] for more information.</para>
+<para id="para-00006">Combining mortality and morbidity rates gives a more comprehensive view of a population’s health. While mortality rates are an accurate, straightforward indicator, they do not consider the effects of diseases people are living with. The measure of both indicators together is referred to as the <term id="term-00013">burden of disease</term> (Roser et al., 2021). The burden of disease is measured by disability-adjusted life years (DALYs). For example, cardiovascular disease is the disease with the highest level of burden on the population. People with cardiovascular disease die prematurely from myocardial infarctions, congestive heart failure, and other cardiovascular conditions. Additionally, many people live for years with cardiovascular disease before they die, which is reflected in morbidity rates and the burden of disease. To take a closer look, according to [link]<emphasis effect="bold">Figure 4.2</emphasis>[/link], 393.11 million years of healthy life were lost due to cardiovascular disease in 2019. These years were lost to either premature death or disability from cardiovascular disease. [link]<emphasis effect="bold">Figure 4.2</emphasis>[/link] shows the global burden of the most prevalent diseases in 2019, categorized by disease or injury.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A bar graph shows the worldwide total disease burden measured by disability-adjusted life years in millions in 2019. The top five from largest to smallest are cardiovascular disease 393.11; cancer 251.39; neonatal disorders 185.89; other NCDs 153.17; and respiratory infections and TB 153.05."><image mime-type="image/png" src="../../media/PH_Figure_04_02_002.jpg"/></media>
+<caption>Before the COVID-19 pandemic in 2019, cardiovascular diseases were the number-one health burden in the world in terms of lost years of healthy life. (credit: “Burden of disease by cause, World, 2019” by IHME, Global Burden of Disease (2019)/Our World in Data, CC BY 4.0 International)</caption>
+</figure>
+</section>
+<section id="sect-00006">
+<title>Summary Measures of Population Health</title>
+<para id="para-00007">Summary measures of population health combine data from the basic metrics, such as mortality and nonfatal disease outcomes, to represent health in a single number (New Mexico Department of Health, 2021). <term class="no-emphasis" id="term-00014">Quality-adjusted life years (QALYs)</term> is an example of a summary measure. An advantage of summary measures is that a single statistic is easier to communicate to the public and track over time than data from multiple basic metrics. Summary measures also provide information on the distribution and inequalities of health, which have implications for health programming.</para>
+</section>
+</section>
+<section id="sect-00007">
+<title>Key Health Indicators Based on Subjective Data</title>
+<para id="para-00008">In addition to the health indicators previously mentioned that rely on objective data, a population’s health is also measured with key health indicators based on subjective data. Objective data, such as the ability to perform a physical task, are measurable. Subjective data require a person to self-rate their perception of their health. Population health surveys, such as the <term class="no-emphasis" id="term-00015">Behavioral Risk Factor Surveillance System</term>, the <term class="no-emphasis" id="term-00016">National Health and Nutrition Examination Survey</term>, and the <term class="no-emphasis" id="term-00017">National Health Interview Survey</term>, are examples of tools used to obtain key health indicators based on the population’s perception.</para>
+<section id="sect-00008">
+<title>Behavioral Risk Factor Surveillance System</title>
+<para id="para-00009">The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey used throughout the United States to collect data on health risk behaviors, chronic health conditions, the use of preventive services, and other factors, such as health care access and use of health care services. The data are then used to identify groups at risk for developing chronic diseases, monitor changes in health risk factors and chronic disease rates, and develop local, state, and national health promotion strategies. This system has served as a valuable resource for health promotion at the state and local levels. Some of the topics covered in the 2022 telephone survey include exercise, adequacy of sleep, colorectal cancer screening, and alcohol consumption (National Center for Chronic Disease Prevention and Health Promotion [NCCDPHP], 2022b). A state-by-state listing of how the data were used to improve <term class="no-emphasis" id="term-00018">health outcomes</term> is available on the website: <link url="https://openstax.org/r/cdcbrfss">State-By-State Listing of How Data Are Used</link>.</para>
+</section>
+<section id="sect-00009">
+<title>The National Health and Nutrition Examination Survey</title>
+<para id="para-00010">Ideally, an indicator would reflect both subjective and objective data. The National Health and Nutrition Examination Survey (NHANES) is a survey that combines interviews and physical examinations to assess the nutritional health of U.S. adults and children. All participants are evaluated by a physician, are interviewed about their diet, and have body measurements taken. Most participants have lab work done and a dental screening performed. As participants age, more tests are incorporated. The survey identifies the prevalence of major diseases and the presence of risk factors for diseases. The data are then used in epidemiological studies and research that assist in developing public health policies, programs, and services. Past outcomes of this survey have included the pediatric growth charts that are used nationwide at well-child visits and the policy to eliminate lead from gasoline, food, and soft drink cans (National Center for Health Statistics, 2023c).</para>
+</section>
+<section id="sect-00010">
+<title>National Health Interview Survey</title>
+<para id="para-00011">The National Health Interview Survey (NHIS) is the oldest ongoing health survey in the United States. Census workers conduct personal interviews in participants’ homes to collect health data on a broad range of topics from a sample of noninstitutionalized, civilian Americans. A strength of this survey is that data are categorized by demographic and socioeconomic features. The data are used to track disease and disability status of Americans and to track progress toward the achievement of national health objectives (National Center for Health Statistics, 2023d).</para>
+</section>
+<section id="sect-00011">
+<title>Health-Related Quality of Life</title>
+<para id="para-00012">As mentioned earlier in this chapter, HRQL refers to an individual’s perceived physical and mental well-being. To track HRQL, the CDC uses a subset of questions called “Healthy Days measures” that are included in both the BFSS and NHANES surveys. These questions ask the respondent to rate their overall health from excellent to poor, report how frequently in the past 30 days their physical or mental health was not good, and report how frequently during that same time frame poor physical or mental health kept them from doing their usual activities. The data are utilized for research, program planning, and tracking progress toward achieving Healthy People 2030 goals (CDC, 2021a).</para>
+</section>
+</section>
+<section id="sect-00012">
+<title>The Nurse’s Role in Managing Population Health</title>
+<para id="para-00013">Nurses have traditionally practiced in a variety of community settings and are well positioned to identify patterns across populations, connect clients to community resources, and develop community interventions (Robert Wood Johnson Foundation, 2017). The role of the population health nurse is to support clients as they strive to attain positive health outcomes. The nurse must also understand that although lifestyle choices play an essential role in health outcomes, they are also influenced, and often limited, by environmental and social factors. Nurses in all health care settings play an important role in assisting clients in understanding what influences and drives health.</para>
+<para id="para-00014">The passage of the <term class="no-emphasis" id="term-00019">Patient Protection and Affordable Care Act of 2010</term>, or the Affordable Care Act (ACA) for short, shifted the emphasis of health care from episodic care of individuals to primary and preventive care of groups or populations. Population health management requires nurses to develop skills in understanding basic health metrics, measures of population health outcomes, and key health indicators. Understanding these concepts allows the nurse to comprehend the health status and risk levels of populations and the influence of the SDOH. Nurses must also evaluate the outcome of community-based interventions, which are based on data, and revise the interventions as indicated. The use of health metrics by nurses plays a key role in identifying health risk and developing interventions to improve the health of a population (Ariosto et al. 2018).</para>
+<para id="para-00015">The Robert Wood Johnson Foundation released the <emphasis effect="italics"><term class="no-emphasis" id="term-00020">Catalyst for Change report</term></emphasis> in 2017, urging nurses to expand their practice in communities, schools, businesses, homes, and hospitals to promote population health. Population health nurses take a holistic approach to managing a group’s health, recognizing that health is influenced by many factors in a variety of settings. Nurses providing client care should monitor relevant metrics to identify needs and evaluate outcomes of interventions. Additionally, informatics nurse specialists can serve as resources to manage data to track health indicators and evaluate population outcomes.</para>
+<para id="para-00016">Many nurses work with individual clients. However, community health nurses who work in public health or other community settings work to improve health outcomes of the population at large rather than those of individual clients. For example, when working with an individual client to manage their hypertension, the nurse will use that client’s blood pressure measurements as data to monitor and evaluate the care provided to them. In contrast, population health measures the health of the entire group, not its individual members, using performance measurements, or metrics. Examples of basic metrics used in population health include mortality and life expectancy rates. Population health nurses then use the data to provide evidence-based care to populations in need (NCCDPHP, 2023). Population health nurses working with the community will analyze data to identify modifiable risk factors for hypertension—to keep with the original example—and develop broad strategies to prevent or manage the disease. Examples of these interventions include educational offerings and blood pressure screenings.</para>
+<para id="para-00017">Nurses can use health-related outcome measures to assess and monitor the health of the population. They can track metrics to identify and prioritize population health issues. For example, a public health nurse may utilize data from the BRFSS to track chronic diseases in an urban community. Based on this information, nurses can develop appropriate health promotion and disease prevention activities for the population that target desired health outcomes. The nurse may note an increase in diabetes prevalence in the community and use these data to formulate a plan to address this increase. Interventions could include assessing the availability of affordable and nutritious foods, access to primary care clinics, and availability of parks and <term class="no-emphasis" id="term-00021">green spaces</term> conducive to exercise. Finally, nurses can monitor metrics to evaluate the effectiveness of policies and interventions that were implemented.</para>
+</section>
+</section>
+<section class="section-summary" id="sect-00013">
+<title>Chapter Summary</title>
+<para id="para-00018">A population health measure or metric is an indicator that reflects the quality of a group’s overall health and well-being. Life expectancy at birth, morbidity, mortality, and premature death are examples of population health outcome measures. Summary measures of population health combine data from the basic metrics, such as mortality and nonfatal disease outcomes, to obtain a single numerical statistic.</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>burden of disease</term> <meaning>the impact of a health problem based on population health metrics, or indicators, that refer to valid, reliable, and comparable measures of health status</meaning></definition>
+<definition id="def-00002"><term>disability-adjusted life years (DALYs)</term> <meaning>the sum of years lost to a disease or health condition (the YLLs and YLDs), with each DALY representing the loss of one year of full health</meaning></definition>
+<definition id="def-00003"><term>health indicators</term> <meaning>health-related measures of data that are used to quantify and track an individual’s health status</meaning></definition>
+<definition id="def-00004"><term>incidence</term> <meaning>the number of new cases of a disease over a given time frame</meaning></definition>
+<definition id="def-00005"><term>morbidity</term> <meaning>the state of being symptomatic or unhealthy due to a disease or condition; usually represented or estimated using prevalence or incidence</meaning></definition>
+<definition id="def-00006"><term>prevalence</term> <meaning>the proportion of a population with a disease or condition over a given timeframe</meaning></definition>
+<definition id="def-00007"><term>quality-adjusted life years (QALYs)</term> <meaning>the months or years of reasonable quality that an individual may gain following medical treatment for a condition</meaning></definition>
+<definition id="def-00008"><term>years of healthy life lost due to disability (YLD)</term> <meaning>the number of healthy years one might lose from their life due to disability or sickness</meaning></definition>
+<definition id="def-00009"><term>years of life lost (YLL)</term> <meaning>a measure of premature mortality that considers both the frequency of death and the age at which it occurs, calculated by multiplying number of deaths by a standard life expectancy</meaning></definition>
+</glossary>
 </document>
