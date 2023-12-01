@@ -6,8 +6,17 @@
     <md:uuid>626fa51c-d39f-4c3d-85ce-80488d10981b</md:uuid>
   </metadata>
   <content class="introduction">
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+    <figure class="splash" id="fig-00001">
+    <media alt="A healthcare provider sits at a counter in an exam room, speaking with a client who sits across from them.">
+    <image mime-type="image/jpeg" src="../../media/PH_Figure_30_00_001_Splash.jpg"/></media>
+    <caption>A health care provider listens to the client to gather information to aid in care coordination. (credit: “In this 2017 photo, captured inside a clinical setting, a health care provider and patient consult” by Scott Housley/CDC, Public Domain)</caption>
+    </figure>
+    <para id="para-00001">Mrs. Johnson is a 72-year-old client with multiple chronic conditions, including diabetes, hypertension, and heart failure, living in a rural community. Mrs. Johnson was recently discharged from the hospital after being treated for exacerbation of heart failure. During her hospital stay, she received appropriate medical interventions, and her symptoms improved. Mrs. Johnson will be discharged from the hospital and go home. The nursing role in this process is to ensure the client is safe during the transition to home and continues to receive the necessary care and support they need once they are home. Ensuring a smooth transition from hospital to home is critical in preventing readmissions and promoting the health and well-being of clients. Nurses play a central role in making this process as seamless as possible.</para>
+    <para id="para-00002">In the dynamic and complex landscape of health care, transitions of care and care coordination play pivotal roles in promoting the delivery of high-quality, client-centered care in the community setting. <term id="term-00001">Transition of care</term> refers to the movement of clients from one health care setting to another or from one level of care to another. <term id="term-00002">Care coordination</term>, on the other hand, involves the deliberate organization and integration of health care services across different providers and settings to facilitate the delivery of <term class="no-emphasis" id="term-00003">holistic</term> and continuous care to individuals and populations. As individuals move between various health care settings or encounter changes in their care needs, ensuring smooth transitions and effective coordination becomes essential for optimizing health outcomes and promoting client well-being.</para>
+    <para id="para-00003">This chapter aims to provide a comprehensive understanding of transitions of care and care coordination within the realm of community health nursing. Through an exploration of the principles and best practices in transitions of care and care coordination, this chapter seeks to empower community health nurses in their pivotal role as advocates, coordinators, and educators within the health care system. By mastering the art of transitions and coordination, community health nurses can make a significant impact on the health outcomes and overall well-being of individuals, families, and communities they serve.</para>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>care coordination</term> <meaning>the deliberate organization and integration of health care services across different providers and settings to facilitate the delivery of holistic and continuous care to individuals and populations</meaning></definition>
+    <definition id="def-00002"><term>transition of care</term> <meaning>the movement of clients from one health care setting to another or from one level of care to another </meaning></definition>
+    </glossary>
 </document>
