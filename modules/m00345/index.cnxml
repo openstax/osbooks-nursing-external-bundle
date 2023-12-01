@@ -40,12 +40,12 @@
     <para id="para-00012">The <term class="no-emphasis" id="term-00010">Hospital Readmissions Reduction Program (HRRP)</term> of the <term class="no-emphasis" id="term-00011">Affordable Care Act</term>, enacted in 2010, had a significant influence on care transition models (Wadhera et al., 2019; McIlvennan et al., 2015). In response to this legislation, hospitals became more motivated to prevent readmissions, leading to the development of a variety of transition care models. More recently, models like <term class="no-emphasis" id="term-00012">Guided Care and the Patient-Centered Medical Home (PCMH)</term> have emerged, which focus on integrating care among all the client's health care providers, enhancing communication, and implementing comprehensive care plans.</para>
     <para id="para-00013">The evolution of care transition models reflects a shift toward a more client-centered, integrated, and coordinated approach to health care. They are driven by a commitment to reduce health care costs, improve client outcomes, and enhance client experience. By focusing on the transition from one care setting to another, these models recognize the critical importance of communication, continuity, and coordination in providing high-quality health care.</para>
     <para id="para-00014"><link target-id="table-00001" document="m00345"/> presents the strengths and limitations of different transitional care models.</para>
-    <table class="vertically-tight alternate-shading" id="table-00001">
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <colspec colnum="3" colname="c3" colwidth="3*"/>
-    <colspec colnum="4" colname="c4" colwidth="4*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Model</span></emphasis></entry>
