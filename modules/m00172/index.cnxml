@@ -102,11 +102,11 @@
     <para id="para-00027">Read the following clinical scenario, and then reflect on the questions that follow. This case scenario about Mr. Harper will evolve throughout the chapter.</para>
     <para id="para-00028">Mr. Harper, a 68-year-old retired miner, has been experiencing increasing difficulty breathing. His health has deteriorated over the past year with two hospitalizations for chronic obstructive pulmonary disease (COPD) exacerbation and recurrent pneumonia. In addition to working in the mines for 44 years, Mr. Harper has a 20-pack/year history of tobacco use and lives alone in an old, damp, poorly ventilated house. His nurse, Regis, is visiting his home for the first time today.</para>
     
-    <table class="vertically-tight" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>

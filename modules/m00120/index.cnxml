@@ -18,11 +18,11 @@
 </section>
 <para id="para-00002"><term id="term-00001">Health indicators</term> are health-related measures of data that are used to quantify and track an individual’s health status. Measuring health indicators allows health care providers to measure improvement or decline in an individual’s health over time. Just as health care providers follow individual health indicators, it is possible to measure health-related indicators for a population. Population health metrics are quantifiable group-level measures associated with health (Mathers et al., 2003; Pan American Health Organization, 2018; Roser et al., 2021). These metrics are used by health care professionals, researchers, and policymakers to make decisions and plan population health initiatives. Positive indicators, such as life expectancy, correlate with better health. Negative indicators, such as infant mortality rate, are inversely correlated with health. See <link target-id="note-00001" document="m00120"><emphasis effect="bold">Box 4.1</emphasis></link> for examples of population health metrics.</para>
 <note class="boxed-feature" id="note-00001">
-<table id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold">Box 4.1 Population Health Metrics</emphasis></entry>
