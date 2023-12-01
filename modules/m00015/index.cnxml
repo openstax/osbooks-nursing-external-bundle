@@ -35,6 +35,8 @@
 <table class="vertically-tight" id="table-00001">
 <title/>
 <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Vitamin-Mineral Category</span></entry>
@@ -74,7 +76,7 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Vitamin/Mineral</span></entry>
@@ -116,11 +118,11 @@
 </row>
 <row>
 <entry valign="top" align="left">Calcium</entry>
-<entry valign="top" align="left">One cup of boiled collard greens contains 266 mg of calcium ( about 26% of DV)</entry>
+<entry valign="top" align="left">One cup of boiled collard greens contains 266 mg of calcium (about 26% of DV)</entry>
 </row>
 <row>
 <entry valign="top" align="left">Zinc</entry>
-<entry valign="top" align="left">Three ounces of lean beef contains 5 mg of zinc ( about 50% of DV)</entry>
+<entry valign="top" align="left">Three ounces of lean beef contains 5 mg of zinc (about 50% of DV)</entry>
 </row>
 </tbody>
 </tgroup>
@@ -155,7 +157,7 @@
 <para id="para-00014">These Dietary Guidelines are reflected throughout this chapter as nutrient-dense foods are emphasized over supplements.</para>
 <note class="media-feature" id="note-00001">
 <title>Dietary Guidelines</title>
-<para id="para-00015">Read more on the history of dietary guidelines from 1980–2020; of special note is the expansion in guidance over the last 30 years and the incorporation of recommendations into the overarching guideline. <link url="https://openstax.org/r/dietaryguidelines">Review this website for a look</link> at how the guidelines have emerged over the last three decades and <link url="https://openstax.org/r/dietaryguidelinesresources">this website for free materials</link> related to the 2020–2025 Dietary Guidelines.</para>
+<para id="para-00015">Read more on the history of dietary guidelines from 1980–2020; of special note is the expansion in guidance over the last 30 years and the incorporation of recommendations into the overarching guideline. <link url="https://openstax.org/r/dietaryguidelines">Review this website for a look</link> at how the guidelines have emerged over the last three decades and <link url="https://openstax.org/r/dietaryguidelinesresources">this website for free materials</link> related to the <emphasis effect="italics">Dietary Guidelines for Americans 2020–2025</emphasis>.</para>
 </note>
 <note class="unfolding-casestudy" id="note-00002">
 <title>Part B</title>
