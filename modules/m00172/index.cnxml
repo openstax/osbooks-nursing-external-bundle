@@ -103,7 +103,7 @@
     <para id="para-00028">Mr. Harper, a 68-year-old retired miner, has been experiencing increasing difficulty breathing. His health has deteriorated over the past year with two hospitalizations for chronic obstructive pulmonary disease (COPD) exacerbation and recurrent pneumonia. In addition to working in the mines for 44 years, Mr. Harper has a 20-pack/year history of tobacco use and lives alone in an old, damp, poorly ventilated house. His nurse, Regis, is visiting his home for the first time today.</para>
     
     <table class="vertically-tight full-width" id="table-00001">
-    <tgroup cols="2">
+    <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <colspec colnum="3" colname="c3" colwidth="3*"/>
@@ -118,14 +118,15 @@
     <entry valign="top" align="left">Temperature:</entry>
     <entry valign="top" align="left">99.1</entry>
     <entry valign="top" align="left" morerows="4">
-    HEENT: Within normal limits.<newline/>
-    Cardiovascular: Tachycardic, S1, S2 noted; Regular rhythm; No murmurs or rubs; No jugular vein distention; No edema, 2+ pulses in extremities. Capillary refill > 2 seconds.<newline/>
-    Respiratory: Bilateral rhonchi and wheezing. Productive cough; thick yellow sputum.<newline/>
-    GI: Abdomen soft, non-tender, non-distended; bowel sounds normal.<newline/>
-    GU: Clear urine.<newline/>
-    Neurological: Presents with occasional confusion.<newline/>
-    Integumentary: Clean, intact, dry. Complaint of itchiness. Digital clubbing. Cyanosis noted in nail beds.</entry>
-    </row>
+    <list list-type="bulleted" id="list-00006">
+       <item>HEENT: Within normal limits.</item>
+       <item>Cardiovascular: Tachycardic, S1, S2 noted; Regular rhythm; No murmurs or rubs; No jugular vein distention; No edema, 2+ pulses in extremities. Capillary refill > 2 seconds.</item>
+<item>Respiratory: Bilateral rhonchi and wheezing. Productive cough; thick yellow sputum.</item>
+    <item>GI: Abdomen soft, non-tender, non-distended; bowel sounds normal.</item>
+    <item>GU: Clear urine.</item>
+    <item>Neurological: Presents with occasional confusion.</item>
+    <item>Integumentary: Clean, intact, dry. Complaint of itchiness. Digital clubbing. Cyanosis noted in nail beds.</item>
+    </list></entry></row>
     <row>
     <entry valign="top" align="left">Blood pressure:</entry>
     <entry valign="top" align="left">150/95</entry>
