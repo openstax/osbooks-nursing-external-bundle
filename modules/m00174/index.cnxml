@@ -6,8 +6,247 @@
     <md:uuid>034a7406-98fc-4a07-a243-a3518c3fd860</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Discuss the methods of measuring pollutants in the environment.</item>
+    <item>Explain the steps in the risk assessment and risk-management processes.</item>
+    <item>Assess the environmental health of individuals, homes, and communities.</item>
+    </list>
+    <para id="para-00002"><term class="no-emphasis" id="term-00001">Environmental assessment</term> is the process of identifying, evaluating, and mitigating environmental risks to human health. It involves measuring pollutants, determining and managing risks, and conducting individual, home, and community assessments.</para>
     </section>
-  </content>
+    
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Measuring Pollutants</title>
+    <para id="para-00003">Measuring pollutants is essential for assessing and managing environmental and public health risks ([link]<emphasis effect="bold">Figure 14.4</emphasis>[/link]) (Manisalidis et al., 2020). Accurate measurement helps identify sources of pollution, monitor trends, and guide regulatory action. While environmental scientists are responsible for measuring pollutants, the C/PHN’s role is to ensure that measurements are taken, the results are communicated to the public, and any issues of concern are followed up on. The first step in measuring pollutants involves collecting samples. Different collection methods are used depending on the type of pollutant and the medium in which it is present (air, water, soil, etc.). Sampling may involve placing sensors, samplers, or collection devices in the target environment. Once samples are collected, various analytical techniques such as spectroscopy are deployed to determine the concentration of specific pollutants. For air pollutants, monitoring stations are set up in various locations to measure the concentration of gases and particulate matter. Instruments like gas analyzers, particle counters, and meteorological sensors help assess the levels of pollutants such as carbon monoxide, sulfur dioxide, nitrogen oxides, ozone, and particulate matter. Water pollutants are measured with optical sensors, ion-selective electrodes, and spectroscopy to determine the presence and concentration of contaminants like heavy metals and chemicals. Soil is assessed using chemical and spectral analysis, with samples collected from different depths to understand the distribution of pollutants in the land.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="Two researchers kneel in a rocky shallow stream and collect water in zip lock bags."><image mime-type="image/png" src="../../media/PH_Figure_14_03_004.jpg"/></media>
+    <caption>A team takes stream water samples in Los Padres National Forest in California. (credit: “Habitat Assessment” by Hazel Rodriguez/USFWS Pacific Southwest Region/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00004">Pollutants may also be measured indirectly through remote sensing techniques such as satellite imagery and aerial photography, which can be used to monitor larger areas and track pollution trends over time. These methods are also very useful for gauging changes in land use, <term class="no-emphasis" id="term-00002">deforestation</term>, <term class="no-emphasis" id="term-00003">erosion</term>, <term class="no-emphasis" id="term-00004">climate change</term>, and other environmental factors that can contribute to pollution. Finally, climate modeling is used to predict and assess the impact of climate change, such as an increase in extreme weather that may lead to an increase in heat-related mortality.</para>
+    <para id="para-00005">In addition to providing data to assess and monitor the health of a population, measurements of hazardous agents play a significant role in protecting the community by supplying evidence for developing and enforcing environmental regulations.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Determining Risk and Risk Management</title>
+    <para id="para-00006">The EPA uses a four-step risk assessment to evaluate potential pollution and hazards, evaluate the likelihood of exposure-related health threats, and develop standards (EPA, 2023k). The first step, <term class="no-emphasis" id="term-00005">Hazard Identification</term>, aims to identify potential negative outcomes that may result due to exposure to a specific agent. While multiple data points are involved in this analysis, the emphasis is on <term id="term-00006">toxicokinetics</term>, or the study of how chemicals are absorbed, metabolized, and eliminated, and <term id="term-00007">toxicodynamics</term>, which examines the impact of chemicals on the body and health.</para>
+    <para id="para-00007">The second step, <term class="no-emphasis" id="term-00008">Dose Response</term>, aims to identify the ways that the amount of exposure (dose) relates to the probability and severity of negative health effects (response). The third step, Exposure Assessment, involves quantifying the extent, frequency, and length of human contact to an environmental agent or predicting the potential impact of future contact. Finally, Risk Characterization, the fourth step, aims to synthesize information from the first three steps to provide an overall understanding of the characteristics and occurrence of risks as well as indicate where uncertainties remain.</para>
+    <para id="para-00008">When the available evidence is uncertain or incomplete, a guiding concept is the <term id="term-00009">precautionary principle</term>, which directs decision makers to be proactive in safeguarding the environment and public health rather than waiting for conclusive evidence of harm. This principle shifts the burden of proof, or responsibility, to those advocating for a particular action, such as building a new power plant, to demonstrate that it will not cause harm to the environment or community. The principle can also lead to taking action to prevent harm, such as the decisions made by various governments at the start of the <term class="no-emphasis" id="term-00010">COVID-19</term> pandemic to institute public health measures such as mask wearing, lockdowns, and travel restrictions, among others. Since little was known about this novel coronavirus, early action without scientific certainty was deemed necessary to protect the health of the public. This is an example of the precautionary principle in action.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Environmental Health Assessments</title>
+    <para id="para-00009">The link between human health and the environment underscores the need for systematic evaluations, which play a critical role in understanding population health. This section examines how environmental assessments inform nurses about the impact of the environment on the health of communities as well as individuals.</para>
+    <section id="sect-00006">
+    <title>Individual Assessment</title>
+    <para id="para-00010"><term class="no-emphasis" id="term-00011">Individual environmental health assessments</term> are essential tools for identifying, preventing, and educating individuals about environmental health concerns. These assessments aim to identify hazards, understand health implications, and mitigate risks. Individual environmental health assessments encompass a broad range of potential environmental exposures, including indoor agents, outdoor air pollution, water sources, exposure to pesticides or industrial waste, and the presence of radiation sources like radon. Factors such as the home and school or work environments, recreational activities, lifestyle, and personal health history are all considered. These assessments empower individuals to make informed decisions and assist nurses with individualizing care, creating action plans, and providing education, referrals, advocacy and follow-up.</para>
+    <para id="para-00011">In 2005, a team of nurses devised a framework, termed <term class="no-emphasis" id="term-00012">I PREPARE</term>, as a tool for conducting individual environmental health assessments and developing a plan of action. I PREPARE is a mnemonic; each letter stands for a specific step in the assessment (Paranzino et al., 2005) as shown in [link]<emphasis effect="bold">Table 14.2</emphasis>[/link]. The Case Reflection that follows walks through an example of a nurse using I PREPARE to perform an individual environmental health assessment.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">Explanation</span></entry>
+    <entry valign="top" align="center"><span class="blue-text">Examples of Nursing Actions</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">I</emphasis></entry>
+    <entry valign="top" align="left">Investigate potential exposures: This step involves asking questions to uncover potential sources of exposure to environmental hazards.</entry>
+    <entry valign="top" align="left">For example, ask if a client has ever felt sick after handling chemicals or toxic substances.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">P</emphasis></entry>
+    <entry valign="top" align="left">Present work: Inquire about the person’s current occupation and any potential workplace hazards.</entry>
+    <entry valign="top" align="left">For example, ask the client to describe their current job, the industry they work in, and any hazardous substances that they handle.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">R</emphasis></entry>
+    <entry valign="top" align="left">Residence: Assess potential residential exposures.</entry>
+    <entry valign="top" align="left">For example, ask about the age and type of dwelling, their water source, and indoor hazards such as mold or mildew.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">E</emphasis></entry>
+    <entry valign="top" align="left">Environmental concerns: Encourage clients to discuss environmental concerns in their neighborhood.</entry>
+    <entry valign="top" align="left">For example, ask if they live near landfills, farms, or factories.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">P</emphasis></entry>
+    <entry valign="top" align="left">Past work: Inquire about past occupations or exposures that may have exposed the client to hazardous materials in the past.</entry>
+    <entry valign="top" align="left">For example, ask if they have ever worked on a farm or in a factory or used solvents or other chemicals.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">A</emphasis></entry>
+    <entry valign="top" align="left">Activities: Assess the client’s activities that may have exposed them to environmental hazards.</entry>
+    <entry valign="top" align="left">For example, ask about hobbies, outdoor recreation, smoking, and diet.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">R</emphasis></entry>
+    <entry valign="top" align="left">Referrals and Resources: Provide information about relevant resources, referrals, or organizations that can help the individual address their environmental health concerns.</entry>
+    <entry valign="top" align="left">For example, provide information on government sites, such as the CDC, Agency for Toxic Substances &amp; Disease Registry, or the Occupational Safety &amp; Health Administration.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold">E</emphasis></entry>
+    <entry valign="top" align="left">Educate: Share information about the client’s potential environmental health risks and provide guidance on how to prevent or reduce exposure to protect their health.</entry>
+    <entry valign="top" align="left">For example, if they may have been exposed to lead in their drinking water, provide information about testing and mitigation from local, state, and federal resources.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>The I PREPARE Mnemonic</caption>
+    </table>
+    <note class="case-reflection" id="note-00001">
+    <para id="para-00012">The following scenario walks through an example of a nurse performing an individual environmental health assessment on a client using the I PREPARE mnemonic. Read the scenario, and then reflect on the questions that follow.</para>
+    <para id="para-00013">Kyra, a 35-year-old client, presents to the county clinic after experiencing persistent symptoms, including coughing, sneezing, and hoarseness, for several months. She’s concerned that her symptoms might be related to the apartment she recently moved into. After reviewing her health history, Nurse Kyle uses the I PREPARE framework to perform an individual environmental health assessment.</para>
+    <para id="para-00014">I—Investigate Potential Exposures: Kyle asks Kyra if she has had any known exposure to pollutants at home, at work, or in the community. He asks if her symptoms improve or worsen when she is at home, at work, or outside. Kyra notes while she isn’t sure what she’s being exposed to, she usually feels worse in the morning.</para>
+    <para id="para-00015">P—Present Work: Kyle asks about Kyra’s work environment. Kyra is a graphic designer who works three days a week in a well-ventilated office building downtown and works from home the remaining two days.</para>
+    <para id="para-00016">R—Residence: Kyle investigates potential exposures by asking about the age and upkeep of the apartment building, such as whether it’s properly ventilated, if there have been any water leaks or mold issues, and if there are any pets or smokers in the home. She lives with her cat Mittens in an interior apartment on the first floor of an older building without air conditioning, but she does have a window in her kitchen. Kyra notes that the basement is used for utilities, such as laundry, and is poorly lit, unventilated, and damp.</para>
+    <para id="para-00017">E—Environmental Concerns: Kyle asks about industries, farms, and waste sites near Kyra’s home or workplace. She states that there has been ongoing construction adjacent to her building that often creates a layer of dust and construction debris in the immediate surroundings.</para>
+    <para id="para-00018">P—Past Work: As a junior designer, Kyra worked for a small business in an old industrial warehouse. She doesn’t know much about the history but states that they were not allowed to drink from the building’s faucets and were directed to use the water cooler.</para>
+    <para id="para-00019">A—Activities: Kyra enjoys gardening on her small balcony but finds it increasingly challenging due to her symptoms, which she says worsen when the nearby construction is underway.</para>
+    <para id="para-00020">R—Referrals and Resources: As a nurse working in a community clinic, Kyle is well prepared to offer referrals and local resources. After confirming Kyra’s insurance, he provides contact information for an allergy center covered by her plan and refers her for allergy testing.</para>
+    <para id="para-00021">E—Educate: Kyle works with Kyra to educate her about indoor and outdoor air quality, potential allergens, and actions she can take to make her environment and lifestyle healthier for now and the future.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>If you were Nurse Kyle, what additional questions would you ask Kyra to further investigate her symptoms and potential sources of exposure?</item>
+    <item>From an environmental health perspective, what are some possible indoor environmental hazards that could be linked to Kyra’s health issues? What about outdoors? How can these be mitigated?</item>
+    <item>Given Kyra’s past work history in the warehouse and the directive to avoid tap water, what are some potential concerns in the warehouse space?</item>
+    <item>How might Kyra’s gardening activity on her patio interact with the nearby construction? How might Kyra’s activities be adapted to minimize her exposure to allergens and irritants?</item>
+    <item>What education should Nurse Kyle provide? What role does education play in preventing environmental health concerns such as Kyra’s? How might this knowledge empower her to take proactive steps to improve her environment and overall health?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00007">
+    <title>Home Assessment</title>
+    <para id="para-00022">What constitutes an environmentally healthy home? According to the <term class="no-emphasis" id="term-00013">National Center for Health Housing</term>, a healthy home has 10 characteristics: dry, clean, safe, ventilation, pest and contaminant free, regularly maintained, and has a comfortable temperature (National Center for Healthy Housing, 2023). It’s important to note that home health assessments are critical for promoting health equity by addressing disparities in housing quality. For example, programs to improve home indoor air quality are proven to reduce the incidence of asthma among <term class="no-emphasis" id="term-00014">BIPOC</term> children and children residing in substandard housing (Martin et al., 2021). Furthermore, this intervention can improve the health of older adults with respiratory diseases.</para>
+    <para id="para-00023">Some individuals are more vulnerable to the effects of an environmentally unhealthy or unsafe home. Children, whose bodies and systems are still developing, are particularly prone to negative impacts from exposure to contaminants. Older adults, who may have preexisting health conditions, may have weaker immune systems, and may spend more time indoors, can be more susceptible to respiratory and other disorders. Pregnant people can be exposed to indoor pollutants that affect fetal development, such as secondhand smoke. Individuals with chronic conditions, such as immune or respiratory disorders, are at a higher risk of exacerbations. Individuals with limited mobility due to disability, age, or aging may spend more time indoors and have difficulty relocating to a safer environment. [link]<emphasis effect="bold">Table 14.3</emphasis>[/link] presents some examples of possible hazards inside the home.</para>
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Type of Hazard</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Potential Negative Health Effects</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Biological hazards</emphasis></span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Mold and fungi</entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00003">
+    <item>Produce compounds such as aldehydes</item>
+    <item>Can cause a stuffy nose, sore throat, coughing or wheezing, burning eyes, or skin rash</item>
+    <item>Can exacerbate asthma or cause severe reactions in those who are allergic to mold</item>
+    <item>May cause lung infections in those who are immunocompromised or have chronic lung disease</item>
+    </list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Rodents (rats, mice)</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00004">
+    <item>May cause and contribute to respiratory illnesses</item>
+    <item>Carry many diseases that can spread to people directly through contact with feces through handling or inhaling</item>
+    <item>Carry ticks, mites, or fleas that can act as vectors to spread diseases between rodents and people</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Dust mites and cockroaches</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00005">
+    <item>May cause runny nose, watery eyes, sneezing, cough, congestion, and facial pressure</item>
+    <item>Increased risk of asthma attacks in those who have asthma</item>
+    </list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic gases</emphasis></span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Radon</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00006">
+    <item>Linked to an increased risk in cancer, poses a significant health threat in some areas where it is commonly found in basements</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Carbon monoxide</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00007">
+    <item>Binds to hemoglobin when inhaled, reduces the carrying capacity of oxygen, and can rapidly lead to severe outcomes including mental confusion, loss of consciousness, hypoxia, and death</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Tobacco smoke</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00008">
+    <item>It may damage the heart and blood vessels and cause coronary heart disease, stroke, and lung cancer.</item>
+    <item>Pregnant persons exposed to secondhand smoke during pregnancy are more likely to have newborns with lower birth weight.</item>
+    <item>Newborns exposed to secondhand tobacco smoke are more likely to die from sudden infant death syndrome (SIDS) than infants who are not exposed.</item>
+    <item>It causes increased risk for acute respiratory infections, middle ear disease, more frequent and severe asthma, respiratory symptoms, and slowed lung growth and can trigger asthma attacks in children.</item>
+    </list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic substances</emphasis></span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Asbestos</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00009">
+    <item>When inhaled, asbestos fibers cause increased risk of lung cancer, mesothelioma, and asbestosis.</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Lead</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00010">
+    <item>When ingested through water or peeling paint in older homes, lead exposure can lead to developmental delays and intellectual disabilities, behavioral problems, and stunted growth.</item>
+    </list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Pesticides</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00011">
+    <item>Exposure may cause eye, nose, and throat irritation; damage to central nervous system and kidneys; and an increased risk of cancer.</item>
+    <item>Chronic exposure may damage the liver, kidneys, and endocrine and nervous systems.</item>
+    </list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Examples of Possible In-Home Health Hazards (See American Lung Association, 2023a, 2023b; CDC, 2022e; CDC, 2023; U.S. Consumer Product Safety Commission, n.d.; EPA, 2022a.)</caption>
+    </table>
+    <para id="para-00024">Due to the disproportionate impact of the home environment on children, it’s especially important for nurses to incorporate home environmental assessments when caring for the pediatric population. The <link url="https://openstax.org/r/hudgov">Pediatric Environmental Home Assessment</link> is an excellent tool for assessing the pediatric home environment, with a section for nursing observations. <link url="https://openstax.org/r/nchhorg">The National Center for Healthy Housing</link> provides numerous interventions and resources focused on safe and healthy housing for all, especially the millions of Americans living in substandard housing. The passage of the <term class="no-emphasis" id="term-00015">Inflation Reduction Act in 2023</term> included substantial funding to improve efficiency and resilience in affordable housing and significant funding for research, development, and implementation (Goodwin &amp; Jacobs, 2022).</para>
+     </section>
+    <section id="sect-00008">
+    <title>Community Assessment</title>
+    <para id="para-00025">Community health assessments provide information about the potential, and real, environmental risks faced by individuals living, working, or recreating in a particular community. The assessment should include environmental health risks using online tools to identify potential exposures and types and levels of pollution using <link url="https://openstax.org/r/enviroepa">Envirofacts</link>. While this data is critical, it is only part of the <term class="no-emphasis" id="term-00016">community assessment</term>. Nurses can conduct a windshield survey to visually identify potential environmental risks, such as the location of industries, hazardous waste, dumps, major thoroughfares, pests, the use of pesticides, air quality, and housing conditions (see <link document="m00183"><emphasis effect="bold">Creating a Healthy Community</emphasis></link> and <link document="m00374"><emphasis effect="bold">Appendix A</emphasis></link>). In addition to observing environmental risks, a windshield survey should note areas that promote health in the community, such as parks, open spaces, gardens, and outdoor recreational areas. The University of Maryland School of Nursing and Environmental Health Center has developed the following <link url="https://openstax.org/r/envirnorg">Environmental Health Community Assessment tool</link> focused on environmental health.</para>
+    <note class="case-reflection" id="note-00002">
+    <para id="para-00026">The following scenario continues to follow Mr. Harper from earlier in this chapter. Read the scenario, and then reflect on the questions that follow.</para>
+    <para id="para-00027">While assessing Mr. Harper’s home environment, Nurse Regis discovers that the house is adjacent to a mound of mining waste, raising concerns about the possible inhalation of particulate matter. Moreover, after hearing rumors that the community’s water supply might be contaminated, Mr. Harper now uses water hauled by his neighbor from a nearby stream. Mr. Harper points out the stream to Nurse Regis, who notes that rocks are tinged with red, a sign of acid mine drainage. Upon further assessment, Nurse Regis finds that Mr. Harper’s skin is reddened, dry, and itchy. When asked about the rash, Mr. Harper becomes irritable, stating he isn’t sure when the rash began and is more upset that he’s recently been having difficulty remembering things and easily becomes confused.</para>
+    <para id="para-00028">The nurse collaborates with a social worker from the county’s department of aging to arrange for an aide to assist Mr. Harper twice weekly, helping to keep his home dry and free of dust and bringing him a supply of bottled water to use until the community’s water is verified as safe.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00012">
+    <item>What further assessments should the nurse conduct given the suspicion of hazardous exposures?</item>
+    <item>How should the nurse address Mr. Harper’s exposure to heavy metals in his daily life?</item>
+    <item>As a public health nurse, what immediate actions would you take for Mr. Harper and his community? What resources would you use?</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Chapter Summary</title>
+    <para id="para-00029">The health of our environment is a crucial aspect of our overall well-being. With the increasing awareness of environmental pollution, it is essential to identify ways to measure pollutants in our environment.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>precautionary principle</term> <meaning>directs decision makers to be proactive in safeguarding the environment and public health rather than waiting for conclusive evidence of harm; shifts the burden of proof, or responsibility, to those advocating for a particular action, such as building a new power plant, to demonstrate that it will not cause harm to the environment or community</meaning></definition>
+    <definition id="def-00002"><term>toxicodynamics</term> <meaning>examines the impact of chemicals on the body and health</meaning></definition>
+    <definition id="def-00003"><term>toxicokinetics</term> <meaning>the study of how chemicals are absorbed, metabolized, and eliminated</meaning></definition>
+    </glossary>
 </document>

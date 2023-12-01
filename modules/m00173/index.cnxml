@@ -6,8 +6,162 @@
     <md:uuid>4c868d0d-33f8-4a1c-ba73-9c7e999c10c3</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Assess environmental hazards and threats to individuals, families, and populations.</item>
+    <item>Examine sources and types of environmental agents and how they affect health.</item>
+    <item>Discuss strategies to reduce environmental risks, exposures, and injury.</item>
+    <item>Explain why individuals, communities, and populations have a right to know about actual or potential environmental risks.</item>
+    </list>
+    <para id="para-00002">Exposure to hazards in the environment is a growing concern for individuals, families, and populations. <term id="term-00001">Environmental agents</term> are specific substances that can directly interact with, and potentially impact, the health of the environment and humans. Environmental agents can be categorized into biological, chemical, and physical. The sources of environmental agents are diverse, ranging from human activities to natural disasters and biological events. Environmental agents can create <term id="term-00002">environmental health hazards</term>, or conditions that have the potential to cause harm to the environment and humans. The impact of environmental hazards on health can be significant, with potential health outcomes ranging from minor symptoms to severe illnesses and even death. Therefore, it is essential to identify strategies to reduce environmental risks and exposure to injury. Communities and individuals can protect themselves by managing environmental hazards and maintaining safe food and water. Moreover, the right to know about actual or potential environmental risks is crucial for individuals, communities, and populations. This knowledge empowers them to take appropriate actions to protect themselves and their communities.</para>
     </section>
-  </content>
+    
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Environmental Hazards and Impact on Health</title>
+    <para id="para-00003">Environmental agents have the potential to create hazards by polluting the air we breathe, the water we drink, and the food we eat, affecting our quality of life and overall health. While some of these hazards, such as smoke emanating from stacks, are clearly visible, the majority are not. For example, small plastic fragments such <term class="no-emphasis" id="term-00003">as microplastics (MPs)</term> and <term class="no-emphasis" id="term-00004">nanoplastics (NPs)</term> are ubiquitous pollutants in water, air, and soil. NPs are more hazardous due to their extremely small size (&lt;1000 nm), which allows them to escape water treatment processes and float very long distances in both air and water, contaminating fresh water, oceans, air, and food (Yee et al., 2021). Furthermore, their size enables them to penetrate living tissues and cells more easily. These particles are generated for use in consumer products such as cosmetics, cleansers, and detergents (major sources) and through the degradation of plastics such as tires (Lai et al., 2022). Finally, small plastic contaminants can transport pollutants, microorganisms, and <term class="no-emphasis" id="term-00005">pathogens</term> on their surfaces, which can amplify their physiological and environmental effects (Trevisan et al., 2022). While understanding of the impact of small plastics on human health is only just beginning to emerge, toxicological studies have indicated that NPs can cross the blood-brain, intestinal, and placental barriers (Lai et al., 2022).</para>
+    <para id="para-00004">Human activities are the primary drivers of environmental agents, and societal and lifestyle choices including urbanization, economic activity, recreational pursuits, and food habits play a role. The presence of these agents, or toxins, in the air, water, and land can have deleterious effects on human health across the lifespan. <term id="term-00006">Teratogens</term> such as secondhand smoke and alcohol consumption during pregnancy can cause defects in a developing embryo. Alcohol, tobacco, asbestos, and radon are <term id="term-00007">carcinogens</term>, or cancer-causing toxins. <term id="term-00008">Mutagens</term> such as radioactive substances found in nuclear waste and radon alter a person’s DNA. The ingestion or handling of <term id="term-00009">neurotoxins</term> such as lead or mercury can lead to adverse effects on the nervous system. Finally, endocrine disruptors such as phthalates and bisphenol A (BPA) are found in many modern consumer products and can have a wide range of effects on the endocrine system, impacting human development and reproduction.</para>
+    <para id="para-00005"><term id="term-00010">Physical agents</term> include noise, temperature, vibrations, radiation, and lighting, which originate from different sources, including the <term id="term-00011">built environment</term> (human-made structures and surroundings) and industry. <term id="term-00012">Chemical agents</term> including heavy metals, pesticides, polychlorinated biphenyls (PCBs), chlorofluorocarbons (CFCs), endocrine-disrupting chemicals (EDCs), and sulfur dioxide (SO<sub>2</sub>) are used in agriculture, industry, and the burning of fossil fuels for transportation and electricity. <term id="term-00013">Biological agents</term> were the most significant environmental health hazard through much of human history and include molds, dust mites, cockroaches, pollen, bacteria, viruses, protozoa, parasitic worms, and pet dander, saliva, and waste.</para>
+    <section id="sect-00004">
+    <title>Air Pollution</title>
+    <para id="para-00006"><term class="no-emphasis" id="term-00014">Air pollution</term> is a serious environmental and public health issue that affects people of all ages and backgrounds but most especially the vulnerable, children, older adults, and those with respiratory disorders. Air pollution is caused by the release of harmful substances into the air, such as particulate matter, ozone, and nitrogen dioxide ([link]<emphasis effect="bold">Figure 14.3</emphasis>[/link]). These substances originate from a variety of sources such as factories, vehicles, and industrial plants. When these harmful substances are released, they mix with the air we breathe, potentially causing a range of health problems if inhaled. For example, <term class="no-emphasis" id="term-00015">particulate matter</term> (PM), a mixture of solid particles and liquid droplets, can penetrate the respiratory system, irritating the lungs and exacerbating health conditions such as asthma and bronchitis. Long-term exposure to particulate matter has been associated with an increased risk of cardiovascular diseases, respiratory illnesses, and even premature death. Ozone, a common pollutant formed when volatile organic compounds (VOC) and nitrogen oxides (NOx) react to sunlight, can inflame and damage the lining of the lungs, exacerbating respiratory symptoms. Studies have linked <term class="no-emphasis" id="term-00016">ozone</term> exposure to lower birth weights and decreased lung function in newborns, an increased risk of metabolic and cardiovascular disorders, and potentially lung cancer. Nitrogen dioxide (NO<sub>2</sub>), produced during fossil fuel combustion, can enter the bloodstream, leading to an inflammatory response such as neuroinflammation; research has linked exposure to NO<sub>2</sub> to an increased risk for neurodegenerative diseases such as Parkinson’s (Jo et al., 2021).</para>
+    <para id="para-00007">The <term class="no-emphasis" id="term-00017">Air Quality Index (AQI)</term> is a system used to communicate information to the public about air pollution levels and any associated health impacts in a specific location. The EPA sets an AQI for five primary air pollutants including ground-level ozone, particulate matter, carbon monoxide (CO), sulfur dioxide (SO<sub>2</sub>), and nitrogen dioxide (NO<sub>2</sub>). The AQI is divided into six categories, each of which corresponds to a different level of health concern. These categories are color-coded for easy understanding, ranging from Good (Green) for air quality that is satisfactory and poses little or no risk to health to Hazardous (Maroon), which indicates a health warning where the entire population may be affected (Air Now, 2023).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A factory with multiple smokestacks emits smoke into the air."><image mime-type="image/png" src="../../media/PH_Figure_14_02_003.jpg"/></media>
+    <caption>Factories and industrial plants are one source of air pollution because they release particulate matter, ozone, nitrogen dioxide, and other harmful substances into the air, which mix with the air people breathe and potentially cause a range of health problems if inhaled. (credit: “Cloud factory” by Libelul/Flickr, CC BY 2.0)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Water Pollution</title>
+    <para id="para-00008">Water, like air, is necessary for life and essential for human health. Water pollution is a serious issue that impacts the health and safety of water bodies, putting both human well-being and the environment at risk. Industrial waste, agricultural runoff, urbanization, sewage, and oil spills are some of the major contributors to water pollution. Factories release wastewater containing harmful chemicals and heavy metal into our waterways. Farms contribute to water pollution when fertilizers and pesticides wash into waterways, referred to as runoff. <term class="no-emphasis" id="term-00018">Agricultural runoff</term> can have a devastating impact on water quality and the creatures that live in our waterways. Excess nutrients from fertilizers can lead to harmful algal blooms, which choke the life out of aquatic ecosystems and create <term class="no-emphasis" id="term-00019">dead zones</term>. Pesticides and herbicides used to protect crops can be harmful to aquatic life. Prolonged exposure to pollutants like lead, arsenic, and mercury have potentially severe health implications, especially when they build up in the human body.</para>
+    <para id="para-00009">Lead, a toxic metal, poses a significant threat, even at low levels. Its persistence in the environment allows it to linger for extended periods. Rain from urban areas runs into storm drains, bringing pollutants from streets, parking lots, and roads into nearby streams and rivers. Oil spills can travel a significant distance, polluting a large area and devastating marine life. Drinking water can be a particular concern if contaminated with lead from sources such as lead pipes or plumbing fixtures; additionally, soil and groundwater contamination can also contribute to lead in drinking water. Lead exposure may lead to severe health problems, including developmental disabilities, learning disabilities, neurological damage, premature birth, low birth weight, seizures, and hearing loss (CDC, 2022d). Children are particularly vulnerable to the effects of <term class="no-emphasis" id="term-00020">lead poisoning</term>; even at low levels, lead exposure can have far-reaching consequences to their health. Recognizing the dangers posed by lead, the Environmental Protection Agency (EPA) established a maximum contaminant level goal (MCLG) of zero for lead in drinking water (EPA, 2023a), meaning that the EPA considers any level of lead in drinking water to be unsafe.</para>
+    <para id="para-00010"><term class="no-emphasis" id="term-00021">Perfluoroalkyl and polyfluoroalkyl substances (PFAS)</term>, also known as “forever chemicals,” are synthetic compounds characterized by a strong carbon-fluorine bond. This unique bond gives PFAS the ability to withstand heat and repel water and fats, leading to their extensive use in various manufacturing industries and consumer goods for more than 70 years (Wylie &amp; Malits, 2022). PFAS are found in nonstick cookware, stain-resistant fabrics, fast-food packaging, personal care products, and more. Due to their resistance to breakdown, PFAS persist in the environment, contaminating water, air, and soil. Furthermore, PFAS are not easily metabolized and can remain in the body for years or even decades (Wylie &amp; Malits, 2022). Due to the persistent nature of PFAS in the environment and their common routes of exposure through drinking and eating, nearly everyone has measurable levels of PFAS in their blood. Individuals working in occupations related to PFAS manufacturing and firefighters might experience higher exposure levels. Infants can also be exposed through transplacental transmission during pregnancy or through breast milk. PFAS exposure has been associated with various health effects, including obesity, elevated cholesterol, cancers, thyroid problems, colitis, learning difficulties, delayed puberty, and adverse pregnancy outcomes (Wylie &amp; Malits, 2022). For example, a study of more than 10,000 individuals showed that those with higher PFAS exposure had a 40 percent greater likelihood of developing preeclampsia than those with lower exposures (Braun, 2023). The EPA proposed national standards in March 2023 to address concerns about PFAS in public drinking water supplies. The proposed standards aim to limit concentrations of six PFAS compounds in drinking water (Braun, 2023).</para>
+    <para id="para-00011">Finally, water pollution also affects human health indirectly by degrading the ecosystem. Polluted water harms aquatic life, disrupts food chains, and causes declines in fish populations that communities depend on for sustenance and livelihoods. The impact of water pollution is wide-ranging and can profoundly affect human health as well as that of the environment.</para>
+    <note class="health-alert" id="note-00001">
+    <title>The Roots of Health Inequities</title>
+    <para id="para-00012">A recent report from the Government Accountability Office (GAO) examined the presence of PFAS in the drinking water systems of several states, including Illinois, Massachusetts, New Hampshire, New Jersey, Ohio, and Vermont. The overall findings indicated that out of the 5,300 water systems analyzed, approximately 29 percent of the population served by these systems had drinking water with PFAS levels that exceeded the safety standards set by the EPA (U. S. Government Accountability Office, 2022).</para>
+    <para id="para-00013">The authorities then investigated potential disparities related to PFAS contamination, focusing on large community water systems. The results showed that disadvantaged communities in New Jersey were more likely to have PFAS-contaminated drinking water compared to other communities (Suran, 2022).</para>
+    </note>
+    <note class="client-teaching" id="note-00002">
+    <title>Reducing PFAS Exposure</title>
+    <para id="para-00014">Nurses can educate clients on the following measures to reduce PFAS exposure:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Replace old, chipped, or damaged nonstick cookware. When using nonstick cookware, use a low to medium heat setting.</item>
+    <item>Limit intake of fast food, which often comes in PFAS-coated packaging.</item>
+    <item>When possible, use filters that remove PFAS from drinking water.</item>
+    <item>Vacuum frequently, especially for older carpeting.</item>
+    <item>Limit intake of microwave food such as popcorn and foods in microwavable packaging.</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00006">
+    <title>Land Pollution</title>
+    <para id="para-00015">Soil pollution is a serious problem with potentially devastating consequences for both the environment and human health. It occurs when harmful substances contaminate soil through industrial processes, agricultural practices, improper waste disposal, and the use of hazardous chemicals. Common soil pollutants include heavy metals such as lead, mercury, cadmium, and arsenic as well as pesticides, herbicides, industrial chemicals, and petroleum products. These substances can persist in the soil for an extended period, making the problem long-lasting and challenging to remediate. For instance, improper waste disposal is a significant contributor to land pollution. When non-biodegradable waste materials like plastics are deposited in landfills or open areas without proper management, they can release toxic chemicals and contaminants into the soil. Industrial activities are another major cause of land pollution. Factories and manufacturing plants often release hazardous substances directly into the soil or air. Agricultural practices, while essential for food production, can also contribute to soil pollution. Chemical fertilizers, pesticides, and herbicides can accumulate in the soil, negatively impacting soil fertility and potentially seeping into water sources. Urbanization and construction projects further exacerbate land pollution. The clearing of land for buildings, roads, and infrastructure can cause soil erosion, deforestation, and habitat loss, disrupting the ecosystem’s equilibrium. The consequences of land pollution are extensive. <term class="no-emphasis" id="term-00022">Contaminated soil</term> can negatively affect plant growth, reduce agricultural yields, and harm wildlife, leading to a decline in biodiversity. For humans, polluted soil poses significant health risks in several ways. Crops grown in polluted soil can absorb toxins, contaminating food and potentially impacting health. Contaminated soil may release harmful substances such as particulate matter into the air or nearby water bodies, further spreading pollution and significantly impacting air quality and water safety.</para>
+    <para id="para-00016">Due to the dangers posed by contamination, the EPA administers programs to identify, evaluate, and potentially redevelop polluted sites. The <term class="no-emphasis" id="term-00023">Superfund</term> program is a federal government initiative overseen and managed by the EPA. Superfund sites are locations where substantial hazardous substances have been released into the environment, posing risks to human health and the ecosystem. These sites are regulated by the <term class="no-emphasis" id="term-00024">Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA)</term>, commonly known as Superfund (EPA, 2023o), which provides the legal framework for the cleanup and remediation. The program aims to identify, prioritize, and assess sites as well as facilitate decontamination, often a multiphase process involving federal and state agencies, responsible parties, and the affected community. You can search for superfund sites in your community and elsewhere <link url="https://openstax.org/r/epagov">here</link>. The EPA also administers a Brownfields program (EPA, 2023l). <term class="no-emphasis" id="term-00025">Brownfields</term> are properties that are, or are suspected to be, contaminated by industrial or commercial activity. Caused by pollution from former businesses such as factories, gas stations, dry cleaners, landfills, and manufacturing facilities, brownfields may have hazardous agents in the soil, groundwater, or structures, posing a risk to both environmental and human health. Unlike Superfund sites, brownfields may not contain severe levels of contamination requiring immediate federal intervention but instead have potential for redevelopment or revitalization. The EPA estimates that there are approximately 450,000 brownfields sites in the United States.</para>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Strategies to Reduce Risk</title>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00026">Right to Know principle</term> supports access to information held by public organizations and is based on the idea that transparency, openness, and accountability are critical to a healthy society and the protection of human rights. In 1986, the <term class="no-emphasis" id="term-00027">Emergency Planning and Community Right-to-Know Act (EPCRA)</term> was passed to address concerns about the safety and environmental hazards associated with the storage and handling of toxic chemicals. Concerns were sparked by the 1984 Bhopal disaster, in which an extremely toxic pesticide, methylisocyanate, leaked in the middle of the night into the city of Bhopal, India, killing and severely injuring thousands (Chatterjee, 2023). To reduce the likelihood of such a disaster in the United States, Congress imposed certain requirements for emergency planning and reporting of hazards and toxins. The provisions of the Community Right-to-Know initiative serve to enhance the public’s awareness of, and access to, information on the presence, application, and release of chemicals at certain facilities. In 2018, the reporting requirements of EPCRA were revised by the <term class="no-emphasis" id="term-00028">America’s Water Infrastructure Act (AWIA)</term> to provide for notification of state agencies with data on reportable releases of chemicals into water sources (EPA, 2023a).</para>
+    <para id="para-00018">Reducing the risk of land, air, and water pollution begins with reducing hazardous agents and requires serious commitment on the part of individuals, businesses, communities, regulatory agencies, and governing bodies. Some general strategies include the following:</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Regulation and monitoring to ensure safety and compliance</item>
+    <item>Legislation and enforcement to hold polluters accountable</item>
+    <item>Incentives for businesses, communities, and individuals to adopt environmentally friendly practices</item>
+    <item>Conversion to renewable sources of energy</item>
+    <item>Investment in research and development of innovative technologies</item>
+    <item>Raising awareness about the effects of the environmental hazards on health</item>
+    <item>Reduce, reuse, recycle!</item>
+    </list>
+    <para id="para-00019">[link]Table 14.1[/link] presents community-level strategies to reduce the risk of land, air, and water pollution.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Type of Pollution</emphasis></span></entry>
+    <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Strategies to Reduce Risk</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Soil and land</entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00004">
+    <item>Proper waste management, including the safe disposal of hazardous materials</item>
+    <item>Contaminated site remediation and brownfield redevelopment, which may include chemical treatment and soil excavation</item>
+    <item>Sustainable agriculture and land use, including the adoption of farming practices that reduce reliance on harmful pesticides and fertilizers</item>
+    <item>Promoting green technologies such as bioremediation, which uses living organisms such as bacteria and fungi to naturally break down pollutants, or the use of green roofs</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Air</entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00005">
+    <item>Policies that promote cleaner and renewable sources of energy, such as solar power</item>
+    <item>Regulation and reduction of emissions by industries, vehicles, and power plants</item>
+    <item>Updated, reliable systems of public transportation</item>
+    <item>Improved infrastructure for walking and cycling to reduce vehicle use</item>
+    <item>Air quality monitoring and alerts for unhealthy air</item>
+    <item>Reforestation and the development of urban green spaces to absorb pollutants and improve air quality</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Water</entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00006">
+    <item>Protection of water sources from contamination through appropriate land use and water quality monitoring</item>
+    <item>Wastewater treatment and management, including upgraded facilities to ensure effective removal of hazardous agents</item>
+    <item>Stormwater management through retention ponds, rain gardens, and permeable pavement</item>
+    <item>Educate the community about proper disposal of hazardous materials that can enter the waterways, such as chemicals and medications</item>
+    </list>
+  </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Community-Level Strategies to Mitigate Soil, Air, and Water Pollution</caption>
+    </table>
+    <note class="client-teaching" id="note-00003">
+    <title>Strategies for Reducing Risk and Improving Environmental Health</title>
+    <para id="para-00020">While the strategies in [link]<emphasis effect="bold">Table 14.1</emphasis>[/link] are effective at the community level, individuals also play an important role in protecting the environment and their health. However, they are often unsure of what they can do to reduce their footprint and live more healthfully in the environment. Nurses can provide clients with the following individual strategies to reduce risk and improve environmental health:</para>
+    <list list-type="bulleted" id="list-00007">
+    <item>Compost organic matter to reduce improve soil quality and health</item>
+    <item>Dispose of waste, including hazardous materials, medications, and electronics, according to local regulations</item>
+    <item>Minimize the use of pesticides, herbicides, and fertilizers</item>
+    <item>Purchase food from reputable sources and consider, if possible, organic options</item>
+    <item>Support local cleanup and outreach efforts</item>
+    <item>Limit use of plastics, especially those that are single use</item>
+    <item>Ensure drinking water is from a safe and reliable source</item>
+    <item>Avoid swimming or using water that appears polluted or is known to be polluted</item>
+    <item>Avoid outdoor activities when air quality is poor</item>
+    <item>Use rainwater harvesting, the collection of rainwater to reuse for non-drinking purposes</item>
+    <item>Use public transportation, walk, or bicycle</item>
+    <item>Reduce contaminants in the home through regular cleaning and maintenance</item>
+    <item>Ensure the home is properly ventilated and reduce indoor pollutants such as tobacco smoke</item>
+    <item>Use energy-efficient appliances when available</item>
+    <item>Maintain personal vehicles to regulatory standards</item>
+    <item>Advocate for policies that invest in, develop, and support green practices</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Chapter Summary</title>
+    <para id="para-00021">Environmental hazards and exposure are a growing concern, with factors like temperature and pollution impacting health in individuals and populations. Accurate information and risk management models are crucial for understanding and addressing environmental risks and empowering individuals and communities to take action. Environmental hazards originate from various sources, including industrial emissions and human activities, and can have adverse effects on human and animal health.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>biological agents</term> <meaning>significant environmental health hazards that include molds, dust mites, cockroaches, pollen, bacteria, viruses, protozoa, parasitic worms, and pet dander, saliva, and waste</meaning></definition>
+    <definition id="def-00002"><term>built environment</term> <meaning>the human-made surroundings where people live, work, and engage in recreation, including buildings, infrastructure, transportation systems, parks, and all other physical elements created by human design and construction</meaning></definition>
+    <definition id="def-00003"><term>carcinogens</term> <meaning>cancer-causing agents</meaning></definition>
+    <definition id="def-00004"><term>chemical agents</term> <meaning>chemicals like heavy metals, pesticides, polychlorinated biphenyls (PCBs), chlorofluorocarbons (CFCs), endocrine-disrupting chemicals (EDCs), and sulfur dioxide (SO<sub>2</sub>) used in agriculture, industry, and the burning of fossil fuels for transportation and electricity</meaning></definition>
+    <definition id="def-00005"><term>environmental agents</term> <meaning>substances or elements present in the environment that can impact human health; can include infectious organisms, chemicals, radiation, noise, and diet</meaning></definition>
+    <definition id="def-00006"><term>environmental health hazards</term> <meaning>conditions or factors in the environment that pose a risk to human health; can be categorized into biological, chemical, and physical agents</meaning></definition>
+    <definition id="def-00007"><term>mutagens</term> <meaning>radioactive substances found in nuclear waste and radon that alter a person’s DNA</meaning></definition>
+    <definition id="def-00008"><term>neurotoxins</term> <meaning>substances that can lead to adverse effects on the nervous system</meaning></definition>
+    <definition id="def-00009"><term>physical agents</term> <meaning>environmental conditions such as noise, temperature, vibrations, and lighting that can have an adverse impact on the quality of the environment and affect work performance</meaning></definition>
+    <definition id="def-00010"><term>teratogens</term> <meaning>substances that can cause defects in a developing embryo</meaning></definition>
+    </glossary>
 </document>
