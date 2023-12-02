@@ -1,13 +1,309 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Creating an Atmosphere of Trust and Mutual Respect</title>
+  <title>Managing Conflict</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Creating an Atmosphere of Trust and Mutual Respect</md:title>
     <md:content-id>m00227</md:content-id>
     <md:uuid>46fede36-36af-4d2c-ac0f-efcb83dadbbc</md:uuid>
   </metadata>
-  <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
+<content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Recognize the many forms that biases and stereotypes can take.</item>
+<item>Analyze factors contributing to conflicts arising from differences in values, beliefs, communication styles, and expectations.</item>
+<item>Apply strategies and methodologies to effectively confront biases resulting from one’s cultural and social identity.</item>
+<item>Differentiate between emotional intelligence (EI) and cultural intelligence (CQ).</item>
+<item>Explain how emotional intelligence (EI) and cultural intelligence (CQ) contribute to conflict resolution in diverse health care environments.</item>
+<item>Describe the effects of power imbalances on nurse-client relationships in health care while distinguishing between different power dynamics.</item>
+<item>Identify client-centered strategies to mitigate power imbalances and promote equitable and client-centered care.</item>
+<item>Apply mindful practices to enhance cultural competence in health care interactions.</item>
+</list>
+</section>
+<para id="para-00002">In nursing practice, cultural diversity can sometimes cause conflict between health care providers and clients who come from different cultural backgrounds. This is often due to differences in values, beliefs, communication styles, and expectations. Such conflicts can have a negative impact on client care and communication, as well as overall health care outcomes. Effective communication, empathy, cultural understanding, and a commitment to respectful resolution are necessary to manage conflicts that arise from cultural diversity. It is essential to address both conscious and unconscious biases, which can help to reduce stereotypes and assumptions. By continuously striving to be culturally responsive, health care providers can achieve better client outcomes, higher levels of client satisfaction, and improved overall health care quality.</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Confronting Biases</title>
+<para id="para-00003">As discussed in <link document="m00213"><emphasis effect="bold">Culturally and Linguistically Responsive Nursing Care</emphasis></link>, implicit biases can lead individuals to unknowingly treat people from certain groups differently based on their race, gender, sexual orientation, or other characteristics. <term class="no-emphasis" id="term-00001">Implicit biases</term> can affect health care outcomes, resulting in disparities in treatment and client experiences (Belton et al., 2018). Providers’ implicit biases may also play a role in causing racial health disparities (FitzGerald et al., 2017), and clinical decision making can be influenced by these biases (Hoffman et al., 2016).</para>
+<para id="para-00004">Health care professionals, including nurses, have demonstrated unconscious biases towards clients based on irrelevant characteristics such as weight, mental health, clients with AIDS, clients with brain injuries who may have contributed to their injury, clients who are intravenous drug users, and clients with disabilities, in addition to race, ethnicity, gender, socioeconomic status, and age. These biases can affect the care provided to these individuals and contribute to health disparities (FitzGerald et al., 2017). Unconscious processes may affect judgments, negatively impacting the nurse-client relationship and compromising client care (Greenwald et al., 2022). [link]<emphasis effect="bold">Table 25.4</emphasis>[/link] presents examples of common forms of bias that may be either implicit or explicit.</para>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Type of Bias</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Implications in Health Care</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Gender</entry>
+<entry valign="top" align="left">The differential treatment, attitudes, and expectations towards individuals based on their gender, leading to unequal opportunities and outcomes</entry>
+<entry valign="top" align="left">Can manifest in various ways, affecting client care, medical research, and career opportunities for health care professionals (Piercy &amp; Fletcher, 2020). For example, studies have shown that women are often undertreated for their pain, wait longer to receive a diagnosis or treatment and are less likely to be the subjects of research studies. Gender bias also affects women’s reproductive health, and the stigma associated with sexual assault may lead women to avoid seeking care following an attack (Concern Worldwide US, 2022).</entry>
+</row>
+<row>
+<entry valign="top" align="left">Age (Ageism)</entry>
+<entry valign="top" align="left">Discrimination or stereotyping of individuals based on age, either old or young</entry>
+<entry valign="top" align="left">Older individuals may face challenges accessing appropriate health care due to age-related stereotypes and assumptions. Health care providers might attribute specific symptoms to aging rather than considering underlying medical conditions, leading to delayed diagnoses, inadequate care, and a lack of attention to the unique health care needs of older clients (Levy et al., 2020).</entry>
+</row>
+<row>
+<entry valign="top" align="left">Weight</entry>
+<entry valign="top" align="left">Involves negative attitudes and stereotypes towards individuals based on their weight or size</entry>
+<entry valign="top" align="left">Health care providers may hold prejudiced beliefs about clients with obesity, leading to substandard care, misdiagnoses, or <term class="no-emphasis" id="term-00002">stigmatization</term>. Clients with obesity may receive incomplete assessments, and their health concerns may be attributed solely to their weight rather than addressing underlying medical issues (Puhl et al., 2020).</entry>
+</row>
+<row>
+<entry valign="top" align="left">Socioeconomic</entry>
+<entry valign="top" align="left">Differential treatment based on an individual’s economic status or social classClients from lower socioeconomic backgrounds may face <term class="no-emphasis" id="term-00003">barriers</term> to accessing health care services and may receive less personalized care than those with higher socioeconomic status. <term class="no-emphasis" id="term-00004">Socioeconomic bias</term> can also result in disparities in health care quality and health outcomes (Hohl et al., 2020).DisabilityPrejudices and discrimination against individuals with disabilitiesHealth care providers and settings may not fully accommodate the needs of clients with disabilities, leading to disparities in health care access and outcomes, resulting in inadequate communication, inaccessible facilities, and a lack of consideration for the specific challenges this population faces in seeking and receiving health care services (McMahon et al., 2020). Sexual orientation, also known as LGBTQ+ (lesbian, gay, bisexual, transgender, and queer/questioning) biasDiscrimination or prejudices against individuals based on their sexual orientation or gender identity.</entry>
+<entry valign="top" align="left">This bias can affect access to health care services, health insurance, quality of care, and nurse-provider communication for <term class="no-emphasis" id="term-00005">LGBTQ+</term> individuals (National LGBTQIA+ Health Education Center, 2020; MAP, 2023a). Bias also includes heteronormative assumptions that clients are cisgender or heterosexual.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Common Forms of Bias with Examples</caption>
+</table>
+<para id="para-00005">Addressing biases is a critical aspect of providing client-centered care for nurses. Negative impacts such as unequal treatment, misdiagnosis, and reduced client trust can be avoided by addressing biases. Nurses can achieve this by increasing their self-awareness, being culturally responsive, and adopting humility through education. By doing so, they can provide equitable care that respects clients’ diverse backgrounds and needs (Gallagher et al., 2021).</para>
+<note class="media-feature" id="note-00001">
+<title>Becoming Self-Aware of Unconscious Bias</title>
+<para id="para-00006">As described in <link document="m00213"><emphasis effect="bold">Culturally and Linguistically Responsive Nursing Care</emphasis></link>, the Implicit Association Test (IAT) can help the nurse become more self-aware and reflect on any implicit biases they may have related to gender, race, age, or other social categories.</para>
+<para id="para-00007">Select an <link url="https://openstax.org/r/implicit">Implicit Association Test</link> (IAT) from a list of possible topics. Complete the assessment. Reflect on the findings and the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00002">
+<item>Are there any discrepancies between your explicit beliefs and the implicit biases indicated by the test?</item>
+<item>What actions could you take to address biases?</item>
+</list></note>
+<para id="para-00008">Maintaining a balance between personal and professional obligations is crucial for nurses to avoid client misunderstandings. Self-awareness plays a vital role in reducing biases. Having cultural sensitivity is important in reducing biases and promoting inclusivity. As a nurse, it is important to appreciate diversity in all forms and recognize that cultural differences enrich society and provide opportunities for learning and growth. Respectfully celebrating cultural practices, holidays, and traditions without appropriating or trivializing them is essential to fostering inclusivity, mutual respect, and understanding among diverse cultural groups.</para>
+<para id="para-00009">To recognize and mitigate the impact of implicit biases, nurses must make a conscious effort to challenge them. Nurses must redirect their responses and counteract implicit biases when dealing with individual interactions. Recognizing one’s implicit biases requires self-reflection, observation, and a willingness to confront and examine one’s thoughts and beliefs. Nurses can prevent conflicts, promote effective communication, and prioritize client well-being by addressing personal biases.</para>
+<para id="para-00010">Strategies to mitigate unconscious biases typically include training programs that increase awareness of personal beliefs, implicit attitudes, and stereotypes (Schmader et al., 2022). Identifying contexts that may lead to bias expression and creating plans to regulate behavior actively is also essential. Similarly, interventions to reduce unintentional biases involve effectively training individuals to regulate their beliefs, implicit attitudes, and stereotypes. Examples of strategies to reduce biases are presented in [link]<emphasis effect="bold">Table 25.5</emphasis>[/link].</para>
+<table class="vertically-tight alternate-shading" id="table-00002">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Strategy</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left"><term id="term-00006">Stereotype replacement</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00003">
+<item>Consciously challenging and replacing stereotypical beliefs and assumptions with more accurate and nuanced understandings.</item>
+<item>Actively recognizing and questioning stereotypes and replacing them with diverse, individualized perceptions.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00007">Counter-stereotypic imaging</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00004">
+<item>Deliberately representing individuals or groups in a way that challenges or counters traditional stereotypes associated with them.</item>
+<item>This action helps the nurse to break away from stereotypical portrayals, challenge biases, promote inclusivity, and encourage more accurate perceptions.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00008">Evaluative conditioning</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00005">
+<item>Repeatedly pairing a target stimulus (the one for which the attitude change is desired) with positive or negative stimuli to influence or modify attitudes or evaluations toward the target stimulus.</item>
+<item>Repeated pairing links emotional response to target stimulus with associated stimulus. Evaluative conditioning creates positive associations to combat negative biases and stereotypes.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00009">Individuation</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00006">
+<item>Seeing individuals as unique and distinct rather than as part of a broad category or stereotype.</item>
+<item>This action helps nurses recognize and appreciate people’s individuality, complexity, and diversity and can help replace biases and promote a more accurate understanding of others.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left"><term id="term-00010">Perspective taking</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00007">
+<item>Empathizing with others by putting oneself in their shoes and comprehending their thoughts, emotions, and experiences</item>
+<item>Helps minimize biases, develop empathy, and foster mutual understanding.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Identifying self with the outgroup</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00008">
+<item>Participating in tasks that lessen barriers between oneself and others.</item>
+<item>Finding commonalities and shared identities with people from different social or cultural backgrounds can reduce biases and promote empathy, understanding, and a greater sense of connectedness.</item></list></entry>
+<entry valign="top" align="left"><term id="term-00011">Cultural immersion and engagement</term></entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00009">
+<item>Proactively engaging with people from diverse racial, ethnic, gender, and sexual orientation groups through various means, such as attending cultural events and celebrations, traveling to a different country, living in a culturally diverse community, participating in cultural events, or forming meaningful relationships with individuals from that culture.</item>
+<item>Deepens one’s understanding of a culture beyond surface interactions.</item></list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Strategies to Mitigate Biases (Source: Devine et al., 2012; FitzGerald et al., 2019.)</caption>
+</table>
+<note class="media-feature" id="note-00002">
+<title>How to Deal with Unconscious Bias</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/deal"/>
+</media>
+<para id="para-00011">This video explores strategies to change unconscious biases. Watch the video and then consider the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00010">
+<item>What are two steps in addressing unconscious bias?</item>
+<item>What is one action you can take to address an unconscious bias?</item>
+<item>Why must nurses develop an awareness of their unconscious biases and actively work to change them?</item>
+</list>
+</note>
+<para id="para-00012">Recalling the earlier scenario, Sarah, a home health nurse, receives an assignment to conduct a home visit for a new client, Mr. Ramirez, who recently relocated to the community from a Latin American country. As Sarah arrives at Mr. Ramirez’s residence, she observes the cultural differences in the neighborhood and senses a subtle discomfort within herself. Unbeknownst to her, this discomfort is driven by implicit biases that influence her perceptions and attitudes. During the visit, Sarah unintentionally makes assumptions about Mr. Ramirez’s health practices, family dynamics, and overall lifestyle based on her own cultural background and preconceived notions. These biases may manifest subtly, such as nonverbal cues or unintentional microaggressions, impacting the quality of care and communication (see [link]<emphasis effect="bold">Box 25.2</emphasis>[/link]).</para>
+<note class="boxed-feature" id="note-00003">
+<para id="para-00013">Later, Sarah reflects on her interactions with Mr. Ramirez and becomes aware of the implicit biases that may have influenced her perceptions. Recognizing the importance of addressing these biases to provide culturally congruent care, she undergoes training and education to increase her cultural awareness. Sarah also seeks guidance from her supervisor on strategies to overcome implicit biases, ensuring that she can deliver compassionate and unbiased care to Mr. Ramirez and other diverse clients in the future. <emphasis effect="italics">Self-awareness and reflection</emphasis>:</para>
+<list list-type="bulleted" id="list-00011">
+<item>Sarah acknowledges her initial reaction to her client’s neighborhood and reflects on her biases and assumptions.</item>
+<item>She recognizes that her biases can influence her interactions and decisions and commits to addressing them.</item>
+</list>
+<para id="para-00014"><emphasis effect="italics">Cultural sensitivity</emphasis>:</para>
+<list list-type="bulleted" id="list-00012">
+<item>Sarah engages in ongoing education and training to enhance her cultural responsiveness and sensitivity.</item>
+<item>She seeks to understand the experiences, values, and beliefs of the diverse population she serves. This includes learning about the cultural practices, health care beliefs, and community resources relevant to the Latin American community.</item>
+</list>
+<para id="para-00015"><emphasis effect="italics">Building rapport and trust</emphasis>:</para>
+<list list-type="bulleted" id="list-00013">
+<item>Sarah focuses on building rapport and trust with Mr. Ramirez and other community members.</item>
+<item>She recognizes that establishing a respectful and trusting relationship is essential for effective communication and engagement. She actively listens to their concerns, values their perspectives, and involves them in their health care decisions.</item>
+</list>
+<para id="para-00016"><emphasis effect="italics">Challenging stereotypes and assumptions</emphasis>:</para>
+<list list-type="bulleted" id="list-00014">
+<item>Sarah consciously challenges stereotypes and assumptions she may have about individuals from different cultures or backgrounds. She reminds herself that each person is unique, with their own strengths, challenges, and aspirations.</item>
+<item>She avoids making assumptions based on external factors, such as neighborhood appearance or socioeconomic status.</item>
+</list>
+<para id="para-00017"><emphasis effect="italics">Seeking diverse perspectives</emphasis>:</para>
+<list list-type="bulleted" id="list-00015">
+<item>Sarah actively seeks opportunities to engage with members of the Latin American community and learn from their experiences.</item>
+<item>She attends community events, participates in cultural celebrations, and seeks input from community leaders to better understand their needs, values, and concerns.</item>
+</list>
+<para id="para-00018"><emphasis effect="italics">Reflective practice and continuous learning</emphasis>:</para>
+<list list-type="bulleted" id="list-00016">
+<item>Sarah regularly reflects on her experiences and interactions with the community to identify any moments where implicit biases may have influenced her actions or decisions.</item>
+<item>She self-reflects, accepts feedback, and commits to continuous learning and improvement.</item>
+</list>
+<para id="para-00019">Sarah’s Steps to Reduce the Impact of Her Implicit Biases</para>
+</note>
+<para id="para-00020"><emphasis effect="bold">Box 25.2</emphasis> Sarah’s commitment to providing equitable and culturally sensitive care to the community is evident through her actions. She acknowledges the potential impact of her implicit biases on health care delivery and consciously tries to overcome them. Sarah prioritizes self-awareness, cultural competence, collaboration, and reflection to provide unbiased care that respects her client’s needs and values.</para>
+</section>
+<section id="sect-00004">
+<title>Emotional and Cultural Intelligence</title>
+<para id="para-00021">Emotional and cultural intelligence are essential in managing cultural conflicts in nursing practice. Understanding emotional intelligence (EI) and cultural intelligence (CQ) is crucial for effectively navigating interactions and relationships, particularly in diverse and multicultural environments. Although they have some similarities, they are separate concepts that deal with different aspects of human behavior and interpersonal abilities.</para>
+<para id="para-00022"><term id="term-00012">Emotional intelligence (EI)</term> refers to the ability to recognize, understand, and manage one’s emotions and the emotions of others effectively. Daniel Goleman coined the term in his 1995 book <emphasis effect="italics">Emotional Intelligence: Why It Can Matter More Than IQ</emphasis>, where he introduced EI’s significance in personal and professional success. Goleman argues that traditional measures of intelligence, such as IQ (intelligence quotient), do not fully predict a person’s success in life. EI involves several key components (Goleman, 1995):</para>
+<list list-type="bulleted" id="list-00017">
+<item><term id="term-00013">Self-awareness</term>: The ability to recognize and understand one’s emotions, strengths, weaknesses, and values</item>
+<item><term id="term-00014">Self-management</term>: The capacity to manage and regulate one’s emotions, impulses, and behaviors in various situations</item>
+<item><term id="term-00015">Motivation</term>: Harnessing emotions to drive and sustain motivation, set, and achieve goals</item>
+<item><term id="term-00016">Empathy</term>: The capability to understand and share the feelings and perspectives of others, demonstrating sensitivity and compassion</item>
+<item><term id="term-00017">Social skills</term>: Proficiency in building and maintaining positive relationships, effective communication, conflict resolution, and teamwork</item>
+</list>
+<note class="media-feature" id="note-00004">
+<title>Emotional Intelligence (EI) Test</title>
+<para id="para-00023">This Emotional Intelligence Test from the Global Leadership Foundation consists of 40 questions derived from the Global <emphasis effect="italics">EI Capability Assessment</emphasis> instrument and is based on Goleman’s four-quadrant Emotional Intelligence Competency Model (2002). You may use your test results as a guide to assess areas where you are doing well and others you may need to develop further. The test generally takes 10 minutes.</para>
+<list list-type="enumerated" number-style="arabic" id="list-00018">
+<item>Take the <link url="https://openstax.org/r/eitest">Emotional Intelligence Test</link>.</item>
+<item>At the end of the test, click on the Score Test button and wait for the computer to generate an EI profile of your scores.</item>
+<item>Reflect on the capability level within each of the EI quadrants.</item>
+<item>Discuss how EI can contribute positively to promoting cultural humility.</item>
+</list>
+</note>
+<para id="para-00024">Emotional intelligence (EI) is necessary to personal and social well-being. It aids individuals in managing stress, navigating social interactions, and making sound decisions. In various fields, such as leadership, management, and health care, emotional intelligence is vital in establishing solid relationships, motivating others, and resolving conflicts.</para>
+<para id="para-00025">Developing <term id="term-00018">cultural intelligence</term> is another means for addressing cultural conflicts in nursing practice. In their book <emphasis effect="italics">Cultural Intelligence: Individual Interactions Across Cultures</emphasis>, Earley and Ang (2003) define cultural intelligence as the ability to adapt and interact effectively with people from different cultural backgrounds. It involves having knowledge, awareness, and skills related to cultural diversity. The components of cultural intelligence include:</para>
+<list list-type="bulleted" id="list-00019">
+<item><term id="term-00019">Cultural Knowledge</term>: The understanding of cultural norms, values, beliefs, and practices of different cultural groups</item>
+<item><term id="term-00020">Cultural Understanding</term>: The recognition and appreciation of cultural differences and similarities without judgment or bias</item>
+<item><term id="term-00021">Cultural Skills</term>: The possession of interpersonal and communication skills to effectively interact and communicate across cultures</item>
+<item><term id="term-00022">Cultural Adaptability</term>: The willingness and ability to adjust one’s behaviors, attitudes, and beliefs to fit into different cultural contexts</item>
+</list>
+<para id="para-00026">Cultural intelligence enables individuals to navigate diverse settings, foster inclusive relationships, and avoid misunderstandings or conflicts stemming from cultural differences. As health care professionals, nurses must regularly reflect on their emotional and cultural intelligence to identify their strengths and areas for growth in providing culturally competent care.</para>
+<para id="para-00027">To assess their emotional and cultural intelligence, nurses can use the following techniques:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00020">
+<item>Consider taking an emotional intelligence assessment to identify personal strengths and areas for growth in this area.</item>
+<item>Reflect on one’s emotional reactions in various social situations, including the workplace, mainly when dealing with colleagues and clients. Analyze how one’s emotions may impact decision making and interactions with others.</item>
+<item>Seek feedback to gain insight into how one is perceived regarding emotional and cultural intelligence. This can help nurses identify their <term id="term-00023">blind spots</term>, or unconscious or implicit biases they are unaware of (Banaji et al., 2016). Blind spots can influence a person’s perceptions, judgments, and decision making without their conscious knowledge or intention. They are often formed and reinforced by societal norms, cultural influences, personal experiences, and media portrayals.</item>
+<item>Observe interactions with others to identify how one responds to situations that involve cultural differences. Consider how one’s interactions may reflect your level of cultural intelligence.</item>
+<item>Engage in continuous education to improve emotional and cultural intelligence. This can include reading books or articles, attending cultural competency workshops, or seeking mentorship from colleagues skilled in providing culturally responsive care.</item>
+<item>Use self-reflection to identify personal cultural biases and beliefs. Then, consider how one’s cultural background may influence interactions with clients and colleagues from different cultural backgrounds.</item>
+</list>
+<para id="para-00028">Having emotional and cultural intelligence is highly beneficial as it allows for empathy and comprehension and promotes effective communication when interacting with people from cultures that are different from one’s own. These skills enable the nurse to foster inclusive and harmonious interactions in personal and professional settings. Emotional intelligence equips nurses to manage conflicts constructively, while cultural intelligence enhances their capacity to navigate disputes arising from cultural differences. Integrating these two forms of intelligence enables the nurse to manage misunderstandings, bridge cultural gaps, and establish positive relationships across cultures. Conflict resolution and relationship building are essential to cultural competency, as they foster collaboration, trust, and mutual respect in culturally diverse environments.</para>
+</section>
+<section id="sect-00005">
+<title>Addressing Power Imbalances</title>
+<para id="para-00029">In nursing, <term id="term-00024">power imbalances</term> can create conflicts and hinder effective communication between health care providers and between providers and clients. Imbalances can arise in the nurse-client relationship due to differing roles, knowledge, and authority (Foronda, 2019; Foronda et al., 2016). For example, nurses may perceive themselves as having more power than their clients due to their professional knowledge and authority, while clients often feel a sense of vulnerability and dependence on the health care system (Karim, 2022). Addressing these imbalances is essential for promoting client autonomy and improving outcomes.</para>
+<para id="para-00030">In health care organizations, nurses hold varying levels of authority and responsibility compared to clients. This hierarchical structure can impact communication patterns and make clients feel subordinate. Nurses often have decision-making authority in health care settings, which can limit client autonomy and control over their own health care decisions. How power is distributed affects how nurses and clients communicate and make decisions. For example, clients may feel uncomfortable sharing their concerns or preferences because they worry about upsetting or questioning the nurse’s authority. Meanwhile, nurses may find it challenging to balance empowering clients and maintaining control over the care process (Karim, 2022). When power is used in an authoritarian manner, clients may feel disempowered and less trusting of the health care system (Karim, 2022). Cultural context can also play a role in shaping power dynamics within nurse-client interactions. In some cultures, clients may defer to the authority of health care professionals, leading to a more pronounced <term class="no-emphasis" id="term-00025">power imbalance</term> (Karim, 2022).</para>
+<para id="para-00031">To provide client-centered care, nurses should engage clients in shared decision making, honor their preferences and values, and offer the information they need to make informed choices about their care ([link]<emphasis effect="bold">Figure 25.6</emphasis>[/link]). When nurses advocate for client involvement in decision making and respect their autonomy, it increases client trust and satisfaction (Ringdal et al., 2017). Advocacy and autonomy are principles in the <term class="no-emphasis" id="term-00026">Nursing Code of Ethics</term> (ANA, 2015). <term class="no-emphasis" id="term-00027">Advocacy</term> ensures that clients’ voices are heard, their rights are respected, and their needs are met. <term class="no-emphasis" id="term-00028">Autonomy</term> empowers clients to actively participate in their health care decisions, giving them a sense of ownership and control over their well-being. These principles are the foundation of <term class="no-emphasis" id="term-00029">client-centered care</term> and ethical nursing practice.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="A nurse dressed in scrubs speaks with a client who lays listening in a hospital bed."><image mime-type="image/jpg" src="../../media/PH_Figure_25_03_006.jpg"/></media>
+<caption>To provide client-centered care, nurses should engage clients in shared decision making, respect their preferences and values, and provide them with the information they need to make informed choices about their care. (credit: “A Navy nurse speaks to a woman about medications aboard USNS Comfort (T-AH 20)” by Morgan K. Nall/Official U.S. Navy Page/Flickr, CC BY 2.0)</caption></figure>
+<para id="para-00032">To create a safe and respectful environment, nurses should promote open and respectful communication, actively listen to clients, and encourage them to voice their concerns and preferences without fear of judgment or retribution. To empower clients and promote participation in their care, nurses should strive to create a trusting and supportive environment where clients feel comfortable expressing their needs and preferences (Ringdal et al., 2017). Addressing power imbalances requires nurses to adopt a client-centered approach, promoting partnership and collaboration rather than paternalistic attitudes. Here are some strategies nurses can implement:</para>
+<list list-type="bulleted" id="list-00021">
+<item>Practice cultural humility and respect clients’ unique perspectives and values (Foronda, 2019).</item>
+<item>Foster open and honest communication, ensuring clients feel comfortable asking questions and expressing their concerns (Ringdal et al., 2017).</item>
+<item>Allow clients to have a voice and actively involve clients in shared decision-making processes (Molina-Mula et al., 2020), providing them with information and options to make informed choices about their care (Ringdal et al., 2017).</item>
+<item>Engage in relationships that support clients’ health care preferences (Pelletier &amp; Stichler, 2014).</item>
+<item>Advocate for client rights and autonomy within the health care system (Molina-Mula et al., 2020).</item>
+<item>Continuously reflect on one’s power and privilege and work towards mitigating the impact of power imbalances in the nurse-client relationship.</item>
+</list>
+<para id="para-00033">Cases where power and resources are unevenly distributed can result in health inequalities (AACN, 2022; National Academies of Sciences, Engineering, and Medicine, 2017). Nurses can tackle power imbalances and encourage care by prioritizing the client, leading to more autonomy and a fairer and more empowering health care setting.</para>
+</section>
+<section id="sect-00006">
+<title>Engaging in Mindful Awareness</title>
+<para id="para-00034">Understanding the connection between mindful awareness and cultural humility is essential for creating culturally sensitive interactions in different situations, especially in health care settings. These concepts can help nurses better appreciate cultural diversity and provide client-centered care. <term id="term-00030">Mindful awareness</term> means being present in the moment and observing thoughts, emotions, and sensations without judgment. Being consciously or mindfully aware and receptive in the context of cultural responsiveness means actively and intentionally seeking to understand, respect, and appreciate the diverse cultural backgrounds, perspectives, and practices of individuals and communities. It involves recognizing the influence of culture on people’s behaviors, values, beliefs, and norms, consciously bridging cultural gaps, and fostering inclusive interactions.</para>
+<para id="para-00035">To cultivate mindful awareness, nurses can actively engage in several practices:</para>
+<list list-type="bulleted" id="list-00022">
+<item><emphasis effect="underline">Mindful Listening</emphasis>: Practice active listening by entirely focusing on the speaker. Seek to understand the speaker’s perspective without interrupting or judging prematurely.</item>
+<item><emphasis effect="underline">Suspension of Judgment</emphasis>: Be aware of automatic judgments and biases that arise and consciously set them aside. Instead, aim to understand the reasoning behind different viewpoints before forming an opinion.</item>
+<item><emphasis effect="underline">Empathy and Perspective Taking</emphasis>: To gain a better understanding of someone’s experiences, emotions, and motivations, try and see things from their perspective. Cultivate empathy by imagining oneself in the same circumstances.</item>
+<item><emphasis effect="underline">Continuous Learning</emphasis>: Foster a growth mindset and embrace a lifelong learning attitude. Seek new information, engage in diverse experiences, and be open to changing personal beliefs based on new evidence or insights.</item>
+<item><emphasis effect="underline">Reflection and Self-Awareness</emphasis>: Regularly reflecting on thoughts, biases, and reactions helps develop self-awareness of times when one may be closed off or resist to new information.</item>
+</list>
+<para id="para-00036">Practicing mindfulness can benefit everyone involved, including clients, professionals, and personal well-being. ANA’s Scope and Standards of Practice acknowledges the significance of mindfulness in nursing practice, emphasizing the need for nurses to “practice with presence, intention, and focused attention” to enhance client-centered care and promote a culture of safety (ANA, 2020, p. 10). This requires nurses to possess a heightened self-awareness to cultivate an authentic presence. This means being attuned to their own thoughts, emotions, and reactions as they engage with clients, colleagues, and various clinical situations. Being fully present involves acknowledging and managing distractions that might hinder effective communication or decision making. This concept goes beyond the nurse’s physical presence—it requires being mentally present, actively listening, and responding empathetically to clients’ needs and concerns. This requires the nurse to have the skill set to adapt their behavior according to their self-awareness and situational awareness. Nurses can employ practical tools to cultivate compassionate habits that support well-being, communication, resilience, and success. These <term class="no-emphasis" id="term-00031">mindfulness</term> practices are not just quick fixes for stress; they can serve as a solid foundation for developing more empathetic nursing practice. Mindfulness practice can enhance engagement, a sense of purpose, and the ability to manage difficult client conversations while fostering empathy (Bertin, 2020; Mindful Communications, n.d.).</para>
+<note class="media-feature" id="note-00005">
+<title>Mindful Breathing: Practicing Self-Care</title>
+<media alt="atoms_isotopes">
+<iframe width="560" height="315" src="https://openstax.org/r/mindful"/>
+</media>
+<para id="para-00037">Mindful breathing, or intentionally focusing on each inhalation and exhalation, can help increase muscle relaxation and improve sleep and overall mental health and well-being. This video takes you through a short exercise in this technique. Begin by finding a comfortable seated or lying position, then listen to the video. Following this exercise, reflect on the following question:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00023">
+<item>How can the practice of taking seven mindful breaths, following the rhythm of inhaling, and exhaling on one, help individuals improve their overall health and well-being?</item>
+<item>How might incorporating the practice of taking seven mindful breaths in moments of crisis or before challenging situations contribute to building stronger interpersonal relationships and fostering a more compassionate society?</item>
+<item>How does the act of grounding oneself through the practice of mindful breathing align with the goal of mindful communications to promote healthier and more mindful ways of interacting with oneself and others?</item>
+</list>
+</note>
+<para id="para-00038">Mindfulness can be extended to nursing practice to equip nurses to better manage the challenges of caring for clients from diverse cultural backgrounds (Bajaj, 2016). Mindfulness practices can enhance emotional intelligence and empathy (Brewer et al., 2019). Integrating mindfulness into cultural care delivery can help health care providers better comprehend and address the psychological aspects of clients’ experiences related to their cultural background (Zandbelt, 2017).</para>
+<para id="para-00039">By practicing mindfulness, nurses can gain a deeper understanding of their own biases and assumptions. This promotes the nurse’s ability to approach client interactions with openness and sensitivity to cultural differences. Nurses can adapt their care strategies and communication styles to meet the unique needs of clients from diverse backgrounds by heightening awareness of cultural variations.</para>
+<para id="para-00040">For example, Sarah, the newly hired nurse from the previous examples, is passionate about delivering quality care to her clients. She is keenly aware of the importance of cultural humility but feels overwhelmed by her clients’ diverse cultural backgrounds. Struggling to bridge cultural gaps and foster inclusivity, Sarah embarks on a journey to integrate mindfulness principles into her nursing practice.</para>
+<para id="para-00041">Sarah started practicing mindful awareness by being present during client interactions. She observes her thoughts, emotions, and assumptions without judgment, allowing her to gain insight into her biases. Utilizing mindfulness practices, Sarah focuses on cultivating emotional intelligence. This involves understanding her emotions and those of her clients, fostering a deeper connection. Sarah extends mindfulness to comprehend the psychological aspects of clients’ experiences related to their cultural background. This helps her address the unique emotional needs of each client. As Sarah integrates mindfulness into her nursing practice, she experiences transformative outcomes. Mindfulness allows Sarah to gain a deeper understanding of her biases and assumptions. This self-awareness becomes the foundation for her approach to client interactions. Sarah’s mindfulness practices promote openness and sensitivity to cultural differences. She learns to approach each client nonjudgmentally, fostering trust and mutual respect. Heightened awareness of cultural variations empowers Sarah to adapt her care strategies and communication styles. She tailors interventions to meet the unique needs of clients from diverse backgrounds. Sarah’s case illustrates the transformative power of integrating mindfulness into nursing practice, particularly in cultural humility and competency, through mindful awareness, emotional intelligence, and a commitment to ongoing learning.</para>
+<para id="para-00042">Mindfulness is a practice that teaches personal growth as a never-ending journey. Sarah understands that achieving cultural competence is a continuous process that requires constant learning and adaptation and encourages humility in approaching diverse cultures. Being present in the moment allows nurses to engage with their clients fully. This is crucial in understanding subtle cues, nonverbal communication, and nuances that may carry cultural significance, resulting in increased cultural sensitivity. Mindfulness helps to cultivate an open-minded approach to every client interaction, enabling nurses to approach situations with curiosity instead of preconceived notions and creating an environment that values and respects diverse perspectives.</para>
+</section>
+</section>
+<section class="section-summary" id="sect-00007">
+<title>Chapter Summary</title>
+<para id="para-00043">Dealing with conflict in client care, particularly when cultural differences are involved, necessitates excellent communication skills, empathy, cultural awareness, and a dedication to respectful resolution. Addressing conscious and unconscious biases is crucial when managing conflicts between personal and nursing duties. This can go a long way in reducing biases and stereotypes. Striving for cultural competence on an ongoing basis can enhance client outcomes, boost client satisfaction rates, and ultimately elevate health care quality.</para>
+</section>
 </content>
+<glossary>
+<definition id="def-00001"><term>blind spots</term> <meaning>unconscious or implicit biases that individuals are unaware of</meaning></definition>
+<definition id="def-00002"><term>counter-stereotypic imaging</term> <meaning>the deliberate representation of individuals or groups that challenges or counters traditional stereotypes associated with them</meaning></definition>
+<definition id="def-00003"><term>cultural adaptability</term> <meaning>adapting one’s behaviors, communication styles, and approaches to fit different cultural environments</meaning></definition>
+<definition id="def-00004"><term>cultural immersion and engagement</term> <meaning>proactively engaging with people from diverse racial, ethnic, gender, and sexual orientation groups</meaning></definition>
+<definition id="def-00005"><term>cultural intelligence (CQ)</term> <meaning>an individual’s ability to understand, appreciate, and adapt to different cultural contexts; it involves having knowledge, awareness, and skills related to cultural diversity, and its components include cultural knowledge, cultural awareness, cultural adaptability, and cultural sensitivity.</meaning></definition>
+<definition id="def-00006"><term>cultural knowledge</term> <meaning>understanding different cultural norms, values, beliefs, practices, and historical contexts.</meaning></definition>
+<definition id="def-00007"><term>cultural skills</term> <meaning>the possession of interpersonal and communication skills to effectively interact and communicate across cultures</meaning></definition>
+<definition id="def-00008"><term>cultural understanding</term> <meaning>the recognition and appreciation of cultural differences and similarities without judgment or bias</meaning></definition>
+<definition id="def-00009"><term>emotional intelligence (EI)</term> <meaning>the ability to recognize, understand, and manage one’s emotions and effectively interact with the emotions of others; involves self-awareness, self-regulation, empathy, and social skills</meaning></definition>
+<definition id="def-00010"><term>empathy</term> <meaning>the capability to understand and share the feelings and perspectives of others, demonstrating sensitivity and compassion (Goleman, 1995)</meaning></definition>
+<definition id="def-00011"><term>evaluative conditioning</term> <meaning>a psychological concept that explains how repeated pairing with positive or negative stimuli can influence or modify people’s attitudes or evaluations toward a particular stimulus.</meaning></definition>
+<definition id="def-00012"><term>individuation</term> <meaning>the process of seeing individuals as unique and distinct, rather than lumping them into broad categories or stereotypes</meaning></definition>
+<definition id="def-00013"><term>mindful awareness</term> <meaning>being present in the moment and observing thoughts, emotions, and sensations without judgment</meaning></definition>
+<definition id="def-00014"><term>motivation</term> <meaning>harnessing emotions to set and achieve goals</meaning></definition>
+<definition id="def-00015"><term>perspective taking</term> <meaning>empathizing with others by putting oneself in their shoes and trying to comprehend their thoughts, emotions, and experiences.</meaning></definition>
+<definition id="def-00016"><term>power imbalances</term> <meaning>imbalances in the nurse-client relationship within the health care setting that stem from the differing roles, knowledge, and authority that nurses and clients hold</meaning></definition>
+<definition id="def-00017"><term>self-awareness</term> <meaning>the ability to recognize and understand one’s emotions, strengths, weaknesses, and values</meaning></definition>
+<definition id="def-00018"><term>self-management</term> <meaning>the capacity to manage and regulate one’s emotions, impulses, and behaviors in various situations (Goleman, 1995)</meaning></definition>
+<definition id="def-00019"><term>social skills</term> <meaning>proficiency in building and maintaining positive relationships, effective communication, conflict resolution, and teamwork</meaning></definition>
+<definition id="def-00020"><term>stereotype replacement</term> <meaning>consciously challenging and replacing stereotypical beliefs and assumptions with more accurate and nuanced understandings</meaning></definition>
+</glossary>
 </document>
