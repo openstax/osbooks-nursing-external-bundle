@@ -6,7 +6,7 @@
     <md:uuid>55aede3c-ad60-401b-a49d-60d3e2560e0b</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
+<section class="learning-objectives" id="sect-00001">
 <title>Learning Outcomes</title>
 <para id="para-00001">By the end of this section, you should be able to:</para>
 <list id="list-00001">
@@ -20,7 +20,7 @@
 <title/>
 <section id="sect-00003">
 <title>Leadership Behaviors That Foster Health Equity</title>
-<para id="para-00003">Throughout, this text has emphasized social justice and health equity. <term class="no-emphasis" id="term-00001">Nurse leaders</term> have an opportunity and an obligation to lend their skills as scientists, innovators, advocates, and educators to lead efforts to advance health equity for all (Azar, 2021). A nurse leader does not have to be in a position of authority; instead, they can carry an informal role of influence. For example, nurses can act as role models by embodying equity, inclusivity, and cultural competence principles. They can demonstrate respectful and compassionate care for all individuals regardless of their backgrounds or social determinants of health. By modeling inclusive behavior, nurses inspire others to follow suit. Nurses can lead initiatives to ensure the nursing staff receives ongoing training and education in cultural humility and sensitivity and advocate for language services and interpreter services to ensure effective communication and understanding. [link]Table 35.4[/link] demonstrates how nurses, as informal leaders, can use their influence and expertise to improve the population’s health. Refer to additional strategies presented in <link document="m00360">Advocating for Population Health</link> and <link document="m00365">Engagement in the Policy-Making Process</link> for specifics.</para>
+<para id="para-00003">Throughout, this text has emphasized social justice and health equity. <term class="no-emphasis" id="term-00001">Nurse leaders</term> have an opportunity and an obligation to lend their skills as scientists, innovators, advocates, and educators to lead efforts to advance health equity for all (Azar, 2021). A nurse leader does not have to be in a position of authority; instead, they can carry an informal role of influence. For example, nurses can act as role models by embodying equity, inclusivity, and cultural competence principles. They can demonstrate respectful and compassionate care for all individuals regardless of their backgrounds or social determinants of health. By modeling inclusive behavior, nurses inspire others to follow suit. Nurses can lead initiatives to ensure the nursing staff receives ongoing training and education in cultural humility and sensitivity and advocate for language services and interpreter services to ensure effective communication and understanding. <link target-id="table-00001" document="m00372"/> demonstrates how nurses, as informal leaders, can use their influence and expertise to improve the population’s health. Refer to additional strategies presented in <link document="m00360">Advocating for Population Health</link> and <link document="m00365">Engagement in the Policy-Making Process</link> for specifics.</para>
 <table class="vertically-tight alternate-shading" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -95,18 +95,18 @@
 </section>
 <section id="sect-00004">
 <title>Technology’s Role in Transforming Care in the Public and Community Health Practice</title>
-<para id="para-00004">Technology has revolutionized public health by improving health data collection, analysis, and sharing. Electronic records, <term class="no-emphasis" id="term-00002">data analytics</term>, and <term class="no-emphasis" id="term-00003">digital surveillance systems</term> have enabled faster responses to outbreaks and other health threats. <term class="no-emphasis" id="term-00004">Telehealth</term> and <term class="no-emphasis" id="term-00005">mobile health apps</term> have expanded access to health care services and facilitated remote monitoring and self-management ([link]Figure 35.5[/link]). Integrating digital tools into health care delivery can enhance population health and the factors that impact health outcomes, including medical care. COVID-19 has highlighted the significance of integrating technology into health care delivery (Abernethy et al., 2022).</para>
+<para id="para-00004">Technology has revolutionized public health by improving health data collection, analysis, and sharing. Electronic records, <term class="no-emphasis" id="term-00002">data analytics</term>, and <term class="no-emphasis" id="term-00003">digital surveillance systems</term> have enabled faster responses to outbreaks and other health threats. <term class="no-emphasis" id="term-00004">Telehealth</term> and <term class="no-emphasis" id="term-00005">mobile health apps</term> have expanded access to health care services and facilitated remote monitoring and self-management (<link target-id="fig-00001" document="m00372"/>). Integrating digital tools into health care delivery can enhance population health and the factors that impact health outcomes, including medical care. COVID-19 has highlighted the significance of integrating technology into health care delivery (Abernethy et al., 2022).</para>
 <figure class="scaled-down" id="fig-00001">
 <media alt="A medical professional sits at a desk, looking at a computer screen. A client looks back at them through the computer screen.">
 <image mime-type="image/png" src="../../media/PH_Figure_35_02_005.jpg"/></media>
 <caption>Telemedicine makes virtual visits with clients who live in rural areas or who lack access to transportation possible. This photo shows a licensed professional mental health counselor meeting with a client. (credit: “Licensed Professional Counselor - Mental Health Service Provider Shaine Malekgoodar, seen in monitor screen” by U.S. Department of Agriculture/Flickr, Public Domain)</caption>
 </figure>
-<para id="para-00005">Technology will continue to shift care from hospital-centric care to community-based care. This transition is driven by the potential to improve client outcomes, reduce health care costs, and enhance the overall well-being of individuals by leveraging technology’s capabilities for remote monitoring, education, early intervention, and data-driven decision-making. [link]Table 35.5[/link] outlines current and emerging technological advancements that will continue to influence care delivery.</para>
+<para id="para-00005">Technology will continue to shift care from hospital-centric care to community-based care. This transition is driven by the potential to improve client outcomes, reduce health care costs, and enhance the overall well-being of individuals by leveraging technology’s capabilities for remote monitoring, education, early intervention, and data-driven decision-making. <link target-id="table-00002" document="m00372"/> outlines current and emerging technological advancements that will continue to influence care delivery.</para>
 <table class="vertically-tight alternate-shading" id="table-00002">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Current and Emerging Technology</span></emphasis></entry>
