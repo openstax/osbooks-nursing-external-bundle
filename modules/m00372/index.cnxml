@@ -105,8 +105,8 @@
 <table class="vertically-tight alternate-shading" id="table-00002">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Current and Emerging Technology</span></emphasis></entry>
@@ -180,6 +180,7 @@
 <caption>Current and Emerging Technologies Designed to Complement and Enhance Client Care, and the Nurse’s Role</caption>
 </table>
 <note class="media-feature" id="note-00001">
+  <title>The Future of Healthcare</title>
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/futurehealthcare"/>
 </media>
