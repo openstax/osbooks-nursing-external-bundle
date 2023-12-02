@@ -1,13 +1,216 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Access, Cost, and Quality</title>
+  <title>Factors Affecting Public Health Policy</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Access, Cost, and Quality</md:title>
+    <md:title>Factors Affecting Public Health Policy</md:title>
     <md:content-id>m00136</md:content-id>
     <md:uuid>b328940d-f44e-4ed4-86ed-dd2bcd0c9838</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Discuss factors affecting public health policy, including access, costs, and quality.</item>
+    <item>Describe the influence of payment models on health care access and quality of care.</item>
+    <item>Differentiate between the various health care delivery models.</item>
+    <item>Define care deserts and assess their implications on health outcomes.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">This section discusses factors affecting public health policy, including access, cost, and quality; payment models; care delivery models; and the impact of health care deserts on health outcomes.</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Access, Cost, and Quality</title>
+    <para id="para-00003">In the United States, <emphasis effect="italics">access</emphasis> to health care factors into many public policy discussions and decisions. Most Americans access their health care through an employer’s health insurance plan. In fact, <term class="no-emphasis" id="term-00001">employer-sponsored insurance</term> in the United States covers 70 percent of workers, 36 percent of children, and 53 percent of nonworking adults (Commonwealth Fund, 2023). Although the country does not have a publicly funded <term id="term-00002">universal health care system</term>—a system that provides all people access to the full range of quality health services they need, when and where they need them, without financial hardship—the passage of the Patient Protection and <term class="no-emphasis" id="term-00003">Affordable Care Act (ACA)</term> in 2010 led to millions of previously uninsured Americans receiving health care coverage (Congressional Budget Office, 2016). In addition, access to health insurance may be provided through <term class="no-emphasis" id="term-00004">Medicare</term>—a government health insurance program established in 1965 that covers millions of Americans aged 65 and older and some others with <term class="no-emphasis" id="term-00005">disabilities</term>, end-stage renal disease, and amyotrophic lateral sclerosis (ALS) (Medicare.gov, n.d.). Another health care access vehicle for some Americans is <term class="no-emphasis" id="term-00006">Medicaid</term>, a national health insurance plan that covers some low-income families and children and individuals with disabilities. Established in 1965, Medicaid was expanded with the passage of the ACA, but because it is state-managed, its eligibility requirements and benefits differ from state to state (Centers for Medicare and Medicaid Services [CMS], 2023).</para>
+    <para id="para-00004">Access to health care is also impacted by factors such as technology. With the onset of the <term class="no-emphasis" id="term-00007">COVID-19</term> pandemic, <term id="term-00008">telehealth</term>, or telemedicine—delivering health care services through technology—has increased dramatically ([link]Figure 7.2[/link]). Although the use of technology to provide health care services was an essential step in providing health care at the time, its continued use poses questions about the quality of that health care and whether such telehealth appointments are accessible to everyone (U.S. Government Accountability Office, 2022).</para>
+    <para id="para-00005">Health care cost is another factor that plays a role in public health policy discussions and decisions. Unfortunately for its citizens, the United States has one of the world’s highest costs of health care. In fact, in 2021, U.S. <term class="no-emphasis" id="term-00009">health care spending</term> totaled $4.3 trillion (roughly equivalent to $12,914 <emphasis effect="italics">per person</emphasis>) (CMS, 2022). This is about twice as much as the average cost of health care per person in other developed countries.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A nurse sits at a desk in an office wearing a headset with a microphone."><image mime-type="image/png" src="../../media/PH_Figure_07_01_002.jpg"/></media>
+    <caption>A nurse specialist with the Naval Medical Center San Diego’s Joint Tele-Critical Care Network provides support to a remote intensive care unit via tele-conference. (credit: “SAN DIEGO (Sept. 17, 2020) Trisha Lindsey, a nurse specialist assigned to Naval Medical Center San Diego’s (NMCSD)” by Luke Cunningham/Navy Medicine/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00006">The high spending rate per person has not led to higher health care <emphasis effect="italics">quality</emphasis> in the United States. Indeed, in a 2021 Commonwealth Fund report, the U.S. ranked last compared with 10 other high-income countries on the following factors:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item><term class="no-emphasis" id="term-00010">Access</term> to care, with the U.S. ranking last on factors such health care affordability and timeliness</item>
+    <item>Health care <term class="no-emphasis" id="term-00011">efficiency</term>, with the U.S. trailing other countries in terms of simplifying insurance, billing, and payment</item>
+    <item><term class="no-emphasis" id="term-00012">Equity</term>, with the U.S. ranking lowest in terms of disparities in health care experiences between lower- and higher-income groups</item>
+    <item>Health care outcomes, with the U.S. performing worst on outcomes such as infant mortality rate and life expectancy</item>
+    </list>
+    <para id="para-00007">How can the United States lower its <term class="no-emphasis" id="term-00013">health care expenditures</term> while also increasing access to health care, health care efficiency, equity, and outcomes? Policy changes are one way the United States can affect more positive outcomes. This section discusses some factors that affect health care policy, including containing costs through evolving payment models, improving client care using various client care models, and avoiding barriers to health care such as those found in health care deserts.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Payment Models</title>
+    <para id="para-00008">The quality of health care provided to clients in the United States depends in part on how health care professionals are allowed to administer and bill for their services. As noted earlier, despite having the highest per capita expenditure on health care across high-income countries, the United States has no universal health care system and a low quality of care. Public health policies that relate to <term id="term-00014">payment models</term>—the mechanisms by which health care services are established and paid for—may help to address this issue.</para>
+    <para id="para-00009">Currently, the health care system is transitioning from the traditional <term class="no-emphasis" id="term-00015">fee-for-service model</term>—providers and organizations are reimbursed based upon the volume of services they provide—to payment based upon the value of those services, which includes <term class="no-emphasis" id="term-00016">value-based care</term> and <term class="no-emphasis" id="term-00017">alternative payment models</term> (American Hospital Association, 2023). The American Medical Association (2022) describes the most common payment models for physicians. It divides them into three categories: <term class="no-emphasis" id="term-00018">core payment models</term>, <term class="no-emphasis" id="term-00019">supplementary payment models</term>, and <term class="no-emphasis" id="term-00020">organizational models</term>. [link]Table 7.1[/link] describes each type.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <tbody>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Core Payment Models</emphasis><newline/>
+    (can exist alone without other payment types)</span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00021">Bundled payments</term> (<term id="term-00022">episode-based payments</term>)</entry>
+    <entry valign="top" align="left">Physician practices receive payment based on episodes of client care according to a defined set of diagnoses and services provided to the client over a specific period. This payment model allows practices and health systems to achieve higher revenue by avoiding client complications, discount negotiation, and choosing a client care setting, which leads to lower costs.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00023">Capitation</term></entry>
+    <entry valign="top" align="left">Payment is received by physician practices to manage the client’s health condition per client per period, which is usually 1 month. Rules are applied by the health plan that governs which clients are included within the physician practice.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00024">Fee-for-service</term></entry>
+    <entry valign="top" align="left">Physician practices are paid a flat rate for each client visit, test, or procedure performed. Through this payment model, practices can achieve higher revenue with more clients and procedures each day. However, physicians may not cover their costs using this model.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Supplementary Payment Models</emphasis><newline/>
+    (cannot exist on their own; must coexist with one or more of the core payment models)</span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00025">Pay for performance</term></entry>
+    <entry valign="top" align="left">The payer pays physicians according to prescribed practice performance on defined metrics (e.g., blood pressure levels, blood glucose, hospital admissions, emergency room visits, etc.), based on the quality of care and/or utilization of care services. Providers may receive an incentive for meeting prescribed performance metric goals through pay for performance.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00026">Retainer-based payment</term></entry>
+    <entry valign="top" align="left">Physician practices or other organizations receive capitation payments from the client. These types of payments are also known as “concierge” payments. Payments are usually paid per client per year or month as a membership fee, which covers an array of services.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00027">Shared savings programs</term></entry>
+    <entry valign="top" align="left">Physicians or health care practices receive payment throughout the contract year instead of a capitation of payments during or before the year. Total costs of care for a specific client population are compared with a cost target at the end of year, which can lead to a lump-sum payment incentive or penalty for not meeting prescribed goals.</entry>
+    </row>
+    <row>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Organizational Models</emphasis><newline/>
+    (combined payment models that create additional payment models)</span></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00028">Accountable care organizations (ACOs)</term></entry>
+    <entry valign="top" align="left">Large health systems where an individual physician practice or a collection of physicians enter into a contract with a payer, typically under a fee-for-service payment model, to provide care to a population of clients. This network of health care providers is responsible for improving health outcomes and reducing spending for a particular client population. Organizations may include physician groups, health systems, hospitals, and behavioral health organizations.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><term id="term-00029">Medical homes</term></entry>
+    <entry valign="top" align="left">An integrated team of health care providers such as nurses, physicians, and care managers provide care that addresses the “whole person.” Organizations can become recognized as accredited “Patient-Centered Medical Homes” through the <term class="no-emphasis" id="term-00030">National Committee for Quality Assurance (NCQA)</term>. The main source of revenue for most practices following this payment model are fee-for-service payments. Medical homes may also receive additional payments in enhanced fee-for-service payment rates, per-month patient care management fees, and pay-for-performance payments for high performance on measures of quality, client experience, or cost.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Physician Payment Models</caption>
+    </table>
+    <para id="para-00010">Like physicians, health care organizations are reimbursed in different ways, including <term class="no-emphasis" id="term-00031">prospective payment systems</term>, bundled payments, and <term class="no-emphasis" id="term-00032">accountable care organizations</term> (American Hospital Association, 2023). Recently, <term class="no-emphasis" id="term-00033">value-based purchasing</term> programs have significantly changed hospitals’ approach to providing care. For example, the <term class="no-emphasis" id="term-00034">Hospital Value-Based Purchasing Program</term> bases Medicare payments on the quality of care rather than the services performed. Hospitals with higher rates of post-operative infections, ventilator-associated pneumonia, and other negative outcomes associated with hospital care received decreased reimbursement. Accordingly, hospitals are incentivized to focus on health care quality. Another example of a reimbursement structure designed to increase the providers’ quality of care is the <term class="no-emphasis" id="term-00035">Hospital Readmission Reduction Program</term>. This program, administered through the CMS penalizes hospitals with higher-than-expected levels of readmissions.</para>
+    <para id="para-00011">This complex framework of <term class="no-emphasis" id="term-00036">health care reimbursement</term> influences how and where care is provided to clients and by whom (National Academies of Sciences, Engineering, and Medicine [NASEM] et al., 2021a). Accordingly, payment systems can affect nurses’ ability to address a community’s health needs. For example, the traditional fee-for-service payment systems that focus on physician reimbursement do not recognize the value of care provided by other health care team members, including nurses (NASEM et al., 2021a). These limit the ability of the health care system to address the <term class="no-emphasis" id="term-00037">social determinants of health (SDOHs)</term>. It is currently unclear which newer payment model(s) will prevail and become dominant. However, nurses have the opportunity to make a more measurable impact in the newer reimbursement models. For example, nurses working as case managers and care coordinators can help manage a population’s health and reduce costs associated with chronic illness (NASEM et al., 2021a). Overall, community nurses will be better able to promote <term class="no-emphasis" id="term-00038">continuity of care</term> between the health systems and clients at home.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Care Delivery Models</title>
+    <para id="para-00012">The payment models described in the previous section are the foundation for delivering care. <term id="term-00039">Care delivery models</term> refer to how health care providers work together to provide health care to clients. One example of a care delivery model is the <term class="no-emphasis" id="term-00040">Collaborative Care Model</term>, which “seeks to impact the clinical outcomes of patients who present with depression in primary care” (Collaborative Family Healthcare Association, 2023). Through this model, a psychiatrist and care manager are members of an <term class="no-emphasis" id="term-00041">interdisciplinary</term> care team that manage a group of clients who have been screened for <term class="no-emphasis" id="term-00042">depression</term> and need a higher level of <term class="no-emphasis" id="term-00043">intervention</term> to achieve positive health outcomes. In addition to addressing the client’s behavioral and psychological needs, the team addresses physical needs, such as the maintenance of <term class="no-emphasis" id="term-00044">chronic diseases</term> (e.g., diabetes, hypertension, cancer, and heart disease). Through this model, health care team members collaborate to achieve the common goal of ensuring the best possible health outcomes for the client.</para>
+    <para id="para-00013">According to the American Hospital Association (AHA) (2019a), to achieve better outcomes for clients, hospitals and health systems across the United States have had to redesign how the care of clients is provided. The AHA identifies four care models as the most common in the United States: accountable care organizations and medical homes, previously defined in [link]Table 7.2[/link], integrated service lines, and provider-sponsored health plans.</para>
+    <para id="para-00014">With <term id="term-00045">integrated service lines</term>, hospitals and health care systems organize around specific disease states such as cancer, heart disease, and diabetes throughout the continuum of client care. This model contrasts the traditional care provision, where service lines based on disease state are siloed. In <term id="term-00046">provider-sponsored health plans</term>, plans are either sponsored or acquired by hospitals, physician groups, or health systems which take over responsibility for the total cost of care for clients enrolled in the health plan. These organizations may often take on financial risks of providing care for the clients enrolled in the health plan.</para>
+    <para id="para-00015">[link]Table 7.2[/link] provides examples of these four care delivery models. The type of care model chosen by health care professionals to provide care is in part determined by health care policy and, in part, determines health care policies based on the revenues and outcomes it achieves.</para>
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Care Delivery Model</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Example and Key Results</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Accountable care organizations</entry>
+    <entry valign="top" align="left">Caravan Health partners with rural and independent health systems to ensure positive client outcomes. This has led to 60% or higher cost savings and improved quality scores.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Integrated service lines</entry>
+    <entry valign="top" align="left">New York’s Mount Sinai Health System utilizes a care guide that visits clients in the hospital and coordinates client care transition to home, post hospital follow-up, and transportation as needed for appointments. This has resulted in emergency room utilization dropping from 26% to 3%.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Medical homes</entry>
+    <entry valign="top" align="left">Ohio’s Summa Health provides care to clients through an integrated, team-based approach where primary care is the focus. Every aspect of the client’s health, including physical and social issues, is addressed. This has led to lower hospital readmission rates. Today, 77% of Summa Health’s primary care practices are accredited as Patient-Centered Medical Homes.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Provider-sponsored health plans</entry>
+    <entry valign="top" align="left">Sharp HealthCare in San Diego County, California, offers a care management program across the entire client care continuum. The Sharp health plan is the highest-rated organization of its kind in the state of California.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Care Delivery Models and Examples (See AHA, 2019a.)</caption>
+    </table>
+    </section>
+    <section id="sect-00006">
+    <title>Care Deserts</title>
+    <para id="para-00016"><term id="term-00047">Care deserts</term> (or <term id="term-00048">medical deserts</term>) are areas where individuals have limited access to health care services such as hospitals or health clinics (Nguyen &amp; Kim, 2021). Care deserts are most often found in rural areas and in tribal communities. Such limits to access can come in many forms, including limited to no access to maternal health services—<term id="term-00049">maternal care deserts</term>—or limited to no access to pharmacy services— <term id="term-00050">pharmacy deserts</term>. More than 80 percent of counties in the U.S. lack proper access to needed medical services (Nguyen &amp; Kim, 2021). Almost 50 million Americans are unable to reach a level I and II trauma center within 60 minutes (Soto et al., 2018). It is estimated that over one third of the U.S. population lives in counties that lack sufficient health care infrastructure to ensure good health outcomes. This may include a lack of access to services, medications, primary care providers, hospitals, and community health centers (Nguyen &amp; Kim, 2021). For example, 136 <term class="no-emphasis" id="term-00051">rural hospitals</term> closed between 2010 to 2021: 19 went out of business in 2020, the highest number since 2005 (AHA, 2022). Although this number dropped dramatically in 2021—when only two rural hospitals closed—the improvement may be attributed to federal relief funds associated with the COVID-19 pandemic that have now ended (Levinson et al., 2023). While fewer urban hospitals have closed over the past decade than rural hospitals, those that do close tend to be in lower income communities and treat clients who are <term class="no-emphasis" id="term-00052">uninsured</term> or covered by Medicaid (KFF, 2020b). Closures of hospitals have compound effects because those hospitals are sometimes the only form of care to which local residents have access ([link]Figure 7.3[/link]) (AHA, 2019b).</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="A person speaks to an audience outdoors at a podium with an insignia on its front. Several people stand listening in the background. The land behind them has been cleared and leveled for construction."><image mime-type="image/png" src="../../media/PH_Figure_07_01_003.jpg"/></media>
+    <caption>U.S. Department of Agriculture (USDA) Deputy Secretary Jewel Bronaugh speaks during the groundbreaking for the construction of a new rural hospital funded through the USDA. (credit: “U.S. Department of Agriculture USDA Deputy Secretary Jewel Bronaugh visits a hospital construction site” by Lance Cheung/U.S. Department of Agriculture/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00017">A care desert may be created for various reasons. One contributing factor is <term class="no-emphasis" id="term-00053">demographic shifts</term>. Over the past decades, many rural areas in the United States have experienced a sharp decrease in their overall population. Such shifts lead to declines in revenue for health care providers like hospitals and health clinics. Because of this, organizations may choose to leave less populated areas for more populated ones. Health care providers also have little motivation to offer care in neighborhoods where many people are uninsured or <term class="no-emphasis" id="term-00054">underinsured</term> or covered through Medicare and Medicaid. Medicaid reimburses health care providers at a lower rate than <term class="no-emphasis" id="term-00055">private insurance</term> companies such as Blue Cross Blue Shield (KFF, 2020a). As such, there is often a hesitancy to offer care in areas with a high rate of Medicaid-eligible individuals.</para>
+    <note class="media-feature" id="note-00001">
+    <title>Medicaid issues forcing Illinois doctor offices to close, creating ‘medical deserts’</title>
+    
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/medicaidissues"/>
+    </media>
+    
+    
+    <para id="para-00018">This news video from Illinois reports on how health care professionals and physicians working in underserved communities face an uncertain future related to challenges receiving Medicaid reimbursement. Watch the video, and then respond to the following questions:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00003">
+    <item>How many clients rely on Medicaid, according to the video?</item>
+    <item>How many Medicaid claims are denied as compared with claims from private insurance?</item>
+    <item>Why are doctors who accept clients who use Medicaid losing money?</item>
+    <item>How are difficulties with Medicaid contributing to medical deserts?</item>
+    </list>
+    </note>
+    <para id="para-00019">In addition, communities that lack high-quality schools or work opportunities for spouses—some rural areas—may find it difficult to recruit health care providers such as primary care and specialty care providers (Association of American Medical Colleges, 2023; Health Resources and Services Administration [HRSA], 2023). Research shows that although 20 percent of the U.S. population lives in rural areas fewer than 10 percent of U.S. doctors practice in rural communities (Joynt et al., 2016). This leads to an exacerbation of care deserts.</para>
+    <para id="para-00020">Lack of access to health care in such care deserts leads to many negative health outcomes, including untreated health problems and chronic diseases such as diabetes and hypertension. Communities with less access to primary care struggle with disease diagnosis and prevention, <term class="no-emphasis" id="term-00056">client education</term>, and treating acute and chronic illnesses. Lack of health care access especially affects <term class="no-emphasis" id="term-00057">communities of color</term> (Alfred, 2022).</para>
+    <para id="para-00021">In addition, clients who must travel long distances to secure care lose valuable work time and incur costs related to travel. In contrast to urban areas, rural regions frequently lack public transportation services. Older adult clients often have chronic conditions, the management of which may necessitate frequent medical appointments (Rural Health Information Hub, 2022). When rural hospitals close, employment opportunities in the community decrease as the hospital may be one of the main employers in that community, and local economies suffer through revenue loss and tax base loss (Harsha, 2022; AHA, 2019b).</para>
+    <para id="para-00022">As discussed in <link document="m00125">Demographic Trends and Societal Changes</link>, care deserts are often addressed using technology such as <term class="no-emphasis" id="term-00058">telemedicine</term>. Because the health care provider (e.g., physician, nurse practitioner, or other specialist) can provide care to individuals remotely, clients in care deserts can receive routine health care (Rural Health Information Hub, 2021). However, in many areas, clients are still left without access to emergency, inpatient, and surgical care. Many are also left without access to simple urgent care for conditions like acute pharyngitis because group A <emphasis effect="italics">Streptococcus</emphasis> (group A strep) tests must currently be done in person, not via telehealth. Finally, in-person primary care visits for screenings like skin cancer are also still preferred to telehealth until the technology improves.</para>
+    <para id="para-00023">The government offers some care options to those living in care deserts through <term class="no-emphasis" id="term-00059">Federally Qualified Health Centers (FQHCs)</term>. These federally funded nonprofit health centers or clinics serve “medically underserved” areas and populations throughout the United States. FQHCs provide primary care services to all individuals, even those not able to pay, on a <term class="no-emphasis" id="term-00060">sliding scale</term> basis (HealthCare.gov, n.d.).</para>
+    <note class="media-feature" id="note-00002">
+    <title>What is an FQHC?</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/anfqhc"/>
+    </media>
+    <para id="para-00024">This video provides an overview of FQHCs, also known as Community Health Centers. Watch the video and then respond to the following questions:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
+    <item>What types of care do FQHCs provide to the communities they serve?</item>
+    <item>Who is eligible to seek care at an FQHC?</item>
+    </list>
+    </note>
+    <para id="para-00025">One organization seeking to address physician shortages in health care deserts is the <term class="no-emphasis" id="term-00061">National Health Services Corps</term>, which is operated by the <term class="no-emphasis" id="term-00062">Health Resources and Services Administration (HRSA)</term> arm of the U.S. Department of Health and Human Services (HHS). This organization connects underserved rural, urban, and tribal communities with health care providers. The organization’s 20,000 members currently provide care to over 21 million people in the United States in over 9,000 community health care sites (HRSA, 2023). The organization offers loan repayment and scholarships to its member health care practitioners, making practicing in underserved areas more appealing.</para>
+    <para id="para-00026">In its report <link url="https://openstax.org/r/marchofdimesa"><emphasis effect="italics">Nowhere to Go: Maternity Care Deserts Across the U.S. 2022 Report</emphasis></link>, the <term class="no-emphasis" id="term-00063">March of Dimes</term> recommends several policy solutions to federal and state governments that it says will reduce <term class="no-emphasis" id="term-00064">maternity care deserts</term> in particular (March of Dimes, 2022). Recommended solutions include passing a Medicaid postpartum extension from 60 days to 12 months, expanding <term class="no-emphasis" id="term-00065">telehealth</term> services to bridge gaps in health care, and strengthening network requirements for health care plans made available through the ACA (March of Dimes, 2022).</para>
+    <para id="para-00027">According to the National Academy of Sciences (NAS, 2023), nurses, which include community health nurses and advanced practices nurses, play a significant role in addressing health inequities such as the lack of qualified health care professionals and the lack of access to health services available to populations. The NAS (2023) discusses the fact that the profession of nursing is deeply rooted in community health <term class="no-emphasis" id="term-00066">advocacy</term> and <term class="no-emphasis" id="term-00067">social justice</term>, which refers to seeking to ensure equal access to health care services for everyone living within a society. Five key roles are identified to improve health equity for populations. They are as follows: awareness, adjustment, assistance, alignment, and advocacy (NAS, 2023). Let’s briefly discuss each.</para>
+    <list list-type="bulleted" id="list-00005">
+    <item>With awareness, the nurse seeks to identify and understand social risks and opportunities for a select population. For example, the nurse would inquire about the availability of quality housing and health care services for the population.</item>
+    <item>Adjustment has to do with incorporating activities that seek to accommodate populations to address identified barriers, such as providing care through telehealth for individuals lacking adequate <term class="no-emphasis" id="term-00068">transportation</term>.</item>
+    <item>Assistance refers to actions taken by the nurse to connect populations with various resources such as providing transportation vouchers to ensure individuals have a means by which to get to and from appointments.</item>
+    <item>Alignment refers to the actions of the nurse or a health care system to understand the needs of a community or population and to put into practice mechanisms to address health inequities such as providing investments to implement programs such as ridesharing or time-bank programs, which are geared at increasing access to health care services.</item>
+    <item>Advocacy has to do with partnerships between organizations to promote policies that create and deploy programming to address health inequities within communities, such as improving infrastructure that improves transportation for individuals with limited transportation to and from health care services.</item>
+    </list>
+    <para id="para-00028">Since its inception, the nursing profession has been heavily involved in ensuring everyone has equal access to resources. As such, the community health nurse and the advanced practice nurse are key stakeholders in minimizing health inequities within communities (NAS, 2023).</para>
+    </section>
+    </section>
+    <section class="chapter-summary" id="sect-00007">
+    <title>Chapter Summary</title>
+    <para id="para-00029">Public health policy refers to the laws, regulations, programs, behaviors, and decisions implemented within a society to promote public health. There is a direct correlation from access to health care, the cost of health care, and the quality of health care to health outcomes. When the cost of health care is high, one’s ability to access health care services is impacted. Different payment models and care delivery models affect the quality of health care delivered. When individuals are unable to access health care services—when there are care deserts, for example—health outcomes, including maintenance of chronic disease processes, are compromised.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>accountable care organizations (ACOs)</term> <meaning>payment model in which large health systems where individual physician practices or a collection of physician practices contract with a payer, typically under a fee-for-service payment model, to provide care to a population</meaning></definition>
+    <definition id="def-00002"><term>bundled payments</term> <meaning>payment model in which physician practices receive payment based on episodes of client care according to a defined set of diagnoses and services provided to the client over a specific period, also known as episode-based payments</meaning></definition>
+    <definition id="def-00003"><term>capitation</term> <meaning>payment model in which payment is received by physician practices to manage the client’s health condition per client per period, which is usually 1 month; rules are applied by the health plan that govern which clients are included within the physician practice</meaning></definition>
+    <definition id="def-00004"><term>care delivery models</term> <meaning>delivery strategies that prescribe the specific ways in which professionals work together to provide health care services</meaning></definition>
+    <definition id="def-00005"><term>care deserts</term> <meaning>areas within the United States where individuals have limited access to health care services such as hospitals or health clinics; also called medical deserts</meaning></definition>
+    <definition id="def-00006"><term>episode-based payments</term> <meaning>payment model in which physician practices receive payment based on episodes of client care according to a defined set of diagnoses and services provided to the client over a specific period; also known as bundled payments</meaning></definition>
+    <definition id="def-00007"><term>fee-for-service</term> <meaning>payment model in which physician practices are paid a flat rate for each client visit, test, or procedure performed; through this payment model, practices can achieve higher revenue with more clients and procedures each day</meaning></definition>
+    <definition id="def-00008"><term>integrated service lines</term> <meaning>hospitals and health systems organize around specific disease states such as cancer, heart disease, and diabetes throughout the continuum of client care</meaning></definition>
+    <definition id="def-00009"><term>maternal care deserts</term> <meaning>areas within the United States where individuals have limited to no access to maternal care services</meaning></definition>
+    <definition id="def-00010"><term>medical deserts</term> <meaning>areas within the United States where individuals have limited access to health care services such as hospitals or health clinics; also called care deserts</meaning></definition>
+    <definition id="def-00011"><term>medical homes</term> <meaning>payment model in which an integrated team of health care providers such as nurses, physicians, and care managers provide care that addresses the “whole person;” organizations can become recognized as accredited “Patient-Centered Medical Homes” through the National Committee for Quality Assurance (NCQA)</meaning></definition>
+    <definition id="def-00012"><term>pay for performance</term> <meaning>payment model in which physicians are paid by the payer according to prescribed practice performance on defined metrics (e.g., blood pressure levels, blood glucose, hospital admissions, emergency room visits, etc.), which are based upon the quality of care and/or utilization of care services</meaning></definition>
+    <definition id="def-00013"><term>payment models</term> <meaning>the mechanism by which health care services are established and paid for</meaning></definition>
+    <definition id="def-00014"><term>pharmacy deserts</term> <meaning>areas within the United States where individuals have limited to no access to pharmacy services</meaning></definition>
+    <definition id="def-00015"><term>provider-sponsored health plans</term> <meaning>health plans that are either sponsored or acquired by hospitals, physician groups, or health systems who take over responsibility for the total cost of care for clients enrolled in the health plan; these organizations may often take on financial risks of providing care for the clients enrolled in the health plan</meaning></definition>
+    <definition id="def-00016"><term>retainer-based payment</term> <meaning>payment model in which physician practices or other organizations receive capitation payments from the client. These types of payments are also known as “concierge” payments; payments are usually paid per client per year or month as a membership fee, which covers an array of services.</meaning></definition>
+    <definition id="def-00017"><term>shared savings programs</term> <meaning>payment model in which physicians or health care practices receive payment throughout the contract year as opposed to a capitation of payments during or before the year; total costs of care for a specific client population are compared with a cost target at the end of year, which can lead to a lump-sum payment incentive or penalty for not meeting prescribed goals</meaning></definition>
+    <definition id="def-00018"><term>telehealth</term> <meaning>the provision of health care using technology, including the internet, computers, tablets, and smartphones</meaning></definition>
+    <definition id="def-00019"><term>universal health care system</term> <meaning>a system in which all people have access to the full range of quality health services they need, when and where they need them, without financial hardship</meaning></definition>
+    </glossary>
 </document>

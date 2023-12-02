@@ -53,7 +53,7 @@
   <figure class="scaled-down" id="fig-00002"><media alt="An example of an EKG recording shows the telemetry wave measurements. The reading is divided into the PQ and QT intervals. Points along the EKG are labeled O, P wave, Q, R, S, T wave, and U."><image mime-type="image/png" src="../../media/NUT_Figure_11_01_003.png"/></media>
   <caption>Nurses are expected to be able to measure and interpret the points of a telemetry wave. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00015">For the heart to be in optimal health, the electrical conductivity should be a <term id="term-00020">normal sinus rhythm (NSR)</term>. An NSR is a rhythm that originates from the sinus node and is characteristic of a healthy heart’s cardiac rhythm. With an NSR, the wave tracing should be within normal measurements, and the deflections and appearances or shapes of all wave components should have a pulse that is calculated between 60 and 100 beats per minute. In addition, the waves should be consistent and resemble each other. <link target-id="table-00001" document="m00049"/> outlines the telemetry wave components, normal measurement, existence in the cardiac cycle, and the expected shape and deflection.</para>
-  <table class="vertically-tight" id="table-00001">
+  <table class="vertically-tight alternate-shading" id="table-00001">
   <title/>
   <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -107,19 +107,19 @@
   </row>
   <row>
   <entry valign="top">QRS complex</entry>
-  <entry valign="top">0.06-0.12 seconds</entry>
+  <entry valign="top">0.06&#8211;0.12 seconds</entry>
   <entry valign="top">Ventricular depolarization</entry>
   <entry valign="top">Cluster of QRS waves together</entry>
   </row>
   <row>
   <entry valign="top">PR interval</entry>
-  <entry valign="top">0.12-0.20 seconds</entry>
+  <entry valign="top">0.12&#8211;0.20 seconds</entry>
   <entry valign="top">Beginning of atrial depolarization to beginning of ventricular depolarization</entry>
   <entry valign="top">P wave and segment between P wave and Q wave</entry>
   </row>
   <row>
   <entry valign="top">QT interval</entry>
-  <entry valign="top">0.40-0.44 seconds</entry>
+  <entry valign="top">0.40&#8211;0.44 seconds</entry>
   <entry valign="top">Beginning of ventricular depolarization through ventricular repolarization</entry>
   <entry valign="top">QRS complex, ST segment and to end of T wave</entry>
   </row>
@@ -131,7 +131,7 @@
   </row>
 </tbody>
   </tgroup>
-  <caption>Normal Telemetry Parameters (source: UNC Eshelman School of Pharmacy, 2023 at https://apps.media.unc.edu/crashcart/Resources/PhysiologyReview.html)</caption>
+  <caption>Normal Telemetry Parameters (sources: UNC Eshelman School of Pharmacy, 2023)</caption>
   </table>
   <para id="para-00016">There are certain telemetry changes in which nutritional issues and electrolyte abnormalities are often the primary cause. Common examples include:</para>
   <list list-type="bulleted" id="list-00004">
@@ -267,7 +267,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Nutritional Relationship to Rhythm Changes (source: Akbar, Foth, Kahloon, &amp; Mountfort, 2022; Morales-Brown, 2020; Cohagan &amp; Brandis, 2022; Mayo Clinic, 2023b; Mayo Clinic, 2023a; Kenny &amp; Brown, 2022; Teymouri, et. al., 2022; Lee, et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c)</caption>
+  <caption>Nutritional Relationship to Rhythm Changes (sources: Akbar et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c; Cohagan &#38; Brandis, 2022; Kenny &#38; Brown, 2022; Lee, et al., 2022; Mayo Clinic, 2023a–b; Morales-Brown, 2020; Teymouri, et. al., 2022) </caption>
   </table>
   <para id="para-00030">Numerous nutritional factors create or impact <term class="no-emphasis" id="term-00040">cardiovascular disease</term>s such as <term class="no-emphasis" id="term-00041">coronary heart disease</term>, <term class="no-emphasis" id="term-00042">cardiomyopathy</term> (a disease of the heart muscle), and <term class="no-emphasis" id="term-00043">hypertension</term>. <link target-id="table-00003" document="m00049"/> outlines a handful of cardiovascular diseases, the impact of nutrition, and the effect on the body.</para>
   <table class="vertically-tight" id="table-00003">
@@ -313,7 +313,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Cardiovascular Diseases (source: Albakri, 2019; Harvard University, 2023; Centers for Disease Control and Prevention, 2022; Medline Plus, 2022)</caption>
+  <caption>Cardiovascular Diseases (sources: Albakri, 2019; Harvard University, 2023; Centers for Disease Control and Prevention, 2022; Medline Plus, 2022)</caption>
   </table>
   </section>
   </section>

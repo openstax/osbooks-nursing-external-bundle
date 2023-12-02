@@ -1,13 +1,225 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Impact of Policies on Population Outcomes</title>
+  <title>Public Health Initiatives, Delivery Mechanisms, and Implications</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Impact of Policies on Population Outcomes</md:title>
+    <md:title>Public Health Initiatives, Delivery Mechanisms, and Implications</md:title>
     <md:content-id>m00138</md:content-id>
     <md:uuid>aec9880b-4bd5-4ff8-b5b8-c6fb905614c6</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Describe Healthy People 2030, a public health initiative that seeks to improve health outcomes.</item>
+    <item>Categorize public health policies by mechanisms of delivery (fiscal policy, regulation, education, preventative treatment, and screening).</item>
+    <item>Examine the implications of the Institute for Healthcare Improvement (IHI) Triple Aim to improve population health, reduce costs, and improve client satisfaction.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">This chapter has established what health policy is and has discussed the balance between the right to human health and individual rights. This section will look at one U.S. public health initiative, the mechanisms of public health delivery, and a framework that has been developed to improve population health, reduce costs, and improve client satisfaction.</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Healthy People 2030</title>
+    <para id="para-00003">One public health initiative that seeks to improve health outcomes in the United States is <term id="term-00001">Healthy People</term>, described previously in <link document="m00118">The Health of the Population</link>. Put forth by the HHS, the ten-year plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. The most recent iteration of the plan is Healthy People 2030. The plan includes 23 high-priority <term id="term-00002">leading health indicators (LHIs)</term> to improve health and well-being over the life span. Most LHIs address factors that affect major causes of death and disease, such as the proportion of people with access to health insurance and the number of people exposed to unhealthy air (ODPHP, n.d.c).</para>
+    <para id="para-00004">Public health policies and programs are what drive and establish the mechanisms by which such health outcomes are achieved. [link]Table 7.5[/link] provides examples of LHI objectives as established by Healthy People 2030 and examples of policies and programs necessary to achieve them.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Leading Health Indicator Objective</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Public Health Policy or Program to Achieve the Objective</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Increase the proportion of people with health insurance</entry>
+    <entry valign="top" align="left">The passage of the ACA improved access to health insurance through the expansion of Medicaid and the health care marketplace. The HHS (2022) reports that the total enrollment for <term class="no-emphasis" id="term-00003">Medicaid expansion</term>, Marketplace coverage, and the Basic Health Program reached a high of over 35 million people as of early 2022.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Increase the proportion of persons who know their HIV status</entry>
+    <entry valign="top" align="left">According to the CDC, increasing the number of people who are aware of their HIV status is critical to preventing HIV infections. To increase Americans’ awareness of their HIV status, the CDC has established the <term class="no-emphasis" id="term-00004">Expanded Testing Initiative</term>, through which three programs have been launched (see <link url="https://openstax.orgr/cdcgovhiv">Expanded Testing Initiative</link>) (CDC, 2020b).</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Reduce household <term class="no-emphasis" id="term-00005">food insecurity</term> and, in doing so, reduce hunger</entry>
+    <entry valign="top" align="left">The <term class="no-emphasis" id="term-00006">Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)</term> provides federal grants to states for “supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age 5 who are found to be at nutritional risk” (USDA Food and Nutrition Service, n.d.)<newline/>
+    In a 2015 policy statement, the American Academy of Pediatrics (AAP) recommended that “pediatricians engage in efforts to mitigate food insecurity at the practice level and beyond,” including connecting families to and advocating for federal nutrition programs (AAP, 2015).</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Increase the proportion of persons who are vaccinated annually against <term class="no-emphasis" id="term-00007">seasonal influenza</term></entry>
+    <entry valign="top" align="left">State laws establish requirements regarding the vaccination of school children (CDC, 2016). In addition, the CDC works with public health agencies and private organizations to “improve and sustain immunization coverage and to monitor the safety of vaccines” (CDC, 2022d).</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Reduce <term class="no-emphasis" id="term-00008">drug overdose</term> deaths</entry>
+    <entry valign="top" align="left">The <term class="no-emphasis" id="term-00009">Overdose Response Strategy (ORS)</term> is a <term class="no-emphasis" id="term-00010">collaboration</term> between the CDC and the High Intensity Drug Trafficking Areas (HIDTA) program designed to help communities reduce drug overdoses through evidence-based intervention strategies at the local, regional, and state levels (CDC, 2023b).<newline/>
+    The Bureau of Justice Assistance’s Comprehensive Opioid, Stimulant, and Substance Abuse Program (BJA COSSAP) supports state, local, and tribal responses to substance use to decrease overdose deaths, improve public safety, and improve access to treatment services in the criminal justice system (CDC, 2023b).</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Reduce the number of days people are exposed to unhealthy air</entry>
+    <entry valign="top" align="left">The U.S. Environmental Protection Agency (EPA) Clean Air Act programs have lowered the levels of six common pollutants by 78% and have led to an improvement in air quality in the United States (EPA, 2023).</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Examples of LHIs and Associated Public Health Policies or Programs</caption>
+    </table>
+    </section>
+    <section id="sect-00004">
+    <title>Public Health Policy Delivery Mechanisms</title>
+    <para id="para-00005">Health policy interventions are how health policies are carried out (Hadler et al., 2018). Public health officials responsible for making decisions must consider certain factors, including selecting the appropriate intervention, facilitating the implementation of the intervention, and assessing the effectiveness of the intervention. Mechanisms for delivering public health policy interventions include fiscal policy, regulation, education, preventative treatment, and screening. [link]Table 7.6[/link] defines public health policy delivery mechanisms and provides examples of each.</para>
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Category</emphasis></span></entry>
+    <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Explanation</emphasis></span></entry>
+    <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Example(s)</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Fiscal Policy</entry>
+    <entry valign="top" align="left">The U.S. government can use fiscal policy, including subsidies, free services, and taxes, to incentivize healthy behaviors and discourage unhealthy ones (Nugent &amp; Knaul, 2006).</entry>
+    <entry valign="top" align="left">Medicaid, a national health insurance plan that covers some low-income families and children, is an example of a subsidized program that provides health-promoting services for free or reduced rates.<newline/>
+    During the COVID-19 pandemic, the government provided a certain number of free COVID test kits to American households to help stop the spread of the disease.<newline/>
+    Alcohol and cigarette taxes are examples of <term class="no-emphasis" id="term-00011">fiscal policy</term> measures that disincentivize unhealthy activities.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Regulation</entry>
+    <entry valign="top" align="left">Any law, ordinance, rule, and so on issued by a government agency or organization.</entry>
+    <entry valign="top" align="left">The FDA is the U.S. agency responsible for regulating food- and health-related products. For example, under the <term class="no-emphasis" id="term-00012">Federal Food, Drug, and Cosmetic Act (FFDCA)</term>, the FDA regulates the safety and effectiveness of medical devices.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Education</entry>
+    <entry valign="top" align="left">The information, tools, and resources needed to obtain and sustain positive health outcomes (also referred to as <term id="term-00013">health literacy).</term></entry>
+    <entry valign="top" align="left">The CDC’s <term class="no-emphasis" id="term-00014">Diabetes Self-Management Education and Support (DSMES) Toolkit</term> program provides individuals living with diabetes the necessary education and support to make the best health care decisions, leading to more positive health outcomes (CDC, 2022c).</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Preventative Treatment</entry>
+    <entry valign="top" align="left">Routine care that people receive to maintain their health or prevent disease.</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Well-child visits</term>, vaccinations, and blood tests as required by the <term class="no-emphasis" id="term-00016">Children’s Health Insurance Program (CHIP)</term> are examples of <term class="no-emphasis" id="term-00017">preventative treatment</term>.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Screening</entry>
+    <entry valign="top" align="left">Tests that screen people for diseases or other issues, often catching them before symptoms are noticed.</entry>
+    <entry valign="top" align="left">CDC guidelines on disease-specific <term class="no-emphasis" id="term-00018">screenings</term>, such as mammograms, colonoscopies, and blood pressure screenings, are examples of screenings to improve public health by preventing disease progression.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Public Health Policy Delivery Mechanisms</caption>
+    </table>
+    <note class="healthy-people" id="note-00001">
+    <para id="para-00006"><link url="https://openstax.org/r/healthypeopleba"><emphasis effect="bold">Education Access and Quality</emphasis></link></para>
+    <para id="para-00007">Education is a crucial social determinant of health, according to Healthy People 2030. Access to education increases the probability that individuals will have the necessary skills to make the best decisions related to their health. Education also assists in increasing one’s health literacy, which is the degree to which individuals have the capacity to obtain, process, and understand basic health information and services needed to make appropriate health decisions.</para>
+    </note>
+    </section>
+    <section id="sect-00005">
+    <title>Institute for Healthcare Improvement Triple Aim</title>
+    <para id="para-00008">Despite its high costs, the U.S. health care system lags in factors relating to access, affordability, and quality. As discussed in <link document="m00104">What Is Population Health?</link> the <term id="term-00019">Triple Aim</term> is a framework developed by the <term class="no-emphasis" id="term-00020">IHI</term> that aims to improve health care system performance on three levels (IHI, 2023):</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Improving the client experience of care (including quality and satisfaction)</item>
+    <item>Improving the health of populations</item>
+    <item>Reducing the per capita cost of health care</item>
+    </list>
+    <para id="para-00009">Since the inception of the Triple Aim approach in 2008, two more aims have been called for, with some referring to a <term id="term-00021">Quintuple Aim</term> (Mate, 2022). Those two aims are improving workforce well-being and safety and advancing health equity.</para>
+    <para id="para-00010">The IHI Triple Aim recommends a change process that includes identifying <term class="no-emphasis" id="term-00022">target populations</term>; defining systems, aims, and measures to target the population; developing a portfolio of project work that is strong enough to drive system changes; and performing rapid testing that is specific to the needs of the local communities and the issues the community faces (IHI, 2023). The key to the success of the IHI Triple Aim is the utilization of and adherence to five components, shown in [link]Table 7.7[/link].</para>
+    <table class="vertically-tight alternate-shading" id="table-00003">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Component</emphasis></span></entry>
+    <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Explanation/Examples</emphasis></span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Focus on Individuals and Families</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00003">
+    <item>For medically and socially complex clients, establish partnerships among individuals, families, and caregivers, including identifying and supporting a family member or friend to coordinate services for the client among multiple care providers.</item>
+    <item>Jointly plan and customize care at the level of the individual.</item>
+    <item>Actively learn from the client and family to inform work for the greater population.</item>
+    <item>Enable individuals and families to better manage their own health.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Redesign of Primary Care Services and Structures</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00004">
+    <item>Have a team for basic services that can deliver at least 70 percent of the necessary medical and health-related social services to the population.</item>
+    <item>Deliberately build an access platform for maximum flexibility to provide customized health care for the needs of clients, families, and providers.</item>
+    <item>Cooperate and coordinate with other specialties, hospitals, and community services related to health.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Population Health Management (Prevention and Health Promotion)</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00005">
+    <item>Work with the community to advocate and provide incentives for smoking prevention, healthy eating, exercise, and reduction of substance abuse.</item>
+    <item>Develop multi-sector partnerships, utilize key stakeholder resources, and align policies to provide community-based support for all who wish to make health-related behavioral changes.</item>
+    <item>Integrate health care and publicly available community-level data utilizing GIS mapping to understand local context to determine where and from whom health-related strategic community-level prevention, health promotion, and disease-management support interventions would be most useful.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Cost Control Platform</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00006">
+    <item>Achieve less than 3 percent yearly for per capita cost by developing cooperative relationships with physician groups and other health care organizations committed to reducing the waste of health care resources.</item>
+    <item>Achieve lowest decile performance in the Dartmouth Atlas measures by breaking or countering incentives for supply-driven care.</item>
+    <item>Reward health care providers, hospitals, and health care systems for their contribution to producing better health for the population and not just producing more health care.</item>
+    <item>Orient care over time—the “patient journey”—targeted to the best feasible outcomes.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">System Integration and Execution</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00007">
+    <item>Match capacity and demand for health care and social services across suppliers.</item>
+    <item>Ensure that strategic planning and execution with all suppliers, including hospitals and physician practices, are informed by the population’s needs.</item>
+    <item>Develop a system for continued learning and improvement.</item>
+    <item>Institute a sustainable governance and financial structure for the Triple Aim system.</item>
+    <item>Efficiently customize services based on appropriate segmentation of the population.</item>
+    <item>Use predictive models and health risk assessments that consider situational factors, medical history, and prior resource utilization to deploy resources to high-risk individuals.</item>
+    <item>Set and execute strategic initiatives to reduce inequitable variation in outcomes or undesirable variation in clinical practice.</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Five Components of the IHI Triple Aim (Sources: IHI, 2023; IHI, 2009)</caption>
+    </table>
+    <para id="para-00011">The results and benefits of the IHI Triple Aim are as follows (IHI, 2023):</para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Populations are healthier.</item>
+    <item>Clients receive more coordinated care, which lessens the burden of disease and illness.</item>
+    <item>The per capita cost of care for populations is stabilized.</item>
+    <item>The burden on publicly funded health care budgets (such as Medicaid and Medicare) is lessened.</item>
+    <item>The economic well-being of populations is improved.</item>
+    </list>
+    <para id="para-00012">Organizations and programs such as primary care coalitions, regional health care systems, and others have experienced success implementing the IHI Triple Aim (IHI, 2023).</para>
+    <note class="theory-action" id="note-00002">
+    <title>The Story of New Ulm—A Population Health Transformation</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/storyofnewulm"/>
+    </media>
+    <para id="para-00013">This video describes a population health initiative in Minnesota that focuses on improving the health, well-being, and quality of life of the residents. Note this video is over 22 minutes. Watch the video and then respond to the following questions:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00009">
+    <item>How does the Heart of New Ulm study use electronic health records and data warehousing to meet clients’ needs?</item>
+    <item>What are examples of health interventions at a population level?</item>
+    <item>How does the Triple Aim relate to the Heart of New Ulm?</item>
+    <item>Do you agree that improving health outcomes requires making it easy for clients to do the right thing? Why or why not?</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section class="chapter-summary" id="sect-00006">
+    <title>Chapter Summary</title>
+    <para id="para-00014">Healthy People is a public health initiative that seeks to improve health outcomes in the United States. Developed by HHS, the 10-year plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. Healthy People 2030 includes 23 high-priority LHIs to improve health and well-being over the life span. Mechanisms for the delivery of public health policy interventions include fiscal policy, regulation, education, preventative treatment, and screening. The IHI Triple Aim is a framework to improve health care system performance on three levels (improving the client experience, improving population health, and reducing costs).</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>health literacy</term> <meaning>the degree to which individuals have the capacity to obtain, process, and understand basic health information and services needed to make appropriate health decisions</meaning></definition>
+    <definition id="def-00002"><term>Healthy People</term> <meaning>a 10-year plan put forth by the HHS that establishes public health priorities and data-driven objectives to improve public health and well-being over a decade</meaning></definition>
+    <definition id="def-00003"><term>leading health indicators (LHIs)</term> <meaning>small subset of high-priority Healthy People 2030 objectives selected to drive action toward improving health and well-being; as a set, LHIs cover the life span and include objectives across topic areas</meaning></definition>
+    <definition id="def-00004"><term>Quintuple Aim</term> <meaning>a proposed update to the Institute for Healthcare Improvement’s (IHI) Triple Aim</meaning></definition>
+    <definition id="def-00005"><term>Triple Aim</term> <meaning>a framework developed by the Institute for Healthcare Improvement (IHI) that describes an approach to optimizing health system performance</meaning></definition>
+    </glossary>
 </document>
