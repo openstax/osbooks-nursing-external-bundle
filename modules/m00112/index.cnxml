@@ -6,8 +6,107 @@
     <md:uuid>b5da29b2-4260-42f9-8447-feca310b2238</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the 10 Essential Public Health Services.</item>
+    <item>Explain how the 10 Essential Public Health Services serve as a framework for addressing systemic and structural barriers contributing to health inequities.</item>
+    <item>Identify the three core functions of public health.</item>
+    <item>Describe how the 10 Essential Public Health Services align with the three core public health functions.</item>
+    </list>
     </section>
- </content>
+    <para id="para-00002">The CDC has identified <link url="https://openstax.org/r/wwwcdcgov">10 Essential Public Health Services</link> that all communities should use to protect and promote health. They include the following (CDC, 2023d):</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>Assess and monitor population health status, factors that influence health, and community needs and assets</item>
+    <item>Investigate, diagnose, and address health problems and hazards affecting the population</item>
+    <item>Communicate effectively to inform and educate people about health, factors that influence it, and how to improve it</item>
+    <item>Strengthen, support, and mobilize communities and partnerships to improve health</item>
+    <item>Create, champion, and implement policies, plans, and laws that impact health</item>
+    <item>Utilize legal and regulatory actions designed to improve and protect the public’s health</item>
+    <item>Ensure an effective system that enables equitable access to the individual services and care needed to be healthy</item>
+    <item>Build and support a diverse and skilled public health workforce</item>
+    <item>Improve and innovate public health functions through ongoing evaluation, research, and continuous quality improvement</item>
+    <item>Build and maintain a strong organizational infrastructure for public health</item>
+    </list>
+    <para id="para-00003">Public health professionals use these essential services to address health issues across the United States and ultimately improve population health outcomes. The <term class="no-emphasis" id="term-00001">10 Essential Public Health Services</term> do not expressly focus on health inequities and disparities; however, applying these principles to public health activities can help facilitate health justice across the population.</para>
+    <para id="para-00004">The essential services align with the <link url="https://openstax.org/r/malphorgs">three core functions of public health</link>. The three core functions of public health include <term class="no-emphasis" id="term-00002">assessment</term>, <term class="no-emphasis" id="term-00003">policy development</term>, and <term class="no-emphasis" id="term-00004">assurance</term> (CDC, 2023d).</para>
+    <list list-type="bulleted" id="list-00003">
+    <item>Assessment involves collecting and evaluating data to identify the health needs of populations. Public health professionals monitor health trends, identify health disparities and injustices, and identify the health problems requiring intervention and resource support. Public health nurses may conduct health surveys, collate epidemiological data, determine the health infrastructure already existing in a community, and identify health needs.</item>
+    <item>Public health professionals also develop policies or work with lawmakers to ensure policies support public health. Nurses in public health may evaluate evidence and engage affected community members to develop policies considering local social, economic, political, and other contextual factors.</item>
+    <item>Assurance is a core function that facilitates justice. When the full depth and breadth of public health services, encompassing everything from ensuring clean air to providing vaccines and empowering clients to participate in the policy process, is available to all clients, the public health system is actively working to ensure health is attainable for all.</item>
+    </list>
+    <para id="para-00005">The core functions of public health are carried out via activities specified in the 10 Essential Public Health Services. Please see [link]Table 2.1[/link], which displays connections between the 10 Essential Public Health Services and the core functions of public health as well as examples of activities public health professionals may employ to address systemic and structural barriers that contribute to inequities in health and care.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text">Essential Public Health Service</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Core Function</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Activity to Address Health Inequities</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">1. Assess and monitor population health status, factors that influence health, and community needs and assets</entry>
+    <entry valign="top" align="left">Assessment: Public health agencies and professionals collect, analyze, and evaluate data to understand the barriers, opportunities, and status of health in a population. Data is also used to identify health disparities and determine the need for resources to facilitate health and ameliorate injustices.</entry>
+    <entry valign="top" align="left">Identify <term class="no-emphasis" id="term-00005">inequities</term> and monitor progress in ameliorating them</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">2. Investigate, diagnose, and address health problems and hazards affecting the population</entry>
+    <entry valign="top" align="left">Assessment, assurance: Public health agencies and professionals study data to understand health problems and health risks, identify causes, and determine the best interventions to address health issues.</entry>
+    <entry valign="top" align="left">Examine and describe the causes of health inequities, including social determinants, exclusive policies, or inequitable access to health services and programming</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">3. Communicate effectively to inform and educate people about health, factors that influence it, and how to improve it</entry>
+    <entry valign="top" align="left">Assessment, policy development, assurance: Effective communication raises awareness and secures support for public health issues. Through effective communication, public health information is shared with community members and affected groups. Healthy behaviors and engagement in current public health services can be promoted. Effective communication supports involvement of community members as they can access accurate and timely health information and services.</entry>
+    <entry valign="top" align="left">Provide accessible and evidence-based health information to all people in order to empower clients, families, and communities in their own health processes</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">4. Strengthen, support, and mobilize communities and partnerships to improve health</entry>
+    <entry valign="top" align="left">Policy development, assurance: Public health agencies and professionals collaborate with communities, organizations, affected groups, and other key parties to build partnerships and develop resources that address health needs and improve health outcomes.</entry>
+    <entry valign="top" align="left">Meaningfully involve community organizations, local leaders, or affected groups to identify barriers to health equity and develop strategies to address them that the community finds realistic, useful, and acceptable</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">5. Create, champion, and implement policies, plans, and laws that impact health</entry>
+    <entry valign="top" align="left">Policy development: Policies are developed with support from and in response to the public health data collected and to prevent disease, avoid harm, and reduce risk in the community.</entry>
+    <entry valign="top" align="left">Ensure policies, plans, and laws facilitate equitable distribution of health resources and promote health equity across communities</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">6. Utilize legal and regulatory actions designed to improve and protect the public’s health</entry>
+    <entry valign="top" align="left">Policy development, assurance: Public health departments and other agencies may implement and enforce regulations that protect the health of the public.</entry>
+    <entry valign="top" align="left">Ensure compliance with policies and programs developed to improve health equity, from nondiscriminatory practices to those that support healthy environments for all communities</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">7. Ensure an effective system that enables equitable access to the individual services and care needed to be healthy</entry>
+    <entry valign="top" align="left">Assurance: Public health professionals work to ensure that all population members can access health services regardless of their current health, employment, education level, or other determinants. Public health agencies reduce barriers to care to facilitate equity in access and opportunity.</entry>
+    <entry valign="top" align="left">Remove <term class="no-emphasis" id="term-00006">barriers</term> to accessing care through promoting the availability and access of health services, clinics, mental health services, social programs, and other resources</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">8. Build and support a diverse and skilled public health workforce</entry>
+    <entry valign="top" align="left">Assurance: The public health workforce must have strength in numbers to adequately address health needs and strength in diversity and inclusion so that the workforce approximates the characteristics of the community served.</entry>
+    <entry valign="top" align="left">Promote <term class="no-emphasis" id="term-00007">inclusion</term> and belonging in the public health workforce to support a more comprehensive understanding and community-relevant response to problems from public health agencies</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">9. Improve and innovate public health functions through ongoing evaluation, research, and continuous quality improvement</entry>
+    <entry valign="top" align="left">Assessment, assurance: Public health agencies evaluate programs and policies continuously to determine effectiveness, identify areas for opportunity, and ensure that resources are properly allocated to support health.</entry>
+    <entry valign="top" align="left">Include measures of equity and access in ongoing evaluation to inform quality improvement initiatives that lead to better population health outcomes related to reducing health disparities</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">10. Build and maintain a strong organizational infrastructure for public health</entry>
+    <entry valign="top" align="left">Assurance: Public health organizations, agencies, or departments carry out many functions essential to the well-being of the population. Administrative systems; information technology; and professionals to assess, plan, deliver, and evaluate services are just a few essential departments and duties of a public health organization that require adequate funding, equipment, technology, space, and personnel.</entry>
+    <entry valign="top" align="left">Guide organizational planning with principles of <term class="no-emphasis" id="term-00008">justice</term>, belonging, <term class="no-emphasis" id="term-00009">equity</term>, and inclusion to ensure eliminating disparities and inequities is a priority in public health</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Essential Public Health Services, Core Functions, and Activities to Address Health Inequities</caption>
+    </table>
+    <para id="para-00006"><link document="m00114">Public/Community Health in Practice</link> will discuss how nurses in public/community health carry out the 10 Essential Public Health Services and three core functions of public health.</para>
+    <section class="section-summary" id="sect-00002">
+    <para id="para-00007">The CDC identified 10 Essential Public Health Services that can be used to guide health promotion and protection activities. Essential services include assessing population health, investigating and addressing health problems, effective communication, community mobilization, policy development, legal actions, equitable access to care, building a skilled workforce, evaluation and research, and supporting organization infrastructure. The essential services align, and work in concert, with the three core functions of public health: assessment, policy development, and assurance. Assessment involves collecting and evaluating health data, policy development involves creating regulations supportive of health, and assurance supports access to services for everyone.</para>
+    </section>
+    </content>
 </document>

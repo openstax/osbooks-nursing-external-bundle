@@ -6,8 +6,213 @@
     <md:uuid>024c6e26-57e0-48d0-8f5a-9e875916632d</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify and differentiate between the five levels of prevention in public health.</item>
+    <item>Differentiate public health efforts according to one of the three levels of prevention.</item>
+    </list>
     </section>
- </content>
+    <para id="para-00002">Much of public health is focused on prevention—preventing injuries, preventing acute illnesses, preventing chronic conditions, even preventing unexpected death. The five <term class="no-emphasis" id="term-00001">levels of prevention</term> in public health are primordial, primary, secondary, tertiary, and quaternary. Primary, secondary, and tertiary are the long-standing levels of prevention; not all public health professionals or nurses may consider primordial and quaternary prevention in their work, depending on when they entered the field and if they have yet learned of these two types of prevention ([link]Figure 2.6[/link]). Although the concepts of primordial and quaternary prevention entered the health care lexicon in 1978 and 1986, respectively, the other three levels of prevention are more familiar to generations of clinicians (Kisling &amp; Das, 2023; Martins et al., 2018). [link]Table 2.2[/link] provides some examples of the levels of prevention applied to different health conditions. Of note, quaternary prevention is not included in the table, as the quaternary activities are generally focused on what clinicians should <emphasis effect="italics">not</emphasis> do.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A diagram uses a triangle divided into 4 sections to show the different levels of prevention in public health. The base of the triangle is primordial prevention, which affects populations by reducing overall risk. 16 stick figures in this section represent the broad number of people affected by this level of prevention. The next level is primary prevention, which affects at-risk populations or environments by preventing problems. 8 stick figures in in this section represent the relative number of people affected by this level of prevention. The third section is secondary, which affects individuals by detecting conditions or needs. 4 stick figures in this section relative number of people affected by this level of prevention. The final, smallest section, is tertiary, which affects individuals by preventing or lessening negative impact. 1 stick figure in this section represents the relative number of people affected by this level of prevention."><image mime-type="image/png" src="../../media/PH_Figure_02_05_006.png"/></media>
+    <caption>Levels of prevention in public health focus on different strategies to improve population health outcomes. (See U.S. Department of Health and Human Services, 2023a; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <list list-type="bulleted" id="list-00002">
+    <item><term id="term-00002">Primordial prevention</term> focuses on risk factor reduction for an entire population and is usually carried out through large social changes and national policy (Falkner &amp; Lurbe, 2020).
+    <list list-type="bulleted" id="list-00003">
+    <item>The American Heart Association has emphasized following the DASH diet (dietary approaches to stop hypertension), participating in physical activity, keeping a normal body mass index, avoiding smoking, and consuming low or no alcohol as primordial prevention strategies to avoid risk factors for poor cardiac health (Lloyd-Jones et al., 2021).</item></list></item>
+    <item><term id="term-00003">Primary prevention</term> involves interventions to prevent an adverse health outcome from occurring. Primary prevention interventions may target the population, groups, and communities at high risk of a particular condition. Immunizations and education on healthy lifestyle factors are two examples of primary prevention strategies.
+    <list list-type="bulleted" id="list-00004">
+    <item>Medication overuse headache occurs when those who suffer headaches take medications to address their pain but then have rebound headaches from using medications too often. A group of researchers designed and implemented an education campaign for primary care providers and clients on the disorder and guidance on stopping overused medications to prevent this type of headache (Diener et al., 2019).</item></list></item>
+    <item><term id="term-00004">Secondary prevention</term> focuses on early disease detection so that conditions can be diagnosed early and promptly treated to stop or slow progression and minimize impact. Screening is the primary activity in secondary prevention, but other activities may be conducted.
+    <list list-type="bulleted" id="list-00005">
+    <item>During an ischemic stroke, a client will have blood flow to a part of their brain blocked. On identification of an ischemic stroke in a client, a secondary prevention strategy includes surgical placement of a stent to help restore blood flow (Diener &amp; Hankey, 2020).</item></list></item>
+    <item><term id="term-00005">Tertiary prevention</term> strategies aim to lessen the negative impact of a health condition and prevent complications. Treatment through medications, surgical procedures, complementary modalities, therapies, and rehabilitation approaches are tertiary prevention activities.
+    <list list-type="bulleted" id="list-00006">
+    <item>Researchers studied an intervention to help individuals who are unhoused during the transitional period to becoming housed. Over 6 months, youth who were unhoused received outreach-based case-management services, individual and group mental health support, and peer support. Following program participation, the youth displayed gains in employment, education, and connection to mental health services (Kidd et al., 2019).</item></list></item>
+    <item><term id="term-00006">Quaternary prevention</term> aims to avoid overmedicalizing clients (Martins et al., 2018), meaning clients are protected from health interventions that might cause more harm than good. To carry out quaternary prevention, clinicians attempt to avoid conducting tests and exams that are not essential to the client’s plan of care or well-being. For social problems, public health professionals address the risks and harm associated with excessive intervention.
+    <list list-type="bulleted" id="list-00007">
+    <item>For example, if a client presented to the urgent care clinic with a runny nose, cough, and no fever for three days with clear lung sounds, the clinician may reason that the client has a viral upper respiratory infection instead of a bacterial upper respiratory infection. Antibiotics would not be needed given the likely viral cause. Additionally, a viral panel to determine the causative agent would yield interesting results but would not change the plan of care for the client. Regardless of the virus causing the symptoms, the client would be asked to avoid other people and public spaces, possibly wear a surgical mask when around others, hydrate, get rest, and use over-the-counter medications as needed.</item></list></item>
+    </list>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="5">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <colspec colnum="5" colname="c5" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="left"><span class="blue-text">Condition</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Primordial</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Primary</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Secondary</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Tertiary</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Cervical cancer</entry>
+    <entry valign="top" align="left">Mandating health plan coverage of cervical cancer screening tests</entry>
+    <entry valign="top" align="left">HPV vaccine administration</entry>
+    <entry valign="top" align="left">Cervical cancer screening tests</entry>
+    <entry valign="top" align="left">Electrosurgical excision to remove diseased tissue from the cervix</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Preeclampsia</entry>
+    <entry valign="top" align="left">Mandating health plan coverage of prenatal visits</entry>
+    <entry valign="top" align="left">Blood pressure monitoring and urine testing during pregnancy</entry>
+    <entry valign="top" align="left">Medications to control blood pressure</entry>
+    <entry valign="top" align="left">Immediate delivery of the baby on conversion to eclampsia</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Migraine</entry>
+    <entry valign="top" align="left">Promoting migraine-friendly schools and offices</entry>
+    <entry valign="top" align="left">Educating individuals about migraine triggers</entry>
+    <entry valign="top" align="left">Medications for symptom relief and prevention</entry>
+    <entry valign="top" align="left">Specialized infusions for chronic pain management</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Influenza</entry>
+    <entry valign="top" align="left">Use of masks, handwashing, and cough courtesy</entry>
+    <entry valign="top" align="left">Annual <term class="no-emphasis" id="term-00007">vaccine</term> administration</entry>
+    <entry valign="top" align="left">Rapid influenza testing</entry>
+    <entry valign="top" align="left">Antiviral treatments</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Food insecurity</entry>
+    <entry valign="top" align="left">Funding of social safety nets to reduce poverty and food inaccessibility</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Food assistance programs</term> and community gardens</entry>
+    <entry valign="top" align="left">Referrals to food banks and government assistance programs</entry>
+    <entry valign="top" align="left">Employment assistance, financial literacy, and budget training</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Gun violence</entry>
+    <entry valign="top" align="left">Comprehensive gun control policies</entry>
+    <entry valign="top" align="left">Safe firearm storage education</entry>
+    <entry valign="top" align="left">Early identification of perpetrators and deployment of crisis response</entry>
+    <entry valign="top" align="left">Emergency care and support for victims</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Youth social media and mental health</entry>
+    <entry valign="top" align="left">Positive digital citizenship and online behavior guidelines for students</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Cyberbullying</term>, privacy, safety, and screen time education</entry>
+    <entry valign="top" align="left">Twice-yearly mental health screenings in schools</entry>
+    <entry valign="top" align="left">Therapy programs to address <term class="no-emphasis" id="term-00010">mental health</term> and promote coping strategies</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Levels of Prevention Examples</caption>
+    </table>
+    <note class="case-reflection" id="note-00001">
+    <para id="para-00003"><emphasis effect="bold">Case Reflection: The Lee Family</emphasis></para>
+    <para id="para-00004">Read the scenario, and then answer the questions that follow.</para>
+    <para id="para-00005">You are working with the Lee family and focusing on the health of the children Sunshine and Woody.</para>
+    <list list-type="bulleted" id="list-00008">
+    <item>Sunshine, life-threatening allergy: Sunshine just started kindergarten and has an epi-pen for a life-threatening nut allergy. She attended an after-school arts and crafts program twice a week but stopped going when Christopher lost his job. Her parents are considering home-schooling her due to the increased incidence of school-based gun violence in America.</item>
+    <item>Woody, toddler who is generally healthy and attends the daycare where Alexandra works.</item>
+    <item>Sunshine and Woody love going to the park near their home with their parents. Both are excited to see their paternal grandparents, who will soon visit from South Korea.</item>
+    </list>
+    <list list-type="enumerated" number-style="arabic" id="list-00009">
+    <item>What adverse health outcomes may occur but have not yet affected Sunshine and Woody? What are some related primary prevention interventions?</item>
+    <item>Based on their ages, what secondary prevention activities should be completed?</item>
+    <item>How may tertiary prevention activities be implemented for Sunshine’s life-threatening allergy?</item>
+    <item>What primordial prevention efforts in the Lee family’s city, state, or nation could positively impact their health?</item>
+    </list>
+    </note>
+    <section class="review-questions" id="sect-00002">
+    <title>Review Questions</title>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00006"><link class="os-embed" url="#exercise/COM_Ch02_Sec03_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00007"><link class="os-embed" url="#exercise/COM_Ch02_Sec01_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00008"><link class="os-embed" url="#exercise/COM_Ch02_Sec03_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00009"><link class="os-embed" url="#exercise/COM_Ch02_Sec02_RQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00010"><link class="os-embed" url="#exercise/COM_Ch02_Sec03_RQ5"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00011"><link class="os-embed" url="#exercise/COM_Ch02_Sec04_RQ6"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00012"><link class="os-embed" url="#exercise/COM_Ch02_Sec04_RQ7"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00013"><link class="os-embed" url="#exercise/COM_Ch02_Sec05_RQ8"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00014"><link class="os-embed" url="#exercise/COM_Ch02_Sec05_RQ9"/></para></problem></exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00015"><link class="os-embed" url="#exercise/COM_Ch02_Sec05_RQ10"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00003">
+    <para id="para-00016">Alfonso, Y. N., Leider, J. P., Resnick, B., McCullough, J. M., &amp; Bishai, D. (2021). U.S. public health neglected: Flat or declining spending left states ill equipped to respond to COVID-19. <emphasis effect="italics">Health Affairs</emphasis>, <emphasis effect="italics">40</emphasis>(4), 664–671. https://doi.org/10.1377/hlthaff.2020.01084</para>
+    <para id="para-00017">American Academy of Family Physicians. (2020). <emphasis effect="italics">Race based medicine</emphasis>. Policies. https://www.aafp.org/about/policies/all/racebased-medicine.html</para>
+    <para id="para-00018">American Nurses Association. (2022). <emphasis effect="italics">Public health nursing: Scope and standards of practice</emphasis> (3rd ed.). American Nurses Association.</para>
+    <para id="para-00019">American Public Health Association. (2022). <emphasis effect="italics">What is public health?</emphasis> https://www.apha.org/what-is-public-health</para>
+    <para id="para-00020">American Social History Project. (n.d.). <emphasis effect="italics">Daughters of free men: Viewer’s guide to the 30-minute documentary by the American Social History Project</emphasis>. https://ashp.cuny.edu/sites/default/files/daughters-viewerguide908.pdf</para>
+    <para id="para-00021">Axelsson, R., &amp; Axelsson, S. B. (2006). Integration and collaboration in public health—A conceptual framework. <emphasis effect="italics">The International Journal of Health Planning and Management</emphasis>, <emphasis effect="italics">21</emphasis>(1), 75–88. https://doi.org/10.1002/hpm.826</para>
+    <para id="para-00022">Baiden, D., Parry, M., Nerenberg, K., Hillan, E. M., &amp; Dogba, M. J. (2022). Connecting the dots: Structural racism, intersectionality, and cardiovascular health outcomes for African, Caribbean, and Black mothers. <emphasis effect="italics">Health Equity, 6</emphasis>(1), 402–405. https://doi.org/10.1089/heq.2021.0077</para>
+    <para id="para-00023">Bartlett, E. (1841). <emphasis effect="italics">A vindication of the character and condition of the females employed in the Lowell mills against the charges contained in the Boston times, and the Boston quarterly review.</emphasis> L. Huntress, printer.</para>
+    <para id="para-00024">Beaudry, M. C., &amp; Mrozowski, S. A. (Eds.). (1989). <emphasis effect="italics">Interdisciplinary investigations of the Boott Mills, Lowell, Massachusetts</emphasis> (Vol. 3). Division of Cultural Resources, North Atlantic Regional Office, National Park Service, U.S. Department of the Interior.</para>
+    <para id="para-00025">Beckles, G. L., &amp; Chou, C.-F. (2016). Disparities in the prevalence of diagnosed diabetes: United States, 1999–2002 and 2011–2014.<emphasis effect="italics"> Morbidity and Mortality Weekly Report</emphasis>, <emphasis effect="italics">65</emphasis>(45), 1265–1269. https://doi.org/10.15585/mmwr.mm6545a4</para>
+    <para id="para-00026">Bharel, M., &amp; Seth Mohta, N. (2020). Defining distinctions between public and population health to knock down barriers that impede care. <emphasis effect="italics">NEJM Catalyst</emphasis>. https://catalyst.nejm.org/doi/full/10.1056/CAT.20.0432</para>
+    <para id="para-00027">Bogage, J. (2023, May 4). Iowa bill reducing child labor protections to be signed by governor. <emphasis effect="italics">The Washington Post</emphasis>. https://www.washingtonpost.com/business/2023/05/04/iowa-child-labor-reynolds/</para>
+    <para id="para-00028">Britannica Editors. (2023, August 6). Francis Cabot Lowell. In <emphasis effect="italics">Encyclopaedia Britannica</emphasis>. https://www.britannica.com/biography/Francis-Cabot-Lowell</para>
+    <para id="para-00029">CDC Foundation. (2023). <emphasis effect="italics">What is public health?</emphasis> https://www.cdcfoundation.org/what-public-health?</para>
+    <para id="para-00030">Centers for Disease Control and Prevention. (2022). <emphasis effect="italics">Notifiable disease</emphasis>. https://www.cdc.gov/nchs/hus/sources-definitions/notifiable-disease.htm#:~:text=Print-,Notifiable%20disease,contagiousness%2C%20severity%2C%20or%20frequency</para>
+    <para id="para-00031">Centers for Disease Control and Prevention. (2023a). Nationally notifiable infectious diseases and conditions, United States: Weekly tables. https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp</para>
+    <para id="para-00032">Centers for Disease Control and Prevention. (2023b, June 26). <emphasis effect="italics">National notifiable diseases surveillance system</emphasis> (NNDSS). https://www.cdc.gov/nchs/hus/sources-definitions/nndss.htm</para>
+    <para id="para-00033">Centers for Disease Control and Prevention. (2023c, July 6). <emphasis effect="italics">Facts about hypertension</emphasis>. https://www.cdc.gov/bloodpressure/facts.htm</para>
+    <para id="para-00034">Centers for Disease Control and Prevention. (2023d, September 18.) <emphasis effect="italics">10 essential public health services</emphasis>. https://www.cdc.gov/publichealthgateway/publichealthservices/essentialhealthservices.html</para>
+    <para id="para-00035">Crane-Kramer, G., &amp; Buckberry, J. (2023). Changes in health with the rise of industry. <emphasis effect="italics">International Journal of Paleopathology</emphasis>, <emphasis effect="italics">40</emphasis>, 99–102. https://doi.org/10.1016/j.ijpp.2022.12.005</para>
+    <para id="para-00036">Devi, S. (2020). U.S. public health budget cuts in the face of COVID-19. <emphasis effect="italics">The Lancet Infectious Diseases</emphasis>, <emphasis effect="italics">20</emphasis>(4), 415. https://doi.org/10.1016/S1473-3099(20)30182-1</para>
+    <para id="para-00037">Diener, H.-C., Dodick, D., Evers, S., Holle, D., Jensen, R. H., Lipton, R. B., Porreca, F., Silberstein, S., &amp; Schwedt, T. (2019). Pathophysiology, prevention, and treatment of medication overuse headache. <emphasis effect="italics">The Lancet Neurology</emphasis>, <emphasis effect="italics">18</emphasis>(9), 891–902. https://doi.org/10.1016/S1474-4422(19)30146-2</para>
+    <para id="para-00038">Diener, H.-C., &amp; Hankey, G. J. (2020). Primary and secondary prevention of ischemic stroke and cerebral hemorrhage. <emphasis effect="italics">Journal of the American College of Cardiology</emphasis>, <emphasis effect="italics">75</emphasis>(15), 1804–1818. https://doi.org/10.1016/j.jacc.2019.12.072</para>
+    <para id="para-00039">Dopp, A. R., &amp; Lantz, P. M. (2020). Moving upstream to improve children’s mental health through community and policy change. <emphasis effect="italics">Administration and Policy in Mental Health and Mental Health Services Research</emphasis>, <emphasis effect="italics">47</emphasis>(5), 779–787. https://doi.org/10.1007/s10488-019-01001-5</para>
+    <para id="para-00040">Dorfman, L., &amp; Krasnow, I. D. (2014). Public health and media advocacy. <emphasis effect="italics">Annual review of public health</emphasis>, <emphasis effect="italics">35</emphasis>, 293–306. https://doi.org/10.1146/annurev-publhealth-032013-182503</para>
+    <para id="para-00041">Falkner, B., &amp; Lurbe, E. (2020). Primordial prevention of high blood pressure in childhood: An opportunity not to be missed. <emphasis effect="italics">Hypertension</emphasis>, <emphasis effect="italics">75</emphasis>(5), 1142–1150. https://doi.org/10.1161/HYPERTENSIONAHA.119.14059</para>
+    <para id="para-00042">Figueroa. (2023, April 7). Kids at work: States try to ease child labor laws at behest of industry. <emphasis effect="italics">Missouri Independent</emphasis>. https://missouriindependent.com/2023/04/07/kids-at-work-states-try-to-ease-child-labor-laws-at-behest-of-industry/</para>
+    <para id="para-00043">Fowler, D., Brimblecombe, P., Burrows, J., Heal, M. R., Grennfelt, P., Stevenson, D. S., Jowett, A., Nemitz, E., Coyle, M., Liu, X., Chang, Y., Fuller, G. W., Sutton, M. A., Klimont, Z., Unsworth, M. H., &amp; Vieno, M. (2020). A chronology of global air quality. <emphasis effect="italics">Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</emphasis>, <emphasis effect="italics">378</emphasis>(2183), 20190314. https://doi.org/10.1098/rsta.2019.0314</para>
+    <para id="para-00044">Garment Worker Center, UCLA Center for Labor Research and Education, &amp; UCLA Labor Occupational Safety and Health. (2016). <emphasis effect="italics">Dirty threads and dangerous factories: Health and safety in Los Angeles’ fashion industry</emphasis>. https://garmentworkercenter.org/wp-content/uploads/2016/12/DirtyThreads.pdf</para>
+    <para id="para-00045">Gautier, L., Karambé, Y., Dossou, J.-P., &amp; Samb, O. M. (2022). Rethinking development interventions through the lens of decoloniality in sub-Saharan Africa: The case of global health. <emphasis effect="italics">Global Public Health</emphasis>, <emphasis effect="italics">17</emphasis>(2), 180–193. https://doi.org/10.1080/17441692.2020.1858134</para>
+    <para id="para-00046">Hanlon, J. J., &amp; Pickett, G. E. (1984). <emphasis effect="italics">Public health: Administration and practice</emphasis> (8th ed.). Mosby.</para>
+    <para id="para-00047">Hasbrouck, L. (2021). Healthy People 2030: An improved framework. <emphasis effect="italics">Health Education &amp; Behavior</emphasis>, <emphasis effect="italics">48</emphasis>(2), 113–114. https://doi.org/10.1177/1090198121997812</para>
+    <para id="para-00048">Hill-Briggs, F., Adler, N. E., Berkowitz, S. A., Chin, M. H., Gary-Webb, T. L., Navas-Acien, A., Thornton, P. L., &amp; Haire-Joshu, D. (2021). Social determinants of health and diabetes: A scientific review. <emphasis effect="italics">Diabetes Care</emphasis>, <emphasis effect="italics">44</emphasis>(1), 258–279. https://doi.org/10.2337/dci20-0053</para>
+    <para id="para-00049">Huang, X., Lee, K., Wang, M. C., Shah, N. S., &amp; Khan, S. S. (2022). Age at diagnosis of hypertension by race and ethnicity in the U.S. from 2011 to 2020. <emphasis effect="italics">JAMA Cardiology</emphasis>, <emphasis effect="italics">7</emphasis>(9), 986. https://doi.org/10.1001/jamacardio.2022.2345</para>
+    <para id="para-00050">Institute of Medicine Committee for the Study of the Future of Public Health. (1988). A history of the public health system. In <emphasis effect="italics">The Future of Public Health.</emphasis> National Academies Press. https://www.ncbi.nlm.nih.gov/books/NBK218224</para>
+    <para id="para-00051">Institute of Medicine (US) Committee on Assuring the Health of the Public in the 21st Century. (2002). <emphasis effect="italics">The future of the public’s health in the 21st century</emphasis>. National Academies Press (US). https://www.ncbi.nlm.nih.gov/books/NBK221239/</para>
+    <para id="para-00052">Javed, Z., Haisum Maqsood, M., Yahya, T., Amin, Z., Acquah, I., Valero-Elizondo, J., Andrieni, J., Dubey, P., Jackson, R. K., Daffin, M. A., Cainzos-Achirica, M., Hyder, A. A., &amp; Nasir, K. (2022). Race, racism, and cardiovascular health: Applying a social determinants of health framework to racial/ethnic disparities in cardiovascular disease. <emphasis effect="italics">Circulation: Cardiovascular Quality and Outcomes</emphasis>, <emphasis effect="italics">15</emphasis>(1). https://doi.org/10.1161/CIRCOUTCOMES.121.007917</para>
+    <para id="para-00053">Kantor, A. F. (1976). Upton Sinclair and the Pure Food and Drugs Act of 1906. “I aimed at the public’s heart and by accident I hit it in the stomach.” <emphasis effect="italics">American Journal of Public Health</emphasis>, <emphasis effect="italics">66</emphasis>(12), 1202–1205. https://doi.org/10.2105/AJPH.66.12.1202</para>
+    <para id="para-00054">Kidd, S. A., Vitopoulos, N., Frederick, T., Leon, S., Karabanow, J., &amp; McKenzie, K. (2019). More than four walls and a roof needed: A complex tertiary prevention approach for recently homeless youth. <emphasis effect="italics">American Journal of Orthopsychiatry, 89</emphasis>(2), 248–257. https://doi.org/10.1037/ort0000335</para>
+    <para id="para-00055">King, L. S. (1983).Germ theory and its influence. <emphasis effect="italics">JAMA: The Journal of the American Medical Association</emphasis>, <emphasis effect="italics">249</emphasis>(6), 794. https://doi.org/10.1001/jama.1983.03330300076042</para>
+    <para id="para-00056">Kiran, T., &amp; Pinto, A. D. (2016). Swimming “upstream” to tackle the social determinants of health. <emphasis effect="italics">BMJ Quality &amp; Safety</emphasis>, <emphasis effect="italics">25</emphasis>(3), 138–140. https://doi.org/10.1136/bmjqs-2015-005008</para>
+    <para id="para-00057">Kisling, L. A., &amp; Das, J. (2023). <emphasis effect="italics">Prevention strategies</emphasis>. StatPearls. http://www.ncbi.nlm.nih.gov/books/NBK537222/</para>
+    <para id="para-00058">Koman, P. D., Singla, V., Lam, J., &amp; Woodruff, T. J. (2019). Population susceptibility: A vital consideration in chemical risk evaluation under the Lautenberg Toxic Substances Control Act. <emphasis effect="italics">PLOS Biology</emphasis>, <emphasis effect="italics">17</emphasis>(8), e3000372. https://doi.org/10.1371/journal.pbio.3000372</para>
+    <para id="para-00059">Kuehn, B. M. (2011). Public health cuts threaten preparedness, preventive health services. <emphasis effect="italics">JAMA: The Journal of the American Medical Association</emphasis>, <emphasis effect="italics">306</emphasis>(18), 1965–1966. https://jamanetwork.com/journals/jama/article-abstract/1731850</para>
+    <para id="para-00060">Kuehn, B. M. (2021). AHA takes aim at structural racism as a public health crisis. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">143</emphasis>(5), 501–502. https://doi.org/10.1161/CIRCULATIONAHA.120.053306</para>
+    <para id="para-00061">Levine, D., &amp; Rosencrantz, B. G. (1972). Public health and the state: Changing views in Massachusetts, 1842–1936. <emphasis effect="italics">The Journal of American History</emphasis>, <emphasis effect="italics">59</emphasis>(3), 1. https://doi.org/10.2307/1900712</para>
+    <para id="para-00062">Library of Congress. (n.d.). <emphasis effect="italics">Work in the late 19th century</emphasis>. U.S. history primary source timeline. https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/work-in-late-19th-century/</para>
+    <para id="para-00063">Lloyd-Jones, D. M., Albert, M. A., &amp; Elkind, M. (2021). The American Heart Association’s focus on primordial prevention. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">144</emphasis>(15). https://doi.org/10.1161/CIRCULATIONAHA.121.057125</para>
+    <para id="para-00064">Martins, C., Godycki-Cwirko, M., Heleno, B., &amp; Brodersen, J. (2018). Quaternary prevention: Reviewing the concept: Quaternary prevention aims to protect patients from medical harm. <emphasis effect="italics">European Journal of General Practice</emphasis>, <emphasis effect="italics">24</emphasis>(1), 106–111. https://doi.org/10.1080/13814788.2017.1422177</para>
+    <para id="para-00065">McKinlay, J. B. (2019). A case for refocusing upstream: The political economy of illness. <emphasis effect="italics">IAPHS Occasional Classics</emphasis>, <emphasis effect="italics">1</emphasis>, 1–10.</para>
+    <para id="para-00066">Murphy, E., Donnelly, C., &amp; McKean, D. (2019). In a city of mills and canals: Mortality among pre-teen and teenage Irish workers in mid-nineteenth-century industrial Lowell, Massachusetts. <emphasis effect="italics">Childhood in the Past</emphasis>, <emphasis effect="italics">12</emphasis>(2), 117–128. https://doi.org/10.1080/17585716.2019.1638557</para>
+    <para id="para-00067">National Association of School Nurses. (2020). <emphasis effect="italics">Position brief: Eliminate racism to optimize student health and learning</emphasis>. https://www.nasn.org/advocacy/professional-practice-documents/positionbriefs/pb-racism</para>
+    <para id="para-00068">Office of Disease Prevention and Health Promotion. (n.d.a). <emphasis effect="italics">Global health</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/global-health</para>
+    <para id="para-00069">Office of Disease Prevention and Health Promotion. (n.d.b). <emphasis effect="italics">Reduce cases of pertussis among infants</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives/infectious-disease/reduce-cases-pertussis-among-infants-iid-05</para>
+    <para id="para-00070">Robinson, H. H. (2011). <emphasis effect="italics">Loom and spindle: Of life amongst the early mill girls</emphasis>. Applewood Books.</para>
+    <para id="para-00071">Rosen, G. (1976). Benjamin Rush on health and the American revolution. <emphasis effect="italics">American Journal of Public Health</emphasis>, <emphasis effect="italics">66</emphasis>(4), 397–398. https://doi.org/10.2105/AJPH.66.4.397</para>
+    <para id="para-00072">Rosenkrantz, B. (1972). <emphasis effect="italics">Public health and the state: Changing views in Massachusetts</emphasis>.<emphasis effect="italics"> 1842-1936</emphasis>. Harvard University Press.</para>
+    <para id="para-00073">Shahzad, M., Upshur, R., Donnelly, P., Bharmal, A., Wei, X., Feng, P., &amp; Brown, A. D. (2019). A population-based approach to integrated healthcare delivery: A scoping review of clinical care and public health collaboration. <emphasis effect="italics">BMC Public Health</emphasis>, <emphasis effect="italics">19</emphasis>(1), 708. https://doi.org/10.1186/s12889-019-7002-z</para>
+    <para id="para-00074">Shryock, R. H. (1937). The early American public health movement. <emphasis effect="italics">American Journal of Public Health and the Nation’s Health</emphasis>, <emphasis effect="italics">27</emphasis>(10), 965–971. https://doi.org/10.2105/AJPH.27.10.965</para>
+    <para id="para-00075">Teleky, L. (2012). History of factory and mine hygiene. <emphasis effect="italics">American Journal of Public Health</emphasis>, <emphasis effect="italics">102</emphasis>(6), 1104–1106. https://doi.org/10.2105/AJPH.2012.10261104</para>
+    <para id="para-00076">Tulchinsky, T. H., &amp; Varavikova, E. A. (2014). A history of public health. In <emphasis effect="italics">The New Public Health</emphasis> (3rd ed., pp. 1–42). Academic Press. https://doi.org/10.1016/B978-0-12-415766-8.00001-X</para>
+    <para id="para-00077">U.S. Department of Health and Human Services. (2023a). <emphasis effect="italics">Advancing primary prevention in human services: Convening findings.</emphasis> https://aspe.hhs.gov/sites/default/files/documents/8228e700f6e369df9382ac8e0d3976c1/primary-prevention-convening-brief.pdf</para>
+    <para id="para-00078">U.S. Department of Health and Human Services. (2023b). <emphasis effect="italics">Surgeon General issues new advisory about effects social media use has on youth mental health</emphasis>. News. https://www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-advisory-about-effects-social-media-use-has-youth-mental-health.html</para>
+    <para id="para-00079">United States Department of Labor. (2023). <emphasis effect="italics">Children have rights</emphasis>. Child labor. https://www.worker.gov/child-labor-wages/#</para>
+    <para id="para-00080">U.S. Environmental Protection Agency. (2021). <emphasis effect="italics">Indoor air quality</emphasis>. Report on the environment. https://www.epa.gov/report-environment/indoor-air-quality</para>
+    <para id="para-00081">Vandiver, B. J. (2020). Message from the editor-in-chief: Racism as public health crisis. <emphasis effect="italics">Journal of Black Psychology</emphasis>, <emphasis effect="italics">46</emphasis>(5), 347–350. https://doi.org/10.1177/0095798420956806</para>
+    <para id="para-00082">Winslow, C. E. A. (1924). <emphasis effect="italics">The evolution and significance of the modern public health campaign</emphasis>. <emphasis effect="italics">American Journal of Public Health, 14</emphasis>(4), 343. https://ajph.aphapublications.org/doi/full/10.2105/AJPH.14.4.343-a</para>
+    </section>
+    <section class="section-summary" id="sect-00004">
+    <para id="para-00083">The five levels of prevention in public health are primordial, primary, secondary, tertiary, and quaternary. Primordial prevention focuses on reducing risk factors for the public through social change and large-scale policy. Primary prevention aims to prevent adverse health outcomes, especially in high-risk populations or individuals. Early disease detection through screening and prompt treatment are two aspects of secondary prevention. Tertiary prevention involves treatment to minimize the negative impact of a health condition and prevent complications. When professionals work to protect individuals from unnecessary interventions, they are engaging in quaternary prevention. Initiatives at each level of prevention contribute to promoting health and reducing the burden of disease.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>primary prevention</term> <meaning>initiatives that aim to prevent an adverse health event from occurring, such as immunizations and health promotion education</meaning></definition>
+    <definition id="def-00002"><term>primordial prevention</term> <meaning>initiatives that aim to reduce risk for a disease or condition across an entire population, such as social change and national policy</meaning></definition>
+    <definition id="def-00003"><term>quaternary prevention</term> <meaning>actions and decisions that protect overmedicalization of clients; protecting clients from interventions that might cause more harm than good</meaning></definition>
+    <definition id="def-00004"><term>secondary prevention</term> <meaning>initiatives implemented to detect diseases or health conditions early on in their course so they can be diagnosed early and promptly treated to stop or slow progression and minimize impact; screening is the primary activity in secondary prevention</meaning></definition>
+    <definition id="def-00005"><term>tertiary prevention</term> <meaning>initiatives that aim to lessen the negative impact of a health condition and prevent complications</meaning></definition>
+    </glossary>
 </document>
