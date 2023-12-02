@@ -29,7 +29,7 @@
 <figure id="fig-00001"><media alt="Anemic blood under the microscope. Most of the smaller red blood cells are pale, although there are a few that are darker. These red blood cells surround the larger white blood cells."><image mime-type="image/jpg" src="../../media/NUT_Figure_10_01_002.jpg"/></media>
 <caption>Human blood from a case of iron deficiency anemia. The red blood cells are pale and smaller than the larger white blood cells shown in the image. (credit: “This photomicrograph of a Prussian blue stained bone marrow sample, revealed that there was a lack of iron stores. Prussian blue staining for iron particles, which reveals little or no stainable iron in the bone marrow reticulum cells, and normoblasts, is the definitive test for iron deficiency, in the case of iron deficiency anemia (IDA)” by CDC/ Dr. Gordon D. McLaren, Public Domain)</caption></figure>
 <para id="para-00007">The third trimester of pregnancy is the highest risk period of <term class="no-emphasis" id="term-00012">gestation</term>. If the pregnant client has anemia (any type) during pregnancy, they will have a decreased tolerance of blood loss occurring during birth, increasing their risk for <term class="no-emphasis" id="term-00013">hypovolemic shock</term>, <term class="no-emphasis" id="term-00014">heart failure</term>, <term class="no-emphasis" id="term-00015">infection</term>, and the need for <term class="no-emphasis" id="term-00016">blood transfusion</term> (Sharma et al., 2021; Smith et al., 2019). See <link target-id="table-00001" document="m00045"/> for complications and risks associated with anemia in pregnancy.</para>
-<para id="para-00008">Race disparities in nutritional anemia exist both globally and within the United States. According to data from the <term id="term-00017">National Health and Nutrition Examination Survey (NHANES</term>, a program conducted by the National Center for Health Statistics to assess the health and nutritional status of adults and children in the United States, non-Hispanic Black pregnant women have the highest prevalence of IDA, particularly during the third trimester of pregnancy (Sharma et al., 2021).</para>
+<para id="para-00008">Race disparities in nutritional anemia exist both globally and within the United States. According to data from the <term id="term-00017">National Health and Nutrition Examination Survey (NHANES</term>), a program conducted by the National Center for Health Statistics to assess the health and nutritional status of adults and children in the United States, non-Hispanic Black pregnant women have the highest prevalence of IDA, particularly during the third trimester of pregnancy (Sharma et al., 2021).</para>
 <table class="vertically-tight alternate-shading" id="table-00001">
 <title/>
 <tgroup cols="3">
@@ -147,7 +147,7 @@
 <section id="sect-00005">
 <title>Anemia</title>
 <para id="para-00021">According to the WHO, infantile and childhood <term class="no-emphasis" id="term-00058">anemia</term> in the United States ranges from 6–18%, with higher rates among low-income families. As with other age groups, ID is the most common cause of anemia, followed by other nutritional anemias, vitamin B<sub>12</sub>, and folate (NIH, 2022).</para>
-<para id="para-00022">Iron deficiency occurs in 12% of infants aged 6–11 months and 8% of toddlers in the United States. Among toddlers, IDA ranges from 0.9–4.4%, depending on the racial and ethnic makeup and socioeconomics of the household (NIH, 2023). During the first 2 years of life, <term class="no-emphasis" id="term-00059">iron</term> needs are high to build iron stores and support the child’s rapid physical and cognitive development rate. Premature infants, infants born to iron-deficient mothers, and infants with low birth weight have been shown to have lifelong learning and memory deficits because of damage to the hippocampus, the brain’s memory center. Accordingly, clinical consequences of ID and IDA in children include the following (Benson et al., 2022; Drakesmith et al., 2021):</para>
+<para id="para-00022">Iron deficiency occurs in 12% of infants ages 6–11 months and 8% of toddlers in the United States. Among toddlers, IDA ranges from 0.9–4.4%, depending on the racial and ethnic makeup and socioeconomics of the household (NIH, 2023). During the first 2 years of life, <term class="no-emphasis" id="term-00059">iron</term> needs are high to build iron stores and support the child’s rapid physical and cognitive development rate. Premature infants, infants born to iron-deficient mothers, and infants with low birth weight have been shown to have lifelong learning and memory deficits because of damage to the hippocampus, the brain’s memory center. Accordingly, clinical consequences of ID and IDA in children include the following (Benson et al., 2022; Drakesmith et al., 2021):</para>
 <list list-type="bulleted" id="list-00005">
 <item>Impaired psychomotor development and cognitive function</item>
 <item>Delayed attention skills</item>
@@ -157,7 +157,7 @@
 <item>Increased neurotoxicity when ID is associated with high lead blood concentrations</item>
 </list>
 <para id="para-00023">Infant iron stores start to diminish at 6 months of age. After this time, breastfed infants are at greater risk for anemia because the iron content of breast milk depends on the lactating person’s diet, whereas infant formula is fortified with iron. Full-term infants are at the highest risk between ages 6 months and 9 months if they are not consuming iron-fortified formula or successfully introduced to solid foods rich in iron (NIH, 2023). Additionally, children younger than 2 years are more likely than older children to have IDA associated with a transition to solid foods. Recommendations for preventing and treating ID and IDA are shown in <link target-id="table-00002" document="m00045"/>.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight" id="table-00002">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -182,7 +182,7 @@
 <row>
 <entry valign="top" align="left">Less than 12 months old, preterm or small for gestational age, exclusively breastfed</entry>
 <entry valign="top" align="left">2–4 mg/kg/day elemental iron until 12 months old</entry>
-<entry valign="top" align="left">&#160;</entry>
+<entry valign="top" align="left"> </entry>
 </row>
 <row>
 <entry valign="top" align="left">Less than 12 months old, full-term, and appropriate for gestational age, exclusively breastfed</entry>
@@ -197,18 +197,18 @@
 <entry valign="top" align="left" morerows="1">American Academy of Pediatrics</entry>
 <entry valign="top" align="left">4–12 months old, full-term, exclusively breastfed</entry>
 <entry valign="top" align="left">1 mg/kg/day elemental iron until eating iron-fortified solid foods</entry>
-<entry valign="top" align="left">&#160;</entry>
+<entry valign="top" align="left"> </entry>
 </row>
 <row>
 <entry valign="top" align="left">1–12 months old, preterm, exclusively breastfed</entry>
 <entry valign="top" align="left">2 mg/kg/day elemental iron until 12 months old</entry>
-<entry valign="top" align="left">&#160;</entry>
+<entry valign="top" align="left"> </entry>
 </row>
 <row>
 <entry valign="top" align="left">World Health Organization</entry>
 <entry valign="top" align="left">6–23 months old if diet does not include iron-fortified foods, or if living in a region where anemia prevalence is greater than 40%.</entry>
 <entry valign="top" align="left">2 mg/kg/day elemental iron until 24 months old</entry>
-<entry valign="top" align="left">&#160;</entry>
+<entry valign="top" align="left"> </entry>
 </row>
 </tbody>
 </tgroup>
@@ -231,7 +231,7 @@
 <item>Infants born to mothers with malabsorption or use of antiseizure drugs, antibiotics, <term class="no-emphasis" id="term-00065">warfarin</term>, or antitubercular medications</item>
 <item>Infants with malabsorption, <term id="term-00066">cholestasis</term>, or liver disease</item>
 </list>
-<para id="para-00028"><link target-id="table-00003" document="m00045"/> outlines the three types of VKDB according to the time of presentation. Early and classic VKDB are more common, occurring in 1 in 60 to 1 in 250 newborns (<link target-id="table-00003" document="m00045"/>). Late VKDB is rarer, occurring in 1 in 14,000 to 1 in 25,000 infants. Infants who do not receive a <term class="no-emphasis" id="term-00067">vitamin K injection</term> at birth are 81 times more likely to develop late VKDB than infants who do receive it (Hand et al., 2022).</para>
+<para id="para-00028"><link target-id="table-00003" document="m00045"/> outlines the three types of VKDB according to the time of presentation. Early and classic VKDB are more common, occurring in 1 in 60 to 1 in 250 newborns. Late VKDB is rarer, occurring in 1 in 14,000 to 1 in 25,000 infants. Infants who do not receive a <term class="no-emphasis" id="term-00067">vitamin K injection</term> at birth are 81 times more likely to develop late VKDB than infants who do receive it (Hand et al., 2022).</para>
 <table class="vertically-tight alternate-shading" id="table-00003">
 <title/>
 <tgroup cols="3">
@@ -268,7 +268,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Types of Vitamin K Deficiency Bleeding (source: Araki &amp; Shirahata, 2020; CDC, 2023b)</caption>
+<caption>Types of Vitamin K Deficiency Bleeding (sources: Araki &amp; Shirahata, 2020; CDC, 2023b)</caption>
 </table>
 </section>
 </section>
@@ -323,11 +323,11 @@
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00040"><link class="os-embed" url="#exercise/NUT_Ch10_Sec01_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00041"><link class="os-embed" url="#exercise/NUT_Ch10_Sec01_UCSQ2"/></para></problem></exercise>
 </note>
-<section id="sect-00011">
+<note class="special-considerations" id="note-00005">
 <title>The Adolescent Athlete</title>
 <para id="para-00042">Adolescent <term class="no-emphasis" id="term-00092">athletes</term> face unique challenges related to nutritional needs. They are already at risk for nutritional deficiencies because of rapid growth, unhealthy food choices, and high-risk behaviors. Adolescent athletes have a high nutritional demand due to the daily energy expenditure associated with training and having less time to make healthy food choices. Additionally, many athletes strive for a lean body composition for a competitive edge, setting them up for disordered eating patterns that can have lifelong effects on their overall health (Kontele &amp; Vassilakou, 2021). Adolescent athletes who limit their intake of meat products are at even higher risk for iron imbalance. Because of increased iron needs combined with potentially low iron intake and increased blood loss from menstruation, ID and IDA are common problems among adolescent female athletes and can affect their physical endurance and cognitive performance. In males, ID is often associated with higher physiologic needs from excessive training rather than from diet alone (Desbrow, 2021).</para>
 <para id="para-00043">Iron deficiency can manifest as extreme fatigue, increased susceptibility to infection, impaired skeletal muscle function, and poor decision-making (Berg, 2019). Assessment for ID and IDA should be considered for both male and female athletes demonstrating these symptoms. Athletes at the highest risk for iron deficiency include those who are female; are underweight or undernourished; are vegetarian or consume limited amounts of iron-rich foods; have underlying malabsorption conditions; or compete in endurance sports.</para>
-</section>
+</note>
 </section>
 </section>
 <section id="sect-00020"><title/>
