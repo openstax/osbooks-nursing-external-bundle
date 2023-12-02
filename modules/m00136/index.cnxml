@@ -40,10 +40,10 @@
     <title>Payment Models</title>
     <para id="para-00008">The quality of health care provided to clients in the United States depends in part on how health care professionals are allowed to administer and bill for their services. As noted earlier, despite having the highest per capita expenditure on health care across high-income countries, the United States has no universal health care system and a low quality of care. Public health policies that relate to <term id="term-00014">payment models</term>—the mechanisms by which health care services are established and paid for—may help to address this issue.</para>
     <para id="para-00009">Currently, the health care system is transitioning from the traditional <term class="no-emphasis" id="term-00015">fee-for-service model</term>—providers and organizations are reimbursed based upon the volume of services they provide—to payment based upon the value of those services, which includes <term class="no-emphasis" id="term-00016">value-based care</term> and <term class="no-emphasis" id="term-00017">alternative payment models</term> (American Hospital Association, 2023). The American Medical Association (2022) describes the most common payment models for physicians. It divides them into three categories: <term class="no-emphasis" id="term-00018">core payment models</term>, <term class="no-emphasis" id="term-00019">supplementary payment models</term>, and <term class="no-emphasis" id="term-00020">organizational models</term>. <link target-id="table-00001" document="m00136"/> describes each type.</para>
-    <table class="vertically-tight alternate-shading" id="table-00001">
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <tbody>
     <row>
     <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Core Payment Models</emphasis><newline/>
@@ -102,10 +102,10 @@
     <para id="para-00013">According to the American Hospital Association (AHA) (2019a), to achieve better outcomes for clients, hospitals and health systems across the United States have had to redesign how the care of clients is provided. The AHA identifies four care models as the most common in the United States: accountable care organizations and medical homes, previously defined in <link target-id="table-00002" document="m00136"/>, integrated service lines, and provider-sponsored health plans.</para>
     <para id="para-00014">With <term id="term-00045">integrated service lines</term>, hospitals and health care systems organize around specific disease states such as cancer, heart disease, and diabetes throughout the continuum of client care. This model contrasts the traditional care provision, where service lines based on disease state are siloed. In <term id="term-00046">provider-sponsored health plans</term>, plans are either sponsored or acquired by hospitals, physician groups, or health systems which take over responsibility for the total cost of care for clients enrolled in the health plan. These organizations may often take on financial risks of providing care for the clients enrolled in the health plan.</para>
     <para id="para-00015"><link target-id="table-00002" document="m00136"/> provides examples of these four care delivery models. The type of care model chosen by health care professionals to provide care is in part determined by health care policy and, in part, determines health care policies based on the revenues and outcomes it achieves.</para>
-    <table class="vertically-tight alternate-shading" id="table-00002">
+    <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Care Delivery Model</emphasis></span></entry>
