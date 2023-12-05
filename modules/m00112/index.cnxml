@@ -40,8 +40,8 @@
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><span class="blue-text">Essential Public Health Service</span></entry>
