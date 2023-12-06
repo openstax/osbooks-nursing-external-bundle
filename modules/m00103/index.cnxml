@@ -206,13 +206,13 @@
   <para id="para-00032">Solve for the dosage (<emphasis effect="italics">X)</emphasis>.</para>
   <list list-type="enumerated" number-style="arabic" id="list-00007">
   <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
-  <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL
+  <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL<newline/>
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">250</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">125</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
   <item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride orally 40 mEq BID<newline/>
-  <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL
+  <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL<newline/>
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">40</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">15</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
   <item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP (intravenous push) now<newline/>
-  <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL
+  <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL<newline/>
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">60</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item></list>
   </problem>
   <solution id="sol-00003">
