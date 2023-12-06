@@ -6,8 +6,201 @@
     <md:uuid>fb483ec1-035c-4dcc-9002-b74ebff949de</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
-    </section>
-  </content>
+<section id="sect-00001">
+<title>Learning Outcomes</title>
+<para id="para-00001">By the end of this section, you should be able to:</para>
+<list id="list-00001">
+<item>Examine how health status and health outcomes vary by geographical location.</item>
+<item>Explain how a zip code influences health.</item>
+<item>Assess contributing factors leading to geographical disparities.</item>
+</list>
+</section>
+<para id="para-00002">Throughout history, <term id="term-00001">geography</term> has influenced the health and well-being of communities in various ways. The environment affects the nation’s food supply and plays a role in disease transmission. Geography also affects health care delivery and health outcomes of the population. <term id="term-00002">Geographical disparities</term> refer to the differences in health care access and outcomes based upon where an individual lives. Disparities associated with <term class="no-emphasis" id="term-00003">rural</term> or urban living are usually most frequently discussed. However, there can be health disparities between populations of different states.</para>
+<para id="para-00003">The United States population is distributed among 50 states and associated territories, comprising rural and urban areas. The U.S. Census Bureau defines urban and rural based on population size and density. For an area to be considered urban, it must encompass at least 2,000 housing units or have a population of at least 5,000. Rural areas are considered all population, housing, and territory not included within an urban area (U.S. Census Bureau, 2023). Most counties in the United States have a mix of rural and urban populations (United States Department of Agriculture [USDA], 2023). According to the 2020 census, 80 percent of the U.S. population lives in urban areas, while 20 percent live in rural areas (U.S. Census, 2022).</para>
+<section id="sect-00002">
+<title/>
+<section id="sect-00003">
+<title>Factors Influencing Population Health Related to Location</title>
+<para id="para-00004">The 2022 National Healthcare Quality and Disparities Report compares health care quality and disparities scores on over 100 health-related measures among states (AHRQ, 2022), with the following results:</para>
+<list list-type="bulleted" id="list-00002">
+<item>Best overall health care quality: Maine, Massachusetts, New Hampshire, Pennsylvania, Rhode Island, Iowa, Minnesota, North Dakota, Wisconsin, Colorado, and Utah</item>
+<item>Lowest overall health quality: Alaska, Arizona, California, Montana, Nevada, New Mexico, Wyoming, Washington DC, Georgia, Mississippi, Oklahoma, Texas, and New York</item>
+<item>Fewest racial and ethnic disparities overall: Arizona, Hawaii, Idaho, Oregon, Washington, Arkansas, Kentucky, Virginia, West Virginia, Kansas, and New Jersey</item>
+<item>Most racial and ethnic disparities overall: Connecticut, Massachusetts, New York, Pennsylvania, Illinois, Minnesota, Ohio, Washington D.C., North Carolina, and Texas</item>
+</list>
+<para id="para-00005">There are several reasons for variations among states in terms of health care quality and disparities (AHRQ, 2022). First, health policy can vary by state. Some states may offer more health-related resources or <term class="no-emphasis" id="term-00004">social programs</term> than others. <term class="no-emphasis" id="term-00005">Health care delivery infrastructure</term> can vary by state. For example, some states regulate the construction of new hospitals and other treatment facilities more closely. Finally, disease prevalence can vary by state. For example, diabetes, arthritis, and chronic obstructive pulmonary diseases are more prevalent in eastern U.S. states (Raghupathi &amp; Raghupathi, 2018). Diabetes, in particular, is influenced by cultural, behavioral, and environmental factors associated with certain geographical areas (Zang et al., 2020); it is more prevalent in the southeastern and Appalachian portions of the United States (CDC, 2022a). Asthma is another disease with some geographical trends, although a lot of variation related to population density and demographics can exist within a particular state. The <term class="no-emphasis" id="term-00006">Northeast Mid-Atlantic asthma belt</term> (from Greensboro, North Carolina, to Boston, Massachusetts) has been shown to have a higher prevalence of asthma possibly due to poverty, poor air quality, and less access to specialists (Pate et al., 2021). The Asthma and Allergy Foundation of America (2018) identified a second group of states with an increased prevalence of asthma and associated ED visits and deaths. The Ohio-Lake Erie asthma belt spans from Louisville, Kentucky, up to Detroit, Michigan.</para>
+<para id="para-00006">Health and related outcomes vary not only by state, but by county, town, or zip code. Research has linked zip codes to health outcomes (Holmes et al., 2018). For example, people living in neighborhoods with limited access to healthy foods and safe areas to exercise are at higher risk for health problems.</para>
+<note class="media-feature" id="note-00001">
+<title>Zip Codes and Life Expectancy</title>
+<para id="para-00007">This interactive site <link url="https://openstax.org/r/rwjf">What makes a long life?</link> from the Robert Wood Johnson Foundation provides a tool that illustrates the differences between life expectancy based on a person’s address. Enter a street address or zip code of interest to see how the life expectancy of people living at that location compares to others in the county, state, and nation, and then answer the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00003">
+<item>What address or addresses did you enter?</item>
+<item>Are the findings consistent with what was expected?</item>
+<item>Among the locations you searched, did you discover significant differences among nearby locations? If so, what were they?</item>
+</list>
+</note>
+</section>
+<section id="sect-00004">
+<title>Factors Influencing Population Health Related to Population Density</title>
+<para id="para-00008">Some of the most common geographical disparities exist between those who live in rural areas and those who live in urban areas. Individuals living in rural areas face geographic isolation, lower socioeconomic status, higher rates of health risk behaviors, limited access to health care specialists and subspecialists, and limited job opportunities (Rural Health Information Hub [RHIH], 2023). Additionally, residents who live in rural areas are less likely to be employed by organizations that provide health insurance coverage. If individuals living in rural areas also live below the poverty level, they are less likely to be covered by Medicaid (RHIH, 2023). Rural health disparities are often caused by access to health care and public health services, socioeconomic status, health behaviors, and health insurance status. Rural Americans are at a greater risk of death from heart disease, cancer, unintentional injury, chronic lower respiratory disease, and stroke than Americans who live in urban areas (RHIH, 2022). Rural residents tend to be older and more obese and to have more health problems than urban residents. They are more likely to smoke cigarettes and are less likely to use seat belts ([link]Figure 9.5[/link]) (FDA, 2021). [link]Table 9.3[/link] presents relevant factors affecting rural health outcomes.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="An infographic shows a seatbelt about to be clicked into place. There are hearts on the strap and on the buckle. The infographic states: Valentine, we're like a seat belt and buckle… we just click.">
+<image mime-type="image/png" src="../../media/PH_Figure_09_04_005.jpg"/></media>
+<caption>National efforts to promote the use of seat belts include public information campaigns, such as this valentine-themed graphic from the National Transportation and Safety Board. Studies have shown that residents of rural areas are less likely to wear seat belts than residents in urban areas, which is one factor contributing to higher traffic fatality rates in rural areas (CDC, 2017). (credit: “NTSB Valentine” by National Transportation Safety Board/Flickr, Public Domain)</caption>
+</figure>
+<table class="vertically-tight alternate-shading" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
+<row>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Factor</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Discussion</span></emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Access to health care and public health services</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00004">
+<item>Rural areas tend to have shortages of quality physician offices and other health-related resources. Health care organizations in rural areas find it difficult to recruit health care providers.</item>
+<item>Limited access to health care providers and services equates to poor health outcomes for individuals living in a particular area.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Socioeconomic status</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00005">
+<item>Individuals living in rural areas tend to have higher rates of poverty when compared to their urban counterparts. Job opportunities tend to be scarcer in rural areas when compared to urban areas.</item>
+<item>High poverty equates to limited health care access, leading to poor health outcomes.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Health insurance status</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00006">
+<item>The highest prevalence of uninsured individuals is among those living in rural areas. This is due to higher <term class="no-emphasis" id="term-00007">poverty</term> rates, which limits one’s ability to pay for <term class="no-emphasis" id="term-00008">health insurance</term> coverage. Depending upon the policies in the state in which a person lives, they may not meet the requirements for access to <term class="no-emphasis" id="term-00009">Medicaid</term>, a public health insurance program for the poor and underserved.</item>
+<item>The lack of adequate health insurance equates to limited access to care, leading to less-than-optimal health outcomes.</item></list></entry>
+</row>
+<row>
+<entry valign="top" align="left">Health behaviors</entry>
+<entry valign="top" align="left">
+<list list-type="bulleted" id="list-00007">
+<item>Individuals living in rural areas often have limited access to resources that lead to positive health outcomes. Additionally, there tends to be a lack of other health behaviors such as physical activity, maintaining a normal body weight, and getting sufficient sleep.</item>
+<item>Stress and other environmental factors may lead individuals living in rural areas to adopt unhealthy behaviors such as smoking, drug use, or alcohol use.</item></list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Factors Affecting Health Outcomes in Rural Populations (See Rural Health Information Hub, 2023.)</caption>
+</table>
+<note class="unfolding-casestudy" id="note-00002">
+<title>Part B</title>
+<para id="para-00009">Read the following scenario, and then answer the questions that follow.</para>
+<para id="para-00010">Marinelle contacts the clients who have missed the most prenatal appointments. These clients report difficulty finding transportation to the appointments. Many clients feel stressed about not having enough money and resources to support their families after their infants are born. One client describes her difficulty trying to find a home closer to town and in better condition than the one she currently lives in. Marinelle works to find reliable transportation for the clients to help them make it to their appointments. She also arranges for a social worker to visit the clients to discuss their economic concerns.</para>
+<exercise id="exer-00001"><problem id="prob-00001"><para id="para-00011"><link class="os-embed" url="#exercise/COM_Ch09_Sec02_UCSQ1"/></para></problem></exercise>
+<exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/COM_Ch09_Sec01_UCSQ2"/></para></problem></exercise>
+</note>
+<note class="media-feature" id="note-00003">
+<title>Access to Maternal Health Care in Rural Communities: A Patient’s Personal Story</title>
+<media alt="atoms_isotopes">
+  <iframe width="560" height="315" src="https://openstax.org/r/maternalhealth"/>
+</media>
+<para id="para-00013">In the Centers for Medicare and Medicaid Services video “Access to Maternal Health Care in Rural Communities: A Patient’s Personal Story,” a family discusses the barriers to maternal health services they face while living in a rural area. Watch the video, and then respond to the following questions:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00008">
+<item>What are some of the specific barriers faced by the family presented in the video?</item>
+<item>What is the importance of having access to health care services in rural areas?</item>
+<item>What lessons learned from this situation can be applied to other rural health situations?</item>
+</list>
+</note>
+</section>
+</section>
+<section class="section-summary" id="sect-00005">
+<title>Chapter Summary</title>
+<para id="para-00014">Geography has historically influenced the health and well-being of communities, health care delivery, and health outcomes of the population. Geographical disparities are differences in health care access and outcomes based upon where an individual lives. Disparities exist between rural and urban areas, populations of different states, and even by zip code within the same county. Individuals living in rural areas face issues such as geographic isolation, lower socioeconomic status, higher rates of health risk behaviors, limited access to health care specialists and subspecialists, and limited job opportunities.</para>
+</section>
+<section class="review-questions" id="sect-00006">
+<title>Review Questions</title>
+<exercise id="exer-00003"><problem id="prob-00003"><para id="para-00015"><link class="os-embed" url="#exercise/COM_Ch09_Sec04_RQ1"/></para></problem></exercise>
+<exercise id="exer-00004"><problem id="prob-00004"><para id="para-00016"><link class="os-embed" url="#exercise/COM_Ch09_Sec01_RQ2"/></para></problem></exercise>
+<exercise id="exer-00005"><problem id="prob-00005"><para id="para-00017"><link class="os-embed" url="#exercise/COM_Ch09_Sec02_RQ3"/></para></problem></exercise>
+<exercise id="exer-00006"><problem id="prob-00006"><para id="para-00018"><link class="os-embed" url="#exercise/COM_Ch09_Sec03_RQ4"/></para></problem></exercise>
+<exercise id="exer-00007"><problem id="prob-00007"><para id="para-00019"><link class="os-embed" url="#exercise/COM_Ch09_Sec03_RQ5"/></para></problem></exercise>
+<exercise id="exer-00008"><problem id="prob-00008"><para id="para-00020"><link class="os-embed" url="#exercise/COM_Ch09_Sec01_RQ6"/></para></problem></exercise>
+<exercise id="exer-00009"><problem id="prob-00009"><para id="para-00021"><link class="os-embed" url="#exercise/COM_Ch09_Sec01_RQ7"/></para></problem></exercise>
+<exercise id="exer-00010"><problem id="prob-00010"><para id="para-00022"><link class="os-embed" url="#exercise/COM_Ch09_Sec01_RQ8"/></para></problem></exercise>
+<exercise id="exer-00011"><problem id="prob-00011"><para id="para-00023"><link class="os-embed" url="#exercise/COM_Ch09_Sec03_RQ9"/></para></problem></exercise>
+<exercise id="exer-00012"><problem id="prob-00012"><para id="para-00024"><link class="os-embed" url="#exercise/COM_Ch09_Sec04_RQ10"/></para></problem></exercise>
+</section>
+<section class="references" id="sect-00007">
+<para id="para-00025">Agency for Healthcare Research and Quality. (October 2022). <emphasis effect="italics">2022 national healthcare quality and disparities report</emphasis>. https://www.ahrq.gov/sites/default/files/wysiwyg/research/findings/nhqrdr/2022qdr.pdf</para>
+<para id="para-00026">Agency for Healthcare Research and Quality. (2023). <emphasis effect="italics">Access to care</emphasis>. https://www.ahrq.gov/topics/access-care.html</para>
+<para id="para-00027">Alzheimer’s Association. (2023). <emphasis effect="italics">Black Americans and Alzheimer's</emphasis>. https://www.alz.org/help-support/resources/black-americans-and-alzheimers</para>
+<para id="para-00028">Asthma and Allergy Foundation of America. (2018). <emphasis effect="italics">Asthma capitals 2018.</emphasis> https://community.aafa.org/blog/2018-asthma-capitals-report-identifies-nation-s-asthma-belts</para>
+<para id="para-00029">Braveman, P. A., Arkin, E., Proctor, D., Kauh, T., &amp; Holm, N. (2022). Systemic and structural racism: Definitions, examples, health damages, and approaches to dismantling. <emphasis effect="italics">Health Affairs, 41</emphasis>(2). https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01394</para>
+<para id="para-00030">Business Credit and Assistance, 13 C.F.R. § 124.103 (2023). https://www.ecfr.gov/current/title-13/chapter-I/part-124/subpart-A/subject-group-ECFR4ef1291a4a984ab/section-124.103</para>
+<para id="para-00031">Centers for Disease Control and Prevention. (2017, September 22). Rural and urban differences in passenger-vehicle–occupant deaths and seat belt use among adults — United States, 2014. <emphasis effect="italics">Morbidity and Mortality Weekly Report.</emphasis> https://www.cdc.gov/mmwr/volumes/66/ss/ss6617a1.htm</para>
+<para id="para-00032">Centers for Disease Control and Prevention. (2020, June 23). <emphasis effect="italics">Commercial tobacco use within American Indian and Alaska Native (AI/AN) populations</emphasis>. https://www.cdc.gov/healthytribes/native-american-smoking.html</para>
+<para id="para-00033">Centers for Disease Control and Prevention. (2021). Trends in racial and ethnic disparities in COVID-19 hospitalizations, by region—United States, March–December 2020. <emphasis effect="italics">Morbidity and Mortality Weekly Report.</emphasis> https://www.cdc.gov/mmwr/volumes/70/wr/mm7015e2.htm</para>
+<para id="para-00034">Centers for Disease Control and Prevention. (2022a, May 17). <emphasis effect="italics">National diabetes statistics report.</emphasis> https://www.cdc.gov/diabetes/data/statistics-report/index.html</para>
+<para id="para-00035">Centers for Disease Control and Prevention. (2022b, July 1). <emphasis effect="italics">What is health equity?</emphasis> https://www.cdc.gov/healthequity/whatis/index.html</para>
+<para id="para-00036">Centers for Disease Control and Prevention. (2022c, September 16). <emphasis effect="italics">Sexually transmitted diseases</emphasis>. https://www.cdc.gov/msmhealth/STD.htm</para>
+<para id="para-00037">Centers for Disease Control and Prevention. (2022d, November 3). <emphasis effect="italics">Lesbian, gay, bisexual, and transgender health</emphasis>. https://www.cdc.gov/lgbthealth/index.htm</para>
+<para id="para-00038">Centers for Disease Control and Prevention. (2022e, November 14). <emphasis effect="italics">Binge drinking</emphasis>. https://www.cdc.gov/alcohol/fact-sheets/binge-drinking.htm</para>
+<para id="para-00039">Centers for Disease Control and Prevention. (2023a). <emphasis effect="italics">Racism and health</emphasis>. https://www.cdc.gov/minorityhealth/racism-disparities/index.html</para>
+<para id="para-00040">Centers for Disease Control and Prevention. (2023b). <emphasis effect="italics">Social determinants of health at CDC</emphasis>. https://www.cdc.gov/about/sdoh/index.html</para>
+<para id="para-00041">Centers for Disease Control and Prevention. (2023c, March 23). <emphasis effect="italics">Pregnancy mortality surveillance system.</emphasis> https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#</para>
+<para id="para-00042">Centers for Disease Control and Prevention. (2023d, April 3). <emphasis effect="italics">Working together to reduce black maternal mortality</emphasis>. https://www.cdc.gov/healthequity/features/maternal-mortality/index.html</para>
+<para id="para-00043">Centers for Disease Control and Prevention. (2023d, May 1). <emphasis effect="italics">Human immunodeficiency virus (HIV)</emphasis>. https://www.cdc.gov/msmhealth/hiv.htm</para>
+<para id="para-00044">Centers for Disease Control and Prevention. (2023e, May 4). <emphasis effect="italics">Data and statistics. Smoking and tobacco use</emphasis>. https://www.cdc.gov/tobacco/data_statistics/index.htm</para>
+<para id="para-00045">Centers for Disease Control and Prevention. (2023f, July 15). <emphasis effect="italics">For your health: Recommendations for a healthier you.</emphasis> https://www.cdc.gov/msmhealth/for-your-health.htm</para>
+<para id="para-00046">Christie-Mizell, C. A. (2022). Neighborhood disadvantage and poor health: The consequences of race, gender, and age among young adults. <emphasis effect="italics">International Journal of Environmental Research and Public Health, 19</emphasis>(13), 8107. http://dx.doi.org/10.3390/ijerph19138107</para>
+<para id="para-00047">Crenshaw, K. (1991). Mapping the margins: Intersectionality, identity politics, and violence against women of</para>
+<para id="para-00048">color. <emphasis effect="italics">Stanford Law Review</emphasis>, <emphasis effect="italics">43</emphasis>(6), 1241–1299. https://doi.org/10.2307/1229039</para>
+<para id="para-00049">Daher, M., Rifai, M., Kherallah, R., Rodriguez, F., Mahtta, D., Michos, E., Khan, S., Petersen, L., &amp; Virani, S. (2021). Gender disparities in difficulty accessing healthcare and cost-related medication non-adherence: The CDC behavioral risk factor surveillance system (BFRSS) survey. <emphasis effect="italics">Preventive Medicine, 153,</emphasis> 106779. https://doi.org/10.1016/j.ypmed.2021.106779</para>
+<para id="para-00050">Everding, J, &amp; Marcus, J. The effect of unemployment on the smoking behavior of couples. <emphasis effect="italics">Health Economics, 29</emphasis>(2), 154–170. https://doi.org/10.1002/hec.3961</para>
+<para id="para-00051">Federal Communications Commission. (2022, November 30). <emphasis effect="italics">988 Suicide and crisis lifeline</emphasis>. https://www.fcc.gov/988-suicide-and-crisis-lifeline</para>
+<para id="para-00052">Garfield, R., Orgera, K., &amp; Damico, A. (2019, January 25). <emphasis effect="italics">The uninsured and the ACA: A primer—key facts about health insurance and the uninsured amidst changes to the Affordable Care Act.</emphasis> KFF. https://www.kff.org/report-section/the-uninsured-and-the-aca-a-primer-key-facts-about-health-insurance-and-the-uninsured-amidst-changes-to-the-affordable-care-act-who-remains-uninsured-after-the-aca-and-why-do-they/</para>
+<para id="para-00053">Heaton, J., &amp; Tadi, P. (2023). <emphasis effect="italics">Managed care organization</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557797/</para>
+<para id="para-00054">Hill, S. E., Bell, C., Bowie, J. V., Kelley, E., Furr-Holden, D., LaVeist, T. A., &amp; Thorpe, R. J., Jr. (2017). Differences in obesity among men of diverse racial and ethnic background. <emphasis effect="italics">American Journal of Men's Health, 11</emphasis>(4), 984–989. https://doi.org/10.1177/1557988315580348</para>
+<para id="para-00055">Holmes, J., Tootoo, J., Chosy, E., Bowie, A., &amp; Starr, R. (2018). Examining variation in life expectancy estimates by zip code tabulation area (ZCTA) in Hawaii’s four main counties, 2008–2012. <emphasis effect="italics">Preventing Chronic Disease, 15</emphasis>. http://dx.doi.org/10.5888/pcd15.180035</para>
+<para id="para-00056">Javed, Z., Maqsood, M., Yahya, T., Amin, Z., Acquah, I., Valero-Elizondo, J., Andrieni, J., Dubey, P., Jackson, R., Daffin, M., Cainzos-Achiric, M., Hyder, A., &amp; Nasir, K. (2022). Race, racism, and cardiovascular health: Applying a social determinants of health framework to racial/ethnic disparities in cardiovascular disease. <emphasis effect="italics">Circulation: Cardiovascular Quality and Outcomes, 15</emphasis>(1). https://doi.org/10.1161/CIRCOUTCOMES.121.007917</para>
+<para id="para-00057">Long, M., Frederiksen, B., Ranji, U., Diep, K., &amp; Salganicoff, A. (2023, February 22). <emphasis effect="italics">Women’s experiences with provider communication and interactions in health care settings: Findings from the 2022 KFF Women’s Health Survey.</emphasis> KFF. https://www.kff.org/womens-health-policy/issue-brief/womens-experiences-with-provider-communication-interactions-health-care-settings-findings-from-2022-kff-womens-health-survey/</para>
+<para id="para-00058">Medina, C., Santos, T., Mahowald, L., &amp; Gruberg, S. (2021, August 18). <emphasis effect="italics">Protecting and advancing health care for transgender adult communities</emphasis>. Center for American Progress. https://www.americanprogress.org/article/protecting-advancing-health-care-transgender-adult-communities/</para>
+<para id="para-00059">Medina-Martínez, J., Saus-Ortega, C., Sánchez-Lorente, M., Sosa-Palanca, E., García-Martínez, P., &amp; Mármol-López, M. (2021). Health inequities in LGBT people and nursing interventions to reduce them: A systematic review. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">18</emphasis>(22), 11801. https://doi.org/10.3390/ijerph182211801</para>
+<para id="para-00060">Merriam-Webster. (2023). Geography. In <emphasis effect="italics">Merriam-Webster.com dictionary</emphasis>. https://www.merriam-webster.com/dictionary/geography</para>
+<para id="para-00061">Na, L., Banks, S., &amp; Wang, P. P. (2023). Racial and ethnic disparities in COVID-19 vaccine uptake: A mediation framework. <emphasis effect="italics">Vaccine, 41</emphasis>(14), 2404-2411. https://doi.org/10.1016/j.vaccine.2023.02.079</para>
+<para id="para-00062">National Institute on Minority Health and Health Disparities. (2017). <emphasis effect="italics">NIMHD research framework</emphasis>. https://nimhd.nih.gov/about/overview/research-framework/nimhd-framework.html</para>
+<para id="para-00063">National Institute on Minority Health and Health Disparities. (2023). <emphasis effect="italics">Minority health and health disparities definitions</emphasis>. https://www.nimhd.nih.gov/resources/understanding-health-disparities/minority-health-and-health-disparities-definitions.html</para>
+<para id="para-00064">OECD. (2022, March 1). <emphasis effect="italics">The unequal impact of COVID-19: A spotlight on frontline workers, migrants and racial/ethnic minorities</emphasis>. https://www.oecd.org/coronavirus/policy-responses/the-unequal-impact-of-covid-19-a-spotlight-on-frontline-workers-migrants-and-racial-ethnic-minorities-f36e931e/</para>
+<para id="para-00065">Office of Disease Prevention and Health Promotion. (n.d.-a) <emphasis effect="italics">Browse objectives</emphasis>. https://health.gov/healthypeople/objectives-and-data/browse-objectives</para>
+<para id="para-00066">Office of Disease Prevention and Health Promotion. (n.d.-b). <emphasis effect="italics">Health equity in Healthy People 2030.</emphasis> https://health.gov/healthypeople/priority-areas/health-equity-healthy-people-2030</para>
+<para id="para-00067">Office of Disease Prevention and Health Promotion. (n.d.-c). <emphasis effect="italics">Social determinants of health</emphasis>. https://health.gov/healthypeople/priority-areas/social-determinants-health</para>
+<para id="para-00068">Office of the High Commissioner for Human Rights. (2023). <emphasis effect="italics">Gender stereotyping: OHCHR and women’s human rights and gender equality</emphasis>. United Nations. https://www.ohchr.org/en/women/gender-stereotyping</para>
+<para id="para-00069">Office on Women’s Heath. (2020, December 17). <emphasis effect="italics">Addressing sex differences in health.</emphasis> https://www.womenshealth.gov/30-achievements/27</para>
+<para id="para-00070">Pate, C., Zahran, H., Qin, X., Johnson, C., Hummelman, E., &amp; Malilay, J. (2021). Asthma Surveillance—United States, 2006–2018. <emphasis effect="italics">Morbidity and Mortality Weekly Report. Surveillance Summaries</emphasis>, <emphasis effect="italics">70</emphasis>(5), 1–32. https://doi.org/10.15585/mmwr.ss7005a1</para>
+<para id="para-00071">Raghupathi, W., &amp; Raghupathi, V. (2018). An empirical study of chronic diseases in the United States: A visual analytics approach. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">15</emphasis>(3), 431. https://doi.org/10.3390/ijerph15030431</para>
+<para id="para-00072">Rural Health Information Hub. (2023). <emphasis effect="italics">Rural health disparities</emphasis>. https://www.ruralhealthinfo.org/topics/rural-health-disparities</para>
+<para id="para-00073">Save the Children. (2023). <emphasis effect="italics">Gender roles can create lifelong cycle of inequality</emphasis>. https://www.savethechildren.org/us/charity-stories/how-gender-norms-impact-boys-and-girls#</para>
+<para id="para-00074">Semega, J., &amp; Kollar, M. (2022, September 13). <emphasis effect="italics">Increase in income inequality driven by real declines in income at the bottom.</emphasis> U.S. Census Bureau. https://www.census.gov/library/stories/2022/09/income-inequality-increased.html#</para>
+<para id="para-00075">Shearn, C., &amp; Krockow, E. M. (2023). Reasons for COVID-19 vaccine hesitancy in ethnic minority groups: A systematic review and thematic synthesis of initial attitudes in qualitative research. <emphasis effect="italics">SSM—Qualitative Research in Health, 3</emphasis>, 100210. https://doi.org/10.1016/j.ssmqr.2022.100210</para>
+<para id="para-00076">Singh, G. K., &amp; Jemal, A. (2017). Socioeconomic and racial/ethnic disparities in cancer mortality, incidence, and survival in the United States, 1950–2014: Over six decades of changing patterns and widening inequalities. <emphasis effect="italics">Journal of Environmental and Public Health, 2017</emphasis>, 2819372. https://doi.org/10.1155/2017/2819372</para>
+<para id="para-00077">Tabuchi, T. (2020). Cancer and socioeconomic status. In Kondo, K. (Ed.), <emphasis effect="italics">Social determinants of health in non-communicable diseases</emphasis>. Springer Series on Epidemiology and Public Health. Springer. https://doi.org/10.1007/978-981-15-1831-7_4</para>
+<para id="para-00078">Thakral, M., Lacroix, A., &amp; Molton, I. (2019). Sex/gender disparities in health outcomes of individuals with long-term disabling conditions. <emphasis effect="italics">Rehabilitation Psychology</emphasis>, <emphasis effect="italics">64</emphasis>(2), 221–228. https://doi.org/10.1037/rep0000248</para>
+<para id="para-00079">U.S. Census Bureau. (2022, December 29). <emphasis effect="italics">Nation’s urban and rural populations shift following 2020 Census</emphasis>. https://www.census.gov/newsroom/press-releases/2022/urban-rural-populations.html#</para>
+<para id="para-00080">U.S. Census Bureau. (2023, September 26). <emphasis effect="italics">Urban and rural</emphasis>. https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html# 		</para>
+<para id="para-00081">U.S. Department of Agriculture. (2023, September 8). <emphasis effect="italics">What is rural?</emphasis> https://www.nal.usda.gov/rural-development-communities/what-is-rural</para>
+<para id="para-00082">U.S. Department of Health and Human Services. (2022a). <emphasis effect="italics">About the Affordable Care Act.</emphasis> https://www.hhs.gov/healthcare/about-the-aca/index.html</para>
+<para id="para-00083">U.S. Department of Health and Human Services. (2022b, March 8). <emphasis effect="italics">Fact sheet: Celebrating the Affordable Care Act.</emphasis> https://www.hhs.gov/about/news/2022/03/18/fact-sheet-celebrating-affordable-care-act.html</para>
+<para id="para-00084">U.S. Department of Health and Human Services. (2023). <emphasis effect="italics">Medicaid</emphasis>. HealthCare.gov. https://www.healthcare.gov/glossary/medicaid/</para>
+<para id="para-00085">U.S. Department of Health and Human Services Office of Minority Health. (2022a). <emphasis effect="italics">Infant mortality and African Americans</emphasis>. https://minorityhealth.hhs.gov/infant-mortality-and-african-americans</para>
+<para id="para-00086">U.S. Department of Health and Human Services Office of Minority Health. (2022b). <emphasis effect="italics">Obesity and African Americans</emphasis>. https://minorityhealth.hhs.gov/obesity-and-african-americans</para>
+<para id="para-00087">U.S. Department of the Treasury. (2022, July 21). <emphasis effect="italics">Racial inequality in the United States.</emphasis> https://home.treasury.gov/news/featured-stories/racial-inequality-in-the-united-states#</para>
+<para id="para-00088">U.S. Food and Drug Administration. (2021). <emphasis effect="italics">Rural health</emphasis>. https://www.fda.gov/consumers/minority-health-and-health-equity-resources/rural-health</para>
+<para id="para-00089">World Health Organization. (2023). <emphasis effect="italics">Gender and health</emphasis>. https://www.who.int/health-topics/gender#tab=tab_1</para>
+<para id="para-00090">Yedjou, C. G., Sims, J. N., Miele, L., Noubissi, F., Lowe, L., Fonseca, D. D., Alo, R. A., Payton, M., &amp; Tchounwou, P. B. (2019). Health and racial disparity in breast cancer. In Ahmad, A. (Ed.), <emphasis effect="italics">Breast cancer metastasis and drug resistance</emphasis>. Advances in Experimental Medicine and Biology series. Springer. https://doi.org/10.1007/978-3-030-20301-6_3</para>
+<para id="para-00091">Zang, E., Lynch, S., &amp; West, J. (2021). Regional differences in the impact of diabetes on population health in the USA. <emphasis effect="italics">Journal of Epidemiology &amp; Community Health</emphasis>, <emphasis effect="italics">75</emphasis>(1), 56–61. https://doi.org/10.1136/jech-2020-214267</para>
+</section>
+</content>
+<glossary>
+<definition id="def-00001"><term>geographical disparities</term> <meaning>the differences in health care access and outcomes based upon where an individual lives</meaning></definition>
+<definition id="def-00002"><term>geography</term> <meaning>a science that deals with the description, distribution, and interaction of the diverse physical, biological, and cultural features of the earth’s surface</meaning></definition>
+</glossary>
 </document>
