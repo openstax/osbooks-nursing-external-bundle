@@ -34,7 +34,7 @@
 <para id="para-00006">Three types of metric measures are commonly used: length, volume, and weight. This section will cover only volume and weight. It is important to understand that the units can be smaller or larger in relation to their metric measure. The basic units are multiplied or divided by multiples of 10, which increases the ease of use when converting from one unit of measure to another.</para>
 <para id="para-00007">Volume measures a liquid and is commonly used in dosage calculation when measuring liquid drugs, in the reconstitution of drugs, or with intravenous therapy. The metric system defines volume in units of liters. Weight measures mass and is commonly used in dosage calculation when a particular drug is administered based on the client’s weight. The metric system defines weight in units of grams. A few examples are listed in [link]<emphasis effect="bold">Table 2.11</emphasis>[/link], followed by their abbreviations and their equivalent number of grams. (See also <link document="m00379"><emphasis effect="bold">Appendix A: International System of Units</emphasis></link>.)</para>
 <para id="para-00008">Kilo indicates a larger unit of measurement and equals 1000. Milli indicates a smaller unit of measurement and equals 1/1000. Micro is also a smaller measurement and equals 1/1,000,000. Conversion between metric system units routinely occurs when you are preparing to administer drugs to clients.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -99,7 +99,7 @@
 </tgroup>
 <caption>Common metric prefixes, abbreviations, and conversions used in dosage calculation.</caption>
 </table>
-<para id="para-00009">Note that the abbreviation for “micro” is sometimes shown as the Greek mu (¶, as in ¶g or ¶L); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
+<para id="para-00009">Note that the abbreviation for “micro” is sometimes shown as the Greek mu (&#181;, as in &#181;g or &#181;L); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
 <note class="practice-problems" id="note-00001">
 <para id="para-00010"><emphasis effect="bold">Metric: Levels of Measurement</emphasis></para>
 <para id="para-00011">Determine the missing value.</para>
@@ -117,7 +117,7 @@
   </list>
   </problem>
     <solution id="sol-00001">
-    <para id="para-00012">Solutions:</para>
+    <para id="para-00012"><emphasis effect="bold">Solutions:</emphasis></para>
   <list list-type="enumerated" number-style="arabic" id="list-00003">
   <item>1 kg</item>
   <item>1 mg</item> 
@@ -148,7 +148,7 @@
   </list>
   </problem>
   <solution id="sol-00002">
-  <para id="para-00015">Solutions:</para>
+  <para id="para-00015"><emphasis effect="bold">Solutions:</emphasis></para>
   <list list-type="enumerated" number-style="arabic" id="list-00005">
   <item>1 kg</item>
   <item>296 mL</item>
@@ -205,13 +205,13 @@
   <para id="para-00031"><emphasis effect="bold">Basic Formula Calculations</emphasis></para>
   <para id="para-00032">Solve for the dosage (<emphasis effect="italics">X)</emphasis>.</para>
   <list list-type="enumerated" number-style="arabic" id="list-00007">
-  <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID
+  <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
   <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">250</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">125</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
-  <item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride orally 40 mEq BID
+  <item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride orally 40 mEq BID<newline/>
   <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">40</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">15</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
-  <item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP (intravenous push) now
+  <item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP (intravenous push) now<newline/>
   <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL
   <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">60</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item></list>
   </problem>
@@ -252,13 +252,9 @@
 <para id="para-00041">To solve this type of equation, cross-multiply:</para>
 <para id="para-00042"><m:math><m:mo>(</m:mo><m:mi>K</m:mi><m:mi>X</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo>(</m:mo><m:mi>M</m:mi><m:mi>D</m:mi><m:mo>)</m:mo></m:math>. (Work only with the numbers and not the units of measurement.). Clear the <emphasis effect="italics">X</emphasis> by dividing both sides of the equation by the number in front of the <emphasis effect="italics">X</emphasis>, which solves <emphasis effect="italics">X</emphasis>.</para>
 <para id="para-00043"><emphasis effect="bold">Example:</emphasis></para>
-<para id="para-00044"><emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg orally BID</para>
-<para id="para-00045"><emphasis effect="italics">Available:</emphasis> Lisinopril 2.5 mg</para>
-<para id="para-00046">How many tablets should the client receive per dose?</para>
-
-
-
-
+<para id="para-00044"><emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg orally BID<newline/>
+<emphasis effect="italics">Available:</emphasis> Lisinopril 2.5 mg<newline/>
+How many tablets should the client receive per dose?</para>
 <para id="para-00047"><m:math><m:mi>K</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>M</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi></m:math></para>
 <para id="para-00048"><m:math><m:mfrac><m:mi>K</m:mi><m:mi>M</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>D</m:mi><m:mi>X</m:mi></m:mfrac></m:math></para>
 <para id="para-00049"><m:math><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>tablets</m:mi></m:math>
@@ -273,13 +269,13 @@
 <exercise id="exer-00004">
 <problem id="prob-00004">
 <list list-type="enumerated" number-style="arabic" id="list-00010">
-<item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID 
+<item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
 <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL
 <m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mn>125</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>250</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>125</m:mn><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>250</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>5</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How</m:mi><m:mo> </m:mo><m:mi>many</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>?</m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
-<item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride PO 40 mEq BID
+<item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride PO 40 mEq BID<newline/>
 <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL
 <m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>40</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>20</m:mn><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>40</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How</m:mi><m:mo> </m:mo><m:mi>many</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>?</m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
-<item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP now
+<item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP now<newline/>
 <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL
 If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold">K</m:mi><m:mi mathvariant="bold">M</m:mi></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mfrac><m:mi mathvariant="bold">D</m:mi><m:mi mathvariant="bold">X</m:mi></m:mfrac></m:math>:
 <m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>:</m:mo><m:mo> </m:mo><m:mn>60</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>20</m:mn><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>60</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How</m:mi><m:mo> </m:mo><m:mi>many</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>?</m:mo><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math>
@@ -315,9 +311,9 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <m:math><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:math>
 <m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Ordered</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Dosage</m:mi><m:mo> </m:mo><m:mi>strength</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
 </list>
-<para id="para-00060"><emphasis effect="bold">Example 1:</emphasis></para>
-<para id="para-00061"><emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg PO BID</para>
-<para id="para-00062"><emphasis effect="italics">Available:</emphasis> Lisinopril 2.5 mg</para>
+<para id="para-00060"><emphasis effect="bold">Example 1:</emphasis><newline/>
+<emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg PO BID<newline/>
+<emphasis effect="italics">Available:</emphasis> Lisinopril 2.5 mg</para>
 <para id="para-00063">How many tablets should the client receive per dose?</para>
 <para id="para-00064"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
 <para id="para-00065"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi></m:mtd></m:mtr></m:mtable></m:math></para>
@@ -332,9 +328,9 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <media alt="This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)"><image mime-type="image/png" src="../../media/PHA_Figure_02_04_017.png"/></media>
 <caption/>
 </figure>
-<para id="para-00066"><emphasis effect="bold">Example 2:</emphasis></para>
-<para id="para-00067"><emphasis effect="italics">Ordered:</emphasis> Give digoxin 0.5 mg IV push × 1 dose now</para>
-<para id="para-00068"><emphasis effect="italics">Available:</emphasis> Digoxin 0.25 mg/1 mL</para>
+<para id="para-00066"><emphasis effect="bold">Example 2:</emphasis><newline/>
+<emphasis effect="italics">Ordered:</emphasis> Give digoxin 0.5 mg IV push × 1 dose now<newline/>
+<emphasis effect="italics">Available:</emphasis> Digoxin 0.25 mg/1 mL</para>
 <para id="para-00069">How many mL should be given?</para>
 <list list-type="enumerated" number-style="arabic" id="list-00015">
 <item>First, determine what goes on the right side of the equation. What units of measure are you solving for? In this example, it is mL.</item>
@@ -349,9 +345,9 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <caption>This example of dimensional analysis is for an IV push medication. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00070">Dimensional analysis is particularly helpful for more complicated equations, such as the following one. Note how the information can unfold as you add units of measure and cancel out as needed.</para>
-<para id="para-00071"><emphasis effect="bold">Example 3:</emphasis></para>
-<para id="para-00072"><emphasis effect="italics">Ordered:</emphasis> Initiate dopamine IV infusion at 5 mcg/kg/minute</para>
-<para id="para-00073"><emphasis effect="italics">Available:</emphasis> Dopamine hydrochloride 800 mg in 500 mL normal saline</para>
+<para id="para-00071"><emphasis effect="bold">Example 3:</emphasis><newline/>
+<emphasis effect="italics">Ordered:</emphasis> Initiate dopamine IV infusion at 5 mcg/kg/minute<newline/>
+<emphasis effect="italics">Available:</emphasis> Dopamine hydrochloride 800 mg in 500 mL normal saline</para>
 <para id="para-00074"><emphasis effect="italics">Client’s weight:</emphasis> 176 pounds</para>
 <para id="para-00075">How many mL/hour should the medication infuse?</para>
 <list list-type="enumerated" number-style="arabic" id="list-00016">
@@ -380,15 +376,15 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <exercise id="exer-00005">
 <problem id="prob-00005">
 <list list-type="enumerated" number-style="arabic" id="list-00017">
-<item><emphasis effect="italics">Ordered:</emphasis> Omnicef 500 mg orally daily
+<item><emphasis effect="italics">Ordered:</emphasis> Omnicef 500 mg orally daily<newline/>
 <emphasis effect="italics">Available:</emphasis> Omnicef suspension 125 mg in 5 mL
 How many mL will be given?
 <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">500</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">125</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
-<item><emphasis effect="italics">Ordered:</emphasis> Zoloft 50 mg orally daily
+<item><emphasis effect="italics">Ordered:</emphasis> Zoloft 50 mg orally daily<newline/>
 <emphasis effect="italics">Available:</emphasis> Zoloft 25 mg tablets
 How many tablets will be given?
 <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">50</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">tablet</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">25</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">tablets</m:mi></m:math></item>
-<item><emphasis effect="italics">Ordered:</emphasis> Dopamine infusion at 3 mcg/kg/min
+<item><emphasis effect="italics">Ordered:</emphasis> Dopamine infusion at 3 mcg/kg/min<newline/>
 <emphasis effect="italics">Available:</emphasis> Dopamine 800 mg in 500 mL normal saline
 <emphasis effect="italics">Client’s weight:</emphasis> 86 kg
 At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint: Use the template above, but because the client’s weight is already listed in kilograms, there is no need to convert from pounds. <emphasis effect="italics">(Note: The second denominator is blank.)</emphasis>
@@ -424,9 +420,9 @@ At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint
 <item>Determine the drug dose for body weight by multiplying them together.</item>
 <item>Use your preferred dosage calculation method (formula, ratio proportion, or dimensional analysis) to solve for the dose of the drug to be administered to the client.</item>
 </list>
-<para id="para-00083"><emphasis effect="bold">Example:</emphasis></para>
-<para id="para-00084"><emphasis effect="italics">Ordered:</emphasis> Amoxicillin 10 mg per kg orally QID (four times a day)</para>
-<para id="para-00085"><emphasis effect="italics">Available:</emphasis> Amoxicillin 125 mg/5 mL</para>
+<para id="para-00083"><emphasis effect="bold">Example:</emphasis><newline/>
+<emphasis effect="italics">Ordered:</emphasis> Amoxicillin 10 mg per kg orally QID (four times a day)<newline/>
+<emphasis effect="italics">Available:</emphasis> Amoxicillin 125 mg/5 mL</para>
 <para id="para-00086"><emphasis effect="italics">Client’s weight:</emphasis> 110 pounds</para>
 <para id="para-00087">How many mL should the client receive per dose?</para>
 <para id="para-00088"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn mathvariant="bold">110</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">lb</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold">.</m:mo><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">kg</m:mi></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo mathvariant="bold">=</m:mo></m:mtd><m:mtd><m:mn mathvariant="bold">50</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">kg</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>50</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>500</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>per</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
