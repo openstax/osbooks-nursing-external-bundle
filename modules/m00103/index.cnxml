@@ -358,18 +358,22 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <item>Because you are solving for mL/hour, circle mL on top and hour on the bottom, ensuring that those units of measure will not be crossed out.</item>
 <item>To solve the problem, you need to cross out duplicate units of measure. For this equation you would cross out (a) mcg, (b) kg, (c) min, (d) lb, and (e) mg. This leaves the desired measurement, mL/hour.</item>
 <item>This leaves the desired measurement as mL/hour (see <link target-id="fig-00005" document="m00103"/>).</item>
+</list>
+<figure class="scaled-down" id="fig-00005">
+  <media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals X m l slash hour. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_019.png"/></media>
+  <caption>This shows the equation with the units of measure crossed out and the desired units of measure circled. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+  </figure>
+  <list list-type="enumerated" start-value="7" id="list-00023">  
 <item>Then multiply the numerators (top numbers) and multiply the denominators (bottom numbers) (see <link target-id="fig-00006" document="m00103"/>).</item>
+  </list>
+  <figure class="scaled-down" id="fig-00006">
+    <media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals 26,400,000 over 1,760,000. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_01_002.png"/></media>
+    <caption>This stage of dimensional analysis shows the multiplication of numerators and denominators. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <list list-type="enumerated" start-value="8" id="list-00024">    
 <item>You are now ready to solve for <emphasis effect="italics">X</emphasis> by dividing the numerator of 26,400,000 by the denominator of 1,760,000.
 <m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>400</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>760</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>/</m:mo><m:mi>hour</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>/</m:mo><m:mi>hour</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
 </list>
-<figure class="scaled-down" id="fig-00005">
-<media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals X m l slash hour. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_019.png"/></media>
-<caption>This shows the equation with the units of measure crossed out and the desired units of measure circled. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
-</figure>
-<figure class="scaled-down" id="fig-00006">
-<media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals 26,400,000 over 1,760,000. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_01_002.png"/></media>
-<caption>This stage of dimensional analysis shows the multiplication of numerators and denominators. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
-</figure>
 <note class="practice-problems" id="note-00006">
 <para id="para-00076"><emphasis effect="bold">Dimensional Analysis Calculations</emphasis></para>
 <para id="para-00077">Solve for the dosage (<emphasis effect="italics">X</emphasis>). <emphasis effect="italics">(Note: There is a blank denominator in each problem.)</emphasis></para>
