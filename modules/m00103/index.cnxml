@@ -326,7 +326,7 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 </list>
 <figure class="scaled-down" id="fig-00003">
 <media alt="This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)"><image mime-type="image/png" src="../../media/PHA_Figure_02_04_017.png"/></media>
-<caption/>
+<caption>This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00066"><emphasis effect="bold">Example 2:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Give digoxin 0.5 mg IV push × 1 dose now<newline/>
@@ -377,16 +377,16 @@ If solving by cross multiplying, using <m:math><m:mfrac><m:mi mathvariant="bold"
 <problem id="prob-00005">
 <list list-type="enumerated" number-style="arabic" id="list-00017">
 <item><emphasis effect="italics">Ordered:</emphasis> Omnicef 500 mg orally daily<newline/>
-<emphasis effect="italics">Available:</emphasis> Omnicef suspension 125 mg in 5 mL
-How many mL will be given?
+<emphasis effect="italics">Available:</emphasis> Omnicef suspension 125 mg in 5 mL<newline/>
+How many mL will be given?<newline/>
 <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">500</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">125</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
 <item><emphasis effect="italics">Ordered:</emphasis> Zoloft 50 mg orally daily<newline/>
-<emphasis effect="italics">Available:</emphasis> Zoloft 25 mg tablets
-How many tablets will be given?
+<emphasis effect="italics">Available:</emphasis> Zoloft 25 mg tablets<newline/>
+How many tablets will be given?<newline/>
 <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">50</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">tablet</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">25</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">tablets</m:mi></m:math></item>
 <item><emphasis effect="italics">Ordered:</emphasis> Dopamine infusion at 3 mcg/kg/min<newline/>
-<emphasis effect="italics">Available:</emphasis> Dopamine 800 mg in 500 mL normal saline
-<emphasis effect="italics">Client’s weight:</emphasis> 86 kg
+<emphasis effect="italics">Available:</emphasis> Dopamine 800 mg in 500 mL normal saline<newline/>
+<emphasis effect="italics">Client’s weight:</emphasis> 86 kg<newline/>
 At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint: Use the template above, but because the client’s weight is already listed in kilograms, there is no need to convert from pounds. <emphasis effect="italics">(Note: The second denominator is blank.)</emphasis>
 <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold">.</m:mo><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mcg</m:mi></m:mrow><m:mrow><m:mi mathvariant="bold">kg</m:mi><m:mo mathvariant="bold">/</m:mo><m:mi mathvariant="bold">min</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">85</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">kg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">60</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">min</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">hour</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">000</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mcg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mfrac><m:mrow><m:mn mathvariant="bold">500</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">800</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">/</m:mo><m:mi mathvariant="bold">hour</m:mi></m:math></item>
 </list>
