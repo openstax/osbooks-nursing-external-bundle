@@ -22,7 +22,7 @@
 <title>Nutrition in Foods</title>
 <para id="para-00004">Understanding <term id="term-00007">calories</term> is essential to understanding how the body uses nutrients for fuel. Calories, which measure the amount of heat it takes to raise 1 kg of water by 1ºC, are used to indicate the amount of energy needed or ingested daily. Human bodies need calories to function, digest food, grow, and move. The <emphasis effect="italics">2020-2025 Dietary Guidelines</emphasis> issued jointly by the U.S. Department of Agriculture and the U.S. Department of Health and Human Services recommend adult women consume an estimated 1,600 to 2,400 calories daily and adult men 2,000 to 3,000 calories daily based on age and activity level (USDA &amp; USHHS, 2020).</para>
 <para id="para-00005">The number of calories found in food varies based on food type. <link target-id="table-00001" document="m00002"/> lists the number of calories found in macronutrients. Food preparation can modify the number of calories present. For example, a raw tomato has fewer calories than a fried tomato. Water is classified as a macronutrient. Although it serves a vital role, it does not provide energy to the body.</para>
-<table id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
