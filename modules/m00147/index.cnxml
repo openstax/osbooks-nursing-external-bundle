@@ -29,11 +29,12 @@
 <item>More prevalent unhealthy behaviors and practices</item>
 <item>Poorer health outcomes</item>
 </list>
+<para id="para-00005"><link target-id="table-00001" document="m00147"/> provides some examples of health conditions and associated Healthy People 2030 goals.</para>
 <table class="vertically-tight alternate-shading" id="table-00001">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Health Condition</span></emphasis></entry>
@@ -82,7 +83,7 @@
 <caption>Examples of Health Disparities (See ODPHP, n.d.-a.)</caption>
 </table>
 <note class="healthy-people" id="note-00001">
-<para id="para-00005"><link url="https://openstax.org/r/healthareas">Health Equity in Healthy People 2030</link></para>
+<title><link url="https://openstax.org/r/healthareas">Health Equity in Healthy People 2030</link></title>
 <para id="para-00006"><term id="term-00008">Health equity</term> is the state in which everyone has a fair and just opportunity to attain their highest level of health (CDC, 2022b). One of the five overarching goals of Healthy People 2030 directly addresses health disparities. The goal is to eliminate health disparities to achieve health equity and attain health literacy to improve the population’s health and wellbeing. <link target-id="fig-00001" document="m00147"/> provides an overview of the Healthy People 2030 goals related to health equity.</para>
 </note>
 <figure class="scaled-down" id="fig-00001">
@@ -91,6 +92,7 @@
 <caption>This infographic displays the Healthy People 2030 goals for advancing health equity. (credit: “Leveraging Healthy People to Advance Equity” by United States Department of Health and Human Services, Public Domain)</caption>
 </figure>
 <para id="para-00007">The populations that most often experience health disparities include <term class="no-emphasis" id="term-00009">racial and ethnic minorities</term>, people with lower <term class="no-emphasis" id="term-00010">socioeconomic status</term>, underserved <term class="no-emphasis" id="term-00011">rural</term> communities, and <term class="no-emphasis" id="term-00012">sexual and gender minorities</term> (NIMHD, 2023). Each of these populations will be discussed in detail later in this chapter. <link target-id="table-00002" document="m00147"/> describes individual <term class="no-emphasis" id="term-00013">health determinant</term>s and their effect on outcomes (NIMHD, 2023).</para>
+
 <table class="vertically-tight alternate-shading" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
