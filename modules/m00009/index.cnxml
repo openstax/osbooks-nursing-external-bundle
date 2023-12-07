@@ -19,7 +19,7 @@
 <title>Fat Function and Metabolism</title>
 <para id="para-00002"><term class="no-emphasis" id="term-00001">Fats</term> are found primarily in animal foods such as meat, high-fat dairy products, and fried food, although plants are also sources of fat in the form of oils. Fat is a concentrated energy source, supplying more than double the caloric energy of carbohydrates or protein. See <link target-id="table-00001" document="m00009"/> for the comparison of energy in <term class="no-emphasis" id="term-00002">macronutrients</term>. (Note that alcohol also provides calories, but unlike the macronutrients, it does not provide vitamins, minerals, or fiber. Its calories are therefore commonly referred to as “empty” because they have no nutritional value.)</para>
 <para id="para-00003">Fat helps maintain body temperature, is a critical part of fat-soluble vitamin transport, protects body organs by cushioning them, and is an essential component of cell membranes. Hormones secreted by accessory organs assist in fat <term class="no-emphasis" id="term-00003">metabolism</term>. Although an enzyme, <term class="no-emphasis" id="term-00004">lingual lipase</term>, exists in the mouth, the bulk of fat digestion occurs in the small intestine, where ingested <term id="term-00005">triglycerides</term>—fats composed of three fatty acids and one glycerol molecule—break down into monoglycerides and glycerol.</para>
-<table class="vertically-tight alternate-shading" id="table-00001">
+<table class="vertically-tight alternate-shading full-width" id="table-00001">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -27,9 +27,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Macronutrient</span></entry>
-<entry valign="top" align="left"><span class="blue-text"><term id="term-00006">Calories</term> (Energy) per Gram</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Primary Food Source</span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Macronutrient</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold"><term id="term-00006">Calories</term> (Energy) per Gram</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Primary Food Source</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -68,7 +68,7 @@
 <section id="sect-00003">
 <title>Saturated Fat</title>
 <para id="para-00007">A <term class="no-emphasis" id="term-00014">saturated fat</term> is usually solid at room temperature and is found in <term class="no-emphasis" id="term-00015">animal-based foods</term> and some plant oils. Saturated fat was first linked with <term class="no-emphasis" id="term-00016">heart disease</term> in the 1950s by Ancel Keys, who proposed the diet–heart hypothesis (Teicholz, 2023). It has been widely accepted that a decrease in saturated fat is protective against the development of cardiovascular disease (MacDonald et al., 2022). The U.S. <emphasis effect="italics">Dietary Guidelines for  Americans 2020–2025</emphasis> continue to include the recommendation to lower the intake of saturated fat. The <term class="no-emphasis" id="term-00017">American Heart Association</term> recommends a dietary pattern that achieves 5–6% of calories from saturated fat. For example, if an individual needs about 2,000 calories a day, 120 calories at most should come from saturated fat, or approximately 13 g per day (American Heart Association, 2021). <link target-id="table-00002" document="m00009"/> lists amounts of saturated fat in some everyday foods.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight alternate-shading full-width" id="table-00002">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -130,7 +130,7 @@
 <section id="sect-00004">
 <title>Monounsaturated Fats</title>
 <para id="para-00008">Monounsaturated fats (MUFAs) such as olive oil have become the “go-to” fat, replacing polyunsaturated fats, which received much of the attention in the 1980s. <link target-id="table-00003" document="m00009"/> lists some common oils and their monounsaturated fat content. All fats have the same number of calories per gram (9 g), whether saturated or not.</para>
-<table class="vertically-tight alternate-shading" id="table-00003">
+<table class="vertically-tight alternate-shading full-width" id="table-00003">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -197,7 +197,7 @@
 <para id="para-00010">Two well-known <term class="no-emphasis" id="term-00019">polyunsaturated fats</term> are <term class="no-emphasis" id="term-00020">omega-3</term> and <term class="no-emphasis" id="term-00021">omega-6</term> fatty acids. Omega-3 fats play a role in heart health and are found in eggs, soybeans, flaxseed, canola oil, and fatty fish such as salmon. The role of omega-6 fatty acid in heart health is more complex than that of omega-3. Its greatest effect appears to be strengthening of the <term class="no-emphasis" id="term-00022">immune system</term>. Omega-6 fatty acids are found in sunflower, safflower, soy, sesame, and corn oils.</para>
 <para id="para-00011">Polyunsaturated fatty acids are known for their health properties and anti-inflammatory action (Currenti et al., 2022). Polyunsaturated fats should make up no more than about 11% of the 20–35% of daily calories from fat (Liu et al., 2016). <link target-id="table-00004" document="m00009"/> presents a comparison of the polyunsaturated content of common cooking <term class="no-emphasis" id="term-00023">oils</term>.</para>
 <para id="para-00012">The majority of daily fat consumption should come from unsaturated sources, i.e., monounsaturated and polyunsaturated fats (Schweichler, 2022).</para>
-<table class="vertically-tight alternate-shading" id="table-00004">
+<table class="vertically-tight alternate-shading full-width" id="table-00004">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -253,9 +253,13 @@
 <entry valign="top" align="left">Coconut**</entry>
 <entry valign="top" align="left">2</entry>
 </row>
+<row>
+  <entry valign="top" align="left" namest="c1" nameend="c2">*High in monounsaturated fat (71%)<newline/>
+  **High in saturated fat (butter: 63%, coconut: 87%)</entry>
+</row>
 </tbody>
 </tgroup>
-<caption>*High in monounsaturated fat (71%)<newline/>**High in saturated fat (butter: 63%, coconut: 87%) Percentage of Polyunsaturated Fats in Common Oils (source: Gebhardt &#38; Thomas, 2022; USDA, 2019)</caption>
+<caption>Percentage of Polyunsaturated Fats in Common Oils (source: Gebhardt &#38; Thomas, 2022; USDA, 2019)</caption>
 </table>
 </section>
 <section id="sect-00006">

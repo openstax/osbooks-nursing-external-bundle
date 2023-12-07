@@ -22,7 +22,7 @@
 <figure id="fig-00001"><media alt="The four levels of a protein structure. The primary structure is the amino acid sequence. Secondary structure is a regular folding pattern due to hydrogen bonding. Two types of secondary structures are shown: a beta pleated sheet, which is flat with regular bends, and an alpha helix, which coils like a spring. The tertiary structure has a three-dimensional folding pattern of the protein due to interactions between amino acid side chains. The quaternary structure is a three-dimensional, multi-fold structure from the interaction of two or more amino acid chains."><image mime-type="image/jpg" src="../../media/NUT_Figure_02_03_002.png"/></media>
 <caption>The structure of a protein determines its function. (credit: modification of work from <emphasis effect="italics">Biology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
 <para id="para-00004">Amino acids are classified as essential if they come from food and nonessential if the body can synthesize them. See <link target-id="table-00001" document="m00010"/> for a list of amino acids and their classification. Amino acids are continually needed to replace normal cell breakdown. Each protein has a specific sequencing of amino acids; when one is missing, protein synthesis stops until the muscle breaks down to free up the needed amino acids for the amino acid pool. The intricate folding of the protein molecule is based on the function required. For example, the proteins in nails, when compared to those in the eyes, are very different in structure because the functions are highly diverse.</para>
-<table class="vertically-tight alternate-shading" id="table-00001">
+<table class="vertically-tight alternate-shading full-width" id="table-00001">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -127,7 +127,7 @@
 <para id="para-00008">Protein supplements are unnecessary if an individual is in good health, moderately active, and knowledgeable about nutrition. A well-balanced diet with lean proteins and necessary fat, carbohydrate, and micronutrients can provide adequate nutrients without purchased supplements. The <term id="term-00014">bioavailability</term>, the way food is absorbed, of the macronutrients and micronutrients is better for whole foods. For example, chocolate milk is a “close to perfect” postexercise supplement (Amiri et al., 2019). It contains the ideal ratio of carbohydrates to protein and includes the milk proteins casein and whey, which metabolize at different rates for replenishment in the short and long term (Garden-Robinson. &amp; Christenson, 2019).</para>
 <para id="para-00009"><term class="no-emphasis" id="term-00015">Nitrogen balance</term> is widely used as an indicator to assess protein loss or gain. This indicator can be especially useful following trauma or prolonged illness (Dickerson, 2016). If dietary nitrogen intake in the form of protein is greater than what is lost, a positive nitrogen balance is achieved, reflecting a gain of total body protein. Positive nitrogen balance is essential for growth and healing.</para>
 <para id="para-00010">Conversely, a negative nitrogen balance reflects protein degradation, with protein loss higher than protein retention. A negative protein balance in acute care substantially impacts survival (Dupuis et al., 2022). Healthy adults achieve nitrogen balance when protein intake is the same as protein degradation. <link target-id="table-00002" document="m00010"/> lists the protein content of animal and plant-based foods.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight alternate-shading full-width" id="table-00002">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -224,9 +224,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Stages of <term id="term-00024">Kidney Disease</term></span></entry>
-<entry valign="top" align="left"><span class="blue-text">Clinical Indicators</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Amount of Protein (g/kg of Ideal Body Weight)</span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Stages of <term id="term-00024">Kidney Disease</term></emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Clinical Indicators</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Amount of Protein (g/kg of Ideal Body Weight)</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
