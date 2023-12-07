@@ -21,7 +21,7 @@
     <section id="sect-00002">
     <section id="sect-00003">
     <title>Natural Disasters</title>
-    <para id="para-00005"><term id="term-00003">Natural disasters</term> are those that arise from forces of nature, such as weather events (hurricanes, tornadoes, snowstorms, heatwaves, lightning, thunderstorms, and droughts), geological events (mudslides, floods, landslides, and avalanches), underground events (tsunamis, earthquakes, and volcanic eruptions), or epidemiological events (communicable disease outbreaks or swarms). Some natural disasters occur gradually or can be predicted, allowing communities to prepare for the event. However, many natural disasters occur suddenly and are unpredictable, causing significant public health risks to communities (<link target-id="fig-00001" document="m00354"/>). Destruction and devastation from natural disasters have risen astronomically throughout the world over the past 40 to 50 years (U.N., 2021; White House.gov, 2022). Floods, droughts, severe storms, hurricanes, and heatwaves have caused 80 to 90 percent of all documented natural disasters since 2013 (World Health Organization [WHO], 2023). The WHO (2023) has attributed the number of weather-related natural disasters in recent years to increased weather extremes resulting from climate change. See<link document="m00171">Environmental Health</link> for more information on the effects of <term class="no-emphasis" id="term-00004">climate change</term>.</para>
+    <para id="para-00005"><term id="term-00003">Natural disasters</term> are those that arise from forces of nature, such as weather events (hurricanes, tornadoes, snowstorms, heatwaves, lightning, thunderstorms, and droughts), geological events (mudslides, floods, landslides, and avalanches), underground events (tsunamis, earthquakes, and volcanic eruptions), or epidemiological events (communicable disease outbreaks or swarms). Some natural disasters occur gradually or can be predicted, allowing communities to prepare for the event. However, many natural disasters occur suddenly and are unpredictable, causing significant public health risks to communities (<link target-id="fig-00001" document="m00354"/>). Destruction and devastation from natural disasters have risen astronomically throughout the world over the past 40 to 50 years (U.N., 2021; White House.gov, 2022). Floods, droughts, severe storms, hurricanes, and heatwaves have caused 80 to 90 percent of all documented natural disasters since 2013 (World Health Organization [WHO], 2023). The WHO (2023) has attributed the number of weather-related natural disasters in recent years to increased weather extremes resulting from climate change. See <link document="m00171">Environmental Health</link> for more information on the effects of <term class="no-emphasis" id="term-00004">climate change</term>.</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="The interior of a room shows signs of destruction and decay, with peeling paint and wallpaper, broken furniture, and debris covering the floor.">
     <image mime-type="image/png" src="../../media/PH_Figure_32_01_002.jpg"/></media>
@@ -135,7 +135,7 @@
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Step</span></emphasis></entry>

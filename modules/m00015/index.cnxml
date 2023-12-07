@@ -36,7 +36,7 @@
 <title/>
 <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Vitamin-Mineral Category</span></entry>
@@ -76,7 +76,7 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Vitamin/Mineral</span></entry>
