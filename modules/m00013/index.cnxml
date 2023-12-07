@@ -46,7 +46,7 @@
   <title/>
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
   <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text">Vitamin</span></entry>
@@ -150,7 +150,7 @@
   <para id="para-00022">Vitamin C or <term class="no-emphasis" id="term-00031">ascorbic acid</term>, a water-soluble vitamin, is best known for its coenzyme and antioxidant properties (Abiri &amp;Vafa, 2021). Vitamin C protects cells from premature aging caused by free radicals. Vitamin C stabilizes the cell by accepting or donating an electron. The body is constantly moving electrons around, so <term class="no-emphasis" id="term-00032">vitamin C</term> is used in almost every tissue in the body. Free radicals are the leading cause of disease and inflammation, so vitamin C’s ability to neutralize those free radicals (acting as an antioxidant) is central to lowering heart disease and cancer risk.</para>
   <para id="para-00023">Vitamin C also promotes collagen synthesis. Although <term class="no-emphasis" id="term-00033">collagen synthesis</term> is required for maintaining normal vascular function, it also provides metabolic substrates for new blood vessel development (<term id="term-00034">angiogenesis</term>), enhancing blood supply, and bringing more oxygen to the tissues. Vitamin C is necessary for a healthy immune system and increases the absorption of non-heme iron.</para>
   <para id="para-00024">The body tightly monitors the plasma concentration of vitamin C. Approximately 70–90% of vitamin C is absorbed in moderate intakes of 30–180 mg/day. Absorption becomes less efficient at doses above 1,000 mg/day, with about 50% of the excess excreted in the urine (NIH, 2021b).<sup> </sup>Most healthy, non-smoking Americans consume enough vitamin C-rich foods to meet the daily requirements of 90 mg/day for males and 75 mg/day for females. According to national nutrition studies, the average vitamin C intake is about 95 mg/day without vitamin supplementation. See <link target-id="table-00003" document="m00013"/> for common fruits and vegetables containing vitamin C.</para>
-  <table class="vertically-tight alternate-shading" id="table-00003">
+  <table class="vertically-tight alternate-shading full-width" id="table-00003">
   <title/>
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -247,7 +247,7 @@
   <item>Inadequate riboflavin, pyridoxine, and/or iron intakes (increase)</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="left"><term class="no-emphasis" id="term-00040">Pantothenic acid</term>&#160;(B<sub>5</sub>)</entry>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00040">Pantothenic&#160;acid</term>&#160;(B<sub>5</sub>)</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00014"><item>Genetic pantothenate kinase-associated neurodegeneration 2 mutation</item>
   <item>(Unclear if supplementation is helpful)</item></list></entry>
   </row>
