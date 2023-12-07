@@ -23,7 +23,7 @@
     <section id="sect-00002">
     <section id="sect-00003">
     <title>Categorization of Bioterrorism Agents</title>
-    <para id="para-00004">As discussed in <link document="m00167">Pandemics and Infectious Disease Outbreaks</link>, biological agents that would likely be used as agents of bioterrorism include bacteria, viruses, and toxins. The CDC categorizes these agents by risk threat (see [link]Table 32.2[/link] for examples). Most biological agents are difficult to grow and maintain, as many are destroyed quickly when exposed to sunlight and other environmental factors (CDC, 2018; Siegel et al., 2023). Other agents, such as anthrax spores, are heartier and live much longer, especially on surfaces. Biological agents can be dispersed by spraying them into the air, infecting animals that carry the disease to humans, and contaminating food and water (Bland, 2014). Delivery methods include:</para>
+    <para id="para-00004">As discussed in <link document="m00167">Pandemics and Infectious Disease Outbreaks</link>, biological agents that would likely be used as agents of bioterrorism include bacteria, viruses, and toxins. The CDC categorizes these agents by risk threat (see <link target-id="table-00001" document="m00355"/> for examples). Most biological agents are difficult to grow and maintain, as many are destroyed quickly when exposed to sunlight and other environmental factors (CDC, 2018; Siegel et al., 2023). Other agents, such as anthrax spores, are heartier and live much longer, especially on surfaces. Biological agents can be dispersed by spraying them into the air, infecting animals that carry the disease to humans, and contaminating food and water (Bland, 2014). Delivery methods include:</para>
     <list list-type="bulleted" id="list-00002">
     <item>Aerosols—biological agents are circulated into the air via a fine mist that may carry for miles. Inhaling the agent may cause disease in people or animals.</item>
     <item>Animals—diseases that are spread by insects and animals, such as fleas, mice, flies, mosquitoes, and livestock</item>
@@ -131,7 +131,7 @@
     <item>Unexplained dead animals or plants</item>
     </list>
     <para id="para-00011">Whenever the nurse suspects individual exposure to a biological agent, a thorough assessment should be completed only after ensuring personal safety. For example, the biological agent may have contaminated the individual’s clothing, putting the nurse in danger of exposure. The nurse in this situation should don appropriate PPE, direct the individual to remove contaminated clothing, and follow procedures for decontamination, which include washing with soap and water.</para>
-    <para id="para-00012">In the event of biological exposure and contamination, decontamination may be necessary. <term id="term-00006">Biological contamination</term> occurs when infectious agents come into contact with a body surface, inanimate objects, or food or water supplies. <term id="term-00007">Biological decontamination</term> includes disinfection or sterilization of the area to reduce the number of microorganisms to a safe level ([link]Table 32.3[/link]) (Dembeck et al., 2011).</para>
+    <para id="para-00012">In the event of biological exposure and contamination, decontamination may be necessary. <term id="term-00006">Biological contamination</term> occurs when infectious agents come into contact with a body surface, inanimate objects, or food or water supplies. <term id="term-00007">Biological decontamination</term> includes disinfection or sterilization of the area to reduce the number of microorganisms to a safe level (<link target-id="table-00002" document="m00355"/>) (Dembeck et al., 2011).</para>
     <table class="vertically-tight alternate-shading" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -189,7 +189,7 @@
     </tgroup>
     <caption>Mechanical, Chemical, and Physical Methods of Biological Decontamination</caption>
     </table>
-    <para id="para-00013">The nurse compares individual assessment data to signs and symptoms of common biological agents to assist in diagnosis and potential treatment options. [link]Table 32.4[/link] describes common agents of bioterrorism, method of transmission, signs and symptoms, and treatments. The nurse reports biological agent exposure to the local health department and the CDC.</para>
+    <para id="para-00013">The nurse compares individual assessment data to signs and symptoms of common biological agents to assist in diagnosis and potential treatment options. <link target-id="table-00003" document="m00355"/> describes common agents of bioterrorism, method of transmission, signs and symptoms, and treatments. The nurse reports biological agent exposure to the local health department and the CDC.</para>
     <table class="vertically-tight alternate-shading" id="table-00003">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -345,7 +345,7 @@
     <list list-type="bulleted" id="list-00032">
     <item>Recognition of exposure</item>
     <item>Ensuring safety of the area through evacuation of nonessential personnel, use of PPE, and limiting additional exposure</item>
-    <item>Establishing zones for decontamination, treatment, and safe or clean zones; see [link]Zoning of Care Areas[/link]</item>
+    <item>Establishing zones for decontamination, treatment, and safe or clean zones; see <link document="m00356" target-id="sect-00008">Zoning of Care Areas</link></item>
     <item>Setting up a command center and establishing a chain of communication</item>
     <item>Triage, assess, treat, and transport exposed individuals</item>
     </list>
