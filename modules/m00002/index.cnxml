@@ -87,7 +87,7 @@
 <note class="media-feature" id="note-00003">
 <title>Calculating BMI</title>
 <para id="para-00017"><term class="no-emphasis" id="term-00008">BMI</term> is a screening tool used to identify clients who are overweight or obese. Considering the recent policy change by the AMA, nurses should stay abreast of new research to determine how to incorporate BMI measurements when working with diverse client populations. BMI does not measure body fat directly but correlates with other more direct measures of body fat such as skinfold thickness measurements. High BMI can be correlated with obesity-linked adverse health outcomes. To determine BMI, input the client’s height and weight <link url="https://openstax.org/r/cdchealthyweight">into the Adult BMI Calculator</link>. Use <link target-id="table-00002" document="m00002"/> to interpret the results.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight alternate-shading full-width" id="table-00002">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -105,7 +105,7 @@
 </row>
 <row>
 <entry valign="top" align="left">18.5 to &lt;25</entry>
-<entry valign="top" align="left">Heathy Weight</entry>
+<entry valign="top" align="left">Heathy weight</entry>
 </row>
 <row>
 <entry valign="top" align="left">25.0 to &lt;30</entry>
@@ -113,15 +113,15 @@
 </row>
 <row>
 <entry valign="top" align="left">30.0 to &lt;35.0</entry>
-<entry valign="top" align="left">Class 1 Obesity</entry>
+<entry valign="top" align="left">Class 1 obesity</entry>
 </row>
 <row>
 <entry valign="top" align="left">35.0 to &lt;40.0</entry>
-<entry valign="top" align="left">Class 2 Obesity</entry>
+<entry valign="top" align="left">Class 2 obesity</entry>
 </row>
 <row>
 <entry valign="top" align="left">40.0 or higher</entry>
-<entry valign="top" align="left">Class 3 Obesity</entry>
+<entry valign="top" align="left">Class 3 obesity</entry>
 </row>
 </tbody>
 </tgroup>
@@ -131,7 +131,7 @@
 <note class="media-feature" id="note-00004">
 <title>Measuring WHR</title>
 <para id="para-00018">Clients may be self-conscious about having <term class="no-emphasis" id="term-00024">body measurements</term> taken. Provide privacy for your client when taking these measurements. To determine <term class="no-emphasis" id="term-00022">WHR</term>, with the client standing upright, use a tape measure to measure the distance around the smallest part of the client’s waist (waist circumference) and then the largest part of the client’s hip (hip circumference). Then divide the waist circumference by the hip circumference or <link url="https://openstax.org/r/thecalculatorsite">use this online calculator</link> to determine the WHR. The result is determined using <link target-id="table-00003" document="m00002"/>.</para>
-<table class="vertically-tight alternate-shading" id="table-00003">
+<table class="vertically-tight alternate-shading full-width" id="table-00003">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -152,8 +152,8 @@
 </row>
 <row>
 <entry valign="top" align="left">Moderate</entry>
-<entry valign="top" align="left">0.81-0.85</entry>
-<entry valign="top" align="left">0.96-1.0</entry>
+<entry valign="top" align="left">0.81&#8211;0.85</entry>
+<entry valign="top" align="left">0.96&#8211;1.0</entry>
 </row>
 <row>
 <entry valign="top" align="left">High</entry>
