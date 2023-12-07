@@ -7,7 +7,388 @@
   </metadata>
   <content>
     <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Explain the nurse’s role in emergency preparedness, disaster response, and disaster recovery.</item>
+    <item>Compare the stages of disaster to the nursing process.</item>
+    <item>Describe disaster triage.</item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">Community health nurses are well positioned to respond in times of disaster and maintain a constant role across the disaster cycle of preparedness and national planning framework (APHN, 2014). From emergency preparedness to <term class="no-emphasis" id="term-00001">disaster recovery</term>, they work with individuals, families, the community, and local administrators to promote health and well-being and to prevent illness (Siva &amp; Prema, 2018). Community health nurses are not only acute-care providers or first responders, but they also maintain a long-term focus on a healthy community during the disaster phases. Their knowledge of and skills in <term class="no-emphasis" id="term-00002">epidemiology</term>, <term class="no-emphasis" id="term-00003">determinants of health</term>, <term class="no-emphasis" id="term-00004">community mapping</term>, <term class="no-emphasis" id="term-00005">risk assessment</term>, <term class="no-emphasis" id="term-00006">disease surveillance</term>, community resources, health teaching, and mass education make them effective members of the disaster management team. Their relationships with and intimate knowledge of how people in the community will respond to a crisis and what resources they may use or benefit from make them trusted health care professionals during times of uncertainty (APHN, 2014; Siva &amp; Prema, 2018).</para>
+    <para id="para-00003">As discussed previously, emergency preparedness is an essential role for the community health nurse. Having a workable plan that can be implemented in an immediate response to a disaster is critical. Community health nurses should be ready to expand their role in nonroutine practice areas during the response to a mass casualty event. The competencies expected of the community health nurse include emergency readiness and response and ensure the nurse’s ability to understand and execute the necessary skills and behaviors in the event of an incident (International Council of Nurses, 2019). [link]Table 32.11[/link] lists disaster competencies for the general professional nurse, or nurses who have completed undergraduate nursing education programs. The competencies fall within eight disaster management domains.</para>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Domain</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Competency</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>Preparation and Planning</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00003">
+    <item>Maintains a personal and professional preparedness plan</item>
+    <item>Participates in disaster exercises in the workplace</item>
+    <item>Maintains knowledge of available emergency resources, plans, policies, and procedures.</item>
+    <item>Describes methods to assist vulnerable populations during a disaster response</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="2" id="list-00004">
+    <item>Communication</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00005">
+    <item>Uses disaster terminology correctly when communicating</item>
+    <item>Communicates disaster priority information promptly to appropriate individuals</item>
+    <item>Demonstrates basic crisis communication skills during disaster events</item>
+    <item>Uses culturally and linguistically appropriate resources to communicate with populations</item>
+    <item>Documents essential assessment and intervention</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="3" id="list-00006">
+    <item>Incident Management</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00007">
+    <item>Describes the national structure for response to a disaster</item>
+    <item>Uses disaster planning chain of command relevant to workplace and/or disaster drill</item>
+    <item>Contributes to post-event evaluation</item>
+    <item>Practices within license scope of practice during a disaster</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="4" id="list-00008">
+    <item>Safety and Security</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00009">
+    <item>Maintains safety for self and others throughout a disaster event.</item>
+    <item>Adapts basic infection control practices to the available resources</item>
+    <item>Assesses self and others during a disaster event to identify the need for physical or psychological support</item>
+    <item>Uses PPE as directed during a disaster event</item>
+    <item>Report possible risks to personal or others’ safety and security.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="5" id="list-00010">
+    <item>Assessment</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00011">
+    <item>Reports symptoms or events that might indicate the onset of an emergency or disaster</item>
+    <item>Performs rapid physical and mental health assessments based upon principles of triage and the type of disaster</item>
+    <item>Maintains ongoing assessment for needed changes in care in response to an evolving disaster</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="6" id="list-00012">
+    <item>Intervention</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00013">
+    <item>Implements basic first aid as needed by individuals in the immediate vicinity</item>
+    <item>Isolates persons at risk of spreading communicable conditions to others</item>
+    <item>Participates in contamination assessment or decontamination of individuals when directed through the chain of command</item>
+    <item>Engages clients, family members, or volunteers, within their abilities, to extend resources during disasters</item>
+    <item>Provide client care based on priority needs and available resources</item>
+    <item>Participates in surge capacity activities, such as mass immunization</item>
+    <item>Adheres to protocol for management of large numbers of deceased persons in a respectful manner</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="7" id="list-00014">
+    <item>Recovery</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00015">
+    <item>Assists in organization to maintain or resume functioning during and post disaster</item>
+    <item>Assists assigned clients to maintain or resume functioning during and post event</item>
+    <item>Makes referrals for ongoing physical and mental health needs</item>
+    <item>Participates in transition debriefing to identify personal needs for ongoing assistance</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="enumerated" number-style="arabic" start-value="8" id="list-00016">
+    <item>Law and Ethics</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00017">
+    <item>Practices within nursing and emergency-specific laws, policies, and procedures</item>
+    <item>Applies disaster ethical framework in care</item>
+    <item>Demonstrates understanding of ethical practice during disaster response based on utilitarian principles</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Disaster competencies for the general professional nurse (See International Council of Nurses, 2019.)</caption>
+    </table>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Stages of Disaster Response and Recovery</title>
+    <para id="para-00004">When communities face a disaster, the success of the response and recovery depends on a common, interoperable approach to sharing resources, coordinating and managing incidents, and communicating information (Homeland Security, 2019). The <link url="https://openstax.org/r/femagovsites">National Response Framework (NRF)</link> provides foundational emergency management guidelines for response (Homeland Security, 2019). The <link url="https://openstax.org/r/femagovsitesdefa">National Incident Management System (NIMS)</link> was developed by the Department of Homeland Security in 2004 within the NRF to establish a standardized set of processes and procedures that guides emergency responders at all levels of government organizations, nongovernmental organizations, and the private sector to conduct response operations (FEMA, 2017). The NRF and NIMS identify key roles and responsibilities at each stage of disaster response. The NRF can be partially or fully implemented when there is a threat or hazard, a significant event is anticipated, or in response to an incident (Homeland Security, 2019).</para>
+    <para id="para-00005">Disaster response and recovery occurs in stages that occur sequentially as the incident develops. These stages are grouped by activities with a common purpose so that emergency response is well organized and sequenced through specific intervals of an incident (HHS, 2012).</para>
+    <list list-type="bulleted" id="list-00018">
+    <item>Stage 1: <term class="no-emphasis" id="term-00007">Incident Recognition</term>—A rapid assessment of the situation is completed, and the organization decides that emergency-related support and response is needed.</item>
+    <item>Stage 2: <term class="no-emphasis" id="term-00008">Initial Notification and Activation</term>—Initial notification and activation occur simultaneously. Appropriate organizations within the response system are notified of the incident. Urgent information is provided about the incident and guidance is provided about the actions that should be taken by the community. Activation determines the response level to the incident and activates the emergency response procedures.</item>
+    <item>Stage 3: <term class="no-emphasis" id="term-00009">Mobilization</term>—This is the movement of the organization from a state of inactivity or baseline operations to the required response level.</item>
+    <item>Stage 4: <term class="no-emphasis" id="term-00010">Incident Operations</term>—This refers to all actions that address the response objectives following activation (other than mobilization and demobilization). These actions in this stage may be further divided into “initial” (or “immediate”) and “ongoing” categories.</item>
+    <item>Stage 5: <term class="no-emphasis" id="term-00011">Demobilization</term>—This stage addresses the transition of resources from response activities back to baseline operations. Demobilization procedures are triggered as response objectives are achieved and resources are relieved of incident responsibilities.</item>
+    <item>Stage 6: <term class="no-emphasis" id="term-00012">Transition to Recovery and Return to Readiness</term>—This stage is a return to a state of readiness for the next emergency.</item>
+    </list>
+    </section>
+    <section id="sect-00004">
+    <title>The Nursing Process Applied to Disaster Response and Recovery</title>
+    <para id="para-00006">Public health nurses bring critical expertise to each phase of a disaster: mitigation, preparedness, response, and recovery. The practice of public health nursing is often more visible and better understood by the general public during the response and recovery phases, but their contribution is just as vital in the mitigation and preparedness phases, although probably underutilized. The increased involvement of public health nurses in disaster planning and response begins with their understanding of the comprehensive scope and standards of practice and follows with their striving to achieve individual competencies to better collaborate with others and contribute to emergency preparedness and response (Jakeway et al., 2008). [link]Table 32.12[/link] shows the phases of the disaster management cycle and provides examples of the nurse’s role in relation to the nursing process.</para>
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="5">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <colspec colnum="5" colname="c5" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Disaster Phase</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Assessment and Analysis</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Planning</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Implementation</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Evaluation</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Mitigation and Preparedness</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00019">
+    <item>Assess the community for individuals and populations at risk during disaster.</item>
+    <item>Assess the community for hazard vulnerability and identify hazards that create the greatest risk.</item>
+    <item>Assess community design and available resources for potential locations for sheltering, routes for evacuation, and locations, transportation, and resources to hold and process mass casualties.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00020">
+    <item>Develop a plan to address needs of populations at risk during a disaster.</item>
+    <item>Create a plan to minimize hazard vulnerability, especially in those areas identified as high risk.</item>
+    <item>Collaborate with community members to plan for sheltering, evacuation, and mass casualty needs during disaster.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00021">
+    <item>Conduct tabletop exercises or simulations of the plan to address the needs of populations at risk.</item>
+    <item>Implement a plan to minimize hazard vulnerability, such as increasing security and monitoring high-risk areas.</item>
+    <item>Conduct exercises to practice the plan for sheltering, evacuation, and mass casualty events.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00022">
+    <item>Evaluate the tabletop exercises or simulations, identifying strengths, areas for improvement, and need for additional resources.</item>
+    <item>Evaluate the plan to minimize hazard vulnerability.</item>
+    <item>Evaluate sheltering, evacuation, and mass casualty plans, identifying strengths, areas for improvement, and need for additional resources.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Response</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00023">
+    <item>Triage victims of a disaster.</item>
+    <item>Assess for risk for communicable disease.</item>
+    <item>Assess for health care needs of the community and current resources for response.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00024">
+    <item>Develop a plan for triage, treatment, and transport to health care facilities.</item>
+    <item>Develop a plan to provide mass vaccination to the community.</item>
+    <item>Schedule nurses and emergency response team to provide triage care throughout the community in shifts.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00025">
+    <item>Triage, treat, and transport clients to health care facilities.</item>
+    <item>Conduct a mass vaccination clinic.</item>
+    <item>Provide response care to the community in shifts.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00026">
+    <item>Evaluate the triage, treatment, and transport plan to identify strengths, need for resources, and areas for improvement.</item>
+    <item>Evaluate the plan for mass vaccination and revise as needed to increase the number vaccinated.</item>
+    <item>Evaluate the shift schedule and revise as needed to ensure the health care team is not overworked or overstressed.</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Recovery</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00027">
+    <item>Assess the community for continued communicable disease risks.</item>
+    <item>Assess the community and health care workers for mental health needs.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00028">
+    <item>Develop a plan to decrease communicable disease risks, such as education regarding food and water safety, eliminating standing water, and disposal of deceased animals.</item>
+    <item>Collaborate with community mental health workers to develop a plan to provide mental health care to the community and health care workers.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00029">
+    <item>Provide education on disease risk and methods to decrease risk.</item>
+    <item>Refer individuals to mental health providers.</item></list></entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00030">
+    <item>Evaluate the impact of the plan to decrease communicable disease risk,</item>
+    <item>Evaluate the plan to provide mental health services, identifying the need for additional resources, strengths, and areas for improvement.</item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Nursing Process Applied to Disaster Management (See Jakeway et al, 2008; Association of Public Health Nurses, 2015.)</caption>
+    </table>
+    </section>
+    <section id="sect-00005">
+    <title>Mass Casualty Triage Systems</title>
+    <para id="para-00007">Response to <term class="no-emphasis" id="term-00013">mass casualty events</term> often involves more victims than responding caregivers, requiring responders to sort victims categorically based on the degree of injury. Triaging during a mass casualty event is a dynamic and fluctuating process that requires training during disaster preparedness. Medical responders to a mass casualty must triage victims differently than when caring for clients in a controlled setting. The emphasis is sorting victims based on severity of injury rather than treatment of injuries. This may seem counterintuitive to normal prehospital protocols. The goal of <term class="no-emphasis" id="term-00014">triage</term> systems used in mass casualty events is to do the greatest good for the greatest number of people because of the limited available health care resources to the number of injured individuals (Clarkson &amp; Williams, 2022). Treatment during <term class="no-emphasis" id="term-00015">field triage</term> is minimal, with the goal of moving clients away from the incident and toward resources that offer more comprehensive care. Victims should be reassessed and may be recategorized based on changes in their clinical status. The triage process should focus on clients' rapid assessment and quick movement (Clarkson &amp; Williams, 2022).</para>
+    <para id="para-00008">There are several triage systems used worldwide. The algorithms are similar and have a tightly structured approach. The most common triage systems will be discussed in the following sections.</para>
+    <section id="sect-00006">
+    <title>START Triage</title>
+    <para id="para-00009">The <term class="no-emphasis" id="term-00016">Simple Triage And Rapid Treatment (START)</term> method was developed in 1983 by Hoag Hospital and Newport Beach Fire Department staff in California for rescuers with basic first-aid skills. START is the most widely used triage system in the United States for mass casualty incidents (Clarkson &amp; Williams, 2022). START assesses the victim’s ability to obey commands, respiratory rate, and radial pulse or capillary refill.</para>
+    <para id="para-00010">The START triage system uses a color-coded tag method to categorize clients based on the severity of the injury and to guide transport. <term id="term-00017">Triage tags</term> allow responders to sort victims quickly and indicate the level of treatment needed efficiently. These colors are universally recognized and correspond to a predetermined set of physical assessment findings, so responders have a standardized way to tag victims. Red indicates that the person has a life-threatening injury that requires immediate treatment; yellow indicates that the person has a serious injury that can tolerate delayed treatment, and green indicates that the person has minor injuries and is considered “walking wounded.” The color black is used for those already deceased or imminently expected to expire. [link]Figure 32.7[/link] shows the decision tree for tagging victims based on assessment findings. Once victims are triaged and tagged, they should be moved to designated areas that serve as treatment and loading zones for transport to higher levels of care.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A yes or no flow chart provides yes or no questions to determine the status of clients when conducting mass casualty triage. The definitions of the triage categories are: expectant: client unlikely to survive given the severity of injuries, level of available care, or both. Palliative care and pain relief should be provided. Immediate: client can be helped by immediate intervention and transport. Requires medical attention within minutes (up to 60) for survival. Includes compromises to the client's airway, breathing, and circulation. Delayed: client's transport can be delayed. Includes serious and potentially life threatening injuries, but status not expected to deteriorate over the next several hours. And last, minor: client with relatively minor injuries. Status unlikely to deteriorate over days. May be able to assist in own care; walking wounded. The first question is if the client is able to walk. If the answer is yes, they are classified as minor and sent to secondary triage. If the answer is no, the next question is if they are spontaneously breathing. If the answer is no, the airway must be positioned. If spontaneous breathing does not occur, the client is labelled expectant. If spontaneous breathing does occur, the client is labeled immediate. If the client is able to spontaneously breathe on their own, the next question is what their respiratory rate is. If it is equal to or greater than 30, the client is labelled immediate. If it is less than 30, the perfusion is checked next. If the radial pulse is absent of capillaries refill more than every 2 seconds, the client is labelled immediate. If the radial pulse is present or the capillaries refill less than every 2 seconds, mental status is checked. If a client is not able to obey commands, they are labelled immediate. If they are able to obey commands, they are labelled delayed.">
+    <image mime-type="image/png" src="../../media/PH_Figure_32_05_007.png"/></media>
+    <caption>The START triage system uses a decision tree for tagging victims based on assessment findings. (See U.S. Department of Health and Human Services, 2023; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>SALT Triage</title>
+    <para id="para-00011">The <term class="no-emphasis" id="term-00018">Sort, Assess, Life-saving Interventions, and Triage/treatment (SALT)</term> system is similar to the START system; however, it is more comprehensive and adds simple life-saving interventions during field triage (Clarkson &amp; Williams, 2022).</para>
+    <list list-type="bulleted" id="list-00031">
+    <item>SORT: Sort the walking, waving, and still. The responder asks all victims at the scene to walk to a designated casualty collection area if possible and wave an arm or leg if they need help. Those who cannot move or follow commands should be assessed first.</item>
+    <item>ASSESSMENT: Assessment and lifesaving interventions occur concurrently. Upon assessment of a victim with life-threatening injuries, the responder should intervene.</item>
+    <item>LIFE-SAVING INTERVENTIONS: If not time-intensive, simple techniques such as controlling major hemorrhages, opening airways, needle decompression, and auto-injector antidotes should be performed. Once the intervention is performed, the responder should assign a color-coded tag similar to the START system and move onto the next victim.</item>
+    <item>TREATMENT AND TRANSPORT: Once tagged, victims are moved to the designated casualty collection point for transport by emergency management services to higher levels of care.</item>
+    </list>
+    <note class="media-feature" id="note-00001">
+    <title>START Triage Basics</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/triagebasics"/>
+    </media>
+    <para id="para-00012">The video gives an overview of how the START Triage algorithm is used during field triage.</para>
+    <para id="para-00013">Watch this video, and then respond to the following questions.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00032">
+    <item>How does the nurse provide rapid assessment using START triage?</item>
+    <item>How should the nurse tag a client who passes all tests? How should a nurse tag a client who fails one test?</item>
+    <item>What interventions do victims tagged as immediate receive?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00008">
+    <title>JumpSTART</title>
+    <para id="para-00014"><term class="no-emphasis" id="term-00019">JumpSTART</term> is a modification to the START system to assess and triage pediatric victims up to 8 years old. This method considers the difference in normal respiratory rates for children up to age 8. If the child’s age is unknown, the responder should look for underarm hair in males or breast development in females as an indicator of adult age (Clarkson &amp; Williams, 2022).</para>
+    <para id="para-00015">The differences in this algorithm include:</para>
+    <list list-type="bulleted" id="list-00033">
+    <item>If a child is apneic with a pulse, open the airway and provide five rescue breaths. If breathing resumes, tag them as immediate (red). If apnea continues after five rescue breaths, they are given an expectant (black) tag.</item>
+    <item>Normal respiratory rates are more than 15 or less than 45. If respirations fall outside this range, tag them as immediate (red).</item>
+    <item>Neurological assessment is performed using the mnemonic AVPU (alert, responds to verbal stimuli, responds to painful stimuli, and unresponsive). Victims with abnormal posturing to painful stimuli or who are unresponsive are assigned an immediate (red) tag designation.</item>
+    </list>
+    <note class="unfolding-casestudy" id="note-00002">
+    <title>Part B</title>
+    <para id="para-00016">Read the scenario, and then answer the questions that follow.</para>
+    <para id="para-00017">A major hurricane makes landfall in Juanita’s community, causing widespread damage, loss of electricity, flooding, and mass injury. The community activates the hurricane disaster plan and mobilizes the emergency response team. Juanita is dispatched with the first wave of emergency responders to assist in client triage on-scene. She tags victims using the START method for adults and JumpSTART for children and provides lifesaving interventions to red-tagged victims prior to moving them for transport.</para>
+    <para id="para-00018">The following day Juanita works at a shelter receiving community members displaced from their homes. She finishes set-up of the temporary health center, organizes and tracks supplies, assesses community members as they enter the shelter, and provides interventions to prevent communicable disease such as setting up handwashing stations, monitoring for signs of infection, and providing clean clothing, food, and water.</para>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00019"><link class="os-embed" url="#exercise/COM_Ch32_Sec05_UCSQ3"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00020"><link class="os-embed" url="#exercise/COM_Ch32_Sec05_UCSQ4"/></para></problem></exercise>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <para id="para-00021">Emergency preparedness is an essential role of the nurse. Upon completion of nursing school, attainment of disaster competencies for the general professional nurse is expected. Nurses involved in emergency response to disaster move through six stages of response and recovery. The nursing process is utilized during each phase of disaster management. Triage assessment is a vital nursing skill during disaster response. START, SALT, and JumpSTART are common triage systems that are used.</para>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questions</title>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00022"><link class="os-embed" url="#exercise/COM_Ch32_Sec04_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00023"><link class="os-embed" url="#exercise/COM_Ch32_Sec05_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00024"><link class="os-embed" url="#exercise/COM_Ch32_Sec05_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00025"><link class="os-embed" url="#exercise/COM_Ch32_Sec01_RQ4"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00026"><link class="os-embed" url="#exercise/COM_Ch32_Sec02_RQ5"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00027"><link class="os-embed" url="#exercise/COM_Ch32_Sec03_RQ6"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00028"><link class="os-embed" url="#exercise/COM_Ch32_Sec05_RQ7"/></para></problem></exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00029"><link class="os-embed" url="#exercise/COM_Ch32_Sec02_RQ8"/></para></problem></exercise>
+    <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00030"><link class="os-embed" url="#exercise/COM_Ch32_Sec03_RQ9"/></para></problem></exercise>
+    <exercise id="exer-00012"><problem id="prob-00012"><para id="para-00031"><link class="os-embed" url="#exercise/COM_Ch32_Sec04_RQ10"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00011">
+    <title>References</title>
+    <para id="para-00032">Administration for Strategic Preparedness &amp; Response. (ASPRN, n.d.). <emphasis effect="italics">Strategic National Stockpile</emphasis>. https://aspr.hhs.gov/SNS/Pages/default.aspx</para>
+    <para id="para-00033">Akins, R. B., Williams, J.R., Silenas, R., &amp; Edwards, J.C. (2005). The role of public health nurses in bioterrorism preparedness. <emphasis effect="italics">Disaster Management Response,</emphasis> 3(4), 98-105. doi: 10.1016/j.dmr.2005.07.004</para>
+    <para id="para-00034">Alathari, L., Drysdale, D., Driscoll, S., Carlock, A., &amp; Cutler, M. (2023, January). Mass attacks in public spaces: 2016-2020. U.S. Secret Service National Threat Assessment Center. U.S. Department of Homeland Security. https://www.secretservice.gov/sites/default/files/reports/2023-01/usss-ntac-maps-2016-2020.pdf</para>
+    <para id="para-00035">Alpert, E.A. &amp; Kohn, M.D. (2023, August 8). <emphasis effect="italics">EMS Mass Casualty Response</emphasis>. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; PMID: 30725657 https://pubmed.ncbi.nlm.nih.gov/30725657/</para>
+    <para id="para-00036">American Nurses Association. (2016). <emphasis effect="italics">Disaster preparedness</emphasis>. https://www.nursingworld.org/practice-policy/work-environment/health-safety/disaster-preparedness/</para>
+    <para id="para-00037">American Red Cross. (2020). New research: Older adults more vulnerable after disasters. https://www.redcross.org/about-us/news-and-events/news/2020/new-research-older-adults-more-vulnerable-after-disasters.html</para>
+    <para id="para-00038">Asia-Pacific Climate Change Adaptation Information Platform. (2022). Six steps of disaster risk assessment. https://ap-plat.nies.go.jp/adaptation_literacy/resources/e_learning/drr/drr_lesson2.html</para>
+    <para id="para-00039">Association of Public Health Nurses Public Health Preparedness Committee (APHN, 2014). <emphasis effect="italics">Role of the public health nurse in disaster preparedness, response, and recovery: A position paper</emphasis> (2<sup>nd</sup> ed.). Association of Public Health Nurses. https://www.phnurse.org/assets/docs/Role%20of%20PHN%20in%20Disaster%20PRR_APHN%202014%20Ref%20updated%202015.pdf</para>
+    <para id="para-00040">Bland, S.A. (2014). Chemical, Biological, Radiological and Nuclear (CBRN) Casualty Management Principles. In: Ryan, J., <emphasis effect="italics">et al.</emphasis> Conflict and Catastrophe Medicine. Springer, London. https://doi.org/10.1007/978-1-4471 2927-1_46</para>
+    <para id="para-00041">Brenan, M. (2019). <emphasis effect="italics">Nearly half in U.S. fear being the victim of a mass shooting</emphasis>. Gallup. https://news.gallup.com/poll/266681/nearly-half-fear-victim-mass-shooting.aspx</para>
+    <para id="para-00042">Brodeur, A. &amp; Yousaf, H. (2022). On the economic consequences of mass shootings. <emphasis effect="italics">GLO Discussion Paper Series, 1133</emphasis>. Global Labor Organization.</para>
+    <para id="para-00043">Centers for Disease Control and Prevention. (2018). <emphasis effect="italics">Bioterrorism agents/diseases</emphasis>. https://emergency.cdc.gov/agent/agentlist-category.asp#catdef</para>
+    <para id="para-00044">Centers for Disease Control and Prevention. (2020, November 20). What is anthrax? https://www.cdc.gov/anthrax/basics/index.html</para>
+    <para id="para-00045">Centre for Research on the Epidemiology of Disasters. (CRED, 2023). <emphasis effect="italics">2022 disasters in numbers</emphasis>. https://cred.be/sites/default/files/2022_EMDAT_report.pdf</para>
+    <para id="para-00046">Charney, R., Rebmann, T., Endrizal, A., &amp; Dalawari, P. (2018). The general public’s attitudes and beliefs regarding resource management, collaboration, and community assistance centers during disasters. <emphasis effect="italics">Disaster Medicine and Public Health Preparedness,</emphasis> 12(4), 446-449. doi:10.1017/dmp.2017.108</para>
+    <para id="para-00047">Chegini, Z., Arab-Zozani, M., Kakemam, E., Lotfi, M., Nobakht, A., &amp; Karkan, H. A. (2021). Disaster preparedness and core competencies among emergency nurses: A cross-sectional study. <emphasis effect="italics">Nursing Open,</emphasis> 9, 1294-1302. doi: 10.1002/nop2.1172</para>
+    <para id="para-00048">Clarkson, L. &amp; Williams, M. (2023, August 8). <emphasis effect="italics">EMS mass casualty triage</emphasis>. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan. PMID: 29083791. https://www.ncbi.nlm.nih.gov/books/NBK459369/</para>
+    <para id="para-00049">Committee on Lessons Learned from the Fukushima Nuclear Accident for Improving Safety and Security of U.S. Nuclear Plants; Nuclear and Radiation Studies Board; Division on Earth and Life Studies; National Research Council. (2014). <emphasis effect="italics">Lessons Learned from the Fukushima Nuclear Accident for Improving Safety of U.S. Nuclear Plants</emphasis>. https://www.ncbi.nlm.nih.gov/books/NBK253930/#</para>
+    <para id="para-00050">deAnda, H. H., Freeman, C. L., &amp; Braithwaite, S. (2022). EMS criteria for disaster declaration. In <emphasis effect="italics">StatPearls</emphasis> [ebook]. StatPearls Publishing. https://pubmed-ncbi-nlm-nih-gov.elib.uah.edu/30969625/</para>
+    <para id="para-00051">Deb, P. &amp; Gangaram, A. (2023, March). <emphasis effect="italics">Effects of school shootings on risky behavior, health and human capital</emphasis>. National Bureau of Economic Research. https://www.nber.org/papers/w28634</para>
+    <para id="para-00052">Dembeck, Z. F., et al. (Eds.) (2011). <emphasis effect="italics">USAMRIIDs medical management of biological casualties handbook</emphasis> (7<sup>th</sup> ed.). USAMRIID. https://dph.illinois.gov/content/dam/soi/en/web/idph/files/publications/usamriid-bluebook-7th-edition-sep2011-041816.pdf</para>
+    <para id="para-00053">Donner, W. &amp; Rodriquez, H. (2011). Disaster risk and vulnerability: The role and impact of population and society. PRB. https://www.prb.org/resources/disaster risk/#:~:text=Congestion%2C%20limited%20escape%20routes%2C%20dense,poverty%20add%20to%20the%20vulnerability.</para>
+    <para id="para-00054">Emergency Planning: Tornadoes and hurricanes. (2017). <emphasis effect="italics">Briefings on Hospital Safety</emphasis>, 25(4), 4–10.</para>
+    <para id="para-00055">Environmental Protection Agency. (2022). <emphasis effect="italics">Deepwater Horizon – BP Gulf of Mexico oil spill</emphasis>. https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-mexico-oil-spill</para>
+    <para id="para-00056">Everytown. (2023). Mass shootings in the United States. https://everytownresearch.org/mass-shootings-in-america/</para>
+    <para id="para-00057">Federal Bureau of Investigation. (n.d.). <emphasis effect="italics">Amerithrax or anthrax investigation</emphasis>. https://www.fbi.gov/history/famous-cases/amerithrax-or-anthrax-investigation#:~:text=Soon%20after%20the%20terrorist%20attacks,biological%20attacks%20in%20U.S.%20history.</para>
+    <para id="para-00058">Federal Emergency Management Agency. (FEMA, 2017). National Incident Management System (3<sup>rd</sup> ed.). https://www.fema.gov/sites/default/files/2020-07/fema_nims_doctrine-2017.pdf</para>
+    <para id="para-00059">Federal Emergency Management Agency. (FEMA, 2018). ICS organizational structure and elements. https://training.fema.gov/emiweb/is/icsresource/assets/ics%20organizational%20structure%20and%20elements.pdf</para>
+    <para id="para-00060">Federal Emergency Management Agency. (FEMA, 2021). <emphasis effect="italics">Developing and maintaining emergency operations plans: Comprehensive preparedness guide (CPG)101. Version 3.0</emphasis>. https://www.fema.gov/sites/default/files/documents/fema_cpg-101-v3-developing-maintaining-eops.pdf</para>
+    <para id="para-00061">Federal Emergency Management Agency. (FEMA, 2023). National risk and capability assessment. https://www.fema.gov/emergency-managers/national-preparedness/goal/risk-capability-assessment#spr</para>
+    <para id="para-00062">Federal Emergency Management Agency &amp; US Department of Homeland Security. (2017). <emphasis effect="italics">The</emphasis> <emphasis effect="italics">official FEMA disaster preparedness guide: Are you ready?</emphasis> CreateSpace Independent Publishing Platform. https://www.fema.gov/pdf/areyouready/terrorism.pdf</para>
+    <para id="para-00063">Federal Emergency Management Agency; U.S. Department of Homeland Security. (FEMA/Homeland Security, 2018). Threat and Hazard Identification and Risk Assessment (THIRA) and Stakeholder Preparedness Review (SPR) Guide (3<sup>rd</sup> ed.). https://www.fema.gov/sites/default/files/2020-04/CPG201Final20180525.pdf</para>
+    <para id="para-00064">Flanagan, B.E., Hallisey, E.J., Adams, E., &amp; Lavery, A. (2018). Measuring community vulnerability to natural and anthropogenic hazards: The Centers for Disease Control and Prevention’s Social Vulnerability Index. <emphasis effect="italics">Journal of Environmental Health,</emphasis> 80(10), 34-36.</para>
+    <para id="para-00065">Frischknecht F. (2003). The history of biological warfare. Human experimentation, modern nightmares and lone madmen in the twentieth century. <emphasis effect="italics">EMBO Reports,</emphasis> 4(Suppl 1), S47-52. Doi: 10.1038/sj.embor.embor849</para>
+    <para id="para-00066">Gun Violence Archive (2023). <emphasis effect="italics">Gun Violence Archive 2023.</emphasis> https://www.gunviolencearchive.org/</para>
+    <para id="para-00067">Hayoun, M.A. &amp; King, K.C. (2022). Biological warfare agent toxicity. N <emphasis effect="italics">StatPearls</emphasis> [ebook]. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK441942/</para>
+    <para id="para-00068">Homeland Security. (2019). National Response Framework (4<sup>th</sup> ed.). https://www.fema.gov/sites/default/files/2020-04/NRF_FINALApproved_2011028.pdf</para>
+    <para id="para-00069">Humanitarian Global. (2021). Vulnerable groups in emergencies. https://humanitarianglobal.com/vulnerable-groups-in-emergencies/</para>
+    <para id="para-00070">Institute of Medicine of the National Academies. (2017). Improving Rural Mass Casualty Response in the United States. <emphasis effect="italics">Preparedness and Response to a Rural Mass Casualty Incident: Workshop Summary</emphasis> [eBook edition]. National Academies Press (US). https://www.ncbi.nlm.nih.gov/books/NBK62394/</para>
+    <para id="para-00071">International Council of Nurses. (2019). Core competencies in disaster nursing, Version 2.0. https://www.icn.ch/sites/default/files/inline-files/ICN_Disaster-Comp-Report_WEB.pdf</para>
+    <para id="para-00072">International Atomic Energy Agency. (2023). <emphasis effect="italics">Frequently asked Chernobyl questions</emphasis>. https://www.iaea.org/newscenter/focus/chernobyl/faqs</para>
+    <para id="para-00073">Jakeway, C., LaRosa, G., Cary, A., &amp; Schoenfisch, S. (2008). The role of public health nurses in emergency preparedness and response: A position paper of the Association of State and Territorial Directors of Nursing. <emphasis effect="italics">Public Health Nursing</emphasis>, 24 (4), 353 – 361.</para>
+    <para id="para-00074">Khorram-Manesh, A. &amp; Burkle, F. M., Jr. (2020). Disasters and public health emergencies- Current perspectives in preparedness and response. <emphasis effect="italics">Sustainability,</emphasis> 12(20), 1-5. https://doi.org/10.3390/su12208561</para>
+    <para id="para-00075">Klein, T. A. &amp; Irizarry, L. (2022). EMS disaster response. In <emphasis effect="italics">StatPearls</emphasis> [ebook]. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK560710/#</para>
+    <para id="para-00076">Krausmann, E. &amp; Necci, A. (2021). Thinking the unthinkable: A perspective on natech risks and Black Swans. <emphasis effect="italics">Safety Science,</emphasis> 139, 10525. https://doi-org.ezproxy3.lhl.uab.edu/10.1016/j.ssci.2021.105255</para>
+    <para id="para-00077">Lincoln, E.W., Freeman, C.L. &amp; Strecker-McGraw, M.K. (2023). EMS Incident Command. <emphasis effect="italics">StatPearls.</emphasis> National Library of Medicine. https://www.ncbi.nlm.nih.gov/books/NBK534800/</para>
+    <para id="para-00078">Martin, C. (2019). Digital Dialogue No. 4: Improving the disaster recovery of low income household. Digital Dialogues. University of Pennsylvania. https://esg.wharton.upenn.edu/engagement/digital-dialogues/improving-disaster-recovery/</para>
+    <para id="para-00079">National Council Medical Director Institute. (NCMDI, 2019). <emphasis effect="italics">Mass violence in America: Causes, impacts, and solutions</emphasis>. National Council for Mental Wellbeing. https://www.thenationalcouncil.org/resources/mass-violence-in-america-causes-impacts-and-solutions/</para>
+    <para id="para-00080">National Oceanic and Atmospheric Administration (NOAA). (2017). <emphasis effect="italics">Deepwater horizon oil spill</emphasis></para>
+    <para id="para-00081"><emphasis effect="italics">long-term effects on marine mammals, sea turtles</emphasis>. National Ocean Service. https://oceanservice.noaa.gov/news/apr17/dwh-protected-species.html#:~:text=Marine%20mammal%20researchers%20concluded%20that,in%20the%20Gulf%20of%20Mexico.</para>
+    <para id="para-00082">National Oceanic and Atmospheric Administration (NOAA). (n.d.-a). <emphasis effect="italics">Severe weather 101: Tornado basics</emphasis>. NOAA National Severe Storms Laboratory. https://www.nssl.noaa.gov/education/svrwx101/tornadoes/</para>
+    <para id="para-00083">National Oceanic and Atmospheric Administration (NOAA) (n.d.-b). <emphasis effect="italics">Storm Surge Overview</emphasis>. National Hurricane Center and Central Pacific Hurricane Center. https://www.nhc.noaa.gov/surge/#:~:text=Storm%20surge%20is%20an%20abnormal,surge%20and%20the%20astronomical%20tide.</para>
+    <para id="para-00084">National Oceanic and Atmospheric Administration (NOAA). (n.d.-c). <emphasis effect="italics">Tornadoes- Nature’s Most Violent Storms</emphasis>. NOAA National Severe Storms Laboratory. https://www.weather.gov/ffc/torntext</para>
+    <para id="para-00085">Peterson, J. &amp; Densley, J. (2021). <emphasis effect="italics">The Violence Project: How to Stop a Mass Shooting Epidemic</emphasis>. Abrams Press.</para>
+    <para id="para-00086">Polcarová, E. &amp; Pupíková, J. (2020). Stakeholders engagement in the disaster recovery phase as a means of increasing resilience community. <emphasis effect="italics">Safety Engineering Series,</emphasis> 15(1), 73-80. doi: 10.35182/tses-2020-0008</para>
+    <para id="para-00087">Prell, A. (2017, May 7). <emphasis effect="italics">Wildfire arson: The impact of intentionally-caused wildfires in the United States</emphasis>. Redzone. https://www.redzone.co/2017/05/07/16-largest-arson-wildfires-us/</para>
+    <para id="para-00088">Radosavljević, V., &amp; Jakovljević, B. (2007). Bioterrorism--types of epidemics, new epidemiological paradigm and levels of prevention. <emphasis effect="italics">Public health</emphasis>, 121(7), 549–557. https://doi-org.elib.uah.edu/10.1016/j.puhe.2006.12.010</para>
+    <para id="para-00089">Raker, E. J., Arcaya, M. C., Lowe, S. R., Zacher, M, Rhodes, J., and Waters, M. C. (2020). Mitigating health disparities after natural disasters: Lessons from the RISK project. <emphasis effect="italics">Health Affairs,</emphasis> 39(12), 2128-2135. doi: 10.1377/hlthaff.2020.01161</para>
+    <para id="para-00090">Rural Health Information Hub (RHIhub). (2023). <emphasis effect="italics">Partners and collaborators for emergency preparedness and response</emphasis>. https://www.ruralhealthinfo.org/toolkits/emergency-preparedness/1/partners-collaborators</para>
+    <para id="para-00091">Siegel, J.D., Rhinehart, E., Jackson, M., &amp; Chiarello, L. (2023). 2007 Guideline for isolation precautions: Preventing transmission of infections agents in healthcare setting. Centers for Disease Control and Prevention. https://www.cdc.gov/infectioncontrol/pdf/guidelines/isolation-guidelines-H.pdf</para>
+    <para id="para-00092">Siva, R., &amp; Prema. (2018). Disaster management - introduction, community preparedness and response and role of a public health nurse. <emphasis effect="italics">Indian Journal of Continuing Nursing Education</emphasis>, 19(2), 58. https://link-gale-com.elib.uah.edu/apps/doc/A744978917/HRCA?u=avl_uah&amp;sid=bookmark-HRCA&amp;xid=56e820b3</para>
+    <para id="para-00093">Smart, R., &amp; Schell, T.L. (2021). Mass shooting in the United States. Gun Policy in American. RAND. https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html</para>
+    <para id="para-00094">Soni, A. &amp; Tekin, E. (2022, September 15). <emphasis effect="italics">Mass shootings in the United States: Population health impacts and policy levers</emphasis>. Health Affairs Policy Brief. doi: 10.1377/hpb20220824.260250</para>
+    <para id="para-00095">Statista. (n.d.). Number of victims of the worst mass shootings in the United States between 1982 and August 2023. https://www.statista.com/statistics/476101/worst-mass-shootings-in-the-us/</para>
+    <para id="para-00096">Substance Abuse and Mental Health Services Administration. (n.d.). <emphasis effect="italics">Incidents of mass violence</emphasis>. https://www.samhsa.gov/find-help/disaster-distress-helpline/disaster-types/incidents-mass-violence</para>
+    <para id="para-00097">Substance Abuse and Mental Health Services Administration. (2017). Greater impact: How disasters affect people of low socioeconomic status. <emphasis effect="italics">Disaster Technical Assistance Center Supplemental Research Bulletin</emphasis>. https://www.samhsa.gov/sites/default/files/dtac/srb-low-ses_2.pdf</para>
+    <para id="para-00098">United Nations. (2021, September 01). <emphasis effect="italics">Climate and weather related disasters surge five-fold over 50 years, but</emphasis></para>
+    <para id="para-00099"><emphasis effect="italics">early warnings save lives—WMO report</emphasis>. United Nations News. https://news.un.org/en/story/2021/09/1098662</para>
+    <para id="para-00100">Urban Footprint. (2023). What is community resilience and why does it matter? https://urbanfootprint.com/community-resilience-meaning/</para>
+    <para id="para-00101">USA Facts. (2023). What is considered a mass shooting? https://usafacts.org/articles/what-is-considered-a-mass-shooting/</para>
+    <para id="para-00102">U.S. Department of Health &amp; Human Services. (HHS, 2012). Establishing procedures for the progressive stages of response and recovery. Public Health Emergency. https://www.phe.gov/Preparedness/planning/mscc/healthcarecoalition/chapter3/Pages/establishingprocedures.aspx</para>
+    <para id="para-00103">U.S. Department of Health and Human Services. (2023). <emphasis effect="italics">START Adult Triage Algorithm</emphasis> https://chemm.hhs.gov/startadult.htm</para>
+    <para id="para-00104">U.S. Department of Homeland Security. (Homeland Security, 2015). National Preparedness Goal (2<sup>nd</sup> ed.). https://www.fema.gov/sites/default/files/2020-06/national_preparedness_goal_2nd_edition.pdf</para>
+    <para id="para-00105">U.S. Department of Homeland Security. (2023). Disasters and emergencies. https://www.ready.gov/be-informed</para>
+    <para id="para-00106">U.S. Food and Drug Administration. (n.d.) MCMi history. https://www.fda.gov/emergency-preparedness-and-response/about-mcmi/mcmi-history</para>
+    <para id="para-00107">Weir, K. (2021, April 1). <emphasis effect="italics">A thaw in the freeze on federal funding for gun violence and injury prevention research</emphasis>. American Psychological Association. https://www.apa.org/monitor/2021/04/news-funding-gun-research</para>
+    <para id="para-00108">White House. (2022, September 01). <emphasis effect="italics">The rising costs of extreme weather events</emphasis>. White House.gov. https://www.whitehouse.gov/cea/written-materials/2022/09/01/the-rising-costs-of-extreme-weather-events/</para>
+    <para id="para-00109">World Health Organization. (2023). Biological weapons. https://www.who.int/health-topics/biological-weapons#tab=tab_1</para>
+    <para id="para-00110">World Health Organization (WHO). (2023). <emphasis effect="italics">Floods</emphasis>.</para>
+    <para id="para-00111">https://www.who.int/health-topics/floods#tab=tab_1</para>
+    <para id="para-00112">World Meteorological Organization (WMO). (2021, August 31). <emphasis effect="italics">Weather-related disasters increase over past 50</emphasis></para>
+    <para id="para-00113"><emphasis effect="italics">years, causing more damage but fewer deaths</emphasis>. https://public.wmo.int/en/media/press-release/weather-related- disasters-increase-over-past-50-years-causing-more-damage-fewer</para>
+    <para id="para-00114">World Nuclear Association. (2022, April). <emphasis effect="italics">Chernobyl Accident 1986</emphasis>. https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx</para>
+    <para id="para-00115">Zauche, L. H., Pomeroy, M., Demeke, H. B., Mettee Zarecki, S. L., Williams, J. L., Newsome, K., Hill, L., &amp; Dooyema, C. A. (2022). Answering the call: The response of Centers for Disease Control and Prevention's federal public health nursing workforce to the COVID-19 pandemic. <emphasis effect="italics">American Journal of Public Health,</emphasis> 112(S3), S226–S230. https://doi.org/10.2105/AJPH.2021.306703</para>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>triage tag</term> <meaning>standardized method used to sort victims quickly, indicate the level of treatment needed using tag colors that are universally recognized and correspond to a predetermined set of physical assessment findings</meaning></definition>
+    </glossary>
 </document>

@@ -7,7 +7,417 @@
   </metadata>
   <content>
     <section id="sect-00001">
-      <para id="para-00001">placeholder text</para>
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list list-type="bulleted" id="list-00001">
+    <item>Define biological terrorism.</item>
+    <item>Categorize bioterrorism agents and diseases.</item>
+    <item>Describe how Category A agents have been or could be used as bioterrorist weapons.</item>
+    <item>Describe strategies for identifying and managing casualties of biological terrorism.</item>
+    <item>Explain the nurse’s role in identifying and managing casualties of biological terrorism as a component of emergency preparedness and disaster response.</item>
+    <item>Explain the nurse’s role as a first line of defense against biological terrorism. </item>
+    </list>
     </section>
-  </content>
+    <para id="para-00002">Terrorist attacks use force or violence against civilians, cause mass property damage, and create fear and panic among the public. <term class="no-emphasis" id="term-00001">Chemical, biological, radiological, and nuclear (CBRN) agents</term> have been used as weapons against humans, causing devastating health consequences (Bland, 2014). Chemical agents include nerve agents, vesicant agents, cyanides, pulmonary agents, incapacitants, toxic industrial chemicals, pharmaceuticals, and riot-controlled agents. Biological agents include live pathogens, such as bacteria, fungi, and viruses, and toxins that are derived from bacteria, fungi, plants, and animals. Radiological agents have ionizing radiation present, such as alpha, beta, gamma, and neutron participles. Nuclear agents are materials used to generate nuclear power.</para>
+    <para id="para-00003"><term id="term-00002">Biological terrorism</term>or <term class="no-emphasis" id="term-00003">bioterrorism</term> is the intentional release of biological agents into the atmosphere or environment to threaten a civilian population. Humans and animals absorb the biological agent through inhalation, ingestion, skin, mucous membranes, or eyes (Bland, 2014). Bioterrorism can cause disease or death among a large number of people or livestock and contaminate food or water supplies. Inhalation of biological agents poses the greatest risk for multiple causalities because the agent is transferred through the air and can reach larger numbers of the population (Bland, 2014).</para>
+    <section id="sect-00002">
+    <section id="sect-00003">
+    <title>Categorization of Bioterrorism Agents</title>
+    <para id="para-00004">As discussed in <link document="m00167">Pandemics and Infectious Disease Outbreaks</link>, biological agents that would likely be used as agents of bioterrorism include bacteria, viruses, and toxins. The CDC categorizes these agents by risk threat (see [link]Table 32.2[/link] for examples). Most biological agents are difficult to grow and maintain, as many are destroyed quickly when exposed to sunlight and other environmental factors (CDC, 2018; Siegel et al., 2023). Other agents, such as anthrax spores, are heartier and live much longer, especially on surfaces. Biological agents can be dispersed by spraying them into the air, infecting animals that carry the disease to humans, and contaminating food and water (Bland, 2014). Delivery methods include:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Aerosols—biological agents are circulated into the air via a fine mist that may carry for miles. Inhaling the agent may cause disease in people or animals.</item>
+    <item>Animals—diseases that are spread by insects and animals, such as fleas, mice, flies, mosquitoes, and livestock</item>
+    <item>Food and water contamination—pathogenic organisms and toxins released into food and water supplies. If contamination is known, most microorganisms can be killed and toxins deactivated by cooking food and boiling water for 1 minute or longer.</item>
+    <item>Person-to-person—communicable diseases such as smallpox and plague can be spread via close human contact.</item>
+    </list>
+    <table class="vertically-tight alternate-shading" id="table-00001">
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Category</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Definition/ Impact on Public Health</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Agent/Disease</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Category A—Highest priority</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00003">
+    <item>Have the highest impact on public health due to public panic and social disruptions</item>
+    <item>Easy to disperse and highly transmissible</item>
+    <item>High mortality rates</item>
+    <item>Special actions for public health preparedness</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00004">
+    <item>Anthrax (Bacillus anthracis)</item>
+    <item>Botulism (Clostridium botulinum toxin)</item>
+    <item>Plague (Yersinia pestis)</item>
+    <item>Smallpox (variola major)</item>
+    <item>Tularemia (Francisella tularensis)</item>
+    <item>Viral hemorrhagic fevers
+    <list list-type="bulleted" id="list-00005">
+    <item>Filoviruses (Ebola, Marburg)</item>
+    <item>Arenaviruses (Lassa, Machupo)</item>
+    </list>
+    </item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Category B—Second-highest priority</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00006">
+    <item>Moderately easy to disperse</item>
+    <item>Moderate morbidity rates and low mortality rates</item>
+    <item>Require specialized disease surveillance by the CDC</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00007">
+    <item>Brucellosis (Brucella species)</item>
+    <item>Epsilon toxin of Clostridium perfringens</item>
+    <item>Threats to food safety (Salmonella, Escherichia coli 0157:H7, Shigella)</item>
+    <item>Melioidosis (Burholderia pseudomallei)</item>
+    <item>Psittacosis (Chlamydia psittaci)</item>
+    <item>Q fever (Coxiella burnetiid)</item>
+    <item>Ricin toxin from Ricinus communis (castor beans)</item>
+    <item>Staphylococcal enterotoxin B</item>
+    <item>Typhus fever (Rickettsia prowazekii)</item>
+    <item>Viral encephalitis (alphaviruses, such as eastern equine encephalitis, Venezuelan equine encephalitis, and western equine encephalitis</item>
+    <item>Threats to water safety (Vibrio cholerae, Cryptosporidium parvum)</item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Category C—Third-highest priority</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00008">
+    <item>Have the potential for high morbidity and mortality rates with major health impacts</item>
+    <item>Pathogens that could be biologically engineered for mass dispersion because of availability, easy production, and dispersion</item></list></entry>
+    <entry valign="top" align="left">Emerging infectious diseases (Nipah virus and Hantavirus)</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>CDC 2018 Categorization of Biological Agents (See CDC, 2018; Siegel et al., 2023.)</caption>
+    </table>
+    <para id="para-00005">Anthrax, a Category A agent, has been used for almost a century as an effective <term class="no-emphasis" id="term-00004">biological weapon</term>, as it can be released quietly and discreetly. Anthrax spores are easily available in nature, can be produced in a laboratory, and remain persistent in the environment for a long period. The microscopic spores can be deployed in a powder or spray and can be used to contaminate the air, food, and water supplies. They may be invisible to the naked eye, odorless, and tasteless (CDC, 2020). The German Army used biological agents against enemy countries during World War I, attempting to directly infect animals and contaminate their feed with anthrax (Frischknecht, 2003).</para>
+    <para id="para-00006">Anthrax was used in the worst biological attack recorded in U.S. history, known as “Amerithrax” (FBI, n.d.). Following the terrorist attacks of September 11, 2001, letters laced with anthrax began circulating through the U.S. Postal Service (USPS), addressed to the offices of U.S. Senators and national media outlets in Washington D.C., South Florida, and New York. Opening the letters released anthrax powder into the offices, where it was inhaled, ultimately causing the deaths of five victims and illness in 17 individuals. Panic and fear spread around the country, as it was unknown how many people had come into contact with these letters or how many other letters might be contaminated with anthrax or other dangerous biological materials. This biological attack resulted in one of the largest and most complex law enforcement investigations to date (FBI, n.d.). The costs of human life, emotional distress, and resources were significant. Over 32,000 people exposed to anthrax were required to take prophylactic antibiotics, the USPS purchased 4.8 million masks and 88 million gloves for its employees, and 300 postal facilities were tested for anthrax. The investigation required extensive law enforcement resources. The <term class="no-emphasis" id="term-00005">Amerithrax Task Force</term> comprised 25 to 30 full-time FBI investigators, the U.S. Postal Inspection Service, other law enforcement agencies, and federal prosecutors from the District of Columbia, and the Justice Department’s Counterterrorism Section spent hundreds of thousands of investigative hours on the case. These efforts involved more than 10,000 witness interviews on six different continents, the execution of 80 searches, and the recovery of more than 6,000 items of potential evidence during the investigation. More than 5,750 grand jury subpoenas were issued, and 5,730 environmental samples were collected from 60 sites. These efforts ultimately did not result in a conviction, as the suspect took his own life (FBI, n.d.).</para>
+    <note class="media-feature" id="note-00001">
+    <title>Anthrax as a Weapon</title>
+    <media alt="atoms_isotopes">
+    <iframe width="560" height="315" src="https://openstax.org/r/historyofbioterrorism"/>
+    </media>
+    <para id="para-00007">This video gives an overview of how and why anthrax has been used in biological warfare globally.</para>
+    <para id="para-00008">Watch the video, and then respond to the following questions.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00009">
+    <item>What makes anthrax an effective biological agent for terrorists?</item>
+    <item>What do you think are the risks that stores of anthrax, intended for use as a biological agent in warfare, pose to the community?</item>
+    <item>Who do you think might be at risk of contamination when biological agents are dispersed via a federal communication system such as the USPS?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Identification and Management of Biological Casualties</title>
+    <para id="para-00009">Nurses within the community and acute care facilities must be prepared to identify and manage biological casualties. The U.S. remains vulnerable to bioterrorism. Biological agents like anthrax, botulinum toxin, and bubonic plague can cause a large number of illnesses or deaths in a short amount of time. An attack using a biological agent can mimic a natural outbreak or event, complicating public health assessment and response. Biological agents capable of secondary transmission can lead to epidemics, so early recognition of unusual circumstances is essential in prevention and response (WHO, 2023a).</para>
+    <para id="para-00010">The first step in identification is recognizing potential exposure to a biological casualty. Indications of biological agent exposure include (Bland, 2014):</para>
+    <list list-type="bulleted" id="list-00010">
+    <item>Reports of unexplained or unusual symptoms, such as headache, burns, vision problems, chest tightness, difficulty breathing, excessive secretions, nausea, vomiting, convulsions</item>
+    <item>Multiple casualties with an unidentified cause</item>
+    <item>Unusual taste, smell, or mist</item>
+    <item>Unexplained dead animals or plants</item>
+    </list>
+    <para id="para-00011">Whenever the nurse suspects individual exposure to a biological agent, a thorough assessment should be completed only after ensuring personal safety. For example, the biological agent may have contaminated the individual’s clothing, putting the nurse in danger of exposure. The nurse in this situation should don appropriate PPE, direct the individual to remove contaminated clothing, and follow procedures for decontamination, which include washing with soap and water.</para>
+    <para id="para-00012">In the event of biological exposure and contamination, decontamination may be necessary. <term id="term-00006">Biological contamination</term> occurs when infectious agents come into contact with a body surface, inanimate objects, or food or water supplies. <term id="term-00007">Biological decontamination</term> includes disinfection or sterilization of the area to reduce the number of microorganisms to a safe level ([link]Table 32.3[/link]) (Dembeck et al., 2011).</para>
+    <table class="vertically-tight alternate-shading" id="table-00002">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Method</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Examples</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">
+    Mechanical<newline/>
+    <list list-type="bulleted" id="list-00011">
+    <item>Removes, but may not neutralize the agent</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00012">
+    <item>Filtration of drinking water to remove water-borne pathogens</item>
+    <item>Air filtration of aerosolized agents</item>
+    <item>Scrubbing with soap and water, to remove from skin or other surfaces</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    Chemical<newline/>
+    <list list-type="bulleted" id="list-00013">
+    <item>Neutralizes using liquid, gas, or aerosol disinfectants</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00014">
+    <item>Sodium hypochlorite (bleach) and hydrogen peroxide</item>
+    <item>Effectiveness dependent on contact time, concentration of solution, composition of the contaminated surface, and characteristics of the biological agent</item>
+    <item>Disinfectant may be harmful to humans, animals, the environment, and or other materials</item></list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    Physical<newline/>
+    <list list-type="bulleted" id="list-00015">
+    <item>Use of heat or radiation to decontaminate surfaces or objects</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00016">
+    <item>Sterilization using high temperatures</item>
+    </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Mechanical, Chemical, and Physical Methods of Biological Decontamination</caption>
+    </table>
+    <para id="para-00013">The nurse compares individual assessment data to signs and symptoms of common biological agents to assist in diagnosis and potential treatment options. [link]Table 32.4[/link] describes common agents of bioterrorism, method of transmission, signs and symptoms, and treatments. The nurse reports biological agent exposure to the local health department and the CDC.</para>
+    <table class="vertically-tight alternate-shading" id="table-00003">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Agent of Bioterrorism</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Transmission</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Signs &amp; Symptoms</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Treatment</span></emphasis></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top" align="left">Anthrax<newline/>
+    <emphasis effect="italics">Bacillus anthracis</emphasis>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00017">
+    <item>Ingestion, contact, or inhalation of spores</item>
+    <item>Not spread person to person except cutaneous</item>
+    <item>1 to 7 days incubation, up to 60 days</item></list>
+    </entry>
+    <entry valign="top" align="left">Cutaneous<newline/>
+    <list list-type="bulleted" id="list-00018">
+    <item>Painless, red papule evolving to black eschar</item>
+    </list><newline/>
+    Ingestion
+    <list list-type="bulleted" id="list-00019">
+    <item>Necrotic ulcers in GI tract, fever, nausea, vomiting progressing to hematemesis and bloody diarrhea</item>
+    <item>25 to 60 percent fatality if untreated</item>
+    </list>
+    <newline/>
+    Inhalation
+    <list list-type="bulleted" id="list-00020">
+    <item>4 to 10 days of flu-like symptoms (headache, fever, malaise, cough) followed by rapid deterioration with severe dyspnea and shock</item>
+    <item>85 to 90 percent fatality if untreated</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">60 days of doxycycline,<newline/>
+    ciprofloxacin, or<newline/>
+    levofloxacin<newline/>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Botulism<newline/>
+    <emphasis effect="italics">Clostridium botulinum</emphasis>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00021">
+    <item>Ingested or inhaled</item>
+    <item>Not spread person to person</item>
+    <item>1 to 5 days</item></list>
+    </entry>
+    <entry valign="top" align="left">Generalized weakness, dizziness, blurred vision, dysarthria, dysphagia, diplopia, followed by symmetrical descending flaccid paralysis
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00022">
+    <item>Antitoxin</item>
+    <item>Respiratory support, including mechanical ventilation if necessary</item></list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Ebola<newline/>
+    Ebola virus
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00023">
+    <item>Contact or inhaled</item>
+    <item>2- to 19-day incubation</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00024">
+    <item>Fever, muscle pain, malaise, headache, vomiting, diarrhea, rapidly progressing to impaired organ function, hypotension, shock, bleeding, death</item>
+    <item>25 to 90 percent fatality rate depending upon strain of virus</item></list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00025">
+    <item>Monoclonal antibodies</item>
+    <item>Supportive care</item>
+    <item>Airborne precautions</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Plague<newline/>
+    <emphasis effect="italics">Yersinia pestis</emphasis>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00026">
+    <item>Inhaled for pneumonic plague—spread through air and droplets, person to person (most deadly form)</item>
+    <item>Vector for bubonic plague—spread through flea bites</item>
+    <item>1 to 4 days incubation</item></list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00027">
+    <item>Pneumonic—100 percent fatal if untreated: fever, chills, headache, cough, dyspnea, weakness progressing to hemoptysis, circulatory collapse, and bleeding</item>
+    <item>Bubonic—swollen, tender lymph nodes; fever; headache, chills, weakness</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00028">
+    <item>Streptomycin,</item>
+    <item>ciprofloxacin,</item>
+    <item>doxycycline, or</item>
+    <item>chloramphenicol</item>
+    <item>Droplet precautions</item>
+    <item>All possible exposures treated prophylactically</item></list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Smallpox<newline/>
+    <emphasis effect="italics">Variola</emphasis> virus
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00029">
+    <item>Inhaled or contact</item>
+    <item>7 to 19 days incubation</item>
+    </list>
+    </entry>
+    <entry valign="top" align="left">Macular rash beginning in face and distal extremities, then moving to the trunk (rash appears after contagious)</entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00030">
+    <item>Cidofovir</item>
+    <item>Smallpox vaccination within 72 hours of exposure</item>
+    <item>Airborne precautions</item>
+    </list>
+    </entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">Tuleremia<newline/>
+    <emphasis effect="italics">Francisella tularensis</emphasis>
+    </entry>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00031">
+    <item>Inhaled, ingested, or vector through bites of infected ticks, mosquitos, flies, rodents, rabbits, or hares.</item>
+    <item>Not spread person to person</item>
+    <item>1 to 14 days incubation</item></list>
+    </entry>
+    <entry valign="top" align="left">Malaise, cough, dyspnea, fever, weight loss
+    </entry>
+    <entry valign="top" align="left">Streptomycin, gentamicin, doxycycline, ciprofloxacin<newline/>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Transmission, signs and symptoms, and treatments of common agents of bioterrorism (See Hayoun &amp; King, 2022; Siegal et al., 2023.)</caption>
+    </table>
+    <para id="para-00014">Mass exposure to biological agents must be identified and managed as quickly as possible to prevent additional exposure. Principles of mass exposure management included (Blank, 2014):</para>
+    <list list-type="bulleted" id="list-00032">
+    <item>Recognition of exposure</item>
+    <item>Ensuring safety of the area through evacuation of nonessential personnel, use of PPE, and limiting additional exposure</item>
+    <item>Establishing zones for decontamination, treatment, and safe or clean zones; see [link]Zoning of Care Areas[/link]</item>
+    <item>Setting up a command center and establishing a chain of communication</item>
+    <item>Triage, assess, treat, and transport exposed individuals</item>
+    </list>
+    <para id="para-00015">The U.S. government remains in a constant state of readiness to protect Americans against the potential release of biological agents in terrorist threats and attacks. The <term id="term-00008">Strategic National Stockpile (SNS)</term> is part of the federal medical response infrastructure. The SNS supplements MCMs for states, tribal nations, territories, and metropolitan areas during public health emergencies. The stockpile has supplies, medicines, and devices for lifesaving care that can be used in the short term when the immediate supply of critical medical assets is unavailable or insufficient to meet the community's needs (ASPRN, n.d.).</para>
+    <para id="para-00016">Federal law enforcement and health and safety agencies focus on risk assessments and ensuring that preventative <term id="term-00009">medical countermeasures (MCM)</term>are safe, effective, and secure. The U.S. Food and Drug Administration (FDA) Medical Countermeasures Initiative (MCMi) works at local, state, national, and international levels of government to support MCM-related public health preparedness and response efforts (FDA, n.d.). MCMs are used to prevent, diagnose, or treat conditions associated with biological agents and include:</para>
+    <list list-type="bulleted" id="list-00033">
+    <item>Biologic products, such as vaccines, blood products, and antibodies</item>
+    <item>Drugs, such as antimicrobial medications, antiviral medications, antidotes, or radiation treatments</item>
+    <item>Devices, including diagnostic tests to identify threat agents, and personal protective equipment (PPE), such as gloves, respirators, face masks, and gowns</item>
+    </list>
+    </section>
+    <section id="sect-00005">
+    <title>The Nurse’s Role in Bioterrorism Preparedness and Response</title>
+    <para id="para-00017">Nurses are essential members of the public health system. Public health and community health nurses must be prepared for the possibility of terrorist activity at any time. The American Nurses Association (2016) has developed policies, resources, and educational opportunities for nurses on disaster preparedness and acknowledges the importance of preparation so that nurses are equipped to respond to critical events. Nurses have a role in primary, secondary, and tertiary prevention for bioterrorism preparedness and response ([link]Table 32.5[/link]). Refer to <link document="m00167">Pandemics and Infectious Disease Outbreaks</link> for more information on conducting surveillance.</para>
+    <table class="vertically-tight alternate-shading" id="table-00004">
+    <tgroup cols="1">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Primary Prevention</span></emphasis></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00034">
+    <item><term class="no-emphasis" id="term-00010">Disease surveillance</term> and preparation
+    <list list-type="bulleted" bullet-style="none" id="list-00035">
+    <item>Community health nurses are in ideal positions within communities to participate in surveillance. They must be alert to signs of possible terrorist activity, monitoring their communities for specific indicators of possible biologic terrorism, such as unusual numbers of dead or dying animals, unexplained serious illnesses or deaths, atypical vapors or odors in the environment, or unusual swarms of insects that might also indicate the use of biologic agents for terrorism. Diligent surveillance is essential in the early recognition of diseases caused by biological agents. Nurses work collaboratively in partnerships across disciplines for disease surveillance and to communicate vital information via appropriate channels to implement preparedness and response plans (Akins et al., 2005).</item>
+    <item>Creating, updating, and implementing a disaster plan is one of the most effective community-based strategies to mitigate injury and mortality from biological attacks. <term id="term-00011">Tabletop exercises</term>, sessions where key individuals who would respond to a disaster discuss their role and response in specific emergency situations, and <term id="term-00012">disaster simulations</term>, where key individuals would respond to a specific emergency, simulate the disaster, and respond as if the situation were real, are useful strategies for ensuring that there is a stable response plan and that all team members know their role.</item>
+    </list></item></list></entry>
+    </row>
+    <row>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Secondary Prevention</span></emphasis></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00036">
+    <item><term class="no-emphasis" id="term-00013">Screening</term> and treatment of the community’s health needs
+    <list list-type="bulleted" id="list-00037">
+    <item>Recognition of disease states is key for early intervention during a bioterrorist attack. Nurses may be among the first to recognize the presentation of an unusual illness. The community health nurse must be prepared to act safely, access information rapidly, and use resources effectively (International Council of Nurses, 2019). The community health nurse may be called on to provide direct care to survivors, to serve as a hospital–community liaison, to set up and administer mass immunizations, to support shelters, to make home visits to affected families, to establish a case management system for survivors, or to serve on committees responding to terrorist acts.</item>
+    <item>In addition to large numbers of casualties, there may be widespread public panic and fear. The community health nurse must be competent to recognize and respond to the psychological needs of the victims, the public, and the workers responding to a bioterrorism event (International Council of Nurses, 2019).</item>
+    </list>
+    </item></list></entry>
+    </row>
+    <row>
+     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Tertiary Prevention</span></emphasis></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left">
+    <list list-type="bulleted" id="list-00038">
+    <item>Rebuilding and long-term recovery of the community
+    <list list-type="bulleted" bullet-style="none" id="list-00039">
+    <item>Recovery and rebuilding a community may take a long time. Victims physically affected by biological agents require time to heal. Groups, families, or individuals who experience a terrorist-related event require ongoing care and recovery for the psychological toll caused by the epidemic of fear and panic (Radosavljević &amp; Jakovljević, 2007).</item>
+    </list></item></list></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Nurses’ Role in Primary, Secondary, and Tertiary Prevention for Bioterrorism Preparedness and Response</caption>
+    </table>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00006">
+    <title>Chapter Summary</title>
+    <para id="para-00018">Biological terrorism is the intentional release of biological agents to threaten populations and can lead to disaster and mass casualties. Biological agents are categorized by threat risk with Category A as the highest priority and includes agents that have the greatest threat of transmission and mortality. Nurses must be prepared to identify and respond to individual and community biological agent exposure.</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>biological contamination</term> <meaning>occurs when infectious agents come into contact with a body surface, inanimate objects, or food or water supplies</meaning></definition>
+    <definition id="def-00002"><term>biological decontamination</term> <meaning>mechanical, chemical, and physical methods used to reduce the number of microorganisms to a safe level following biological decontamination</meaning></definition>
+    <definition id="def-00003"><term>biological terrorism</term> <meaning>the intentional release of biological agents into the atmosphere or environment to threaten a civilian population</meaning></definition>
+    <definition id="def-00004"><term>disaster simulation</term> <meaning>key individuals who would respond to a specific emergency simulate the disaster and respond as if the situation were real</meaning></definition>
+    <definition id="def-00005"><term>medical countermeasures (MCM)</term> <meaning>biologic products, drugs, and devices used to diagnose, prevent, protect from, or treat conditions associated with biological agents</meaning></definition>
+    <definition id="def-00006"><term>Strategic National Stockpile (SNS)</term> <meaning>supplies, medicines, and devices for lifesaving care that can be used in the short-term when the immediate supply of critical medical assets is unavailable or insufficient to meet the community's needs; part of the federal medical response infrastructure</meaning></definition>
+    <definition id="def-00007"><term>tabletop exercise</term> <meaning>sessions where key individuals who would respond to a disaster discuss their role and response in specific emergency situations</meaning></definition>
+    </glossary>
 </document>
