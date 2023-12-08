@@ -83,11 +83,11 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Serum albumin&#160;(g/dL)</entry>
+    <entry valign="top" align="left">Serum albumin (g/dL)</entry>
     <entry valign="top" align="left">3.5–4.5</entry>
     <entry valign="top" align="left">3.0–3.49</entry>
     <entry valign="top" align="left">2.5–2.99</entry>
-    <entry valign="top" align="left">Less than 2.5</entry>
+    <entry valign="top" align="left">&lt; 2.5</entry>
     </row>
     <row>
     <entry valign="top" align="left">Score</entry>
@@ -98,9 +98,8 @@
     </row>
     <row>
     <entry valign="top" align="left">Total lymphocytes/mL</entry>
-    <entry valign="top" align="left">
-    Greater than 1,600<newline/>
-    Greater than or equal to 1.600×10<sup>9</sup>/L
+    <entry valign="top" align="left">> 1,600<newline/>
+    ≥ 1.600×10<sup>9</sup>/L
     </entry>
     <entry valign="top" align="left">
     1,200–1,599<newline/>
@@ -111,8 +110,8 @@
     0.800–1.199×10<sup>9</sup>/L
     </entry>
     <entry valign="top" align="left">
-    Less than 800<newline/>
-    Less than 0.800×10<sup>9</sup>/L
+    &lt; 800<newline/>
+    &lt; 0.800×10<sup>9</sup>/L
     </entry>
     </row>
     <row>
@@ -123,11 +122,11 @@
     <entry valign="top" align="left">3</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Cholesterol&#160;(mg/dL)</entry>
-    <entry valign="top" align="left">Greater than 180</entry>
+    <entry valign="top" align="left">Cholesterol (mg/dL)</entry>
+    <entry valign="top" align="left">> 180</entry>
     <entry valign="top" align="left">140–180</entry>
     <entry valign="top" align="left">100–139</entry>
-    <entry valign="top" align="left">Less than 100</entry>
+    <entry valign="top" align="left">&lt; 100</entry>
     </row>
     <row>
     <entry valign="top" align="left">Score</entry>
@@ -168,7 +167,7 @@
     <colspec colnum="5" colname="c5" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Micronutrient and</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Micronutrient Significance of Abnormal Values</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Expected Effect on Neurologic System</span></emphasis></entry> 
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Defined Level</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Significance of Abnormal Values</span></emphasis></entry>
@@ -252,7 +251,7 @@
     <list list-type="bulleted" id="list-00014">
     <item>Deficiencies are seen with some medications (<term class="no-emphasis" id="term-00091">isoniazid</term>, <term class="no-emphasis" id="term-00092">phenelzine</term>, <term class="no-emphasis" id="term-00093">hydralazine</term>, and <term class="no-emphasis" id="term-00094">penicillamine</term>) and in pregnancy, chronic alcohol use disorder, and clients undergoing hemodialysis.</item>
     <item>Deficiencies can present as <term class="no-emphasis" id="term-00095">numbness</term>, <term class="no-emphasis" id="term-00096">weakness</term>, loss of sensation, paresthesia, or foot, hand or leg pain. An <term class="no-emphasis" id="term-00097">ataxic gait</term> and loss of or decreased <term class="no-emphasis" id="term-00098">reflexes</term> may be present. Deficiencies in infants may manifest as <term class="no-emphasis" id="term-00099">seizures</term>.</item>
-    <item>Toxicity can occur with excessive supplementation (>/=100 mg/day). Symptoms of toxicity include ataxic gait, loss of reflexes, loss of sensation, and tingling or burning sensations.
+    <item>Toxicity can occur with excessive supplementation (≥ 100 mg/day). Symptoms of toxicity include ataxic gait, loss of reflexes, loss of sensation, and tingling or burning sensations.
     </item>
     </list>
     </entry>
@@ -275,7 +274,7 @@
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00017">
-    <item>Serum level: greater than 200–250 pg/mL</item>
+    <item>Serum level: > 200–250 pg/mL</item>
     </list>
     </entry>
     <entry valign="top" align="left">
@@ -290,7 +289,7 @@
     <list list-type="bulleted" id="list-00019">
     <item>8–12 mcg/daily</item>
     <item>Adults older than 50 years may need to supplement dietary consumption if deficient.</item>
-    <item>If deficient: 1000-mcg orally daily</item>
+    <item>If deficient: 1,000-mcg orally daily</item>
     <item>In severe deficiency, injections may be recommended.
     </item>
     </list>
@@ -363,7 +362,7 @@
     <list list-type="bulleted" id="list-00029">
     <item>Adults and children: 100–199 mcg/L</item>
     <item>During pregnancy: 150–249 mcg/L</item>
-    <item>During lactation: greater than 100 mcg/L</item>
+    <item>During lactation: > 100 mcg/L</item>
     </list>
     </entry>
     <entry valign="top" align="left">
@@ -371,15 +370,12 @@
     <item>A deficiency of iodine is a global concern, as it is the leading cause of intellectual deficits in the world. <term class="no-emphasis" id="term-00115">Thyroid deficiencies</term> can result from a deficiency of iodine because it is required to produce thyroid hormones. Goiter and elevations of thyroid-stimulating hormone (TSH) may be signs of deficit.</item>
     <item>Deficiency during pregnancy and infancy can cause irreversible effects.</item>
     <item>Excessive intake can cause <term class="no-emphasis" id="term-00116">goiter</term> in adults, TSH elevation, thyroiditis, and thyroid papillary cancer.</item>
-    <item>Iodine supplementation can interact with certain medications:
-    <list list-type="bulleted" id="list-00031">
+    <item>Iodine supplementation can interact with certain medications:</item>
     <item>Concurrent use with antithyroid medications can cause hypothyroidism.</item>
-    <item>Concurrent use with angiotensin-converting enzyme (ACE) inhibitors and potassium-sparing diuretics increases the risk for <term class="no-emphasis" id="term-00117">hyperkalemia</term>.</item></list></item>
-    </list>
-    </entry>
+    <item>Concurrent use with angiotensin-converting enzyme (ACE) inhibitors and potassium-sparing diuretics increases the risk for <term class="no-emphasis" id="term-00117">hyperkalemia</term>.</item></list></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00032">
-    <item>150 mcg daily for persons ages 14 + years</item>
+    <item>150 mcg/daily for persons ages 14 + years</item>
     <item>Infants receive adequate iodine from formula, breast milk and food intake and do not require supplementation.</item>
     <item>Acute poisoning is rare.
     </item>
@@ -436,7 +432,8 @@
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00039">
-    <item>Serum concentrations drop with aging and are related to a decline in brain function, possibly due to decreases in selenium’s antioxidant activity. Excessive intake can cause hair and nail loss or brittleness, nausea, diarrhea, skin rashes, mottled teeth, fatigue, irritability, and CNS abnormalities.</item>
+    <item>Serum concentrations drop with aging and are related to a decline in brain function, possibly due to decreases in selenium’s antioxidant activity.</item>
+    <item>Excessive intake can cause hair and nail loss or brittleness, nausea, diarrhea, skin rashes, mottled teeth, fatigue, irritability, and CNS abnormalities.</item>
     </list>
     </entry>
     <entry valign="top" align="left">
@@ -474,7 +471,7 @@
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00044">
-    <item>8–12 mg daily</item>
+    <item>8–12 mg/daily</item>
     <item>Food sources: meat, fish, and seafood (oysters contain the most zinc of all foods); other foods such as eggs, dairy, and beans, nuts, and whole grains contain zinc but are not fully metabolized.
     </item>
     </list>
@@ -516,45 +513,64 @@
     <para id="para-00043">The deleterious effects of poor dietary patterns on human cognition continue to plague humans. Neurodegenerative conditions are causing health care costs to soar; for instance, 6.5 million Americans are living with Alzheimer’s disease, and the prevalence is expected to double over the next 30 years (Borshchev et al., 2019). Cognitive deterioration is a concern in many diseases and conditions, and nutrition options, combined with exercise, have been explored as noninvasive strategies to reduce the consequences of neuronal damage. Modifiable risk factors account for 40% of risk factors for Alzheimer’s disease, and diet has been shown to be one of the predominant factors in the development of <term class="no-emphasis" id="term-00162">cognitive decline</term> (Borshchev et al., 2019). Avoidance of some foods, specifically those rich in saturated fats and sugar (often referred to as junk foods), is recommended because they have been shown to contribute to cognitive decline (Borshchev et al., 2019). Other nutritional factors, such as the number of calories consumed per meal and the frequency of food consumption, have been shown to affect cognitive health.</para>
     <para id="para-00044"><term class="no-emphasis" id="term-00163">Metabolic syndrome</term> presents a major risk factor for neurologic compromise and is defined as the presence of obesity, <term class="no-emphasis" id="term-00164">dyslipidemia</term>, arterial hypertension, and diabetes. A person is considered obese if their BMI is greater than 30. Dyslipidemia is diagnosed if the total cholesterol level is greater than 200 mg/dL. A total cholesterol level between 200 and 239 is considered borderline high, and a level greater than 240 mg/dL is considered high (CDC, 2022). Arterial hypertension (blood pressure greater than 130/80 mm Hg) has been shown to cause abnormal shifts in <term id="term-00165">cerebral autoregulation</term>, which is the ability of the cerebral vessels to maintain stable blood flow to the brain despite changes in arterial blood pressure (Borshchev, 2019). These shifting patterns seen in persons with metabolic syndrome lead to <term class="no-emphasis" id="term-00166">hypoperfusion</term> and reduced blood flow in the brain and can damage the brain’s white matter (Borshchev, 2019). Although metabolic syndrome is well established as a precursor for diabetes and various cardiovascular ischemic conditions, poor diet combined with obesity has also been associated with cognitive impairment and increased risk for dementia as the individual ages.</para>
     <para id="para-00045">Recent evidence has shown that even without metabolic dysfunction, <term class="no-emphasis" id="term-00167">adiposity</term> alone has been shown to potentially accelerate a decline in thought processes, such as attention, intelligence, memory, cognitive flexibility, processing speed, and executive function (Farruggia &amp; Small, 2019; Leigh et al., 2020). Adiposity may also result in reduced brain volume and reduced white matter connectivity, especially in the temporal lobe structures (Leigh et al., 2020). High intake of red meat, processed meat, and fried food and low intake of whole grains have been associated with a reduced level of function in the temporal and frontal lobes, such as memory and executive functions (Leigh et al., 2020). The traditional high-fat Western diet can trigger the advent of Alzheimer’s disease and vascular dementia by triggering inflammation, the development of cerebral vascular atherosclerotic lesions, and a dismantling of the blood–brain barrier (Borshchev et al., 2019; Więckowska-Gacek et al., 2021).</para>
-    <para id="para-00046">When abnormal <term id="term-00168">cerebral blood flow</term>(the volume of blood that moves through the blood vessels in the brain over a given unit of time) is seen on PET scanning, this can signal overactive or underactive metabolism and can indicate seizure activity, or it can be a marker of ischemic brain injury or degenerative conditions. Food supplementation with polyphenols and omega-3 fatty acids in concert with a supervised nutrition program has been shown to improve cerebral perfusion (Roberts et al., 2020).</para>
+    <para id="para-00046">When abnormal <term id="term-00168">cerebral blood flow</term> (the volume of blood that moves through the blood vessels in the brain over a given unit of time) is seen on PET scanning, this can signal overactive or underactive metabolism and can indicate seizure activity, or it can be a marker of ischemic brain injury or degenerative conditions. Food supplementation with polyphenols and omega-3 fatty acids in concert with a supervised nutrition program has been shown to improve cerebral perfusion (Roberts et al., 2020).</para>
     <para id="para-00047">Dietary patterns and stress can affect the immune system. As a result, the body may initiate an autoimmune process in which the body perceives normal cells as foreign and attempts to rid the body of a perceived invading substance. In the neurologic system, myelin-producing cells can become affected by this autoimmune process. Myelin can be damaged when the body’s immune cells perceive myelin as a foreign substance and kill the cells that make <term class="no-emphasis" id="term-00169">myelin</term>. The most well-known condition in which myelin is destroyed is multiple sclerosis. Other conditions in which myelin is attacked are optic neuritis and transverse myelitis. Myelin is attacked in the PNS of individuals with <term class="no-emphasis" id="term-00170">Guillain-Barré syndrome</term>, <term class="no-emphasis" id="term-00171">Charcot–Marie–Tooth disorder</term> type 1 or type X, or copper or vitamin B<sub>12</sub> deficiency, as well as individuals with infectious processes, excessive alcohol consumption, or intake of certain drugs.</para>
     <para id="para-00048">A diet high in saturated fat and sugar is known to produce changes in the <term class="no-emphasis" id="term-00172">gut microbiome</term>, triggering inflammatory processes that alter the immune system and can lead to cognitive impairment (Leigh et al., 2020). These alterations in the microbiome increase the permeability of the gut and lead to formation of bacterial amyloids (abnormal proteins) and tangles of <term id="term-00173">tau proteins</term>. Tau proteins normally stabilize the tubelike internal skeleton of nerve cells, but when the inflammatory process ignites in the gut, the tau proteins instead become tangled due to phosphorylation in the gut. This <term class="no-emphasis" id="term-00174">phosphorylation</term> then blocks the neuronal transport system and damages vital communication between the neurons, eventually resulting in cell death (Więckowska-Gacek et al., 2021). The most typical neuropathologic changes in the brains of persons with Alzheimer’s disease are these amyloid and tau protein tangles.</para>
     <note class="unfolding-casestudy" id="note-00002">
     <title>Part A</title>
     <para id="para-00049">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
     <para id="para-00050">The nurse completes a nutritional assessment of Jamal Powell. The client’s past medical history is positive for hypertension, high cholesterol, and obesity.</para>
-    <table class="vertically-tight full-width" id="table-00003">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <table class="vertically-tight" id="table-00003">
+    <tgroup cols="3">
+       <colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry> 
+    <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry> 
     </row>
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">
-    <list list-type="bulleted" id="list-00045">
-    <item>Temperature: 98.5°F (36.94°C)</item>
-    <item>Blood pressure: 148/90 mm Hg</item>
-    <item>Heart rate: 97 beats/min</item>
-    <item>Respiratory rate: 14 breaths/min</item>
-    <item>Oxygen saturation: 97% on room air</item>
-    <item>Height: 5'9"</item>
-    <item>Weight: 230 lb (104.33 kg)</item>
-    <item>BMI: 34 (Class 1 obesity)</item></list>
-    </entry>
-    <entry valign="top" align="left">
-    Jamal had blood work drawn the week prior to this visit:
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00031"><item>Temperature:</item></list></entry>
+    <entry valign="top" align="left">98.5°F (36.94°C)</entry>
+    <entry valign="top" align="left" morerows="3">Jamal had blood work drawn the week prior to this visit:<newline/>
     <list list-type="bulleted" id="list-00046">
     <item>Total cholesterol: 240 mg/dL</item>
     <item>Low-density lipoprotein (LDL): 160 mg/dL</item>
     <item>High-density lipoprotein (HDL): 30 mg/dL</item>
     <item>Triglycerides: 250 mg/dL</item></list>
     </entry>
-    </row>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00045"><item>Blood pressure:</item></list></entry>
+<entry valign="top" align="left">148/90 mm Hg</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00047"><item>Heart rate:</item></list></entry>
+<entry valign="top" align="left">97 beats/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00048"><item>Respiratory rate:</item></list></entry>
+<entry valign="top" align="left">14 breaths/min</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00049"><item>Oxygen saturation:</item></list></entry>
+<entry valign="top" align="left">97% on room air</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00050"><item>Height:</item></list></entry>
+<entry valign="top" align="left">5'9"</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00051"><item>Weight:</item></list></entry>
+<entry valign="top" align="left">230 lb (104.33 kg)</entry>
+</row>
+<row>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00052"><item>BMI:</item></list></entry>
+<entry valign="top" align="left">34 (Class 1 obesity)</entry>
+</row>
     </tbody>
     </tgroup>
     </table>
