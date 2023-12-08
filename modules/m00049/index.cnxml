@@ -14,6 +14,7 @@
   <item>Analyze cues to determine the impact of nutrition on the cardiovascular system.</item>
   </list>
   </section>
+  <section id="sect-00009">
   <section id="sect-00002">
   <title>Normal Function of the Cardiovascular System</title>
   <para id="para-00002">The <term id="term-00001">cardiovascular system</term> includes the heart, blood, blood vessels, lymph, lymphatic vessels, and glands that move blood and lymph through the body. Assessment of this system involves the mechanical and electrical functions of the heart and blood vessels and their effectiveness at circulating blood throughout the body. Assessment should also include an examination of a client’s nutritional status.</para>
@@ -54,8 +55,7 @@
   <caption>Nurses are expected to be able to measure and interpret the points of a telemetry wave. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
   <para id="para-00015">For the heart to be in optimal health, the electrical conductivity should be a <term id="term-00020">normal sinus rhythm (NSR)</term>. An NSR is a rhythm that originates from the sinus node and is characteristic of a healthy heart’s cardiac rhythm. With an NSR, the wave tracing should be within normal measurements, and the deflections and appearances or shapes of all wave components should have a pulse that is calculated between 60 and 100 beats per minute. In addition, the waves should be consistent and resemble each other. <link target-id="table-00001" document="m00049"/> outlines the telemetry wave components, normal measurement, existence in the cardiac cycle, and the expected shape and deflection.</para>
   <table class="vertically-tight alternate-shading" id="table-00001">
-  <title/>
-  <tgroup cols="4">
+    <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
@@ -107,19 +107,19 @@
   </row>
   <row>
   <entry valign="top">QRS complex</entry>
-  <entry valign="top">0.06&#8211;0.12 seconds</entry>
+  <entry valign="top">0.06–0.12 seconds</entry>
   <entry valign="top">Ventricular depolarization</entry>
   <entry valign="top">Cluster of QRS waves together</entry>
   </row>
   <row>
   <entry valign="top">PR interval</entry>
-  <entry valign="top">0.12&#8211;0.20 seconds</entry>
+  <entry valign="top">0.12–0.20 seconds</entry>
   <entry valign="top">Beginning of atrial depolarization to beginning of ventricular depolarization</entry>
   <entry valign="top">P wave and segment between P wave and Q wave</entry>
   </row>
   <row>
   <entry valign="top">QT interval</entry>
-  <entry valign="top">0.40&#8211;0.44 seconds</entry>
+  <entry valign="top">0.40–0.44 seconds</entry>
   <entry valign="top">Beginning of ventricular depolarization through ventricular repolarization</entry>
   <entry valign="top">QRS complex, ST segment and to end of T wave</entry>
   </row>
@@ -181,7 +181,7 @@
   <section id="sect-00008">
   <title>Nutritional Analysis and the Impact on the Cardiovascular System</title>
   <para id="para-00029">Nutritional issues can lead to changes in the electrical conduction of the heart. As a result, the client’s telemetry rhythm can become abnormal. Rhythm changes include <term class="no-emphasis" id="term-00028">atrial fibrillation</term>, <term class="no-emphasis" id="term-00029">atrial flutter</term>, <term class="no-emphasis" id="term-00030">T-wave abnormalities</term>, <term class="no-emphasis" id="term-00031">ST segment changes</term> related to AMI, <term class="no-emphasis" id="term-00032">U-wave</term> presence or prominence, <term class="no-emphasis" id="term-00033">torsade de pointes</term>, prolonged QT interval, and supraventricular tachycardia. Rhythm changes can relate to one or more deficiencies. See <link target-id="table-00002" document="m00049"/> for a list of <term class="no-emphasis" id="term-00034">telemetry</term> changes, the nutritional relation, and client symptoms.</para>
-  <table class="vertically-tight alternate-shading" id="table-00002">
+  <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="3">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -267,7 +267,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Nutritional Relationship to Rhythm Changes (sources: Akbar et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c; Cohagan &#38; Brandis, 2022; Kenny &#38; Brown, 2022; Lee, et al., 2022; Mayo Clinic, 2023a–b; Morales-Brown, 2020; Teymouri, et. al., 2022) </caption>
+  <caption>Nutritional Relationship to Rhythm Changes (sources: Akbar et al., 2022; Centers for Disease Control and Prevention, 2022; Cleveland Clinic, 2022a; Cleveland Clinic, 2022c; Cohagan &amp; Brandis, 2022; Kenny &amp; Brown, 2022; Lee, et al., 2022; Mayo Clinic, 2023a–b; Morales-Brown, 2020; Teymouri, et. al., 2022) </caption>
   </table>
   <para id="para-00030">Numerous nutritional factors create or impact <term class="no-emphasis" id="term-00040">cardiovascular disease</term>s such as <term class="no-emphasis" id="term-00041">coronary heart disease</term>, <term class="no-emphasis" id="term-00042">cardiomyopathy</term> (a disease of the heart muscle), and <term class="no-emphasis" id="term-00043">hypertension</term>. <link target-id="table-00003" document="m00049"/> outlines a handful of cardiovascular diseases, the impact of nutrition, and the effect on the body.</para>
   <table class="vertically-tight" id="table-00003">
@@ -313,10 +313,11 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Cardiovascular Diseases (sources: Albakri, 2019; Harvard University, 2023; Centers for Disease Control and Prevention, 2022; Medline Plus, 2022)</caption>
+  <caption>Cardiovascular Diseases (sources: Albakri, 2019; Centers for Disease Control and Prevention, 2022; Harvard University, 2023; Medline Plus, 2022)</caption>
   </table>
   </section>
   </section>
+ </section>
   </content>
   <glossary>
   <definition id="def-00001"><term>arteries</term><meaning>blood vessels that carry oxygenated blood from the heart to the body</meaning></definition>

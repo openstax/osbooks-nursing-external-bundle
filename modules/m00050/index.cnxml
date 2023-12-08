@@ -14,6 +14,7 @@
   <item>Generate solutions to optimize cardiovascular wellness through nutritional habits.</item>
   </list>
   </section>
+  <section id="sect-00006">
   <section id="sect-00002">
   <title>Planning Nutritional Goals</title>
   <para id="para-00002">Several body metrics can help the nurse evaluate the potential for cardiovascular disease development or to determine level of cardiovascular disease present. These metrics include food intake, body mass index (BMI), waist-to-hip ratio, blood pressure, and cholesterol. The primary goal is to utilize the best nutritional practices to prevent cardiovascular disease. If disease is present, nutrition is used to help control the condition and prevent worsening and exacerbation periods.</para>
@@ -24,7 +25,7 @@
   <para id="para-00005">Maintaining adequate <term class="no-emphasis" id="term-00009">fiber</term> intake will help to prevent cardiovascular disease. Fiber has been shown to lower LDL cholesterol levels, lower blood pressure, and create satiety (a feeling of fullness) to help in weight loss (Harvard Health Publishing, 2020). When increasing fiber intake, it important to also increase fluid intake, particularly water intake, to prevent constipation. Adequate fluid intake (particularly water) of at least 6 to 8 cups per day for women and 8 to 12 cups per day for men is needed for many body processes, including proper blood vessel function, blood circulation, effective cardiac pumping, and sodium level maintenance, which can help prevent heart disease risk if maintained at 142 milliequivalents per liter (mEq/L) and below (Dmitrieva, Liu, Wu, &amp; Boehm, 2022; National Institutes of Health, 2022).</para>
   <para id="para-00006">Another important piece of education for the client is the proper regulation of their daily <term class="no-emphasis" id="term-00010">sodium</term> intake. Too much daily intake can increase the risk of <term class="no-emphasis" id="term-00011">hypertension</term>, which can lead to heart failure. Americans consume an average of 3,400 mg per day of sodium, which is well above the recommended limit of 2,300 mg daily for those without heart disease (American Heart Association, 2023). This maximum is still not optimal as the AHA recommends that clients without heart disease move toward a limit of 1,500 mg daily and those with heart disease to 1,000 mg daily. While this is the current recommendation, there is some debate from new findings by the American College of Cardiology (2023) that individuals with heart disease do not benefit from limiting their sodium any more than those without heart disease.</para>
   <para id="para-00007">The nurse should have a nutrition education discussion with the client that includes maintaining a proper diet for healthy BMI, waist circumference, calcium, magnesium, and potassium levels. The nurse can discuss both the use of the MyPlate and DASH diets to accomplish this. The nurse should keep in mind, however, that a fine balance must be maintained between potassium, sodium, magnesium, and calcium for proper conduction and mechanic pumping of the heart to take place. Most clients can maintain these three electrolytes through balanced nutrition, but if they are deficient in any of these and are unable to regulate them through nutritional intake alone, supplementation should be considered. The nurse should discuss types of foods the client should include and limit in their diet for cardiovascular health (<link target-id="table-00001" document="m00050"/>).</para>
-  <table class="alternate-shading" id="table-00001">
+  <table class="alternate-shading full-width" id="table-00001">
   <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -112,7 +113,7 @@
   <para id="para-00008">Two main diets have been shown to benefit clients with heart disease: the <term class="no-emphasis" id="term-00012">DASH (Dietary Approaches to Stop Hypertension) diet</term> and the <term class="no-emphasis" id="term-00013">Mediterranean diet</term>. The intent of these diets is to control weight and reduce cholesterol levels and hypertension. This approach needs to be balanced with the client’s need for protein, because malnourishment and heart failure can lead to <term id="term-00014">hypoalbuminemia</term>, a condition in which the body does not produce enough <term class="no-emphasis" id="term-00015">albumin</term>, a protein that keeps fluids in blood vessels.</para>
   <para id="para-00009">The nurse should consider BMI, which is calculated as weight in kilograms by height in meters squared (kg/m<sup>2</sup>) and waist size values:</para>
   <list list-type="bulleted" id="list-00002">
-  <item><term class="no-emphasis" id="term-00016">BMI</term>—A healthy BMI is 18&#8211;24.9 kg/m<sup>2;</sup>; an overweight BMI is 25&#8211;29.9 kg/m<sup>2</sup>; and obesity is a BMI of 30 kg/m<sup>2</sup> or higher.</item>
+  <item><term class="no-emphasis" id="term-00016">BMI</term>—A healthy BMI is 18–24.9 kg/m<sup>2;</sup>; an overweight BMI is 25–29.9 kg/m<sup>2</sup>; and obesity is a BMI of 30 kg/m<sup>2</sup> or higher.</item>
   <item>Waist size—A person who has a large waist size has a higher chance of developing cardiovascular disease, even with a normal BMI. Men should aim to keep their waist size below 40 inches (102 cm) and women should aim to keep their waist size below 35 inches (88 cm) (Harvard University, 2023).</item>
   </list>
   <note class="media-feature" id="note-00001">
@@ -120,7 +121,7 @@
   <para id="para-00010">The nurse should know a client’s BMI before creating a nutritional plan because a high BMI increases cardiovascular risks. For clients with a high BMI, weight loss should be included in the plan. Harvard Medical School provides a useful <link url="https://openstax.org/r/healthharvaed">BMI calculator</link>.</para>
   </note>
   <para id="para-00011">Another metric is <term class="no-emphasis" id="term-00017">blood pressure</term>, which measures hypertension or the advancement of hypertension. Hypertension is known as the silent killer, because many people often do not have symptoms. Blood pressure is measured in millimeters of mercury, or mmHg. A single high <term class="no-emphasis" id="term-00018">hypertension</term> value may not indicate an issue, but two or more consecutive high readings is considered hypertension (Mayo Clinic, 2023c). Blood pressure ranges and their associated condition are listed in <link target-id="table-00002" document="m00050"/>.</para>
-  <table class="alternate-shading" id="table-00002">
+  <table class="alternate-shading full-width" id="table-00002">
   <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -135,23 +136,23 @@
   <tbody>
   <row>
   <entry valign="top">Low</entry>
-  <entry valign="top">&lt; 90 mmHg</entry>
-  <entry valign="top">Or &lt; 60 mmHg</entry>
+  <entry valign="top">&lt;90 mmHg</entry>
+  <entry valign="top">Or &lt;60 mmHg</entry>
   </row>
   <row>
   <entry valign="top">Normal</entry>
-  <entry valign="top">&lt; 120 mmHg</entry>
-  <entry valign="top">And &lt; 80 mmHg</entry>
+  <entry valign="top">&lt;120 mmHg</entry>
+  <entry valign="top">And &lt;80 mmHg</entry>
   </row>
   <row>
   <entry valign="top">Elevated</entry>
   <entry valign="top">120-129 mmHg</entry>
-  <entry valign="top">Or &lt; 80 mmHg</entry>
+  <entry valign="top">Or &lt;80 mmHg</entry>
   </row>
   <row>
   <entry valign="top">Hypertensive</entry>
-  <entry valign="top">&gt; 129 mmHg</entry>
-  <entry valign="top">Or &gt; 80 mmHg</entry>
+  <entry valign="top">>129 mmHg</entry>
+  <entry valign="top">Or >80 mmHg</entry>
   </row>
   </tbody>
   </tgroup>
@@ -182,34 +183,34 @@
   <entry valign="top">Total cholesterol</entry>
   <entry/>
   <entry/>
-  <entry valign="top">&lt; 200</entry>
-  <entry valign="top">200&#8211;239</entry>
-  <entry valign="top">&gt; 239</entry>
+  <entry valign="top">&lt;200</entry>
+  <entry valign="top">200–239</entry>
+  <entry valign="top">> 239</entry>
   <entry/>
   </row>
   <row>
   <entry valign="top">Low-density lipids (LDL) (“bad” cholesterol)</entry>
-  <entry valign="top">100&#8211;129</entry>
-  <entry valign="top">&lt; 100</entry>
+  <entry valign="top">100–129</entry>
+  <entry valign="top">&lt;100</entry>
   <entry/>
-  <entry valign="top">130&#8211;159</entry>
-  <entry valign="top">160&#8211;189</entry>
-  <entry valign="top">&gt; 189</entry>
+  <entry valign="top">130–159</entry>
+  <entry valign="top">160–189</entry>
+  <entry valign="top">>189</entry>
   </row>
   <row>
   <entry valign="top">Triglycerides</entry>
   <entry/>
   <entry/>
-  <entry valign="top">&lt; 150</entry>
-  <entry valign="top">150&#8211;199</entry>
-  <entry valign="top">200&#8211;499</entry>
-  <entry valign="top">&gt; 499</entry>
+  <entry valign="top">&lt;150</entry>
+  <entry valign="top">150–199</entry>
+  <entry valign="top">200–499</entry>
+  <entry valign="top">>499</entry>
   </row>
   <row>
   <entry valign="top">High-density lipids (HDL) (“good” cholesterol)</entry>
   <entry/>
-  <entry valign="top">&gt; 60</entry>
-  <entry valign="top">&gt; 40</entry>
+  <entry valign="top">>60</entry>
+  <entry valign="top">>40</entry>
   <entry/>
   <entry/>
   <entry/>
@@ -241,6 +242,7 @@
   <para id="para-00019">A third major factor is the client’s ability to understand the nutritional plan. The client must fully understand what foods are on the diet plan, how to properly read food labels, and how to make appropriate substitutions and measurements. If they do not have a firm understanding, they may struggle to follow the plan. It may be necessary to refer the client to a registered dietician and follow up consistently to ensure the client both understands the education given and is adhering to the recommendations.</para>
   <para id="para-00020">Lastly, debilitating health can contribute to the challenge of cardiovascular health. In the later stages of many of diseases, shortness of breath and fatigue can make eating very difficult. It also increases the difficulty level in food preparation, making it easier for a client to revert to eating fast foods in favor of less effort. The registered dietician can offer some solutions regarding <term class="no-emphasis" id="term-00020">food preparation</term> to reduce fatigue, such as purchasing prechopped fruits and vegetables, making sheet-pan meals, and using slow-cooker recipes. This will not alleviate the fatigue that clients with breathing difficulties will have during the act of eating. The registered dietician can take this breathing issue into account and help with the selection of more nutrient-dense foods, so that the client will have to eat less to meet their needed requirements.</para>
   </section>
+</section>
   </content>
   <glossary>
   <definition id="def-00001"><term>hypoalbuminemia</term><meaning>a condition where the body doesn’t produce enough albumin, a protein that keeps fluids in blood vessels</meaning></definition>
