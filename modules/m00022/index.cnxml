@@ -83,7 +83,8 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Serum albumin&#160;(g/dL)</entry>
+    <entry valign="top" align="left">Serum albumin<newline/>
+    (g/dL)</entry>
     <entry valign="top" align="left">3.5–4.5</entry>
     <entry valign="top" align="left">3.0–3.49</entry>
     <entry valign="top" align="left">2.5–2.99</entry>
@@ -97,7 +98,7 @@
     <entry valign="top" align="left">6</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Total&#160;lymphocytes/mL</entry>
+    <entry valign="top" align="left">Total lymphocytes/mL</entry>
     <entry valign="top" align="left">> 1,600<newline/>
     ≥ 1.600×10<sup>9</sup>/L
     </entry>
@@ -122,8 +123,8 @@
     <entry valign="top" align="left">3</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Cholesterol&#160;(mg/dL)</entry>
-    <entry valign="top" align="left">&#62; 180</entry>
+    <entry valign="top" align="left">Cholesterol (mg/dL)</entry>
+    <entry valign="top" align="left">> 180</entry>
     <entry valign="top" align="left">140–180</entry>
     <entry valign="top" align="left">100–139</entry>
     <entry valign="top" align="left">&lt; 100</entry>
@@ -240,9 +241,10 @@
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00012">
-    <item>3.4–65.2 mcg/L</item>
-    </list><newline/>
-    or
+    <item>3.4–65.2 mcg/L</item></list>
+    <list list-type="bulleted" bullet-style="none" id="list-00053">
+<item>or</item>
+</list>
     <list list-type="bulleted" id="list-00013">
     <item>13.76–263.81 nmol/L</item>
     </list>
