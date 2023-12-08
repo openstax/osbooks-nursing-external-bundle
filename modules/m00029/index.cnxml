@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00009">Anticonvulsant/Antiepileptic Medications</term> (Alcohol should be avoided with all antiepileptic medications.)</span></entry>
+<entry valign="top" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00009">Anticonvulsant/Antiepileptic Medications</term></span> (Alcohol should be avoided with all antiepileptic medications.)</emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="left">
@@ -217,10 +217,10 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Neurologic Medications That Affect Body Weight (source: Verhaegen et al., 2019; FDA, 2022a)</caption>
+<caption>Neurologic Medications That Affect Body Weight (sources: Verhaegen et al., 2019; FDA, 2022a)</caption>
 </table>
 <section id="sect-00004">
-<title>Medications used to treat Parkinson Disorder</title>
+<title>Medications Used to Treat Parkinson Disorder</title>
 <para id="para-00013">One of the main medications used to treat <term class="no-emphasis" id="term-00058">Parkinson’s disease</term> is <term class="no-emphasis" id="term-00059">levodopa</term>, a dopaminergic agent. As the body metabolizes levodopa, elevated <term id="term-00060">homocysteine</term> levels (an amino acid) can present. This elevation can cause greater stiffness of the aorta and a lower bioavailability of <term class="no-emphasis" id="term-00061">CoQ10</term>, placing the individual at a higher risk for cardiovascular events such as stroke. Therefore, due to the given the nature of the breakdown of levodopa, an adequate intake of folate, niacin, and vitamins B<sub>6</sub> and B<sub>12</sub> is recommended to prevent increased <term class="no-emphasis" id="term-00062">homocysteine</term> levels, mitigating an increased cardiovascular risk. Alternatively, too much protein when taken with levodopa can inhibit its action, so medication should be taken 30–60 minute before a meal and is not recommended in conjunction with a high-protein diet (Gezmen-Karadag, 2018). Sugar or fat can worsen Parkinson’s symptoms as these foods can inhibit absorption of levodopa, while a high-carbohydrate diet will increase the effect of levodopa (Gezmen-Karadag, 2018). In addition, clients with Parkinson’s disease who have a high levodopa requirement will often present with constipation and may require stool softeners.</para>
 </section>
 <section id="sect-00005">
@@ -234,7 +234,7 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Generic name</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Generic Name</span></emphasis></entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Nutritional Effect</span></emphasis></entry>
 </row>
 </thead>
@@ -358,7 +358,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Common Medications Used to Treat Seizures (source: Dhaliwal et al., 2023; Epilepsy Foundation, 2023)</caption>
+<caption>Common Medications Used to Treat Seizures (sources: Dhaliwal et al., 2023; Epilepsy Foundation, 2023)</caption>
 </table>
 </section>
 <section id="sect-00006">
@@ -367,7 +367,7 @@
 </section>
 <section id="sect-00007">
 <title>Medications Used to treat Depression, Psychosis, and Sleep</title>
-<para id="para-00018">Several classes of medications are used routinely to treat <term class="no-emphasis" id="term-00102">depression</term>, such <term class="no-emphasis" id="term-00103">as selective serotonin reuptake inhibitors (SSRIs)</term>, tricyclic <term class="no-emphasis" id="term-00104">antidepressants</term>, and <term class="no-emphasis" id="term-00105">monoamine oxidase inhibitors (MAOIs)</term>. One commonly prescribed medication to treat <term class="no-emphasis" id="term-00106">depression</term> is <term class="no-emphasis" id="term-00107">fluoxetine</term>, which may be associated with increased insulin levels and subsequent short-term weight gain in some individuals. Other common antidepressants, such as <term class="no-emphasis" id="term-00108">sertraline</term> and <term class="no-emphasis" id="term-00109">paroxetine</term>, have been linked to high LDL cholesterol, and long-term use may increase the risk for cardiovascular disease. Some of the <term class="no-emphasis" id="term-00110">tricyclic antidepressants</term>, such as <term class="no-emphasis" id="term-00111">amitriptyline</term>, may also cause weight gain, as they can increase appetite. A high intake of fiber foods, such as legumes, fish, meat, and foods rich in vitamin C, may decrease absorption of these medications. <term class="no-emphasis" id="term-00112">Tyramine</term> is a trace monoamine found in aged cheeses and cured meats and should be avoided if the client is taking a monoamine oxidase inhibitor. Some <term class="no-emphasis" id="term-00113">antipsychotic medications</term>, such as <term class="no-emphasis" id="term-00114">chlorpromazine</term> and <term class="no-emphasis" id="term-00115">clozapine</term>, can cause a vitamin B<sub>12</sub> deficiency and/or constipation. Therefore, supplemental B vitamins and minerals are recommended, as well as adequate fluid and fiber intake.</para>
+<para id="para-00018">Several classes of medications are used routinely to treat <term class="no-emphasis" id="term-00102">depression</term>, such <term class="no-emphasis" id="term-00103">as selective serotonin reuptake inhibitors (SSRIs)</term>, tricyclic <term class="no-emphasis" id="term-00104">antidepressants</term>, and <term class="no-emphasis" id="term-00105">monoamine oxidase inhibitors (MAOIs)</term>. One commonly prescribed medication to treat depression is <term class="no-emphasis" id="term-00107">fluoxetine</term>, which may be associated with increased insulin levels and subsequent short-term weight gain in some individuals. Other common antidepressants, such as <term class="no-emphasis" id="term-00108">sertraline</term> and <term class="no-emphasis" id="term-00109">paroxetine</term>, have been linked to high LDL cholesterol, and long-term use may increase the risk for cardiovascular disease. Some of the <term class="no-emphasis" id="term-00110">tricyclic antidepressants</term>, such as <term class="no-emphasis" id="term-00111">amitriptyline</term>, may also cause weight gain, as they can increase appetite. A high intake of fiber foods, such as legumes, fish, meat, and foods rich in vitamin C, may decrease absorption of these medications. <term class="no-emphasis" id="term-00112">Tyramine</term> is a trace monoamine found in aged cheeses and cured meats and should be avoided if the client is taking a monoamine oxidase inhibitor. Some <term class="no-emphasis" id="term-00113">antipsychotic medications</term>, such as <term class="no-emphasis" id="term-00114">chlorpromazine</term> and <term class="no-emphasis" id="term-00115">clozapine</term>, can cause a vitamin B<sub>12</sub> deficiency and/or constipation. Therefore, supplemental B vitamins and minerals are recommended, as well as adequate fluid and fiber intake.</para>
 <para id="para-00019">For clients with <term class="no-emphasis" id="term-00116">sleep disturbances</term>, medications like <term class="no-emphasis" id="term-00117">zolpidem</term> rapidly decelerate brain activity and can help them fall asleep and asleep. Clients taking sleeping medications should avoid caffeine and alcohol and should take them on an empty stomach to ensure adequate absorption. Zolpidem interacts with <term class="no-emphasis" id="term-00118">St. John’s wort</term>, and the two should not be administered together. Another medication prescribed to treat <term class="no-emphasis" id="term-00119">insomnia</term>, <term class="no-emphasis" id="term-00120">triazolam</term>, should not be taken with grapefruit juice, as this has been shown to increase blood levels of the drug, causing excessive drowsiness.</para>
 </section>
 </section>
