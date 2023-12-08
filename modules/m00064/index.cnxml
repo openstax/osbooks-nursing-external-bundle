@@ -14,7 +14,6 @@
     <item>Discuss the impact of nutrition on chronic pulmonary illness.</item>
     </list>
     </section>
-    
     <section id="sect-00002">
     <section id="sect-00003">
     <title>Nutrition Requirement for Optimal Pulmonary Health</title>
@@ -32,7 +31,7 @@
     <para id="para-00006">Kai is in the clinic today for difficulty breathing upon walking. His current vital signs are listed on the left side of the following table. Kai states that he has smoked for 30 years and frequently eats fast food because his job demands long hours and he does not have time for grocery shopping. You notice a cough; Kai states he does not know when it began exactly. He has noted a decrease in his weight, and he has a hard time working the long days his job demands because he becomes short of breath. You look at his chart, shown on the right side of the following table, which includes his vital signs and exam notes from his visit last year.</para>
     
     <table class="vertically-tight full-width" id="table-00001">
-    <tgroup cols="4">
+    <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <thead>
@@ -46,7 +45,7 @@
     <entry valign="top" align="left">Temperature:&#160;97.6ºF<newline/>
 Blood pressure:&#160;128/89 mm Hg<newline/>
 Heart rate:&#160;99 beats/min<newline/>
-Respiratory rate:&#160;28<newline/>
+Respiratory rate:&#160;28 breaths/min<newline/>
 Oxygen saturation:&#160;89% on room air<newline/>
 (drops to 77 while walking)<newline/>
 Height:&#160;6'0"<newline/>
@@ -54,10 +53,10 @@ Weight:&#160;268 lb</entry>
 <entry valign="top" align="left">Temperature:&#160;98.0ºF<newline/>
 Blood pressure:&#160;126/82 mm Hg<newline/>
 Heart rate:&#160;89 beats/min<newline/>
-Respiratory rate:&#160;20<newline/>
+Respiratory rate:&#160;20 breaths/min<newline/>
 Oxygen saturation:&#160;92% on room air<newline/>
 Height:&#160;6'0"<newline/>
-Weight:&#160;280 lb<newline/>
+Weight:&#160;280 lb<newline count="2"/>
 The client presents with mild dry cough for 2 weeks. Client’s chest x-ray shows enlarged lung air pockets. The client does not have a history of respiratory conditions but stated he has smoked for 30 years. The client is a construction worker with a fluctuating dietary history. Recommendations for client include smoking cessation.</entry>
     </row>
     </tbody>
@@ -98,7 +97,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><term class="no-emphasis" id="term-00017">Upper respiratory tract</term></span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><term class="no-emphasis" id="term-00017"><emphasis effect="bold">Upper respiratory tract</emphasis></term></span></entry>
     </row>
     <row>
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00018">Common cold</term></entry>
@@ -140,7 +139,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     <entry valign="top" align="left">High fever, headache, earache, feeling tired, voice changes</entry>
     </row>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><term class="no-emphasis" id="term-00024">Lower respiratory tract</term></span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><term class="no-emphasis" id="term-00024"><emphasis effect="bold">Lower respiratory tract</emphasis></term></span></entry>
     </row>
     <row>
     <entry valign="top" align="left">Acute bronchitis</entry>
@@ -153,7 +152,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     </row>
     </tbody>
     </tgroup>
-    <caption>Respiratory Tract Infections, Their Symptoms, and Dietary Recommendations to Alleviate Symptoms (source: Green et al., 2020; Lucas et al., 2019; Saleri &amp; Ryan, 2019; Thomas &amp; Bomar, 2022)</caption>
+    <caption>Respiratory Tract Infections, Their Symptoms, and Dietary Recommendations to Alleviate Symptoms (sources: Green et al., 2020; Lucas et al., 2019; Saleri &amp; Ryan, 2019; Thomas &amp; Bomar, 2022)</caption>
     </table>
     </section>
     <section id="sect-00008">
@@ -214,7 +213,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00040">Vitamin E</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00005">
-    <item>Stops oxidative damage and lung inflammation* Sunflower, safflower, and soybean oil</item></list>
+    <item>Stops oxidative damage and lung inflammation Sunflower, safflower, and soybean oil</item></list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00006"><item>Almonds</item>
@@ -240,7 +239,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     <item>Bell pepper</item>
     <item>Strawberries</item>
     <item>Tomatoes</item>
-    <item>Cruciferous vegetables (broccoli, brussels sprouts, cabbage)</item>
+    <item>Cruciferous vegetables (broccoli, Brussels sprouts, cabbage)</item>
     </list>
     </entry>
     </row>
@@ -299,7 +298,7 @@ The client presents with mild dry cough for 2 weeks. Client’s chest x-ray show
     </row>
     </tbody>
     </tgroup>
-    <caption>Function of Micronutrients Within the Pulmonary System and Food Examples (source: Allen &amp; Sharma, 2023; Alwarith et al., 2020)</caption>
+    <caption>Function of Micronutrients Within the Pulmonary System and Food Examples (sources: Allen &amp; Sharma, 2023; Alwarith et al., 2020)</caption>
     </table>
     </section>
     <section id="sect-00013">
