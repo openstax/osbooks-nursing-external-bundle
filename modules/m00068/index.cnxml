@@ -14,6 +14,7 @@
   <item>Generate solutions to optimize renal wellness utilizing nutritional habits.</item>
   </list>
   </section>
+  <section id="sect-00006">
   <section id="sect-00002">
   <title>Planning Nutrition Goals</title>
   <para id="para-00002">The nurse should consider a client’s current renal system when planning nutritional goals; therefore, plans will vary accordingly. For the client with healthy kidneys, the goals of nutrition should focus more on dietary needs for comorbidities, including limiting sodium, trans fats, saturated fats, and alcohol; eating appropriate amounts of protein; and maintaining adequate fluid balance.</para>
@@ -46,7 +47,7 @@
     <thead>
     <row>
     <entry valign="top" align="left"><span class="blue-text">Stage</span></entry>
-    <entry valign="top" align="left"><span class="blue-text">GFR&#160;&#160;</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">GFR  </span></entry>
     <entry valign="top" align="left"><span class="blue-text">Function</span></entry>
     <entry valign="top" align="left"><span class="blue-text">Water Intake</span></entry>
     <entry valign="top" align="left"><span class="blue-text">Nutrient Intake</span></entry>
@@ -55,7 +56,7 @@
     <tbody>
     <row>
     <entry valign="top">1</entry>
-    <entry valign="top">>&#160;90&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">> 90 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00003"><item>Working well</item>
     <item>Client unaware of deficiencies</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00004"><item>Increase water intake</item></list></entry>
@@ -63,7 +64,7 @@
     </row>
     <row>
     <entry valign="top">2</entry>
-    <entry valign="top">60–89&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">60–89 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00006"><item>Still functioning</item>
     <item>Client may be asymptomatic or show signs of hypertension</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00007"><item>High water intake</item></list></entry>
@@ -72,7 +73,7 @@
     </row>
     <row>
     <entry valign="top">3A</entry>
-    <entry valign="top">45–59&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">45–59 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00009"><item>Decrease in function, with kidneys starting to decline</item>
     <item>Client will have hypertension</item>
     <item>Client may have anemia, fatigue, anorexia, malnutrition, and bone pain</item></list></entry>
@@ -83,14 +84,14 @@
     </row>
     <row>
     <entry valign="top">3B</entry>
-    <entry valign="top">30–44&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">30–44 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"/>
     <entry valign="top"/>
     <entry valign="top"/>
     </row>
     <row>
     <entry valign="top">4</entry>
-    <entry valign="top">15–29&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">15–29 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00012"><item>Severe decline in kidney function; may need dialysis</item>
     <item>Client will have hypertension, anemia, malnutrition, altered bone metabolism, edema, metabolic acidosis, hypocalcemia, an elevated BUN and creatinine Client may have uremia and azotemia</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00013"><item>Restrict fluids</item></list></entry>
@@ -101,7 +102,7 @@
     </row>
     <row>
     <entry valign="top">5</entry>
-    <entry valign="top">&lt;&#160;15&#160;mL/min/1.73&#160;m<sup>2</sup></entry>
+    <entry valign="top">&lt; 15 mL/min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00015"><item>End-stage renal disease (ESRD)</item>
     <item>Client will have complete kidney failure in which all other symptoms are present and worsened</item>
     <item>Client will have azotemia with overt uremia and require dialysis or renal transplantation to survive</item></list></entry>
@@ -114,7 +115,8 @@
     </tgroup>
     <caption>Nutrient Intake for Clients with CKD, Dependent on Stage of Failure (source: National Kidney Foundation, 2023a)</caption>
     </table>
-  </section></section>
+  </section>
+</section>
   <section id="sect-00005">
   <title>Identifying Challenges to Nutritional Goals</title>
   <para id="para-00011">Many barriers exist for clients with CKD—the more advanced the disease, the higher the likelihood that a client will, either deliberately or accidentally, not follow a nutritional plan. The nutritional plan for clients with CKD restricts fluids, fat, sodium, phosphorus, protein, magnesium, and potassium and increases calcium, which presents many challenges, especially before transplantation. The nurse should counsel the client on the following:</para>
@@ -126,5 +128,6 @@
   <item>Lastly, potassium is found naturally in a variety of fresh and healthy food choices. Many foods that the client was taught to eat before they had CKD to manage hypertension, diabetes, or any number of other comorbidities, will be ones they now have to avoid due to high potassium content. Potassium is the opposite of most other foods on the list—it is high in fresh food options and low in processed food options.</item>
   </list>
   </section>
+</section>
   </content>
   </document>
