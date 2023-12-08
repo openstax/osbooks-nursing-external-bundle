@@ -14,6 +14,7 @@
 <item>Discuss the impact of nutrition on acute exacerbation of chronic renal disorders.</item>
 </list>
 </section>
+<section id="sect-00017">
 <section id="sect-00002">
 <title>Urologic Illnesses</title>
 <para id="para-00002">Many different urologic and renal illnesses are impacted by nutrition. Some of the more common <term class="no-emphasis" id="term-00001">urologic illnesses</term>—illnesses that affect parts of the renal system other than the kidneys—that can be impacted by nutrition include overactive bladder, interstitial cystitis, benign prostatic hyperplasia, and bladder cancer. Each of these has different causes and different nutritional impact based on the pathophysiology of the disease.</para>
@@ -46,7 +47,6 @@
 <para id="para-00012"><term class="no-emphasis" id="term-00008">Nephrolithiasis</term>, commonly referred to as kidney stones, can occur as a single incident or as a chronic condition. Kidney stones can cause a wide range of issues, from extreme pain to kidney failure due to hydronephrosis if they block urine flow and are not treated in a timely manner. Nurses should instruct clients to drink at least 88 oz (2.5 L) of fluids a day to help prevent stone formation (Mobley et al., 2022). Fruit juices are also recommended because they contain citrate, which inhibits calcium oxalate and calcium phosphate stone formation (Dai &amp; Pearle, 2022).</para>
 <para id="para-00013">The type of nutritional modification required depends on the type of stone and its composition (<link target-id="table-00001" document="m00073"/>).</para>
 <table class="vertically-tight" id="table-00001">
-<title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -60,7 +60,8 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Calcium stones</term> (oxalate or phosphate; 75% of stones)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Calcium stones</term><newline/>
+ (oxalate or phosphate; 75% of stones)</entry>
 <entry valign="top" align="left">Calcium oxalate or calcium phosphate</entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00002">
 <item>Avoid foods high in calcium: cheese, yogurt, edamame, calcium-fortified foods, canned sardines/salmon/tuna, tofu, almonds, leafy green vegetables</item>
@@ -72,7 +73,8 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Uric stones</term> (up to 10% of stones)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Uric stones</term><newline/>
+ (up to 10% of stones)</entry>
 <entry valign="top" align="left">Uric acid</entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00003">
 <item>Avoid foods high in purines: red meat, shellfish, trout, scallops, alcohol, foods containing large amounts of high fructose corn syrup</item>
@@ -81,13 +83,15 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Struvite stones</term> (5%–15% of stones)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Struvite stones</term><newline/>
+(5%–15% of stones)</entry>
 <entry valign="top" align="left">Mixture of magnesium, ammonium, phosphate, and calcium carbonate</entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00004"><item>Restrict sodium: microwave meals, canned soups, canned meats, pizza, nuts, pickles, sandwich meats</item>
 <item>Limit intake of oxalate-rich foods</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Cysteine stones</term> (1–2% of all stones but 6–8% of all pediatric stones)</entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Cysteine stones</term><newline/>
+(1–2% of all stones but 6–8% of all pediatric stones)</entry>
 <entry valign="top" align="left">Cysteine</entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Increase consumption of fruits and vegetables</item>
 <item>Increase water intake to 4 L/day</item>
@@ -98,7 +102,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Renal Stone Composition and Nutritional Recommendations (source: Dai &amp; Patel, 2022; Ferraro et al., 2020; Karki &amp; Leslie, 2023; Leslie et al., 2023; Levtchencko et al., 2022; Mobley et al., 2020)</caption>
+<caption>Renal Stone Composition and Nutritional Recommendations (sources: Dai &amp; Patel, 2022; Ferraro et al., 2020; Karki &amp; Leslie, 2023; Leslie et al., 2023; Levtchencko et al., 2022; Mobley et al., 2020)</caption>
 </table>
 </section>
 <section id="sect-00009">
@@ -237,6 +241,7 @@
 <para id="para-00114">Willacy, H. (2022). <emphasis effect="italics">Physiological changes in pregnancy</emphasis>. https://patient.info/doctor/physiological-changes-in-pregnancy</para>
 <para id="para-00115">Williamson, L. (2022, February 25). <emphasis effect="italics">High blood pressure may raise future kidney disease risk for pregnant women</emphasis>. American Heart Association. https://www.heart.org/en/news/2022/02/25/high-blood-pressure-may-raise-future-kidney-disease-risk-for-pregnant-women</para>
 <para id="para-00116">Wing, D., &amp; Johnston, R. (2017). <emphasis effect="italics">Obstetrics and gynecology: Acute pyelonephritis in pregnancy</emphasis>. Cancer Therapy Advisor. https://www.cancertherapyadvisor.com/home/decision-support-in-medicine/obstetrics-and-gynecology/acute-pyelonephritis-in-pregnancy/</para>
+</section>
 </section>
 </content>
 </document>
