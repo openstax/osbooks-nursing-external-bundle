@@ -14,6 +14,7 @@
 <item>Analyze cues to determine the impact of nutrition on the hematological system.</item>
 </list>
 </section>
+<section id="sect-00007">
 <section id="sect-00002">
 <title>Assessment of Nutrition and the Function of the Hematological System</title>
 <para id="para-00002">Early recognition of hematologic abnormalities and <term class="no-emphasis" id="term-00001">micronutrient deficiency</term> signs can lead to prompt interventions. Nurses play a key role in assessment, delivery of age-appropriate intervention, and education aimed at restoration and prevention of recurrence. Through a comprehensive client assessment, the nurse can apply the nursing process specific to nutritional practices that impact hematologic function. Considering the client’s nutritional preferences, the nurse can develop strategies to promote <term class="no-emphasis" id="term-00002">hematologic wellness</term>.</para>
@@ -57,9 +58,9 @@
     <item><term class="no-emphasis" id="term-00019">Fainting</term></item>
     <item>Difficulty sleeping</item>
     <item>Ability to maintain ADLs and recreational activities</item>
-    <item>Unusual <term class="no-emphasis" id="term-00020">food cravings</term> (<emphasis effect="bold"><term id="term-00021">pica</term></emphasis></item>
+    <item>Unusual <term class="no-emphasis" id="term-00020">food cravings</term> (<emphasis effect="bold"><term id="term-00021">pica</term></emphasis>)</item>
     <item><term class="no-emphasis" id="term-00022">Electrocardiogram (ECG) abnormalities</term></item></list></entry>
-<entry valign="top" align="left"><term class="no-emphasis" id="term-00023">Iron</term>, <term class="no-emphasis" id="term-00024">copper</term>, <term class="no-emphasis" id="term-00025">vitamin B<sub>12</sub></term>, <term class="no-emphasis" id="term-00026">vitamin C</term>, <term class="no-emphasis" id="term-00027">Vitamin E</term>, <term class="no-emphasis" id="term-00028">folate</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00023">Iron</term>, <term class="no-emphasis" id="term-00024">copper</term>, <term class="no-emphasis" id="term-00025">vitamin B<sub>12</sub></term>, <term class="no-emphasis" id="term-00026">vitamin C</term>, <term class="no-emphasis" id="term-00027">vitamin E</term>, <term class="no-emphasis" id="term-00028">folate</term></entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><term class="no-emphasis" id="term-00029">Thrombocytopenia</term>/<term class="no-emphasis" id="term-00030">Coagulopathy</term>:</emphasis><newline/>
@@ -94,7 +95,7 @@ Delayed <term class="no-emphasis" id="term-00037">wound healing</term></entry>
 <para id="para-00009"><term class="no-emphasis" id="term-00040">Blood analysis</term> is the primary diagnostic method for evaluating concerns of hematologic changes impacted by nutritional deficiencies; however, nutritional screening, often performed by a registered dietician, should be completed first in a comprehensive assessment (<link target-id="table-00002" document="m00040"/>).</para>
 <para id="para-00010">Some laboratory results can determine the client’s nutritional status. Prealbumin levels can be used to evaluate the client’s protein status. <term class="no-emphasis" id="term-00041">Transferrin</term> is a <term class="no-emphasis" id="term-00042">protein</term> that transports iron through the blood to different tissues and organs and is often measured when iron deficiency is suspected as a cause of anemia. In the evaluation of <term class="no-emphasis" id="term-00043">anemia</term>, complete blood count (CBC), serum iron level, serum vitamin B<sub>12,</sub> and folate levels should also be checked. Blood tests for specific vitamin deficiencies may be necessary for clients who have gastrointestinal <term class="no-emphasis" id="term-00044">malabsorption</term> (Read et al., 2021; Socha et al., 2020).</para>
 <para id="para-00011">When blood results fail to confirm a diagnosis in symptomatic clients, a bone marrow aspiration and/or biopsy may be necessary to evaluate the production of hematologic stem cells and the bone marrow microenvironment for evidence of malfunction.</para>
-<table class="vertically-tight" id="table-00002">
+<table class="vertically-tight alternate-shading" id="table-00002">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -456,6 +457,7 @@ high dose Vitamin B<sub>12</sub> orally daily</item>
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00018"><link class="os-embed" url="#exercise/NUT_Ch9_Sec01_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00019"><link class="os-embed" url="#exercise/NUT_Ch9_Sec01_UCSQ2"/></para></problem></exercise>
 </note>
+</section>
 </section>
 </section>
 </content>
