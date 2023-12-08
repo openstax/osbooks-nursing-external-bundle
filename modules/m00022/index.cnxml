@@ -83,7 +83,7 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Serum albumin (g/dL)</entry>
+    <entry valign="top" align="left">Serum albumin&#160;(g/dL)</entry>
     <entry valign="top" align="left">3.5–4.5</entry>
     <entry valign="top" align="left">3.0–3.49</entry>
     <entry valign="top" align="left">2.5–2.99</entry>
@@ -97,7 +97,7 @@
     <entry valign="top" align="left">6</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Total lymphocytes/mL</entry>
+    <entry valign="top" align="left">Total&#160;lymphocytes/mL</entry>
     <entry valign="top" align="left">> 1,600<newline/>
     ≥ 1.600×10<sup>9</sup>/L
     </entry>
@@ -122,8 +122,8 @@
     <entry valign="top" align="left">3</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Cholesterol (mg/dL)</entry>
-    <entry valign="top" align="left">> 180</entry>
+    <entry valign="top" align="left">Cholesterol&#160;(mg/dL)</entry>
+    <entry valign="top" align="left">&#62; 180</entry>
     <entry valign="top" align="left">140–180</entry>
     <entry valign="top" align="left">100–139</entry>
     <entry valign="top" align="left">&lt; 100</entry>
@@ -520,7 +520,7 @@
     <title>Part A</title>
     <para id="para-00049">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
     <para id="para-00050">The nurse completes a nutritional assessment of Jamal Powell. The client’s past medical history is positive for hypertension, high cholesterol, and obesity.</para>
-    <table class="vertically-tight" id="table-00003">
+    <table class="vertically-tight full-width" id="table-00003">
     <tgroup cols="3">
        <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -535,7 +535,7 @@
     <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00031"><item>Temperature:</item></list></entry>
     <entry valign="top" align="left">98.5°F (36.94°C)</entry>
-    <entry valign="top" align="left" morerows="3">Jamal had blood work drawn the week prior to this visit:<newline/>
+    <entry valign="top" align="left" morerows="6">Jamal had blood work drawn the week prior to this visit:<newline/>
     <list list-type="bulleted" id="list-00046">
     <item>Total cholesterol: 240 mg/dL</item>
     <item>Low-density lipoprotein (LDL): 160 mg/dL</item>
