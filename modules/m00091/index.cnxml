@@ -41,11 +41,11 @@
 <title>Part D</title>
 <para id="para-00011">Read the following clinical scenario and then answer the questions that follow. This case study is a follow-up from Case Study Parts A, B, and C.</para>
 <para id="para-00012">Time flies! Jose is now 74 years old and has a pressure injury. Read through the following summary of Jose’s visit to the wound clinic.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c2" colwidth="1*"/>
+<colspec colnum="3" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Vital Signs</emphasis></span></entry>
@@ -68,11 +68,11 @@
 </row>
 <row>
 <entry valign="top" align="left">Heart rate:</entry>
-<entry valign="top" align="left">80 beats/minute</entry>
+<entry valign="top" align="left">80 beats/min</entry>
 </row>
 <row>
 <entry valign="top" align="left">Respiratory rate:</entry>
-<entry valign="top" align="left">14 breaths/minute</entry>
+<entry valign="top" align="left">14 breaths/min</entry>
 </row>
 <row>
 <entry valign="top" align="left">Pain:</entry>
