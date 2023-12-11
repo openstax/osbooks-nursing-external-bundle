@@ -190,23 +190,18 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Public Health Expertise</emphasis></span> ⇨</entry>
+  <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Public Health Expertise</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Sources of Evidence</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry valign="middle" align="left" morerows="3">Decision makers use their public health expertise and consider evidence from these sources</entry>
-<entry valign="top" align="left">Available public health resources</entry>
-</row>
-<row>
-<entry valign="top" align="left">Community and political preferences and actions</entry>
-</row>
-<row>
-<entry valign="top" align="left">Available research findings</entry>
-</row>
-<row>
-<entry valign="top" align="left">Community health issues and the local context</entry>
+<entry valign="middle" align="left">Decision makers use their public health expertise and consider evidence from these sources:</entry>
+<entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Available public health resources</item>
+  <item>Community and political preferences and actions</item>
+  <item>Available research findings</item>
+  <item>Community health issues and the local context</item></list>
+</entry>
 </row>
 </tbody>
 </tgroup>
