@@ -62,7 +62,7 @@
     <list list-type="bulleted" id="list-00002">
     <item><emphasis effect="bold">Drug Emphasis Tables:</emphasis> These tables list common medications in a drug class with typical administration routes and adult dosing. When relevant, pediatric dosing is listed (as an exception). Both generic and brand names of medications are provided, when applicable, to facilitate nurse communication with clients.</item>
     <item><emphasis effect="bold">Drug Prototype Tables:</emphasis> These tables feature a single representative medication from the preceding drug emphasis table, listing drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications. (When there is only one relevant drug in a class, only a Drug Prototype Table is provided.)</item>
-    <item><emphasis effect="bold">Black Box Warnings:</emphasis> These feature boxes summarize the <link url="https://openstax.org/r/ncbinlm">boxed warning</link> required by the U.S. Food and Drug Administration (FDA) for medications with serious, permanent, or fatal side effects.</item>
+    <item><emphasis effect="bold">FDA Black Box Warnings:</emphasis> These feature boxes summarize the <link url="https://openstax.org/r/ncbinlm">boxed warning</link> required by the U.S. Food and Drug Administration (FDA) for medications with serious, permanent, or fatal side effects.</item>
     <item><emphasis effect="bold">Safety Alerts:</emphasis> These feature boxes summarize additional safety considerations in drug administration and client care, supporting <link url="https://openstax.org/r/qsenorgcoa">Quality and Safety Education for Nurses (QSEN)</link> standards.</item>
     </list>
     </section>
@@ -74,9 +74,9 @@
     <item><emphasis effect="bold">Client Education Boxes:</emphasis> These feature boxes list points the nurse should emphasize in client education, such as foods and medications to avoid, symptoms to report, and when to notify the health care provider.</item>
     <item><emphasis effect="bold">Clinical Tips:</emphasis> These brief feature boxes are practical tips that an experienced nurse might share with a junior colleague—for example, the necessity of monitoring a client's blood pressure to evaluate the effectiveness and safety of a drug or assisting clients in making lifestyle adjustments to enhance their blood pressure.</item>
     <item><emphasis effect="bold">Special Considerations Boxes:</emphasis> These feature boxes highlight differing drug administration and client teaching considerations related to certain client categories, including age/life stage, race/ethnicity/culture, or sex/gender. This feature may serve as an in-class discussion prompt.</item>
-    <item><emphasis effect="bold">Case Studies:</emphasis> This feature box presents a hypothetical client scenario, listing the client’s medical history, current medications, vital signs, and physical examination results. Each scenario is followed by two multiple-choice questions for students to apply their knowledge of evidence-based client care. Some case studies unfold in several parts throughout the chapter, with new information presented on the same client. Case studies can be used as an in-class discussion prompt. The question answers, with explanations, are included in the Answer Key for students at the end of the book.</item>
-    <item><emphasis effect="bold">Link to Learning:</emphasis> This feature box provides online resources, videos, and podcasts that are pertinent to students’ deeper exploration of the topics. The resources improve nursing students’ understanding of how to educate clients about pertinent diseases and medications.</item>
-    <item><emphasis effect="bold">Trending Today:</emphasis> This feature box presents general health care trends and news from a variety of sources. Boxes may contain online resources and videos. This feature may serve as an in-class discussion prompt.</item>
+    <item><emphasis effect="bold">Case Studies:</emphasis> These feature boxes present a hypothetical client scenario, listing the client’s medical history, current medications, vital signs, and physical examination results. Each scenario is followed by two multiple-choice questions for students to apply their knowledge of evidence-based client care. Some case studies unfold in several parts throughout the chapter, with new information presented on the same client. Case studies can be used as an in-class discussion prompt. The question answers, with explanations, are included in the Answer Key for students at the end of the book.</item>
+    <item><emphasis effect="bold">Link to Learning:</emphasis> These feature boxes provide online resources, videos, and podcasts that are pertinent to students’ deeper exploration of the topics. The resources improve nursing students’ understanding of how to educate clients about pertinent diseases and medications.</item>
+    <item><emphasis effect="bold">Trending Today:</emphasis> These feature boxes present general health care trends and news from a variety of sources. Boxes may contain online resources and videos. This feature may serve as an in-class discussion prompt.</item>
     <item><emphasis effect="bold">Off-Label Uses:</emphasis> In some instances, if an “<link url="https://openstax.org/r/fdagovpatie">off-label</link>” use (using an FDA-approved drug for an unapproved indication) is common for a certain medication (such as the prescription of beta blockers for anxiety), the text may mention this so nurses can be aware of the practice.</item>
     </list>
     </section>
@@ -110,13 +110,13 @@
     <section id="sect-00017">
     <title><emphasis effect="bold">Contributing Authors</emphasis></title>
     <para id="para-00022">Stacey Amick, Midlands Technical College</para>
-    <para id="para-00023">Patty Bartzak, Lahey Hospital &amp; Medical Center</para>
+    <para id="para-00023">Patricia Bartzak, Lahey Hospital &amp; Medical Center</para>
     <para id="para-00024">Amy B. Britt, Bon Secours Mercy Health</para>
     <para id="para-00025">Brenda Brown, Georgia Department of Public Health</para>
     <para id="para-00026">Jake Bush, University of West Florida</para>
-    <para id="para-00027">Denise King, Dominican University</para>
+    <para id="para-00027">Denise E. King, Dominican University</para>
     <para id="para-00028">Jennifer Richter, University of West Florida</para>
-    <para id="para-00029">Marjorie Webb, Metropolitan State University</para>
+    <para id="para-00029">Marjorie G. Webb, Metropolitan State University</para>
     <para id="para-00030">Adam Wood, Nova Southeastern University</para>
     </section>
     <section id="sect-00018">
@@ -144,7 +144,7 @@
     <para id="para-00051">Emily Vitale, University of South Florida</para>
     <para id="para-00052">Cynthia Wagner, University of North Georgia</para>
     <para id="para-00053">Antay Waters, East Texas Baptist University</para>
-    <para id="para-00054">Marjorie Webb, Metropolitan State University</para>
+    <para id="para-00054">Marjorie G. Webb, Metropolitan State University</para>
     <para id="para-00055">Nancy Whitehead, Milwaukee Area Technical College</para>
     <para id="para-00056">Christine Wollenhaup, Brenau University</para>
     <para id="para-00057">Matthew Zinder, Georgetown University</para>
@@ -155,7 +155,7 @@
     <para id="para-00059">We realize that students benefit when academic integrity ground rules are established early in the course.  To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
     <figure class="unnumbered" id="fig-00002">
     <media alt="A graphic divides ten items into three categories. The items &quot;Your Original Work&quot; and &quot;Quoting &amp; Crediting Another's Work&quot; are in the &quot;Approved&quot; category. The items &quot;Checking Your Answers Online&quot;, &quot;Group Work&quot;, &quot;Reusing Past Original Work&quot;, &quot;Sharing Answers&quot;, and &quot;Artificial Intelligence, Chatbot Apps&quot; are in the &quot;Ask Instructor&quot; category. The items &quot;Posting Questions &amp; Answers&quot;, &quot;Plagiarizing Work&quot;, and &quot;Getting Others to Do Your Work&quot; are in the &quot;Not Approved&quot; Category."><image mime-type="image/jpg" src="../../media/AcademicIntegritySliderv3-1-column.jpg"/></media></figure>
-    <para id="para-00060">(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license[8])</para>
+    <para id="para-00060">(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</para>
     <para id="para-00061">Visit our <link url="https://openstax.org/r/genially63f">academic integrity slider</link>. Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students.</para>
     <para id="para-00062">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://openstax.org/r/academicintegritya">https://academicintegrity.org/</link>.</para>
     </section>
