@@ -891,23 +891,25 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="left">
   <list list-type="bulleted" id="list-00046">
     <item><emphasis effect="italics">Burkholderia pseudomallei</emphasis> (melioidosis)</item>
-<item><emphasis effect="italics">Coxiella burnetii</emphasis> (Q fever)</item></list>
-Brucella species (brucellosis)<newline/>
-Epsilon toxin (<emphasis effect="italics">Clostridium perfringens</emphasis>)<newline/>
-Ricin toxin (<emphasis effect="italics">Ricinus communis</emphasis>)<newline/>
-Typhus fever (<emphasis effect="italics">Rickettsia prowazekii</emphasis>)<newline/>
-Food and waterborne pathogens such as Diarrheagenic <emphasis effect="italics">E. coli</emphasis>, pathogenic vibrios, Shigella species, Salmonella, Listeria monocytogenes, hepatitis A, <emphasis effect="italics">Cryptosporidium parvum</emphasis>, <emphasis effect="italics">Giardia lamblia</emphasis>, and <emphasis effect="italics">Toxoplasma gondii</emphasis><newline/>
-Mosquito-borne viruses such as WNV, Eastern Equine Encephalitis, Japanese encephalitis virus, yellow fever virus, and Chikungunya virus</entry>
-<entry valign="top" align="left">Nipah and Hendra viruses<newline/>
-Hantaviruses<newline/>
-Tick-borne hemorrhagic fever viruses such as bunyaviruses and flaviviruses<newline/>
-Tick-borne encephalitis complex flaviviruses<newline/>
-Tuberculosis, including drug-resistant TB<newline/>
-Influenza virus<newline/>
-Rabies virus<newline/>
-Prions<newline/>
-Severe acute respiratory syndrome associated coronavirus<newline/>
-Antimicrobial resistance</entry>
+<item><emphasis effect="italics">Coxiella burnetii</emphasis> (Q fever)</item>
+<item>Brucella species (brucellosis)</item>
+<item>Epsilon toxin (<emphasis effect="italics">Clostridium perfringens</emphasis>)</item>
+<item>Ricin toxin (<emphasis effect="italics">Ricinus communis</emphasis>)</item>
+<item>Typhus fever (<emphasis effect="italics">Rickettsia prowazekii</emphasis>)</item>
+<item>Food and waterborne pathogens such as Diarrheagenic <emphasis effect="italics">E. coli</emphasis>, pathogenic vibrios, Shigella species, Salmonella, Listeria monocytogenes, hepatitis A, <emphasis effect="italics">Cryptosporidium parvum</emphasis>, <emphasis effect="italics">Giardia lamblia</emphasis>, and <emphasis effect="italics">Toxoplasma gondii</emphasis></item>
+<item>Mosquito-borne viruses such as WNV, Eastern Equine Encephalitis, Japanese encephalitis virus, yellow fever virus, and Chikungunya virus</item></list></entry>
+<entry valign="top" align="left">
+  <list list-type="bulleted" id="list-00049">
+  <item>Nipah and Hendra viruses</item>
+  <item>Hantaviruses</item>
+  <item>Tick-borne hemorrhagic fever viruses such as bunyaviruses and flaviviruses</item>
+  <item>Tick-borne encephalitis complex flaviviruses</item>
+  <item>Tuberculosis, including drug-resistant TB</item>
+  <item>Influenza virus</item>
+  <item>Rabies virus</item>
+  <item>Prions</item>
+  <item>Severe acute respiratory syndrome associated coronavirus</item>
+  <item>Antimicrobial resistance</item></list></entry>
 </row>
 </tbody>
 </tgroup>
@@ -921,9 +923,9 @@ Antimicrobial resistance</entry>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Infectious Disease</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Pathogen</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Primary Transmission</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Infectious Disease</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Pathogen</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Primary Transmission</span></entry>
 </row>
 </thead>
 <tbody>
