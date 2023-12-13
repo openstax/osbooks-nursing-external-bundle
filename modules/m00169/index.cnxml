@@ -330,7 +330,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="center" namest="c1" nameend="c5"><span class="blue-text"><term class="no-emphasis" id="term-00024"><emphasis effect="bold">Tertiary Prevention</emphasis></term></span></entry>
 </row>
 <row>
-<entry valign="top" align="left" namest="c1" nameend="c4">Treatment to manage the disease post-diagnosis to slow or stop disease progression:
+<entry valign="top" align="left" namest="c1" nameend="c5">Treatment to manage the disease post-diagnosis to slow or stop disease progression:
 <list list-type="bulleted" id="list-00016">
 <item>Referrals for Hep A, B, or C treatment</item>
 <item>Referrals for HIV treatment</item>
@@ -346,7 +346,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00010">
 <title>Foodborne Diseases</title>
 <para id="para-00026">Within the United States, <term class="no-emphasis" id="term-00025">foodborne illness</term> is fairly common, with an estimated one out of every six individuals becoming ill from contaminated food or drinks and approximately 3,000 deaths related to foodborne illnesses each year (CDC, 2022b). <link target-id="table-00005" document="m00169"/> describes the top pathogens responsible for foodborne illnesses and death.</para>
-<table class="alternate-shading" id="table-00005">
+<table class="alternate-shading full-width" id="table-00005">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -451,12 +451,10 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<thead>
+<tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00031"><emphasis effect="bold">Primary Prevention</emphasis></term></span></entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Against Norovirus, Salmonella, and Escherichia Coli</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Against Listeriosis</emphasis></span></entry>
@@ -854,9 +852,9 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="4" colname="c4" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"/></entry>
@@ -915,7 +913,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </tgroup>
 <caption>Bioterrorism EIDs/Pathogens</caption>
 </table>
-<table class="alternate-shading" id="table-00011">
+<table class="alternate-shading full-width" id="table-00011">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
