@@ -68,10 +68,7 @@
 <entry valign="top" align="left" namest="c1" nameend="c2">In a diverse community health setting, Lou, a nurse, provides care for 70-year-old Mrs. Sato, who recently emigrated to the U.S. from Japan. Mrs. Sato has been experiencing symptoms of depression and anxiety since her arrival, impacting her overall well-being. Lou recognizes the importance of applying transcultural nursing principles and utilizes the Giger and Davidhizar Assessment Model to understand and address Mrs. Sato’s unique needs.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Step 1: Gathering Data</emphasis></span></entry>
-</row>
-<row>
-  <entry valign="top" align="left" namest="c1" nameend="c2">Lou creates a safe and nonjudgmental environment for Mrs. Sato to share her experiences.</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Step 1: Gathering Data Lou creates a safe and nonjudgmental environment for Mrs. Sato to share her experiences.</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2">Mrs. Sato’s cultural background: Japanese<newline/>
@@ -82,7 +79,7 @@ Physical health conditions: No significant medical issues reported<newline/>
 Previous experiences with the health care system: Limited exposure to Western medicine</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Step 2: Assessing Six Cultural Phenomena</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Step 2: Assessing Six Cultural Phenomena</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left">1. Communication</entry>
@@ -109,13 +106,13 @@ Previous experiences with the health care system: Limited exposure to Western me
 <entry valign="top" align="left">Mrs. Sato’s genetic and physiological makeup may differ from those of individuals from other cultures, impacting her response to treatment and medications.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Step 3: Analyzing the Data:</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Step 3: Analyzing the Data</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left" namest="c1" nameend="c2">The nurse develops an understanding of the potential influences of cultural factors on Mrs. Sato’s mental health and overall well-being.</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c2">Step 4: Planning and Implementing Culturally-Sensitive Care</entry>
+<entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Step 4: Planning and Implementing Culturally-Sensitive Care</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left">1. Communication</entry>
@@ -157,14 +154,14 @@ Previous experiences with the health care system: Limited exposure to Western me
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="4" colname="c4" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Domain</emphasis></span></entry>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Name</emphasis></span></entry>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Example: Mr. Rodriguez, a 45-year-old male seeking health care in a community clinic.</emphasis></span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Example: Mr. Rodriguez, a 45-year-old male seeking health care in a community clinic</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -252,7 +249,7 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 </table>
 <para id="para-00019">Community health nurses using the Purnell Model would consider factors such as communication styles, family dynamics, health care practices, and dietary preferences within specific cultural groups. For instance, when working with a Hispanic community, a community health nurse using the Purnell model would recognize the importance of language and may utilize interpreters to facilitate effective communication. The nurse would also understand the significance of family involvement in health care decisions and involve family members in the care process. Additionally, the nurse would consider traditional Hispanic food preferences and cultural beliefs around nutrition, incorporating culturally appropriate dietary advice.</para>
 <para id="para-00020">Strengths of the Purnell model include its comprehensive nature and emphasis on understanding each client’s unique cultural background. It provides a structured framework for nurses to assess, plan, and implement care tailored to each client’s cultural needs. The model has also been revised and updated to reflect changes in health care practices and incorporate new research findings.</para>
-<para id="para-00021">Limitations of the Purnell model are its complexity and that it is too time-consuming to apply in a busy clinical setting. This is because the model involves a detailed assessment of all 12 domains of an individual’s culture, including beliefs, values, traditions, and practices. The model also requires nurses and other health care providers to be knowledgeable about a wide range of cultures and to be able to adapt their care to meet the unique needs of each client. Additionally, the model focuses primarily on individual clients and may not adequately address the cultural needs of families or communities.</para>
+<para id="para-00021">Limitations of the Purnell model are its complexity and that it may be too time-consuming to apply in a busy clinical setting. This is because the model involves a detailed assessment of all 12 domains of an individual’s culture, including beliefs, values, traditions, and practices. The model also requires nurses and other health care providers to be knowledgeable about a wide range of cultures. Additionally, the model focuses primarily on individual clients and may not adequately address the cultural needs of families or communities.</para>
 </section>
 <section id="sect-00007">
 <title>Campinha-Bacote’s Process of Cultural Competence in the Delivery of Healthcare Services</title>
@@ -283,7 +280,7 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 <entry valign="top" align="left">The nurse researches Russian cultural values, health beliefs, and customs to gain insight into Mr. Petrov’s cultural background. The nurse learns about the importance of family, the potential stigma associated with mental health in Russian culture, and the role of traditional healing practices.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><span class="blue-text"/></entry>
+<entry valign="top" align="center"><span class="blue-text"/><emphasis effect="bold">Cultural Skill</emphasis></entry>
 <entry valign="top" align="left">During the interaction, the nurse greets Mr. Petrov in Russian and uses culturally appropriate greetings, such as “Здравствуйте” (Hello). They introduce themselves by their name and role, explaining their purpose and the reason for their inquiry. The nurse ensures confidentiality and builds a rapport with Mr. Petrov to foster trust and comfort.</entry>
 </row>
 <row>
@@ -306,8 +303,8 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 </section>
 <section id="sect-00008">
 <title>Strengths and Limitations of Transcultural Nursing Models</title>
-<para id="para-00031">One strength of transcultural nursing models is their emphasis on culturally sensitive care. Culturally sensitive care involves respecting and incorporating clients’ cultural beliefs, practices, and values into health care delivery (Purnell, 2013). This approach can help health care providers better understand and address clients’ unique health needs and concerns from diverse backgrounds. Another strength of these models is their focus on trust-building and good communication. Trust is a critical component of effective health care delivery, and it is often built through good communication and mutual respect between health care providers, including nurses, and clients. Campinha-Bacote (2002) emphasizes the importance of establishing trust and rapport with clients to facilitate effective communication and promote positive health outcomes. Collaborative care is another essential component of transcultural nursing models. It involves working with clients and their families to develop treatment plans that align with their cultural beliefs and values. The Leininger’s Sunrise Model of Transcultural Nursing (2004) emphasizes the importance of collaboration between clients, families, and health care providers to ensure that care is culturally congruent.</para>
-<para id="para-00032">However, despite these strengths, transcultural nursing models also have several limitations. For example, <term id="term-00026">ethnocentrism</term>, or the tendency to view one’s culture as superior to others, can lead nurses to lack understanding and respect for cultural differences. Nurses must be aware of their biases and work to overcome them to provide culturally sensitive care. <term id="term-00027">Cultural imposition</term>, or imposing one’s cultural beliefs and values on others, is another limitation of transcultural nursing models, as it can result in cultural conflicts and misunderstandings. Nurses must be careful not to impose their own cultural views on clients and must work to understand and respect clients’ cultural beliefs and practices. <term id="term-00028">Cultural essentialism</term> can be a limitation of transcultural nursing models. This is the assumption that all members of a particular cultural group share a set of essential traits that define their identity. Nurses must be careful not to make assumptions about clients based on their cultural background and must work to understand and respect the unique needs and experiences of each client. Finally, clients may experience <term id="term-00029">culture shock</term>, another potential limitation of transcultural nursing models. Culture shock is the experience of personal disorientation when confronted with an unfamiliar way of life. Nurses must be aware of this phenomenon and work to understand and address the unique needs of clients experiencing culture shock. <link target-id="table-00004" document="m00211"/> compares the four transcultural models just discussed.</para>
+<para id="para-00031">One strength of transcultural nursing models is their emphasis on culturally sensitive care. Culturally sensitive care involves respecting and incorporating clients’ cultural beliefs, practices, and values into health care delivery (Purnell, 2013). This approach can help health care providers better understand and address the unique health needs and concerns of clients from diverse backgrounds. Another strength of these models is their focus on trust-building and good communication. Trust is a critical component of effective health care delivery, and it is often built through good communication and mutual respect between health care providers, including nurses, and clients. Campinha-Bacote (2002) emphasizes the importance of establishing trust and rapport with clients to facilitate effective communication and promote positive health outcomes. Collaborative care is another essential component of transcultural nursing models. It involves working with clients and their families to develop treatment plans that align with their cultural beliefs and values. Leininger’s Sunrise Model of Transcultural Nursing (2004) emphasizes the importance of collaboration between clients, families, and health care providers to ensure that care is culturally congruent.</para>
+<para id="para-00032">However, despite these strengths, transcultural nursing models also have several limitations. For example, <term id="term-00026">ethnocentrism</term>, or the tendency to view one’s culture as the norm and superior to others, can lead nurses to lack understanding and respect for cultural differences. Nurses must be aware of their biases and work to overcome them to provide culturally sensitive care. <term id="term-00027">Cultural imposition</term>, or imposing one’s cultural beliefs and values on others, is another danger of transcultural nursing models, as it can result in cultural conflicts and misunderstandings. Nurses must be careful not to impose their own cultural views on clients and must work to understand and respect clients’ cultural beliefs and practices. <term id="term-00028">Cultural essentialism</term> can be a limitation of transcultural nursing models. This is the assumption that all members of a particular cultural group share a set of essential traits that define their identity. Nurses must be careful not to make assumptions about clients based on their cultural background and must work to understand and respect the unique needs and experiences of each client. Finally, clients may experience <term id="term-00029">culture shock</term>, another potential limitation of transcultural nursing models. Culture shock is the experience of personal disorientation when confronted with an unfamiliar way of life. Nurses must be aware of this phenomenon and work to understand and address the unique needs of clients experiencing culture shock. <link target-id="table-00004" document="m00211"/> compares the four transcultural models just discussed.</para>
 <table class="vertically-tight alternate-shading" id="table-00004">
 <title/>
 <tgroup cols="5">
@@ -319,7 +316,7 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Theory</emphasis></span></entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Theory of culture care diversity and universality</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Theory of Culture Care Diversity and Universality</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Transcultural Assessment Model</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Model for Cultural Competence</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Process of Cultural Competence</emphasis></span></entry>
@@ -327,32 +324,32 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left">Theorist</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Theorist</emphasis></span></entry>
 <entry valign="top" align="left">Leininger</entry>
 <entry valign="top" align="left">Giger and Davidhizar</entry>
 <entry valign="top" align="left">Purnell</entry>
 <entry valign="top" align="left">Campinha-Bacote</entry>
 </row>
 <row>
-<entry valign="top" align="left">Emphasis</entry>
-<entry valign="top" align="left">The importance of understanding and respecting cultural differences in health care.</entry>
-<entry valign="top" align="left">The assessment of cultural characteristics and their impact on health and illness.</entry>
-<entry valign="top" align="left">The belief that culture affects every aspect of human life, including health and illness.</entry>
-<entry valign="top" align="left">The importance of cultural competence in nursing practice.</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Emphasis</emphasis></span></entry>
+<entry valign="top" align="left">The importance of understanding and respecting cultural differences in health care</entry>
+<entry valign="top" align="left">The assessment of cultural characteristics and their impact on health and illness</entry>
+<entry valign="top" align="left">The belief that culture affects every aspect of human life, including health and illness</entry>
+<entry valign="top" align="left">The importance of cultural competence in nursing practice</entry>
 </row>
 <row>
-<entry valign="top" align="left">Main Tenets</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Main Tenets</emphasis></span></entry>
 <entry valign="top" align="left">Cultural care is essential to nursing; providing culturally congruent care leads to better client outcomes.</entry>
-<entry valign="top" align="left">Includes six cultural phenomena: communication, space, social organization, time, environmental control, and biological variations.</entry>
-<entry valign="top" align="left">Includes 12 domains of culture: communication, family roles and organization, workforce issues, health beliefs and practices, and biocultural ecology.</entry>
-<entry valign="top" align="left">Includes five constructs: cultural awareness, cultural knowledge, cultural skill, cultural encounters, and cultural desire.</entry>
+<entry valign="top" align="left">Includes six cultural phenomena: communication, space, social organization, time, environmental control, and biological variations</entry>
+<entry valign="top" align="left">Includes 12 domains of culture: communication, family roles and organization, workforce issues, health beliefs and practices, and biocultural ecology</entry>
+<entry valign="top" align="left">Includes five constructs: cultural awareness, cultural knowledge, cultural skill, cultural encounters, and cultural desire</entry>
 </row>
 <row>
-<entry valign="top" align="left">Purpose</entry>
-<entry valign="top" align="left">To provide a framework for the delivery of culturally congruent through the study of cultural care.</entry>
-<entry valign="top" align="left">To help nurses assess cultural factors that may affect client care.</entry>
-<entry valign="top" align="left">To help nurses develop the knowledge and skills needed to provide culturally competent care to clients from diverse backgrounds.</entry>
-<entry valign="top" align="left">To help nurses develop the knowledge, skills, and attitudes needed to provide culturally competent care.</entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Purpose</emphasis></span></entry>
+<entry valign="top" align="left">To provide a framework for the delivery of culturally congruent through the study of cultural care</entry>
+<entry valign="top" align="left">To help nurses assess cultural factors that may affect client care</entry>
+<entry valign="top" align="left">To help nurses develop the knowledge and skills needed to provide culturally competent care to clients from diverse backgrounds</entry>
+<entry valign="top" align="left">To help nurses develop the knowledge, skills, and attitudes needed to provide culturally competent care</entry>
 </row>
 </tbody>
 </tgroup>
@@ -375,7 +372,7 @@ The nurse works with a registered dietitian to tailor a diabetes meal plan incor
 </section>
 <section class="section-summary" id="sect-00009">
 <title>Chapter Summary</title>
-<para id="para-00035">Cultural models are frameworks or patterns of thinking and behavior shared among members of a particular cultural group. These models influence how individuals perceive and interpret the world, including their views on health, wellness, and health care. In health care, understanding the cultural models of clients is essential in providing culturally sensitive care. By recognizing and respecting these models, health care providers can effectively communicate, establish trust, and tailor interventions that align with clients’ cultural beliefs and values, ultimately improving client outcomes and satisfaction.</para>
+<para id="para-00035">Cultural models are frameworks or patterns of thinking and behavior shared among members of a particular cultural group. These models influence how individuals perceive and interpret the world, including their views on health, wellness, and health care. Nurses can use these models to effectively communicate, establish trust, and tailor interventions that align with clients’ cultural beliefs and values, ultimately improving client outcomes and satisfaction.</para>
 </section>
 </content>
 <glossary>
