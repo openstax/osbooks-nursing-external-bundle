@@ -139,7 +139,7 @@
         <caption>Drug Prototype Table: Azathioprine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
         <note class="black-box" id="note-00001">
-        <para id="para-00013"><emphasis effect="bold">Azathioprine</emphasis></para>
+            <para id="para-00013"><emphasis effect="bold">Azathioprine</emphasis></para>
         <para id="para-00014">The use of azathioprine increases the risk of malignancy in humans, including post-transplant lymphoma and hepatosplenic T-cell lymphoma.</para>
         <para id="para-00015"><emphasis effect="bold">Mycophenolic Acid</emphasis></para>
         <para id="para-00016">The use of mycophenolic acid increases the risk of fetal toxicity (resulting in pregnancy loss or congenital malformations), malignancies (lymphomas and skin), and susceptibility to bacterial, viral, fungal, protozoal, and opportunistic infections.</para>
@@ -286,9 +286,9 @@
         </tgroup>
         <caption>Drug Prototype: Etanercept (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
-        <note class="black-box" id="note-00002">      
-        <para id="para-00028"><emphasis effect="bold">Biologics and Monoclonal Antibodies</emphasis></para>
-        <para id="para-00029">Biologic drugs and monoclonal antibodies increase the risk for infections including active tuberculosis and invasive fungal infections, as well as bacterial, viral, and other opportunistic infections. They also can increase the risk for certain cancers including lymphomas, melanoma, non-melanoma skin cancer, and Merkel cell carcinoma.</para>
+        <note class="black-box" id="note-00002">
+            <para id="para-00028"><emphasis effect="bold">Biologics and Monoclonal Antibodies</emphasis></para>   
+          <para id="para-00029">Biologic drugs and monoclonal antibodies increase the risk for infections including active tuberculosis and invasive fungal infections, as well as bacterial, viral, and other opportunistic infections. They also can increase the risk for certain cancers including lymphomas, melanoma, non-melanoma skin cancer, and Merkel cell carcinoma.</para>
         </note>
         </section>
         </section>

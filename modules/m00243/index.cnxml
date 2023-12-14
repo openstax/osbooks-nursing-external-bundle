@@ -108,7 +108,7 @@
         <title>COX-2 Inhibitors</title>
         <para id="para-00019"><term class="no-emphasis" id="term-00014">COX-2 inhibitors</term> are a specific class of NSAIDs that selectively target and inhibit the cyclooxygenase-2 (COX-2) enzyme. This class of drugs was developed to provide pain relief and anti-inflammatory effects while minimizing some of the gastrointestinal side effects associated with traditional non-selective NSAIDs, which inhibit both COX-1 and COX-2 enzymes. Celecoxib is the only COX-2 inhibitor on the market in the U.S. See <link target-id="table-00002" document="m00243"/> for additional information.</para>
         <note class="black-box" id="note-00001">
-        <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
+            <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
         <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
         <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
         </note>
@@ -361,7 +361,7 @@
         <caption>Drug Prototype: Methotrexate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
         <note class="black-box" id="note-00002">
-        <para id="para-00037"><emphasis effect="bold">Methotrexate and Gold Salts</emphasis></para>
+            <para id="para-00037"><emphasis effect="bold">Methotrexate and Gold Salts</emphasis></para>
         <para id="para-00038">Methotrexate can cause embryo-fetal toxicity, including fetal death. For non-neoplastic diseases, methotrexate tablets are contraindicated in pregnancy. For neoplastic diseases, advise clients of child-bearing age of the potential risk to a fetus and to use effective contraception.</para>
         <para id="para-00039">Serious adverse reactions, including death, have been reported with methotrexate. Closely monitor for adverse reactions of the bone marrow, gastrointestinal tract, liver, lungs, skin, and kidneys. Withhold or discontinue methotrexate tablets as appropriate.</para>
         </note>
@@ -381,7 +381,7 @@
         <title>Chloroquine</title>
         <para id="para-00045">Chloroquine shares similar properties with hydroxychloroquine. It has been used to treat autoimmune diseases, but its use has decreased due to the availability of hydroxychloroquine, which is considered to have a better safety profile.</para>
         <para id="para-00046"><link target-id="table-00005" document="m00243"/> lists common antimalarial drugs with typical routes and dosing for adult clients.</para>
-              <table class="vertically-tight" id="table-00005">
+              <table class="vertically-tight full-width" id="table-00005">
              <tgroup cols="2">
               <colspec colnum="1" colname="c1" colwidth="1*"/>
               <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -503,7 +503,7 @@
         <title>Probenecid</title>
         <para id="para-00056"><term class="no-emphasis" id="term-00050">Probenecid</term> is classified as a uricosuric agent, which means it works by increasing the excretion of uric acid in the urine. It does this by inhibiting the reabsorption of uric acid in the kidneys, which leads to more uric acid being eliminated from the body through urine. By increasing the excretion of uric acid, probenecid helps lower the levels of uric acid in the blood, reducing the risk of uric acid crystal formation and gout attacks. Probenecid indirectly helps to manage the inflammatory response associated with gout.</para>
         <para id="para-00057"><link target-id="table-00007" document="m00243"/> lists common antigout drugs with typical routes and dosing for adult clients.</para>
-        <table class="vertically-tight" id="table-00007">
+        <table class="vertically-tight full-width" id="table-00007">
         <tgroup cols="2">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
         <colspec colnum="2" colname="c2" colwidth="2*"/>
