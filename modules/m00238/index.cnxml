@@ -1,254 +1,255 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
   <title>Intravenous Fluid Therapy, Total Parenteral Nutrition, and Blood Products</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Intravenous Fluid Therapy, Total Parenteral Nutrition, and Blood Products</md:title>
-    <md:content-id>m00238</md:content-id>
-    <md:uuid>ebb0c339-789a-4633-af6e-e3d1f36a53ac</md:uuid>
+  <md:title>Intravenous Fluid Therapy, Total Parenteral Nutrition, and Blood Products</md:title>
+  <md:content-id>m00238</md:content-id>
+  <md:uuid>ebb0c339-789a-4633-af6e-e3d1f36a53ac</md:uuid>
   </metadata>
   <content>
-<section class="learning-objectives" id="sect-00001">
-<title>Learning Outcomes</title>
-<para id="para-00001">By the end of this section, you should be able to:</para>
-<list id="list-00001">
-<item>Describe types of intravenous solutions.</item>
-<item>Compare and contrast crystalloid and colloid intravenous solutions.</item>
-<item>Define total parenteral nutrition and its uses.</item>
-<item>Discuss the importance of blood and blood products in fluid balance.</item>
-<item>Discuss how intravenous solutions are used to correct fluid imbalances within the body.</item>
-</list>
-</section>
-<para id="para-00002">Fluid volume replacement is an important part of fluid and electrolyte homeostasis within the body. In this section of the chapter, intravenous fluid therapy, total parenteral nutrition, and blood products will be discussed.</para>
-<section id="sect-00002">
-<title>Intravenous Fluid Therapy</title>
-<para id="para-00003"><term id="term-00001">Intravenous (IV) fluid therapy</term> is a medical treatment that involves the administration of fluids directly into a person’s veins through an intravenous catheter. The fluids are typically a combination of water, electrolytes, and other nutrients, depending on the specific needs of the client.</para>
-<para id="para-00004">IV fluid therapy is used for a wide variety of medical conditions including hypovolemia, electrolyte imbalances, and shock. It is commonly used during and after surgical procedures to help maintain fluid balance and prevent complications.</para>
-<para id="para-00005">A health care professional administers IV fluid therapy. The appropriate type and amount of fluid administered is based on the client’s medical history, a thorough physical exam, and laboratory results. The fluids are delivered through an IV catheter, which is inserted into a peripheral vein, or via a central venous access device or mediport. The rate and duration of IV fluid therapy will vary depending on the client’s condition and response to treatment. Therapy may last a few hours, several days, or even weeks. Refer to <link document="m00099">Drug Administration</link> for review of dosage calculation formulas for drops per minute and milliliters per hour as they relate to IV fluid therapy.</para>
-<para id="para-00006">Overall, IV fluid therapy is critical in restoring fluid balance, maintaining blood pressure, and preventing complications related to fluid volume deficit. IV fluid therapy usually involves crystalloid solutions, colloid solutions, total parenteral nutrition, and blood and blood products, all of which will be discussed further in the following sections.</para>
-</section>
-<section id="sect-00003">
-<title>Crystalloid Solutions</title>
-<para id="para-00007"><term id="term-00002">Crystalloid solutions</term> are a type of IV fluid therapy that consists of electrolytes and fluids that can readily cross the capillary walls. These solutions lack proteins that maintain <term id="term-00003">colloidal oncotic pressure</term> (osmotic pressure exerted by large proteins that holds water within the vascular space) that prevents water from leaving the intravascular space (Epstein &amp; Waseem, 2022). These solutions are commonly used for short-term maintenance of fluids and in treating fluid volume deficits. The three main types of crystalloid solutions are isotonic, hypotonic, and hypertonic, which are discussed in the following sections; examples can be seen in <link target-id="table-00001" document="m00238"/>.</para>
-<section id="sect-00004">
-<title>Isotonic Solutions</title>
-<para id="para-00008"><term id="term-00004">Isotonic solutions</term> have the same concentration of dissolved particles, such as sodium and glucose, as the body’s own fluids. This means they have the same approximate osmolality as ECF or plasma. Because of their osmotic equilibrium, water does not enter or leave the cells. Isotonic solutions are typically used to treat conditions such as dehydration caused by vomiting, diarrhea, or excessive sweating, or other conditions that cause fluid volume deficit (Epstein &amp; Waseem, 2022).</para>
-</section>
-<section id="sect-00005">
-<title>Hypotonic Solutions</title>
-<para id="para-00009"><term id="term-00005">Hypotonic solutions</term> have a lower concentration of dissolved particles than the body’s own fluids. This means they exert less osmotic pressure than ECF, which allows water to move into the cell or ICF compartment. Hypotonic solutions are often used to treat intracellular fluid volume deficit conditions, such as diabetic ketoacidosis or hyperosmolar hyperglycemic state (Epstein &amp; Waseem, 2022).</para>
-</section>
-<section id="sect-00006">
-<title>Hypertonic Solutions</title>
-<para id="para-00010"><term id="term-00006">Hypertonic solutions</term> have a higher concentration of dissolved particles than the body’s own fluid, which means they exert greater osmotic pressure than ECF. This results in a higher solute concentration than the serum, thus pulling water from the interstitial space into the ECF and causing cell shrinkage. They are used to treat conditions such as severe hyponatremia (low sodium levels), cerebral edema (swelling of the brain), or increased intracranial pressure (ICP) (Epstein &amp; Waseem, 2022).</para>
-</section>
-</section>
-<section id="sect-00007">
-<title>Colloid Solutions</title>
-<para id="para-00011"><term id="term-00007">Colloid solutions</term>, also known as <emphasis effect="italics">volume expanders</emphasis>, differ from crystalloid solutions in that they contain large molecular structures, such as proteins, carbohydrates, and lipids, which increase their osmolality without dissolving in the solution. Due to their large size, colloid solutions cannot cross the semipermeable membrane of capillary walls and remain confined to the intravascular compartment. These solutions increase the colloidal oncotic pressure, which draws fluid from the interstitial space into plasma, resulting in an increase in blood volume.</para>
-<para id="para-00012">Commonly administered colloidal solutions are listed in <link target-id="table-00001" document="m00238"/> along with their indications and precautions (Crosignani et al., 2022).</para>
-<table class="vertically-tight" id="table-00001">
-<tgroup cols="4">
-<colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
-<tbody>
-<row>
-<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Crystalloid Intravenous Solutions</span></entry>
-</row>
-<row>
-<entry valign="top" align="center"><span class="blue-text">Solution Classification</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Common Fluid Names</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
-</row>
-<row>
-<entry valign="top" align="center">Isotonic</entry>
-<entry valign="top" align="center">Lactated Ringer’s (LR)<newline/>
-0.9% normal saline (NaCl)<newline/>
-5% dextrose in water (D<sub>5</sub>W)</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00002"><item>Rehydration and sodium repletion</item>
-<item>Dextrose supplies calories</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00003"><item>May cause fluid volume excess in clients with heart and renal disorders</item>
-<item>Do not administer to clients with increased intracranial pressure</item></list></entry>
-</row>
-<row>
-<entry valign="top" align="center">Hypotonic</entry>
-<entry valign="top" align="center">0.45% normal saline (1/2 NaCl)<newline/>
-0.33% normal saline (1/3 NaCl)</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00004"><item>Replaces intracellular fluid volume deficit</item>
-<item>Provides free water to allow excretion of body wastes</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Do not administer to clients with increased ICP</item></list></entry>
-</row>
-<row>
-<entry valign="top" align="center">Hypertonic</entry>
-<entry valign="top" align="center">3% normal saline (3% NaCl)<newline/>
-10% dextrose in water (D<sub>10</sub>W)</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Increases serum osmolality</item>
-<item>Corrects severe hyponatremia</item>
-<item>Decreases intracranial pressure (ICP)</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>May cause hypervolemia and pulmonary edema</item>
-<item>High concentrations of dextrose must be administered through a central venous catheter (do not administer through a peripheral intravenous catheter because this may cause vein irritation/damage/or thrombosis)</item>
-<item>Administer via IV infusion device/pump and monitor electrolytes closely</item></list></entry>
-</row>
-<row>
-<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Colloidal Intravenous Solutions</span></entry>
-</row>
-<row>
-<entry valign="top" align="center"><span class="blue-text">Solution Classification</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Fluid Names</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
-</row>
-<row>
-<entry valign="top" align="center">High molecular weight</entry>
-<entry valign="top" align="center">Dextran 75<newline/>
-Dextran 70 6% in 5% dextrose</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Repletion of fluid volume</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Monitor closely for signs of fluid volume excess during therapy</item>
-<item>May interfere with laboratory testing (diluting hemoglobin and hematocrit) and blood typing and cross match—draw blood before administering IV solution</item>
-<item>Contraindicated in clients with heart, kidney, liver, or bleeding disorders</item></list></entry>
-</row>
-<row>
-<entry valign="top" align="center">Hydroxyethyl starch</entry>
-<entry valign="top" align="center">Hetastarch 6%<newline/>
-Hespan<newline/>
-Hextend</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>Repletion of fluid volume</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00011"><item>Monitor closely for signs of circulatory overload such as shortness of breath, high blood pressure, and swelling in legs, ankles, or feet during therapy</item>
-<item>Interferes with platelet function by increasing bleeding time</item>
-<item>Contraindicated in clients with bleeding disorders, or cardiac, kidney, or liver disorders</item></list></entry>
-</row>
-<row>
-<entry valign="top" align="center">Human albumin</entry>
-<entry valign="top" align="center">Albumin 5%<newline/>
-Albumin 25%</entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00012"><item>Albumin 5% is more commonly used in the treatment of volume loss such as in dehydration</item>
-<item>Albumin 25% is the therapeutic choice when either sodium or fluid is restricted or in colloidal osmotic pressure deficiencies</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Monitor closely for signs of fluid volume excess during therapy</item>
-<item>Contraindicated in clients with heart failure or severe anemia</item>
-<item>Hold (do not administer) ACE inhibitors 24 hours before administering albumin due to risk of adverse reactions such as flushing and hypotension (Kumar et al., 2020)</item></list></entry>
-</row>
-</tbody>
-</tgroup>
-<caption>Fluid Replacement: Crystalloid and Colloid Intravenous Solutions (sources: FADIC, n.d.; Rudloff &amp; Hopper, 2021; Tinawi, 2021)</caption>
-</table>
-<note class="safety-alert" id="note-00001">
-<title>Hydroxyethyl Starch (HES) Product Risk</title>
-<para id="para-00013">Use of <term class="no-emphasis" id="term-00008">hydroxyethyl starch (HES) products</term> increases the risk of mortality, kidney injury, and coagulopathy. Do not use HES products (such as hetastarch) unless an adequate alternative treatment is unavailable.</para>
-</note>
-</section>
-<section id="sect-00008">
-<title>Total Parenteral Nutrition</title>
-<para id="para-00014"><term id="term-00009">Total parenteral nutrition (TPN)</term>, also known as <emphasis effect="italics">intravenous nutrition</emphasis>, is a medical treatment that involves administering a specialized nutritional formula directly into a person’s bloodstream through a central venous catheter. The nutritional formula is tailored to the specific needs of the client and typically includes amino acids, carbohydrates, proteins, fats, electrolytes, vitamins, and minerals (Hamdan &amp; Puckett, 2022).</para>
-<para id="para-00015">TPN is used for clients who are unable to receive adequate nutrition through their digestive system due to illness, injury, or surgery. TPN is administered through a central venous catheter (central line, peripherally inserted central catheter, or an implanted port), which is placed in a large vein that terminates in the superior vena cava. The administration rate and duration of TPN depends on the client’s condition and response to treatment (Hamdan &amp; Puckett, 2022).</para>
-<note class="safety-alert" id="note-00002">
-<title>TPN and Peripherally Inserted Venous Catheters</title>
-<para id="para-00016">Due to its high osmolality, TPN should not be administered through a peripheral venous catheter because it can cause vein irritation, damage, or thrombus formation (American Society for Parenteral and Enteral Nutrition, n.d.).</para>
-</note>
-<para id="para-00017">Indications for TPN include:</para>
-<list list-type="bulleted" id="list-00014">
-<item>Severe malnutrition</item>
-<item>Gastrointestinal disorders that prevent the absorption of nutrients</item>
-<item>Severe burns</item>
-<item>Inflammatory bowel disorders or diseases</item>
-<item>Short bowel syndrome</item>
-<item>Cancer or cancer treatments that affect the digestive system</item>
-</list>
-<para id="para-00018">Contraindications for TPN include:</para>
-<list list-type="bulleted" id="list-00015">
-<item>Intestinal obstruction or perforation</item>
-<item>Hepatic impairment</item>
-<item>Kidney impairment</item>
-<item>Uncontrolled diabetes</item>
-<item>Pregnancy and/or breastfeeding</item>
-</list>
-<section id="sect-00009">
-<title>Adverse Effects</title>
-<para id="para-00019">Adverse effects for TPN include:</para>
-<list list-type="bulleted" id="list-00016">
-<item>Catheter site infection</item>
-<item>Fluid volume overload</item>
-<item>Hyperglycemia</item>
-<item>Hypoglycemia if discontinued suddenly</item>
-<item>Parenteral-associated cholestasis</item>
-<item>Bleeding</item>
-<item>Refeeding syndrome</item>
-<item>Venous thrombosis</item>
-</list>
-<para id="para-00020">Clients should be monitored closely until they are stable. Monitoring should include the following (Hamdan &amp; Puckett, 2022.):</para>
-<list list-type="bulleted" id="list-00017">
-<item>Intake and output every 12 hours</item>
-<item>Urine sugar monitoring every 8 hours</item>
-<item>Serum electrolyte levels</item>
-<item>Serum protein levels</item>
-<item>Liver function levels</item>
-</list>
-</section>
-</section>
-<section id="sect-00010">
-<title>Blood and Blood Products</title>
-<para id="para-00021">As you may recall, blood is a complex bodily fluid that is essential for transporting oxygen, nutrients, and hormones to the body’s tissues and organs, as well as removing waste products. Blood products are components of blood that have been separated from whole blood through a process called <term id="term-00010">blood fractionation</term>. This process involves dividing the blood into red blood cells, platelets, and plasma, and then processing and storing them separately (American Red Cross, n.d.).</para>
-<section id="sect-00011">
-<title>Packed Red Blood Cells (PRBCs)</title>
-<para id="para-00022"><term id="term-00011">Packed red blood cells (PRBCs)</term> are a blood product that contains concentrated red blood cells. PRBCs are created by removing most of the plasma from donated blood, leaving behind a concentrated mixture of red blood cells. PRBCs are used to treat conditions such as anemia, blood loss, or other conditions that require a boost in red blood cells. PRBCs are typically stored in a refrigerator unit in a blood bank and have a shelf life of up to 42 days (American Red Cross, n.d.).</para>
-</section>
-<section id="sect-00012">
-<title>Platelets</title>
-<para id="para-00023"><term id="term-00012">Platelets</term> are another type of blood cell that plays a crucial role in blood clotting. They help to plug damaged blood vessels and prevent excessive bleeding. Platelets can be separated from donated blood and are used to treat conditions such as thrombocytopenia, which is a low platelet count (American Red Cross, n.d.).</para>
-</section>
-<section id="sect-00013">
-<title>Fat Emulsions (Lipids)</title>
-<para id="para-00024"><term id="term-00013">Fat emulsions</term>, also known as <emphasis effect="italics">lipids</emphasis>, are a substance found in the bloodstream. They include cholesterol, triglycerides, and other types of fatty acids. Lipids are given to clients who have a deficiency of fatty acids. Lipids are commonly administered along with TPN via piggyback or combined into the total TPN formula (Ahmed et al, 2023; American Red Cross, n.d.; Sepulveda &amp; Pak, 2022).</para>
-</section>
-<section id="sect-00014">
-<title>Cryoprecipitated Anti-hemophilic Factor (Cryo)</title>
-<para id="para-00025"><term id="term-00014">Cryoprecipitated anti-hemophilic factor (cryo)</term>, is a blood product that contains a concentrated mixture of proteins used to treat bleeding disorders such as hemophilia. It is produced by freezing and thawing a unit of plasma and then removing the resulting precipitate. Cryo contains factors such as <term id="term-00015">fibrinogen</term>, <term id="term-00016">von Willebrand factor</term>, and <term id="term-00017">Factor VIII</term>, which are essential for blood clotting (American Red Cross, n.d.; Sachais &amp; Senaldi, 2019).</para>
-</section>
-<section id="sect-00015">
-<title>Blood Typing, Cross-Matching, and Transfusion</title>
-<para id="para-00026">Blood and blood products must be compatible with the recipient’s blood type to minimize the risk of transfusion reactions. Blood typing involves determining the blood group and Rh factor of the donor and the recipient. There are four main blood groups: A, B, AB, and O. Each group can be either Rh positive or Rh negative. The donor blood type is determined by testing for the presence of specific antigens on the surface of red blood cells (American Red Cross, n.d.).</para>
-<para id="para-00027">Cross-matching involves mixing a sample of the donor’s blood with a sample of the recipient’s blood to check for compatibility. This is done to identify any potential reaction between the donor and recipient’s blood, such as the development of antibodies or <term id="term-00018">agglutination</term> (clumping) of the red blood cells (Harris &amp; Crookston, 2022).</para>
-<para id="para-00028">Once the blood has been typed and cross-matched, it can be transfused into the recipient’s bloodstream. An adult client will need a 16-18 gauge IV catheter for rapid transfusions and a 20-22 gauge IV catheter for routine transfusions. A pediatric client will need a 22-25 gauge IV catheter for transfusions. The length of the blood transfusion depends on the amount of blood or blood product being transfused and the rate of infusion. Generally, a unit of PRBCs takes about 2–4 hours to transfuse; other blood products such as platelets may take less time (Lotterman &amp; Sharma, 2022).</para>
-<para id="para-00029">During the transfusion, the client’s vital signs should be monitored regularly and per the facility’s protocol. The client should be observed closely for any signs of a transfusion reaction, which can range from mild to severe. Common reactions to blood transfusions include (Harris &amp; Crookston, 2022; Lotterman &amp; Sharma, 2022):</para>
-<list list-type="bulleted" id="list-00018">
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00019">Febrile reactions</term>:</emphasis> the most common type of transfusion reaction, characterized by a fever and chills</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00020">Allergic reactions</term>:</emphasis> can range from mild itching, hives, and shortness of breath to severe anaphylaxis, which can be life-threatening</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00021">Hemolytic reactions</term>:</emphasis> occur when the body’s immune system attacks the transfused blood cells, causing them to break down</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Transfusion-associated circulatory overload</term>:</emphasis> occurs when the body cannot handle the volume of fluid being transfused, leading to fluid volume excess and/or heart failure</item>
-</list>
-<para id="para-00030">It is important to note that blood transfusions are generally safe and effective when administered properly. Health care providers can take steps to minimize the risk of transfusion reactions, including premedicating with acetaminophen and diphenhydramine. Clients are closely monitored during and after the transfusion to ensure their safety.</para>
-</section>
-</section>
-<section id="sect-00016">
-<title>Correcting Fluid Imbalance</title>
-<para id="para-00031">Fluid imbalance in the body can be corrected by addressing the underlying cause of the imbalance. The goal is to restore the fluid balance through various interventions. The two main types of fluid imbalances are fluid volume deficit and fluid volume excess. Correcting fluid imbalances is critical to promoting normal physiological function.</para>
-<section id="sect-00017">
-<title>Correcting Fluid Volume Deficit</title>
-<para id="para-00032">As you may recall, fluid volume deficit occurs when the body loses more fluid than it takes in. Correction of fluid volume deficit includes oral rehydration with electrolyte solutions and water and treating the underlying cause, such as vomiting, diarrhea, or excessive sweating. IV fluid therapy may need to be administered by a health care professional after a thorough physical examination and review of laboratory values (Melendez-Rivera &amp; Anjum, 2022). Fluid volume deficit is commonly treated with a crystalloid solution (see <link target-id="table-00001" document="m00238"/>); however, it may occasionally require a colloid volume expander and/or blood or blood products to prevent further fluid loss and promote recovery.</para>
-</section>
-<section id="sect-00018">
-<title>Correcting Fluid Volume Excess</title>
-<para id="para-00033">Fluid volume excess occurs when the body retains more fluid than it excretes. Correcting fluid volume excess involves restricting fluid and sodium intake, use of diuretics to increase urine output, and treating the underlying causes, such as heart failure or kidney disorders, to prevent further accumulation of fluid and to promote healing (Ekinci et al., 2018).</para>
-</section>
-</section>
-</content>
-<glossary>
-<definition id="def-00001"><term>agglutination</term> <meaning>the clumping of particles</meaning></definition>
-<definition id="def-00002"><term>blood fractionation</term> <meaning>the process of separating blood into its component parts</meaning></definition>
-<definition id="def-00003"><term>colloid solutions</term> <meaning>a solute in a solution of molecules or ions</meaning></definition>
-<definition id="def-00004"><term>colloidal oncotic pressure</term> <meaning>osmotic pressure that causes fluid to pull back into the capillary, by large molecules such as proteins</meaning></definition>
-<definition id="def-00005"><term>cryoprecipitated anti-hemophilic factor (cryo)</term>  <meaning>a portion of plasma that is rich in clotting factors</meaning></definition>
-<definition id="def-00006"><term>crystalloid solutions</term> <meaning>a solute in a solution that lacks proteins and insoluble molecules</meaning></definition>
-<definition id="def-00007"><term>Factor VIII</term> <meaning>a blood clotting factor when deficient causes bleeding</meaning></definition>
-<definition id="def-00008"><term>fat emulsions</term> <meaning>a liquid composed of fat and water</meaning></definition>
-<definition id="def-00009"><term>fibrinogen</term> <meaning>a protein that assists with forming blood clots</meaning></definition>
-<definition id="def-00010"><term>hypertonic solutions</term> <meaning>a solution with a high solute concentration and a low water concentration</meaning></definition>
-<definition id="def-00011"><term>hypotonic solutions</term> <meaning>a solution with a low solute concentration and a high-water concentration</meaning></definition>
-<definition id="def-00012"><term>intravenous (IV) fluid therapy</term> <meaning>the process of administering fluids through a vein</meaning></definition>
-<definition id="def-00013"><term>isotonic solutions</term> <meaning>a solution that has the same solute and water concentrations as the cytoplasm of the cell.</meaning></definition>
-<definition id="def-00014"><term>packed red blood cells (PRBCs)</term> <meaning>a blood product that contains concentrated red blood cells</meaning></definition>
-<definition id="def-00015"><term>platelets</term> <meaning>cells that are responsible for clotting blood</meaning></definition>
-<definition id="def-00016"><term>total parenteral nutrition (TPN)</term> <meaning>intravenous nutrition</meaning></definition>
-<definition id="def-00017"><term>von Willebrand factor</term> <meaning>a blood disorder that prevents the blood from clotting</meaning></definition>
-</glossary>
-</document>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Outcomes</title>
+  <para id="para-00001">By the end of this section, you should be able to:</para>
+  <list id="list-00001">
+  <item>Describe types of intravenous solutions.</item>
+  <item>Compare and contrast crystalloid and colloid intravenous solutions.</item>
+  <item>Define total parenteral nutrition and its uses.</item>
+  <item>Discuss the importance of blood and blood products in fluid balance.</item>
+  <item>Discuss how intravenous solutions are used to correct fluid imbalances within the body.</item>
+  </list>
+  </section>
+  <para id="para-00002">Fluid volume replacement is an important part of fluid and electrolyte homeostasis within the body. In this section of the chapter, intravenous fluid therapy, total parenteral nutrition, and blood products will be discussed.</para>
+  <section id="sect-00002">
+  <title>Intravenous Fluid Therapy</title>
+  <para id="para-00003"><term id="term-00001">Intravenous (IV) fluid therapy</term> is a medical treatment that involves the administration of fluids directly into a person’s veins through an intravenous catheter. The fluids are typically a combination of water, electrolytes, and other nutrients, depending on the specific needs of the client.</para>
+  <para id="para-00004">IV fluid therapy is used for a wide variety of medical conditions including hypovolemia, electrolyte imbalances, and shock. It is commonly used during and after surgical procedures to help maintain fluid balance and prevent complications.</para>
+  <para id="para-00005">A health care professional administers IV fluid therapy. The appropriate type and amount of fluid administered is based on the client’s medical history, a thorough physical exam, and laboratory results. The fluids are delivered through an IV catheter, which is inserted into a peripheral vein, or via a central venous access device or mediport. The rate and duration of IV fluid therapy will vary depending on the client’s condition and response to treatment. Therapy may last a few hours, several days, or even weeks. Refer to <link document="m00099">Drug Administration</link> for review of dosage calculation formulas for drops per minute and milliliters per hour as they relate to IV fluid therapy.</para>
+  <para id="para-00006">Overall, IV fluid therapy is critical in restoring fluid balance, maintaining blood pressure, and preventing complications related to fluid volume deficit. IV fluid therapy usually involves crystalloid solutions, colloid solutions, total parenteral nutrition, and blood and blood products, all of which will be discussed further in the following sections.</para>
+  </section>
+  <section id="sect-00003">
+  <title>Crystalloid Solutions</title>
+  <para id="para-00007"><term id="term-00002">Crystalloid solutions</term> are a type of IV fluid therapy that consists of electrolytes and fluids that can readily cross the capillary walls. These solutions lack proteins that maintain <term id="term-00003">colloidal oncotic pressure</term> (osmotic pressure exerted by large proteins that holds water within the vascular space) that prevents water from leaving the intravascular space (Epstein &amp; Waseem, 2022). These solutions are commonly used for short-term maintenance of fluids and in treating fluid volume deficits. The three main types of crystalloid solutions are isotonic, hypotonic, and hypertonic, which are discussed in the following sections; examples can be seen in <link target-id="table-00001" document="m00238"/>.</para>
+  <section id="sect-00004">
+  <title>Isotonic Solutions</title>
+  <para id="para-00008"><term id="term-00004">Isotonic solutions</term> have the same concentration of dissolved particles, such as sodium and glucose, as the body’s own fluids. This means they have the same approximate osmolality as ECF or plasma. Because of their osmotic equilibrium, water does not enter or leave the cells. Isotonic solutions are typically used to treat conditions such as dehydration caused by vomiting, diarrhea, or excessive sweating, or other conditions that cause fluid volume deficit (Epstein &amp; Waseem, 2022).</para>
+  </section>
+  <section id="sect-00005">
+  <title>Hypotonic Solutions</title>
+  <para id="para-00009"><term id="term-00005">Hypotonic solutions</term> have a lower concentration of dissolved particles than the body’s own fluids. This means they exert less osmotic pressure than ECF, which allows water to move into the cell or ICF compartment. Hypotonic solutions are often used to treat intracellular fluid volume deficit conditions, such as diabetic ketoacidosis or hyperosmolar hyperglycemic state (Epstein &amp; Waseem, 2022).</para>
+  </section>
+  <section id="sect-00006">
+  <title>Hypertonic Solutions</title>
+  <para id="para-00010"><term id="term-00006">Hypertonic solutions</term> have a higher concentration of dissolved particles than the body’s own fluid, which means they exert greater osmotic pressure than ECF. This results in a higher solute concentration than the serum, thus pulling water from the interstitial space into the ECF and causing cell shrinkage. They are used to treat conditions such as severe hyponatremia (low sodium levels), cerebral edema (swelling of the brain), or increased intracranial pressure (ICP) (Epstein &amp; Waseem, 2022).</para>
+  </section>
+  </section>
+  <section id="sect-00007">
+  <title>Colloid Solutions</title>
+  <para id="para-00011"><term id="term-00007">Colloid solutions</term>, also known as <emphasis effect="italics">volume expanders</emphasis>, differ from crystalloid solutions in that they contain large molecular structures, such as proteins, carbohydrates, and lipids, which increase their osmolality without dissolving in the solution. Due to their large size, colloid solutions cannot cross the semipermeable membrane of capillary walls and remain confined to the intravascular compartment. These solutions increase the colloidal oncotic pressure, which draws fluid from the interstitial space into plasma, resulting in an increase in blood volume.</para>
+  <para id="para-00012">Commonly administered colloidal solutions are listed in <link target-id="table-00001" document="m00238"/> along with their indications and precautions (Crosignani et al., 2022).</para>
+  <table class="vertically-tight" id="table-00001">
+  <tgroup cols="4">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <thead/></thead>
+  <tbody>
+  <row>
+  <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Crystalloid Intravenous Solutions</span></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center"><span class="blue-text">Solution Classification</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Common Fluid Names</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">Isotonic</entry>
+  <entry valign="top" align="center">Lactated Ringer’s (LR)<newline/>
+  0.9% normal saline (NaCl)<newline/>
+  5% dextrose in water (D<sub>5</sub>W)</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00002"><item>Rehydration and sodium repletion</item>
+  <item>Dextrose supplies calories</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00003"><item>May cause fluid volume excess in clients with heart and renal disorders</item>
+  <item>Do not administer to clients with increased intracranial pressure</item></list></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">Hypotonic</entry>
+  <entry valign="top" align="center">0.45% normal saline (1/2 NaCl)<newline/>
+  0.33% normal saline (1/3 NaCl)</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00004"><item>Replaces intracellular fluid volume deficit</item>
+  <item>Provides free water to allow excretion of body wastes</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Do not administer to clients with increased ICP</item></list></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">Hypertonic</entry>
+  <entry valign="top" align="center">3% normal saline (3% NaCl)<newline/>
+  10% dextrose in water (D<sub>10</sub>W)</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Increases serum osmolality</item>
+  <item>Corrects severe hyponatremia</item>
+  <item>Decreases intracranial pressure (ICP)</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>May cause hypervolemia and pulmonary edema</item>
+  <item>High concentrations of dextrose must be administered through a central venous catheter (do not administer through a peripheral intravenous catheter because this may cause vein irritation/damage/or thrombosis)</item>
+  <item>Administer via IV infusion device/pump and monitor electrolytes closely</item></list></entry>
+  </row>
+ <row>
+  <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Colloidal Intravenous Solutions</span></entry>
+ </row>
+  <row>
+  <entry valign="top" align="center"><span class="blue-text">Solution Classification</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Fluid Names</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">High molecular weight</entry>
+  <entry valign="top" align="center">Dextran 75<newline/>
+  Dextran 70 6% in 5% dextrose</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Repletion of fluid volume</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Monitor closely for signs of fluid volume excess during therapy</item>
+  <item>May interfere with laboratory testing (diluting hemoglobin and hematocrit) and blood typing and cross match—draw blood before administering IV solution</item>
+  <item>Contraindicated in clients with heart, kidney, liver, or bleeding disorders</item></list></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">Hydroxyethyl starch</entry>
+  <entry valign="top" align="center">Hetastarch 6%<newline/>
+  Hespan<newline/>
+  Hextend</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>Repletion of fluid volume</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00011"><item>Monitor closely for signs of circulatory overload such as shortness of breath, high blood pressure, and swelling in legs, ankles, or feet during therapy</item>
+  <item>Interferes with platelet function by increasing bleeding time</item>
+  <item>Contraindicated in clients with bleeding disorders, or cardiac, kidney, or liver disorders</item></list></entry>
+  </row>
+  <row>
+  <entry valign="top" align="center">Human albumin</entry>
+  <entry valign="top" align="center">Albumin 5%<newline/>
+  Albumin 25%</entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00012"><item>Albumin 5% is more commonly used in the treatment of volume loss such as in dehydration</item>
+  <item>Albumin 25% is the therapeutic choice when either sodium or fluid is restricted or in colloidal osmotic pressure deficiencies</item></list></entry>
+  <entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Monitor closely for signs of fluid volume excess during therapy</item>
+  <item>Contraindicated in clients with heart failure or severe anemia</item>
+  <item>Hold (do not administer) ACE inhibitors 24 hours before administering albumin due to risk of adverse reactions such as flushing and hypotension (Kumar et al., 2020)</item></list></entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption>Fluid Replacement: Crystalloid and Colloid Intravenous Solutions (sources: FADIC, n.d.; Rudloff &amp; Hopper, 2021; Tinawi, 2021)</caption>
+  </table>
+  <note class="safety-alert" id="note-00001">
+  <title>Hydroxyethyl Starch (HES) Product Risk</title>
+  <para id="para-00013">Use of <term class="no-emphasis" id="term-00008">hydroxyethyl starch (HES) products</term> increases the risk of mortality, kidney injury, and coagulopathy. Do not use HES products (such as hetastarch) unless an adequate alternative treatment is unavailable.</para>
+  </note>
+  </section>
+  <section id="sect-00008">
+  <title>Total Parenteral Nutrition</title>
+  <para id="para-00014"><term id="term-00009">Total parenteral nutrition (TPN)</term>, also known as <emphasis effect="italics">intravenous nutrition</emphasis>, is a medical treatment that involves administering a specialized nutritional formula directly into a person’s bloodstream through a central venous catheter. The nutritional formula is tailored to the specific needs of the client and typically includes amino acids, carbohydrates, proteins, fats, electrolytes, vitamins, and minerals (Hamdan &amp; Puckett, 2022).</para>
+  <para id="para-00015">TPN is used for clients who are unable to receive adequate nutrition through their digestive system due to illness, injury, or surgery. TPN is administered through a central venous catheter (central line, peripherally inserted central catheter, or an implanted port), which is placed in a large vein that terminates in the superior vena cava. The administration rate and duration of TPN depends on the client’s condition and response to treatment (Hamdan &amp; Puckett, 2022).</para>
+  <note class="safety-alert" id="note-00002">
+  <title>TPN and Peripherally Inserted Venous Catheters</title>
+  <para id="para-00016">Due to its high osmolality, TPN should not be administered through a peripheral venous catheter because it can cause vein irritation, damage, or thrombus formation (American Society for Parenteral and Enteral Nutrition, n.d.).</para>
+  </note>
+  <para id="para-00017">Indications for TPN include:</para>
+  <list list-type="bulleted" id="list-00014">
+  <item>Severe malnutrition</item>
+  <item>Gastrointestinal disorders that prevent the absorption of nutrients</item>
+  <item>Severe burns</item>
+  <item>Inflammatory bowel disorders or diseases</item>
+  <item>Short bowel syndrome</item>
+  <item>Cancer or cancer treatments that affect the digestive system</item>
+  </list>
+  <para id="para-00018">Contraindications for TPN include:</para>
+  <list list-type="bulleted" id="list-00015">
+  <item>Intestinal obstruction or perforation</item>
+  <item>Hepatic impairment</item>
+  <item>Kidney impairment</item>
+  <item>Uncontrolled diabetes</item>
+  <item>Pregnancy and/or breastfeeding</item>
+  </list>
+  <section id="sect-00009">
+  <title>Adverse Effects</title>
+  <para id="para-00019">Adverse effects for TPN include:</para>
+  <list list-type="bulleted" id="list-00016">
+  <item>Catheter site infection</item>
+  <item>Fluid volume overload</item>
+  <item>Hyperglycemia</item>
+  <item>Hypoglycemia if discontinued suddenly</item>
+  <item>Parenteral-associated cholestasis</item>
+  <item>Bleeding</item>
+  <item>Refeeding syndrome</item>
+  <item>Venous thrombosis</item>
+  </list>
+  <para id="para-00020">Clients should be monitored closely until they are stable. Monitoring should include the following (Hamdan &amp; Puckett, 2022.):</para>
+  <list list-type="bulleted" id="list-00017">
+  <item>Intake and output every 12 hours</item>
+  <item>Urine sugar monitoring every 8 hours</item>
+  <item>Serum electrolyte levels</item>
+  <item>Serum protein levels</item>
+  <item>Liver function levels</item>
+  </list>
+  </section>
+  </section>
+  <section id="sect-00010">
+  <title>Blood and Blood Products</title>
+  <para id="para-00021">As you may recall, blood is a complex bodily fluid that is essential for transporting oxygen, nutrients, and hormones to the body’s tissues and organs, as well as removing waste products. Blood products are components of blood that have been separated from whole blood through a process called <term id="term-00010">blood fractionation</term>. This process involves dividing the blood into red blood cells, platelets, and plasma, and then processing and storing them separately (American Red Cross, n.d.).</para>
+  <section id="sect-00011">
+  <title>Packed Red Blood Cells (PRBCs)</title>
+  <para id="para-00022"><term id="term-00011">Packed red blood cells (PRBCs)</term> are a blood product that contains concentrated red blood cells. PRBCs are created by removing most of the plasma from donated blood, leaving behind a concentrated mixture of red blood cells. PRBCs are used to treat conditions such as anemia, blood loss, or other conditions that require a boost in red blood cells. PRBCs are typically stored in a refrigerator unit in a blood bank and have a shelf life of up to 42 days (American Red Cross, n.d.).</para>
+  </section>
+  <section id="sect-00012">
+  <title>Platelets</title>
+  <para id="para-00023"><term id="term-00012">Platelets</term> are another type of blood cell that plays a crucial role in blood clotting. They help to plug damaged blood vessels and prevent excessive bleeding. Platelets can be separated from donated blood and are used to treat conditions such as thrombocytopenia, which is a low platelet count (American Red Cross, n.d.).</para>
+  </section>
+  <section id="sect-00013">
+  <title>Fat Emulsions (Lipids)</title>
+  <para id="para-00024"><term id="term-00013">Fat emulsions</term>, also known as <emphasis effect="italics">lipids</emphasis>, are a substance found in the bloodstream. They include cholesterol, triglycerides, and other types of fatty acids. Lipids are given to clients who have a deficiency of fatty acids. Lipids are commonly administered along with TPN via piggyback or combined into the total TPN formula (Ahmed et al, 2023; American Red Cross, n.d.; Sepulveda &amp; Pak, 2022).</para>
+  </section>
+  <section id="sect-00014">
+  <title>Cryoprecipitated Anti-hemophilic Factor (Cryo)</title>
+  <para id="para-00025"><term id="term-00014">Cryoprecipitated anti-hemophilic factor (cryo)</term>, is a blood product that contains a concentrated mixture of proteins used to treat bleeding disorders such as hemophilia. It is produced by freezing and thawing a unit of plasma and then removing the resulting precipitate. Cryo contains factors such as <term id="term-00015">fibrinogen</term>, <term id="term-00016">von Willebrand factor</term>, and <term id="term-00017">Factor VIII</term>, which are essential for blood clotting (American Red Cross, n.d.; Sachais &amp; Senaldi, 2019).</para>
+  </section>
+  <section id="sect-00015">
+  <title>Blood Typing, Cross-Matching, and Transfusion</title>
+  <para id="para-00026">Blood and blood products must be compatible with the recipient’s blood type to minimize the risk of transfusion reactions. Blood typing involves determining the blood group and Rh factor of the donor and the recipient. There are four main blood groups: A, B, AB, and O. Each group can be either Rh positive or Rh negative. The donor blood type is determined by testing for the presence of specific antigens on the surface of red blood cells (American Red Cross, n.d.).</para>
+  <para id="para-00027">Cross-matching involves mixing a sample of the donor’s blood with a sample of the recipient’s blood to check for compatibility. This is done to identify any potential reaction between the donor and recipient’s blood, such as the development of antibodies or <term id="term-00018">agglutination</term> (clumping) of the red blood cells (Harris &amp; Crookston, 2022).</para>
+  <para id="para-00028">Once the blood has been typed and cross-matched, it can be transfused into the recipient’s bloodstream. An adult client will need a 16-18 gauge IV catheter for rapid transfusions and a 20-22 gauge IV catheter for routine transfusions. A pediatric client will need a 22-25 gauge IV catheter for transfusions. The length of the blood transfusion depends on the amount of blood or blood product being transfused and the rate of infusion. Generally, a unit of PRBCs takes about 2–4 hours to transfuse; other blood products such as platelets may take less time (Lotterman &amp; Sharma, 2022).</para>
+  <para id="para-00029">During the transfusion, the client’s vital signs should be monitored regularly and per the facility’s protocol. The client should be observed closely for any signs of a transfusion reaction, which can range from mild to severe. Common reactions to blood transfusions include (Harris &amp; Crookston, 2022; Lotterman &amp; Sharma, 2022):</para>
+  <list list-type="bulleted" id="list-00018">
+  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00019">Febrile reactions</term>:</emphasis> the most common type of transfusion reaction, characterized by a fever and chills</item>
+  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00020">Allergic reactions</term>:</emphasis> can range from mild itching, hives, and shortness of breath to severe anaphylaxis, which can be life-threatening</item>
+  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00021">Hemolytic reactions</term>:</emphasis> occur when the body’s immune system attacks the transfused blood cells, causing them to break down</item>
+  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Transfusion-associated circulatory overload</term>:</emphasis> occurs when the body cannot handle the volume of fluid being transfused, leading to fluid volume excess and/or heart failure</item>
+  </list>
+  <para id="para-00030">It is important to note that blood transfusions are generally safe and effective when administered properly. Health care providers can take steps to minimize the risk of transfusion reactions, including premedicating with acetaminophen and diphenhydramine. Clients are closely monitored during and after the transfusion to ensure their safety.</para>
+  </section>
+  </section>
+  <section id="sect-00016">
+  <title>Correcting Fluid Imbalance</title>
+  <para id="para-00031">Fluid imbalance in the body can be corrected by addressing the underlying cause of the imbalance. The goal is to restore the fluid balance through various interventions. The two main types of fluid imbalances are fluid volume deficit and fluid volume excess. Correcting fluid imbalances is critical to promoting normal physiological function.</para>
+  <section id="sect-00017">
+  <title>Correcting Fluid Volume Deficit</title>
+  <para id="para-00032">As you may recall, fluid volume deficit occurs when the body loses more fluid than it takes in. Correction of fluid volume deficit includes oral rehydration with electrolyte solutions and water and treating the underlying cause, such as vomiting, diarrhea, or excessive sweating. IV fluid therapy may need to be administered by a health care professional after a thorough physical examination and review of laboratory values (Melendez-Rivera &amp; Anjum, 2022). Fluid volume deficit is commonly treated with a crystalloid solution (see <link target-id="table-00001" document="m00238"/>); however, it may occasionally require a colloid volume expander and/or blood or blood products to prevent further fluid loss and promote recovery.</para>
+  </section>
+  <section id="sect-00018">
+  <title>Correcting Fluid Volume Excess</title>
+  <para id="para-00033">Fluid volume excess occurs when the body retains more fluid than it excretes. Correcting fluid volume excess involves restricting fluid and sodium intake, use of diuretics to increase urine output, and treating the underlying causes, such as heart failure or kidney disorders, to prevent further accumulation of fluid and to promote healing (Ekinci et al., 2018).</para>
+  </section>
+  </section>
+  </content>
+  <glossary>
+  <definition id="def-00001"><term>agglutination</term> <meaning>the clumping of particles</meaning></definition>
+  <definition id="def-00002"><term>blood fractionation</term> <meaning>the process of separating blood into its component parts</meaning></definition>
+  <definition id="def-00003"><term>colloid solutions</term> <meaning>a solute in a solution of molecules or ions</meaning></definition>
+  <definition id="def-00004"><term>colloidal oncotic pressure</term> <meaning>osmotic pressure that causes fluid to pull back into the capillary, by large molecules such as proteins</meaning></definition>
+  <definition id="def-00005"><term>cryoprecipitated anti-hemophilic factor (cryo)</term>  <meaning>a portion of plasma that is rich in clotting factors</meaning></definition>
+  <definition id="def-00006"><term>crystalloid solutions</term> <meaning>a solute in a solution that lacks proteins and insoluble molecules</meaning></definition>
+  <definition id="def-00007"><term>Factor VIII</term> <meaning>a blood clotting factor when deficient causes bleeding</meaning></definition>
+  <definition id="def-00008"><term>fat emulsions</term> <meaning>a liquid composed of fat and water</meaning></definition>
+  <definition id="def-00009"><term>fibrinogen</term> <meaning>a protein that assists with forming blood clots</meaning></definition>
+  <definition id="def-00010"><term>hypertonic solutions</term> <meaning>a solution with a high solute concentration and a low water concentration</meaning></definition>
+  <definition id="def-00011"><term>hypotonic solutions</term> <meaning>a solution with a low solute concentration and a high-water concentration</meaning></definition>
+  <definition id="def-00012"><term>intravenous (IV) fluid therapy</term> <meaning>the process of administering fluids through a vein</meaning></definition>
+  <definition id="def-00013"><term>isotonic solutions</term> <meaning>a solution that has the same solute and water concentrations as the cytoplasm of the cell.</meaning></definition>
+  <definition id="def-00014"><term>packed red blood cells (PRBCs)</term> <meaning>a blood product that contains concentrated red blood cells</meaning></definition>
+  <definition id="def-00015"><term>platelets</term> <meaning>cells that are responsible for clotting blood</meaning></definition>
+  <definition id="def-00016"><term>total parenteral nutrition (TPN)</term> <meaning>intravenous nutrition</meaning></definition>
+  <definition id="def-00017"><term>von Willebrand factor</term> <meaning>a blood disorder that prevents the blood from clotting</meaning></definition>
+  </glossary>
+  </document>
