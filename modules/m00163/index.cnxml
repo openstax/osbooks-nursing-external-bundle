@@ -8,7 +8,7 @@
   <content>
 <section class="learning-objectives" id="sect-00001">
 <title>Learning Outcomes</title>
-<para id="para-00001">By the end of this section, you will be able to:</para>
+<para id="para-00001">By the end of this section, you should be able to:</para>
 <list id="list-00001">
 <item>Define significant terms related to disease occurrence in a population.</item>
 <item>Discuss mathematical terms used in epidemiology.</item>
@@ -26,14 +26,13 @@
 <section id="sect-00003">
 <title>Ratios</title>
 <para id="para-00005">A <term id="term-00007">ratio</term> is a comparison of any two values, calculated by dividing one interval by the other. The numerator and denominator do not have to be related. After dividing the denominator with the numerator, the result is expressed as the result “to one” or “:1” See <link target-id="note-00001" document="m00163">Box 12.1</link> for more detail on the calculation.</para>
-<para id="para-00006">Ratios can be used as a descriptive measure, such as describing the male-to-female ratio of participants in a study. They can also be used in calculations for the occurrence of illness or death between two groups. <term id="term-00008">Death-to-case ratio</term> is used as a measure of illness severity as it refers to the number of deaths attributed to a disease during a specific period of time divided by the number of new cases during the same period. As an example, rabies has a death-to-case ratio of almost 1, meaning that almost everyone who develops it dies from it (CDC, 2012).</para>
-
+<para id="para-00006">Ratios can be used as a descriptive measure, such as describing the man-to-woman ratio of participants in a study. They can also be used in calculations for the occurrence of illness or death between two groups. <term id="term-00008">Death-to-case ratio</term> is used as a measure of illness severity because it refers to the number of deaths attributed to a disease during a specific period of time divided by the number of new cases during the same period. As an example, rabies has a death-to-case ratio of almost 1, meaning that almost everyone who develops it dies from it (CDC, 2012).</para>
 <note class="boxed-feature" id="note-00001">
 <title>Box 12.1: Calculating Ratios</title>
 <para id="para-00007"><emphasis effect="bold">Recall that:</emphasis></para>
 <para id="para-00153"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">0</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn></m:math></para>
 <para id="para-00154"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">1</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn></m:math></para>
-<para id="para-00157">10<sup>2</sup> = 10 × 10 = 100</para>
+<para id="para-00157"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">2</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo> <m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">00</m:mn></m:math></para>
 <para id="para-00155"><m:math><m:msup><m:mn mathvariant="bold">10</m:mn><m:mn mathvariant="bold">3</m:mn></m:msup><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">10</m:mn><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">=</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">1</m:mn><m:mo mathvariant="bold">,</m:mo><m:mn mathvariant="bold">000</m:mn></m:math></para>
 <para id="para-00008"><emphasis effect="bold">Basic Calculation for Ratios</emphasis></para>
 <m:math><m:mo>(</m:mo><m:mi>Numerator</m:mi><m:mo>÷</m:mo><m:mi>Denominator</m:mi><m:mo>)</m:mo><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>
