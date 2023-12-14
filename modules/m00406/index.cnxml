@@ -40,11 +40,13 @@
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Desmopressin (DDAVP, Stimate)</term></entry>
 <entry valign="top" align="left">Individualized based on condition being treated and severity of symptoms.<newline/>Typical dose: 2–4 mcg orally in 1–2 daily doses. Close monitoring is recommended.</entry>

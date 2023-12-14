@@ -53,11 +53,13 @@
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <tbody>
+ <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Calcium acetate</term> (<term class="no-emphasis" id="term-00009">PhosLo, Eliphos</term>)</entry>
   <entry valign="top" align="left"><emphasis effect="italics">Hyperphosphatemia (in chronic kidney disease):</emphasis> 1,334 mg orally daily with each meal.</entry>
@@ -125,11 +127,13 @@
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <tbody>
+  <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00019">Ergocalciferol</term> (<term class="no-emphasis" id="term-00020">Drisdol</term>)</entry>
   <entry valign="top" align="left"><emphasis effect="italics">Hypoparathyroidism:</emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 50,000–200,000 units daily concomitantly with calcium lactate 4 g, six times daily.</entry>
@@ -190,11 +194,13 @@
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <tbody>
+  <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00026">Alendronate</term> (<term class="no-emphasis" id="term-00027">Fosamax</term>)</entry>
   <entry valign="top" align="left"><emphasis effect="italics">Treatment of osteoporosis:</emphasis><newline/><emphasis effect="italics">Daily dosing:</emphasis> 5–10 mg orally in the morning.<newline/><emphasis effect="italics">Weekly dosing:</emphasis> 70 mg orally in the morning.</entry>

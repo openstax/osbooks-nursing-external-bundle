@@ -63,7 +63,7 @@
   <colspec colnum="3" colname="c3" colwidth="1*"/>
   <colspec colnum="4" colname="c4" colwidth="1*"/>
   <colspec colnum="5" colname="c5" colwidth="1*"/>
-  <tbody>
+  <thead>
   <row>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Onset</span></emphasis></entry>
@@ -71,6 +71,8 @@
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Duration</span></emphasis></entry>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Method</span></emphasis></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00003"><emphasis effect="bold"><emphasis effect="italics">Rapid-acting insulin</emphasis></emphasis></term><newline/>
   <term class="no-emphasis" id="term-00027">Insulin aspart</term><newline/>

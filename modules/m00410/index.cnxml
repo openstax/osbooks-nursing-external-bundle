@@ -39,11 +39,13 @@
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <tbody>
+  <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Levothyroxine sodium</term> (<term class="no-emphasis" id="term-00004">Synthroid, Levoxyl</term>)</entry>
   <entry valign="top" align="left">Individualized dosing due to a narrow therapeutic index.<newline/>
@@ -181,11 +183,13 @@
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <tbody>
+  <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
   </row>
+</thead>
+  <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00015">Methimazole</term> (<term class="no-emphasis" id="term-00016">Tapazole</term>)</entry>
   <entry valign="top" align="left"><emphasis effect="italics">Mild hyperthyroidism:</emphasis> 15 mg orally daily.<newline/>
@@ -305,12 +309,14 @@
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
-  <tbody>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+ <thead>
   <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Vital Signs</emphasis></span></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
   <row>
   <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
 <entry valign="top" align="left">98.3°F</entry>

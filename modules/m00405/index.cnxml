@@ -50,11 +50,13 @@
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Routes and Dosage Ranges</emphasis></span></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Bromocriptine mesylate (Parlodel)</term></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Acromegaly</emphasis></span><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase by 1.25–2.5 mg every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 20–30 mg/day, in divided doses. Maximum dose: 100 mg/day.<newline/><emphasis effect="italics">Children:</emphasis> Not Food and Drug Administration (FDA) approved for children.<newline/><emphasis effect="bold"><span class="blue-text">Prolactin-Secreting Pituitary Adenoma</span></emphasis><newline/><emphasis effect="italics">Adults:</emphasis> 1.25–2.5 mg orally once daily. May increase every 2–7 days until optimal therapeutic response is achieved. Typical maintenance dose: 2.5–15 mg/day.<newline/><emphasis effect="italics">Children 11–15 years of age:</emphasis> Initial dose: One-half to one, 2–5 mg scored tablet, orally once daily. Dosing may need to be increased as tolerated until a therapeutic response is achieved. Therapeutic dosage: 2.5–10 mg daily.</entry>
