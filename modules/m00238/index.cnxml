@@ -51,7 +51,7 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
-<thead>
+<tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Crystalloid Intravenous Solutions</span></entry>
 </row>
@@ -61,8 +61,6 @@
 <entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
 <entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry valign="top" align="center">Isotonic</entry>
 <entry valign="top" align="center">Lactated Ringer’s (LR)<newline/>
@@ -92,8 +90,6 @@
 <item>High concentrations of dextrose must be administered through a central venous catheter (do not administer through a peripheral intravenous catheter because this may cause vein irritation/damage/or thrombosis)</item>
 <item>Administer via IV infusion device/pump and monitor electrolytes closely</item></list></entry>
 </row>
-</tbody>
-<thead>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Colloidal Intravenous Solutions</span></entry>
 </row>
@@ -103,8 +99,6 @@
 <entry valign="top" align="center"><span class="blue-text">Indications</span></entry>
 <entry valign="top" align="center"><span class="blue-text">Precautions</span></entry>
 </row>
-</thead>
-<tbody>
 <row>
 <entry valign="top" align="center">High molecular weight</entry>
 <entry valign="top" align="center">Dextran 75<newline/>
