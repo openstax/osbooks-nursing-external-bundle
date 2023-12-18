@@ -242,7 +242,7 @@
 <para id="para-00128">Calculate the OR as follows:</para>
 <para id="para-00129"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>190</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>140</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>79</m:mn></m:math></para>
 <para id="para-00130">Now, using the same data in the table, calculate the RR as follows:</para>
-<para id="para-00131"><m:math><m:mfrac><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mn>190</m:mn><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>190</m:mn></m:mfrac></m:mstyle></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mn>140</m:mn><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>140</m:mn></m:mfrac></m:mstyle></m:mrow></m:mfenced></m:mfrac><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>28</m:mn></m:math></para>
+<para id="para-00131"><m:math><m:mfrac><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mrow><m:mn>190</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>190</m:mn></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mrow><m:mn>140</m:mn></m:mrow><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>140</m:mn></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mfenced></m:mfrac><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>6</m:mn><m:mo>.</m:mo><m:mn>28</m:mn></m:math></para>
 <para id="para-00132">The OR and the RR are close as the OR provides a realistic estimation of the RR.</para>
 </note>
 </section>
