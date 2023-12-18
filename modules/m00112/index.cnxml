@@ -40,8 +40,8 @@
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <colspec colnum="3" colname="c3" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="1*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><span class="blue-text">Essential Public Health Service</span></entry>
@@ -52,7 +52,7 @@
     <tbody>
     <row>
     <entry valign="top" align="left">1. Assess and monitor population health status, factors that influence health, and community needs and assets</entry>
-    <entry valign="top" align="left">Assessment: Public health agencies and professionals collect, analyze, and evaluate data to understand the barriers, opportunities, and status of health in a population. Data is also used to identify health disparities and determine the need for resources to facilitate health and ameliorate injustices.</entry>
+    <entry valign="top" align="left">Assessment: Public health agencies and professionals collect, analyze, and evaluate data to understand the barriers, opportunities, and status of health in a population. Data are also used to identify health disparities and determine the need for resources to facilitate health and ameliorate injustices.</entry>
     <entry valign="top" align="left">Identify <term class="no-emphasis" id="term-00005">inequities</term> and monitor progress in ameliorating them</entry>
     </row>
     <row>
@@ -63,7 +63,7 @@
     <row>
     <entry valign="top" align="left">3. Communicate effectively to inform and educate people about health, factors that influence it, and how to improve it</entry>
     <entry valign="top" align="left">Assessment, policy development, assurance: Effective communication raises awareness and secures support for public health issues. Through effective communication, public health information is shared with community members and affected groups. Healthy behaviors and engagement in current public health services can be promoted. Effective communication supports involvement of community members as they can access accurate and timely health information and services.</entry>
-    <entry valign="top" align="left">Provide accessible and evidence-based health information to all people in order to empower clients, families, and communities in their own health processes</entry>
+    <entry valign="top" align="left">Provide accessible and evidence-based health information to all people to empower clients, families, and communities in their own health processes</entry>
     </row>
     <row>
     <entry valign="top" align="left">4. Strengthen, support, and mobilize communities and partnerships to improve health</entry>
