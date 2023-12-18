@@ -122,7 +122,7 @@
 <para id="para-00069"><emphasis effect="bold">Case-Fatality Rate</emphasis></para>
 <para id="para-00070">A <term class="no-emphasis" id="term-00020">case-fatality rate</term> is the proportion of individuals with a disease who die from it. With this proportion, the numerator can only include deaths among individuals included in the denominator, but the time periods do not need to be the same. It is a measure of disease severity.</para>
 <para id="para-00071">For example, a multistate outbreak of hepatitis A was traced to contaminated strawberries. There were 300 cases and two deaths as a result of the infection.</para>
-<para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo>(</m:mo><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>%</m:mo><m:mo> </m:mo></m:math></para>
+<para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>%</m:mo><m:mo> </m:mo></m:math></para>
 <para id="para-00073">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 <note class="boxed-feature" id="note-00007">
@@ -137,7 +137,7 @@
 <para id="para-00081">Numerator: Total number of deaths during a given time interval</para>
 <para id="para-00082">Denominator: Mid-interval population</para>
 <para id="para-00083"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo> </m:mo></m:math> or <m:math><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup></m:math></para>
-<para id="para-00084">For example, suppose that a total of 3,000,0000 deaths occurred in 2020. The estimated population was 400,000,000 at the midpoint of 2020. Therefore, the crude mortality/crude death rate in 2020 was <m:math><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>/</m:mo><m:mn>400</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>750</m:mn></m:math>, or 750 deaths per 100,000 population.</para>
+<para id="para-00084">For example, suppose that a total of 3,000,0000 deaths occurred in 2020. The estimated population was 400,000,000 at the midpoint of 2020. Therefore, the crude mortality/crude death rate in 2020 was <m:math><m:mo>(</m:mo><m:mtext>3,000,000</m:mtext><m:mo>/</m:mo><m:mtext>400,000,000</m:mtext><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>750</m:mn></m:math>, or 750 deaths per 100,000 population.</para>
 <para id="para-00085"><emphasis effect="italics">Cause-specific death rate</emphasis> is the mortality rate from a specific cause in a population.</para>
 <para id="para-00086">Numerator: Number of deaths assigned to a specific cause during a given time interval</para>
 <para id="para-00087">Denominator: Mid-interval population</para>
