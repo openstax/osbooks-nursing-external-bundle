@@ -122,7 +122,7 @@
 <para id="para-00069"><emphasis effect="bold">Case-Fatality Rate</emphasis></para>
 <para id="para-00070">A <term class="no-emphasis" id="term-00020">case-fatality rate</term> is the proportion of individuals with a disease who die from it. With this proportion, the numerator can only include deaths among individuals included in the denominator, but the time periods do not need to be the same. It is a measure of disease severity.</para>
 <para id="para-00071">For example, a multistate outbreak of hepatitis A was traced to contaminated strawberries. There were 300 cases and two deaths as a result of the infection.</para>
-<para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo>(</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mn>300</m:mn></m:mrow></m:mfrac><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>%</m:mo><m:mo> </m:mo></m:math></para>
+<para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo>(</m:mo><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>100</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>%</m:mo><m:mo> </m:mo></m:math></para>
 <para id="para-00073">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 <note class="boxed-feature" id="note-00007">
