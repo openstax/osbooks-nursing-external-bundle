@@ -202,7 +202,7 @@
 <para id="para-00125"><emphasis effect="italics">c</emphasis> = number of individuals unexposed but with disease</para>
 <para id="para-00126"><emphasis effect="italics">d</emphasis> = number of individuals unexposed and without disease</para>
 <para id="para-00127"><emphasis effect="bold">Example</emphasis></para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
