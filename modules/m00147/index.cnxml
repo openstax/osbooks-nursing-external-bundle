@@ -9,7 +9,7 @@
 <section id="sect-00001">
 <title>Learning Outcomes</title>
 <para id="para-00001">By the end of this section, you should be able to:</para>
-<list list-type="bulleted" id="list-00001">
+<list id="list-00001">
 <item>Define health disparities.</item>
 <item>Discuss how health care disparities affect access to care.</item>
 <item>Describe the Agency for Healthcare Research and Quality priority health disparities.</item>
@@ -21,7 +21,7 @@
 <title/>
 <section id="sect-00003">
 <title>Recognizing Health Disparities</title>
-<para id="para-00003">Healthy People 2030 defines health disparities as health differences linked to social, economic, and/or environmental disadvantages (Office of Disease Prevention and Health Promotion [ODPHP], n.d.-c). For example, Black adults are more likely to have risk factors for cardiovascular disease. They are more than twice as likely to die from cardiovascular disease compared to White adults (Javed et al., 2022). The Centers for Disease Control and Prevention (CDC) disparity definition recognizes that the situations creating the disparities are preventable. The CDC (2022d) defines health disparities as preventable differences in disease, injury, or violence or in opportunities to achieve optimal health experienced by socially disadvantaged racial, ethnic, and other population groups. Within the Unites States, individuals who are considered <term id="term-00002">socially disadvantaged</term> are those who have experienced racial or ethnic prejudice or cultural bias because of their identities as members of groups and without regard to their individual qualities stemming from circumstances beyond their control (Business Credit and Assistance, 2023).</para>
+<para id="para-00003">Healthy People 2030 defines health disparities as health differences linked to social, economic, and/or environmental disadvantages (Office of Disease Prevention and Health Promotion [ODPHP], n.d.-c). For example, Black adults are more likely to have risk factors for cardiovascular disease. They are more than twice as likely as White adults to die from cardiovascular disease (Javed et al., 2022). The CDC (2022d) defines health disparities as preventable differences in disease, injury, or violence or in opportunities to achieve optimal health experienced by socially disadvantaged racial, ethnic, and other population groups. Within the Unites States, individuals who are considered <term id="term-00002">socially disadvantaged</term> are those who have experienced prejudice or bias because of their identities as members of racial, ethnic, or cultural groups, without regard for their individual qualities stemming from circumstances beyond their control (Business Credit and Assistance, 2023).</para>
 <para id="para-00004">According to the <term class="no-emphasis" id="term-00003">National Institute on Minority Health and Health Disparities (NIMHD)</term>, health disparities can result in the following outcomes:</para>
 <list list-type="bulleted" id="list-00002">
 <item>Higher prevalence of disease, including earlier onset and more aggressive progression of the disease</item>
@@ -249,6 +249,6 @@
 <definition id="def-00001"><term>health care disparities</term> <meaning>differences among groups related to access and use of health care</meaning></definition>
 <definition id="def-00002"><term>health disparities</term> <meaning>health differences linked to social, economic, and/or environmental disadvantages</meaning></definition>
 <definition id="def-00003"><term>health equity</term> <meaning>the state in which everyone has a fair and just opportunity to attain their highest level of health</meaning></definition>
-<definition id="def-00004"><term>socially disadvantaged</term> <meaning>those who have experienced racial or ethnic prejudice or cultural bias because of their identities as members of groups and without regard to their individual qualities stemming from circumstances beyond their control</meaning></definition>
+<definition id="def-00004"><term>socially disadvantaged</term> <meaning>those who have experienced prejudice or bias because of their identities as members of racial, ethnic, or cultural groups, without regard for their individual qualities and stemming from circumstances beyond their control</meaning></definition>
 </glossary>
 </document>
