@@ -26,11 +26,11 @@
 <para id="para-00003">Vitamins are essential organic compounds required for normal metabolic function, growth, and healing. The body requires only small amounts of vitamins daily, which are typically obtained through a well-balanced diet. Vitamins are usually prescribed for clients who have the inability to metabolize and absorb vitamins, such as with celiac disease; increased vitamin losses, such as with diarrhea and crash diets; and when there is an increased vitamin need, such as with pregnancy. There are two types of vitamins, water-soluble and fat-soluble, discussed in the following sections.</para>
 <section id="sect-00003">
 <title>Water-Soluble</title>
-<para id="para-00004"><term id="term-00003">Water-soluble vitamins</term> dissolve in water. They are excreted by the kidneys in urine and are minimally stored in the body. Water-soluble vitamins need to be consumed regularly in the diet or through supplements to maintain adequate levels in the body. They play a critical role in various bodily functions, such as energy, metabolism, nerve function, and collagen synthesis. Water-soluble vitamins, their functions, food sources, and deficiency conditions are discussed in <link target-id="table-00001" document="m00239"/><emphasis effect="bold">.</emphasis></para>
+<para id="para-00004"><term id="term-00003">Water-soluble vitamins</term> dissolve in water. They are excreted by the kidneys in urine and are minimally stored in the body. Water-soluble vitamins need to be consumed regularly in the diet or through supplements to maintain adequate levels in the body. They play a critical role in various bodily functions, such as energy, metabolism, nerve function, and collagen synthesis. Water-soluble vitamins, their functions, food sources, and deficiency conditions are discussed in <link target-id="table-00001" document="m00239"/>.</para>
 </section>
 <section id="sect-00004">
 <title>Fat-Soluble</title>
-<para id="para-00005"><term id="term-00004">Fat-soluble vitamins</term> dissolve in fat and are stored in the body’s fat tissues and liver. They are absorbed along with dietary fat and can be stored in the body for extended periods. Excessive intake of fat-soluble vitamins can lead to toxicity because they are not readily excreted. Fat-soluble vitamins are essential to various bodily functions such as vision, immune function, blood clotting, and bone health. Fat-soluble vitamins, their functions, food sources, and deficiency conditions also are discussed in <link target-id="table-00001" document="m00239"/>.</para>
+<para id="para-00005"><term id="term-00004">Fat-soluble vitamins</term> dissolve in fat and are stored in the body’s fat tissues and liver. They are absorbed along with dietary fat and can be stored in the body for extended periods. Excessive intake of fat-soluble vitamins can lead to toxicity because they are not readily excreted. Fat-soluble vitamins are essential to various bodily functions such as vision, immune function, blood clotting, and bone health. Fat-soluble vitamins, their functions, food sources, and deficiency conditions are also discussed in <link target-id="table-00001" document="m00239"/>.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -39,13 +39,13 @@
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Water-Soluble Vitamins</span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Water-Soluble Vitamins</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Vitamin</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Function</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Food Source</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Deficit Conditions</span></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">B<sub>1</sub> (Thiamine)</term></entry>
@@ -55,15 +55,14 @@
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">B<sub>2</sub> (Riboflavin)</term></entry>
-<entry valign="top" align="left">Promotes use of carbohydrates, fats, and proteins necessary for red blood cell function;<newline/>
-biggest role is with protein to promote wound healing</entry>
+<entry valign="top" align="left">Promotes use of carbohydrates, fats, and proteins necessary for red blood cell function; biggest role is with protein to promote wound healing</entry>
 <entry valign="top" align="left">Whole grains, enriched grains, organ meats, and dairy products</entry>
 <entry valign="top" align="left">Angular stomatitis, cheilosis, glossitis, itchy dermatitis of scrotum or vulva, microcytic anemia, and alcohol substance abuse</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">B<sub>3</sub> (Niacin)</term></entry>
 <entry valign="top" align="left">Essential for metabolism, glycogenolysis, and nerve function;<newline/> 
-participates in the synthesis of steroid hormones and fatty acids.</entry>
+participates in the synthesis of steroid hormones and fatty acids</entry>
 <entry valign="top" align="left">Fish, poultry, peanuts, mushrooms, and whole grains</entry>
 <entry valign="top" align="left">Pellagra, hepatotoxicity, and anorexia</entry>
 </row>
@@ -71,7 +70,7 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">B<sub>9</sub> (Folic acid)</term></entry>
 <entry valign="top" align="left">Necessary for DNA and <term id="term-00009">heme synthesis</term> and intestinal functioning</entry>
 <entry valign="top" align="left">Leafy vegetables such as spinach and broccoli, yellow vegetables such as squash, liver, dried beans, and peas</entry>
-<entry valign="top" align="left">Megaloblastic anemias, intestinal disturbances, neural tube defects during pregnancy (this is a cause of deficiency)</entry>
+<entry valign="top" align="left">Megaloblastic anemias, intestinal disturbances, fetal neural tube defects (caused by deficiency during pregnancy)</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00010">B<sub>12</sub> (Cobalamin)</term></entry>
@@ -86,13 +85,13 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 <entry valign="top" align="left">Poor wound healing, bleeding gums, and scurvy</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text">Fat-Soluble Vitamins</span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Fat-Soluble Vitamins</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Vitamin</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Function</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Food Source</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Deficit Conditions</span></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
+<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00013">A (Retinol and beta carotene)</term></entry>
@@ -108,26 +107,26 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 <entry valign="top" align="left">Rickets, osteomalacia, and osteoporosis</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00016">E (Alpha tocopherol)</term></entry>
-<entry valign="top" align="left">Promotes functioning of red blood cells, muscles, and tissues, and is essential in anti-inflammatory processes, platelet aggregation, and immune response</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00016">E (Alpha- tocopherol)</term></entry>
+<entry valign="top" align="left">Promotes functioning of red blood cells, muscles, and tissues and is essential in anti-inflammatory processes, platelet aggregation, and immune response</entry>
 <entry valign="top" align="left">Fortified cereals, whole grain products, vegetable oils, wheat germ, seeds, and nuts</entry>
 <entry valign="top" align="left">Retinopathy, peripheral neuropathy, and ataxia</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00017"><emphasis effect="bold">K</emphasis> (Phytonadione)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00017">K (Phytonadione)</term></entry>
 <entry valign="top" align="left">Necessary for blood clotting</entry>
 <entry valign="top" align="left">Dark green leafy vegetables, turnips, and beets</entry>
 <entry valign="top" align="left">Increased clotting time, bleeding, or hemorrhage</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Common Water-Soluble and Fat-Soluble Vitamins (sources: Lykstad &amp; Sharma, 2023; Reddy &amp; Jialal, 2022)</caption>
+<caption><emphasis effect="bold">Common Water-Soluble and Fat-Soluble Vitamins</emphasis> (sources: Lykstad &amp; Sharma, 2023; Reddy &amp; Jialal, 2022)</caption>
 </table>
 </section>
 </section>
 <section id="sect-00005">
 <title>Minerals</title>
-<para id="para-00006">Minerals are inorganic substances that are essential for certain physiological functions. Minerals are necessary for the formation of strong bones and teeth, regulation of fluid balance, muscle function, and the production of hormones and enzymes. They aid in the transport of oxygen and nutrients throughout the body and support immune function. <link target-id="table-00002" document="m00239"/> lists the heavy metal minerals iron, copper, lead, and zinc, and their functions, food sources, chelating agents for toxicity, and deficiency conditions. <link target-id="table-00003" document="m00239"/> lists the functions, food sources, and deficiency conditions for zinc, chromium, and selenium.</para>
+<para id="para-00006">Minerals are inorganic substances that are essential for certain physiological functions. Minerals are necessary for the formation of strong bones and teeth, regulation of fluid balance, muscle function, and the production of hormones and enzymes. They aid in the transport of oxygen and nutrients throughout the body and support immune function. <link target-id="table-00002" document="m00239"/> lists the heavy metal minerals iron, copper, lead, and zinc and their functions, food sources, chelating agents for toxicity, and deficiency conditions. <link target-id="table-00003" document="m00239"/> lists the functions, food sources, and deficiency conditions for zinc, chromium, and selenium.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="5">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -161,14 +160,14 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 </row>
 <row>
 <entry valign="top" align="left">Lead</entry>
-<entry valign="top" align="left">Is a toxic heavy metal and has no known essential functions within the body, but through exposure can lead to a variety of health problems</entry>
+<entry valign="top" align="left">Is a toxic heavy metal and has no known essential functions within the body but through exposure can lead to a variety of health problems</entry>
 <entry valign="top" align="left">Found in contaminated water and food supplies, especially in areas of high environmental pollution and in older homes with lead-based paint or pipes</entry>
-<entry valign="top" align="left">Dimercaprol, <term class="no-emphasis" id="term-00026">EDTA</term>, and <term class="no-emphasis" id="term-00027">succimer</term> bind to lead in the body, forming a compound that is excreted in the urine or feces; they are used to treat lead poisoning and reduce the body burden of lead</entry>
-<entry valign="top" align="left">Lead does not have any deficiency conditions</entry>
+<entry valign="top" align="left">Dimercaprol, <term class="no-emphasis" id="term-00026">EDTA</term>, and <term class="no-emphasis" id="term-00027">succimer</term> bind to lead in the body, forming a compound that is excreted in the urine or feces; they are used to treat lead poisoning and reduce the body burden of lead.</entry>
+<entry valign="top" align="left">No deficiency conditions</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Heavy Metal Minerals and Chelating Agents (sources: Fisher &amp; Gupta, 2022; Moses, 2021; Rajkumar et al., 2023)</caption>
+<caption><emphasis effect="bold">Heavy Metal Minerals and Chelating Agents</emphasis> (sources: Fisher &amp; Gupta, 2022; Moses, 2021; Rajkumar et al., 2023)</caption>
 </table>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="4">
@@ -205,19 +204,19 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Common Minerals (sources: Fisher &amp; Gupta, 2022; Moses, 2021)</caption>
+<caption><emphasis effect="bold">Common Minerals</emphasis> (sources: Fisher &amp; Gupta, 2022; Moses, 2021)</caption>
 </table>
 </section>
 <section id="sect-00006">
 <title>Complementary and Alternative Therapies</title>
-<para id="para-00007"><term id="term-00028">Complementary and alternative therapies</term>, also known as <emphasis effect="italics">complementary and alternative medicine (CAM)</emphasis>, is a broad term used to describe health practices and treatments that are used in addition to or instead of conventional medical therapies. Examples of CAM include herbal supplements, acupuncture, chiropractic care, massage therapy, and mind-body practices such as meditation and yoga. Some people choose CAM therapies because they believe they are more natural or holistic than conventional medicine, or because they have had negative experiences with conventional medicine (Jones et al., 2019; National Institutes of Health, n.d.-b). However, it is important to note that not all CAM therapies are safe and effective, and some may even be harmful.</para>
+<para id="para-00007"><term id="term-00028">Complementary and alternative therapies</term>, also known as <emphasis effect="italics">complementary and alternative medicine (CAM)</emphasis>, is a broad term used to describe health practices and treatments that are used in addition to or instead of conventional medical therapies. Examples of CAM include herbal supplements, acupuncture, chiropractic care, massage therapy, and mind-body practices such as meditation and yoga. Some people choose CAM therapies because they believe they are more natural or holistic than conventional medicine or because they have had negative experiences with conventional medicine (Jones et al., 2019; National Institutes of Health, n.d.-b). However, it is important to note that not all CAM therapies are safe and effective, and some may even be harmful.</para>
 <section id="sect-00007">
 <title>Dietary Supplement and Health Education Act</title>
-<para id="para-00008">The <term class="no-emphasis" id="term-00029">Dietary Supplement and Health Education Act (DSHEA)</term> of 1994 is a federal law that regulates the manufacturing and labeling of dietary supplements. Under DSHEA, dietary supplements are classified as a food, not a drug, and are not subject to the same strict regulations as drugs. However, DSHEA does require that manufacturers of dietary supplements meet certain labeling requirements and notify the Food and Drug Administration (FDA) of any new ingredients they plan to use. DSHEA also allows manufacturers to make certain health claims about their products, as long as they are truthful and not misleading (National Institutes of Health, n.d.-a).</para>
+<para id="para-00008">The <term class="no-emphasis" id="term-00029">Dietary Supplement and Health Education Act (DSHEA)</term> of 1994 is a federal law that regulates the manufacturing and labeling of dietary supplements. Under DSHEA, dietary supplements are classified as a food, not a drug, and are not subject to the same strict regulations as drugs. However, DSHEA does require that manufacturers of dietary supplements meet certain labeling requirements and notify the Food and Drug Administration (FDA) of any new ingredients they plan to use. DSHEA also allows manufacturers to make certain health claims about their products as long as they are truthful and not misleading (National Institutes of Health, n.d.-a).</para>
 </section>
 <section id="sect-00008">
 <title>Good Manufacturing Practices</title>
-<para id="para-00009"><term class="no-emphasis" id="term-00030">Good Manufacturing Practices (GMPs)</term> are a set of guidelines established by the FDA that ensures quality, purity, and strength of dietary supplements. GMPs require manufacturers to use standardized manufacturing processes, perform regular testing of raw materials and finished products, and maintain detailed records of all production and testing. GMPs also require manufacturers to have a system in place for handling complaints and reporting adverse events (Department of Health and Human Services, Food and Drug Administration, 2007; National Institutes of Health, n.d.-a,).</para>
+<para id="para-00009"><term class="no-emphasis" id="term-00030">Good Manufacturing Practices (GMPs)</term> are a set of guidelines established by the FDA that ensures quality, purity, and strength of dietary supplements. GMPs require manufacturers to use standardized manufacturing processes, perform regular testing of raw materials and finished products, and maintain detailed records of all production and testing. GMPs also require manufacturers to have a system in place for handling complaints and reporting adverse events (National Institutes of Health, n.d.-a).</para>
 </section>
 <section id="sect-00009">
 <title>Commonly Used Herbal Remedies</title>
@@ -237,13 +236,13 @@ participates in the synthesis of steroid hormones and fatty acids.</entry>
 <tbody>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00031">Astragalus</term></entry>
-<entry valign="top" align="left">To increase stamina and energy, and to improve immune function</entry>
-<entry valign="top" align="left">May increase effects of anti-hypertensive drugs (Han et al., 2019);caution should be used when administering if the client has a fever because it can mask infection</entry>
+<entry valign="top" align="left">To increase stamina and energy and to improve immune function</entry>
+<entry valign="top" align="left">May increase effects of anti-hypertensive drugs (Han et al., 2019); caution should be used when administering if the client has a fever because it can mask infection</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00032">Chamomile</term></entry>
 <entry valign="top" align="left">Used topically to treat wounds and conjunctivitis; used orally for migraines and anxiety</entry>
-<entry valign="top" align="left">Clients should not take if pregnant or breastfeeding because it can harm the fetus/baby, can interact with anticoagulants, and increase bleeding times, and may cause depression</entry>
+<entry valign="top" align="left">Clients should not take if pregnant or breastfeeding because it can harm the fetus/baby, can interact with anticoagulants and increase bleeding times, and may cause depression</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00033">Echinacea</term></entry>
@@ -269,12 +268,12 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00037">Hawthorn</term></entry>
 <entry valign="top" align="left">To treat blood pressure problems and lower cholesterol levels</entry>
-<entry valign="top" align="left">Use cautiously with digoxin, ACE inhibitors, and CNS depressants because it may potentiate their effects</entry>
+<entry valign="top" align="left">Use cautiously with digoxin, ACE inhibitors, and central nervous system (CNS) depressants because it may potentiate their effects</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00038">Licorice root</term></entry>
 <entry valign="top" align="left">To treat cough and stomach ulcers</entry>
-<entry valign="top" align="left">Contraindicated with renal or liver disease, hypertension, coronary artery disease and pregnancy and in clients who are taking digoxin and thyroid drugs</entry>
+<entry valign="top" align="left">Contraindicated with renal or liver disease, hypertension, coronary artery disease, and pregnancy and in clients who are taking digoxin and thyroid drugs</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00039">Milk thistle</term></entry>
@@ -289,7 +288,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00041">St. John’s wort</term></entry>
 <entry valign="top" align="left">To treat depression</entry>
-<entry valign="top" align="left">Take on an empty stomach to enhance absorption; may interact with other antidepressants, as well as theophylline, digoxin, hormonal contraceptives, and certain anticancer drugs; client should not take if pregnant or breastfeeding because it may affect the fetus/baby</entry>
+<entry valign="top" align="left">Take on an empty stomach to enhance absorption; may interact with other antidepressants as well as theophylline, digoxin, hormonal contraceptives, and certain anticancer drugs; client should not take if pregnant or breastfeeding because it may affect the fetus/baby</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00042">Turmeric</term></entry>
@@ -303,7 +302,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 </row>
 </tbody>
 </tgroup>
-<caption>Common Herbal Remedies: Uses and Special Considerations (source: Furhad &amp; Bokhari, 2022; National Institute of Health National, Center for Complementary and Integrative Health, n.d.-c.)</caption>
+<caption><emphasis effect="bold">Common Herbal Remedies: Uses and Special Considerations</emphasis> (source: Furhad &amp; Bokhari, 2022; National Institutes of Health, n.d.-c.)</caption>
 </table>
 </section>
 <section id="sect-00010">
@@ -311,7 +310,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <para id="para-00011">Complementary therapies are used to promote overall health and well-being. They are often used to alleviate symptoms and side effects associated with medical conditions and treatments, but they are not intended to replace or serve as a substitute for traditional medical care. <link target-id="table-00005" document="m00239"/> describes common complementary therapies, their uses, and special considerations.</para>
 <note class="special-considerations" id="note-00001">
 <title>Asian Americans and CAM</title>
-<para id="para-00012"><term class="no-emphasis" id="term-00044">Asian Americans</term> are more likely to use CAM (Complementary and Alternative Medicine) as compared to other races or ethnicities. Many continue cultural traditions of using Eastern alternatives such as acupuncture, Ayurveda, and yoga.</para>
+<para id="para-00012"><term class="no-emphasis" id="term-00044">Asian American</term>s are more likely to use complementary and alternative medicine (CAM) as compared to other races or ethnicities. Many continue cultural traditions of using Eastern alternatives such as acupuncture, Ayurveda, and yoga.</para>
 <para id="para-00013">(Source: Felicilda-Reynaldo et al., 2020.)</para>
 </note>
 <note class="trending-today" id="note-00002">
@@ -319,7 +318,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/cannabis"/>
 </media>
-<para id="para-00014">Cannabis has been used for centuries as a natural remedy to alleviate symptoms of various health conditions, such as chronic pain, anxiety, and insomnia. Medical cannabis is a new trend that is legal in many states and countries, allowing clients access to cannabis-based treatments under the supervision of licensed health care providers. With the increasing use of medical cannabis, there is a growing need for health care professionals to be trained in its use and to be able to provide accurate information to clients. Dr. Josh Axe, DNM, DC, CNS, is a doctor of natural medicine, chiropractor, and clinical nutritionist. In the video podcast, “Medicinal Benefits of Cannabis Compounds,” he interviews Dr. Bonni Goldstein, MD, who speaks about the different types of cannabis and its medicinal benefits.</para>
+<para id="para-00014">Cannabis has been used for centuries as a natural remedy to alleviate symptoms of various health conditions, such as chronic pain, anxiety, and insomnia. Medical cannabis is a new trend that is legal in many states and countries, allowing clients access to cannabis-based treatments under the supervision of licensed health care providers. With the increasing use of medical cannabis, there is a growing need for health care professionals to be trained in its use and to be able to provide accurate information to clients. Dr. Josh Axe, DNM, DC, CNS, is a doctor of natural medicine, chiropractor, and clinical nutritionist. In the video podcast “Medicinal Benefits of Cannabis Compounds,” he interviews Dr. Bonni Goldstein, MD, who speaks about the different types of cannabis and its medicinal benefits.</para>
 </note>
 <table class="vertically-tight" id="table-00005">
 <tgroup cols="4">
@@ -352,7 +351,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00047">Ayurveda</term></entry>
 <entry valign="top" align="left">A traditional Indian medical practice that seeks to balance the body, mind, and spirit through diet, lifestyle changes, and herbal remedies</entry>
 <entry valign="top" align="left">Treatment of digestive disorders, anxiety, and skin problems</entry>
-<entry valign="top" align="left">Herbal remedies may interact with prescription drugs and should not be used without speaking to the health care provider; some products may contain heavy metals or other toxins.</entry>
+<entry valign="top" align="left">Herbal remedies may interact with prescription drugs and should not be used without speaking to the health care provider; some products may contain heavy metals or other toxins</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00048">Cannabis (marijuana)</term></entry>
@@ -368,11 +367,11 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 </row>
 </tbody>
 </tgroup>
-<caption>Common Complementary Therapies (sources: Kisling &amp; Stiegmann, 2022; National Institutes of Health, n.d.-a.)</caption>
+<caption><emphasis effect="bold">Common Complementary Therapies</emphasis> (sources: Kisling &amp; Stiegmann, 2022; National Institutes of Health, n.d.-a)</caption>
 </table>
 </section>
 <section class="chapter-summary" id="sect-00011">
-<para id="para-00015">This chapter has provided an overview of various aspects of well-being including fluid balance, electrolytes, vitamins, minerals, and complementary and alternative therapies. The body relies on precise fluid balance to maintain healthy physiologic functions. Disruptions to this balance can lead to health complications and even death. Electrolytes, such as sodium, calcium, and potassium, play a crucial role in maintaining fluid balance. In addition, they have a major effect on neurotransmission and muscular contraction. Changes in nerve and muscle excitability can be life threatening. Vitamins and minerals are essential nutrients that the body requires in small amounts. Their deficiencies or excesses can result in a range of health issues. Additionally, complementary and alternative therapies, such as acupuncture and herbal remedies, are becoming increasingly popular as a means of promoting health and well-being. Understanding these various components of wellness is important for health promotion and disease prevention.</para>
+<para id="para-00015">This chapter has provided an overview of various aspects of well-being including fluid balance, electrolytes, vitamins, minerals, and complementary and alternative therapies. The body relies on precise fluid balance to maintain healthy physiologic functions. Disruptions to this balance can lead to health complications and even death. Electrolytes, such as sodium, calcium, and potassium, play a crucial role in maintaining fluid balance. In addition, they have a major effect on neurotransmission and muscular contraction. Changes in nerve and muscle excitability can be life-threatening. Vitamins and minerals are essential nutrients that the body requires in small amounts. Their deficiencies or excesses can result in a range of health issues. Additionally, complementary and alternative therapies, such as acupuncture and herbal remedies, are becoming increasingly popular as a means of promoting health and well-being. Understanding these various components of wellness is important for health promotion and disease prevention.</para>
 </section>
 <section class="review-questions" id="sect-00012">
 <title>Review Questions</title>
@@ -401,7 +400,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <para id="para-00036">FADIC. (n.d.). <emphasis effect="italics">IV fluids: The most common types</emphasis>. https://fadic.net/iv-fluids-the-most-common-types/</para>
 <para id="para-00037">Felicilda-Reynaldo, R. F. D., Choi, S. Y., Driscoll, S. D., &amp; Albright, C. L. (2020). A national survey of complementary and alternative medicine use for treatment among Asian-Americans. <emphasis effect="italics">Journal of Immigrant and Minority Health</emphasis>, <emphasis effect="italics">22</emphasis>(4), 762–770. https://doi.org/10.1007/s10903-019-00936-z</para>
 <para id="para-00038">Fisher, R. M., &amp; Gupta, V. (2022). <emphasis effect="italics">Heavy metals</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557806/</para>
-<para id="para-00039">Fishman, S. (2023) <emphasis effect="italics">What is hypochloremia? Definition, symptoms, and treatment</emphasis>. Healthgrades. https://www.healthgrades.com/right-care/symptoms-and-conditions/hypochloremia</para>
+<para id="para-00039">Fishman, S. (2023). <emphasis effect="italics">What is hypochloremia? Definition, symptoms, and treatment</emphasis>. Healthgrades. https://www.healthgrades.com/right-care/symptoms-and-conditions/hypochloremia</para>
 <para id="para-00040">Furhad, S., &amp; Bokhari, A. A. (2022). <emphasis effect="italics">Herbal supplements</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK536964/</para>
 <para id="para-00041">Goyal, A., Anastasopoulou, C., Ngu, M., &amp; Singh, S. (2022). <emphasis effect="italics">Hypocalcemia</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK430912/</para>
 <para id="para-00042">Goyal, R., &amp; Jialal, I. (2022). <emphasis effect="italics">Hyperphosphatemia</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK551586/</para>
@@ -412,7 +411,6 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <para id="para-00047">Jones, E., Nissen, L., McCarthy, A., Steadman, K., &amp; Windsor, C. (2019). Exploring the use of complementary and alternative medicine in cancer patients. <emphasis effect="italics">Integrative Cancer</emphasis> <emphasis effect="italics">Therapies</emphasis>, <emphasis effect="italics">18</emphasis>. https://doi.org/10.1177/1534735419846986</para>
 <para id="para-00048">Kisling, L. A., &amp; Stiegmann, R. A. (2022). <emphasis effect="italics">Alternative medicine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK538520/</para>
 <para id="para-00049">Kumar, P. A., Paulraj, S., &amp; Udekwu, A. (2020). Hemodynamic collapse following therapeutic plasma exchange in a patient receiving an angiotensin receptor blocker. <emphasis effect="italics">Cureus</emphasis>, <emphasis effect="italics">12</emphasis>(2), e7028. https://doi.org/10.7759/cureus.7028</para>
-<para id="para-00050">Lewin, J. (2018). What is the normal chloride level? <emphasis effect="italics">Medical News Today</emphasis>. https://www.medicalnewstoday.com/articles/322314</para>
 <para id="para-00051">Lotterman, S., &amp; Sharma, S. (2022). <emphasis effect="italics">Blood transfusion</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK499824/</para>
 <para id="para-00052">Lykstad, J., &amp; Sharma, S. (2023). <emphasis effect="italics">Biochemistry, water-soluble vitamins</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK538510/</para>
 <para id="para-00053">Melendez-Rivera, J. G., &amp; Anjum, F. (2022). <emphasis effect="italics">Hypovolemia</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK565845/</para>
@@ -423,7 +421,7 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <para id="para-00058">National Institutes of Health. (n.d.-b). <emphasis effect="italics">Mission</emphasis>. National Center for Complementary and Integrative Health (NCCIH). https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-center-complementary-integrative-health-nccih</para>
 <para id="para-00059">National Institutes of Health. (n.d.-c).<emphasis effect="italics"> Herbs at a glance</emphasis>. National Center for Complementary and Integrative Health (NCCIH). https://www.nccih.nih.gov/health/herbsataglance</para>
 <para id="para-00060">Piskin, E., Cianciosi, D., Gulec, S., Tomas, M., &amp; Capanoglu, E. (2022). Iron absorption: Factors, limitations, and improvement methods. <emphasis effect="italics">ACS Omega</emphasis>, <emphasis effect="italics">7</emphasis>(24), 20441–20456. https://doi.org/10.1021/acsomega.2c01833</para>
-<para id="para-00061">Rajkumar, V., Lee, V. R. &amp; Gupta, V. (2023). <emphasis effect="italics">Heavy metal toxicity</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK560920/</para>
+<para id="para-00061">Rajkumar, V., Lee, V. R., &amp; Gupta, V. (2023). <emphasis effect="italics">Heavy metal toxicity</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK560920/</para>
 <para id="para-00062">Reddy, P., &amp; Jialal, I. (2022). <emphasis effect="italics">Biochemistry, fat-soluble vitamins</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534869/</para>
 <para id="para-00063">Rudloff, E., &amp; Hopper, K. (2021). Crystalloid and colloid compositions and their impact. <emphasis effect="italics">Frontiers in Veterinary Science</emphasis>, <emphasis effect="italics">8</emphasis>, 639848. https://doi.org/10.3389/fvets.2021.639848</para>
 <para id="para-00064">Sachais, B. S., &amp; Senaldi, E. (2019). Chapter 36: Cryoprecipitate and fibrinogen concentrates. In <emphasis effect="italics">Transfusion medicine and hemostasis</emphasis> (3rd ed.). Elsevier. https://doi.org/10.1016/B978-0-12-813726-0.00036-2.</para>
@@ -432,18 +430,18 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <para id="para-00067">Sharma, S., Hashmi, M. F., &amp; Castro, D. (2022). <emphasis effect="italics">Hypophosphatemia</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK493172/</para>
 <para id="para-00068">Shrimanker, I., &amp; Bhattarai, S. (2023). <emphasis effect="italics">Electrolytes</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK541123/</para>
 <para id="para-00069">Sur, M., &amp; Mohiuddin, S. S. (2022). <emphasis effect="italics">Potassium</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539791/</para>
-<para id="para-00070">Tinawi M. (2021). New trends in the utilization of intravenous fluids. <emphasis effect="italics">Cureus</emphasis>, <emphasis effect="italics">13</emphasis>(4), e14619. https://doi.org/10.7759/cureus.14619</para>
+<para id="para-00070">Tinawi, M. (2021). New trends in the utilization of intravenous fluids. <emphasis effect="italics">Cureus</emphasis>, <emphasis effect="italics">13</emphasis>(4), e14619. https://doi.org/10.7759/cureus.14619</para>
 <para id="para-00071">Veniamakis, E., Kaplanis, G., Voulgaris, P., &amp; Nikolaidis, P. T. (2022). Effects of sodium intake on health and performance in endurance and ultra-endurance sports. <emphasis effect="italics">International Journal of Environmental Research and Public Health</emphasis>, <emphasis effect="italics">19</emphasis>(6), 3651. https://doi.org/10.3390/ijerph19063651</para>
 </section>
 </section>
 </content>
 <glossary>
-<definition id="def-00001"><term>complementary and alternative therapies</term> <meaning>medical products and practices outside of conventional medical practice, complementary therapies are used as adjuncts to conventional therapies and alternative therapies are used in place of conventional therapies</meaning></definition>
-<definition id="def-00002"><term>fat-soluble vitamins</term> <meaning>vitamins that dissolve in fat; includes Vitamins A, D, E, and K</meaning></definition>
-<definition id="def-00003"><term>heme synthesis</term> <meaning>a biochemical pathway which requires a number of steps, substrates, and enzymes</meaning></definition>
+<definition id="def-00001"><term>complementary and alternative therapies</term> <meaning>medical products and practices outside of conventional medical practice; complementary therapies are used as adjuncts to conventional therapies, and alternative therapies are used in place of conventional therapies</meaning></definition>
+<definition id="def-00002"><term>fat-soluble vitamins</term> <meaning>vitamins that dissolve in fat; includes vitamins A, D, E, and K</meaning></definition>
+<definition id="def-00003"><term>heme synthesis</term> <meaning>a biochemical pathway that requires a number of steps, substrates, and enzymes</meaning></definition>
 <definition id="def-00004"><term>minerals</term> <meaning>inorganic substances that are essential for certain physiological functions</meaning></definition>
 <definition id="def-00005"><term>myelin</term> <meaning>a mixture of proteins and phospholipids that form an insulating sheath around nerve fibers</meaning></definition>
 <definition id="def-00006"><term>vitamins</term> <meaning>essential organic compounds required for normal physiological function</meaning></definition>
-<definition id="def-00007"><term>water-soluble vitamins</term> <meaning>vitamins that dissolve in water; includes B and C vitamins</meaning></definition>
+<definition id="def-00007"><term>water-soluble vitamins</term> <meaning>vitamins that dissolve in water; includes vitamins B and C</meaning></definition>
 </glossary>
 </document>
