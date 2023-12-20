@@ -18,6 +18,7 @@
   </list>
   </section>
   <para id="para-00002">Fluid volume replacement is an important part of fluid and electrolyte homeostasis within the body. In this section of the chapter, intravenous fluid therapy, total parenteral nutrition, and blood products will be discussed.</para>
+ <section id="sect-00019">
   <section id="sect-00002">
   <title>Intravenous Fluid Therapy</title>
   <para id="para-00003"><term id="term-00001">Intravenous (IV) fluid therapy</term> is a medical treatment that involves the administration of fluids directly into a person’s veins through an intravenous catheter. The fluids are typically a combination of water, electrolytes, and other nutrients, depending on the specific needs of the client.</para>
@@ -207,7 +208,7 @@
   <title>Blood Typing, Cross-Matching, and Transfusion</title>
   <para id="para-00026">Blood and blood products must be compatible with the recipient’s blood type to minimize the risk of transfusion reactions. Blood typing involves determining the blood group and Rh factor of the donor and the recipient. There are four main blood groups: A, B, AB, and O. Each group can be either Rh positive or Rh negative. The donor blood type is determined by testing for the presence of specific antigens on the surface of red blood cells (American Red Cross, n.d.).</para>
   <para id="para-00027">Cross-matching involves mixing a sample of the donor’s blood with a sample of the recipient’s blood to check for compatibility. This is done to identify any potential reaction between the donor and recipient’s blood, such as the development of antibodies or <term id="term-00018">agglutination</term> (clumping) of the red blood cells (Harris &amp; Crookston, 2022).</para>
-  <para id="para-00028">Once the blood has been typed and cross-matched, it can be transfused into the recipient’s bloodstream. An adult client will need a 16&#8211;18 gauge IV catheter for rapid transfusions and a 20&#8211;22 gauge IV catheter for routine transfusions. A pediatric client will need a 22&#8211;25 gauge IV catheter for transfusions. The length of the blood transfusion depends on the amount of blood or blood product being transfused and the rate of infusion. Generally, a unit of PRBCs takes about 2–4 hours to transfuse; other blood products such as platelets may take less time (Lotterman &amp; Sharma, 2022).</para>
+  <para id="para-00028">Once the blood has been typed and cross-matched, it can be transfused into the recipient’s bloodstream. An adult client will need a 16–18 gauge IV catheter for rapid transfusions and a 20–22 gauge IV catheter for routine transfusions. A pediatric client will need a 22–25 gauge IV catheter for transfusions. The length of the blood transfusion depends on the amount of blood or blood product being transfused and the rate of infusion. Generally, a unit of PRBCs takes about 2–4 hours to transfuse; other blood products such as platelets may take less time (Lotterman &amp; Sharma, 2022).</para>
   <para id="para-00029">During the transfusion, the client’s vital signs should be monitored regularly and per the facility’s protocol. The client should be observed closely for any signs of a transfusion reaction, which can range from mild to severe. Common reactions to blood transfusions include (Harris &amp; Crookston, 2022; Lotterman &amp; Sharma, 2022):</para>
   <list list-type="bulleted" id="list-00018">
   <item><emphasis effect="italics"><term class="no-emphasis" id="term-00019">Febrile reactions</term>:</emphasis> the most common type of transfusion reaction, characterized by a fever and chills</item>
@@ -230,6 +231,7 @@
   <para id="para-00033">Fluid volume excess occurs when the body retains more fluid than it excretes. Correcting fluid volume excess involves restricting fluid and sodium intake, using diuretics to increase urine output, and treating the underlying causes, such as heart failure or kidney disorders, to prevent further accumulation of fluid and to promote healing (Ekinci et al., 2018).</para>
   </section>
   </section>
+    </section>
   </content>
   <glossary>
   <definition id="def-00001"><term>agglutination</term> <meaning>the clumping of particles</meaning></definition>
