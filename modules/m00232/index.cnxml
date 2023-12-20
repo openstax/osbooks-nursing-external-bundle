@@ -14,11 +14,11 @@
 <item>Compare and contrast intracellular fluid and extracellular fluid and their effects on the body’s cells.</item>
 <item>Discuss the major cations and anions and their essential functions.</item>
 </list>
+</section>
 <para id="para-00002"><term id="term-00001">Homeostasis</term> is the ability of the body to maintain a stable and constant internal environment despite changes in the external environment (Billman, 2020). This means that the body can regulate and balance its various physiologic processes, such as body temperature (see <link target-id="fig-00001" document="m00232"/>), fluid balance, pH levels, blood sugar levels, and hormone levels, to ensure they remain within a narrow range that is optimal for the body’s functioning.</para>
 <figure class="scaled-down" id="fig-00001"><media alt="A flow chart shows how normal body temperature is maintained. If the body temperature rises (the cycle depicted on the right of the chart), blood vessels dilate, resulting in loss of heat to the environment. Sweat glands secrete fluid. As this fluid evaporates, heat is lost form the body. As a result, the body temperature falls to normal body temperature. If body temperature falls (the cycle depicted on the left), blood vessels constrict so that heat is conserved. Sweat glands do not secrete fluid. Shivering (involuntary contraction of muscles) releases heat which warms the body. Heat is retained, and body temperature increases to normal.">
 <image mime-type="image/png" src="../../media/PHA_Figure_04_01_002.png"/></media>
 <caption>The human body is maintained by complex mechanisms that keep it in balance to promote physiologic function. (credit: modification of work from <emphasis effect="italics">Biology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
-</section>
 <section id="sect-00002">
 <title>Homeostasis</title>
 <para id="para-00003">Homeostasis is a fundamental process that enables the body to maintain a stable internal environment in the face of constantly changing internal and external conditions. Disruption of homeostatic mechanisms may cause diseases and severe impacts on physiologic well-being. Two key principles govern homeostasis: fluid balance and electrolyte balance.</para>
@@ -45,9 +45,9 @@
 </section>
 <section id="sect-00003">
 <title>Cellular Compartments</title>
-<para id="para-00011">60% of the total body weight is composed of water. The body separates this water in to two main fluid compartments: one that contains <term id="term-00015">intracellular fluid</term> and one that contains <term id="term-00016">extracellular fluid</term>. The fluid compartments work together to maintain fluid and electrolyte balance within the body. The movement of water and electrolytes between the compartments is regulated by various mechanisms, such as <term id="term-00017">osmosis</term> and <term id="term-00018">active transport</term> (Libretti &amp; Puckett, 2022; Molnar &amp; Gair, n.d).</para>
+<para id="para-00011">Sixty percent of the total body weight is composed of water. The body separates this water into two main fluid compartments: one that contains <term id="term-00015">intracellular fluid</term> and one that contains <term id="term-00016">extracellular fluid</term>. The fluid compartments work together to maintain fluid and electrolyte balance within the body. The movement of water and electrolytes between the compartments is regulated by various mechanisms, such as <term id="term-00017">osmosis</term> and <term id="term-00018">active transport</term> (Libretti &amp; Puckett, 2023; Molnar &amp; Gair, n.d).</para>
 <para id="para-00012">The body strives to maintain a balance between the fluids in the compartment to ensure that the cells are surrounded by an environment that allows them to function optimally, as can be observed in <link target-id="fig-00003" document="m00232"/>. The concentration of ions, such as sodium, potassium, and chloride, is carefully regulated in each compartment to maintain the proper <term id="term-00019">osmotic pressure</term>, which is the pressure needed to prevent water from flowing into or out of cells.</para>
-<para id="para-00013">Disruptions in the fluid compartments, such as excessive fluid loss or retention, can lead to various health problems, including dehydration or edema.By regulating the equilibrium of body fluids, the body can guarantee the optimal operation of its diverse physiologic functions, thereby enhancing overall health and well-being.</para>
+<para id="para-00013">Disruptions in the fluid compartments, such as excessive fluid loss or retention, can lead to various health problems, including dehydration or edema. By regulating the equilibrium of body fluids, the body can guarantee the optimal operation of its diverse physiologic functions, thereby enhancing overall health and well-being.</para>
 <figure class="scaled-down" id="fig-00003">
 <media alt="">
 <image mime-type="image/png" src="../../media/PHA_Figure_04_01_004.png"/></media>
@@ -97,7 +97,6 @@ Sodium</entry>
 <row>
 <entry valign="top" align="left">Extracellular fluid<newline/>
 <newline/>
-<newline/>
 Interstitial fluid<newline/>
 Intravascular fluid<newline/>
 Transcellular fluid</entry>
@@ -115,7 +114,7 @@ Sodium</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Adult Body Fluid Volumes and Electrolytes</caption>
+<caption><emphasis effect="bold">Adult Body Fluid Volumes and Electrolytes</emphasis></caption>
 </table>
 </section>
 </section>

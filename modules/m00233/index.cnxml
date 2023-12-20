@@ -13,8 +13,8 @@
 <item>Describe osmolality.</item>
 <item>Define tonicity.</item>
 </list>
-<para id="para-00002"><term id="term-00001">Osmolality</term> describes the concentration of solutes in a solution. It is defined as the number of solute particles per 1 kg of solvent, also known as an <term id="term-00002">osmole</term>,or a unit of osmotic concentration. Osmolarity refers to the number of solutes per 1 liter of solvent and provides valuable insight into how solutions will behave under different conditions, enabling the manipulation of their properties to achieve optimal changes within the body.</para>
 </section>
+<para id="para-00002"><term id="term-00001">Osmolality</term> describes the concentration of solutes in a solution. It is defined as the number of solute particles per 1 kg of solvent, also known as an <term id="term-00002">osmole</term>, or a unit of osmotic concentration. Osmolarity refers to the number of solutes per 1 liter of solvent and provides valuable insight into how solutions will behave under different conditions, enabling the manipulation of their properties to achieve optimal changes within the body.</para>
 <section id="sect-00002">
 <title>Osmolality</title>
 <para id="para-00003">Osmolality is a measure of the concentration of solutes, such as sodium, glucose, and urea, in a solution; specifically, it refers to the number of particles per kilogram of solvent. It is commonly used to assess the osmotic pressure of body fluids, such as blood or urine, and can provide important information about the body’s fluid and electrolyte balance.</para>
@@ -43,6 +43,6 @@
 <definition id="def-00006"><term>isotonicity</term> <meaning>a state in which the tonicity of a solution is equal to that of the cytoplasm of a cell</meaning></definition>
 <definition id="def-00007"><term>osmolality</term> <meaning>the number of solute particles per kilogram of solvent</meaning></definition>
 <definition id="def-00008"><term>osmole</term> <meaning>a unit of osmotic concentration</meaning></definition>
-<definition id="def-00009"><term>tonicity</term> <meaning>the ability of a solution to cause a cell to gain or lose water; it is relative to the <emphasis effect="bold">cytoplasm</emphasis> of a cell</meaning></definition>
+<definition id="def-00009"><term>tonicity</term> <meaning>the ability of a solution to cause a cell to gain or lose water; it is relative to the cytoplasm of a cell</meaning></definition>
 </glossary>
 </document>
