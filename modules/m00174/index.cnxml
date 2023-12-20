@@ -14,8 +14,9 @@
     <item>Explain the steps in the risk assessment and risk-management processes.</item>
     <item>Assess the environmental health of individuals, homes, and communities.</item>
     </list>
+  </section>
     <para id="para-00002"><term class="no-emphasis" id="term-00001">Environmental assessment</term> is the process of identifying, evaluating, and mitigating environmental risks to human health. It involves measuring pollutants, determining and managing risks, and conducting individual, home, and community assessments.</para>
-    </section>
+    
     
     <section id="sect-00002">
     <section id="sect-00003">
@@ -98,7 +99,7 @@
     <caption>The I PREPARE Mnemonic</caption>
     </table>
     <note class="case-reflection" id="note-00001">
-    <para id="para-00012">The following scenario walks through an example of a nurse performing an individual environmental health assessment on a client using the I PREPARE mnemonic. Read the scenario, and then reflect on the questions that follow.</para>
+    <para id="para-00012">The following scenario walks through an example of a nurse performing an individual environmental health assessment on a client using the I PREPARE mnemonic. Read the scenario, and then respond to the questions that follow.</para>
     <para id="para-00013">Kyra, a 35-year-old client, presents to the county clinic after experiencing persistent symptoms, including coughing, sneezing, and hoarseness, for several months. She’s concerned that her symptoms might be related to the apartment she recently moved into. After reviewing her health history, Nurse Kyle uses the I PREPARE framework to perform an individual environmental health assessment.</para>
     <para id="para-00014">I—Investigate Potential Exposures: Kyle asks Kyra if she has had any known exposure to pollutants at home, at work, or in the community. He asks if her symptoms improve or worsen when she is at home, at work, or outside. Kyra notes while she isn’t sure what she’s being exposed to, she usually feels worse in the morning.</para>
     <para id="para-00015">P—Present Work: Kyle asks about Kyra’s work environment. Kyra is a graphic designer who works three days a week in a well-ventilated office building downtown and works from home the remaining two days.</para>
@@ -119,7 +120,7 @@
     </section>
     <section id="sect-00007">
     <title>Home Assessment</title>
-    <para id="para-00022">What constitutes an environmentally healthy home? According to the <term class="no-emphasis" id="term-00013">National Center for Health Housing</term>, a healthy home has 10 characteristics: dry, clean, safe, ventilation, pest and contaminant free, regularly maintained, and has a comfortable temperature (National Center for Healthy Housing, 2023). It’s important to note that home health assessments are critical for promoting health equity by addressing disparities in housing quality. For example, programs to improve home indoor air quality are proven to reduce the incidence of asthma among <term class="no-emphasis" id="term-00014">BIPOC</term> children and children residing in substandard housing (Martin et al., 2021). Furthermore, this intervention can improve the health of older adults with respiratory diseases.</para>
+    <para id="para-00022">What constitutes an environmentally healthy home? According to the <term class="no-emphasis" id="term-00013">National Center for Health Housing</term>, a healthy home has 10 characteristics: dry, clean, safe, ventilated, pest and contaminant free, regularly maintained, and has a comfortable temperature (National Center for Healthy Housing, 2023). Home health assessments are critical for promoting health equity by addressing disparities in housing quality. For example, programs to improve home indoor air quality are proven to reduce the incidence of asthma among <term class="no-emphasis" id="term-00014">BIPOC</term> children and children residing in substandard housing (Martin et al., 2021). Furthermore, this intervention can improve the health of older adults with respiratory diseases.</para>
     <para id="para-00023">Some individuals are more vulnerable to the effects of an environmentally unhealthy or unsafe home. Children, whose bodies and systems are still developing, are particularly prone to negative impacts from exposure to contaminants. Older adults, who may have preexisting health conditions, may have weaker immune systems, and may spend more time indoors, can be more susceptible to respiratory and other disorders. Pregnant people can be exposed to indoor pollutants that affect fetal development, such as secondhand smoke. Individuals with chronic conditions, such as immune or respiratory disorders, are at a higher risk of exacerbations. Individuals with limited mobility due to disability, age, or aging may spend more time indoors and have difficulty relocating to a safer environment. <link target-id="table-00002" document="m00174"/> presents some examples of possible hazards inside the home.</para>
     <table class="vertically-tight alternate-shading" id="table-00002">
     <tgroup cols="2">
@@ -169,7 +170,7 @@
     <entry valign="top" align="left">Radon</entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00006">
-    <item>Linked to an increased risk in cancer, poses a significant health threat in some areas where it is commonly found in basements</item>
+    <item>Linked to increased cancer risk, poses a significant health threat in some areas where it is commonly found in basements</item>
     </list>
     </entry>
     </row>
@@ -185,10 +186,10 @@
     <entry valign="top" align="left">Tobacco&#160;smoke</entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00008">
-    <item>It may damage the heart and blood vessels and cause coronary heart disease, stroke, and lung cancer.</item>
+    <item>May damage the heart and blood vessels and cause coronary heart disease, stroke, and lung cancer</item>
     <item>Pregnant persons exposed to secondhand smoke during pregnancy are more likely to have newborns with lower birth weight.</item>
     <item>Newborns exposed to secondhand tobacco smoke are more likely to die from sudden infant death syndrome (SIDS) than infants who are not exposed.</item>
-    <item>It causes increased risk for acute respiratory infections, middle ear disease, more frequent and severe asthma, respiratory symptoms, and slowed lung growth and can trigger asthma attacks in children.</item>
+    <item>Causes increased risk for acute respiratory infections, middle ear disease, more frequent and severe asthma, respiratory symptoms, and slowed lung growth and can trigger asthma attacks in children</item>
     </list></entry>
     </row>
     <row>
@@ -225,9 +226,9 @@
      </section>
     <section id="sect-00008">
     <title>Community Assessment</title>
-    <para id="para-00025">Community health assessments provide information about the potential, and real, environmental risks faced by individuals living, working, or recreating in a particular community. The assessment should include environmental health risks using online tools to identify potential exposures and types and levels of pollution using <link url="https://openstax.org/r/enviroepa">Envirofacts</link>. While this data is critical, it is only part of the <term class="no-emphasis" id="term-00016">community assessment</term>. Nurses can conduct a windshield survey to visually identify potential environmental risks, such as the location of industries, hazardous waste, dumps, major thoroughfares, pests, the use of pesticides, air quality, and housing conditions (see <link document="m00183"><emphasis effect="bold">Creating a Healthy Community</emphasis></link> and <link document="m00374"><emphasis effect="bold">Appendix A</emphasis></link>). In addition to observing environmental risks, a windshield survey should note areas that promote health in the community, such as parks, open spaces, gardens, and outdoor recreational areas. The University of Maryland School of Nursing and Environmental Health Center has developed the following <link url="https://openstax.org/r/envirnorg">Environmental Health Community Assessment tool</link> focused on environmental health.</para>
+    <para id="para-00025">Community health assessments provide information about the potential, and real, environmental risks faced by individuals living, working, or recreating in a particular community. The assessment should include environmental health risks using online tools to identify potential exposures and types and levels of pollution using <link url="https://openstax.org/r/enviroepa">Envirofacts</link>. While this data is critical, it is only part of the <term class="no-emphasis" id="term-00016">community assessment</term>. Nurses can conduct a windshield survey to visually identify potential environmental risks, such as the location of industries, hazardous waste, dumps, major thoroughfares, pests, the use of pesticides, air quality, and housing conditions (see <link document="m00183">Creating a Healthy Community</link> and <link document="m00374">Appendix A</link>). In addition to observing environmental risks, a windshield survey should note areas that promote health in the community, such as parks, open spaces, gardens, and outdoor recreational areas. The University of Maryland School of Nursing and Environmental Health Center has developed the following <link url="https://openstax.org/r/envirnorg">Environmental Health Community Assessment tool</link> focused on environmental health.</para>
     <note class="case-reflection" id="note-00002">
-    <para id="para-00026">The following scenario continues to follow Mr. Harper from earlier in this chapter. Read the scenario, and then reflect on the questions that follow.</para>
+    <para id="para-00026">This scenario continues to follow Mr. Harper from earlier in this chapter. Read the scenario, and then respond to the questions that follow.</para>
     <para id="para-00027">While assessing Mr. Harper’s home environment, Nurse Regis discovers that the house is adjacent to a mound of mining waste, raising concerns about the possible inhalation of particulate matter. Moreover, after hearing rumors that the community’s water supply might be contaminated, Mr. Harper now uses water hauled by his neighbor from a nearby stream. Mr. Harper points out the stream to Nurse Regis, who notes that rocks are tinged with red, a sign of acid mine drainage. Upon further assessment, Nurse Regis finds that Mr. Harper’s skin is reddened, dry, and itchy. When asked about the rash, Mr. Harper becomes irritable, stating he isn’t sure when the rash began and is more upset that he’s recently been having difficulty remembering things and easily becomes confused.</para>
     <para id="para-00028">The nurse collaborates with a social worker from the county’s department of aging to arrange for an aide to assist Mr. Harper twice weekly, helping to keep his home dry and free of dust and bringing him a supply of bottled water to use until the community’s water is verified as safe.</para>
     <list list-type="enumerated" number-style="arabic" id="list-00012">
