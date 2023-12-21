@@ -8,7 +8,7 @@
   <content>
 <section class="learning-objectives" id="sect-00001">
 <title>Learning Outcomes</title>
-<para id="para-00001">By the end of this section, you will be able to:</para>
+<para id="para-00001">By the end of this section, you should be able to:</para>
 <list id="list-00001">
 <item>Identify the characteristics of expectorant and mucolytic drugs used to treat respiratory disorders.</item>
 <item>Explain the indications, actions, adverse reactions, and interactions of expectorant and mucolytic drugs used to treat respiratory disorders.</item>
@@ -38,7 +38,7 @@ Expectorant<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Increases production of respiratory tract fluids to liquefy mucus</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-200–400 mg orally every 4 hours. <newline/>
+200 mg orally every 4 hours. <newline/>
 <emphasis effect="italics">Extended-release tablets:</emphasis> 600–1200 mg orally every 12 hours. <newline/>
 Maximum dose: 2400 mg daily.</entry>
 </row>
@@ -68,7 +68,7 @@ Pregnancy</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype Table: Guaifenesin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Guaifenesin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 </section>
@@ -80,14 +80,14 @@ Pregnancy</entry>
 <para id="para-00006"><term id="term-00004">Mucolytics</term> also help clients to clear mucus from the airway. They differ from expectorants in that they are used to help high-risk respiratory clients cough up thick, tenacious mucus. Mucolytics directly break down the structure of mucus by breaking its protein bonds, helping to reduce the thickness and stickiness of mucus. Clients with tracheostomies often benefit from mucolytics. Mucolytics are also sometimes used to clear the airway in preparation for a bronchoscopy.</para>
 <section id="sect-00006">
 <title>Acetylcysteine</title>
-<para id="para-00007">Acetylcysteine is used to help clients clear thick, tenacious mucus from the airways. It is often used in clients with pneumonia, bronchitis, <term id="term-00005">cystic fibrosis</term>, and emphysema. It can also be used prior to bronchial studies, such as bronchoscopy, to help clear the airway, and is also used as routine tracheostomy care. To manage respiratory symptoms the medication is inhaled. Acetylcysteine is also administered orally or intravenously as the antidote for acetaminophen toxicity.</para>
+<para id="para-00007">Acetylcysteine is used to help clients clear thick, tenacious mucus from the airways. It is often used in clients with pneumonia, bronchitis, <term id="term-00005">cystic fibrosis</term>, and emphysema. It can also be used prior to bronchial studies, such as bronchoscopy, to help clear the airway and is also used as routine tracheostomy care. To manage respiratory symptoms, the medication is inhaled. Acetylcysteine is also administered orally or intravenously as the antidote for acetaminophen toxicity.</para>
 <para id="para-00008">Side effects include tachycardia, nausea, and vomiting. Acetylcysteine is contraindicated in clients with hypersensitivity to it or those with peptic ulcer disease.</para>
 </section>
 <section id="sect-00007">
 <title>Dornase Alfa</title>
 <para id="para-00009">Dornase alfa is another mucolytic used most often to lower the number of lung infections and help lung function in cystic fibrosis. Dornase alfa acts like an enzyme naturally found in the lungs to help thin out thick, sticky mucus. Removing mucus in these clients helps to reduce the number of infections that they may have by reducing the potential breeding ground for bacteria.</para>
-<para id="para-00010">Donase alfa can cause voice changes, hoarseness, and sore throat. It is contraindicated in those with hypersensitivity to the drug or to Chinese hamster ovary cell products used in the pharmaceutical industry.</para>
-<para id="para-00011"><link target-id="table-00002" document="m00397"/> lists common mucolytics and typical routes and dosing for adult clients.</para>
+<para id="para-00010">Dornase alfa can cause voice changes, hoarseness, and sore throat. It is contraindicated in those with hypersensitivity to the drug or to Chinese hamster ovary cell products used in the pharmaceutical industry.</para>
+<para id="para-00011"><link target-id="table-00002" document="m00398"/> lists common mucolytics and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -113,7 +113,7 @@ Pregnancy</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Emphasis Table: Mucolytics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Mucolytics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 <section id="sect-00008">
@@ -163,17 +163,17 @@ Asthma (IV form)</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype Table: Acetylcysteine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Acetylcysteine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="link-to-learning" id="note-00001">
-<title><emphasis effect="bold">Respiratory Therapy Zone</emphasis></title>
+<title>Respiratory Therapy Zone</title>
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/mucolytic"/>
 </media>
 <para id="para-00014">This video from Respiratory Therapy Zone discusses the mucolytic agent acetylcysteine.</para>
 </note>
 <note class="safety-alert" id="note-00002">
-<title><emphasis effect="bold">Mucolytics</emphasis></title>
+<title>Mucolytics</title>
 <para id="para-00015">Because acetylcysteine commonly causes vomiting, it should be strictly avoided in client with peptic ulcer disease, esophageal varices, and <term id="term-00010">Mallory-Weis tears</term>.</para>
 </note>
 </section>
@@ -191,7 +191,7 @@ Asthma (IV form)</entry>
 <item>Educate the client on adverse effects of mucolytics including fever, tachycardia, and pharyngitis.</item>
 <item>Monitor vital signs for tachycardia or fever for clients taking mucolytics.</item>
 <item>Clients receiving acetylcysteine should be monitored closely for bronchospasm, especially if they have asthma, because they are at higher risk for bronchospasm.</item>
-<item>Instruct the client on medication indications, dose, and when to call the healthcare provider. See below for client teaching guidelines.</item>
+<item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
 </list>
 <note class="client-teaching" id="note-00003">
 <para id="para-00017"><emphasis effect="bold">The client taking an expectorant or mucolytic should:</emphasis></para>
@@ -233,17 +233,17 @@ Asthma (IV form)</entry>
 <para id="para-00037">DailyMed. (Updated March 29, 2023). <emphasis effect="italics">Chlorpheniramine maleate tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31dec627-f2e4-6dbe-e05400144ff8d46c&amp;audience=consumer</para>
 <para id="para-00038">DailyMed. (Updated November 16, 2022). <emphasis effect="italics">Codeine guaifenesin solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe126254-6ee6-48c3-965c-96e4276a5314</para>
 <para id="para-00039">DailyMed. (Updated December 14, 2010). <emphasis effect="italics">Desloratadine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b546121-ef6b-458c-ae0c-ce5bba3dc9a3</para>
-<para id="para-00040">DailyMed. (Updated November 16, 2020). <emphasis effect="italics">Dextromethorphan tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&amp;query=DEXTROMETHORPHAN</para>
 <para id="para-00041">DailyMed. (Updated July 14, 2022). <emphasis effect="italics">Diphenhydramine hydrochloride tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d026ead-c3de-4dc6-9d3c-5a603f6dde4e</para>
 <para id="para-00042">DailyMed. (Updated October 21, 2020). <emphasis effect="italics">Dornase alfa solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8c78a7e-ff99-48f3-8952-643ec2ea0f86</para>
 <para id="para-00043">DailyMed. (Updated February 26, 2023). <emphasis effect="italics">Fexofenadine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08023b99-0634-4ac9-afd6-4f2d2e0d2c8a</para>
-<para id="para-00044">DailyMed. (Updated January 28, 2022). <emphasis effect="italics">Guaifenesin tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d6aa1493-bc22-a318-e053-2995a90a6381</para>
+<para id="para-00044">DailyMed. (Updated October 21, 2023). <emphasis effect="italics">Guaifenesin 200 mg-guaifenesin tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d6aa1493-bc22-a318-e053-2995a90a6381</para>
 <para id="para-00045">DailyMed. (Updated January 5, 2011). <emphasis effect="italics">Levocetirizine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8d416349-161d-4232-b6b4-e75214ea4841</para>
 <para id="para-00046">DailyMed. (Updated December 1, 2009). <emphasis effect="italics">Loratadine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7a2f0eef-7803-497d-926c-a6163a89eb56</para>
 <para id="para-00047">DailyMed. (Updated January 3, 2023). <emphasis effect="italics">Nasal decongestant D-pseudoephedrine hcl tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c3b5d9f7-3e4d-4b27-ac34-3192d21ee2e2</para>
 <para id="para-00048">DailyMed. (Updated October 14, 2015). <emphasis effect="italics">Oxymetazoline nasal solution spray.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e1f4180-5cf8-48a0-a01f-77cd4574e2a9</para>
-<para id="para-00049">DailyMed (Updated December 18, 2020). <emphasis effect="italics">Phenylephrine capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a24f09d9-60f1-853a-e053-2a95a90ae1fa</para>
+<para id="para-00049">DailyMed (Updated February 9, 2023). <emphasis effect="italics">Phenylephrine HCL maximum strength-phenylephrine hcl tablet, film coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=953cad64-d587-4f25-a04f-fee2edf9ebb2</para>
 <para id="para-00050">DailyMed (Updated November 3, 2022). <emphasis effect="italics">Pseudoephedrine tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1056d9da-8a3f-4b7a-878e-7f8d45d298cd</para>
+<para id="para-00040">DailyMed. (Updated July 20, 2023). <emphasis effect="italics">Robitussin direct cough-dextromethorphan hydrobromide capsule, liquid filled.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c9556b-063a-4fb3-96f6-1d4ffa495ed4</para>
 <para id="para-00051">Fowler, P. (2022). <emphasis effect="italics">Histamines: What they do, and how they can overreact.</emphasis> WebMD. https://www.webmd.com/allergies/what-are-histamines</para>
 <para id="para-00052">Johnson and Johnson. (2023). <emphasis effect="italics">What are antihistamines and how do they work?</emphasis> ZYRTEC. https://www.zyrtec.com/allergy-guide/understanding-allergies/treatment/what-are-antihistamines</para>
 <para id="para-00053">MedlinePlus. (2017). <emphasis effect="italics">Benzonatate.</emphasis> https://medlineplus.gov/druginfo/meds/a682640.html</para>
@@ -251,10 +251,10 @@ Asthma (IV form)</entry>
 <para id="para-00055">MedlinePlus. (2022). <emphasis effect="italics">Loratadine</emphasis>. https://medlineplus.gov/druginfo/meds/a697038.html</para>
 <para id="para-00056">MedlinePlus. (2023). <emphasis effect="italics">Codeine.</emphasis> https://medlineplus.gov/druginfo/meds/a682065.html</para>
 <para id="para-00057">MyHealth.Alberta.ca Network. (2022). <emphasis effect="italics">Decongestants.</emphasis> https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=sig48021</para>
-<para id="para-00058">Naqvi, A. &amp; Gerriets, V. (2023). <emphasis effect="italics">Cetirizine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK549776/</para>
+<para id="para-00058">Naqvi, A., &amp; Gerriets, V. (2023). <emphasis effect="italics">Cetirizine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK549776/</para>
 <para id="para-00059">NHS. (2021). <emphasis effect="italics">Fexofenadine.</emphasis> https://www.nhs.uk/medicines/fexofenadine/</para>
 <para id="para-00060">Nurselabs. (2023). <emphasis effect="italics">Antitussives.</emphasis> https://nurseslabs.com/antitussives/</para>
-<para id="para-00061">Ricciardi, L., Furci, F., &amp; Stefania, I. (2019). H1-antihistamines for allergic diseases: old aged but not old-fashioned drugs. <emphasis effect="italics">International Journal of Allergy Medications,</emphasis> <emphasis effect="italics">5</emphasis>, 37. doi.org/10.23937/2572-3308.1510037</para>
+<para id="para-00061">Ricciardi, L., Furci, F., &amp; Stefania, I. (2019). H1-antihistamines for allergic diseases: Old aged but not old-fashioned drugs. <emphasis effect="italics">International Journal of Allergy Medications,</emphasis> <emphasis effect="italics">5</emphasis>, 37. doi.org/10.23937/2572-3308.1510037</para>
 <para id="para-00062">Sakur, A. A., Nashed, D., &amp; Noureldin, I. (2022). Green potentiometric determination of some of the third-generation antihistamines: Fexofenadine, desloratadine, and levocetirizine by using new carbon paste electrodes. <emphasis effect="italics">Talanta Open</emphasis>, <emphasis effect="italics">5</emphasis>, 100116. https://doi.org/10.1016/j.talo.2022.100116</para>
 <para id="para-00063">Sicari, V., &amp; Zabbo, C. P. (2023). <emphasis effect="italics">Diphenhydramine.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK526010</para>
 <para id="para-00064">Sison, G. (2022). <emphasis effect="italics">Antitussives: Uses, common brands, and safety info.</emphasis> Single Care. https://www.singlecare.com/drug-classes/antitussives</para>
