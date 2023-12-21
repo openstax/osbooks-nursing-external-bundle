@@ -64,7 +64,7 @@
 <row>
 <entry valign="top" align="left">Pituitary gland</entry>
 <entry valign="top" align="left">Known as the “master gland,” it influences many other endocrine glands, including the thyroid. It affects various bodily functions such as blood pressure, metabolism, and growth.</entry>
-<entry valign="top" align="left">(&lt; 2,300 mg/day); diet low in ultra-processed foods which decreases inflammation</entry>
+<entry valign="top" align="left">(&lt; 2300 mg/day); diet low in ultra-processed foods which decreases inflammation</entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Testes</term></entry>
@@ -80,13 +80,6 @@
 </tgroup>
 <caption>Key Endocrine Glands and Their Role in Regulating Hormones (sources: Betts et al., 2022; Salas-Huetos A., 2020; Samodien, E. et al., 2019; Tan, D. X. et al., 2018; U.S. Department of Agriculture &amp; U.S. Department of Health and Human Services, 2020; Xenou, M., &amp; Gourounti, K., 2021. )</caption>
 </table>
-<note class="media-feature" id="note-00001">
-<title>Endocrine System</title>
-<media alt="atoms_isotopes">
-<iframe width="560" height="315" src="https://openstax.org/r/Endocrine"/>
-</media>
-<para id="para-00005">Knowing how the endocrine system works is fundamental to understanding the importance of good nutrition to manage endocrine conditions. Watch this video for an overview of the structure and function of the endocrine system.</para>
-</note>
 </section>
 <section id="sect-00003">
 <title>Alterations in Endocrine System Function</title>
@@ -102,7 +95,7 @@
 </section>
 <section id="sect-00005">
 <title>Alterations in Endocrine System Function – Other Endocrine Disorders</title>
-<para id="para-00011">Other endocrine disorders commonly seen are hypo/hyperthyroidism and adrenal disorders. Hypothyroidism results from the decreased levels of <term id="term-00020">thyroid hormones T4 and T3</term>. Accordingly, thyroid stimulating hormone (TSH) is increased, indicating that the thyroid gland is not functioning properly. It usually from autoimmune causes, but it could also occur after radioactive iodine therapy or surgery for hyperthyroidism or <term id="term-00021">goiter</term> (Braunstein, 2022). Hyperthyroidism is caused by increased secretion of T4 and T3 caused by <term id="term-00022">Graves’ disease</term>, goiter, or thyroiditis. Adrenal insufficiency is caused by <term id="term-00023">Addison’s disease</term> or a disorder regulating the pituitary gland and results in low cortisol levels in the body (Grossman, 2022). In an effort to stimulate the adrenal glands, adrenocorticotropic hormone (ACTH) is released. Conversely, <term id="term-00024">Cushing’s disease/syndrome</term> develops when corticosteroid levels in the body are high either from taking corticosteroid medications or from overproduction by the adrenal glands.</para>
+<para id="para-00011">Other endocrine disorders commonly seen are hypo/hyperthyroidism and adrenal disorders. Hypothyroidism results from the decreased levels of <term id="term-00020">thyroid hormones T4 and T3</term>. Accordingly, thyroid stimulating hormone (TSH) is increased, indicating that the thyroid gland is not functioning properly. It usually results from autoimmune causes, but it could also occur after radioactive iodine therapy or surgery for hyperthyroidism or <term id="term-00021">goiter</term> (Braunstein, 2022). Hyperthyroidism is caused by increased secretion of T4 and T3 caused by <term id="term-00022">Graves’ disease</term>, goiter, or thyroiditis. Adrenal insufficiency is caused by <term id="term-00023">Addison’s disease</term> or a disorder regulating the pituitary gland and results in low cortisol levels in the body (Grossman, 2022). In an effort to stimulate the adrenal glands, adrenocorticotropic hormone (ACTH) is released. Conversely, <term id="term-00024">Cushing’s disease/syndrome</term> develops when corticosteroid levels in the body are high either from taking corticosteroid medications or from overproduction by the adrenal glands.</para>
 </section>
 </section>
 
@@ -176,7 +169,7 @@
 <row>
 <entry valign="top" align="left">Urinary free cortisol measurement</entry>
 <entry valign="top" align="left">&lt; 90 mcg (micrograms)/24 hours</entry>
-<entry valign="top" align="left">Elevated levels consistent with Cushing's/syndrome</entry>
+<entry valign="top" align="left">Elevated levels consistent with Cushing's syndrome</entry>
 </row>
 </tbody>
 </tgroup>
@@ -276,7 +269,8 @@
 <definition id="def-00013"><term>primary endocrine disorders</term> <meaning>caused by dysfunction in the affected peripheral endocrine gland</meaning></definition>
 <definition id="def-00014"><term>secondary endocrine disorders</term> <meaning>develop when the pituitary gland is either over or under stimulated by the hypothalamus causing an alteration in the peripheral gland’s function</meaning></definition>
 <definition id="def-00015"><term>T3</term> <meaning>triiodothyronine hormones released by the thyroid gland to help regulate weight, energy levels, and metabolism</meaning></definition>
-<definition id="def-00016"><term>Type 1 diabetes</term> <meaning>develops when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin</meaning></definition>
-<definition id="def-00017"><term>Type 2 diabetes</term> <meaning>results from insulin resistance that develops gradually from obesity and aging</meaning></definition>
+<definition id="def-00018"><term>T4</term> <meaning>tetraiodothyronine (thyroxine) long-acting hormone released by the thyroid gland that can be converted to T3</meaning></definition>
+<definition id="def-00016"><term>type 1 diabetes</term> <meaning>develops when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin</meaning></definition>
+<definition id="def-00017"><term>type 2 diabetes</term> <meaning>results from insulin resistance that develops gradually from obesity and aging</meaning></definition>
 </glossary>
 </document>
