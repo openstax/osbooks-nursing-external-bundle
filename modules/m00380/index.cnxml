@@ -1,388 +1,388 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
   <title>Common Abbreviations and Lab Values</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title/>
-    <md:content-id>m00380</md:content-id>
-    <md:uuid>896aecac-5313-4f35-96f3-b989629244b5</md:uuid>
+  <md:title/>
+  <md:content-id>m00380</md:content-id>
+  <md:uuid>896aecac-5313-4f35-96f3-b989629244b5</md:uuid>
   </metadata>
   <content class="appendix">
-    <section id="sect-00001">
-      <title/>
-<para id="para-00001">Nurses are required to review and interpret lab values. <link target-id="table-00001" document="m00380"/> lists common abbreviations, and <link target-id="table-00002" document="m00380"/> lists common lab values for nurses to learn.</para>
-<table class="vertically-tight" id="table-00001">
-<title/>
+  <section id="sect-00001">
+  <title/>
+  <para id="para-00001">Nurses are required to review and interpret lab values. <link target-id="table-00001" document="m00380"/> lists common abbreviations, and <link target-id="table-00002" document="m00380"/> lists common lab values for nurses to learn.</para>
+  <table class="vertically-tight" id="table-00001">
+  <title/>
   <tgroup cols="5">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <colspec colnum="4" colname="c4" colwidth="1*"/>
-    <colspec colnum="5" colname="c5" colwidth="1*"/>
-   <thead>   
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <thead>   
   <row>
-<entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
-<entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
-<entry valign="top"> </entry>
-<entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
-<entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
   </row>
-   </thead>
-   <tbody>  
-<row>
-<entry valign="top">cells/mcL or cells/µL</entry>
-<entry valign="top">Cells per microliter</entry>
-<entry valign="top" morerows="14"> </entry>
-<entry valign="top">mg/dL</entry>
-<entry valign="top">Milligrams per deciliter</entry>
-</row>
-<row>
-<entry valign="top">cells/mL</entry>
-<entry valign="top">Cells per milliliter (cubic centimeter)</entry>
-<entry valign="top">microunits/mL</entry>
-<entry valign="top">Microunits per milliliter</entry>
-</row>
-<row>
-<entry valign="top">cm</entry>
-<entry valign="top">Centimeter</entry>
-<entry valign="top">mL</entry>
-<entry valign="top">Milliliter</entry>
-</row>
-<row>
-<entry valign="top">fl oz</entry>
-<entry valign="top">Fluid ounce</entry>
-<entry valign="top">mL/minute</entry>
-<entry valign="top">Milliliters per minute</entry>
-</row>
-<row>
-<entry valign="top">fL</entry>
-<entry valign="top">Femtoliter</entry>
-<entry valign="top">mm</entry>
-<entry valign="top">Millimeter</entry>
-</row>
-<row>
-<entry valign="top">g</entry>
-<entry valign="top">Gram</entry>
-<entry valign="top">mm<sup>3</sup></entry>
-<entry valign="top">Cubic millimeter</entry>
-</row>
-<row>
-<entry valign="top">g/dL</entry>
-<entry valign="top">Grams per deciliter</entry>
-<entry valign="top">mm Hg</entry>
-<entry valign="top">Millimeters of mercury</entry>
-</row>
-<row>
-<entry valign="top">HPF</entry>
-<entry valign="top">High-power field</entry>
-<entry valign="top">mmol/L</entry>
-<entry valign="top">Millimoles per liter</entry>
-</row>
-<row>
-<entry valign="top">IU</entry>
-<entry valign="top">International unit</entry>
-<entry valign="top">ng/mL</entry>
-<entry valign="top">Nanograms per milliliter</entry>
-</row>
-<row>
-<entry valign="top">kg</entry>
-<entry valign="top">Kilogram</entry>
-<entry valign="top">oz</entry>
-<entry valign="top">Ounce</entry>
-</row>
-<row>
-<entry valign="top">L</entry>
-<entry valign="top">Liter</entry>
-<entry valign="top">pg/mL</entry>
-<entry valign="top">Picograms per milliliter</entry>
-</row>
-<row>
-<entry valign="top">lb or #</entry>
-<entry valign="top">Pound</entry>
-<entry valign="top">Tbsp</entry>
-<entry valign="top">Tablespoon</entry>
-</row>
-<row>
-<entry valign="top">mcg/dL or µg/dL</entry>
-<entry valign="top">Micrograms per deciliter</entry>
-<entry valign="top">tsp</entry>
-<entry valign="top">Teaspoon</entry>
-</row>
-<row>
-<entry valign="top">mEq/L</entry>
-<entry valign="top">Milliequivalents per liter</entry>
-<entry valign="top">units/L</entry>
-<entry valign="top">Units per liter</entry>
-</row>
-<row>
-<entry valign="top">mg</entry>
-<entry valign="top">Milligram</entry>
-<entry valign="top"/>
-<entry valign="top"/>
-</row>
-</tbody>
+  </thead>
+  <tbody>  
+  <row>
+  <entry valign="top">cells/mcL or cells/µL</entry>
+  <entry valign="top">Cells per microliter</entry>
+  <entry valign="top" morerows="14"> </entry>
+  <entry valign="top">mg/dL</entry>
+  <entry valign="top">Milligrams per deciliter</entry>
+  </row>
+  <row>
+  <entry valign="top">cells/mL</entry>
+  <entry valign="top">Cells per milliliter (cubic centimeter)</entry>
+  <entry valign="top">microunits/mL</entry>
+  <entry valign="top">Microunits per milliliter</entry>
+  </row>
+  <row>
+  <entry valign="top">cm</entry>
+  <entry valign="top">Centimeter</entry>
+  <entry valign="top">mL</entry>
+  <entry valign="top">Milliliter</entry>
+  </row>
+  <row>
+  <entry valign="top">fl oz</entry>
+  <entry valign="top">Fluid ounce</entry>
+  <entry valign="top">mL/minute</entry>
+  <entry valign="top">Milliliters per minute</entry>
+  </row>
+  <row>
+  <entry valign="top">fL</entry>
+  <entry valign="top">Femtoliter</entry>
+  <entry valign="top">mm</entry>
+  <entry valign="top">Millimeter</entry>
+  </row>
+  <row>
+  <entry valign="top">g</entry>
+  <entry valign="top">Gram</entry>
+  <entry valign="top">mm<sup>3</sup></entry>
+  <entry valign="top">Cubic millimeter</entry>
+  </row>
+  <row>
+  <entry valign="top">g/dL</entry>
+  <entry valign="top">Grams per deciliter</entry>
+  <entry valign="top">mm Hg</entry>
+  <entry valign="top">Millimeters of mercury</entry>
+  </row>
+  <row>
+  <entry valign="top">HPF</entry>
+  <entry valign="top">High-power field</entry>
+  <entry valign="top">mmol/L</entry>
+  <entry valign="top">Millimoles per liter</entry>
+  </row>
+  <row>
+  <entry valign="top">IU</entry>
+  <entry valign="top">International unit</entry>
+  <entry valign="top">ng/mL</entry>
+  <entry valign="top">Nanograms per milliliter</entry>
+  </row>
+  <row>
+  <entry valign="top">kg</entry>
+  <entry valign="top">Kilogram</entry>
+  <entry valign="top">oz</entry>
+  <entry valign="top">Ounce</entry>
+  </row>
+  <row>
+  <entry valign="top">L</entry>
+  <entry valign="top">Liter</entry>
+  <entry valign="top">pg/mL</entry>
+  <entry valign="top">Picograms per milliliter</entry>
+  </row>
+  <row>
+  <entry valign="top">lb or #</entry>
+  <entry valign="top">Pound</entry>
+  <entry valign="top">Tbsp</entry>
+  <entry valign="top">Tablespoon</entry>
+  </row>
+  <row>
+  <entry valign="top">mcg/dL or µg/dL</entry>
+  <entry valign="top">Micrograms per deciliter</entry>
+  <entry valign="top">tsp</entry>
+  <entry valign="top">Teaspoon</entry>
+  </row>
+  <row>
+  <entry valign="top">mEq/L</entry>
+  <entry valign="top">Milliequivalents per liter</entry>
+  <entry valign="top">units/L</entry>
+  <entry valign="top">Units per liter</entry>
+  </row>
+  <row>
+  <entry valign="top">mg</entry>
+  <entry valign="top">Milligram</entry>
+  <entry valign="top"/>
+  <entry valign="top"/>
+  </row>
+  </tbody>
   </tgroup>
-<caption>Common Abbreviations</caption>
-</table>
-<para id="para-00003">Note that the abbreviation for “micro” is sometimes shown as the Greek mu(μ, as in μL); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
-<table class="vertically-tight" id="table-00002">
-<title/>
+  <caption>Common Abbreviations</caption>
+  </table>
+  <para id="para-00003">Note that the abbreviation for “micro” is sometimes shown as the Greek mu(µ, as in µL); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
+  <table class="vertically-tight" id="table-00002">
+  <title/>
   <tgroup cols="8">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <colspec colnum="4" colname="c4" colwidth="1*"/>
-    <colspec colnum="5" colname="c5" colwidth="3*"/>
-    <colspec colnum="6" colname="c6" colwidth="1*"/>
-    <colspec colnum="7" colname="c7" colwidth="1*"/>
-    <colspec colnum="8" colname="c8" colwidth="2*"/>
-    <tbody> 
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="3*"/>
+  <colspec colnum="6" colname="c6" colwidth="1*"/>
+  <colspec colnum="7" colname="c7" colwidth="1*"/>
+  <colspec colnum="8" colname="c8" colwidth="2*"/>
+  <tbody> 
   <row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Arterial Blood Gases</span></emphasis></entry>
+  <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Arterial Blood Gases</span></emphasis></entry>
   </row>
-<row>
-<entry valign="top">pH</entry>
-<entry valign="top">7.35–7.45</entry>
-<entry valign="top" morerows="1"> </entry>
-<entry valign="top">PaCO<sub>2</sub></entry>
-<entry valign="top">35–45&#160;mm&#160;Hg</entry>
-<entry valign="top" morerows="1"> </entry>
-<entry valign="top">Base excess/base deficit</entry>
-<entry valign="top">–2 to +2 mEq/L</entry>
-</row>
-<row>
-<entry valign="top">PaO<sub>2</sub></entry>
-<entry valign="top">75–100&#160;mm Hg</entry>
-<entry valign="top">HCO<sub>3</sub></entry>
-<entry valign="top">22–26 mEq/L</entry>
-<entry valign="top">SaO<sub>2</sub></entry>
-<entry valign="top">95%–100%</entry>
-</row>
-<row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Serum Blood Tests</span></emphasis></entry>
-</row>
-<row>
-<entry valign="top">Albumin</entry>
-<entry valign="top">3.5–5.5 g/dL</entry>
-<entry valign="top" morerows="17"> </entry>
-<entry valign="top">Glucose (fasting)</entry>
-<entry valign="top">70–99 mg/dL</entry>
-<entry valign="top" morerows="17"> </entry>
-<entry valign="top">MCV</entry>
-<entry valign="top">80–98 fL</entry>
-</row>
-<row>
-<entry valign="top">Alk phos</entry>
-<entry valign="top">30–120 units/L</entry>
-<entry valign="top" morerows="3">Glucose tolerance test</entry>
-<entry valign="top" morerows="3">(Start) 70–100&#160;mg/dL<newline/>
-(1 hour) &lt;180 mg/dL<newline/>
-(2 hours) &lt;140 mg/dL</entry>
-<entry valign="top">Monocytes</entry>
-<entry valign="top">4,000–11,000 cells/mcL</entry>
-</row>
-<row>
-<entry valign="top">ALT</entry>
-<entry valign="top">10–40 units/L</entry>
-<entry valign="top">Neutrophils</entry>
-<entry valign="top">2,000–8,250 cells/mcL</entry>
-</row>
-<row>
-<entry valign="top">Ammonia</entry>
-<entry valign="top">40–70 mcg/dL</entry>
-<entry valign="top">Phosphorus</entry>
-<entry valign="top">3.0–4.5 mg/dL</entry>
-</row>
-<row>
-<entry valign="top">Amylase</entry>
-<entry valign="top">3–125 units/L</entry>
-<entry valign="top">Platelet count</entry>
-<entry valign="top">150–450 × 10<sup>9</sup>/L</entry>
-</row>
-<row>
-<entry valign="top">AST</entry>
-<entry valign="top">10–40 units/L</entry>
-<entry valign="top">HDL</entry>
-<entry valign="top">(F) >50 mg/dL<newline/>
-(M) >40 mg/dL</entry>
-<entry valign="top">Potassium</entry>
-<entry valign="top">3.5–5.0 mEq/L</entry>
-</row>
-<row>
-<entry valign="top">Bicarb (HCO<sub>3</sub>)</entry>
-<entry valign="top">23–28 mEq/L</entry>
-<entry valign="top" morerows="1">Hematocrit</entry>
-<entry valign="top" morerows="1">(F) 37%–47%<newline/>
-(M) 42%–50%</entry>
-<entry valign="top">Protein</entry>
-<entry valign="top">5.5–9.0 g/dL</entry>
-</row>
-<row>
-<entry valign="top">Bilirubin, total</entry>
-<entry valign="top">0.3–1.0 mg/dL</entry>
-<entry valign="top">PT<newline/>
-PTT</entry>
-<entry valign="top">11–13 seconds<newline/>
-25–35 seconds</entry>
-</row>
-<row>
-<entry valign="top">BNP</entry>
-<entry valign="top">0–100 pg/mL</entry>
-<entry valign="top" morerows="1">Hemoglobin</entry>
-<entry valign="top" morerows="1">(F) 12–16 g/dL<newline/>
-(M) 14–18 g/dL</entry>
-<entry valign="top" morerows="1">RBC</entry>
-<entry valign="top" morerows="1">(F) 4.2–5.4 million/mm<sup>3</sup><newline/>
-(M) 4.7–6.1 million/mm<sup>3</sup></entry>
-</row>
-<row>
-<entry valign="top">BUN</entry>
-<entry valign="top">8–20 mg/dL</entry>
-</row>
-<row>
-<entry valign="top">Calcium</entry>
-<entry valign="top">8.6–10.2 mg/dL</entry>
-<entry valign="top">HgbA1c</entry>
-<entry valign="top">4.0%–5.6%</entry>
-<entry valign="top">RDW</entry>
-<entry valign="top">9.0%–14.5%</entry>
-</row>
-<row>
-<entry valign="top">Chloride</entry>
-<entry valign="top">98–106 mEq/L</entry>
-<entry valign="top">INR</entry>
-<entry valign="top">0.8–1.2 seconds</entry>
-<entry valign="top">SaO<sub>2</sub></entry>
-<entry valign="top">95%–100%</entry>
-</row>
-<row>
-<entry valign="top">Cholesterol</entry>
-<entry valign="top">&lt;200 mg/dL</entry>
-<entry valign="top">Iron</entry>
-<entry valign="top">50–150 mcg/dL</entry>
-<entry valign="top">Sodium</entry>
-<entry valign="top">136–145 mEq/L</entry>
-</row>
-<row>
-<entry valign="top">CK</entry>
-<entry valign="top">(F) 30–135 units/L<newline/>
-(M) 55–170 units/L</entry>
-<entry valign="top">Lactic acid</entry>
-<entry valign="top">(Art) &lt;0.6 mmol/L<newline/>
-(Ven) 0.7–1.8 mmol/L</entry>
-<entry valign="top">Triglycerides (fasting)</entry>
-<entry valign="top">&lt;150 mg/dL</entry>
-</row>
-<row>
-<entry valign="top">CO<sub>2</sub> (CMP)</entry>
-<entry valign="top">23–30 mEq/L</entry>
-<entry valign="top">LDL</entry>
-<entry valign="top">&lt;130 mg/dL</entry>
-<entry valign="top">Troponin T</entry>
-<entry valign="top">0–0.01 ng/mL</entry>
-</row>
-<row>
-<entry valign="top">Creatinine</entry>
-<entry valign="top">(F) 0.5–1.10 mg/dL<newline/>
-(M) 0.70–1.30 mg/dL</entry>
-<entry valign="top">Lipase</entry>
-<entry valign="top">10–140 units/L</entry>
-<entry valign="top">TSH</entry>
-<entry valign="top">0.4–6 mcg/mL</entry>
-</row>
-<row>
-<entry valign="top">D-dimer</entry>
-<entry valign="top">&lt;0.5 mcg/mL</entry>
-<entry valign="top">Lymphocytes</entry>
-<entry valign="top">20–40 × 10<sup>9</sup>/L</entry>
-<entry valign="top">WBC</entry>
-<entry valign="top">5,000–10,000/mL</entry>
-</row>
-<row>
-<entry valign="top">GFR</entry>
-<entry valign="top">≥90 mL/minute</entry>
-<entry valign="top">Magnesium</entry>
-<entry valign="top">1.6–2.6 mEq/L</entry>
-<entry valign="top">WBC</entry>
-<entry valign="top">5,000–10,000/mL</entry>
-</row>
-<row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
-</row>
-<row>
-<entry valign="top">Sputum culture</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top" morerows="1"> </entry>
-<entry valign="top" morerows="1" namest="c4" nameend="c8"> </entry>
-</row>
-<row>
-<entry valign="top">Fungal (yeast) culture</entry>
-<entry valign="top">Negative</entry>
-</row>
-<row>
-<entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Urine Tests</span></emphasis></entry>
-</row>
-<row>
-<entry valign="top">Bacteria</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top" morerows="6"> </entry>
-<entry valign="top">Glucose</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top" morerows="6"> </entry>
-<entry valign="top">Specific gravity</entry>
-<entry valign="top">1.002</entry>
-</row>
-<row>
-<entry valign="top">Bilirubin</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top">Ketones</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top">WBC</entry>
-<entry valign="top">0–5 HPF</entry>
-</row>
-<row>
-<entry valign="top">Blood</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top">Leukocytes</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top">Yeast</entry>
-<entry valign="top">Negative</entry>
-</row>
-<row>
-<entry valign="top">Casts</entry>
-<entry valign="top">0–5 HPF</entry>
-<entry valign="top">Nitrates</entry>
-<entry valign="top">Negative</entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-</row>
-<row>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-</row>
-<row>
-<entry valign="top">Clarity</entry>
-<entry valign="top">Clear</entry>
-<entry valign="top">pH</entry>
-<entry valign="top">4.5–8.0</entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-</row>
-<row>
-<entry valign="top">Color</entry>
-<entry valign="top">Yellow–amber</entry>
-<entry valign="top">Protein</entry>
-<entry valign="top">≤150 mg/dL</entry>
-<entry valign="top"> </entry>
-<entry valign="top"> </entry>
-</row>
-    </tbody>
+  <row>
+  <entry valign="top">pH</entry>
+  <entry valign="top">7.35–7.45</entry>
+  <entry valign="top" morerows="1"> </entry>
+  <entry valign="top">PaCO<sub>2</sub></entry>
+  <entry valign="top">35–45&#160;mm&#160;Hg</entry>
+  <entry valign="top" morerows="1"> </entry>
+  <entry valign="top">Base excess/base deficit</entry>
+  <entry valign="top">–2 to +2 mEq/L</entry>
+  </row>
+  <row>
+  <entry valign="top">PaO<sub>2</sub></entry>
+  <entry valign="top">75–100&#160;mm&#160;Hg</entry>
+  <entry valign="top">HCO<sub>3</sub></entry>
+  <entry valign="top">22–26&#160;mEq/L</entry>
+  <entry valign="top">SaO<sub>2</sub></entry>
+  <entry valign="top">95%–100%</entry>
+  </row>
+  <row>
+  <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Serum Blood Tests</span></emphasis></entry>
+  </row>
+  <row>
+  <entry valign="top">Albumin</entry>
+  <entry valign="top">3.5–5.5&#160;g/dL</entry>
+  <entry valign="top" morerows="17"> </entry>
+  <entry valign="top">Glucose (fasting)</entry>
+  <entry valign="top">70–99&#160;mg/dL</entry>
+  <entry valign="top" morerows="17"> </entry>
+  <entry valign="top">MCV</entry>
+  <entry valign="top">80–98 fL</entry>
+  </row>
+  <row>
+  <entry valign="top">Alk phos</entry>
+  <entry valign="top">30–120&#160;units/L</entry>
+  <entry valign="top" morerows="3">Glucose tolerance test</entry>
+  <entry valign="top" morerows="3">(Start) 70–100&#160;mg/dL<newline/>
+  (1 hour) &lt;180 mg/dL<newline/>
+  (2 hours) &lt;140&#160;mg/dL</entry>
+  <entry valign="top">Monocytes</entry>
+  <entry valign="top">4,000–11,000 cells/mcL</entry>
+  </row>
+  <row>
+  <entry valign="top">ALT</entry>
+  <entry valign="top">10–40&#160;units/L</entry>
+  <entry valign="top">Neutrophils</entry>
+  <entry valign="top">2,000–8,250 cells/mcL</entry>
+  </row>
+  <row>
+  <entry valign="top">Ammonia</entry>
+  <entry valign="top">40–70 mcg/dL</entry>
+  <entry valign="top">Phosphorus</entry>
+  <entry valign="top">3.0–4.5&#160;mg/dL</entry>
+  </row>
+  <row>
+  <entry valign="top">Amylase</entry>
+  <entry valign="top">3–125&#160;units/L</entry>
+  <entry valign="top">Platelet count</entry>
+  <entry valign="top">150–450 × 10<sup>9</sup>/L</entry>
+  </row>
+  <row>
+  <entry valign="top">AST</entry>
+  <entry valign="top">10–40&#160;units/L</entry>
+  <entry valign="top">HDL</entry>
+  <entry valign="top">(F) >50 mg/dL<newline/>
+  (M) >40 mg/dL</entry>
+  <entry valign="top">Potassium</entry>
+  <entry valign="top">3.5–5.0&#160;mEq/L</entry>
+  </row>
+  <row>
+  <entry valign="top">Bicarb (HCO<sub>3</sub>)</entry>
+  <entry valign="top">23–28&#160;mEq/L</entry>
+  <entry valign="top" morerows="1">Hematocrit</entry>
+  <entry valign="top" morerows="1">(F) 37%–47%<newline/>
+  (M) 42%–50%</entry>
+  <entry valign="top">Protein</entry>
+  <entry valign="top">5.5–9.0&#160;g/dL</entry>
+  </row>
+  <row>
+  <entry valign="top">Bilirubin, total</entry>
+  <entry valign="top">0.3–1.0 mg/dL</entry>
+  <entry valign="top">PT<newline/>
+  PTT</entry>
+  <entry valign="top">11–13 seconds<newline/>
+  25–35 seconds</entry>
+  </row>
+  <row>
+  <entry valign="top">BNP</entry>
+  <entry valign="top">0–100 pg/mL</entry>
+  <entry valign="top" morerows="1">Hemoglobin</entry>
+  <entry valign="top" morerows="1">(F) 12–16 g/dL<newline/>
+  (M) 14–18 g/dL</entry>
+  <entry valign="top" morerows="1">RBC</entry>
+  <entry valign="top" morerows="1">(F) 4.2–5.4 million/mm<sup>3</sup><newline/>
+  (M) 4.7–6.1 million/mm<sup>3</sup></entry>
+  </row>
+  <row>
+  <entry valign="top">BUN</entry>
+  <entry valign="top">8–20&#160;mg/dL</entry>
+  </row>
+  <row>
+  <entry valign="top">Calcium</entry>
+  <entry valign="top">8.6–10.2 mg/dL</entry>
+  <entry valign="top">HgbA1c</entry>
+  <entry valign="top">4.0%–5.6%</entry>
+  <entry valign="top">RDW</entry>
+  <entry valign="top">9.0%–14.5%</entry>
+  </row>
+  <row>
+  <entry valign="top">Chloride</entry>
+  <entry valign="top">98–106&#160;mEq/L</entry>
+  <entry valign="top">INR</entry>
+  <entry valign="top">0.8–1.2 seconds</entry>
+  <entry valign="top">SaO<sub>2</sub></entry>
+  <entry valign="top">95%–100%</entry>
+  </row>
+  <row>
+  <entry valign="top">Cholesterol</entry>
+  <entry valign="top">&lt;200&#160;mg/dL</entry>
+  <entry valign="top">Iron</entry>
+  <entry valign="top">50–150 mcg/dL</entry>
+  <entry valign="top">Sodium</entry>
+  <entry valign="top">136–145&#160;mEq/L</entry>
+  </row>
+  <row>
+  <entry valign="top">CK</entry>
+  <entry valign="top">(F) 30–135&#160;units/L<newline/>
+  (M) 55–170&#160;units/L</entry>
+  <entry valign="top">Lactic acid</entry>
+  <entry valign="top">(Art) &lt;0.6 mmol/L<newline/>
+  (Ven) 0.7–1.8 mmol/L</entry>
+  <entry valign="top">Triglycerides (fasting)</entry>
+  <entry valign="top">&lt;150&#160;mg/dL</entry>
+  </row>
+  <row>
+  <entry valign="top">CO<sub>2</sub> (CMP)</entry>
+  <entry valign="top">23–30&#160;mEq/L</entry>
+  <entry valign="top">LDL</entry>
+  <entry valign="top">&lt;130&#160;mg/dL</entry>
+  <entry valign="top">Troponin T</entry>
+  <entry valign="top">0–0.01 ng/mL</entry>
+  </row>
+  <row>
+  <entry valign="top">Creatinine</entry>
+  <entry valign="top">(F) 0.5–1.10&#160;mg/dL<newline/>
+  (M) 0.70–1.30&#160;mg/dL</entry>
+  <entry valign="top">Lipase</entry>
+  <entry valign="top">10–140&#160;units/L</entry>
+  <entry valign="top">TSH</entry>
+  <entry valign="top">0.4–6 mcg/mL</entry>
+  </row>
+  <row>
+  <entry valign="top">D-dimer</entry>
+  <entry valign="top">&lt;0.5 mcg/mL</entry>
+  <entry valign="top">Lymphocytes</entry>
+  <entry valign="top">20–40 × 10<sup>9</sup>/L</entry>
+  <entry valign="top">WBC</entry>
+  <entry valign="top">5,000–10,000/mL</entry>
+  </row>
+  <row>
+  <entry valign="top">GFR</entry>
+  <entry valign="top">=90 mL/minute</entry>
+  <entry valign="top">Magnesium</entry>
+  <entry valign="top">1.6–2.6&#160;mEq/L</entry>
+  <entry valign="top">WBC</entry>
+  <entry valign="top">5,000–10,000/mL</entry>
+  </row>
+  <row>
+  <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
+  </row>
+  <row>
+  <entry valign="top">Sputum culture</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top" morerows="1"> </entry>
+  <entry valign="top" morerows="1" namest="c4" nameend="c8"> </entry>
+  </row>
+  <row>
+  <entry valign="top">Fungal (yeast) culture</entry>
+  <entry valign="top">Negative</entry>
+  </row>
+  <row>
+  <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Urine Tests</span></emphasis></entry>
+  </row>
+  <row>
+  <entry valign="top">Bacteria</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top" morerows="6"> </entry>
+  <entry valign="top">Glucose</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top" morerows="6"> </entry>
+  <entry valign="top">Specific gravity</entry>
+  <entry valign="top">1.002</entry>
+  </row>
+  <row>
+  <entry valign="top">Bilirubin</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">Ketones</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">WBC</entry>
+  <entry valign="top">0–5 HPF</entry>
+  </row>
+  <row>
+  <entry valign="top">Blood</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">Leukocytes</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">Yeast</entry>
+  <entry valign="top">Negative</entry>
+  </row>
+  <row>
+  <entry valign="top">Casts</entry>
+  <entry valign="top">0–5 HPF</entry>
+  <entry valign="top">Nitrates</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  </row>
+  <row>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  </row>
+  <row>
+  <entry valign="top">Clarity</entry>
+  <entry valign="top">Clear</entry>
+  <entry valign="top">pH</entry>
+  <entry valign="top">4.5–8.0</entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  </row>
+  <row>
+  <entry valign="top">Color</entry>
+  <entry valign="top">Yellow–amber</entry>
+  <entry valign="top">Protein</entry>
+  <entry valign="top">=150&#160;mg/dL</entry>
+  <entry valign="top"> </entry>
+  <entry valign="top"> </entry>
+  </row>
+  </tbody>
   </tgroup>
-<caption><emphasis effect="bold">Common Lab Values</emphasis> (sources: https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf; https://www.ncbi.nlm.nih.gov/books/NBK536919/; https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count; https://emedicine.medscape.com/article/2074001-overview; https://www.ncbi.nlm.nih.gov/books/NBK557685/; https://www.ncbi.nlm.nih.gov/books/NBK532915/)</caption>
-</table>
-<para id="para-00002"><emphasis effect="bold">Note:</emphasis> The reference values provided in these tables should be used as guidelines only, as they can vary by testing laboratory, instrument type, and demographics of the healthy client population used for comparison. Always use your facility’s lab value guidelines for interpretation or testing. In the Next Generation NCLEX exams, assessment items that contain a numeric laboratory value will include the corresponding normal reference range. See <link url="https://openstax.org/r/healthharvaed">NCLEX FAQs</link>.</para>
-    </section>
+  <caption><emphasis effect="bold">Common Lab Values</emphasis> (sources: https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf; https://www.ncbi.nlm.nih.gov/books/NBK536919/; https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count; https://emedicine.medscape.com/article/2074001-overview; https://www.ncbi.nlm.nih.gov/books/NBK557685/; https://www.ncbi.nlm.nih.gov/books/NBK532915/)</caption>
+  </table>
+  <para id="para-00002"><emphasis effect="bold">Note:</emphasis> The reference values provided in these tables should be used as guidelines only, as they can vary by testing laboratory, instrument type, and demographics of the healthy client population used for comparison. Always use your facility’s lab value guidelines for interpretation or testing. In the Next Generation NCLEX exams, assessment items that contain a numeric laboratory value will include the corresponding normal reference range. See <link url="https://openstax.org/r/healthharvaed">NCLEX FAQs</link>.</para>
+  </section>
   </content>
-</document>
+  </document>
