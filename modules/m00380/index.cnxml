@@ -130,7 +130,7 @@
     <colspec colnum="2" colname="c2" colwidth="2*"/>
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <colspec colnum="4" colname="c4" colwidth="1*"/>
-    <colspec colnum="5" colname="c5" colwidth="2*"/>
+    <colspec colnum="5" colname="c5" colwidth="3*"/>
     <colspec colnum="6" colname="c6" colwidth="1*"/>
     <colspec colnum="7" colname="c7" colwidth="1*"/>
     <colspec colnum="8" colname="c8" colwidth="2*"/>
@@ -143,7 +143,7 @@
 <entry valign="top">7.35–7.45</entry>
 <entry valign="top" morerows="1"> </entry>
 <entry valign="top">PaCO<sub>2</sub></entry>
-<entry valign="top">35–45&#160;mm Hg</entry>
+<entry valign="top">35–45&#160;mm&#160;Hg</entry>
 <entry valign="top" morerows="1"> </entry>
 <entry valign="top">Base excess/base deficit</entry>
 <entry valign="top">–2 to +2 mEq/L</entry>
@@ -235,7 +235,7 @@ PTT</entry>
 </row>
 <row>
 <entry valign="top">BUN</entry>
-<entry valign="top">8–20 mg/dL</entry>
+<entry valign="top">8–20&#160;mg/dL</entry>
 </row>
 <row>
 <entry valign="top">Calcium</entry>
