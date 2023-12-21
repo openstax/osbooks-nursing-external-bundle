@@ -8,9 +8,9 @@
   <content class="appendix">
     <section id="sect-00001">
       <title/>
-      <para id="para-00001">Drug conversion tables are utilized with dosage calculations to ensure an appropriate dosage of a drug is being administered to the client as ordered.</para>
-      <para id="para-00001a"><link target-id="table-00001" document="m00381"/> shows common metric and U.S. customary units of measurement used in health <link target-id="table-00002" document="m00381"/> shows household equivalents.</para>
-  <table id="table-00001">
+      <para id="para-00001">Drug conversion tables are utilized with dosage calculations to ensure an appropriate dosage of a drug is being administered to the client as ordered. The metric system is used for prescribing medications, but at times nurses may need to explain medication dosages to clients using household measurements.</para>
+      <para id="para-00001a"><link target-id="table-00001" document="m00381"/> shows common metric and U.S. customary units of measurement used in health <link target-id="table-00002" document="m00381"/> shows household equivalents. <link document="m00099">Drug Administration</link> discusses conversion in more detail.</para>
+  <table class="vertically-tight full-width" id="table-00001">
 <title>Common Metric and U.S. Customary Units of Measurement</title>
   <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
@@ -54,7 +54,7 @@
   </tgroup>
 <caption>(sources: https://www.math-salamanders.com/metric-to-standard-conversion-chart.html; https://www.unitconverters.net/volume/liters-to-cups.htm; https://www.nist.gov/pml/owm/approximate-conversions-metric-us-customary-measures; https://www.nist.gov/pml/owm/approximate-conversions-us-customary-measures-metric)</caption>  
   </table>
-  <table id="table-00002">
+  <table class="vertically-tight full-width" id="table-00002">
 <title>Household Equivalents</title>
   <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
