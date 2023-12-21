@@ -308,11 +308,13 @@
   <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top">Sputum culture</entry>
-  <entry valign="top">Negative</entry>
-  <entry valign="top" morerows="1"> </entry>
-  <entry valign="top" morerows="1" namest="c4" nameend="c8"> </entry>
-  </row>
+    <entry valign="top">Sputum culture</entry>
+    <entry valign="top">Negative</entry>
+    <entry valign="top" morerows="1">&#160;</entry>
+    <entry valign="top" morerows="1" namest="c4" nameend="c5">&#160;</entry>
+    <entry valign="top" morerows="1">&#160;</entry>
+    <entry valign="top" morerows="1" namest="c7" nameend="c8">&#160;</entry>
+    </row>
   <row>
   <entry valign="top">Fungal (yeast) culture</entry>
   <entry valign="top">Negative</entry>
