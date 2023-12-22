@@ -14,8 +14,6 @@
 <item>Identify treatments and medications that can cause nutritional deficiencies in clients with musculoskeletal and integumentary disorders.</item>
 </list>
 </section>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Drug–Food Interactions in Musculoskeletal and Integumentary System Disorders</title>
 <para id="para-00002"><term class="no-emphasis" id="term-00001">Drug–food interactions</term> can occur in individuals with musculoskeletal and integumentary system disorders. The most common medications that often interact with food are bisphosphonates and tetracycline antibiotics.</para>
@@ -32,9 +30,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Medication/Class</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Musculoskeletal Effect</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Considerations</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Medication/Class</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Musculoskeletal Effect</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Considerations</span></entry>
 </row>
 </thead>
 <tbody>
@@ -74,9 +72,7 @@
 </list>
 </note>
 </section>
-</section>
 <section class="chapter-summary" id="sect-00005">
-<title>Chapter Summary</title>
 <list list-type="bulleted" id="list-00003">
 <item>Clients who are pregnant should consume the recommended daily amounts of calcium and vitamin D to support fetal skeletal development.</item>
 <item>Infants who are breastfed should receive 400IU vitamin D daily to prevent musculoskeletal disorders and promote healthy skeletal growth.</item>
