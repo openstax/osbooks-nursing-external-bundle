@@ -90,7 +90,7 @@
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00011">Dexamethasone</term> (<term class="no-emphasis" id="term-00027">Decadron</term>, <term class="no-emphasis" id="term-00028">Dexasone</term>)</entry>
-<entry valign="top" align="left">4–20 mg intravenously or intramuscularly, 2–4 times a day.<newline/><emphasis effect="italics">Maximum dose</emphasis>: 40 mg/day.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Typical dose</emphasis>: 0.5–9 mg daily depending on the specific disease entity being treated. Routes include oral, intravenous, intra-articular, and intramuscular. </entry>
 </row>
 </tbody>
 </tgroup>
@@ -100,7 +100,7 @@
 <section id="sect-00010">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00015">Short-term adverse effects include insomnia, hunger, and mood changes. Long-term adverse effects include weight gain, high blood pressure, osteoporosis, hyperglycemia, skin atrophy (topical application), iatrogenic <term id="term-00012">Cushing’s syndrome</term>, and increased risk of infection.</para>
-<para id="para-00016">Glucocorticoids are contraindicated in clients with hypersensitivity to any component of the formulation, those who have an active systemic fungal infection, or someone with uncontrolled hyperglycemia.</para>
+<para id="para-00016">Glucocorticoids are contraindicated in clients with hypersensitivity to any component of the formulation, those who have an active systemic fungal infection, or those with uncontrolled hyperglycemia.</para>
 <para id="para-00017"><link target-id="table-00002" document="m00407"/> is a drug prototype table for glucocorticoids featuring methylprednisolone. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -108,8 +108,8 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Synthetic glucocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to glucocorticoid receptors, decreasing the release of inflammatory molecules, and inhibiting the immune response</entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">Typical dose:</emphasis> 4–200 mg. Routes include oral (dose-pack, tablets, solution), intravenous, intra-articular, and intramuscular.</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Synthetic glucocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to glucocorticoid receptors, decreasing the release of inflammatory molecules and inhibiting the immune response</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">Typical dose:</emphasis> 4–200 mg daily depending on the specific disease entity being treated. Routes include oral (dose-pack, tablets, solution), intravenous, intra-articular, and intramuscular.</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>Inflammatory conditions<newline/>Autoimmune disorders<newline count="2"/><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>Decreases inflammation<newline/>Suppresses the immune response</entry>
@@ -121,7 +121,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype: Methylprednisolone<newline/>(source: <link url="https://openstax.org/r/nlmnih">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
+<caption><emphasis effect="bold">Drug Prototype: Methylprednisolone</emphasis><newline/>(source: <link url="https://openstax.org/r/nlmnih">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
 </table>
 </section>
 </section>
@@ -131,16 +131,16 @@
 <para id="para-00019">Disorders of mineralocorticoid production or activity can lead to imbalances in fluid and electrolyte levels: two such conditions exist. The first is hyperaldosteronism, which is characterized by excess aldosterone production. An excess of aldosterone causes an increase in blood pressure and serum sodium levels along with a decrease in serum potassium levels. The other condition is hypoaldosteronism, which is characterized by insufficient aldosterone production. Hypoaldosteronism leads to a decrease in blood pressure and serum sodium levels along with an increase in serum potassium levels.</para>
 <section id="sect-00012">
 <title>Aldosterone</title>
-<para id="para-00020">Aldosterone works by binding to mineralocorticoid receptors in the cells of the kidney, which increases the reabsorption of sodium ions and the excretion of potassium ions. This leads to an increase in blood volume and blood pressure. In addition to regulating fluid and electrolyte balance, aldosterone plays a role in the <term id="term-00014">renin-angiotensin-aldosterone system (RAAS)</term>. The RAAS is a complex hormonal system that helps to regulate blood pressure by controlling the balance of sodium and water in the body.</para>
+<para id="para-00020">Aldosterone works by binding to mineralocorticoid receptors in the cells of the kidneys, which increases the reabsorption of sodium ions and the excretion of potassium ions. This leads to an increase in blood volume and blood pressure. In addition to regulating fluid and electrolyte balance, aldosterone plays a role in the <term id="term-00014">renin-angiotensin-aldosterone system (RAAS)</term>. The RAAS is a complex hormonal system that helps to regulate blood pressure by controlling the balance of sodium and water in the body.</para>
 </section>
 <section id="sect-00013">
 <title>Fludrocortisone</title>
-<para id="para-00021">Fludrocortisone is a synthetic adrenocortical steroid that binds to mineralocorticoid receptors in the cells of the kidney and supports fluid and electrolyte balance within the body. This medication is used to treat primary and secondary adrenocortical insufficiency in <term id="term-00015">Addison’s disease</term>. Adverse effects include hyperglycemia, hypokalemia, hypertension, muscle weakness, and impaired wound healing. It is contraindicated in clients with fungal infections and hypersensitivity.</para>
+<para id="para-00021">Fludrocortisone is a synthetic adrenocortical steroid that binds to mineralocorticoid receptors in the cells of the kidneys and supports fluid and electrolyte balance within the body. This medication is used to treat primary and secondary adrenocortical insufficiency in <term id="term-00015">Addison’s disease</term>. Adverse effects include hyperglycemia, hypokalemia, hypertension, muscle weakness, and impaired wound healing. It is contraindicated in clients with fungal infections and hypersensitivity.</para>
 </section>
 <section id="sect-00014">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00022">Common adverse effects of mineralocorticoid drugs include fluid retention because they promote sodium and water reabsorption in the kidneys; hypokalemia where symptoms include muscle weakness, fatigue, irregular heartbeat, and muscle cramps; elevated blood pressure; gastrointestinal disturbances such as stomach discomfort, nausea, and diarrhea; and mood and behavioral changes such as mood swings, irritability, or anxiety.</para>
-<para id="para-00023">Contraindications include hypersensitivity to the drug or any of its components, systemic fungal infections, heart failure, and severe kidney impairment. Mineralocorticoids can suppress the immune system and worsen systemic fungal infections; heart failure is contraindicated because these drugs can cause fluid retention and lead to worsening of fluid volume overload; and, severe kidney impairment can occur in clients with kidney disease as these drugs are excreted through the urine and can cause further renal insufficiency.</para>
+<para id="para-00023">Contraindications include hypersensitivity to the drug or any of its components, systemic fungal infections, heart failure, and severe kidney impairment. Mineralocorticoids can suppress the immune system and worsen systemic fungal infections; heart failure is contraindicated because these drugs can cause fluid retention and lead to worsening of fluid volume overload; and severe kidney impairment can occur in clients with kidney disease as these drugs are excreted through the urine and can cause further renal insufficiency.</para>
 <para id="para-00024"><link target-id="table-00003" document="m00407"/> is a drug prototype table for mineralocorticoids featuring fludrocortisone acetate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
@@ -148,12 +148,12 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Mineralocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to mineralocorticoid receptors in the cells of the kidney, which increases the reabsorption of sodium ions and the excretion of potassium ions, helping to regulate fluid and electrolyte balance</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>Mineralocorticoid<newline count="2"/><emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>Binds to mineralocorticoid receptors in the cells of the kidneys, which increases the reabsorption of sodium ions and the excretion of potassium ions, helping to regulate fluid and electrolyte balance</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/><emphasis effect="italics">For salt-losing adrenogenital syndrome:</emphasis> Typical dose: 0.1–0.2 mg orally daily.<newline/><emphasis effect="italics">For Addison’s disease:</emphasis> Usual dose: 0.1 mg orally daily, although dosage ranging from 0.1 mg 3 times a week to 0.2 mg daily has been employed.</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>Primary and secondary adrenocortical insufficiency in Addison’s disease<newline/>Treatment of salt-losing adrenogenital syndrome<newline count="2"/><emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>Generalized extracellular fluid volume expansion</entry>
-<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>Amphotericin B<newline/>Potassium depleting diuretics<newline/>Digitalis glycosides<newline/>Oral anticoagulants<newline/>Antidiabetic drugs<newline/>Aspirin<newline/>Barbiturates<newline/>Phenytoin<newline/>Rifampin<newline/>Anabolic steroids<newline/>Vaccines<newline/>Estrogen<newline count="2"/><emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>No significant interactions</entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>Amphotericin B<newline/>Potassium-depleting diuretics<newline/>Digitalis glycosides<newline/>Oral anticoagulants<newline/>Antidiabetic drugs<newline/>Aspirin<newline/>Barbiturates<newline/>Phenytoin<newline/>Rifampin<newline/>Anabolic steroids<newline/>Vaccines<newline/>Estrogen<newline count="2"/><emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>No significant interactions</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>Edema<newline/>Cardiac enlargement<newline/>Potassium loss<newline/>Muscle weakness<newline/>Abdominal distention<newline/>Impaired wound healing<newline/>Growth suppression<newline/>Hyperglycemia<newline/>Urticaria</entry>
@@ -167,11 +167,11 @@
 </section>
 <section id="sect-00015">
 <title>Nursing Implications</title>
-<para id="para-00025">The nurse should do the following when administering glucocorticoids and mineralocorticoids drugs to clients:</para>
+<para id="para-00025">The nurse should do the following for clients who are taking glucocorticoids and mineralocorticoids:</para>
 <list list-type="bulleted" id="list-00002">
 <item>Educate the client regarding glucocorticoid and mineralocorticoid therapy.</item>
-<item>Assess the client’s knowledge about signs and symptoms of over and under treatment, adverse reactions, and contraindications, and clarify any gaps in knowledge.</item>
-<item>Monitor vital signs and electrolytes, especially sodium and potassium, renal function, glucose levels, serum aldosterone levels, serum cortisol levels, and bone density test closely.</item>
+<item>Assess the client’s knowledge about signs and symptoms of over- and undertreatment, adverse reactions, and contraindications and clarify any gaps in knowledge.</item>
+<item>Monitor vital signs and electrolytes, especially sodium and potassium, renal function, glucose levels, serum aldosterone levels, serum cortisol levels, and bone density test, closely.</item>
 <item>Report any abnormalities or symptoms such as weight gain, edema, crackles, jugular vein distention, fever, tachycardia, tachypnea, shortness of breath, or a change in mental status to the health care provider.</item>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
 </list>
@@ -179,10 +179,10 @@
 <para id="para-00026"><emphasis effect="bold">The client taking a glucocorticoid or mineralocorticoid should:</emphasis></para>
 <list list-type="bulleted" id="list-00003">
 <item>Take drugs as prescribed by their health care provider.</item>
-<item>If using the drug systemically, they should avoid people who are sick—especially those who have chickenpox, measles, or tuberculosis—because they are at an increased risk of contracting the condition.</item>
+<item>If using the drug systemically, avoid people who are sick—especially those who have chickenpox, measles, or tuberculosis—because they are at an increased risk of contracting the condition.</item>
 <item>Report signs of fluid volume overload such as a weight gain of 2 pounds in 3 days or 5 pounds in a week.</item>
 <item>Limit salt intake.</item>
-<item>Report symptoms of infection, such as a fever greater than 100.4°F, a fast heartbeat, fast breathing, and symptoms of electrolyte imbalances such as weight gain, edema, a change in mental status, or shortness of breath, and symptoms of cardiovascular issues including jugular vein distention, tachycardia, and/or palpitations to the health care provider.</item>
+<item>Report symptoms of infection, such as a fever greater than 100.4°F, a fast heartbeat, fast breathing, and symptoms of electrolyte imbalances such as weight gain, edema, a change in mental status, or shortness of breath and symptoms of cardiovascular issues including jugular vein distention, tachycardia, and/or palpitations to the health care provider.</item>
 </list>
 <para id="para-00027"><emphasis effect="bold">The client taking a glucocorticoid or mineralocorticoid <emphasis effect="italics">should not:</emphasis></emphasis></para>
 <list list-type="bulleted" id="list-00004">
@@ -196,7 +196,7 @@
 </section>
 <section class="chapter-summary" id="sect-00016">
 <para id="para-00030">This chapter provided an overview of the hypothalamus, pituitary gland, and adrenal cortex, which are essential components of the endocrine system. The hypothalamus is a small region of the brain that plays a key role in the regulation of many physiological processes in the body including hunger, thirst, and body temperature. It is also responsible for the regulation and release of pituitary hormones from the pituitary gland, which is sometimes referred to as the “master gland” because it controls the release of hormones from other endocrine glands. The adrenal cortex, part of the adrenal gland, is responsible for regulating fluid and electrolyte balance, glucose metabolism, adaptation to stress, and immune function.</para>
-<para id="para-00031">This chapter covered drugs that are commonly used to treat conditions related to the hypothalamus, pituitary, and adrenal cortex. Overall, the hypothalamus, pituitary, and adrenal cortex play critical roles in the regulation of many physiological processes in the body. Disorders affecting the function of these structures can have significant impacts on health and wellbeing.</para>
+<para id="para-00031">This chapter covered drugs that are commonly used to treat conditions related to the hypothalamus, pituitary, and adrenal cortex. Overall, the hypothalamus, pituitary, and adrenal cortex play critical roles in the regulation of many physiological processes in the body. Disorders affecting the function of these structures can have significant impacts on health and well-being.</para>
 </section>
 <section class="review-questions" id="sect-00017">
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00032"><link class="os-embed" url="#exercise/PHAR_Ch26_Sec03_RQ1"/></para></problem></exercise>
