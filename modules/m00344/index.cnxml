@@ -14,10 +14,11 @@
       <item>Identify factors that contribute to poor transitions of care outcomes.</item>
       <item>Explain how transitional care improves health outcomes.</item>
       </list>
-      </section>
+    </section>
       <para id="para-00002"><term id="term-00001">Transitional care</term> refers to a comprehensive and coordinated set of actions designed to ensure the safe and smooth transfer of clients. It encompasses a range of services and interventions aimed at supporting individuals as they move from one health care provider or facility to another or from one stage of care to another, such as from hospital to home or from acute care to rehabilitation.</para>
       <para id="para-00003">The primary goal of transitional care is to optimize continuity and quality of care during these transitions, ensuring that clients experience seamless and coordinated health care. Effective care transitions and care coordination are essential components of a well-functioning health care system. They contribute to improved client outcomes, enhanced client experiences, and reduced health care costs. By ensuring seamless information exchange, collaborative decision-making, and comprehensive care planning, care transitions and care coordination can minimize care gaps prevent adverse events, and promote optimal health outcomes for individuals in the community.</para>
       <para id="para-00004">Community health nurses play a crucial role in facilitating transitional care for clients by managing the transfer of information, responsibilities, and support services between health care providers, settings, and clients themselves. They serve as key coordinators of care, provide education and support to clients and families, and facilitate smooth and effective transitions between health care settings (Institute of Medicine, 2010). To achieve this, community health nurses rely on a set of essential skills and competencies, including care coordination, client education, interdisciplinary collaboration, and communication, among others (Iwamoto, 2023). Additionally, community health nurses are well-positioned to engage in follow-up care activities, such as medication management, home visits, and referrals to community-based resources. These interventions are critical components of transitional care that enhance client safety, prevent readmissions, and increase client satisfaction.</para>
+    
       <para id="para-00005">Transitional care interventions often include the following key components:</para>
       <list list-type="enumerated" number-style="arabic" id="list-00002">
       <item><term class="no-emphasis" id="term-00002">Assessment</term> and planning: A thorough evaluation of clients’ needs, preferences, and resources is conducted to develop an <term class="no-emphasis" id="term-00003">individualized care plan</term> that addresses their unique requirements during the transition.</item>
@@ -121,7 +122,7 @@
       <title>Social Determinants of Health and Health Disparities</title>
       <para id="para-00033"><term class="no-emphasis" id="term-00021">Social determinants of health (SDOH)</term> are the nonmedical factors that significantly influence health outcomes and disparities. They include <term class="no-emphasis" id="term-00022">socioeconomic status</term>, <term class="no-emphasis" id="term-00023">education</term> and health literacy, <term class="no-emphasis" id="term-00024">social support networks</term>, <term class="no-emphasis" id="term-00025">housing</term> and <term class="no-emphasis" id="term-00026">environment</term>, and access to health care. As discussed in <link document="m00140">Social Determinants Affecting Health Outcomes</link>, disadvantaged socioeconomic status often translates into reduced access to quality health care, limited transportation options, and financial constraints, all of which impede seamless transitions of care. For example, individuals with lower incomes may be unable to afford necessary medications or follow-up appointments, resulting in interrupted continuity of care and increased health risks.</para>
       <para id="para-00034"><term class="no-emphasis" id="term-00027">Health disparities</term>, which are systemic differences in health outcomes among different population groups, exacerbate the challenges faced during transitions of care. Disadvantaged communities, including racial and ethnic minorities, individuals with <term class="no-emphasis" id="term-00028">disabilities</term>, and older adults, often experience higher rates of chronic diseases and face barriers to accessing health care services. These disparities can stem from structural and social determinants of health, such as discrimination, inadequate health care infrastructure, and limited availability of culturally responsive care. Consequently, individuals from these populations are more likely to encounter difficulties during transitions of care, leading to poorer health outcomes.</para>
-      <para id="para-00035">SDOH have a significant impact on transitions of care and creates a complex web of challenges that contribute to poor transitions of care outcomes. Efforts to improve health literacy through educational initiatives and enhanced communication strategies are crucial in empowering individuals to actively participate in their care during transitions. Additionally, addressing SDOH including health disparities requires comprehensive interventions, such as equitable health care policies, improved access to affordable health care, and culturally responsive care delivery. By addressing these interconnected issues, health care systems can strive to minimize the impact of SDOH and improve transitions of care outcomes, leading to better health outcomes for all individuals. <link target-id="table-00001" document="m00344"/> summarizes the factors that contribute to poor transitions of care outcomes.</para>
+      <para id="para-00035">SDOH have a significant impact on transitions of care and creates a complex web of challenges that contribute to poor transitions of care outcomes. Efforts to improve health literacy through educational initiatives and enhanced communication strategies are crucial in empowering individuals to actively participate in their care during transitions. Additionally, addressing SDOH including health disparities requires comprehensive interventions, such as equitable health care policies, improved access to affordable health care, and culturally responsive care delivery. By addressing these interconnected issues, health care systems can strive to minimize the impact of SDOH and improve transitions of care outcomes, leading to better health outcomes for all individuals. <link target-id="table-00002" document="m00344"/> summarizes the factors that contribute to poor transitions of care outcomes.</para>
       <table class="vertically-tight alternate-shading full-width" id="table-00002">
       <tgroup cols="3">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -142,7 +143,7 @@
       <entry valign="top" align="left">Inadequate exchange of information between health care providers and settings</entry>
       <entry valign="top" align="left">
       <list list-type="bulleted" id="list-00005">
-      <item>Lack of standardized communication protocols</item>
+      <item>Lack of standardized communication protocols and channels</item>
       <item>Insufficient transfer of medical records</item>
       <item>Incomplete or delayed transmission of client information</item>
       <item>Language barriers</item>
@@ -154,7 +155,7 @@
       <entry valign="top" align="left">
       <list list-type="bulleted" id="list-00006">
       <item>Lack of care coordination mechanisms</item>
-      <item>Inadequate collaboration between different health care providers and settings</item>
+      <item>Inadequate collaboration between health care providers and settings</item>
       <item>Fragmented electronic health records (EHR) systems</item>
       <item>Inefficient handoffs and referrals</item>
       <item>Poor integration of primary care and specialty care</item></list></entry>
@@ -183,7 +184,7 @@
       </row>
       <row>
       <entry valign="top" align="left">Inadequate Follow-Up Care</entry>
-      <entry valign="top" align="left">Insufficient post-transition support and monitoring</entry>
+      <entry valign="top" align="left">Insufficient support and monitoring following the care transition</entry>
       <entry valign="top" align="left">
       <list list-type="bulleted" id="list-00009">
       <item>Delayed or missed appointments</item>
@@ -196,26 +197,26 @@
       </row>
       <row>
       <entry valign="top" align="left">Socioeconomic Factors</entry>
-      <entry valign="top" align="left">Social and economic factors influencing care transitions</entry>
+      <entry valign="top" align="left">The interaction of social and economic factors that influence care transitions</entry>
       <entry valign="top" align="left">
       <list list-type="bulleted" id="list-00010">
       <item>Limited access to health care services due to financial barriers</item>
       <item>Unstable housing or homelessness</item>
       <item>Lack of social support and resources</item>
       <item>Low health literacy and limited knowledge of available resources</item>
-      <item>Transportation barriers affecting access to care</item>
+      <item>Transportation barriers to access care</item>
       </list></entry>
       </row>
       </tbody>
       </tgroup>
-      <caption><emphasis effect="bold">Factors Contributing to Poor Transitions of Care Outcomes</emphasis></caption>
+      <caption>Factors Contributing to Poor Transitions of Care Outcomes</caption>
       </table>
       <para id="para-00036">To address communication breakdowns during transitions of care, several strategies can be implemented:</para>
       <list list-type="bulleted" id="list-00011">
-      <item>Standardizing Communication: Health care organizations should adopt <term class="no-emphasis" id="term-00030">standardized communication tools</term>, such as structured handoff protocols like SBAR (Situation, Background, Assessment, Recommendation). These tools ensure a consistent and comprehensive transfer of information, enabling effective communication during transitions.</item>
+      <item>Standardizing Communication: Health care organizations should adopt <term class="no-emphasis" id="term-00030">standardized communication tools</term>, such as structured handoff protocols like SBAR (Situation, Background, Assessment, Recommendation) to ensure a consistent and comprehensive transfer of information, enabling effective communication during transitions.</item>
       <item>Improved Documentation Practices: Encouraging accurate and detailed documentation of client information, medication lists, and care plans supports effective information exchange. The use of electronic health records with standardized templates can facilitate consistent and comprehensive documentation practices, minimizing the risk of vital information being overlooked or misinterpreted.</item>
       <item>Enhancing Interprofessional Collaboration: Promoting teamwork and open lines of communication among health care providers is crucial. Establishing clear communication channels, holding regular team meetings, and implementing shared decision-making frameworks help prevent communication breakdowns and enhance collaboration. By fostering a culture of effective communication, health care providers can ensure a smooth and coordinated transition process.</item>
-      <item>Client and Family Involvement: Actively engaging clients and their families in the transition process is vital. This can be achieved through client education, shared decision-making, and clear communication. Using plain language, providing written materials, and considering cultural and linguistic factors contribute to client engagement and mitigate communication barriers. By involving clients and families as partners in care, health care providers can improve understanding, promote adherence, and enhance the overall success of care transitions.</item>
+      <item>Client and Family Involvement: It is vital to actively engage clients and their families in the transition process via client education, shared decision-making, and clear communication. Using plain language, providing written materials, and considering cultural and linguistic factors contribute to client engagement and mitigate communication barriers. By involving clients and families as partners in care, health care providers can improve understanding, promote adherence, and promote successful care transitions.</item>
       <item>Technology Optimization: Health care organizations should prioritize the optimization of health information technology. This includes ensuring interoperability between different systems, implementing user-friendly interfaces, and enabling comprehensive data-sharing capabilities. By optimizing technology, health care providers can facilitate seamless communication, reduce errors, and improve the exchange of information during transitions of care.</item>
       </list>
       </section>
@@ -225,7 +226,7 @@
       <para id="para-00037">Transitional care, when effectively applied, can significantly improve health outcomes for clients. This integrated and coordinated approach ensures that clients receive the care they need, when they need it, and in a way that they understand. It is a comprehensive, person-centered, and <term class="no-emphasis" id="term-00031">evidence-based</term> approach that facilitates the safe and timely movement of clients between levels and locations of health care. Effective transitional care is characterized by continuity of care, regular follow-ups, personalized care plans, client and caregiver education, medication reconciliation, and careful scheduling of appointments. It promotes improved communication between health care providers across different settings, reduces hospital readmissions, and decreases health care costs by providing the right care at the right time.</para>
       <para id="para-00038">For the client, effective transitional care feels supportive, well-coordinated, and tailored to their unique needs. They experience a seamless transition between care settings with no unnecessary repetition of medical histories, tests, or procedures. Clients receive education about their conditions and medications, and they are encouraged to be active participants in their care, which enhances their sense of control and responsibility for their health outcomes.</para>
       <note class="case-reflection" id="note-00001">
-      <para id="para-00039">The following scenario provides more information on Mrs. Johnson from the chapter-opening scenario. Read the scenario, and then reflect on the questions that follow.</para>
+      <para id="para-00039">The following scenario provides more information on Mrs. Johnson from the chapter-opening scenario. Read the scenario, and then respond to the questions that follow.</para>
       <para id="para-00040">Seventy-two-year-old Mrs. Johnson was hospitalized for congestive heart failure. When discharged, she was still in a fragile state, prone to potential health complications. However, through effective transitional care, Mrs. Johnson's transition from hospital to home was planned and coordinated by a dedicated team, ensuring she was not left to navigate her recovery alone. Mrs. Johnson's transitional care started with a clear and comprehensive discharge plan detailing her medications, diet, and activity levels, ensuring she understood her condition and treatment. The team explained the plan to both Mrs. Johnson and her family, giving them all a chance to ask questions and clarify the plan of care. A registered nurse followed up with Mrs. Johnson within 48 hours of discharge, answering questions and addressing any immediate concerns. The care plan included scheduled check-ups with her cardiologist and primary care physician, a visiting nurse service, and connection to a heart failure support group.</para>
       <para id="para-00041">Mrs. Johnson’s medication was reviewed and reconciled, reducing the risk of medication errors. She was also provided with a 24/7 contact number in case of emergency or if she had any questions about her care. Mrs. Johnson and her family felt supported and empowered, leading to her adherence to her care plan and ultimately resulting in a quicker recovery and significantly lower risk of readmission. Effective transitional care, such as the care Mrs. Johnson received, leverages the strengths of an interprofessional approach, promoting better health outcomes, improving client experience, and reducing health care costs. As the health care system moves toward a more integrated and person-centered model of health care, optimized transitional care is becoming an integral part of the journey toward better health for all.</para>
       <list list-type="enumerated" number-style="arabic" id="list-00012">
