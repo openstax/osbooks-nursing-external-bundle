@@ -27,10 +27,10 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Labs for Musculoskeletal and integumentary systems</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Labs for Musculoskeletal and Integumentary systems</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></entry>
     </row>
     </thead>
@@ -53,7 +53,7 @@
     <row>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00004">
-    <item>Vitamin A, D, and calcium</item>
+    <item>Vitamins A, D, and calcium</item>
   </list>
     </entry>
     <entry valign="top" align="left">
@@ -117,7 +117,7 @@
     <item>Evaluation of nutritional strategies include client adherence. The nurse must be able to recognize barriers to adherence with overall client health care.</item>
     </list>
     </section>
-    <section class="review-questions" id="sect-00005">
+        <section class="review-questions" id="sect-00005">
           <title>Review Questions</title>
           <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00006"><link class="os-embed" url="#exercise/NUT_Ch19_Sec01_RQ1"/></para></problem></exercise>
           <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00007"><link class="os-embed" url="#exercise/NUT_Ch19_Sec01_RQ2"/></para></problem></exercise>
@@ -130,7 +130,7 @@
           <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00014"><link class="os-embed" url="#exercise/NUT_Ch19_Sec02_RQ9"/></para></problem></exercise>
           <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00015"><link class="os-embed" url="#exercise/NUT_Ch19_Sec01_RQ10"/></para></problem></exercise>
           </section>
-    <section class="references" id="sect-00007">
+           <section class="suggested-reading" id="sect-00007">
     <para id="para-00016">Benedetti, J. (2021, December 16). <emphasis effect="italics">Foods that Fight Inflammation</emphasis>. Harvard Health Publishing. Retrieved May 3, 2023, from https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation</para>
     <para id="para-00017">Campbell, B. (2021). <emphasis effect="italics">Calcium Nutrition and Bone Health</emphasis>. Orthoinfo. https://orthoinfo.aaos.org/en/staying-healthy/calcium-nutrition-and-bone-health/</para>
     <para id="para-00018">Mayo Clinic. (2021, December 11). <emphasis effect="italics">Nutrition and Healthy Eating</emphasis>. Retrieved May 13, 2023, from https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/gluten-free-diet/art-20048530</para>
@@ -145,7 +145,7 @@
     <para id="para-00025">Benedetti, J. (2021, August 17). <emphasis effect="italics">The Best Foods for Vitamins and Minerals</emphasis>. Harvard Health Publishing. Retrieved May 3, 2023, from https://www.health.harvard.edu/staying-healthy/the-best-foods-for-vitamins-and-minerals</para>
     <para id="para-00026">Campbell, B. (2023). <emphasis effect="italics">What to Eat When You are Trying to Heal</emphasis>. Cleveland Clinic. https://health.clevelandclinic.org/foods-to-help-healing</para>
     <para id="para-00027">Campbell, B. (2021). <emphasis effect="italics">Calcium Nutrition and Bone Health</emphasis>. Orthoinfo. https://orthoinfo.aaos.org/en/staying-healthy/calcium-nutrition-and-bone-health/</para>
-    <para id="para-00028">Cao, C., Xiao, Z., Wu, Y., &amp; Ge, C. (2020, March 24). Diet and Skin Aging-From the Perspective of Food Nutrition. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">12</emphasis>(3):870. https://doi: 10.3390/nu12030870.</para>
+    <para id="para-00028">Cao, C., Xiao, Z., Wu, Y., &amp; Ge, C. (2020, March 24). Diet and Skin Aging-From the Perspective of Food Nutrition. <emphasis effect="italics">Nutrients</emphasis>, <emphasis effect="italics">12</emphasis>(3):870. https://doi: 10.3390/nu12030870</para>
     <para id="para-00029">Centers for Disease Control and Prevention. (2022, July 15). <emphasis effect="italics">Consequences of Obesity</emphasis>. https://www.cdc.gov/obesity/basics/consequences.html</para>
     <para id="para-00030">Cleveland Clinic, Health Essentials. (2023, January 31). What to Eat When You are Trying to Heal. https://health.clevelandclinic.org/foods-to-help-healing/</para>
     <para id="para-00031">Cleveland Clinic. (2022). <emphasis effect="italics">Vitiligo</emphasis>. https://my.clevelandclinic.org/health/diseases/12419-vitiligo</para>
