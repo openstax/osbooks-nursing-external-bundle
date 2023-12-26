@@ -157,15 +157,15 @@ Anuria</entry>
 <title>Part C</title>
 <para id="para-00021">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up from Case Study Parts A and B.</para>
 <para id="para-00080">Gordon Jefferson is following up with the health care provider 3 months after his initial diagnosis of edema. He reports that the swelling in his legs has improved; however, he is now reporting generalized weakness. The health care provider examines the client and reviews the chemistry panel results from laboratory work drawn earlier in the morning. Gordon says he has been taking his prescribed medications, which include the following:<newline count="2"/>
-Losartan 50 mg orally every day<newline/>
-Dapagliflozin 10 mg orally every day<newline/>
-Metolazone 10 mg orally every day</para>
-<table class="vertically-tight" id="table-00003">
+Losartan 50 mg orally daily<newline/>
+Dapagliflozin 10 mg orally daily<newline/>
+Metolazone 10 mg orally daily</para>
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="4" colname="c4" colwidth="3*"/>
 <tbody>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
@@ -250,21 +250,22 @@ Metolazone 10 mg orally every day</para>
 <para id="para-00043">Dahiya, G., Bensimhon, D., Goodwin, M., Mohr, J., &amp; Alexy, T. (2022). From oral to subcutaneous furosemide: The road to novel opportunities to manage congestion. <emphasis effect="italics">Structural Heart, 6</emphasis>(4), 1000076. https://doi.org/10.1016/j.shj.2022.100076</para>
 <para id="para-00044">DailyMed. (Updated December 11, 2021). <emphasis effect="italics">Amiloride hydrochloride tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b70cf0c-45be-428f-b396-5001ed4e30fc</para>
 <para id="para-00045">DailyMed. (Updated April 7, 2023). <emphasis effect="italics">Bumetanide injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=308c690f-c2bd-4c32-8728-42ec95425f77</para>
+<para id="para-00016">DailyMed. (Updated December 27, 2022). <emphasis effect="italics">Bumetanide tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9188ab17-8539-48a5-905f-ad35ab5a0b93</para>
 <para id="para-00046">DailyMed. (Updated May 31, 2023). <emphasis effect="italics">Chlorothiazide—Chlorothiazide sodium injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b5d8a97-1428-4047-8e6c-b778429a26e4</para>
-<para id="para-00047">DailyMed. (Updated February 3, 2022). <emphasis effect="italics">Chlorthalidone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=648f005f-1eae-4718-bc3a-2587d706fae2</para>
+<para id="para-00047">DailyMed. (Updated October 11, 2023). <emphasis effect="italics">Chlorthalidone-chlorthalidone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=648f005f-1eae-4718-bc3a-2587d706fae2</para>
 <para id="para-00048">DailyMed. (Updated February 6, 2007). <emphasis effect="italics">Demadex—Torsemide tablet; Demadex—Torsemide injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf288ad5-d4e7-4b0b-bfd0-41c5327e6984</para>
 <para id="para-00049">DailyMed. (Updated July 3, 2023). <emphasis effect="italics">Dyrenium—Triamterene capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb177c0-d45d-4443-a85a-e76bd9931a42</para>
 <para id="para-00050">DailyMed. (Updated November 15, 2021). <emphasis effect="italics">Eplerenone tablet, coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=316d3a98-4cd1-4499-a34c-cac87e016944</para>
-<para id="para-00051">DailyMed. (Updated August 10, 2023). <emphasis effect="italics">Furoscix—Furosemide injection 80 mg/10 ml injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eac958dd-8d43-e44e-e053-2995a90a4d5e</para>
-<para id="para-00052">DailyMed. (Updated December 29, 2022). <emphasis effect="italics">Furosemide injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b39ad6b3-401d-4aba-a0a9-6d56fcfa0ac9	</para>
-<para id="para-00053">DailyMed. (Updated August 28, 2012). <emphasis effect="italics">Furosemide tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79d9aef8-cfb9-4f6e-ac15-f830d7ea2324	</para>
+<para id="para-00051">DailyMed. (Updated November 30, 2023). <emphasis effect="italics">Furoscix—Furosemide injection 80 mg/10 ml injection</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eac958dd-8d43-e44e-e053-2995a90a4d5e</para>
+<para id="para-00052">DailyMed. (Updated December 29, 2022). <emphasis effect="italics">Furosemide-furosemide injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b39ad6b3-401d-4aba-a0a9-6d56fcfa0ac9	</para>
+<para id="para-00053">DailyMed. (Updated August 28, 2012). <emphasis effect="italics">Furosemide-furosemide tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79d9aef8-cfb9-4f6e-ac15-f830d7ea2324	</para>
 <para id="para-00054">DailyMed. (Updated December 28, 2018). <emphasis effect="italics">Hydrochlorothiazide tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b5a1b38c-0433-4649-a8b0-f72db0a96c45</para>
 <para id="para-00055">DailyMed. (Updated August 15, 2023). <emphasis effect="italics">Mannitol</emphasis> <emphasis effect="italics">injection, solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d12cc802-b538-4065-a264-f474ff3b3043</para>
-<para id="para-00056">DailyMed. (Updated January 12, 2006). <emphasis effect="italics">Mykrox tablets—Metolazone tablets</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dffb4544-0e47-40cd-9baa-d622075838cc</para>
+<para id="para-00056">DailyMed. (Updated August 21, 2023). <emphasis effect="italics">Metolazone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=51300edb-2b0f-427c-aeed-bc74a12f52ce</para>
 <para id="para-00057">DailyMed. (Updated November 25, 2020). <emphasis effect="italics">Spironolactone tablet</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb66327e-8261-46ae-b39a-4fa79d520844</para>
 <para id="para-00058">Dalal, R., Bruss, Z., &amp; Sehdev, J. (2022). <emphasis effect="italics">Physiology, renal blood flow and filtration.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482248/</para>
 <para id="para-00059">Hegde, A. (2020). Diuretics in acute kidney injury. <emphasis effect="italics">Indian Journal of Critical Care Medicine, 24</emphasis>(3), S98–S99. https://doi.org/10.5005%2Fjp-journals-10071-23406</para>
-<para id="para-00060">Huxel, C., Raja, A., &amp; Ollivierre, L. (2022). <emphasis effect="italics">Loop diuretics</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK546656/	</para>
+<para id="para-00060">Huxel, C., Raja, A., &amp; Ollivierre, L. (2023). <emphasis effect="italics">Loop diuretics</emphasis>. StatPearls<emphasis effect="italics">.</emphasis> https://www.ncbi.nlm.nih.gov/books/NBK546656/	</para>
 <para id="para-00061">Jo, W., Koh, E. S., &amp; Chung, S. (2023). Therapeutic roles of thiazides and loop diuretics in blood pressure control and renal protection against chronic kidney disease. <emphasis effect="italics">Clinical Hypertension</emphasis>, <emphasis effect="italics">29</emphasis>(1), 14. https://doi.org/10.1186/s40885-023-00238-5	</para>
 <para id="para-00062">Kanderi, T., &amp; Vaitla, P. (2023). <emphasis effect="italics">Torsemide.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK559175/<emphasis effect="italics"/> 	</para>
 <para id="para-00063">Khan, T., Patel, R., &amp; Siddiqui, A. (2023). <emphasis effect="italics">Furosemide.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK499921/</para>
