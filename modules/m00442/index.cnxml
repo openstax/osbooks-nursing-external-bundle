@@ -166,13 +166,13 @@ Metolazone 10 mg orally daily</para>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <colspec colnum="4" colname="c4" colwidth="3*"/>
-
-  <row>
+<thead>
+<row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Chemistry Panel</span></emphasis></entry>
 </row>
-
+    </thead>
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
