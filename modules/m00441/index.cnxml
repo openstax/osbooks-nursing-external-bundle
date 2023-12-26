@@ -28,11 +28,13 @@
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Spironolactone (Aldactone)</term></entry>
 <entry valign="top" align="left"><emphasis effect="italics">Heart failure:</emphasis> 25–50 mg orally once daily.<newline/>
@@ -41,11 +43,11 @@
 <emphasis effect="italics">Hyperaldosteronism:</emphasis> 100–400 mg daily.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Amiloride (Midamor)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Amiloride</term> (<term class="no-emphasis" id="term-00006">Midamor</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">CHF or hypertension:</emphasis> 5–20 mg orally daily with food.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Triamterene (Dyrenium)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Triamterene</term> (<term class="no-emphasis" id="term-00007">Dyrenium</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Edema associated with congestive heart failure, liver cirrhosis, nephrotic syndrome, secondary hyperaldosteronism, steroid use, or idiopathic causes:</emphasis> 100 mg orally twice daily titrated to effect up to 300 mg daily.</entry>
 </row>
 <row>
@@ -116,7 +118,7 @@ Gynecomastia</entry>
 Anuria<newline/>
 Hyperkalemia<newline/>
 Severe hypovolemia<newline/>
-Addison&#8217;s disease</entry>
+Addison’s disease</entry>
 </row>
 </tbody>
 </tgroup>

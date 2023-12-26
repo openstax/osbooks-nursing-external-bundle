@@ -28,7 +28,7 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
@@ -40,30 +40,30 @@
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Furosemide</term> (<term class="no-emphasis" id="term-00014">Lasix</term>, <term class="no-emphasis" id="term-00015">Furoscix</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Edema due to congestive heart failure, liver cirrhosis, renal disease, or nephrotic syndrome:</emphasis> 20–80 mg orally daily; maximum daily dose: 600 mg.<newline/>
 20–40 mg intravenously (IV) or intramuscularly, may be repeated in 2 hours.<newline/>
-<emphasis effect="italics">Hypertension:</emphasis> 80 mg orally, usually divided into doses of 40 mg twice a day.<newline/>
+<emphasis effect="italics">Hypertension:</emphasis> 80 mg orally, usually divided into doses of 40 mg twice daily.<newline/>
 <emphasis effect="italics">Acute pulmonary edema:</emphasis> 40 mg IV, may be repeated in an hour.<newline/>
 <emphasis effect="italics">Congestive heart failure:</emphasis> Subcutaneous administration of Furoscix, 30 mg for the first hour; 12.5 mg/hour for the next 4 hours.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Torsemide (Demadex)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Torsemide</term> (<term class="no-emphasis" id="term-00016">Demadex</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Congestive heart failure:</emphasis> Initial dose: 10–20 mg orally or IV once daily. Double the dose as needed until the desired diuretic effect is attained, not to exceed 200 mg.<newline/>
 <emphasis effect="italics">Chronic renal failure:</emphasis> Initial dose: 20 mg orally or IV once daily. Double the dose as needed until the desired diuretic effect is attained, not to exceed 200 mg.<newline/>
 <emphasis effect="italics">Hepatic cirrhosis:</emphasis> 5–10 mg orally or IV once daily, administered with an aldosterone agonist or potassium-sparing diuretic. Double the dose as needed until the desired diuretic response is attained, not to exceed 40 mg.<newline/>
 <emphasis effect="italics">Hypertension:</emphasis> 5 mg orally once daily. If needed after 4–6 weeks, double the dose. If 10 mg is not sufficient, add an additional antihypertensive agent.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Bumetanide (Bumex)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Bumetanide</term> (<term class="no-emphasis" id="term-00017">Bumex</term>)</entry>
 <entry valign="top" align="left">0.5–2 mg orally once daily, initially; may repeat a second or third dose every 4–5 hours as needed until the desired diuretic effect is attained; usual dose: 0.5–2 mg/day; maximum dose: 10 mg/day.<newline/>
 0.5–1 mg IV or intramuscularly once, initially; may repeat a second or third dose every 2–3 hours as needed until the desired diuretic effect is attained; maximum dose: 10 mg/day.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Emphasis Table: Loop Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Loop Diuretics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 <section id="sect-00003">
 <title>Adverse Effects and Contraindications</title>
-<para id="para-00008">Loop diuretics primarily cause diuresis-induced electrolyte imbalances (Huxel et al., 2022). These alterations are more common in older adults and clients with inadequate fluid intake. Other common adverse effects include headache, dizziness, and postural hypotension. Metabolic effects may include hyperlipidemia, metabolic alkalosis, and hyperglycemia due to impaired glucose tolerance. Drug-induced pancreatitis also has been reported, most often in clients with a history of pancreatitis. Less common reactions include impotence, thrombocytopenia due to the secretion of antibodies, thrombotic events related to <term id="term-00008">hypovolemia</term>, and ototoxicity due to rapid intravenous administration.</para>
+<para id="para-00008">Loop diuretics primarily cause diuresis-induced electrolyte imbalances (Huxel et al., 2023). These alterations are more common in older adults and clients with inadequate fluid intake. Other common adverse effects include headache, dizziness, and postural hypotension. Metabolic effects may include hyperlipidemia, metabolic alkalosis, and hyperglycemia due to impaired glucose tolerance. Drug-induced pancreatitis also has been reported, most often in clients with a history of pancreatitis. Less common reactions include impotence, thrombocytopenia due to the secretion of antibodies, thrombotic events related to <term id="term-00008">hypovolemia</term>, and ototoxicity due to rapid intravenous administration.</para>
 <para id="para-00009">Loop diuretics should be used with care in <term class="no-emphasis" id="term-00009">older adults</term> and clients with cardiovascular disease, diabetes, and other risk factors for fluid volume and electrolyte alterations, such as dehydration and increased glucose tolerance. Clients who are allergic to sulfa may possibly experience a mild reaction when using loop diuretics.</para>
 <para id="para-00010">Severe dehydration or anuria is a contraindication to any diuretic (Arumugham &amp; Shahin, 2023). Loop diuretics are contraindicated in clients with sensitivity to one of the individual drugs (furosemide, torsemide, or bumetanide) and in clients with Stevens–Johnson syndrome due to the probability of a sensitivity reaction.</para>
 <para id="para-00011"><link target-id="table-00002" document="m00439"/> is a drug prototype table for loop diuretics featuring furosemide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -81,7 +81,7 @@ Inhibits the reabsorption of sodium and water in the ascending loop of Henle, wh
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis> <newline/>
 <emphasis effect="italics">Edema due to congestive heart failure, liver cirrhosis, renal disease, or nephrotic syndrome:</emphasis> 20–80 mg orally daily; maximum daily dose: 600 mg.<newline/>
 20–40 mg IV or intramuscularly, may be repeated in 2 hours.<newline/>
-<emphasis effect="italics">Hypertension:</emphasis> 80 mg orally, usually divided into 40 mg twice a day.<newline/>
+<emphasis effect="italics">Hypertension:</emphasis> 80 mg orally, usually divided into 40 mg twice daily.<newline/>
 <emphasis effect="italics">Acute pulmonary edema:</emphasis> 40 mg IV, may be repeated in an hour.<newline/>
 <emphasis effect="italics">Congestive heart failure:</emphasis> Subcutaneous administration of Furoscix, 30 mg for the first hour; 12.5 mg/hour for the next 4 hours.</entry>
 </row>
@@ -136,7 +136,7 @@ Hypersensitivity reaction to sulfa or any loop diuretic</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype Table: Furosemide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Furosemide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="special-considerations" id="note-00001">
 <title>Use of Diuretics in Older Adults</title>
@@ -165,15 +165,12 @@ Hypersensitivity reaction to sulfa or any loop diuretic</entry>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
 </list>
 <note class="clinical-tip" id="note-00003">
-<para id="para-00017"><emphasis effect="bold">Intravenous Administration of Furosemide</emphasis></para>
+<title>Intravenous Administration of Furosemide</title>
 <para id="para-00018">Furosemide can be administered intravenously as a bolus injection or as a continuous or intermittent infusion for larger doses. A bolus dose should be administered slowly over 1 to 2 minutes. Rapid infusion rates of loop diuretics may trigger temporary or permanent hearing loss in susceptible clients.</para>
 <para id="para-00019">(Source: DailyMed, <emphasis effect="italics">Furosemide injection,</emphasis> 2022)</para>
 </note>
 <note class="trending-today" id="note-00004">
-<title>Furoscix Subcutaneous Drug Delivery System</title>
-<media alt="atoms_isotopes">
-<iframe width="560" height="315" src="https://openstax.org/r/furoscix"/>
-</media>
+<title><link url="https://openstax.org/r/furoscix">Furoscix Subcutaneous Drug Delivery System</link></title>
 <para id="para-00020">A client-administered <term class="no-emphasis" id="term-00011">loop diuretic dosing system</term> was approved in 2022 for the treatment of heart failure. The clinical trial investigators found the client outcomes and pharmacologic features of subcutaneous administration of <term class="no-emphasis" id="term-00012">Furoscix</term> to be equal to those for intravenous administration of <term class="no-emphasis" id="term-00013">furosemide</term>. Watch this brief video demonstration of its application and use.</para>
 <para id="para-00021">(Source: Dahiya et al., 2022)</para>
 </note>
