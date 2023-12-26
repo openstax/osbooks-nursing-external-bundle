@@ -39,10 +39,10 @@
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
-    <entry valign="top" align="left">Teach safe and healthy relationships</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Teach safe and healthy relationships</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00003">
     <item>Social-emotional learning programs for youth</item>
@@ -50,7 +50,7 @@
     </list></entry>
     </row>
     <row>
-    <entry valign="top" align="left">Engage influential adults and peers</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Engage influential adults and peers</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00004">
     <item>Men and boys as allies in prevention</item>
@@ -60,7 +60,7 @@
     </entry>
     </row>
     <row>
-    <entry valign="top" align="left">Disrupt the developmental pathways toward partner violence</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Disrupt the developmental pathways toward partner violence</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00005"><item>Early childhood home visitation</item>
     <item>Preschool enrichment with family engagement</item>
@@ -68,20 +68,20 @@
     <item>Treatment for at-risk children, youth, and families</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left">Create protective environments</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Create protective environments</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00006"><item>Improve school climate and safety</item>
     <item>Improve organizational polices and workplace climate</item>
     <item>Modify the physical and social environments of neighborhoods</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left">Strengthen economic supports for families</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Strengthen economic supports for families</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00007"><item>Strengthen household financial security</item>
     <item>Strengthen work-family supports</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left">Support survivors to increase safety and lessen harms</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Support survivors to increase safety and lessen harms</emphasis></span></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00008"><item>Victim-centered services</item>
     <item>Housing programs</item>
