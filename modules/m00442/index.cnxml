@@ -30,34 +30,36 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Hydrochlorothiazide (Hydrodiuril, Microzide)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Hydrochlorothiazide</term> (<term class="no-emphasis" id="term-00007">Hydrodiuril</term>, <term class="no-emphasis" id="term-00008">Microzide</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Hypertension:</emphasis> Initial dose: 25 mg orally once daily; may increase dose to 50 mg/day in 1–2 divided doses.<newline/>
 <emphasis effect="italics">Edema:</emphasis> 25–100 mg orally daily as a single or divided dose; administration on alternate days or 3–5 days per week may also be effective.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Chlorothiazide (Diuril)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Chlorothiazide</term> (<term class="no-emphasis" id="term-00009">Diuril</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 500–1000 mg IV once or twice daily.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Metolazone (Zaroxolyn)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Metolazone</term> (<term class="no-emphasis" id="term-00010">Zaroxolyn</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 5–20 mg orally once daily.<newline/>
 <emphasis effect="italics">Hypertension:</emphasis> 2.5–5 mg orally once daily.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Chlorthalidone (Thalitone)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Chlorthalidone</term> (<term class="no-emphasis" id="term-00011">Thalitone</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Hypertension:</emphasis> 25 mg orally daily; start with lowest dose and titrate to response.<newline/>
 <emphasis effect="italics">Edema:</emphasis> 25 mg orally daily; start with lowest dose and titrate to response.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Emphasis Table: Thiazide Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Thiazide Diuretics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 <section id="sect-00003">
@@ -109,7 +111,7 @@ Anuria</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype Table: Hydrochlorothiazide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Hydrochlorothiazide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="safety-alert" id="note-00001">
 <title>Thiazide Diuretics</title>
@@ -136,7 +138,7 @@ Anuria</entry>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
 </list>
 <note class="clinical-tip" id="note-00003">
-<para id="para-00016"><emphasis effect="bold">Accurate Assessment of Client’s Fluid Volume Status</emphasis></para>
+<title>Accurate Assessment of Client’s Fluid Volume Status</title>
 <para id="para-00017">Clients with heart failure are often hospitalized to correct <term class="no-emphasis" id="term-00006">fluid volume overload</term>. Nurses are responsible for accurate physical assessment, data collection, and documentation of the client’s fluid volume status, which is critical for effective diuretic therapy. The nurse should monitor the client’s response to treatment by measuring urine output, monitoring their weight daily, auscultating lung sounds for rales or crackles, and assessing the client’s lower extremities and other dependent areas to determine whether the edema is decreasing.</para>
 <para id="para-00018">(Source: Malik et al., 2022)</para>
 </note>
