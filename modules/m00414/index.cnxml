@@ -261,13 +261,13 @@
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Pramlintide</term><newline/>(Symlin)</entry>
-  <entry valign="top" align="left"><emphasis effect="italics">Type 1 diabetes:</emphasis> 15 mcg subcutaneously before major meals. Increase in 15-mcg increments to a maximum pre-meal dose of 30–60 mcg.<newline/>
+  <entry valign="top" align="left"><emphasis effect="italics">Type 1 diabetes:</emphasis> 15 mcg subcutaneously before major meals. Increase in 15 mcg increments to a maximum pre-meal dose of 30–60 mcg.<newline/>
   <emphasis effect="italics">Type 2 diabetes:</emphasis> 60 mcg subcutaneously before major meals, then increase to 120 mcg before meals as tolerated.<newline/>
   *Note: Wait at least 3 days between dose titrations to minimize nausea.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00022">Dulaglutide</term><newline/>(Trulicity)</entry>
-  <entry valign="top" align="left">0.75 mg subcutaneously once weekly. Increase dosage by 1.5-mg increments after at least 4 weeks.<newline/>
+  <entry valign="top" align="left">0.75 mg subcutaneously once weekly. Increase dosage by 1.5 mg increments after at least 4 weeks.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 4.5 mg subcutaneously once weekly.</entry>
   </row>
   <row>
@@ -275,7 +275,7 @@
   <entry valign="top" align="left">5 mcg subcutaneously within 60 minutes prior to morning and evening meals at least 6 hours apart. Increase to 10 mcg twice daily after 1 month based on clinical response.</entry>
   </row>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Liraglutide</term><newline/>(Victoza)</entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Liraglutide</term><newline/>(<term class="no-emphasis" id="term-00045">Victoza</term>)</entry>
   <entry valign="top" align="left">0.6 mg subcutaneously daily for one week, then increase to 1.2 mg daily.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 1.8 mg daily.</entry>
   </row>
@@ -285,19 +285,19 @@
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00026">Semaglutide</term><newline/>(Ozempic)</entry>
-  <entry valign="top" align="left">0.25 mg subcutaneously once weekly; after 4 weeks increase to 0.5 mg once weekly; <emphasis effect="italics">Maximum dose:</emphasis> 2 mg once weekly.<newline/>
+  <entry valign="top" align="left">0.25 mg subcutaneously once weekly; after 4 weeks increase to 0.5 mg once weekly.<newline/><emphasis effect="italics">Maximum dose:</emphasis> 2 mg once weekly.<newline/>
   *Note: Wait 5 days between dose titrations.</entry>
   </row>
   </tbody>
   </tgroup>
-  <caption>Drug Emphasis Table: Non-insulin Injectables (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  <caption><emphasis effect="bold">Drug Emphasis Table: Non-insulin Injectables</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
   </section>
   </section>
   <section id="sect-00024">
   <title>Adverse Effects and Contraindications</title>
   <para id="para-00046">Adverse effects of amylin analogs include hypoglycemic symptoms (shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), gastrointestinal symptoms (nausea, vomiting, diarrhea, abdominal pain, and loss of appetite), and injection site reactions.</para>
-  <para id="para-00047">Contraindications include hypersensitivity to the drug or any of its components and in clients with medullary thyroid cancer and multiple endocrine neoplasia (as these drugs can exacerbate these conditions). Caution should be used in clients with gastroparesis, as amylin analogs may further slow down gastric emptying, in clients with severe renal impairment as the drugs are excreted in the urine and can further impair renal function, and in clients with hepatic insufficiency, due to the drugs being metabolized by the liver and thus can impede liver functioning.</para>
+  <para id="para-00047">Contraindications include hypersensitivity to the drug or any of its components and in clients with medullary thyroid cancer and multiple endocrine neoplasia (as these drugs can exacerbate these conditions). Caution should be used in clients with gastroparesis as amylin analogs may further slow down gastric emptying, in clients with severe renal impairment as the drugs are excreted in the urine and can further impair renal function, and in clients with hepatic insufficiency due to the drugs being metabolized by the liver and thus can impede liver functioning.</para>
   <para id="para-00048"><link target-id="table-00004" document="m00414"/> is a drug prototype table for non-insulin injectable drugs featuring dulaglutide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   <table class="vertically-tight" id="table-00004">
   <tgroup cols="2">
@@ -310,7 +310,7 @@
   <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
   Increases insulin secretion when glucose levels are elevated, decreases glucagon secretion, and delays gastric emptying in an effort to lower postprandial glucose levels</entry>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-  0.75 mg subcutaneously once weekly. Increase dosage by 1.5-mg increments after at least 4 weeks.<newline/>
+  0.75 mg subcutaneously once weekly. Increase dosage by 1.5 mg increments after at least 4 weeks.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 4.5 mg subcutaneously once weekly.</entry>
   </row>
   <row>
@@ -363,7 +363,7 @@
   <para id="para-00050"><emphasis effect="bold">The client using an insulin or non-insulin injectable diabetes drug should:</emphasis></para>
   <list list-type="bulleted" id="list-00004">
   <item>Report symptoms of hypoglycemia such as headache, nervousness, sweating, clammy skin, tremor, and tachycardia.</item>
-  <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, and sweet fruity breath odor. </item>
+  <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, and sweet, fruity breath odor. </item>
   <item>Keep 15 grams of carbohydrates on hand in case of a hypoglycemic reaction. Orange juice, graham crackers, and hard candy are appropriate carbohydrate choices during hypoglycemia.</item>
   <item>Show family members and their support system how to administer glucagon during a hypoglycemic reaction if the client cannot eat or drink or is unconscious.</item>
   <item>Store insulin in a refrigerator at approximately 36–46°F.</item>
