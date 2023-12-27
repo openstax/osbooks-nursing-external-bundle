@@ -304,7 +304,7 @@
   </note>
   <note class="unfolding-casestudy" id="note-00006">
   <para id="para-00031">Read the following clinical scenario to answer the questions that follow.</para>
-<para id="para-00034">Ellis Dominico is a 40-year-old client who visits their primary health care provider’s office for a checkup. Ellis reports fatigue and decreased energy, constipation, and having an intolerance to cold temperatures.<newline count="2"/><emphasis effect="bold">History</emphasis><newline count="2"/>Hyperthyroidism (diagnosed 6 months ago)<newline count="2"/><emphasis effect="bold">Current Medications</emphasis><newline count="2"/>Methimazole, 15 mg orally daily.</para>
+<para id="para-00034">Ellis Dominico is a 40-year-old client who visits their primary health care provider’s office for a checkup. Ellis reports fatigue and decreased energy, constipation, and having an intolerance to cold temperatures.<newline count="2"/><emphasis effect="bold">History</emphasis><newline count="2"/>Hyperthyroidism (diagnosed 6 months ago)<newline count="2"/><emphasis effect="bold">Current Medications</emphasis><newline count="2"/>Methimazole, 15 mg orally daily</para>
   <table class="vertically-tight" id="table-00005">
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -320,7 +320,7 @@
   <row>
   <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
 <entry valign="top" align="left">98.3°F</entry>
-  <entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00009"><item><emphasis effect="italics">Head, eyes, nose, throat (HEENT):</emphasis> Within normal limits</item>
+  <entry valign="top" align="left" morerows="6"><list list-type="bulleted" id="list-00009"><item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
 <item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention; no peripheral edema noted; S1, S2 auscultated, rhythm regular</item>
 <item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear to auscultation bilaterally</item>
 <item><emphasis effect="italics">GI:</emphasis> Abdomen firm, nontender, slightly distended</item>
@@ -334,11 +334,11 @@
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
-<entry valign="top" align="left">58 beats/minute</entry>
+<entry valign="top" align="left">58 beats/min</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Respiratory rate</emphasis>:</entry>
-<entry valign="top" align="left">18 breaths/minute</entry>
+<entry valign="top" align="left">18 breaths/min</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation</emphasis>:</entry>
