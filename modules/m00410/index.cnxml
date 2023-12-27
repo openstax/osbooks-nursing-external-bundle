@@ -225,11 +225,9 @@
   <para id="para-00024">Contraindications include hypersensitivity to the drug or any of its components, severe liver disease or impairment, and with pregnancy or breastfeeding because the drugs can cross the placenta, be excreted in breast milk, and potentially affect the development of the fetus or infant.</para>
   <para id="para-00025"><link target-id="table-00004" document="m00410"/> is a drug prototype table for antithyroid drugs featuring methimazole. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   <table class="vertically-tight" id="table-00004">
-  <tgroup cols="4">
+  <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
-  <colspec colnum="4" colname="c4" colwidth="1*"/>
   <tbody>
   <row>
   <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
