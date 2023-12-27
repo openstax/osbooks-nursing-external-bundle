@@ -87,7 +87,7 @@
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00004">
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00005">Antiemetics</term>:</emphasis> phenothiazines/dopamine antagonists, prokinetic agents, antihistamines, serotonin receptor antagonists, neurokinin-1 (substance P) receptor antagonists, anticholinergics, cannabinoids</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00006">Antidiarrheals</term>:</emphasis> nonspecific drugs (e.g., opioids) and specific drugs (e.g., bismuth subsalicylate, bulk-forming agents)</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00007">Laxatives</term>:</emphasis> bulk-forming agents (e.g., psyllium); surfactants (e.g., docusate sodium); stimulants (e.g., bisacodyl); osmotics (e.g., magnesium citrate, lactulose); lubricants (e.g., mineral oil)</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00007">Laxatives</term>:</emphasis> bulk-forming agents (e.g., psyllium), surfactants (e.g., docusate sodium), stimulants (e.g., bisacodyl), osmotics (e.g., magnesium citrate, lactulose), lubricants (e.g., mineral oil)</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00008">Medications for IBS:</term></emphasis> lubiprostone for IBS-C and alosetron for IBS-D</item>
 <item><term class="no-emphasis" id="term-00009">Antacids</term> (aluminum, magnesium, calcium, and sodium compounds)</item>
 <item><term class="no-emphasis" id="term-00010">Histamine type-2 receptor antagonists</term> (e.g., famotidine, cimetidine)</item>
@@ -100,9 +100,9 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Common Gastrointestinal Conditions</caption>
+<caption><emphasis effect="bold">Common Gastrointestinal Conditions</emphasis></caption>
 </table>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight alternate-shading full-width" id="table-00002">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -152,7 +152,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Common Actions of Digestive Enzymes</caption>
+<caption><emphasis effect="bold">Common Actions of Digestive Enzymes</emphasis></caption>
 </table>
 <note class="clinical-tip" id="note-00002">
 <title>Assess for Gastrointestinal Health Practices</title>
