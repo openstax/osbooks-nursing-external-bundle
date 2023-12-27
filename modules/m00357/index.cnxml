@@ -108,7 +108,7 @@
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <tbody>
     <row>
-    <entry valign="top" align="center" namest="1" nameend="3"><emphasis effect="bold">Local Partners</emphasis></entry>
+    <entry namest="c1" nameend="c3" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
     </row>
     <row>
     <entry valign="top" align="left" morerows="8">
