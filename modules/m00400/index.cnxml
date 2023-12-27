@@ -90,7 +90,7 @@ Relief of bronchospasm</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Antiarrhythmics<newline/>
 Beta blockers<newline/>
-CNS stimulates<newline count="2"/>
+CNS stimulants<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
 No significant interactions</entry>
 </row>
@@ -118,7 +118,7 @@ Severe cardiac disease</entry>
 <title>Alpha- and Beta-Adrenergic Agonists</title>
 <para id="para-00010"><term id="term-00017">Alpha- and beta-adrenergic agonists</term> stimulate both alpha- and beta-adrenergic receptors. Alpha-adrenergic receptors are found primarily in smooth muscles, regulating vasoconstriction and blood pressure. Beta-adrenergic receptors are present in the heart, lungs, and other tissues and control heart rate, bronchodilation, and metabolic processes.</para>
 <para id="para-00011">Ephedrine, a sympathomimetic drug, acts as a <term class="no-emphasis" id="term-00018">nonselective alpha- and beta-adrenergic agonist</term>, meaning it stimulates both types of receptors. The ability of ephedrine to activate both receptor types makes it a widely used drug for conditions such as asthma and nasal congestion as well as low blood pressure. However, its usage requires caution due to potential side effects and interactions with other medications (Drugbank Online, 2023).</para>
-<para id="para-00012">Epinephrine is used often as an emergency treatment for allergic reactions and respiratory distress including anaphylaxis. It works by relaxing and opening air passages to allow for easier breathing. It can be given as an oral inhalation, intravenously, subcutaneously, and as an intramuscular injection (Dalal &amp; Grujic, 2023). Epinephrine can cause anxiety, tremor, palpitations, nausea, and headache.</para>
+<para id="para-00012">Epinephrine is used often as an emergency treatment for allergic reactions and respiratory distress including anaphylaxis. It works by relaxing and opening air passages to allow for easier breathing. It can be given as an oral inhalation, intravenously, subcutaneously, and as an intramuscular injection (Dalal &amp; Grujic, 2023). Epinephrine can cause anxiety, tremors, palpitations, nausea, and headache.</para>
 <para id="para-00013"><link target-id="table-00003" document="m00400"/> lists common alpha and beta adrenergics used for lower respiratory system disorders and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
@@ -131,12 +131,12 @@ Severe cardiac disease</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Ephedrine</term><newline/>
-(<term class="no-emphasis" id="term-00020">Emerphed, Corphedra</term>)</entry>
-<entry valign="top" align="left">1–2 tablets (25 mg each) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
+(<term class="no-emphasis" id="term-00020">Emerphed</term>, <term class="no-emphasis" id="term-00032">Corphedra</term>)</entry>
+<entry valign="top" align="left">1–2 tablets (12.5 mg each) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00021">Epinephrine</term><newline/>
-(<term class="no-emphasis" id="term-00022">Adrenalin, Auvi-Q, Epipen, Primatene Mist</term>)</entry>
+(<term class="no-emphasis" id="term-00022">Adrenalin</term>, <term class="no-emphasis" id="term-00033">Auvi-Q</term>, <term class="no-emphasis" id="term-00034">Epipen</term>, <term class="no-emphasis" id="term-00035">Primatene Mist</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Inhalation:</emphasis> 1 inhalation as needed. Wait 1 minute, then take second inhalation. Wait at least 4 hours between doses. Maximum dose: 8 inhalations in 24 hours.<newline/>
 <emphasis effect="italics">Intramuscular or subcutaneous:</emphasis> 0.3–0.5 mg (0.3–0.5 mL) of undiluted epinephrine administered in the anterolateral aspect of the thigh, repeated every 5–10 minutes as necessary. Maximum dose: 0.5 mg (0.5 mL) per injection. Intended for severe exacerbation and/or when inhalation is not available.</entry>
 </row>
@@ -161,7 +161,7 @@ Adrenergic<newline count="2"/>
 Relaxes bronchial smooth muscle by stimulating beta-2 receptors<newline/>
 Stimulates alpha- and beta-adrenergic receptors in the sympathetic nervous system</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-1–2 tablets (25 mg per tablet) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
+1–2 tablets (12.5 mg per tablet) every 4 hours as needed. Maximum dose: 12 tablets in 24 hours.</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
@@ -229,8 +229,8 @@ Bronchial asthma or emphysema with degenerative heart disease</entry>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00028">Tiotropium</term><newline/>
 (<term class="no-emphasis" id="term-00029">Spiriva</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Hand inhaler:</emphasis> 2 inhalations of the powder contents of 1 Spiriva capsule, once daily.<newline/>
-<emphasis effect="italics">Spiriva Respimat inhaler:</emphasis> For COPD: 2 inhalations (2.5 mcg) per device actuation once daily.<newline/>
-<emphasis effect="italics">For asthma:</emphasis> 2 inhalations (1.25 mcg) once daily.</entry>
+<emphasis effect="italics">Spiriva Respimat inhaler:</emphasis> For COPD: 2 inhalations (2.5 mcg each) per device actuation once daily.<newline/>
+<emphasis effect="italics">For asthma:</emphasis> 2 inhalations (1.25 mcg each) once daily.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -328,11 +328,11 @@ Prostatic hyperplasia</entry>
 Hypertension<newline count="2"/>
 <emphasis effect="bold">Current Medications</emphasis><newline/>
 Metoprolol 100 mg daily</para>
-<table class="vertically-tight" id="table-00007">
+<table class="vertically-tight full-width" id="table-00007">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
@@ -348,7 +348,7 @@ Metoprolol 100 mg daily</para>
 <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Denies any changes in vision. No difficulty hearing.</item>
 <item><emphasis effect="italics">Cardiovascular:</emphasis> S1, S2 noted. Denies chest pain. Capillary refill less than 3 seconds.</item>
 <item><emphasis effect="italics">Respiratory:</emphasis> Decreased breath sounds in the lower lung fields, prolonged expiration and mild wheezing.</item>
-<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; Bowel sounds present in all four quadrants.</item>
+<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, nontender, nondistended; bowel sounds present in all four quadrants.</item>
 <item><emphasis effect="italics">GU:</emphasis> Denies difficulty with urination.</item>
 <item><emphasis effect="italics">Neurological:</emphasis> Alert and oriented ×4. Denies any dizziness, numbness, or tingling in extremities.</item>
 <item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted.</item>
