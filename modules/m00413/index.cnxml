@@ -100,13 +100,13 @@
     <para id="para-00026">Visit the <link url="https://openstax.org/r/coveragetoolkitorg">National Diabetes Prevention Program website</link> to learn more about key milestones, research conducted, and why the program was authorized. This website gives an overview of the <term class="no-emphasis" id="term-00031">National Diabetes Prevention Program</term> and provides valuable information for those with prediabetes and type 2 diabetes.</para>
     </note>
     <note class="unfolding-casestudy" id="note-00004">
-    <para id="para-00027"><emphasis effect="bold">Part A</emphasis></para>
+    <title>Part A</title>
     <para id="para-00028">Read the following clinical scenario to answer the questions that follow. This case will evolve throughout the chapter.</para>
-    <table class="vertically-tight" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
     <tbody>
     <row>
     <entry valign="top" align="left" namest="c1" nameend="c3">Alaina Sanders is a 65-year-old Black client who presented to her health care provider’s office reporting fatigue, an increase in urination, feeling thirsty all the time, and blurred vision for the past three months.<newline count="2"/>

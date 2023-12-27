@@ -207,7 +207,7 @@
   <table class="vertically-tight" id="table-00002">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
  <thead>
    <row>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
@@ -216,12 +216,12 @@
 </thead>
   <tbody>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00023">Acarbose (Precose)</term></entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00023">Acarbose</term> (<term class="no-emphasis" id="term-00036">Precose</term>)</entry>
   <entry valign="top" align="left">25 mg orally 3 times daily with meals.<newline/>
   <emphasis effect="italics">Maximum dose: </emphasis>300 mg daily.</entry>
   </row>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Dapagliflozin (Farxiga)</term></entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Dapagliflozin</term> (<term class="no-emphasis" id="term-00037">Farxiga</term>)</entry>
   <entry valign="top" align="left">Dosage is adjusted based on estimated glomerular filtration rate (eGFR):<newline/>
   <list list-type="bulleted" id="list-00003">
   <item><emphasis effect="italics">eGFR 45 or greater:</emphasis> 5–10 mg orally once daily.</item>
@@ -231,11 +231,11 @@
   </entry>
   </row>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00025">Empagliflozin (Jardience)</term></entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00025">Empagliflozin</term> (<term class="no-emphasis" id="term-00038">Jardiance</term>)</entry>
   <entry valign="top" align="left">10 mg orally once daily.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 25 mg daily.<newline/>
   Data are insufficient to provide a dosage recommendation in clients who have<newline/>
-  type 2 diabetes mellitus and established cardiovascular disease with an eGFR less than 30 mL/min/1.73 m<sup>2</sup>, or heart failure with an eGFR less than 20 mL/min/1.73 m<sup>2</sup>.</entry>
+  type 2 diabetes mellitus and established cardiovascular disease with an eGFR less than 30 mL/min/1.73 m<sup>2</sup> or heart failure with an eGFR less than 20 mL/min/1.73 m<sup>2</sup>.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00026">Glipizide (Glucotrol, Glucotrol XL)</term></entry>
@@ -244,25 +244,25 @@
   <emphasis effect="italics">Extended release:</emphasis> Once daily with breakfast.</entry>
   </row>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00027">Glyburide/metformin (Glucovance)</term></entry>
-  <entry valign="top" align="left">1.25 mg glyburide/250 mg metformin orally daily. Titrate 2 weeks after initial dosing up to 1.25 mg glyburide/250 mg metformin orally every 12 hours. <emphasis effect="italics">Maximum dose:</emphasis> 20 mg glyburide/2000 mg metformin orally per day.</entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00027">Glyburide/metformin</term> (<term class="no-emphasis" id="term-00039">Glucovance</term>)</entry>
+  <entry valign="top" align="left">1.25 mg glyburide/250 mg metformin orally daily. Titrate 2 weeks after initial dosing up to 1.25 mg glyburide/250 mg metformin orally every 12 hours. <emphasis effect="italics">Maximum dose:</emphasis> 20 mg glyburide/2000 mg metformin orally daily.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00028">Liraglutide/insulin degludec (Xultrophy)</term></entry>
-  <entry valign="top" align="left">10 units insulin degludec/3.6 mg of liraglutide subcutaneously once daily. <emphasis effect="italics">Maximum dose:</emphasis> 50 units insulin degludec/1.8 mg liraglutide subcutaneously daily.</entry>
+  <entry valign="top" align="left">10 units insulin degludec/3.6 mg of liraglutide subcutaneously once daily. <newline/><emphasis effect="italics">Maximum dose:</emphasis> 50 units insulin degludec/1.8 mg liraglutide subcutaneously daily.</entry>
   </row>
   <row>
-  <entry valign="top" align="center"><term class="no-emphasis" id="term-00029">Metformin (Glucophage, Glucophage XR)</term></entry>
+  <entry valign="top" align="center"><term class="no-emphasis" id="term-00029">Metformin</term> (<term class="no-emphasis" id="term-00040">Glucophage</term>, <term class="no-emphasis" id="term-00041">Glucophage XR</term>)</entry>
   <entry valign="top" align="left"><emphasis effect="bold">Immediate Release</emphasis><newline/>
-  <emphasis effect="italics">Adults:</emphasis> 500–1,000 mg orally once daily.<newline/>
-  <emphasis effect="italics">Maximum dose:</emphasis> 2,000 mg daily.<newline/>
+  <emphasis effect="italics">Adults:</emphasis> 500–1000 mg orally twice daily.<newline/>
+  <emphasis effect="italics">Maximum dose:</emphasis> 2000 mg daily.<newline/>
   <emphasis effect="italics">Children (the only oral diabetes drug that is safe for use in children 10–17 years of age):</emphasis> 500 mg orally twice daily.<newline/>
-  <emphasis effect="italics">Maximum dose: </emphasis>2,000 mg daily in divided doses.<newline/>
+  <emphasis effect="italics">Maximum dose: </emphasis>2000 mg daily in divided doses.<newline/>
   <emphasis effect="bold">Extended Release</emphasis><newline/>
-  <emphasis effect="italics">Adults:</emphasis> 250–500 mg once daily with evening meal; increase dose by 500 mg/week on the basis of glycemic control and tolerability; maximum dose: 2,000 mg/day.<newline/>
+  <emphasis effect="italics">Adults:</emphasis> 250–500 mg once daily with evening meal; increase dose by 500 mg/week on the basis of glycemic control and tolerability.<newline/> <emphasis effect="italics">Maximum dose:</emphasis> 2000 mg/day.<newline/>
   <emphasis effect="italics">Children: </emphasis>Health care provider should determine dose based on body surface area and glucose target range.<newline/>
   <emphasis effect="bold">Oral Solution</emphasis><newline/>
-  <emphasis effect="italics">Adults and children: </emphasis>500 mg/5 mL daily up to a maximum dose of 2,000 mg/day.</entry>
+  <emphasis effect="italics">Adults and children: </emphasis>500 mg/5 mL daily up to a maximum dose of 2000 mg/day.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00030">Miglitol (Glyset)</term></entry>
