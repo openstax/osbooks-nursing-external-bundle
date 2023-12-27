@@ -39,7 +39,7 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
@@ -52,7 +52,7 @@
 <entry valign="top" align="left">Individualized based on condition being treated and severity of symptoms.<newline/>Typical dose: 2–4 mcg orally in 1–2 daily doses. Close monitoring is recommended.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Vasopressin</term> (<term class="no-emphasis" id="term-00008">ADH, Vasostrict</term>)</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Vasopressin</term> (<term class="no-emphasis" id="term-00008">ADH</term>, <term class="no-emphasis" id="term-00010">Vasostrict</term>)</entry>
 <entry valign="top" align="left">Individualized based on condition being treated and severity of symptoms.<newline/><emphasis effect="italics">For diabetes insipidus (injectable):</emphasis> Recommended starting dose: 2–4 mcg in 1–2 divided doses subcutaneously or intravenously.<newline/>The morning and evening doses should be separately adjusted for an adequate diurnal rhythm of water turnover. Adjust dose based on response to treatment, estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.<newline/><emphasis effect="italics">For diabetes insipidus (intranasal):</emphasis> Recommended dose: 10 mcg once daily into one nostril up to 40 mcg once daily (or 40 mcg divided into 2–3 daily doses). If administered more than once a day, adjust for an adequate diurnal rhythm of urine output.<newline/><emphasis effect="italics">For shock (diluted):</emphasis> 0.01–0.03 units/minute intravenously, titrated every hour.</entry>
 </row>
 <row>
