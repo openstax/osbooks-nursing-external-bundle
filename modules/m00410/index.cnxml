@@ -38,7 +38,7 @@
   <table class="vertically-tight" id="table-00001">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
   <thead>
   <row>
   <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Drug</emphasis></span></entry>
@@ -61,7 +61,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption><emphasis effect="bold">Drug Emphasis Table: Thyroid Drugs</emphasis> (source: <link url="https://openstax.org/r/dailymed">https://dailymed.nlm.nih.gov/dailymed/</link>)</caption>
+  <caption><emphasis effect="bold">Drug Emphasis Table: Thyroid Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
   </section>
   </section>
@@ -302,10 +302,10 @@
   <para id="para-00029"><emphasis effect="bold">Propylthiouracil</emphasis></para>
   <para id="para-00030">Severe liver injury and acute liver failure have been reported in clients treated with propylthiouracil.</para>
   </note>
-  <note class="unfolding-casestudy" id="note-00006">
+  <note class="single-casestudy" id="note-00006">
   <para id="para-00031">Read the following clinical scenario to answer the questions that follow.</para>
 <para id="para-00034">Ellis Dominico is a 40-year-old client who visits their primary health care provider’s office for a checkup. Ellis reports fatigue and decreased energy, constipation, and having an intolerance to cold temperatures.<newline count="2"/><emphasis effect="bold">History</emphasis><newline count="2"/>Hyperthyroidism (diagnosed 6 months ago)<newline count="2"/><emphasis effect="bold">Current Medications</emphasis><newline count="2"/>Methimazole, 15 mg orally daily</para>
-  <table class="vertically-tight" id="table-00005">
+  <table class="vertically-tight full-width" id="table-00005">
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
