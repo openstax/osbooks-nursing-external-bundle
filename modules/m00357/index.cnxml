@@ -108,7 +108,10 @@
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <tbody>
     <row>
-    <entry valign="top" align="left" morerows="8"><emphasis effect="bold">Local Partners</emphasis><newline/>
+    <entry valign="top" align="center" namest="1" nameend="3"><emphasis effect="bold">Local Partners</emphasis></entry>
+    </row>
+    <row>
+    <entry valign="top" align="left" morerows="8">
     <list list-type="bulleted" id="list-00006">
     <item>Immediate response to local disasters</item>
     <item>Establish preparedness plans</item>
