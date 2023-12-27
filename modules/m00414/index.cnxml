@@ -159,8 +159,8 @@
   <para id="para-00026">Intravenous insulin can be administered via a bolus dose method and/or as a <term id="term-00015">titrated</term> insulin drip requiring an infusion device. A bolus dose of insulin is administered via the intravenous line when rapid reduction of blood glucose levels is needed, such as with a severe hyperglycemic state like diabetic ketoacidosis (Dhatariya et al., 2020). </para>
   <para id="para-00027">A titrated intravenous insulin drip, also called an insulin infusion, may be required to assist with reducing severely elevated blood glucose levels when a bolus dose of intravenous insulin alone does not assist in reaching the targeted blood glucose level for the client. Titrated insulin drips provide 1 unit of a rapid-acting or short-acting insulin per milliliter of 0.9% sodium chloride. The titrated insulin drips are typically started at 1 unit/hour and titrated based on the facility’s protocol in association with the client’s blood glucose level. For example, if the client’s blood glucose level is 111–140 mg/dL, the titrated insulin drip is set to infuse at 1 unit/hour; if the client’s blood glucose level is 141–175 mg/dL, the titrated insulin drip is set to infuse at 2 units/hour. Blood glucose levels are checked hourly, and the insulin infusion is titrated based on the blood glucose levels until the client reaches glucose homeostasis. Once the client has reached glucose homeostasis, subcutaneous insulin is administered, and the client is weaned off of the titrated insulin drip (Dhatariya et al., 2020). </para>
   <note class="clinical-tip" id="note-00004">
-  <para id="para-00028"><emphasis effect="bold">Titrate Insulin Drip to Subcutaneous Insulin</emphasis></para>
-  <para id="para-00029">The nurse or health care provider should check blood glucose levels one hour prior to discontinuing the titrated insulin drip. The first dose of subcutaneous insulin should be administered prior to discontinuing the titrated insulin drip. The titrated insulin drip should be continued for 30–60 minutes after the subcutaneous insulin injection to prevent rebound hyperglycemia (Dhatariya et al., 2020). </para>
+  <title>Titrate Insulin Drip to Subcutaneous Insulin</title>
+  <para id="para-00029">The nurse or health care provider should check blood glucose levels 1 hour prior to discontinuing the titrated insulin drip. The first dose of subcutaneous insulin should be administered prior to discontinuing the titrated insulin drip. The titrated insulin drip should be continued for 30–60 minutes after the subcutaneous insulin injection to prevent rebound hyperglycemia (Dhatariya et al., 2020). </para>
   </note>
   </section>
   </section>
@@ -211,7 +211,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Drug Prototype Table: Insulin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  <caption><emphasis effect="bold">Drug Prototype Table: Insulin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
   </section>
   <section id="sect-00016">
@@ -219,7 +219,7 @@
   <para id="para-00034"><term class="no-emphasis" id="term-00016">Non-insulin injectable drugs</term> provide an alternative to insulin therapy for clients with diabetes. They act on hormones that are secreted along with insulin by the pancreas to control glucose homeostasis. These drugs were first approved for use in the United States in 2005 (Feingold, 2022; Campbell, 2021).</para>
   <section id="sect-00017">
   <title><term class="no-emphasis" id="term-00017">Amylin Analogs</term></title>
-  <para id="para-00035">Amylin is a hormone secreted along with insulin by the pancreas in response to food intake. In 2005, pramlintide (Symlin) was the first FDA-approved amylin analog non-insulin injectable drug. This drug can be used for clients with diabetes who are taking insulin. Pramlintide slows gastric emptying and blocks the release of glucagon from the liver after a meal. This drug is administered before mealtimes. Adverse effects include nausea, loss of appetite, fatigue, headache, and weight loss. It is contraindicated in clients with hypersensitivity to amylin analogs, have hypoglycemia, or gastroparesis (Maikawa et al., 2020; Campbell, 2021). </para>
+  <para id="para-00035">Amylin is a hormone secreted along with insulin by the pancreas in response to food intake. In 2005, pramlintide (Symlin) was the first FDA-approved amylin analog non-insulin injectable drug. This drug can be used for clients with diabetes who are taking insulin. Pramlintide slows gastric emptying and blocks the release of glucagon from the liver after a meal. This drug is administered before mealtimes. Adverse effects include nausea, loss of appetite, fatigue, headache, and weight loss. It is contraindicated in clients with hypersensitivity to amylin analogs or who have hypoglycemia or gastroparesis (Maikawa et al., 2020; Campbell, 2021). </para>
   </section>
   <section id="sect-00018">
   <title><term class="no-emphasis" id="term-00018">Glucagon-Like Peptide (GLP-1) Receptor Agonists</term></title>
