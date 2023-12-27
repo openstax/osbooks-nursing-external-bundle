@@ -46,11 +46,11 @@
   </section>
   <section id="sect-00007">
   <title>Intermediate-Acting Insulin</title>
-  <para id="para-00010"><term class="no-emphasis" id="term-00043">Intermediate-acting insulin</term> begins to work 2–4 hours after injection. It peaks in 4–12 hours, and its duration is 12–18 hours. Insulin isophane NPH (Humulin N and Novolin N) is a type of intermediate-acting insulin (DailyMed, <emphasis effect="italics">Humulin N</emphasis>, 2022; DailyMed, <emphasis effect="italics">Novolin N</emphasis>, 2022).</para>
+  <para id="para-00010"><term class="no-emphasis" id="term-00043">Intermediate-acting insulin</term> begins to work 2–4 hours after injection. It peaks in 4–12 hours, and its duration is 12–18 hours. Insulin isophane NPH (Humulin N and Novolin N) is a type of intermediate-acting insulin (DailyMed, <emphasis effect="italics">Humulin N</emphasis>, 2023; DailyMed, <emphasis effect="italics">Novolin N</emphasis>, 2022).</para>
   </section>
   <section id="sect-00008">
   <title>Long-Acting Insulin</title>
-  <para id="para-00011">Long-acting insulin begins to work 1–2 hours after injection. It has no peak time and acts to lower blood glucose levels up to 24 hours. Insulin degludec (Tresiba), insulin detemir (Levemir), and insulin glargine (Lantus) are long-acting insulins (DailyMed, <emphasis effect="italics">Tresiba</emphasis>, 2022; DailyMed, <emphasis effect="italics">Lantus</emphasis>, 2022). </para>
+  <para id="para-00011"><term class="no-emphasis" id="term-00005">Long-acting insulin</term> begins to work 1–2 hours after injection. It has no peak time and acts to lower blood glucose levels up to 24 hours. Insulin degludec (Tresiba), insulin detemir (Levemir), and insulin glargine (Lantus) are long-acting insulins (DailyMed, <emphasis effect="italics">Tresiba</emphasis>, 2022; DailyMed, <emphasis effect="italics">Lantus</emphasis>, 2022). </para>
   </section>
   <section id="sect-00009">
   <title>Premixed Insulin</title>
@@ -89,23 +89,23 @@
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00004"><emphasis effect="bold"><emphasis effect="italics">Short-acting insulin</emphasis></emphasis></term><newline/>
   <term class="no-emphasis" id="term-00033">Human regular insulin</term><newline/>
-  (<term class="no-emphasis" id="term-00034">Humulin R, Novolin R</term>)</entry>
+  (<term class="no-emphasis" id="term-00034">Humulin R</term>, <term class="no-emphasis" id="term-00006">Novolin R</term>)</entry>
   <entry valign="top" align="center">30 minutes–1 hour</entry>
   <entry valign="top" align="center">2–3 hours</entry>
   <entry valign="top" align="center">3–6 hours</entry>
   <entry valign="top" align="left">Take 30–60 minutes before a meal. May be used with a longer-acting insulin.</entry>
   </row>
   <row>
-  <entry valign="top" align="left"><term class="no-emphasis" id="term-00005"><emphasis effect="bold"><emphasis effect="italics">Intermediate-acting insulin</emphasis></emphasis></term><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><emphasis effect="italics">Intermediate-acting insulin</emphasis></emphasis><newline/>
   <term class="no-emphasis" id="term-00035">Insulin isophane NPH</term><newline/>
-  (<term class="no-emphasis" id="term-00036">Humulin N, Novolin N</term>)</entry>
+  (<term class="no-emphasis" id="term-00036">Humulin N</term>, <term class="no-emphasis" id="term-00044">Novolin N</term>)</entry>
   <entry valign="top" align="center">2–4 hours</entry>
   <entry valign="top" align="center">4–12 hours</entry>
   <entry valign="top" align="center">12–18 hours</entry>
   <entry valign="top" align="left">Covers insulin needs for 12 hours or longer, or overnight. Often used with a rapid- or short-acting insulin.</entry>
   </row>
   <row>
-  <entry valign="top" align="left"><term class="no-emphasis" id="term-00006"><emphasis effect="bold"><emphasis effect="italics">Long-acting insulin</emphasis></emphasis></term><newline/>
+  <entry valign="top" align="left"><emphasis effect="bold"><emphasis effect="italics">Long-acting insulin</emphasis></emphasis><newline/>
   <term class="no-emphasis" id="term-00037">Insulin degludec</term><newline/>
   (<term class="no-emphasis" id="term-00038">Tresiba</term>)<newline/>
   <term class="no-emphasis" id="term-00039">Insulin detemir</term><newline/>
@@ -125,7 +125,7 @@
   </section>
   <section id="sect-00010">
   <title>Administration of Insulin</title>
-  <para id="para-00014">Insulin typically comes as an injectable source because it needs to bypass the first pass of digestion for absorbtion, but to its instability in the presence of gastric acid. Insulin is injected into the <term id="term-00007">subcutaneous</term> tissue via an insulin syringe, insulin pen, or insulin pump. Injection sites for insulin are located primarily on the abdomen, back of the upper arm, lower back, buttocks, and upper outer thigh (see <link target-id="fig-00001" document="m00414"/> The rate of absorption depends on the injection site. Insulin injection sites should be rotated to prevent fatty deposits and site irritation (American Diabetes Association, n.d.-d.).</para>
+  <para id="para-00014">Insulin typically comes as an injectable source because it needs to bypass the first pass of digestion for absorbtion due to its instability in the presence of gastric acid. Insulin is injected into the <term id="term-00007">subcutaneous</term> tissue via an insulin syringe, insulin pen, or insulin pump. Injection sites for insulin are located primarily on the abdomen, back of the upper arm, lower back, buttocks, and upper outer thigh (see <link target-id="fig-00001" document="m00414"/>). The rate of absorption depends on the injection site. Insulin injection sites should be rotated to prevent fatty deposits and site irritation (American Diabetes Association, n.d.-d.).</para>
   <figure class="scaled-down" id="fig-00001">
   <media alt="The common injection sites for insulin on the human body are the upper arms, abdomen, thighs, and buttocks (highlighted in the color orange in the diagram)."><image mime-type="image/png" src="../../media/PHA_Figure_28_02_004.png"/></media>
   <caption>The most common insulin injection sites are upper outer arms, abdomen, upper outer thighs, and the buttocks. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
