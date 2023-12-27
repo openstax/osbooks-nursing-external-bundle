@@ -6,7 +6,7 @@
     <md:uuid>018cb403-1625-414c-b114-5e8ecdb0da57</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
     <para id="para-00001">By the end of this section, you should be able to:</para>
     <list list-type="bulleted" id="list-00001">
@@ -24,8 +24,7 @@
     <item>Mass riots</item>
     <item>Hijacking of aircraft, trains, busses, or other transportation services</item>
     </list>
-    <section id="sect-00002">
-    <section id="sect-00003">
+   <section id="sect-00003">
     <title>Mass Shootings in the U.S.</title>
     <para id="para-00003">Statistically, mass violence is uncommon, with mass shootings comprising most incidents. There is no standard definition of mass shooting, but there is a common definition for <term id="term-00003">active shooter</term>. An active shooter is an individual (or individuals) who is killing or attempting to kill people with a firearm within an area (USA Facts, 2023). Criteria to report mass shootings differ by the number of victims, whether injuries are included, the location of the shooting, whether it occurred with another crime, and the relationship between the shooter and the victims (Smart &amp; Shell, 2021). More common definitions include an incident where four or more people have been murdered by a firearm or an event where at least four victims were injured or killed by a firearm. Mass shootings are attributed to less than one percent of all firearm deaths annually in the U.S., but they have incited feelings of public fear and panic beyond the direct victims and their families (Soni &amp; Tekin, 2022). The U.S. has seen an increase in the rate of mass shootings and the number of people killed over the last four decades, resulting in over 1,000 deaths and 1,500 injuries (NCMDI, 2019; Soni &amp; Tekin, 2022). While federal funds to study gun violence were largely unavailable for about 20 years, in 2019 the U.S. Congress approved funding for the CDC and National Institutes of Health to conduct gun violence research. This new availability of federal funds opened the door to new research on gun violence, suicide, and injury prevention (Weir, 2021). <link target-id="table-00001" document="m00356"/> provides 2016–2022 statistics, highlighting the recent increase in mass shootings. <link target-id="table-00002" document="m00356"/> compares the outcomes of the deadliest mass shooting incidents in the U.S.</para>
     <table class="vertically-tight full-width" id="table-00001">
@@ -393,8 +392,7 @@
     <image mime-type="image/png" src="../../media/PH_Figure_32_03_005.png"/></media>
     <caption>During an MCI, responders divide care into hot, warm, and cold zones if there is a chemical, biological, radiological, or nuclear contamination risk. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    </section>
-    </section>
+     </section>
     </section>
     <section class="section-summary" id="sect-00009">
     <title>Chapter Summary</title>

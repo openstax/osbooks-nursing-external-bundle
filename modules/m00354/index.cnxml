@@ -6,7 +6,7 @@
     <md:uuid>ca441fe6-3a72-42a5-93b3-9db03b391780</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
     <para id="para-00001">By the end of this section, you should be able to:</para>
     <list list-type="bulleted" id="list-00001">
@@ -18,7 +18,6 @@
     <para id="para-00002">The word “disaster” can elicit feelings of anxiety, dread, and fear. A <term id="term-00001">disaster</term> is any occurrence that causes destruction, human injury, or loss that overwhelms the community’s available resources. The number and impact of disasters rise each year. In 2022, 387 disaster events occurred worldwide. These events affected 185 million people, caused 30,704 deaths, and resulted in $223.8 billion U.S. dollars in economic damage (Centre for Research on the Epidemiology of Disasters [CRED], 2023). As disasters become more common globally, people are more sensitive than ever to discussions of disasters. Advanced communication methods can instantaneously disseminate news to <term class="no-emphasis" id="term-00002">social media</term> outlets, inundating individuals with a constant flow of information and graphic details of the aftermath of disasters. Seemingly “small” incidents may quickly develop into a disaster if resources such as supplies, equipment, personnel, or any other reserves necessary to provide care and recovery during a serious event are unavailable or are depleted quickly. For example, if only one emergency responder arrives without supplies or equipment on the scene of a single car accident with four victims, this could be viewed as a disaster until appropriate resources are dispatched and arrive to assist.</para>
     <para id="para-00003">Public health or community health nurses play a key role in reducing a disaster’s impact. They help assess a community’s disaster risk, coordinate and participate in preparedness activities, and aid in disaster response/recovery efforts to maximize available resources and minimize loss. A solid disaster prevention, preparedness, response, and recovery plan is key to the community’s ability to emerge stronger and healthier if a disaster occurs.</para>
     <para id="para-00004">Disasters are categorized into two main types: natural and human made. Each type has the potential for human, material, economic, or environmental losses with short- or long-term effects on the community.</para>
-    <section id="sect-00002">
     <section id="sect-00003">
     <title>Natural Disasters</title>
     <para id="para-00005"><term id="term-00003">Natural disasters</term> are those that arise from forces of nature, such as weather events (hurricanes, tornadoes, snowstorms, heatwaves, lightning, thunderstorms, and droughts), geological events (mudslides, floods, landslides, and avalanches), underground events (tsunamis, earthquakes, and volcanic eruptions), or epidemiological events (communicable disease outbreaks or swarms). Some natural disasters occur gradually or can be predicted, allowing communities to prepare for the event. However, many natural disasters occur suddenly and are unpredictable, causing significant public health risks to communities (<link target-id="fig-00001" document="m00354"/>). Destruction and devastation from natural disasters have risen astronomically throughout the world over the past 40 to 50 years (U.N., 2021; White House.gov, 2022). Floods, droughts, severe storms, hurricanes, and heatwaves have caused 80 to 90 percent of all documented natural disasters since 2013 (World Health Organization [WHO], 2023). The WHO (2023) has attributed the number of weather-related natural disasters in recent years to increased weather extremes resulting from climate change. See <link document="m00171">Environmental Health</link> for more information on the effects of <term class="no-emphasis" id="term-00004">climate change</term>.</para>
@@ -251,8 +250,7 @@
     <item>View the Prepared County Map – CDC/ATSDR SVI Themes. Which theme appears to affect your community most? Where are the most vulnerable, according to each theme, located? Other sources include existing hazard assessments and plans, historical data, homeland security data, private-sector assessments, and forecasting tools to determine future weather patterns, demographic shifts, or emerging threats (FEMA/Homeland Security, 2018).</item>
     </list>
     </note>
-    </section>
-    </section>
+     </section>
     <section class="section-summary" id="sect-00009">
     <title>Chapter Summary</title>
     <para id="para-00044">All communities experience the risk for disasters. Disasters are classified as natural or human made. Natural disasters occur as a result of weather or a natural event. Human-made disasters occur as a result of human action. The health and safety of communities are directly impacted by disasters. Nurses contribute to the assessment of community disaster risk.</para>

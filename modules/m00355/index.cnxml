@@ -6,7 +6,7 @@
     <md:uuid>31f5452c-b364-4ea0-9c79-fc2f26b2a485</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
     <para id="para-00001">By the end of this section, you should be able to:</para>
     <list list-type="bulleted" id="list-00001">
@@ -20,8 +20,7 @@
     </section>
     <para id="para-00002">Terrorist attacks use force or violence against civilians, cause mass property damage, and create fear and panic among the public. <term class="no-emphasis" id="term-00001">Chemical, biological, radiological, and nuclear (CBRN) agents</term> have been used as weapons against humans, causing devastating health consequences (Bland, 2014). Chemical agents include nerve agents, vesicant agents, cyanides, pulmonary agents, incapacitants, toxic industrial chemicals, pharmaceuticals, and riot-controll agents. Biological agents include live pathogens, such as bacteria, fungi, and viruses, and toxins derived from bacteria, fungi, plants, and animals. Radiological agents have ionizing radiation present, such as alpha, beta, gamma, and neutron participles. Nuclear agents are materials used to generate nuclear power.</para>
     <para id="para-00003"><term id="term-00002">Biological terrorism</term> or <term class="no-emphasis" id="term-00003">bioterrorism</term> is the intentional release of biological agents into the atmosphere or environment to threaten a civilian population. Humans and animals absorb the biological agent through inhalation, ingestion, skin, mucous membranes, or eyes (Bland, 2014). Bioterrorism can cause disease or death among a large number of people or livestock and contaminate food or water supplies. Inhalation of biological agents poses the greatest risk for multiple causalities because the agent is transferred through the air and can reach larger numbers of the population (Bland, 2014).</para>
-    <section id="sect-00002">
-    <section id="sect-00003">
+  <section id="sect-00003">
     <title>Categorization of Bioterrorism Agents</title>
     <para id="para-00004">As discussed in <link document="m00167">Pandemics and Infectious Disease Outbreaks</link>, biological agents that would likely be used as agents of bioterrorism include bacteria, viruses, and toxins. The CDC categorizes these agents by risk threat (see <link target-id="table-00001" document="m00355"/> for examples). Most biological agents are difficult to grow and maintain, as many are destroyed quickly when exposed to sunlight and other environmental factors (CDC, 2018; Siegel et al., 2023). Other agents, such as anthrax spores, are heartier and live much longer, especially on surfaces. Biological agents can be dispersed by spraying them into the air, infecting animals that carry the disease to humans, and contaminating food and water (Bland, 2014). Delivery methods include:</para>
     <list list-type="bulleted" id="list-00002">
@@ -401,8 +400,7 @@
     </tgroup>
     <caption>Nurses’ Role in Primary, Secondary, and Tertiary Prevention for Bioterrorism Preparedness and Response</caption>
     </table>
-    </section>
-    </section>
+   </section>
     <section class="section-summary" id="sect-00006">
     <title>Chapter Summary</title>
     <para id="para-00018">Biological terrorism is the intentional release of biological agents to threaten populations and can lead to disaster and mass casualties. Biological agents are categorized by threat risk, with Category A as the highest priority agents that have the greatest threat of transmission and mortality. Nurses must be prepared to identify and respond to individual and community biological agent exposure.</para>

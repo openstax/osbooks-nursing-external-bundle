@@ -6,7 +6,7 @@
     <md:uuid>045ed1b1-ad76-4946-8e3d-95022e1f5808</md:uuid>
   </metadata>
   <content>
-    <section id="sect-00001">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
     <para id="para-00001">By the end of this section, you should be able to:</para>
     <list list-type="bulleted" id="list-00001">
@@ -123,8 +123,7 @@
     </tgroup>
     <caption>Disaster competencies for the general professional nurse (See International Council of Nurses, 2019.)</caption>
     </table>
-    <section id="sect-00002">
-    <section id="sect-00003">
+   <section id="sect-00003">
     <title>Stages of Disaster Response and Recovery</title>
     <para id="para-00004">When communities face a disaster, the success of the response and recovery depends on a common, interoperable approach to sharing resources, coordinating and managing incidents, and communicating information (Homeland Security, 2019). The <link url="https://openstax.org/r/femagovsites">National Response Framework (NRF)</link> provides foundational emergency management guidelines for response (Homeland Security, 2019). The <link url="https://openstax.org/r/femagovsitesdefa">National Incident Management System (NIMS)</link> was developed by the Department of Homeland Security in 2004 within the NRF to establish a standardized set of processes and procedures that guides emergency responders at all levels of government organizations, nongovernmental organizations, and the private sector to conduct response operations (FEMA, 2017). The NRF and NIMS identify key roles and responsibilities at each stage of disaster response. The NRF can be partially or fully implemented when there is a threat or hazard, a significant event is anticipated, or in response to an incident (Homeland Security, 2019).</para>
     <para id="para-00005">Disaster response and recovery occurs in stages that occur sequentially as the incident develops. These stages are grouped by activities with a common purpose so that emergency response is well organized and sequenced through specific intervals of an incident (HHS, 2012).</para>
@@ -307,7 +306,7 @@
     <para id="para-00036">American Nurses Association. (2016). <emphasis effect="italics">Disaster preparedness</emphasis>. https://www.nursingworld.org/practice-policy/work-environment/health-safety/disaster-preparedness/</para>
     <para id="para-00037">American Red Cross. (2020). New research: Older adults more vulnerable after disasters. https://www.redcross.org/about-us/news-and-events/news/2020/new-research-older-adults-more-vulnerable-after-disasters.html</para>
     <para id="para-00038">Asia-Pacific Climate Change Adaptation Information Platform. (2022). Six steps of disaster risk assessment. https://ap-plat.nies.go.jp/adaptation_literacy/resources/e_learning/drr/drr_lesson2.html</para>
-    <para id="para-00039">Association of Public Health Nurses Public Health Preparedness Committee (APHN, 2014). <emphasis effect="italics">Role of the public health nurse in disaster preparedness, response, and recovery: A position paper</emphasis> (2<sup>nd</sup> ed.). Association of Public Health Nurses. https://www.phnurse.org/assets/docs/Role%20of%20PHN%20in%20Disaster%20PRR_APHN%202014%20Ref%20updated%202015.pdf</para>
+    <para id="para-00039">Association of Public Health Nurses Public Health Preparedness Committee (APHN, 2014). <emphasis effect="italics">Role of the public health nurse in disaster preparedness, response, and recovery: A position paper</emphasis> (2<sup>nd</sup> ed.). Association of Public Health Nurses. https://www.phnurse.org/assets/docs/Role</para>
     <para id="para-00040">Bland, S.A. (2014). Chemical, Biological, Radiological and Nuclear (CBRN) Casualty Management Principles. In: Ryan, J., <emphasis effect="italics">et al.</emphasis> Conflict and Catastrophe Medicine. Springer, London. https://doi.org/10.1007/978-1-4471 2927-1_46</para>
     <para id="para-00041">Brenan, M. (2019). <emphasis effect="italics">Nearly half in U.S. fear being the victim of a mass shooting</emphasis>. Gallup. https://news.gallup.com/poll/266681/nearly-half-fear-victim-mass-shooting.aspx</para>
     <para id="para-00042">Brodeur, A. &amp; Yousaf, H. (2022). On the economic consequences of mass shootings. <emphasis effect="italics">GLO Discussion Paper Series, 1133</emphasis>. Global Labor Organization.</para>
@@ -321,11 +320,11 @@
     <para id="para-00050">deAnda, H. H., Freeman, C. L., &amp; Braithwaite, S. (2022). EMS criteria for disaster declaration. In <emphasis effect="italics">StatPearls</emphasis> [ebook]. StatPearls Publishing. https://pubmed-ncbi-nlm-nih-gov.elib.uah.edu/30969625/</para>
     <para id="para-00051">Deb, P. &amp; Gangaram, A. (2023, March). <emphasis effect="italics">Effects of school shootings on risky behavior, health and human capital</emphasis>. National Bureau of Economic Research. https://www.nber.org/papers/w28634</para>
     <para id="para-00052">Dembeck, Z. F., et al. (Eds.) (2011). <emphasis effect="italics">USAMRIIDs medical management of biological casualties handbook</emphasis> (7<sup>th</sup> ed.). USAMRIID. https://dph.illinois.gov/content/dam/soi/en/web/idph/files/publications/usamriid-bluebook-7th-edition-sep2011-041816.pdf</para>
-    <para id="para-00053">Donner, W. &amp; Rodriquez, H. (2011). Disaster risk and vulnerability: The role and impact of population and society. PRB. https://www.prb.org/resources/disasterrisk/#:~:text=Congestion%2C%20limited%20escape%20routes%2C%20dense,poverty%20add%20to%20the%20vulnerability.</para>
+    <para id="para-00053">Donner, W. &amp; Rodriquez, H. (2011). Disaster risk and vulnerability: The role and impact of population and society. PRB. https://www.prb.org/resources/disasterrisk/#</para>
     <para id="para-00054">Emergency Planning: Tornadoes and hurricanes. (2017). <emphasis effect="italics">Briefings on Hospital Safety</emphasis>, 25(4), 4–10.</para>
     <para id="para-00055">Environmental Protection Agency. (2022). <emphasis effect="italics">Deepwater Horizon – BP Gulf of Mexico oil spill</emphasis>. https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-mexico-oil-spill</para>
     <para id="para-00056">Everytown. (2023). Mass shootings in the United States. https://everytownresearch.org/mass-shootings-in-america/</para>
-    <para id="para-00057">Federal Bureau of Investigation. (n.d.). <emphasis effect="italics">Amerithrax or anthrax investigation</emphasis>. https://www.fbi.gov/history/famous-cases/amerithrax-or-anthrax-investigation#:~:text=Soon%20after%20the%20terrorist%20attacks,biological%20attacks%20in%20U.S.%20history.</para>
+    <para id="para-00057">Federal Bureau of Investigation. (n.d.). <emphasis effect="italics">Amerithrax or anthrax investigation</emphasis>. https://www.fbi.gov/history/famous-cases/amerithrax-or-anthrax-investigation#</para>
     <para id="para-00058">Federal Emergency Management Agency. (FEMA, 2017). National Incident Management System (3<sup>rd</sup> ed.). https://www.fema.gov/sites/default/files/2020-07/fema_nims_doctrine-2017.pdf</para>
     <para id="para-00059">Federal Emergency Management Agency. (FEMA, 2018). ICS organizational structure and elements. https://training.fema.gov/emiweb/is/icsresource/assets/ics%20organizational%20structure%20and%20elements.pdf</para>
     <para id="para-00060">Federal Emergency Management Agency. (FEMA, 2021). <emphasis effect="italics">Developing and maintaining emergency operations plans: Comprehensive preparedness guide (CPG)101. Version 3.0</emphasis>. https://www.fema.gov/sites/default/files/documents/fema_cpg-101-v3-developing-maintaining-eops.pdf</para>
@@ -348,7 +347,7 @@
     <para id="para-00077">Lincoln, E.W., Freeman, C.L. &amp; Strecker-McGraw, M.K. (2023). EMS Incident Command. <emphasis effect="italics">StatPearls.</emphasis> National Library of Medicine. https://www.ncbi.nlm.nih.gov/books/NBK534800/</para>
     <para id="para-00078">Martin, C. (2019). Digital Dialogue No. 4: Improving the disaster recovery of low income household. Digital Dialogues. University of Pennsylvania. https://esg.wharton.upenn.edu/engagement/digital-dialogues/improving-disaster-recovery/</para>
     <para id="para-00079">National Council Medical Director Institute. (NCMDI, 2019). <emphasis effect="italics">Mass violence in America: Causes, impacts, and solutions</emphasis>. National Council for Mental Wellbeing. https://www.thenationalcouncil.org/resources/mass-violence-in-america-causes-impacts-and-solutions/</para>
-    <para id="para-00080">National Oceanic and Atmospheric Administration (NOAA). (2017). <emphasis effect="italics">Deepwater horizon oil spill long-term effects on marine mammals, sea turtles</emphasis>. National Ocean Service. https://oceanservice.noaa.gov/news/apr17/dwh-protected-species.html#:~:text=Marine%20mammal%20researchers%20concluded%20that,in%20the%20Gulf%20of%20Mexico.</para>
+    <para id="para-00080">National Oceanic and Atmospheric Administration (NOAA). (2017). <emphasis effect="italics">Deepwater horizon oil spill long-term effects on marine mammals, sea turtles</emphasis>. National Ocean Service. https://oceanservice.noaa.gov/news/apr17/dwh-protected-species.html#</para>
     <para id="para-00082">National Oceanic and Atmospheric Administration (NOAA). (n.d.-a). <emphasis effect="italics">Severe weather 101: Tornado basics</emphasis>. NOAA National Severe Storms Laboratory. https://www.nssl.noaa.gov/education/svrwx101/tornadoes/</para>
     <para id="para-00083">National Oceanic and Atmospheric Administration (NOAA) (n.d.-b). <emphasis effect="italics">Storm Surge Overview</emphasis>. National Hurricane Center and Central Pacific Hurricane Center. https://www.nhc.noaa.gov/surge/#:~:text=Storm%20surge%20is%20an%20abnormal,surge%20and%20the%20astronomical%20tide.</para>
     <para id="para-00084">National Oceanic and Atmospheric Administration (NOAA). (n.d.-c). <emphasis effect="italics">Tornadoes- Nature’s Most Violent Storms</emphasis>. NOAA National Severe Storms Laboratory. https://www.weather.gov/ffc/torntext</para>
@@ -380,8 +379,7 @@
     <para id="para-00112">World Meteorological Organization (WMO). (2021, August 31). <emphasis effect="italics">Weather-related disasters increase over past 50 years, causing more damage but fewer deaths</emphasis>. https://public.wmo.int/en/media/press-release/weather-related- disasters-increase-over-past-50-years-causing-more-damage-fewer</para>
     <para id="para-00114">World Nuclear Association. (2022, April). <emphasis effect="italics">Chernobyl Accident 1986</emphasis>. https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx</para>
     <para id="para-00115">Zauche, L. H., Pomeroy, M., Demeke, H. B., Mettee Zarecki, S. L., Williams, J. L., Newsome, K., Hill, L., &amp; Dooyema, C. A. (2022). Answering the call: The response of Centers for Disease Control and Prevention's federal public health nursing workforce to the COVID-19 pandemic. <emphasis effect="italics">American Journal of Public Health,</emphasis> 112(S3), S226–S230. https://doi.org/10.2105/AJPH.2021.306703</para>
-    </section>
-    </section>
+   </section>
     </content>
     <glossary>
     <definition id="def-00001"><term>triage tag</term> <meaning>standardized method used to sort victims quickly, indicate the level of treatment needed using tag colors that are universally recognized and correspond to a predetermined set of physical assessment findings</meaning></definition>
