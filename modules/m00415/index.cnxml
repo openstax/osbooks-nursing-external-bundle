@@ -317,7 +317,7 @@
   <emphasis effect="italics">Maximum dose:</emphasis> 2000 mg daily.<newline/>
   <emphasis effect="italics">Children (the only oral diabetes drug that is safe for use in children 10–17 years of age):</emphasis> 500 mg orally twice daily. <newline/><emphasis effect="italics">Maximum dose:</emphasis> 2,000 mg daily in divided doses.<newline count="2"/>
   <emphasis effect="bold">Extended Release</emphasis><newline/>
-  <emphasis effect="italics">Adults:</emphasis> 250–500 mg once daily with evening meal; increase dose by 500 mg/week on the basis of glycemic control and tolerability; maximum dose: 2000 mg/day.<newline/>
+  <emphasis effect="italics">Adults:</emphasis> 250–500 mg once daily with evening meal; increase dose by 500 mg/week on the basis of glycemic control and tolerability. <newline/><emphasis effect="italics">Maximum dose:</emphasis> 2000 mg/day.<newline/>
   <emphasis effect="italics">Children: </emphasis>Health care provider should determine dose based on body surface area and glucose target range.<newline count="2"/>
   <emphasis effect="bold">Oral Solution</emphasis><newline/>
   <emphasis effect="italics">Adults and children: </emphasis>500 mg/5 mL daily up to a maximum dose of 2000 mg/day.</entry>
@@ -360,7 +360,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Drug Prototype Table: Metformin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  <caption><emphasis effect="bold">Drug Prototype Table: Metformin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
   </section>
   <section id="sect-00028">
@@ -375,7 +375,7 @@
   <title>The client taking an oral diabetes drug should:</title>
   <list list-type="bulleted" id="list-00005">
   <item>Report symptoms of hypoglycemia such as headache, nervousness, sweating, clammy skin, tremor, and tachycardia.</item>
-  <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, and sweet fruity breath odor, and ketones in urine.</item>
+  <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, sweet, fruity breath odor, and ketones in urine.</item>
   <item>Keep 15 grams of carbohydrates on hand in case of a hypoglycemic reaction. Orange juice, graham crackers, and hard candy are appropriate carbohydrate choices during hypoglycemia.</item>
   <item>Show family members and their support system how to administer glucagon during a hypoglycemic reaction if the client cannot eat or drink or is unconscious.</item>
   <item>Keep a blood glucose journal for tracking blood glucose levels.</item>
@@ -406,15 +406,15 @@
   </section>
   <section class="references" id="sect-00031">
   <para id="para-00063">Akmal, M., &amp; Wadhwa, R. (2022). <emphasis effect="italics">Alpha glucosidase inhibitors</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557848/</para>
-  <para id="para-00064">Alvarez, S., Coffey, R., &amp; Algotar, A.M. (2023). <emphasis effect="italics">Prediabetes</emphasis>. StatPearls https://www.ncbi.nlm.nih.gov/books/NBK459332/ </para>
+  <para id="para-00064">Alvarez, S., Coffey, R., &amp; Algotar, A.M. (2023). <emphasis effect="italics">Prediabetes</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK459332/ </para>
   <para id="para-00065">American Diabetes Association. (n.d.-a). <emphasis effect="italics">Diagnosis</emphasis>. https://diabetes.org/diabetes/a1c/diagnosis </para>
   <para id="para-00066">American Diabetes Association. (n.d.-b). <emphasis effect="italics">Hyperglycemia (high blood glucose).</emphasis> https://diabetes.org/healthy-living/medication-treatments/blood-glucose-testing-and-control/hyperglycemia</para>
   <para id="para-00067">American Diabetes Association. (n.d.-c). <emphasis effect="italics">Hypoglycemia (low blood glucose)</emphasis>. https://diabetes.org/healthy-living/medication-treatments/blood-glucose-testing-and-control/hypoglycemia</para>
   <para id="para-00068">American Diabetes Association. (n.d.-d). <emphasis effect="italics">Insulin and other injectables</emphasis>. https://diabetes.org/healthy-living/medication-treatments/insulin-other-injectables/insulin-basics</para>
   <para id="para-00069">Campbell, A. (2021). <emphasis effect="italics">Non-insulin injectable diabetes medications.</emphasis> https://www.diabetesselfmanagement.com/blog/non-insulin-injectable-diabetes-medications/</para>
-  <para id="para-00070">Centers for Disease Control and Prevention. (n.d.-a.). <emphasis effect="italics">Prevalence of diagnosed diabetes. </emphasis>https://www.cdc.gov/diabetes/data/statistics-report/diagnosed-diabetes.html</para>
-  <para id="para-00071">Centers for Disease Control and Prevention. (n.d.-b.). <emphasis effect="italics">Type 2 diabetes. </emphasis>https://www.cdc.gov/diabetes/basics/type2.html</para>
-  <para id="para-00072">Centers for Disease Control and Prevention. (n.d.-c) <emphasis effect="italics">The facts, stats, and impacts of diabetes. </emphasis>https://www.cdc.gov/diabetes/library/spotlights/diabetes-facts-stats.html</para>
+  <para id="para-00070">Centers for Disease Control and Prevention. (n.d.-a). <emphasis effect="italics">Prevalence of diagnosed diabetes. </emphasis>https://www.cdc.gov/diabetes/data/statistics-report/diagnosed-diabetes.html</para>
+  <para id="para-00071">Centers for Disease Control and Prevention. (n.d.-b). <emphasis effect="italics">Type 2 diabetes. </emphasis>https://www.cdc.gov/diabetes/basics/type2.html</para>
+  <para id="para-00072">Centers for Disease Control and Prevention. (n.d.-c). <emphasis effect="italics">The facts, stats, and impacts of diabetes. </emphasis>https://www.cdc.gov/diabetes/library/spotlights/diabetes-facts-stats.html</para>
   <para id="para-00073">Centers for Disease Control and Prevention. (2022a). <emphasis effect="italics">CDC clinical reminder: Insulin pens must never be used for more than one person.</emphasis> https://www.cdc.gov/injectionsafety/clinical-reminders/insulin-pens.html</para>
   <para id="para-00074">Centers for Disease Control and Prevention. (2022b). <emphasis effect="italics">Diabetes risk factors</emphasis>. https://www.cdc.gov/diabetes/basics/risk-factors.html</para>
   <para id="para-00075">Chen, X., Feng, L., Yao, H., Yang, L., &amp; Qin, Y. (2021). Efficacy and safety of diazoxide for treating hyperinsulinemic hypoglycemia: A systematic review and meta-analysis. <emphasis effect="italics">PloS One</emphasis>, <emphasis effect="italics">16</emphasis>(2), e0246463. https://doi.org/10.1371/journal.pone.0246463</para>
