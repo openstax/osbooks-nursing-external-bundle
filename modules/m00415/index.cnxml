@@ -300,7 +300,7 @@
   <title>Adverse Effects and Contraindications</title>
   <para id="para-00045">Common adverse effects of oral diabetes drugs include gastrointestinal symptoms (nausea, vomiting, diarrhea, abdominal discomfort), hypoglycemia (symptoms include dizziness, shakiness, sweating/chills, clammy skin, feeling faint, agitation, confusion, blurred or impaired vision), fluid retention, weight gain, and headache.</para>
   <para id="para-00046">Contraindications include hypersensitivity to the drug or any of its components, severe kidney disorders (as most of these drugs are excreted in the urine and can further impair renal function), hepatic insufficiency (as most of these drugs are metabolized by the liver and can result in further impaired hepatic function), and disorders with fluid retention (such as heart failure and renal failure, as these drugs can cause additional fluid retention and volume overload).</para>
-  <para id="para-00047"><link target-id="table-00003" document="m00415"/> is a drug prototype table for oral diabetes drugs featuring Metformin. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00035">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <para id="para-00047"><link target-id="table-00003" document="m00415"/> is a drug prototype table for oral diabetes drugs featuring metformin. It lists drug class, mechanism of action, adult and <term class="no-emphasis" id="term-00035">pediatric dosage</term>, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
   <table class="vertically-tight" id="table-00003">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -309,23 +309,23 @@
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
   Non-sulfonylurea biguanide<newline count="2"/>
-  <emphasis effect="bold">Mechanism of Action</emphasis><newline/>
+  <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
   Decreases intestinal absorption of glucose and improves insulin sensitivity by increasing glucose uptake</entry>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline count="2"/>
-  <emphasis effect="bold">Immediate Release</emphasis><newline/>
+    <span class="blue-text"><emphasis effect="bold">Immediate Release</emphasis></span><newline/>
   <emphasis effect="italics">Adults:</emphasis> 500–1000 mg orally twice daily.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 2000 mg daily.<newline/>
   <emphasis effect="italics">Children (the only oral diabetes drug that is safe for use in children 10–17 years of age):</emphasis> 500 mg orally twice daily. <newline/><emphasis effect="italics">Maximum dose:</emphasis> 2,000 mg daily in divided doses.<newline count="2"/>
-  <emphasis effect="bold">Extended Release</emphasis><newline/>
+  <span class="blue-text"><emphasis effect="bold">Extended Release</emphasis></span><newline/>
   <emphasis effect="italics">Adults:</emphasis> 250–500 mg once daily with evening meal; increase dose by 500 mg/week on the basis of glycemic control and tolerability. <newline/><emphasis effect="italics">Maximum dose:</emphasis> 2000 mg/day.<newline/>
   <emphasis effect="italics">Children: </emphasis>Health care provider should determine dose based on body surface area and glucose target range.<newline count="2"/>
-  <emphasis effect="bold">Oral Solution</emphasis><newline/>
+  <span class="blue-text"><emphasis effect="bold">Oral Solution</emphasis></span><newline/>
   <emphasis effect="italics">Adults and children: </emphasis>500 mg/5 mL daily up to a maximum dose of 2000 mg/day.</entry>
   </row>
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
   To control hyperglycemia in those with type 2 diabetes<newline count="2"/>
-  <emphasis effect="bold">Therapeutic Effects</emphasis><newline/>
+  <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
   Decreases glucose production in the liver by reducing gluconeogenesis<newline/>
   Reduces glucose absorption from the intestines</entry>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
@@ -334,7 +334,7 @@
   Ginseng<newline/>
   Psyllium<newline/>
   Contrast dye<newline count="2"/>
-  <emphasis effect="bold">Food Interactions</emphasis><newline/>
+  <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
   Fiber-rich foods<newline/>
   Grapefruit juice<newline/>
   Guar gum</entry>
@@ -372,7 +372,7 @@
   <item>Provide client teaching regarding how the drug is administered and when to call the health care provider. See below for client teaching guidelines.</item>
   </list>
   <note class="client-teaching" id="note-00006">
-  <title>The client taking an oral diabetes drug should:</title>
+  <para id="para-00014"><emphasis effect="bold">The client taking an oral diabetes drug should:</emphasis></para>
   <list list-type="bulleted" id="list-00005">
   <item>Report symptoms of hypoglycemia such as headache, nervousness, sweating, clammy skin, tremor, and tachycardia.</item>
   <item>Report symptoms of hyperglycemia such as increased thirst, increased urine output, hot/dry skin, sweet, fruity breath odor, and ketones in urine.</item>
