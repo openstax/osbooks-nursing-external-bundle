@@ -79,7 +79,7 @@ Continuous intravenous infusion: 37.5 mg/hour (900 mg/day).</entry>
 </section>
 <section id="sect-00007">
 <title>Adverse Effects and Contraindications</title>
-<para id="para-00009">Typical adverse effects of histamine blockers include diarrhea, headaches, mental confusion, agitation, depression, <term id="term-00010">gynecomastia</term>, <term id="term-00011">neutropenia</term>, <term id="term-00012">agranulocytosis</term>, increases in serum <term id="term-00013">transaminase</term>, <term id="term-00014">arthralgia</term>, rash, and <term id="term-00015">alopecia</term>. In rare cases bradycardia, tachycardia, and AV heart block have been reported. Contraindications include hypersensitivity to the drug or any of its components.</para>
+<para id="para-00009">Typical adverse effects of histamine blockers include diarrhea, headaches, mental confusion, agitation, depression, <term id="term-00010">gynecomastia</term>, <term id="term-00011">neutropenia</term>, <term id="term-00012">agranulocytosis</term>, increases in serum <term id="term-00013">transaminase</term>, <term id="term-00014">arthralgia</term>, rash, and <term id="term-00015">alopecia</term>. In rare cases, bradycardia, tachycardia, and AV heart block have been reported. Contraindications include hypersensitivity to the drug or any of its components.</para>
 <para id="para-00010"><link target-id="table-00002" document="m00426"/> is a drug prototype table for histamine blockers featuring cimetidine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -90,11 +90,11 @@ Continuous intravenous infusion: 37.5 mg/hour (900 mg/day).</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
 H2-receptor antagonists/blockers<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
-Blocks H2 receptors, thereby suppressing gastric acid secretion, and lowers the hydrogen ions concentration in the stomach</entry>
+Blocks H2 receptors, thereby suppressing gastric acid secretion, and lowers the hydrogen ion concentration in the stomach</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-<emphasis effect="italics">For GERD:</emphasis> 400 mg orally 4 times a day or 800 mg orally twice a day for up to 12 weeks.<newline/>
-<emphasis effect="italics">For heartburn/dyspepsia:</emphasis> 200 mg orally 2–4 times a day. <newline count="2"/>
-Reduce daily dosage by 50% if the client’s CrCl is less than 30mL/hour.<newline count="2"/>
+<emphasis effect="italics">For GERD:</emphasis> 400 mg orally 4 times daily or 800 mg orally twice daily for up to 12 weeks.<newline/>
+<emphasis effect="italics">For heartburn/dyspepsia:</emphasis> 200 mg orally 2–4 times daily. <newline count="2"/>
+Reduce daily dosage by 50% if the client’s CrCl is less than 30 mL/hour.<newline count="2"/>
 <emphasis effect="italics">Intermittent intravenous infusion:</emphasis> 300 mg every 6–8 hours infused over 15-20 minutes.<newline/>
 <emphasis effect="italics">Continuous intravenous infusion:</emphasis> 37.5 mg/hour (900 mg/day).</entry>
 </row>
@@ -127,11 +127,11 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Prototype Table: Cimetidine <emphasis effect="bold">(</emphasis>source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Cimetidine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-<note class="unfolding-casestudy" id="note-00002">
+<note class="single-unfolding-casestudy" id="note-00002">
 <para id="para-00011">Read the following clinical scenario to answer the questions that follow.</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -145,7 +145,7 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 <tbody>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
-<entry valign="top" align="left">98.4° Fahrenheit</entry>
+<entry valign="top" align="left">98.4° F</entry>
 <entry valign="top" align="left" morerows="6">
 <list list-type="bulleted" id="list-00002">
 <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
@@ -160,15 +160,15 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
-<entry valign="top" align="left">118/66 mmHg</entry>
+<entry valign="top" align="left">118/66 mm Hg</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
-<entry valign="top" align="left">88 beats per minute</entry>
+<entry valign="top" align="left">88 beats/min</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Respiratory rate:</emphasis></entry>
-<entry valign="top" align="left">16 breaths per minute</entry>
+<entry valign="top" align="left">16 breaths/min</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
@@ -180,7 +180,7 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
-<entry valign="top" align="left">145 pounds</entry>
+<entry valign="top" align="left">145 lb</entry>
 </row>
 </tbody>
 </tgroup>
@@ -211,7 +211,7 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 </section>
 <section id="sect-00012">
 <title>Lansoprazole</title>
-<para id="para-00021">Lansoprazole is a PPI that suppresses gastric acid formation, making it effective for short-term use to treat duodenal ulcers, erosive esophagitis, and GERD, and as maintenance treatment for hypersecretory disorders. Lansoprazole is rapidly absorbed from the GI tract after leaving the stomach. The onset to reduce acid is approximately 2 hours. Ulcer symptom relief is generally acquired within the first week of its use. Lansoprazole is available as a sustained-release capsule and oral disintegrating tablets. See drug emphasis <link target-id="table-00004" document="m00426"/> for dosing.</para>
+<para id="para-00021">Lansoprazole is a PPI that suppresses gastric acid formation, making it effective for short-term use to treat duodenal ulcers, erosive esophagitis, and GERD and as maintenance treatment for hypersecretory disorders. Lansoprazole is rapidly absorbed from the GI tract after leaving the stomach. The onset to reduce acid is approximately 2 hours. Ulcer symptom relief is generally acquired within the first week of its use. Lansoprazole is available as a sustained-release capsule and oral disintegrating tablets. See drug emphasis <link target-id="table-00004" document="m00426"/> for dosing.</para>
 <para id="para-00022"><link target-id="table-00004" document="m00426"/> lists common PPIs and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00004">
 <tgroup cols="2">
@@ -227,7 +227,7 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Omeprazole</term><newline/>
 (<term class="no-emphasis" id="term-00019">Prilosec</term>)</entry>
-<entry valign="top" align="left">20–40 mg orally once daily for 4–8 weeks.</entry>
+<entry valign="top" align="left">20 mg (delayed-release or disintegrating tablet) orally once daily for 14 days.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Pantoprazole</term><newline/>
@@ -237,16 +237,16 @@ Rare instances of cardiac arrhythmias and hypotension have been reported followi
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Esomeprazole</term><newline/>
 (<term class="no-emphasis" id="term-00023">Nexium</term>)</entry>
-<entry valign="top" align="left">20–40 mg orally or intravenously once daily for 4–8 weeks.</entry>
+<entry valign="top" align="left">20 mg orally or 20-40 mg intravenously once daily for 4–8 weeks.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Lansoprazole</term><newline/>
 (<term class="no-emphasis" id="term-00025">Prevacid</term>)</entry>
-<entry valign="top" align="left">15–30 mg orally once daily 30 minutes before a meal for 4 weeks, followed by 15 mg daily maintenance.</entry>
+<entry valign="top" align="left">15 mg orally once daily 30 minutes before a meal for 14 days.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Drug Emphasis Table: PPIs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: PPIs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 </section>
