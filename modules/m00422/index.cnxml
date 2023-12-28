@@ -111,7 +111,7 @@
     <section id="sect-00010">
     <title>Adverse Effects and Contraindications </title>
     <para id="para-00019">Typical adverse effects of common antidiarrheals include constipation, nausea and vomiting, dry mouth, dizziness, drowsiness, and changes in bowel habits including the passage of harder or less-frequent stools. Antidiarrheals should be usedcautiously with monoamine oxidase inhibitors (MAOIs) and CNS depressants.</para>
-    <para id="para-00020">Use of diphenoxylate hydrochloride with atropine sulfate in higher doses than prescribed may lead to opioid and or <term id="term-00013">anticholinergic effects</term> such as hyperthermia, flushing, tachycardia, hypotonia, lethargy, hallucinations, and repiratory depression.</para>
+    <para id="para-00020">Use of diphenoxylate hydrochloride with atropine sulfate in higher doses than prescribed may lead to opioid and/or <term id="term-00013">anticholinergic effects</term> such as hyperthermia, flushing, tachycardia, hypotonia, lethargy, hallucinations, and repiratory depression.</para>
     <para id="para-00021">Contraindications for antiemetics include hypersensitivity to the drug or any of its components.</para>
     <para id="para-00022"><link target-id="table-00002" document="m00422"/> is a prototype table for antidiarrheals featuring diphenoxylate with atropine sulfate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00002">
@@ -124,7 +124,7 @@
     <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
     Antidiarrheal<newline count="2"/>
     <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Reduces peristaltic activity and motility by inhibiting mucosal receptors responsible for peristatic reflexes thereby stopping or reducing diarrhea</entry>
+    Reduces peristaltic activity and motility by inhibiting mucosal receptors responsible for peristatic reflexes, thereby stopping or reducing diarrhea</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
     <emphasis effect="italics">Oral (each tablet contains 2.5 mg diphenoxylate hydrochloride and 0.025 mg of atropine sulfate):</emphasis> 2 tablets 4 times daily. Maximum dose: 20 mg of diphenoxylate per day. <newline/>
@@ -138,7 +138,7 @@
     Reduces or stops diarrhea</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    MAO inhibitors<newline/>
+    MAOIs<newline/>
     CNS depressants <newline/>
     Alcohol<newline count="2"/>
     <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
@@ -169,7 +169,7 @@
     May cause atropinism; monitor for hyperthermia, tachycardia, flushing, and dry mucous membranes</entry></row>
     </tbody>
     </tgroup>
-    <caption>Drug Prototype Table: Diphenoxylate with Atropine Sulfate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Prototype Table: Diphenoxylate with Atropine Sulfate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00011">
@@ -178,7 +178,7 @@
     <list id="list-00002">
     <item>Prior to administering, assess the client’s medical history, current drug list, and allergies.</item>
     <item>Educate the client regarding adverse effects, such as constipation, urinary retention, blurred vision, drowsiness, and dizziness.</item>
-    <item>Mointor vital signs and for signs of dehydration such as poor skin turgor, reduced or dark urine, tachycardia, and dry mucous membranes..</item>
+    <item>Mointor vital signs and for signs of dehydration such as poor skin turgor, reduced or dark urine, tachycardia, and dry mucous membranes.</item>
     <item>Monitor urine input and output for urinary retention.</item>
     <item>Initiate fall precautions due to the adverse effects of drowsiness and dizziness.</item>
     <item>Provide oral care and lozenges or saliva substitute for dry mouth.</item>
@@ -187,14 +187,14 @@
     <note class="client-teaching" id="note-00003">
     <para id="para-00024"><emphasis effect="bold">The client taking an antidiarrheal should:</emphasis></para>
     <list list-type="bulleted" id="list-00003">
-    <item>Use sugarless candy, gum, or a saliva substitute for dry mouth, because this is a normal side effect of these drugs.</item>
+    <item>Use sugarless candy, gum, or a saliva substitute for dry mouth because this is a normal side effect of these drugs.</item>
     <item>Report adverse effects such as blurred vision, dry mouth, drowsiness, or constipation to the health care provider.</item>
-    <item>Report signs of abdominal distention, severe abdominal pain, fever, palpitations, or bloody diarrhea to the health care provider immediately, as these may represent serious adverse effects.</item>
+    <item>Report signs of abdominal distention, severe abdominal pain, fever, palpitations, or bloody diarrhea to the health care provider immediately as these may represent serious adverse effects.</item>
     </list>
     <para id="para-00025"><emphasis effect="bold">The client taking an antidiarrheal <emphasis effect="italics">should not:</emphasis></emphasis></para>
     <list list-type="bulleted" id="list-00004">
     <item>Use caffeine products during diarrhea episodes, as caffeine increases GI motility.</item>
-    <item>Drive or operate heavy machinery, because these drugs may cause drowsiness or dizziness.</item>
+    <item>Drive or operate heavy machinery because these drugs may cause drowsiness or dizziness.</item>
     </list>
     </note>
     </section>
