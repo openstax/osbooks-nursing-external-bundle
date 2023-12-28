@@ -59,28 +59,30 @@
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<tbody>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00012">Oxybutynin chloride (Ditropan, Ditropan XL, Oxytrol)</term></entry>
-<entry valign="top" align="left"><emphasis effect="italics">Immediate release:</emphasis> One 5-mg tablet orally 2–3 times a day. Maximum dose: one 5-mg tablet orally 4 times a day. A lower starting dose of 2.5 mg 2–3 times a day is recommended for frail older adults.<newline/>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00012">Oxybutynin chloride</term> (<term class="no-emphasis" id="term-00018">Ditropan</term>, <term class="no-emphasis" id="term-00019">Ditropan XL</term>, <term class="no-emphasis" id="term-00020">Oxytrol</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Immediate release:</emphasis> 1 5 mg tablet orally 2–3 times a day. Maximum dose: 1 5 mg tablet orally 4 times a day. A lower starting dose of 2.5 mg 2–3 times a day is recommended for frail older adults.<newline/>
 <emphasis effect="italics">Extended release:</emphasis> 5–10 mg once daily; adjust dose as needed, depending on response and tolerability, in 5 mg increments every 1–2 weeks (or longer); maximum dose: 30 mg once daily.<newline/>
 <emphasis effect="italics">Transdermal patch:</emphasis> 3.9 mg/day applied to dry skin on the abdomen, hip, or buttock twice weekly (every 3–4 days).</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00013">Flavoxate hydrochloride (Urispas)</term></entry>
-<entry valign="top" align="left">One or two 100 mg tablets orally 3–4 times a day. With improvement of symptoms, the dose may be reduced.</entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00013">Flavoxate hydrochloride</term> (<term class="no-emphasis" id="term-00021">Urispas</term>)</entry>
+<entry valign="top" align="left">1 or 2 100 mg tablets orally 3–4 times a day. With improvement of symptoms, the dose may be reduced.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00014">Mirabegron (Myrbetriq)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00014">Mirabegron</term> (<term class="no-emphasis" id="term-00022">Myrbetriq</term>)</entry>
 <entry valign="top" align="left">Initial dose: 25 mg orally once daily. Depending on individual client efficacy and tolerability, the dose may be increased to 50 mg orally once daily.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00015">Trospium chloride (Trosec)</term></entry>
+<entry valign="top" align="center"><term class="no-emphasis" id="term-00015">Trospium chloride</term> (<term class="no-emphasis" id="term-00023">Trosec</term>)</entry>
 <entry valign="top" align="left">20 mg orally twice daily at least 1 hour before meals or on an empty stomach.<newline/>
 <emphasis effect="italics">Clients with severe renal impairment (creatinine clearance less than 30 mL/min):</emphasis> 20 mg once daily orally at bedtime.<newline/>
 <emphasis effect="italics">Clients 75 years of age and older:</emphasis> Dose may be titrated down to 20 mg orally once daily, based on tolerability.</entry>
@@ -119,7 +121,7 @@ Antispasmodic<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle, thereby relaxing the detrusor muscle of the bladder and inhibiting the urge to void</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-<emphasis effect="italics">Immediate release:</emphasis> One 5 mg tablet orally 2–3 times a day. Maximum dose: one 5 mg tablet orally 4 times a day. A lower starting dose of 2.5 mg 2–3 times a day is recommended for frail older adults.<newline/>
+<emphasis effect="italics">Immediate release:</emphasis> 1 5 mg tablet orally 2–3 times a day. Maximum dose: 1 5 mg tablet orally 4 times a day. A lower starting dose of 2.5 mg 2–3 times a day is recommended for frail older adults.<newline/>
 <emphasis effect="italics">Extended release:</emphasis> 5–10 mg once daily; adjust dose as needed, based on response and tolerability, in 5 mg increments every 1–2 weeks (or longer); maximum dose: 30 mg once daily.<newline/>
 <emphasis effect="italics">Transdermal patch:</emphasis> 3.9 mg/day applied to dry skin on the abdomen, hip, or buttock twice weekly (every 3–4 days).</entry>
 </row>
@@ -167,8 +169,8 @@ Central nervous system anticholinergic effects have been reported, including hal
 <para id="para-00022">The nurse should do the following for clients who are taking urinary antispasmodics, antimuscarinics, or anticholinergics:</para>
 <list list-type="bulleted" id="list-00002">
 <item>Before administering the drug, check the client’s medical history, current drug list, and allergies.</item>
-<item>Educate the client regarding anticholinergic effects, including dry mouth, urinary retention, constipation, and visual disturbances such as blurred vision and sensitivity to light, because these are common adverse effects of these drugs.</item>
-<item>Monitor the client’s urine output for signs of urinary retention, such as the inability to empty the bladder, distended bladder, and anxiousness, because this is a serious adverse effect, and the client may need an intervention such as a urinary straight catheter to empty the bladder.</item>
+<item>Educate the client regarding anticholinergic effects, including dry mouth, urinary retention, constipation, and visual disturbances such as blurred vision and sensitivity to light because these are common adverse effects of these drugs.</item>
+<item>Monitor the client’s urine output for signs of urinary retention, such as the inability to empty the bladder, distended bladder, and anxiousness because this is a serious adverse effect, and the client may need an intervention such as a urinary straight catheter to empty the bladder.</item>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
 </list>
 <note class="client-teaching" id="note-00001">
