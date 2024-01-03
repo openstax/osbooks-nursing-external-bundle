@@ -489,11 +489,11 @@ Renal impairment</entry>
 <title>Molnupiravir</title>
 <para id="para-00067">Molnupiravir is an oral product that works by being incorporated into the SARS-CoV-2 RNA; it then induces errors that lead to inhibited viral reproduction. There are some questions about the efficacy of molnupiravir in the treatment of COVID-19, so it is recommended as an alternative if clients cannot receive nirmatrelvir due to drug interactions or impaired renal function. Initiation of molnupiravir should occur within 5 days of symptom onset.</para>
 <para id="para-00068"><link target-id="table-00005" document="m00245"/> lists anti–COVID-19 drugs and typical routes and dosing for adult clients.</para>
-<table class="vertically-tight full-width" id="table-00005">
-<tgroup cols="2">
-<colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<thead>
+  <table class="vertically-tight full-width" id="table-00005">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
 <row>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
 <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
