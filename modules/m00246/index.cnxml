@@ -20,15 +20,13 @@
 <item>Explain the client education related to drugs used to treat HIV and AIDS.</item>
 </list>
 </section>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Pathophysiology</title>
 <para id="para-00002">The <term id="term-00001">human immunodeficiency virus (HIV)</term> is responsible for causing deterioration in the infected individual’s immune system, leaving them vulnerable to a variety of opportunistic infections and cancers. This state of immunodeficiency is known as <term id="term-00002">acquired immunodeficiency syndrome (AIDS)</term>. Since HIV was first identified in the 1980s, highly effective medications for <term id="term-00003">antiretroviral therapy (ART)</term> have been developed to suppress the virus and delay the development of AIDS-defining illnesses such as <emphasis effect="italics">Pneumocystis jirovecii</emphasis> pneumonia (PJP; previously known as <emphasis effect="italics">Pneumocystis carinii</emphasis> pneumonia or PCP), cytomegalovirus (CMV) infection, and the cancer known as Kaposi’s sarcoma. However, HIV infection is a lifelong condition with no known curative treatment.</para>
-<para id="para-00003">After the individual’s initial exposure to HIV, the virus targets the CD4 T lymphocytes (helper T cells). It binds to and fuses with the CD4 cell and then enters it. From there, the enzyme reverse transcriptase takes the HIV RNA and forms a complementary strand of DNA. The enzyme integrase then incorporates the viral DNA into the individual’s DNA, which causes the host cell to begin producing viral proteins. The enzyme protease then cuts the viral proteins into their mature form, and the new copy of the virus is ready to bud off from the infected cell to go infect a new CD4 cell (<link target-id="fig-00001" document="m00246"/>). As this process continues, there is continual degradation in the number of CD4 cells available to fight infection, and the person becomes immunocompromised and more at risk for various opportunistic infections and cancers. Once an individual develops one of these opportunistic illnesses, or their CD4 cell count drops &lt;200 cells/mL of blood, they are considered to have AIDS. People with AIDS have badly damaged immune systems. Understanding the life cycle of the virus is important because these steps present different drug targets that can be used to suppress viral replication. HIV treatment can slow or prevent progression of the disease. There are three stages of HIV. The first stage is acute HIV infection, in which clients have a large amount of HIV in their blood and are very contagious. Many have flu-like symptoms. Stage two is chronic HIV infection, also called asymptomatic HIV infection or clinical latency. HIV is still active and the client can still transmit the infection to others as it continues to reproduce in the body. The third stage is when the client is diagnosed with AIDS. This is the most severe form of HIV. Clients have a high viral load and can easily transmit the virus.</para>
-<figure class="scaled-down" id="fig-00001">
+<para id="para-00003">After the individual’s initial exposure to HIV, the virus targets the CD4 T lymphocytes (helper T cells). It binds to and fuses with the CD4 cell and then enters it. From there, the enzyme reverse transcriptase takes the HIV RNA and forms a complementary strand of DNA. The enzyme integrase then incorporates the viral DNA into the individual’s DNA, which causes the host cell to begin producing viral proteins. The enzyme protease then cuts the viral proteins into their mature form, and the new copy of the virus is ready to bud off from the infected cell to go infect a new CD4 cell (<link target-id="fig-00001" document="m00246"/>). As this process continues, there is continual degradation in the number of CD4 cells available to fight infection, and the person becomes immunocompromised and more at risk for various opportunistic infections and cancers. Once an individual develops one of these opportunistic illnesses or their CD4 cell count drops &lt;200 cells/mL of blood, they are considered to have AIDS. People with AIDS have badly damaged immune systems. Understanding the life cycle of the virus is important because these steps present different drug targets that can be used to suppress viral replication. HIV treatment can slow or prevent progression of the disease. There are three stages of HIV. The first stage is acute HIV infection, in which clients have a large amount of HIV in their blood and are very contagious. Many have flu-like symptoms. Stage two is chronic HIV infection, also called asymptomatic HIV infection or clinical latency. HIV is still active, and the client can still transmit the infection to others as it continues to reproduce in the body. The third stage is when the client is diagnosed with AIDS. This is the most severe form of HIV. Clients have a high viral load and can easily transmit the virus.</para>
+<figure id="fig-00001">
 <media alt="A diagram shows how H I V cells replicate. H I V fuses to the C D 4 receptor of the host cell's surface. This allows H I V R N A, reverse transcriptase, integrase, and other viral proteins to enter the host cell. Viral D N A is then formed by reverse transcription and is transported across the nucleus and integrated into the host D N A. New viral R N A is used as genomic R N A and to create viral proteins, which then move to the cell surface, forming new, immature H I V. The virus matures by protease, releasing individual H I V proteins."><image mime-type="image/png" src="../../media/PHA_Figure_07_03_004.png"/></media>
-<caption>HIV attaches to the CD4 receptor of an immune cell and fuses with the cell membrane. Viral contents are released into the cell, where viral enzymes convert the single-stranded RNA genome into DNA and incorporate it into the host genome. (credit: “HIV Virus Replication Cycle” /NIAID,NIH,Public Domain)</caption>
+<caption>HIV attaches to the CD4 receptor of an immune cell and fuses with the cell membrane. Viral contents are released into the cell, where viral enzymes convert the single-stranded RNA genome into DNA and incorporate it into the host genome. (credit: “HIV Virus Replication Cycle”/NIAID, NIH, Public Domain)</caption>
 </figure>
 </section>
 <section id="sect-00004">
@@ -47,14 +45,14 @@
 <para id="para-00009">Testing can also be performed to determine the sensitivity or resistance to a variety of ART drugs. This is helpful to make sure that any treatment the client is receiving will be able to sufficiently suppress viral replication. HIV is prone to making mistakes when it copies itself, which leads to frequent mutations that induce resistance to various ART drugs, so sensitivity testing is critical to choosing an effective regimen.</para>
 </section>
 <section id="sect-00007">
-<title><term class="no-emphasis" id="term-00006">Antiretroviral Drugs</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00006">Antiretroviral Drugs</term></emphasis></title>
 <para id="para-00010">Treatment of HIV is an ever-evolving subject, with guidelines frequently recommending different preferred ART regimens based on up-to-date research. The best place to get accurate, timely recommendations for ART is through the <link url="https://openstax.org/r/hivinfo">National Institutes of Health’s HIV information website</link>. For effective ART, multiple drugs utilizing different mechanisms of action are used together to synergize and suppress viral replication. The client’s adherence is critical to achieve viral suppression and preserve their immune function. Nonadherence will often lead to viral resistance against ART drugs. Choosing combination products that reduce the number of pills a client takes in a day can help decrease regimen complexity and increase adherence.</para>
 <section id="sect-00008">
 <title>Integrase Strand Transfer Inhibitors</title>
 <para id="para-00011"><term class="no-emphasis" id="term-00007">Integrase strand transfer inhibitors</term> (integrase inhibitors) include the drugs raltegravir, dolutegravir, and elvitegravir. They work by inhibiting the HIV enzyme integrase to prevent HIV DNA from being incorporated into the individual’s DNA. This then prevents the production of new copies of the virus. Integrase inhibitors are a relatively new class of drugs used in the treatment of HIV; given their efficacy and favorable tolerability, they have become components of many first-line regimens recommended for clients newly diagnosed with HIV.</para>
 </section>
 <section id="sect-00009">
-<title><term class="no-emphasis" id="term-00008">Fusion Pump Inhibitors</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00008">Fusion Pump Inhibitors</term></emphasis></title>
 <para id="para-00012">The fusion pump inhibitor enfuvirtide works by preventing the fusion of the HIV virus with a CD4 cell. This prevents the cell from being infected and suppresses viral replication. Enfuvirtide is usually reserved for clients with treatment-resistant HIV because the drug must be injected subcutaneously twice daily and is quite costly.</para>
 </section>
 <section id="sect-00010">
@@ -62,11 +60,11 @@
 <para id="para-00013">Once HIV has integrated itself into the host cell’s DNA, it begins to produce copies of viral proteins. These are produced in one long chain and must be cleaved via the enzyme protease to form functional, mature proteins. The use of <term class="no-emphasis" id="term-00009">protease inhibitors</term>, such as atazanavir, darunavir, fosamprenavir, and ritonavir, keeps those proteins from maturing, and viral replication is suppressed.</para>
 </section>
 <section id="sect-00011">
-<title><term class="no-emphasis" id="term-00010">Chemokine Coreceptor (CCR5) Antagonists</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00010">Chemokine Coreceptor (CCR5) Antagonists</term></emphasis></title>
 <para id="para-00014">During the fusion process, some variants of HIV will look for the C-C chemokine receptor type 5 (CCR5) that lies on the cell surface to help the virus enter the cell. This protein plays a major role in inflammation by recruiting and activating leukocytes. CCR5 is also the principal HIV coreceptor and is involved in the pathology of both cancer and neuroinflammation. In addition, it has been implicated in the inflammatory complications of coronavirus disease 2019 (COVID-19). Maraviroc is a CCR5 antagonist that blocks this receptor to discourage fusion and entry of HIV into the cell. If the HIV that the client is infected with does not express the protein looking for the CCR5 receptor, then this drug will be ineffective.</para>
 </section>
 <section id="sect-00012">
-<title><term class="no-emphasis" id="term-00011">Cytochrome P-450 Inhibitors</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00011">Cytochrome P-450 Inhibitors</term></emphasis></title>
 <para id="para-00015">One way to increase blood levels of certain ART medications and reduce the number of pills a client takes in a day is by inhibiting CYP3A4. The two drugs used for this purpose are cobicistat and the protease inhibitor ritonavir. Inhibiting CYP3A4 reduces drug metabolism and boosts the blood levels of several antiretrovirals.</para>
 <note class="clinical-tip" id="note-00001">
 <title>Double-Check for Drug Interactions, Including CYP Interactions</title>
@@ -79,7 +77,7 @@
 </section>
 <section id="sect-00014">
 <title>Nucleoside/Nucleotide Reverse Transcriptase Inhibitors</title>
-<para id="para-00019">An alternative way to inhibit reverse transcriptase is by using drugs that look like the nucleosides/nucleotides that are normally incorporated into viral DNA but which are modified to function as chain terminators to prevent DNA chain elongation. These drugs are called the <term class="no-emphasis" id="term-00013">nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)</term> and include the drugs abacavir, didanosine, tenofovir, and zidovudine. These agents serve as the backbone to many ART regimens. The NRTIs are ineffective as a monotherapy due to rapid resistance. First-line antiretroviral regimens include two NRTIs and one other drug from a different class, such as NNRTIs or protease inhibitors. Today, treatment has become simplified due to the availability of combination agents. This simplified regimen enhances adherence.</para>
+<para id="para-00019">An alternative way to inhibit reverse transcriptase is by using drugs that look like the nucleosides/nucleotides that are normally incorporated into viral DNA but that are modified to function as chain terminators to prevent DNA chain elongation. These drugs are called the <term class="no-emphasis" id="term-00013">nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)</term> and include the drugs abacavir, didanosine, tenofovir, and zidovudine. These agents serve as the backbone to many ART regimens. The NRTIs are ineffective as a monotherapy due to rapid resistance. First-line antiretroviral regimens include two NRTIs and one other drug from a different class, such as NNRTIs or protease inhibitors. Today, treatment has become simplified due to the availability of combination agents. This simplified regimen enhances adherence.</para>
 <para id="para-00020"><link target-id="table-00001" document="m00246"/> lists antiretroviral drugs and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight ful-width" id="table-00001">
 <tgroup cols="2">
@@ -186,7 +184,7 @@ Immune reconstitution syndrome</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype Table: Dolutegravir</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Dolutegravir/Rilpivirine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 </section>
@@ -220,10 +218,9 @@ Immune reconstitution syndrome</entry>
 </note>
 <note class="black-box" id="note-00004">
 <para id="para-00032"><emphasis effect="bold">HIV/AIDS Medications</emphasis></para>
-<para id="para-00033"><emphasis effect="bold">Abacavir:</emphasis> Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir. Clients who carry the HLA-B*5701 allele are at a higher risk for a hypersensitivity reaction to abacavir, although hypersensitivity reactions have occurred in clients who do not carry HLA-B*5701 allele.</para>
+<para id="para-00033"><emphasis effect="bold">Abacavir:</emphasis> Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir. Clients who carry the HLA-B*5701 allele are at a higher risk for a hypersensitivity reaction to abacavir, although hypersensitivity reactions have occurred in clients who do not carry the HLA-B*5701 allele.</para>
 <para id="para-00034"><emphasis effect="bold">Maraviroc:</emphasis> Hepatotoxicity has been reported with use of maraviroc. Severe rash or evidence of a systemic allergic reaction (e.g., eosinophilia, elevated immunoglobulin E [IgE], fever) prior to the development of hepatotoxicity may occur. Clients with signs or symptoms of hepatitis or allergic reaction following use of maraviroc should be immediately evaluated.</para>
 </note>
-</section>
 </section>
 </content>
 <glossary>

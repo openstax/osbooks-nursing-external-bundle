@@ -17,8 +17,6 @@
 <item>Explain the client education related to drugs used to treat infection.</item>
 </list>
 </section>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Antibiotics and Infection</title>
 <para id="para-00002">Antibiotics are a group of drugs used specifically to treat infections caused by bacteria, either by directly killing the bacteria (<term id="term-00001">bactericidal</term>) or by suppressing their growth and multiplication (<term id="term-00002">bacteriostatic</term>). Antibiotics are some of the most commonly prescribed medications in the world; therefore, careful stewardship is necessary to avoid overuse, which can lead to antibiotic resistance.</para>
@@ -51,7 +49,7 @@
 <section id="sect-00008">
 <title>Cephalosporins</title>
 <para id="para-00010"><term class="no-emphasis" id="term-00008">Cephalosporins</term> are another group of beta-lactam antibiotics and share the same mechanism of action as penicillin. The major differences between cephalosporins and penicillins are the various bacteria they have activity against and, thus, the types of infections they are best suited to treat.</para>
-<para id="para-00011">Cephalosporins are divided into several different generations based on their spectrum of activity. First-generation cephalosporins include cephalexin and cefazolin; these are used for a variety of conditions such as uncomplicated urinary tract infections, upper respiratory tract infections, and prevention of infection during surgery. Second-generation cephalosporins, such as cefoxitin and cefprozil, are used for similar conditions, including otitis media, pneumonia, and urinary tract infections. Third-generation cephalosporins include ceftriaxone and cefotaxime. These agents have increased gram-negative bacterial coverage and are useful in the hospital setting for a variety of more serious infections. such as meningitis, pneumonia, and neonatal sepsis. The only fourth-generation cephalosporin currently available is cefepime. Cefepime has broad antimicrobial coverage, including the difficult-to-treat gram-negative organism <emphasis effect="italics">Pseudomonas aeruginosa.</emphasis> Finally, the fifth-generation cephalosporin ceftaroline is relatively new and has the unique aspect of being the only cephalosporin to have activity against methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (MRSA), which is associated with significant morbidity and mortality.</para>
+<para id="para-00011">Cephalosporins are divided into several different generations based on their spectrum of activity. First-generation cephalosporins include cephalexin and cefazolin; these are used for a variety of conditions such as uncomplicated urinary tract infections, upper respiratory tract infections, and prevention of infection during surgery. Second-generation cephalosporins, such as cefoxitin and cefprozil, are used for similar conditions, including otitis media, pneumonia, and urinary tract infections. Third-generation cephalosporins include ceftriaxone and cefotaxime. These agents have increased gram-negative bacterial coverage and are useful in the hospital setting for a variety of more serious infections, such as meningitis, pneumonia, and neonatal sepsis. The only fourth-generation cephalosporin currently available is cefepime. Cefepime has broad antimicrobial coverage, including the difficult-to-treat gram-negative organism <emphasis effect="italics">Pseudomonas aeruginosa.</emphasis> Finally, the fifth-generation cephalosporin ceftaroline is relatively new and has the unique aspect of being the only cephalosporin to have activity against methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (MRSA), which is associated with significant morbidity and mortality.</para>
 </section>
 <section id="sect-00009">
 <title>Macrolides</title>
@@ -59,7 +57,7 @@
 <para id="para-00013">Macrolides inhibit the liver enzyme cytochrome P450 3A4 (CYP3A4), which is responsible for metabolizing many medications. Medications that use the CYP enzyme system for metabolism will not undergo metabolism at the rate expected, leading to increased serum drug levels. This can result in adverse reactions and toxicity. Some examples of drugs that would be affected include amlodipine, nifedipine, diltiazem, verapamil, lovastatin, simvastatin, carbamazepine, buspirone, midazolam, fluoxetine, sertraline, fluvoxamine, and dextromethorphan. (This is not an exhaustive list.)</para>
 </section>
 <section id="sect-00010">
-<title><term class="no-emphasis" id="term-00010">Glycopeptides</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00010">Glycopeptides</term></emphasis></title>
 <para id="para-00014">The glycopeptide class of drugs includes vancomycin, a common antibiotic used in the hospital setting for treating infections caused by gram-positive bacteria, including MRSA. Vancomycin works by disrupting the integrity of the bacterial cell wall, leading to cellular death. Interestingly, oral vancomycin has good activity against <emphasis effect="italics">Clostridioides difficile</emphasis>, which is an opportunistic pathogen that can cause colitis and severe diarrhea after clients receive antibiotics that disrupt the gut’s normal bacterial flora. However, it is completely ineffective against bloodstream pathogens. Vancomycin is entirely renally eliminated and must be monitored by checking renal function and serum blood levels of the drug to ensure proper dosing.</para>
 </section>
 <section id="sect-00011">
@@ -67,7 +65,7 @@
 <para id="para-00015"><term class="no-emphasis" id="term-00011">Oxazolidinones</term> include the medication linezolid, which is commonly used to treat gram-positive infections that are highly resistant to agents such as vancomycin. One such infection is vancomycin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (VRSA), which is difficult to treat. Oxazolidinones work by inhibiting bacterial protein synthesis to suppress further growth and multiplication of the bacteria.</para>
 </section>
 <section id="sect-00012">
-<title><term class="no-emphasis" id="term-00012">Lincosamides</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00012">Lincosamides</term></emphasis></title>
 <para id="para-00016">The lincosamide category is primarily represented by the drug clindamycin, a protein synthesis inhibitor. Clindamycin possesses strong gram-positive coverage (including against MRSA) and is also able to treat anaerobic bacterial infections. This allows clindamycin to be used in a variety of conditions, such as skin infections, animal bites, and topically as a treatment for acne.</para>
 </section>
 <section id="sect-00013">
@@ -108,12 +106,9 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Benzathine penicillin G</term><newline/>
 (<term class="no-emphasis" id="term-00021">Bicillin L-A</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Streptococcal pharyngitis (strep throat):</emphasis><newline/>
-<emphasis effect="italics">Adults and children >60 lb</emphasis>: 2.4 million units intramuscularly once.<newline/>
-<emphasis effect="italics">Children 30–60 lb</emphasis>: 0.9 million to 1.2 million units intramuscularly once.<newline/>
-<emphasis effect="italics">Children &lt;30 lb</emphasis>: 0.6 million units intramuscularly once.<newline/>
-<emphasis effect="bold">Pneumococcal infections (except pneumococcal meningitis):</emphasis><newline/>
-<emphasis effect="italics">Adults:</emphasis> 1.2 million units repeated every 2–3 days until afebrile for 48 hours.<newline/>
-<emphasis effect="italics">Children:</emphasis> 0.6 million units repeated every 2–3 days until afebrile for 48 hours</entry>
+<emphasis effect="italics">Adults</emphasis>: 1.2 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Older children</emphasis>: 0.9 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Children &lt;60 lb</emphasis>: 0.3–0.6 million units intramuscularly once.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Beta-Lactamase Inhibitor</emphasis></span></entry>
@@ -132,7 +127,7 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Cephalexin</term><newline/>
 (<term class="no-emphasis" id="term-00025">Keflex</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
-<emphasis effect="italics">Adults and children &#8805;15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
+<emphasis effect="italics">Adults and children ≥15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
 <emphasis effect="italics">Children >1 year:</emphasis> 25–50 mg/kg in equally divided oral doses for 7–14 days. For ß-hemolytic streptococcal infections, at least 10 days is recommended. In severe infections, a total daily dose of 50–100 mg/kg may be administered in equally divided oral doses.</entry>
 </row>
 <row>
@@ -153,7 +148,7 @@
 (<term class="no-emphasis" id="term-00029">Vancocin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Bloodstream infection:</emphasis><newline/>
 Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
-<emphasis effect="italics">Adults:</emphasis> 2 g IV divided as either 500 mg every 6 hours or 1 g every 12 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
+<emphasis effect="italics">Adults:</emphasis> 2 g intravenously (IV) divided as either 500 mg every 6 hours or 1 g every 12 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
 <emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose IV given every 6 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
 <emphasis effect="bold"><emphasis effect="italics">C. difficile</emphasis>–associated diarrhea:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 125 mg orally 4 times daily for 10 days.<newline/>
@@ -166,10 +161,10 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Oxazolidinone</emphasis></span></entry>
 </row>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Linezolid</term><newline count="2"/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Linezolid</term><newline/>
 (<term class="no-emphasis" id="term-00031">Zyvox</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
-<emphasis effect="italics">Adults and children &#8805;12 years:</emphasis> 600 mg orally or IV every 12 hours for 10–14 days.<newline/>
+<emphasis effect="italics">Adults and children ≥12 years:</emphasis> 600 mg orally or IV every 12 hours for 10–14 days.<newline/>
 <emphasis effect="italics">Children &lt;12 years of age):</emphasis> 10 mg/kg IV or orally every 8 hours for 10–14 days.</entry>
 </row>
 <row>
@@ -200,8 +195,8 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 (<term class="no-emphasis" id="term-00037">Garamycin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Gram-negative infection:</emphasis><newline/>
 Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
-<emphasis effect="italics">Adults, children, and older infants (intramuscular):</emphasis> 15 mg/kg/day in 2–3 equal doses administered at equal intervals.<newline/>
-<emphasis effect="italics">Adults, children and older infants (IV):</emphasis> 15 mg/kg/day in 2–3 equal doses administered at equally divided intervals. Maximum daily dose: 15 mg/kg/day. Infusion should run 30–60 minutes.</entry>
+<emphasis effect="italics">Adults (intramuscular/IV):</emphasis> 3 mg/kg/day in 3 equal doses administered at equal intervals.<newline/>
+<emphasis effect="italics">Children (intramuscular/IV):</emphasis> 6–7.5 mg/kg/day in 3 equal doses administered at equally divided intervals. Infusion should run 30–60 minutes.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Sulfonamide</emphasis></span></entry>
@@ -211,7 +206,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 (<term class="no-emphasis" id="term-00039">Bactrim</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Urinary tract infection:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 1 double-strength tablet or 2 regular-strength tablets every 12 hours for 10–14 days.<newline/>
-<emphasis effect="italics">Children ≥ 2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in two doses every 12 hours for 10 days.</entry>
+<emphasis effect="italics">Children ≥ 2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in 2 doses every 12 hours for 10 days.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -249,10 +244,10 @@ Treatment of infections due to susceptible organisms (<emphasis effect="italics"
 <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Treats infections caused by susceptible organisms</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-Aminoglycosides
-Methotrexate
-Tetracyclines
-Probenecid
+Aminoglycosides<newline/>
+Methotrexate<newline/>
+Tetracyclines<newline/>
+Probenecid<newline/>
 Mycophenolate<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Food Interactions</emphasis></span><newline/>
 No significant interactions</entry>
@@ -286,14 +281,14 @@ Renal impairment
 <item>Advise the client to take the entire prescribed course of the medication to ensure adequate treatment and to reduce the development of antibiotic drug resistance.</item>
 <item>Instruct the client to maintain adequate hydration; monitor kidney function for renally eliminated medications, such as penicillins, most cephalosporins, vancomycin, aminoglycosides, and particularly fluoroquinolones.</item>
 <item>For clients taking macrolides, always review their medication list for medications metabolized by CYP3A4.</item>
-<item>Monitor for thrombocytopenia, leukopenia, and anemia in clients receiving linezolid. Monitor CBC periodically. Notify prescriber if blood counts drop.</item>
+<item>Monitor for thrombocytopenia, leukopenia, and anemia in clients receiving linezolid. Monitor complete blood count (CBC) periodically. Notify prescriber if blood counts drop.</item>
 <item>If client is taking any medication that can increase serotonin levels (SSRIs, SNRIs, or MAOIs), the nurse should observe for signs of serotonin syndrome, including hyperthermia, headache, confusion, agitation, increased blood pressure, tachycardia, tremor, ataxia, muscle rigidity, and seizures.</item>
 <item>Ensure that any ordered samples for serum levels of agents such as vancomycin and aminoglycosides are obtained at the intended time so that accurate dosage adjustments can be made. Timing may include peak levels drawn after a dose of the antibiotic has been given or trough levels drawn immediately before a dose.</item>
 <item>Monitor for severe or bloody diarrhea and, if ordered, obtain a sample to check for <emphasis effect="italics">C. difficile</emphasis>.</item>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
 </list>
 <note class="client-teaching" id="note-00002">
-<para id="para-00032"><emphasis effect="bold">Client Teaching Guidelines</emphasis> <emphasis effect="bold">The client taking an antibiotic should:</emphasis></para>
+<para id="para-00032"><emphasis effect="bold">The client taking an antibiotic should:</emphasis></para>
 <list list-type="bulleted" id="list-00003">
 <item>Alert their health care provider about any signs and symptoms of allergic reactions, including throat swelling, severe itching, rash, or chest tightness.</item>
 <item>Alert their health care provider about any recent antibiotic use prior to starting therapy.</item>
@@ -470,8 +465,10 @@ Renal impairment</entry>
 <note class="black-box" id="note-00005">
 <para id="para-00058"><emphasis effect="bold">Antivirals</emphasis></para>
 <para id="para-00059"><emphasis effect="bold">Ganciclovir:</emphasis> Granulocytopenia, anemia, thrombocytopenia, and pancytopenia have been reported with ganciclovir.</para>
-<para id="para-00060"><emphasis effect="bold">Ganciclovir:</emphasis> Based on animal data and limited human data, ganciclovir may cause temporary or permanent inhibition of spermatogenesis in males and suppression of fertility in females, birth defects in humans, and has the potential to cause cancer in humans.</para>
+<para id="para-00060"><emphasis effect="bold">Ganciclovir:</emphasis> Based on animal data and limited human data, ganciclovir may cause temporary or permanent inhibition of spermatogenesis in males and suppression of fertility in females, may cause birth defects in humans, and has the potential to cause cancer in humans.</para>
 <para id="para-00061"><emphasis effect="bold">Cidofovir:</emphasis> Renal impairment is the major toxicity of cidofovir. Cases of acute renal failure resulting in dialysis and/or contributing to death have occurred with as few as one or two doses of cidofovir. Cidofovir is contraindicated in clients who are receiving other nephrotoxic agents.</para>
+<para id="para-00083"><emphasis effect="bold">Sofosbuvir:</emphasis> HBV reactivation has been reported in HCV/HBV coinfected clients who were treated with HCV antivirals but were not receiving HBV antiviral therapy.</para>
+<para id="para-00090"><emphasis effect="bold">Tenofovir:</emphasis> Acute exacerbations of HBV have been reported in clients who have discontinued HBV antiviral therapy.</para>
 </note>
 </section>
 </section>
@@ -597,19 +594,19 @@ Caution: Liver impairment</entry>
 <para id="para-00074"><term class="no-emphasis" id="term-00069">Fungi</term> make up a diverse group of microorganisms that includes yeasts, molds, and mushrooms. Some of the key differences between human and fungal cell structures are that fungi introduce sterols into the cell membrane, and they have a cell wall that includes products such as chitin and glucans. These differences form the basis for drug therapy designed to eliminate fungi. <term class="no-emphasis" id="term-00070">Fungal infections</term> can vary in presentation from less severe infections of the scalp, skin, or nails, which may require topical antifungal therapy, to severe systemic fungal infections that may be life-threatening. The latter are primarily found in immunocompromised clients and require aggressive systemic therapy to avoid serious morbidity and mortality.</para>
 <para id="para-00075">This section will cover commonly used <term class="no-emphasis" id="term-00071">antifungal drugs</term>, including their mechanisms of action, adverse effects, indications, and contraindications. Given the wide variety of fungi that can cause disease (e.g., <emphasis effect="italics">Aspergillus</emphasis>, <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Blastomyces</emphasis>), positive identification is ideal to ensure that the appropriate drug is selected. Unfortunately, fungal cultures can take weeks for identification. In severely ill clients, broad-spectrum antifungals are used until culture results are available.</para>
 <section id="sect-00033">
-<title><term class="no-emphasis" id="term-00072">Polyenes</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00072">Polyenes</term></emphasis></title>
 <para id="para-00076">Polyene antifungal drugs include amphotericin B and nystatin. These are broad-spectrum antifungals that bind to ergosterol in the fungal cell membrane, leading to membrane breakdown and fungal cell death. Amphotericin B is used intravenously to treat severe systemic fungal infections. Nystatin is used orally for infections such as oropharyngeal candidiasis (thrush). Nystatin is not absorbed systemically when taken orally or topically; therefore, it is ineffective for systemic infections.</para>
 </section>
 <section id="sect-00034">
-<title><term class="no-emphasis" id="term-00073">Azoles</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00073">Azoles</term></emphasis></title>
 <para id="para-00077">The azole antifungals include two broad classes: imidazoles and triazoles. Examples of imidazoles include clotrimazole, miconazole, and ketoconazole. Examples of triazoles include fluconazole, voriconazole, and posaconazole. These drugs work by inhibiting the enzyme 14-alpha-sterol demethylase. This enzyme is necessary for the fungal cell to produce ergosterol, which is then transferred to the cell membrane. Inhibition of this enzyme leads to arrest of fungal cell growth.</para>
 </section>
 <section id="sect-00035">
-<title><term class="no-emphasis" id="term-00074">Antimetabolites</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00074">Antimetabolites</term></emphasis></title>
 <para id="para-00078">Flucytosine is the only antifungal antimetabolite. It works by being converted to 5-fluorouracil (5-FU) in the fungal cell; 5-FU inhibits the enzyme thymidylate synthase as well as DNA, RNA, and protein production in fungal cells, leading to arrested growth.</para>
 </section>
 <section id="sect-00036">
-<title><term class="no-emphasis" id="term-00075">Echinocandins</term></title>
+<title><emphasis effect="bold"><term class="no-emphasis" id="term-00075">Echinocandins</term></emphasis></title>
 <para id="para-00079">The echinocandins include the drugs caspofungin, anidulafungin, and micafungin. These work by inhibiting the enzyme 1,3-beta-glucan synthase, which is responsible for providing structural integrity to the fungal cell wall. Inhibiting this enzyme decreases glucan synthesis and disrupts the cell wall, leading to fungal cell death.</para>
 <para id="para-00080"><link target-id="table-00007" document="m00245"/> lists antifungal drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00076">pediatric clients</term>.</para>
 <table class="vertically-tight" id="table-00007">
@@ -623,12 +620,18 @@ Caution: Liver impairment</entry>
 </row>
 </thead>
 <tbody>
-<row>
+  <row>
+    <entry valign="middle" align="center">Amphotericin B<newline/>
+(Fungizone)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Progessive, potentially life-threatening fungal infections</emphasis><newline/>
+  <emphasis effect="italics">Adults:</emphasis> 0.25–0.3 mg/kg IV daily over 2–6 hours. Total daily dose of 1.5 mg/kg should not be exceeded.</entry>
+</row>
+  <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00077">Anidulafungin</term><newline/>
 (<term class="no-emphasis" id="term-00078">Eraxis</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Candida:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200 mg IV on day 1, then 100 mg IV once daily.<newline/>
-<emphasis effect="italics">Children:</emphasis> 3 mg/kg (not to exceed 200 mg) on Day 1, followed by a once daily IV maintenance dose of 1.5 mg/kg (not to exceed 100 mg) thereafter for 14 days.<newline/>
+<emphasis effect="italics">Children:</emphasis> 3 mg/kg (not to exceed 200 mg) on day 1, followed by a once daily IV maintenance dose of 1.5 mg/kg (not to exceed 100 mg) thereafter for 14 days.<newline/>
 <emphasis effect="bold">Esophageal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 100 mg IV loading dose on day 1, followed by a 50 mg IV once daily maintenance dose for 14 days.</entry>
 </row>
@@ -648,7 +651,7 @@ Caution: Liver impairment</entry>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00083">Nystatin</term><newline/>
 (<term class="no-emphasis" id="term-00084">Nystat</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Oropharyngeal candidiasis:</emphasis><newline/>
-<emphasis effect="italics">Adults and children:</emphasis> Swish and swallow 400,000–600,000 units 4 times daily for 7–14 days. Continue for 48 hours after symptoms resolve and a negative culture obtained.<newline/>
+<emphasis effect="italics">Adults and children:</emphasis> Swish and swallow 400,000–600,000 units 4 times daily for 7–14 days. Continue for 48 hours after symptoms resolve and a negative culture is obtained.<newline/>
 <emphasis effect="italics">Infants:</emphasis> 200,000 units 4 times daily using a dropper.</entry>
 </row>
 </tbody>
@@ -676,7 +679,7 @@ Azole antifungal<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits fungal cytochrome P450 activity, decreasing ergosterol synthesis and inhibiting cell membrane formation</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-<emphasis effect="italics">Oropharyngeal or esophageal candidiasis:</emphasis>
+<emphasis effect="bold">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200 mg orally on the first day, followed by 100 mg orally once daily for 2 weeks to prevent relapse.
 </entry>
 </row>
@@ -741,7 +744,6 @@ Renal impairment</entry>
 <para id="para-00088"><emphasis effect="bold">Amphotericin B</emphasis></para>
 <para id="para-00089">Amphotericin B should be used primarily for treatment of clients with progressive and potentially life-threatening fungal infections; it should not be used to treat noninvasive forms of fungal disease such as oral thrush, vaginal candidiasis, and esophageal candidiasis in clients with normal neutrophil counts.</para>
 </note>
-</section>
 </section>
 </section>
 </content>

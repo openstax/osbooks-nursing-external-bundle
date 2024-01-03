@@ -19,8 +19,6 @@
 <item>Explain the client education related to drugs used to treat tuberculosis.</item>
 </list>
 </section>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Tubercular Infections</title>
 <para id="para-00002"><term id="term-00001">Tuberculosis (TB)</term> is a deadly respiratory infection primarily caused by the organism <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>. Worldwide, TB is the second leading cause of infectious deaths after COVID-19 (World Health Organization, 2023a). Although TB is less of a concern in high-income nations, it is still a major cause for concern in lower-income nations and in clients at greater risk, including those who are immunocompromised and those living in close contact with other people (e.g., prisons, shelters, nursing homes). TB has been found to disproportionately affect marginalized racial and ethnic groups who already have limited access to health care and are most susceptible to the devastating effects of TB (CDC, 2018).</para>
@@ -31,7 +29,7 @@
 <title>First-Line Drug Therapy</title>
 <para id="para-00005">Once a definitive diagnosis of TB has been made, treatment specific for TB should begin immediately. Due to the difficulty of drug penetration and the slow-growing nature of the organism, TB treatment requires at least 6 months of therapy. Failure to adhere to TB therapy can lead to clinical worsening in the client and more resistant strains of <emphasis effect="italics">M. tuberculosis.</emphasis> Traditionally, clients with an active TB infection begin therapy with a four-drug regimen consisting of isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months followed by four additional months of isoniazid and rifampin. The specific drugs used and their durations may be altered depending on client comorbidities and TB resistance.</para>
 <note class="clinical-tip" id="note-00001">
-<para id="para-00006"><emphasis effect="bold">Antitubercular Drug Compliance</emphasis></para>
+<title>Antitubercular Drug Compliance</title>
 <para id="para-00007">Adherence to antitubercular drug regimens is critical to ensure eradication of the infection and prevention of drug-resistant strains of TB. One way to help ensure adherence is by using directly observed therapy, in which a trained observer watches the client take every dose of their TB medication. This can take place in the clinic, home care agency, correctional facility, or treatment center. Directly observed therapy helps provide stability and accountability and has been shown to increase antitubercular drug therapy completion. Directly observed therapy can even be completed electronically if that is more convenient for the client (Burzynski et al., 2022).</para>
 </note>
 <para id="para-00008">The following drugs are used to treat TB:</para>
@@ -137,7 +135,7 @@ Renal impairment</entry>
 <para id="para-00013">Ethambutol is partially renally eliminated, so the dose should be adjusted in clients with renal dysfunction. The major adverse effects seen with ethambutol are optic nerve inflammation, changes in visual acuity, and loss of ability to distinguish between the colors red and green.</para>
 <para id="para-00014">Isoniazid is a known hepatotoxin; serial liver function tests should be performed to determine whether therapy should be altered. Isoniazid also can cause neurotoxicity, including peripheral neuropathies at standard doses and seizures and coma in overdose. Clients particularly at risk for neurotoxicity include those who are pyridoxine deficient (e.g., pregnant clients, individuals with excessive alcohol intake).</para>
 <note class="safety-alert" id="note-00002">
-<title><emphasis effect="bold">Isoniazid</emphasis></title>
+<title>Isoniazid</title>
 <para id="para-00015">Nurses must inform clients that they should have their liver function assessed regularly while on isoniazid to monitor for liver toxicity. The client should also abstain from excessive alcohol use, which may increase the risk for hepatotoxicity. Excessive drinking includes binge drinking (four or more drinks during a single occasion for females or five or more drinks during a single occasion for males) and heavy drinking (8 or more drinks per week for females or 15 or more drinks per week for males).</para>
 </note>
 <para id="para-00016">Pyrazinamide also is a known hepatotoxin, so serial liver function tests should be monitored for evidence of liver injury. In addition, pyrazinamide raises uric acid levels.</para>
@@ -173,13 +171,13 @@ Renal impairment</entry>
 <para id="para-00020"><emphasis effect="bold">Isoniazid</emphasis></para>
 <para id="para-00021">Severe and sometimes fatal hepatitis associated with isoniazid therapy has been reported and may occur or develop even after many months of treatment.</para>
 </note>
-<note class="unfolding-casestudy" id="note-00005">
+<note class="single-casestudy" id="note-00005">
 <para id="para-00022">Read the following clinical scenario to answer the questions that follow.</para>
 Mark Janson is a 36-year-old White client who presents to the emergency department complaining of coughing up blood for the past 3 days. He reports intermittent fevers, chills, night sweats, and difficulty breathing that worsens on exertion. He notes that he has unintentionally lost 25 pounds over the last several weeks.<newline count="2"/>
 <emphasis effect="bold">History</emphasis><newline/>
 None<newline count="2"/>
 <emphasis effect="bold">Current Medications</emphasis><newline/>
-Acetaminophen 650 mg orally every 6 hours as needed for fever
+Acetaminophen 650 mg orally every 6 hours as needed for fever<newline/>
 Dextromethorphan 20 mg orally every 4 hours as needed for cough, which has not provided relief
 <table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
@@ -230,7 +228,7 @@ Dextromethorphan 20 mg orally every 4 hours as needed for cough, which has not p
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
-<entry valign="top" align="left">154 pounds</entry>
+<entry valign="top" align="left">154 lb</entry>
 </row>
 </tbody>
 </tgroup>
@@ -238,7 +236,6 @@ Dextromethorphan 20 mg orally every 4 hours as needed for cough, which has not p
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/PHAR_Ch07_Sec05_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/PHAR_Ch07_Sec05_UCSQ2"/></para></problem></exercise>
 </note>
-</section>
 </section>
 </content>
 <glossary>
