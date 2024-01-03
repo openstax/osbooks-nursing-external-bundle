@@ -14,7 +14,6 @@
 <item>Modify a nutritional plan to promote renal wellness.</item>
 </list>
   </section>
-  <section id="sect-00008">
 <section id="sect-00002">
 <title>Evaluating the Effectiveness of a Nutritional Plan for Renal Wellness</title>
 <para id="para-00002">Evaluation of the effectiveness of a nutritional plan involves evaluation of both client adherence to the plan and the effectiveness of the plan to reach the intended outcomes. Mr. Vasquez’s nutritional plan is considered in the following Unfolding Case Study feature. If the plan is ineffective in any way, the nurse should determine the cause—adherence or general ineffectiveness—so that they can make appropriate changes.</para>
@@ -22,18 +21,53 @@
 <title>Part B</title>
 <para id="para-00052">Read the following clinical scenario and then answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
 <para id="para-00003">At the last visit, Jose Vasquez was educated on nutritional changes that will help preserve kidney function and manage comorbidities. At a recent physical examination, the following are noted:</para>
-<list list-type="bulleted" id="list-00002">
-<item>Mr. Vasquez had lost 12 lb (5.44 kg) since his last visit three months ago.</item>
-<item>No edema is present.</item>
-<item>Blood pressure: 118/76 mmHg</item>
-<item>Pulse: 98 beats per minute </item>
-<item>Respirations: 14 per minute</item>
-<item>Temperature: 97.9°F/36.6°C</item>
-<item>Oxygen saturation: 97% on room air </item>
-<item>Lungs are clear to auscultation in all fields.</item>
-<item>Finger stick glucose level: 100 mg/dL</item>
-</list>
-<para id="para-00004">Mr. Vasquez reports following the nutritional guidelines strictly, and his food diary reflects this to be the case. Lastly, the nurse receives the following lab results from the sample drawn two days ago as a preparation for this visit:</para>
+<table class="vertically-tight" id="table-00002">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+  <thead>
+  <row>
+  <entry valign="top" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></entry>
+  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry valign="top" align="left"><emphasis effect="italics">Temperature:</emphasis></entry>
+  <entry valign="top" align="left">97.9°F (36.6°C)</entry>
+  <entry valign="top" align="left" morerows="6">
+  <list list-type="bulleted" id="list-00002"><item>No edema is present.</item>
+  <item>Lungs are clear to auscultation in all fields.</item></list></entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Blood pressure:</entry>
+  <entry valign="top" align="left">118/76 mm Hg</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Heart rate:</entry>
+  <entry valign="top" align="left">98 beats/min</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Respiratory rate:</entry>
+  <entry valign="top" align="left">14 breaths/min</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Oxygen saturation:</entry>
+  <entry valign="top" align="left">97% on room air</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Weight:</entry>
+  <entry valign="top" align="left">Client has lost 3 lb (5.44 kg) since his last visit 3 months ago</entry>
+  </row>
+  <row>
+  <entry valign="top" align="left">Finger stick glucose level:</entry>
+  <entry valign="top" align="left">100 mg/dL</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  </table>
+  <para id="para-00004">Mr. Vasquez reports following the nutritional guidelines strictly, and his food diary reflects this to be the case. Lastly, the nurse receives the following lab results from the sample drawn two days ago as a preparation for this visit:</para>
 
 <table class="alternate-shading full-width" id="table-00001">
 <tgroup cols="3">
@@ -42,9 +76,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left">Lab Test</entry>
-<entry valign="top" align="left">Normal Range</entry>
-<entry valign="top" align="left">Mr. Vasquez’s Lab Results</entry>
+<entry valign="top" align="left"><span class="blue-text">Lab Test</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Normal Range</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Mr. Vasquez’s Lab Results</span></entry>
 </row>
 </thead>
 <tbody>
@@ -118,7 +152,6 @@
 <para id="para-00026">Nagai, K., Kosaka, S., Kawate, Y., &amp; Itsubo, N. (2022). Renal health benefits of sustainable diets in Japan: A review. <emphasis effect="italics">Renal Replacement Therapy</emphasis>, <emphasis effect="italics">8</emphasis>(25). https://doi.org/10.1186/s41100-022-00415-6</para>
 </section>
 <section class="references" id="sect-00007">
-<title>References</title>
 <para id="para-00027">Ballstaedt, L., &amp; Woodbury, B. (2022). Bladder post void residual volume. In <emphasis effect="italics">StatPearls [Internet]</emphasis>. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK539839/</para>
 <para id="para-00028">de Bellefonds, C. (2023, March 21). <emphasis effect="italics">8 diet tips to help prevent or manage chronic kidney disease</emphasis>. Everyday Health. https://www.everydayhealth.com/kidney-diseases/diet-tips-to-help-prevent-or-manage-chronic-kidney-disease/</para>
 <para id="para-00029">Centers for Disease Control and Prevention. (2022). <emphasis effect="italics">Kidney testing: Everything you need to know</emphasis>. https://www.cdc.gov/kidneydisease/publications-resources/kidney-tests.html</para>
@@ -144,7 +177,6 @@
 <para id="para-00049">Sperati, C.J. (2022, March 1). <emphasis effect="italics">Coronavirus: Kidney Damage Caused by COVID-19</emphasis>. John Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-kidney-damage-caused-by-covid19</para>
 <para id="para-00050">Urology Care Foundation. (2023). <emphasis effect="italics">Urinary tract infections in adults</emphasis>. https://www.urologyhealth.org/urology-a-z/u/urinary-tract-infections-in-adults</para>
 <para id="para-00051">World Health Organization. (2020). <emphasis effect="italics">Social determinants of health</emphasis>. https://www.who.int/health-topics/social-determinants-of-health</para>
-</section>
 </section>
   </content>
 </document>
