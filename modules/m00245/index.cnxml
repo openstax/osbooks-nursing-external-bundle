@@ -57,7 +57,7 @@
 <para id="para-00013">Macrolides inhibit the liver enzyme cytochrome P450 3A4 (CYP3A4), which is responsible for metabolizing many medications. Medications that use the CYP enzyme system for metabolism will not undergo metabolism at the rate expected, leading to increased serum drug levels. This can result in adverse reactions and toxicity. Some examples of drugs that would be affected include amlodipine, nifedipine, diltiazem, verapamil, lovastatin, simvastatin, carbamazepine, buspirone, midazolam, fluoxetine, sertraline, fluvoxamine, and dextromethorphan. (This is not an exhaustive list.)</para>
 </section>
 <section id="sect-00010">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00010">Glycopeptides</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00010">Glycopeptides</term></title>
 <para id="para-00014">The glycopeptide class of drugs includes vancomycin, a common antibiotic used in the hospital setting for treating infections caused by gram-positive bacteria, including MRSA. Vancomycin works by disrupting the integrity of the bacterial cell wall, leading to cellular death. Interestingly, oral vancomycin has good activity against <emphasis effect="italics">Clostridioides difficile</emphasis>, which is an opportunistic pathogen that can cause colitis and severe diarrhea after clients receive antibiotics that disrupt the gut’s normal bacterial flora. However, it is completely ineffective against bloodstream pathogens. Vancomycin is entirely renally eliminated and must be monitored by checking renal function and serum blood levels of the drug to ensure proper dosing.</para>
 </section>
 <section id="sect-00011">
@@ -65,7 +65,7 @@
 <para id="para-00015"><term class="no-emphasis" id="term-00011">Oxazolidinones</term> include the medication linezolid, which is commonly used to treat gram-positive infections that are highly resistant to agents such as vancomycin. One such infection is vancomycin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> (VRSA), which is difficult to treat. Oxazolidinones work by inhibiting bacterial protein synthesis to suppress further growth and multiplication of the bacteria.</para>
 </section>
 <section id="sect-00012">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00012">Lincosamides</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00012">Lincosamides</term></title>
 <para id="para-00016">The lincosamide category is primarily represented by the drug clindamycin, a protein synthesis inhibitor. Clindamycin possesses strong gram-positive coverage (including against MRSA) and is also able to treat anaerobic bacterial infections. This allows clindamycin to be used in a variety of conditions, such as skin infections, animal bites, and topically as a treatment for acne.</para>
 </section>
 <section id="sect-00013">
@@ -127,7 +127,7 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Cephalexin</term><newline/>
 (<term class="no-emphasis" id="term-00025">Keflex</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
-<emphasis effect="italics">Adults and children ≥15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
+<emphasis effect="italics">Adults and children =15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
 <emphasis effect="italics">Children >1 year:</emphasis> 25–50 mg/kg in equally divided oral doses for 7–14 days. For ß-hemolytic streptococcal infections, at least 10 days is recommended. In severe infections, a total daily dose of 50–100 mg/kg may be administered in equally divided oral doses.</entry>
 </row>
 <row>
@@ -164,7 +164,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Linezolid</term><newline/>
 (<term class="no-emphasis" id="term-00031">Zyvox</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
-<emphasis effect="italics">Adults and children ≥12 years:</emphasis> 600 mg orally or IV every 12 hours for 10–14 days.<newline/>
+<emphasis effect="italics">Adults and children =12 years:</emphasis> 600 mg orally or IV every 12 hours for 10–14 days.<newline/>
 <emphasis effect="italics">Children &lt;12 years of age):</emphasis> 10 mg/kg IV or orally every 8 hours for 10–14 days.</entry>
 </row>
 <row>
@@ -184,7 +184,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00034">Doxycycline</term><newline/>
 (<term class="no-emphasis" id="term-00035">Vibramycin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Rocky Mountain spotted fever:</emphasis><newline/>
-<emphasis effect="italics">Adults and children ≥45 kg:</emphasis> 200 mg orally on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day. For more severe infections, 100 mg every 12 hours.<newline/>
+<emphasis effect="italics">Adults and children =45 kg:</emphasis> 200 mg orally on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day. For more severe infections, 100 mg every 12 hours.<newline/>
 <emphasis effect="italics">Children &lt;45 kg:</emphasis> 2.2 mg/kg of body weight administered every 12 hours orally.</entry>
 </row>
 <row>
@@ -206,7 +206,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 (<term class="no-emphasis" id="term-00039">Bactrim</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Urinary tract infection:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 1 double-strength tablet or 2 regular-strength tablets every 12 hours for 10–14 days.<newline/>
-<emphasis effect="italics">Children ≥ 2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in 2 doses every 12 hours for 10 days.</entry>
+<emphasis effect="italics">Children = 2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in 2 doses every 12 hours for 10 days.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -594,19 +594,19 @@ Caution: Liver impairment</entry>
 <para id="para-00074"><term class="no-emphasis" id="term-00069">Fungi</term> make up a diverse group of microorganisms that includes yeasts, molds, and mushrooms. Some of the key differences between human and fungal cell structures are that fungi introduce sterols into the cell membrane, and they have a cell wall that includes products such as chitin and glucans. These differences form the basis for drug therapy designed to eliminate fungi. <term class="no-emphasis" id="term-00070">Fungal infections</term> can vary in presentation from less severe infections of the scalp, skin, or nails, which may require topical antifungal therapy, to severe systemic fungal infections that may be life-threatening. The latter are primarily found in immunocompromised clients and require aggressive systemic therapy to avoid serious morbidity and mortality.</para>
 <para id="para-00075">This section will cover commonly used <term class="no-emphasis" id="term-00071">antifungal drugs</term>, including their mechanisms of action, adverse effects, indications, and contraindications. Given the wide variety of fungi that can cause disease (e.g., <emphasis effect="italics">Aspergillus</emphasis>, <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Blastomyces</emphasis>), positive identification is ideal to ensure that the appropriate drug is selected. Unfortunately, fungal cultures can take weeks for identification. In severely ill clients, broad-spectrum antifungals are used until culture results are available.</para>
 <section id="sect-00033">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00072">Polyenes</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00072">Polyenes</term></title>
 <para id="para-00076">Polyene antifungal drugs include amphotericin B and nystatin. These are broad-spectrum antifungals that bind to ergosterol in the fungal cell membrane, leading to membrane breakdown and fungal cell death. Amphotericin B is used intravenously to treat severe systemic fungal infections. Nystatin is used orally for infections such as oropharyngeal candidiasis (thrush). Nystatin is not absorbed systemically when taken orally or topically; therefore, it is ineffective for systemic infections.</para>
 </section>
 <section id="sect-00034">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00073">Azoles</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00073">Azoles</term></title>
 <para id="para-00077">The azole antifungals include two broad classes: imidazoles and triazoles. Examples of imidazoles include clotrimazole, miconazole, and ketoconazole. Examples of triazoles include fluconazole, voriconazole, and posaconazole. These drugs work by inhibiting the enzyme 14-alpha-sterol demethylase. This enzyme is necessary for the fungal cell to produce ergosterol, which is then transferred to the cell membrane. Inhibition of this enzyme leads to arrest of fungal cell growth.</para>
 </section>
 <section id="sect-00035">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00074">Antimetabolites</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00074">Antimetabolites</term></title>
 <para id="para-00078">Flucytosine is the only antifungal antimetabolite. It works by being converted to 5-fluorouracil (5-FU) in the fungal cell; 5-FU inhibits the enzyme thymidylate synthase as well as DNA, RNA, and protein production in fungal cells, leading to arrested growth.</para>
 </section>
 <section id="sect-00036">
-<title><emphasis effect="bold"><term class="no-emphasis" id="term-00075">Echinocandins</term></emphasis></title>
+<title><term class="no-emphasis" id="term-00075">Echinocandins</term></title>
 <para id="para-00079">The echinocandins include the drugs caspofungin, anidulafungin, and micafungin. These work by inhibiting the enzyme 1,3-beta-glucan synthase, which is responsible for providing structural integrity to the fungal cell wall. Inhibiting this enzyme decreases glucan synthesis and disrupts the cell wall, leading to fungal cell death.</para>
 <para id="para-00080"><link target-id="table-00007" document="m00245"/> lists antifungal drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00076">pediatric clients</term>.</para>
 <table class="vertically-tight" id="table-00007">
