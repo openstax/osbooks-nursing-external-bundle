@@ -168,7 +168,7 @@
     <colspec colnum="5" colname="c5" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Micronutrient Significance of Abnormal Values</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Micronutrient</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Expected Effect on Neurologic System</span></emphasis></entry> 
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Defined Level</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Significance of Abnormal Values</span></emphasis></entry>
@@ -276,7 +276,8 @@
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00017">
-    <item>Serum level: > 200–250 pg/mL</item>
+    <item>Serum level:<newline/>
+    > 200–250 pg/mL</item>
     </list>
     </entry>
     <entry valign="top" align="left">
@@ -291,7 +292,7 @@
     <list list-type="bulleted" id="list-00019">
     <item>8–12 mcg/daily</item>
     <item>Adults older than 50 years may need to supplement dietary consumption if deficient.</item>
-    <item>If deficient: 1,000-mcg orally daily</item>
+    <item>If deficient: 1000-mcg orally daily</item>
     <item>In severe deficiency, injections may be recommended.
     </item>
     </list>
@@ -466,7 +467,7 @@
     <list list-type="bulleted" id="list-00043">
     <item>Deficiency interrupts the senses of <term class="no-emphasis" id="term-00132">taste</term> and <term class="no-emphasis" id="term-00133">smell</term>. In older adults, deficiency can cause delays in <term class="no-emphasis" id="term-00134">wound healing</term> and changes in cognitive and psychological function.</item>
     <item>Excessive intake can cause nausea, dizziness, headaches, gastric distress, vomiting, and loss of appetite.</item>
-    <item>Doses of 50 mg or more from supplements or excessive use of <term class="no-emphasis" id="term-00135">denture adhesive</term> creams that contain zinc can interfere with copper absorption (which can cause low copper status), reduce immune function, and lower high-density lipoprotein cholesterol levels.</item>
+    <item>Doses of 50 mg or more from supplements or excessive use of <term class="no-emphasis" id="term-00135">denture adhesive</term> creams containing zinc can interfere with copper absorption reduce immune function, and lower high-density lipoprotein cholesterol levels.</item>
     <item>High doses from supplements (142 mg/day) interfere with magnesium absorption.
     </item>
     </list>
@@ -484,7 +485,9 @@
     <caption>Micronutrients and Neurologic Function (source: National Institutes of Health, 2023a–j)</caption>
     </table>
     <para id="para-00029">Given that nearly 60% of brain tissue is composed of fat and that the omega-3 and <term class="no-emphasis" id="term-00136">omega-6 fatty acids</term> account for 20% of the overall brain weight, it is important to understand the role of fats in brain function at all stages of human life. These fatty acids promote cognition, preservation of neurons, and protection against neurodegeneration. This is because <term class="no-emphasis" id="term-00137">omega-3 fatty acids</term> facilitate production of <term class="no-emphasis" id="term-00138">oxyhemoglobin</term> and <term class="no-emphasis" id="term-00139">hemoglobin</term> in the blood, which improve cerebral circulation and subsequently improve overall mental performance (Dighriri et al., 2022).</para>
-    <para id="para-00030">Another micronutrient group is the <term class="no-emphasis" id="term-00140">polyphenols</term>, which are metabolites of plants. They are potent antioxidants and have long been shown to reduce cardiovascular risk by providing antiplatelet and anti-inflammatory functions. In addition, they may offer some protection from neurodegenerative diseases; recent evidence supports the theory that cognitive decline may be prevented and <term class="no-emphasis" id="term-00141">Alzheimer’s disease</term> may be slowed by the consistent intake of polyphenols (D’Angelo, 2020; Luo et al., 2021). Most plant-based foods contain polyphenols, which can be found in vegetables, fruits, legumes, olive oil, and nuts. Some of the richest sources are colored berries, nuts (especially walnuts, almonds, and hazelnuts), seeds, vegetables, black and green tea, and certain spices. A polyphenol that has received considerable attention over the past decade is curcumin, the root of the turmeric plant (used in many Indian dishes, such as curry), which has shown a dramatic protective effect on the neurologic system. Red wine and dark chocolate have also been shown to contain polyphenols and may be consumed in moderation (Fekete et al., 2023).</para>
+    <para id="para-00030">Another micronutrient group is the <term class="no-emphasis" id="term-00140">polyphenols</term>, which are metabolites of plants. They are potent antioxidants and have long been shown to reduce cardiovascular risk by providing antiplatelet and anti-inflammatory functions. In addition, they may offer some protection from neurodegenerative diseases; recent evidence supports the theory that cognitive decline may be prevented and <term class="no-emphasis" id="term-00141">Alzheimer’s disease</term> may be slowed by the consistent intake of polyphenols (D’Angelo, 2020; Luo et al., 2021). Most plant-based foods contain polyphenols, which can be found in vegetables, fruits, legumes, olive oil, and nuts. Some of the richest sources are colored berries, nuts (especially walnuts, almonds, and hazelnuts), seeds, vegetables, black and green tea, and certain spices. A polyphenol that has received considerable attention over the past decade is curcumin, the root of the turmeric plant (used in many Indian dishes, such as curry), which has shown a dramatic protective effect on the neurologic system. Red wine and dark chocolate have also been shown to contain polyphenols and may be consumed in moderation (Fekete et al., 2023). See <link target-id="fig-00003" document="m00022"/></para>
+    <figure class="scaled-down" id="fig-00003"><media alt="Almonds, green pumpkins seeds (pepitas), beans, and raisins in a glass bowl."><image mime-type="image/jpg" src="../../media/NUT_Figure_05_01_005.jpg"/></media>
+    <caption>Polyphenols, which can be found in foods like almonds and pepitas (pumpkin seeds), may help prevent cognitive decline. (credit: “This image is in a set called the 'Daily Picture Parade'" by Dennis Sylvester Hurd/Flickr, Public Domain)</caption></figure>
     </section>
     <section id="sect-00009">
     <title>Omega-3 Fatty Acids, Protein, and Cholesterol</title>
@@ -499,7 +502,7 @@
     </section>
     <section id="sect-00011">
     <title>Analysis of Nutrition and the Neurologic System</title>
-    <para id="para-00035"><term id="term-00149">Neuroplasticity</term>, or the ability of the nervous system to change its activity in response to intrinsic or extrinsic stimuli by reorganizing its structure, functions, or connections, refers to the brain’s ability to adapt to threats such as brain injury following traumatic or atraumatic injuries and to repair itself. This has led to an increase in studies to explore dietary modifications in neurologic conditions, with a focus on whole foods or food-derivative supplements in the diet.</para>
+    <para id="para-00035"><term id="term-00149">Neuroplasticity</term>, or &#8220;the ability of the nervous system to change its activity in response to intrinsic or extrinsic stimuli by reorganizing its structure, functions, or connections,&#8221; (Mateos-Aparicio &#38; Rodríguez-Moreno, 2019) refers to the brain’s ability to adapt to threats such as brain injury following traumatic or atraumatic injuries and to repair itself. This has led to an increase in studies to explore dietary modifications in neurologic conditions, with a focus on whole foods or food-derivative supplements in the diet.</para>
     <para id="para-00036">Although various diet trends—such as paleo, keto, gluten-free, low-carbohydrate, low-cholesterol, pescatarian, low-fat, and vegan diets—have shown benefits in reducing the development of neurologic conditions, these options are discussed less than 12% of the time with health care professionals (Bhat et al., 2019; Roser et al., 2022). Also, because obesity is not considered a disease, many insurance plans do not cover charges for obesity medications or counseling for clients with a BMI of 30 or greater (Dowis &amp; Banga, 2021; Roser et al., 2022).</para>
     <para id="para-00037">The adequacy and frequency of dietary nutrition can also affect the blood supply to the brain. For example, the sensation of <term class="no-emphasis" id="term-00150">hunger</term> has been shown to increase cerebral blood flow [CBF]) in the hypothalamus, thalamus, amygdala, cerebellum, and other key areas of the brain (Wierenga et al., 2017). Conversely, food intake produces a decrease in CBF in the thalamus, insula, temporal cortex, and cerebellum, but eating causes an increased CBF in the prefrontal cortex, the area that signals satiety of hunger (Wierenga et al., 2017). Some foods have been shown to increase <term class="no-emphasis" id="term-00151">cerebral blood flow</term> in this region, as well as athletic performance, such as beets, red spinach, tart cherries, pomegranate, citrus fruits, walnuts, berries, cinnamon, leafy green vegetables, and other nitrate-rich vegetables (Morris et al., 2018).</para>
     <para id="para-00038">Deficiencies of certain fats or toxic levels of some nutrients have been shown to have negative effects on brain health, and dietary intake of trans fats—found in foods such as margarine, fried foods, and commercially prepared cakes, pies, and cookies. This has been shown to lead to hypertension and, ultimately, to negatively affect brain health (Harlyjoy et al., 2019).</para>
@@ -535,7 +538,7 @@
     </thead>
     <tbody>
     <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00031"><item>Temperature:</item></list></entry>
+<entry valign="top" align="left">Temperature:</entry>
     <entry valign="top" align="left">98.5°F (36.94°C)</entry>
     <entry valign="top" align="left" morerows="7">Jamal had blood work drawn the week prior to this visit:<newline/>
     <list list-type="bulleted" id="list-00046">
@@ -546,31 +549,31 @@
     </entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00045"><item>Blood pressure:</item></list></entry>
+<entry valign="top" align="left">Blood pressure:</entry>
 <entry valign="top" align="left">148/90 mm Hg</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00047"><item>Heart rate:</item></list></entry>
+<entry valign="top" align="left">Heart rate:</entry>
 <entry valign="top" align="left">97 beats/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00048"><item>Respiratory rate:</item></list></entry>
+<entry valign="top" align="left">Respiratory rate:</entry>
 <entry valign="top" align="left">14 breaths/min</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00049"><item>Oxygen saturation:</item></list></entry>
+<entry valign="top" align="left">Oxygen saturation:</entry>
 <entry valign="top" align="left">97% on room air</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00050"><item>Height:</item></list></entry>
+<entry valign="top" align="left">Height:</entry>
 <entry valign="top" align="left">5'9"</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00051"><item>Weight:</item></list></entry>
+<entry valign="top" align="left">Weight:</entry>
 <entry valign="top" align="left">230 lb (104.33 kg)</entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00052"><item>BMI:</item></list></entry>
+<entry valign="top" align="left">BMI:</entry>
 <entry valign="top" align="left">34 (Class 1 obesity)</entry>
 </row>
     </tbody>
