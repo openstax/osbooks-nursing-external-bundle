@@ -55,7 +55,7 @@
     <tbody>
     <row>
     <entry valign="top">1</entry>
-    <entry valign="top">> 90&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">> 90&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00003"><item>Working well.</item>
     <item>Client is unaware of deficiencies.</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00004"><item>Increase water intake.</item></list></entry>
@@ -63,7 +63,7 @@
     </row>
     <row>
     <entry valign="top">2</entry>
-    <entry valign="top">60–89&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">60–89&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00006"><item>Still functioning.</item>
     <item>Client may be asymptomatic or show signs of hypertension.</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00007"><item>High water intake.</item></list></entry>
@@ -72,7 +72,7 @@
     </row>
     <row>
     <entry valign="top">3A</entry>
-    <entry valign="top">45–59&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">45–59&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00009"><item>Decrease in function, with kidneys starting to decline.</item>
     <item>Client will have hypertension.</item>
     <item>Client may have anemia, fatigue, anorexia, malnutrition, and bone pain.</item></list></entry>
@@ -83,14 +83,14 @@
     </row>
     <row>
     <entry valign="top">3B</entry>
-    <entry valign="top">30–44&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">30–44&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"/>
     <entry valign="top"/>
     <entry valign="top"/>
     </row>
     <row>
     <entry valign="top">4</entry>
-    <entry valign="top">15–29&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">15–29&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00012"><item>Severe decline in kidney function; may need dialysis.</item>
     <item>Client will have hypertension, anemia, malnutrition, altered bone metabolism, edema, metabolic acidosis, hypocalcemia, an elevated BUN and creatinine. Client may have uremia and azotemia.</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00013"><item>Restrict fluids.</item></list></entry>
@@ -101,7 +101,7 @@
     </row>
     <row>
     <entry valign="top">5</entry>
-    <entry valign="top">&lt; 15&#160;mL/min/1.73 m<sup>2</sup></entry>
+    <entry valign="top">&lt; 15&#160;mL/<newline/>min/1.73 m<sup>2</sup></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00015"><item>End-stage renal disease (ESRD)</item>
     <item>Client will have complete kidney failure in which all other symptoms are present and worsened.</item>
     <item>Client will have azotemia with overt uremia and require dialysis or renal transplantation to survive.</item></list></entry>
