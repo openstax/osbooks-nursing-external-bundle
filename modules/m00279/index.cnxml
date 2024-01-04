@@ -15,8 +15,6 @@
 <item>Explain hemodynamics</item>
 </list>
 </section>
-<section id="sect-00005">
-<title/>
 <section id="sect-00002">
 <title>An Introduction to the Pumping Action of the Heart</title>
 <para id="para-00002">The heart pumps in a complex and coordinated cycle to move blood between the chambers of the heart, the lungs, and the associated blood vessels.</para>
@@ -55,11 +53,10 @@
 <para id="para-00010"><m:math><m:mi>Mean</m:mi><m:mo> </m:mo><m:mi>Arterial</m:mi><m:mo> </m:mo><m:mi>Pressure</m:mi><m:mo>=</m:mo><m:mi>Cardiac</m:mi><m:mo> </m:mo><m:mi>Output</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>Systemic</m:mi><m:mo> </m:mo><m:mi>Vascular</m:mi><m:mo> </m:mo><m:mi>Resistance</m:mi></m:math></para>
 <para id="para-00011">As shown by this formula, cardiac output contributes to the mean arterial pressure. Cardiac output is dependent on the heart rate (the number of times the ventricle contracts per unit of time) and stroke volume (the volume of blood ejected with each contraction). The stroke volume (and thus cardiac output) is dependent on multiple variables:</para>
 <list list-type="bulleted" id="list-00003">
-<item><term id="term-00005">Preload</term>: This is the volume of blood that fills the left ventricle at the end of diastole. A higher preload leads to a higher stroke volume. Preload is sometimes referred to as left ventricular end diastolic volume or measured by left ventricular end diastolic pressure, because pressure and volume correlate. Preload is dependent on the volume of circulating blood and the degree of venous vasoconstriction. A higher circulating blood volume or less venous vasoconstriction increases preload. Diuretics are drugs which decrease circulating blood volume, thus decreasing preload.</item>
+<item><term id="term-00005">Preload</term>: This is the volume of blood that fills the left ventricle at the end of diastole. A higher preload leads to a higher stroke volume. Preload is sometimes referred to as left ventricular end diastolic volume or measured by left ventricular end diastolic pressure because pressure and volume correlate. Preload is dependent on the volume of circulating blood and the degree of venous vasoconstriction. A higher circulating blood volume or less venous vasoconstriction increases preload. Diuretics are drugs that decrease circulating blood volume, thus decreasing preload.</item>
 <item><term id="term-00006">Afterload</term>: This is the amount of systemic pressure the heart must overcome to eject blood during systole. Higher afterload decreases stroke volume. Drugs that decrease systemic vascular resistance, such as antihypertensive medications, decrease afterload.</item>
 <item><term id="term-00007">Contractility</term>: Cardiac contractility refers to the strength of the force of left ventricular contraction. Increased activation of the sympathetic nervous system increases cardiac contractility via the actions of epinephrine and norepinephrine. Ischemia can decrease cardiac contractility. Increased calcium levels can increase cardiac contractility. Various drugs can affect myocardial contractility. A class of drugs called inotropes increase cardiac contractility. Some drugs can actually decrease cardiac contractility as a side effect.</item>
 </list>
-</section>
 </section>
 </content>
 <glossary>
