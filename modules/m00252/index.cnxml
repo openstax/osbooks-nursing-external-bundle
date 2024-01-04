@@ -16,18 +16,17 @@
     <item>Explain the client education related to hormonal therapy drugs used to treat cancer.</item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+        <section id="sect-00003">
     <title>Antiestrogen Medications</title>
     <para id="para-00002">Antiestrogens, or estrogen antagonists, are a group of medications used to block estrogen receptors. By blocking these receptors, cancer cells that require estrogen for growth are no longer able to undergo mitosis and cannot cause tumor development. These drugs are classified as hormonal therapies, as they block the influence of the hormone estrogen. They are primarily used for breast cancer; however, antiestrogens are only effective in breast cancers that are hormone-receptor positive. Tamoxifen and fulvestrant are two commonly used antiestrogens used for breast cancer. Tamoxifen is an oral medication that is given for approximately 5 years after breast cancer treatment. Fulvestrant, given intramuscularly, and elacestrant, a newer oral medication approved in 2023, are selective estrogen downregulators (SERD) that block estrogen receptors.</para>
     </section>
     <section id="sect-00004">
     <title>Aromatase Inhibitors</title>
-    <para id="para-00003">Aromatase inhibitors are another classification of hormonal therapy used to treat breast cancer treatment in postmenopausal clients. Aromatase is an enzyme found in fatty tissue that converts hormones into estrogen. Aromatase inhibitors, including anastrozole and exemestane, stop the production of estrogen and thus the growth of estrogen receptor-positive tumors by blocking aromatase. These medications are taken daily as an oral tablet. Aromatase inhibitors may be prescribed for clients who are not good candidates for antiestrogens. Aromatase inhibitors may cause symptoms of menopause and muscle and joint pain, which may limit use if clients are not able to tolerate side effects. These drugs may also put clients at higher risk of osteoporosis (DailyMed, <emphasis effect="italics">Anastrozole</emphasis>, 2023).</para>
+    <para id="para-00003">Aromatase inhibitors are another classification of <term id="term-00016">hormonal therapy</term> used to treat breast cancer in postmenopausal clients. Aromatase is an enzyme found in fatty tissue that converts hormones into estrogen. Aromatase inhibitors, including anastrozole and exemestane, stop the production of estrogen and thus the growth of estrogen receptor–positive tumors by blocking aromatase. These medications are taken daily as an oral tablet. Aromatase inhibitors may be prescribed for clients who are not good candidates for antiestrogens. Aromatase inhibitors may cause symptoms of menopause and muscle and joint pain, which may limit use if clients are not able to tolerate side effects. These drugs may also put clients at higher risk of osteoporosis (DailyMed, <emphasis effect="italics">Anastrozole</emphasis>, 2023).</para>
     </section>
     <section id="sect-00005">
     <title>Antiandrogens</title>
-    <para id="para-00004">Antiandrogens, also known as androgen inhibitors or testosterone blockers, are hormonal therapies used to treat prostate cancer. These drugs block androgen receptors, so that cancers that rely on testosterone and other hormones to grow cannot survive. These drugs may induce a reduction in masculine characteristics such as hair growth and erectile dysfunction. Drugs in this class include flutamide and bicalutamide. They are given by the oral route, daily. Liver enzymes must be periodically evaluated during therapy, as these drugs are hepatotoxic.</para>
+    <para id="para-00004">Antiandrogens, also known as androgen inhibitors or testosterone blockers, are hormonal therapies used to treat prostate cancer. These drugs block androgen receptors so that cancers that rely on testosterone and other hormones to grow cannot survive. These drugs may induce a reduction in masculine characteristics such as hair growth and erectile dysfunction. Drugs in this class include flutamide and bicalutamide. They are given by the oral route daily. Liver enzymes must be periodically evaluated during therapy, as these drugs are hepatotoxic.</para>
     <para id="para-00005"><link target-id="table-00001" document="m00252"/> lists common hormonal therapies and typical routes and dosing for adult clients.</para>
     <table class="vertically-tight" id="table-00001">
     <tgroup cols="2">
@@ -41,12 +40,12 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00001">Antiestrogens</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00001">Antiestrogens</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Tamoxifen</term><newline/>
     (<term class="no-emphasis" id="term-00003">Nolvadex</term>)</entry>
-    <entry valign="middle" align="left">20-40 mg/day orally for up to 5 years.</entry>
+    <entry valign="middle" align="left">20–40 mg/day orally for up to 5 years.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Fulvestrant</term><newline/>
@@ -54,7 +53,7 @@
     <entry valign="middle" align="left">500 mg intramuscularly divided into 2 injections, given initially on days 1, 15, and 29, and then monthly thereafter.</entry>
     </row>
     <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00006">Aromatase Inhibitors</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00006">Aromatase Inhibitors</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Anastrozole</term><newline/>
@@ -67,7 +66,7 @@
     <entry valign="middle" align="left">25 mg orally daily after a meal.</entry>
     </row>
     <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00011">Antiandrogens</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00011">Antiandrogens</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Flutamide</term><newline/>
@@ -81,7 +80,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Drug Emphasis Table: Hormonal Therapies (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Hormonal Therapies</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00006">
@@ -136,12 +135,12 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Drug Prototype Table: Tamoxifen (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Prototype Table: Tamoxifen</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00007">
     <title>Nursing Implications</title>
-    <para id="para-00008">The nurse should do the following for clients who are receiving hormonal agents:</para>
+    <para id="para-00008">The nurse should do the following for clients who are taking hormonal agents:</para>
     <list list-type="bulleted" id="list-00002">
     <item>Assess client overall well-being prior to administration, including vital signs, weight, fatigue, bone pain, and neurovascular status.</item>
     <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, liver enzymes, and bone scans.</item>
@@ -149,7 +148,7 @@
     <item>Recognize and manage emergent situations such as hypersensitivity reactions.</item>
     <item>Assess for and provide supportive therapies as needed.</item>
     <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
     </list>
     <note class="client-teaching" id="note-00001">
     <para id="para-00009"><emphasis effect="bold">The client taking a hormonal agent should:</emphasis></para>
@@ -163,7 +162,7 @@
     <para id="para-00010"><emphasis effect="bold">The client taking a hormonal agent <emphasis effect="italics">should not:</emphasis></emphasis></para>
     <list list-type="bulleted" id="list-00004">
     <item>Be around others who are ill or who have received live vaccines within 3 months.</item>
-    <item>Garden without the use of gloves to protect hands from direct contact with the soil which contains bacteria and mold.</item>
+    <item>Garden without the use of gloves to protect hands from direct contact with the soil, which contains bacteria and mold.</item>
     <item>Clean feline litter boxes to avoid contact with bacteria.</item>
     <item>Take vaccines without consulting with their health care provider.</item>
     <item>Consume uncooked meats and wild game such as deer, rabbits, and pheasants.</item>
@@ -184,7 +183,6 @@
     <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00017"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec2_UCSQ3"/></para></problem></exercise>
     <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00018"><link class="os-embed" url="#exercise/PHAR_Ch08_Sec3_UCSQ4"/></para></problem></exercise>
     </note>
-    </section>
-    </section>
+       </section>
     </content>
 </document>

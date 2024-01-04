@@ -16,8 +16,7 @@
     <item>Explain the client education related to biologic response modifier drugs used to treat cancer.</item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+     <section id="sect-00003">
     <title><term class="no-emphasis" id="term-00001">Monoclonal Antibodies</term> and PD-1 Inhibitors</title>
     <para id="para-00002">Cancer therapy has experienced an explosion of new treatments with the development of biologics. Monoclonal antibodies are a type of biologic response modifier used to treat autoimmune diseases as well as various cancer types. Rituximab is a monoclonal antibody that enables the immune system to better recognize and destroy cancer cells. These drugs pose a high risk of sensitivity reactions that include chills, fever, and anaphylaxis. Clients must be premedicated with diphenhydramine and acetaminophen to prevent or decrease risks for hypersensitivity reactions.</para>
     <para id="para-00003">The newest approved class of monoclonal antibodies is PD-1 inhibitors. These drugs inhibit PD-1 proteins on T lymphocytes. When these proteins are blocked, the T lymphocytes are able to identify cancer cells and kill them more easily. Because these drugs increase the activity of T lymphocytes, a side effect of these drugs is possible development of autoimmune syndromes. Clients receiving these drugs must be carefully monitored throughout intravenous infusions for possible hypersensitivity reactions.</para>
@@ -38,7 +37,7 @@
           </thead>
           <tbody>
           <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00002">PD-1 Inhibitors</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00002">PD-1 Inhibitors</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Pembrolizumab</term><newline/>
@@ -62,7 +61,7 @@
     <entry valign="middle" align="left">840 mg IV every 2 weeks or 1200 mg every 3 weeks or 1680 mg every 4 weeks.</entry>
     </row>
     <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00011">Biologic Response Modifiers</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00011">Biologic Response Modifiers</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Rituximab</term><newline/>
@@ -70,7 +69,7 @@
     <entry valign="middle" align="left">375–500 mg/m<sup>2</sup> IV; frequency varies by cancer type (premedicate per protocol).</entry>
     </row>
     <row>
-    <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00014">Tyrosine Factor/Growth Factor Inhibitors</term></span></entry>
+    <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00014">Tyrosine Factor/Growth Factor Inhibitors</term></span></emphasis></entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Erlotinib</term><newline/>
@@ -84,12 +83,12 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Drug Emphasis Table: Biologics and Biologic Response Modifiers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Biologics and Biologic Response Modifiers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00005">
     <title>Adverse Effects and Contraindications</title>
-    <para id="para-00006">One of the most critical adverse reactions of biologic therapy is hypersensitivity reactions. These may occur suddenly, especially during the initial treatment, and may be severe and life threatening. Any premedication must be given, and emergency drugs such as epinephrine should be available. Biologic therapies are also associated with skin reactions that may be severe. Erlotinib has been shown to cause renal dysfunction, arrhythmias, hepatotoxicity, and gastrointestinal perforation. Clients may also develop widespread, severe acneiform rashes. In addition to severe hypersensitivity reactions, rituximab is also associated with cardiotoxicity, nephrotoxicity, leukoencephalopathy, bowel obstruction or perforation, tumor lysis syndrome, neutropenia, and infection.</para>
+    <para id="para-00006">One of the most critical adverse reactions of biologic therapy is hypersensitivity reactions. These may occur suddenly, especially during the initial treatment, and may be severe and life-threatening. Any premedication must be given, and emergency drugs such as epinephrine should be available. Biologic therapies are also associated with skin reactions that may be severe. Erlotinib has been shown to cause renal dysfunction, arrhythmias, hepatotoxicity, and gastrointestinal perforation. Clients may also develop widespread, severe acneiform rashes. In addition to severe hypersensitivity reactions, rituximab is also associated with cardiotoxicity, nephrotoxicity, leukoencephalopathy, bowel obstruction or perforation, tumor lysis syndrome, neutropenia, and infection.</para>
     <para id="para-00007"><link target-id="table-00002" document="m00253"/> is a drug prototype chart for biologic response modifiers featuring pembrolizumab. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00002">
     <tgroup cols="2">
@@ -101,7 +100,7 @@
     <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
     Biologic response modifier, PD-1 inhibitor<newline count="2"/>
     <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits PD-1 to increase T-lymphocyte activity</entry>
+    Inhibits PD-1 to increase T lymphocyte activity</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
     200–400 mg/dose IV every 3 weeks or every 6 weeks per protocol.</entry></row>
@@ -148,14 +147,14 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Drug Prototype Table: Pembrolizumab (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Prototype Table: Pembrolizumab</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00006">
     <title>Nursing Implications</title>
-    <para id="para-00008">The nurse should do the following for clients who are receiving biologic and biologic response modifying agents:</para>
+    <para id="para-00008">The nurse should do the following for clients who are taking biologic and biologic response modifying agents:</para>
     <list list-type="bulleted" id="list-00002">
-    <item>Assess client overall well-being prior chemotherapy administration including vital signs, hydration status, oral mucosa, skin, weight, cardiac function, bowel pain, level of consciousness changes, and signs of neuropathy.</item>
+    <item>Assess client overall well-being prior to chemotherapy administration including vital signs, hydration status, oral mucosa, skin, weight, cardiac function, bowel pain, level of consciousness changes, and signs of neuropathy.</item>
     <item>Review laboratory values thoroughly, including complete blood counts, electrolyte profiles, serum creatinine, and liver enzymes.</item>
     <item>Observe clients for adverse effects before, during, and after treatment.</item>
     <item>Ensure patency of intravenous access sites and monitor these frequently during drug administration.</item>
@@ -164,14 +163,14 @@
     <item>Recognize and manage emergent situations such as hypersensitivity reactions.</item>
     <item>Assess for and provide supportive therapies as needed.</item>
     <item>Provide for educational, spiritual, and psychosocial needs of the client and caregivers.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for additional client teaching guidelines.</item>
+    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
     </list>
     <note class="client-teaching" id="note-00001">
     <para id="para-00009"><emphasis effect="bold">The client taking a biologic or biologic response modifying agent should:</emphasis></para>
     <list list-type="bulleted" id="list-00003">
     <item>Know signs and symptoms to report to the health care provider: fever, chills, productive cough, urinary symptoms, skin reactions, chest pain, confusion, and level of consciousness changes.</item>
     <item>Report side effects including nausea and vomiting and skin reactions.</item>
-    <item>Know how to care of long-term intravenous accesses at home.</item>
+    <item>Know how to care for long-term intravenous accesses at home.</item>
     <item>Understand the need for frequent follow-up and laboratory tests.</item>
     <item>Know which drug/food interactions to avoid.</item>
     <item>Understand the need for regular follow-up for early identification of long-term effects and secondary malignancies. 
@@ -187,8 +186,7 @@
     <para id="para-00011"><emphasis effect="bold">Rituximab</emphasis></para>
     <para id="para-00012">Rituximab may cause fatal infusion-related reactions, most often with the initial treatment. Mucocutaneous reactions, reactivation of hepatitis B, and progressive multifocal leukoencephalopathy have also been associated with rituximab.</para>
     </note>
-    </section>
-    </section>
+        </section>
     <section class="chapter-summary" id="sect-00007">
     <para id="para-00013">This chapter discussed the causes and development of cancer based on different theories of mutational changes. These changes included the influences of stress, genetics, and environmental exposures as causes of cancer formation. The chapter also covered how chemotherapy works and the effects that chemotherapy has on both normal and abnormal cells. A summary of different major classes of chemotherapy and individual agents was included. Considerations for both safely providing chemotherapy and monitoring clients for adverse effects were discussed. Supportive therapies necessary when administering chemotherapeutic agents were also included.</para>
     </section>
@@ -229,8 +227,8 @@
     <para id="para-00044">DailyMed. (Updated January 27, 2020). <emphasis effect="italics">Diphenhydramine-diphenhydramine hydrochloride capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef6b86cc-bfc5-4e74-a806-33de9a68ce45</para>
     <para id="para-00045">DailyMed. (Updated November 11, 2019). <emphasis effect="italics">Diphenhydramine-diphenhydramine hydrochloride injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=921b9f64-1096-46db-866a-67f0f9ff6790</para>
     <para id="para-00046">DailyMed. (Updated March 19, 2021). <emphasis effect="italics">Docetaxel anhydrous injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9cd030b6-f98d-451e-93cb-0a998f4c6012</para>
-    <para id="para-00047">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Doxorubicin Hydrochloride–doxorubicin hydrochloride injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e0349f98-42fa-4003-b6d8-a1db1401b0ef</para>
-    <para id="para-00048">DailyMed. (Updated Jun 16, 2023). <emphasis effect="italics">Durvalumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3</para>
+    <para id="para-00047">DailyMed. (Updated December 31, 2019). <emphasis effect="italics">Doxorubicin hydrochloride–doxorubicin hydrochloride injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e0349f98-42fa-4003-b6d8-a1db1401b0ef</para>
+    <para id="para-00048">DailyMed. (Updated June 16, 2023). <emphasis effect="italics">Durvalumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3</para>
     <para id="para-00049">DailyMed. (Updated January 14, 2021). <emphasis effect="italics">Epirubicin hydrochloride injection.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab115cc4-43cd-4a59-aa01-89e356ce3a08</para>
     <para id="para-00050">DailyMed. (Updated July 25, 2018). <emphasis effect="italics">Epogen–epoetin alfa solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5</para>
     <para id="para-00051">DailyMed. (Updated June 2, 2022). <emphasis effect="italics">Etoposide injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe870629-104d-4d67-a7c6-f53bc588121e</para>
