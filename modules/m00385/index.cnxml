@@ -32,7 +32,7 @@
           <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00001">Cholestyramine</term><newline/>
     (<term class="no-emphasis" id="term-00002">Questran</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia:</emphasis> Initiate at 4 g orally 1–2 times/day; increase gradually to 8–16 g orally in 2 divided doses; maximum dose 24 g/day.</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia:</emphasis> Initiate at 4 g orally 1–2 times daily; increase gradually to 8–16 g orally in 2 divided doses; maximum dose 24 g/day.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Cholesevelam</term><newline/>
@@ -53,18 +53,17 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Gemfibrozil</term><newline/>
     (<term class="no-emphasis" id="term-00010">Lopid</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Hypertriglyceridemia:</emphasis> 1,200 mg administered orally in 2 divided doses 30 min before the morning and evening meals.</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hypertriglyceridemia:</emphasis> 1200 mg administered orally in 2 divided doses 30 min before the morning and evening meals.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Niacin</term></entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia or hypertriglyceridemia (niacin extended-release prescription product):</emphasis> Initial dose 500 mg orally at bedtime after a low-fat snack; increase by no more than 500 mg in any 4-week period; maintenance dose is 1,000–2,000 mg once daily at bedtime.</entry>
+    <entry valign="middle" align="left"><emphasis effect="italics">Hyperlipidemia or hypertriglyceridemia (niacin extended-release prescription product):</emphasis> Initial dose 500 mg orally at bedtime after a low-fat snack; increase by no more than 500 mg in any 4-week period; maintenance dose is 1000–2000 mg once daily at bedtime.</entry>
     </row>
           </tbody>
          </tgroup>
-    <caption>Drug Emphasis Table: Bile Acid Sequestrants, Fibrates, and Niacin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Emphasis Table: Bile Acid Sequestrants, Fibrates, and Niacin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
-    <section id="sect-00002">
-    <section id="sect-00003">
+      <section id="sect-00003">
     <title>Bile Acid Sequestrants</title>
     <para id="para-00003"><term class="no-emphasis" id="term-00012">Bile acid sequestrants</term> are a class of drugs that lower cholesterol. Bile acids are made from cholesterol and are released from the small intestine to aid in fat digestion after the individual consumes food. The majority of bile acids are reabsorbed back into the body after use. Bile acid sequestrants work by binding to bile acids in the intestine, which reduces their absorption and decreases the amount of bile acids available in the body. The body compensates for this by producing more bile acids from cholesterol, effectively decreasing the amount of cholesterol that remains.</para>
     <para id="para-00004">Bile acid sequestrants are often used as second-line therapy for hypercholesterolemia if clients do not achieve sufficient goals using first-line therapy or if they are intolerant to first-line therapy. Bile acid sequestrants can be expected to lower the LDL-cholesterol levels by 15%–30% (Grundy et al., 2019). Response to therapy is monitored by obtaining LDL-cholesterol levels. These drugs are orally administered and are not absorbed into the systemic circulation; therefore, they are best taken with meals so that they will encounter the bile acids upon secretion. However, their use is limited by frequency of dosing, an unfavorable gastrointestinal adverse effect profile, and their propensity for interaction with other drugs, which necessitates coordination of administration. Also, outcomes data in cardiovascular disease are lacking when used in combination with statins, the first-line therapy for hypercholesterolemia and cardiovascular risk reduction.</para>
@@ -73,15 +72,15 @@
     <table class="vertically-tight alternate-shading" id="table-00002">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
+    <colspec colnum="4" colname="c4" colwidth="2*"/>
     <thead>
     <row>
-    <entry valign="middle" align="center"><span class="blue-text">Drug</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">FDA-Approved Indications</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">Available Dosage Forms</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">Special Administration Instructions</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Drug</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">FDA-Approved Indications</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Available Dosage Forms</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Special Administration Instructions</span></entry>
     </row>
     </thead>
     <tbody>
@@ -106,7 +105,7 @@
     <entry valign="top" align="left"><emphasis effect="italics">Oral powder:</emphasis><newline/>
     <list list-type="bulleted" id="list-00007">
     <item>Should not be taken in dry form.</item>
-    <item>Mix contents of one packet with 1 cup of water, fruit juice, or diet soft drink. Stir well and drink.</item>
+    <item>Mix contents of 1 packet with 1 cup of water, fruit juice, or diet soft drink. Stir well and drink.</item>
     </list></entry>
     </row>
     <row>
@@ -124,7 +123,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Comparison of Bile Acid Sequestrants (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Comparison of Bile Acid Sequestrants</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00004">
@@ -132,7 +131,7 @@
     <para id="para-00006"><term class="no-emphasis" id="term-00017">Fibrates</term> are a group of oral drugs that are used primarily to treat hypertriglyceridemia. They include fenofibric acid, fenofibrate, and gemfibrozil. They work by activating peroxisome proliferator-activated receptors. The primary result of this activation is lower triglyceride levels via increased expression of lipoprotein lipase, an enzyme that breaks down triglycerides. Fibrates also lead to increased HDL-cholesterol and mildly lower LDL-cholesterol levels; however, they are not typically recommended for those uses (Grundy et al., 2019). Adverse effects of fibrates include increased serum transaminase, creatine phosphokinase (CPK), and creatinine levels; myopathy; cholelithiasis; and venous thrombosis.</para>
     <section id="sect-00005">
     <title>Fenofibric Acid Derivatives</title>
-    <para id="para-00007"><term class="no-emphasis" id="term-00018">Fenofibric acid</term> is an active drug that directly stimulates peroxisome proliferator-activated receptors as described above. It is available in the active form under the brand name Fibricor and as generic drugs. An inactive form called fenofibrate is also available; this form converts to fenofibric acid in the body after ingestion. Some of the available dosage forms of fenofibrate are Antara, Lipofen, Fenoglide, Tricor, Trilipix (choline fenofibrate), and their respective generic formulations. The various fenofibrate dosage forms are not bioequivalent and cannot be substituted for each other or for fenofibric acid on a milligram per milligram basis; they use different types of medication delivery technology to ensure absorption, including micronized particles, nanocrystals, and different salt forms.</para>
+    <para id="para-00007"><term class="no-emphasis" id="term-00018">Fenofibric acid</term> is an active drug that directly stimulates peroxisome proliferator-activated receptors as described above. It is available in the active form under the brand name Fibricor and as generic drugs. An inactive form called fenofibrate is also available; this form converts to fenofibric acid in the body after ingestion. Some of the available dosage forms of fenofibrate are Antara, Lipofen, Fenoglide, Tricor, Trilipix (choline fenofibrate), and their respective generic formulations. The various fenofibrate dosage forms are not bioequivalent and cannot be substituted for each other or for fenofibric acid on a milligram-per-milligram basis; they use different types of medication delivery technology to ensure absorption, including micronized particles, nanocrystals, and different salt forms.</para>
     <para id="para-00008"><link target-id="table-00003" document="m00385"/> is a drug prototype table for fenofibric acid derivatives featuring fenofibrate. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     
     <table class="vertically-tight" id="table-00003">
@@ -185,7 +184,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Drug Prototype Table: <term class="no-emphasis" id="term-00019">Fenofibrate</term> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Prototype Table: <term class="no-emphasis" id="term-00019">Fenofibrate</term></emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     <section id="sect-00006">
@@ -195,7 +194,7 @@
     
     <note class="safety-alert" id="note-00001">
     <title>Gemfibrozil</title>
-    <para id="para-00011">The nurse should clarify any medication orders that use abbreviations. For example, <term class="no-emphasis" id="term-00021">gemfibrozil</term> could be abbreviated as “gem.” This could be confused with <term class="no-emphasis" id="term-00022">gemcitabine</term>, a chemotherapy agent, with severe consequences. <link url="https://openstax.org/r/ismporgres">Learn more about error-prone abbreviations</link> like this one by visiting the website of the <term class="no-emphasis" id="term-00023">Institute of Safe Medication Practices</term>.</para>
+    <para id="para-00011">The nurse should clarify any medication orders that use abbreviations. For example, gemfibrozil could be abbreviated as “gem.” This could be confused with <term class="no-emphasis" id="term-00022">gemcitabine</term>, a chemotherapy agent, with severe consequences. <link url="https://openstax.org/r/ismporgres">Learn more about error-prone abbreviations</link> like this one by visiting the website of the <term class="no-emphasis" id="term-00023">Institute of Safe Medication Practices</term>.</para>
     </note>
     </section>
     </section>
@@ -257,7 +256,6 @@
     <item>Avoid hot drinks and alcoholic beverages around the time of administration to minimize flushing.</item>
     </list>
     </note>
-    </section>
-    </section>
+        </section>
     </content>
 </document>

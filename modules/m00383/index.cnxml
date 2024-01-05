@@ -14,14 +14,13 @@
     <item>Discuss the role of lipids as a risk factor for coronary artery disease. </item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+      <section id="sect-00003">
     <title>Understanding Lipids</title>
     <para id="para-00002"><term id="term-00001">Triglycerides</term> are the main dietary source of fat. They are composed of three long fatty acid chains attached to a glycerol backbone, as depicted in <link target-id="fig-00001" document="m00383"/>. The major sterol in the body is cholesterol. <term id="term-00002">Cholesterol</term> is important for the structure of cell membranes and for the production of hormones, bile acids, and vitamin D.</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="A diagram shows how triglycerides are a combination of glycerol and fatty acids. The molecular chain is shown for glycerol, fatty acids, and triglycerides.">
     <image mime-type="image/jpeg" src="../../media/PHA_Figure_21_01_002.png"/></media>
-    <caption>Triglycerides are composed of a glycerol backbone attached to three fatty acid chains. The fatty acids can be stored and released later for energy (credit: modification of work from <emphasis effect="italics">Biology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <caption>Triglycerides are composed of a glycerol backbone attached to three fatty acid chains. The fatty acids can be stored and released later for energy. (credit: modification of work from <emphasis effect="italics">Biology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     <para id="para-00003"><term id="term-00003">Dyslipidemia</term> is the general term to describe abnormal lipid levels or an imbalance of lipids in the blood. <term id="term-00004">Hyperlipidemia</term> refers to excessive serum levels of lipids. It can be categorized as <term id="term-00005">hypertriglyceridemia</term> (excessive triglycerides in the blood) or <term id="term-00006">hypercholesterolemia</term> (excessive cholesterol in the blood). Hypercholesterolemia is extremely prevalent, affecting 11.5%–38.1% of adults in the United States (Centers for Disease Control and Prevention, 2023b; Tsao et al., 2022). Many individuals with hypercholesterolemia have no symptoms; the diagnosis is made by monitoring their lipid panel. <term id="term-00007">Familial hypercholesterolemia</term> is a genetic disorder that manifests as very high cholesterol levels that can cause early cardiovascular disease. People with familial hypercholesterolemia can have one or two copies of the gene for familial hypercholesterolemia. Clients with one copy of the gene have heterozygous familial hypercholesterolemia, which is a mild form of the disease. Clients with two copies of the gene have homozygous familial hypercholesterolemia. This is a much more severe form of the disease and manifests during childhood. Some of the signs and symptoms of familial hypercholesterolemia are bumps or lumps around the knees, knuckles, or elbows; swollen or painful Achilles tendon; yellowish areas around the eyes; and a whitish-gray color in the shape of a half-moon on the outer edge of the cornea, which are lipid deposits called arcus senilis (Centers for Disease Control and Prevention, 2020).</para>
     <note class="link-to-learning" id="note-00001">
       <title>Cholesterol and Triglycerides</title>
@@ -44,14 +43,14 @@
     <para id="para-00008"><m:math><m:mtext>LDL&#160;Cholesterol</m:mtext> <m:mo>=</m:mo> <m:mtext>Total&#160;Cholesterol</m:mtext> <m:mo>-</m:mo> <m:mtext>HDL&#160;Cholesterol</m:mtext> <m:mo>-</m:mo> <m:mrow><m:mfrac><m:mtext>Triglygerides</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
         <para id="para-00009">Optimal levels of cholesterol are subject to debate and depend on individual characteristics and cardiovascular risk. However, generally accepted optimal cholesterol levels are shown in <link target-id="table-00001" document="m00383"/>.</para>
     
-    <table class="vertically-tight alternate-shading" id="table-00001">
+    <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="middle" align="center"><span class="blue-text">Lipid</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">Optimal Level</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Lipid</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Optimal Level</span></entry>
     </row>
     </thead>
     <tbody>
@@ -73,7 +72,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Optimal Cholesterol Levels (source: Centers for Disease Control and Prevention, 2023a)</caption>
+    <caption><emphasis effect="bold">Optimal Cholesterol Levels</emphasis> (source: Centers for Disease Control and Prevention, 2023a)</caption>
     </table>
     </section>
     <section id="sect-00005">
@@ -93,7 +92,7 @@
     <para id="para-00014">This interactive slide presentation from the American Heart Association introduces the role of cholesterol in the <link url="https://openstax.org/r/watchlearnli">pathophysiology of CAD</link>.</para>
     </note>
     <para id="para-00015">Because of this pathophysiology, hypercholesterolemia due to elevated LDL-cholesterol is an independent risk factor for heart disease. Lipid-lowering therapy that targets LDL-cholesterol is used to decrease the risk for CAD. The optimal target levels for LDL-cholesterol and specific treatment strategies recommended in national guidelines have changed over the last 15 years and continue to evolve; however, the role of LDL-cholesterol as an independent risk factor has not changed.</para>
-    <para id="para-00016">Although triglycerides have been implicated in the development of atherosclerosis, treatment has not resulted in positive cardiovascular outcomes. Therefore, hypertriglyceridemia is generally not treated unless it is very severe. (greater than 500 mg/dL), which can put the individual at risk for pancreatitis.</para>
+    <para id="para-00016">Although triglycerides have been implicated in the development of atherosclerosis, treatment has not resulted in positive cardiovascular outcomes. Therefore, hypertriglyceridemia is generally not treated unless it is very severe (greater than 500 mg/dL), which can put the individual at risk for pancreatitis.</para>
     <para id="para-00017">HDL-cholesterol actually has a protective role against cardiovascular disease, and higher levels (<link target-id="table-00001" document="m00383"/>) are considered beneficial.</para>
     <note class="link-to-learning" id="note-00004">
     <title>Cholesterol Guidelines</title>
@@ -112,9 +111,9 @@
         <colspec colnum="3" colname="c3" colwidth="1*"/>
        <thead>   
       <row>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Primary Target to Decrease*</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Classes or Drugs</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Mechanism</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Primary Target to Decrease*</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Classes or Drugs</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Mechanism</span></emphasis></entry>
       </row>
        </thead>
        <tbody>
@@ -143,13 +142,13 @@
     <entry valign="top">Stimulate triglyceride breakdown</entry>
     </row>
     <row>
-    <entry valign="top"><term class="no-emphasis" id="term-00032">Niacin</term></entry>
+    <entry valign="top">Niacin</entry>
     <entry valign="top">Multiple actions; not well understood</entry>
     </row>
     <row>
     <entry valign="top"><term class="no-emphasis" id="term-00033">Omega-3 fatty acids</term><newline/>
     <term class="no-emphasis" id="term-00034">Icosapent ethyl</term></entry>
-    <entry valign="top">Reduce hepatic production of VLDL</entry>
+    <entry valign="top">Thought to reduce hepatic production of VLDL</entry>
     </row>
     <row>
     <entry valign="top"><term class="no-emphasis" id="term-00035">Bile acid sequestrants</term></entry>
@@ -157,7 +156,7 @@
     </row>
     </tbody>
       </tgroup>
-    <caption>Summary of Lipid-Lowering Drugs (*Only the primary target is shown; other effects on lipid parameters are not listed) (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Summary of Lipid-Lowering Drugs</emphasis> (*Only the primary target is shown; other effects on lipid parameters are not listed.) (source: Bornfeldt, 2021; https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     
     
@@ -182,8 +181,7 @@
     </list>
     <para id="para-00023">(sources: American Heart Association, 2020; Centers for Disease Control and Prevention, 2023b, 2023c; Grundy et al., 2019)</para>
     </note>
-    </section>
-    </section>
+  </section>
     </content>
     <glossary>
     <definition id="def-00001"><term>atherosclerosis</term> <meaning>formation of fatty material called plaques on inner arterial walls</meaning></definition>
