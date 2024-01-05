@@ -15,17 +15,16 @@
 <item>Describe nursing implications of drugs affecting the renin-angiotensin-aldosterone system that are used to treat heart failure.</item>
 <item>Explain the client education related to drugs affecting the renin-angiotensin-aldosterone system that are used to treat heart failure.</item></list>
 </section>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Angiotensin-Converting (ACE) Enzyme Inhibitors</title>
 <para id="para-00002">As mentioned in <link document="m00313">Antihypertensive and Antianginal Drugs</link>, <term id="term-00001">angiotensin-converting enzyme (ACE) inhibitors</term> are a classification of drugs that block the body’s production of angiotensin II. Angiotensin II is one of the products of the <term id="term-00002">renin-angiotensin-aldosterone system (RAAS)</term> (see <link target-id="fig-00001" document="m00295"/>), and it stimulates multiple end-organ effects. Two of these effects that are important in heart failure are constriction of arterioles and sodium and water retention of the kidneys. Vasoconstriction causes increased afterload, and sodium and water retention cause increased preload. In heart failure, the heart is already struggling to maintain an adequate cardiac output. Both increased afterload and increased preload will make this task more difficult. ACE inhibitors have been shown to decrease morbidity and mortality in clients with heart failure (Heidenreich et al., 2022).</para>
-<figure class="scaled-down" id="fig-00001">
+<figure id="fig-00001">
 <media alt="A diagram shows the renin-angiotensin-aldosterone system, which produces angiotensin 2. Direct effects of angiotensin 2 are arteries constricting, which increases cardiac output, resulting in an increase in blood pressure and volume; decreased  glomerular filtration rate, resulting in water retention; and increased thirst.  Renin helps angiotensinogen turn into angiotensin 1. ACE helps angiotensin 1 become angiotensin 2. Angiotensin 2 produces aldosterone and ADH. Aldosterone causes nephron distal tubules to reabsorb sodium  and water, which increases blood volume. ADH mediates insertion of aquaporins into nephron collecting duct cells, resulting in more water being reabsorbed into the blood. It also increases sodium reabsorption in the medulla of the kidney.">
 <image mime-type="image/jpeg" src="../../media/PHA_Figure_19_02_004.png"/></media>
 <caption>The renin-angiotensin-aldosterone system produces angiotensin II, which constricts arterioles and increases sodium and water retention in the kidneys. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00003">ACE inhibitors are used in the management of both hypertension and heart failure. <link target-id="table-00001" document="m00295"/> lists common ACE inhibitors used in the management of heart failure and typical routes and dosing for adult clients. A comprehensive list of ACE inhibitors can be found in <link document="m00313">Antihypertensive and Antianginal Drugs</link>.</para>
-      <table class="vertically-tight" id="table-00001">
+      <table class="vertically-tight full-width" id="table-00001">
      <tgroup cols="2">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -69,7 +68,7 @@
 
 <note class="special-considerations" id="note-00001">
 <title>ACE Inhibitors</title>
-<para id="para-00004"><term class="no-emphasis" id="term-00013">Black clients with hypertension</term> demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Black clients often have hypertension, but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies.</para>
+<para id="para-00004"><term class="no-emphasis" id="term-00013">Black clients with hypertension</term> demonstrate a lower response to ACE inhibitor monotherapy. ACE inhibitors interfere with the renin-angiotensin-aldosterone system, which causes high blood pressure when renin levels are high. Black clients often have hypertension but also have lower levels of renin. Therefore, concomitant therapy may be required to increase response to antihypertensive therapies.</para>
 <para id="para-00005">(Source: Astra Zeneca, 2012)</para>
 </note>
 <section id="sect-00004">
@@ -178,7 +177,7 @@ Breastfeeding</entry>
 <para id="para-00013"><term id="term-00014">Angiotensin II receptor blockers (ARBs)</term> are a classification of drugs that bind to and inhibit angiotensin II type I receptors. ARBs work directly at the receptor site to block angiotensin II from binding with receptors on the cells (see <link target-id="fig-00001" document="m00295"/>). The effect of ARBs is similar to that of ACE inhibitors; however, the side effects are lessened. This means that the potential for angioedema is decreased. Also, there is no side effect of cough.</para>
 <para id="para-00014">Angiotensin II receptor blockers decrease blood pressure and therefore decrease afterload. This is beneficial in treating heart failure since decreased afterload means the heart does not have to work as hard to generate stroke volume.</para>
 <para id="para-00015"><link target-id="table-00003" document="m00295"/> lists common ARBs used in the management of heart failure and typical routes and dosing for adult clients. A comprehensive list of ARBs can be found in <link document="m00313">Antihypertensive and Antianginal Drugs</link>.</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -192,17 +191,17 @@ Breastfeeding</entry>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Candesartan</term><newline/>
 (<term class="no-emphasis" id="term-00016">Atacand</term>)</entry>
-<entry valign="top" align="left">4 mg orally daily; maximum dose: 32 mg daily.Normal</entry>
+<entry valign="top" align="left">4 mg orally daily; maximum dose: 32 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Losartan</term><newline/>
 (<term class="no-emphasis" id="term-00018">Cozaar</term>)</entry>
-<entry valign="top" align="left">25–150 orally mg daily. Normal</entry>
+<entry valign="top" align="left">25–150 orally mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Valsartan</term><newline/>
 (<term class="no-emphasis" id="term-00020">Diovan</term>)</entry>
-<entry valign="top" align="left">20–160 orally mg daily. Normal</entry>
+<entry valign="top" align="left">20–160 orally mg daily.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -278,7 +277,7 @@ Hyperkalemia</entry>
 <title>ARBs</title>
 <para id="para-00019">The RAAS has been associated with increased risk of mood disorders. The use of ARBs may be associated with an increased risk of suicide compared with other antihypertensive therapies.</para>
 <para id="para-00020"><term class="no-emphasis" id="term-00021">Black clients</term> with hypertension demonstrate a lower response to ARB monotherapy. Concomitant therapy may be required to increase response to antihypertensive therapies.</para>
-<para id="para-00021"><term class="no-emphasis" id="term-00022">Older adults</term> and clients with hepatic impairment should start on a low initial dose, because the drug is metabolized by the liver.</para>
+<para id="para-00021"><term class="no-emphasis" id="term-00022">Older adults</term> and clients with hepatic impairment should start on a low initial dose because the drug is metabolized by the liver.</para>
 <para id="para-00022">(Source: Colvin et al., 2020)</para>
 </note>
 </section>
@@ -327,7 +326,7 @@ Hyperkalemia</entry>
 <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
 Angiotensin receptor/neprilysin inhibitor<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-Causes angiotensin receptor blockade and inhibition of the enzyme that breaks down BNP2</entry>
+Causes angiotensin receptor blockade and inhibition of the enzyme that breaks down BNP</entry>
 <entry valign="top">
 <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 Initial dose: 49 mg/51 mg orally twice daily; maximum dose: 97 mg/103 mg twice daily.</entry>
@@ -392,7 +391,7 @@ History of angioedema with ACE inhibitor or ARB therapy</entry>
 <para id="para-00034"><term id="term-00026">Mineralocorticoid receptor antagonists (MRAs)</term> (also known as <term class="no-emphasis" id="term-00027">aldosterone antagonists</term>) are often categorized as diuretics because they ultimately do cause diuresis. When the RAAS is activated, one of the end results is the stimulation of the adrenal glands to secrete aldosterone. (See <link target-id="fig-00001" document="m00295"/> earlier in the chapter.) Aldosterone binds to receptors on cells in the distal tubule of the nephron, which then causes them to reabsorb sodium and water. During this process, potassium secretion increases. Aldosterone antagonists block the receptor so that aldosterone can’t bind there. The end result is increased sodium and water excretion into the urine, and potassium reabsorption. Aldosterone antagonists are referred to as <term class="no-emphasis" id="term-00028">potassium-sparing diuretics</term>.</para>
 <para id="para-00035">MRA medications have been found to reduce the risk of all-cause mortality in clients with heart failure (Heidenreich et al., 2022).</para>
 <para id="para-00036"><link target-id="table-00006" document="m00295"/> lists the two MRAs used in heart failure and typical routes and dosing for adult clients.</para>
-<table class="vertically-tight" id="table-00006">
+<table class="vertically-tight full-width" id="table-00006">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -411,7 +410,7 @@ History of angioedema with ACE inhibitor or ARB therapy</entry>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00031">Eplerenone</term><newline/>
 (<term class="no-emphasis" id="term-00032">Inspra</term>)</entry>
-<entry valign="top" align="left">25–50 mg orally daily</entry>
+<entry valign="top" align="left">25–50 mg orally daily.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -493,7 +492,7 @@ Concomitant use of eplerenone</entry>
 <item>Avoid foods high in potassium and salt substitutes (because these are high in potassium) due to the aldosterone release. </item>
 <item>Notify their provider if they are taking an ACE inhibitor, ARB, or other potassium-sparing drugs.</item>
 <item>Notify their health care provider if pregnant, planning on getting pregnant, or breastfeeding prior to starting an MRA.</item>
-<item>Notify their health care provider for breast enlargement and/or tenderness.</item>
+<item>Notify their health care provider about breast enlargement and/or tenderness.</item>
 <item>Notify their health care provider about symptoms such as dizziness, lightheadedness, or fainting because these could be related to low blood pressure.</item>
 </list>
 </note>
@@ -501,7 +500,6 @@ Concomitant use of eplerenone</entry>
 <para id="para-00043"><emphasis effect="bold">Drugs Affecting the Renin-Angiotensin-Aldosterone System</emphasis></para>
 <para id="para-00044">Fetal toxicity can occur when taking <emphasis effect="bold">ACE inhibitors</emphasis> during the second and third trimesters of pregnancy or when taking <emphasis effect="bold">ARBs</emphasis> or <emphasis effect="bold">ARNIs</emphasis> during pregnancy.</para>
 </note>
-</section>
 </section>
 </section>
 </content>

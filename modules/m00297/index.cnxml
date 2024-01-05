@@ -22,7 +22,7 @@
 
 <para id="para-00005"><link target-id="table-00001" document="m00297"/> lists the two SGLT2Is that are FDA-approved for heart failure and typical routes and dosing for adult clients.</para>
 
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -47,11 +47,10 @@
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: SGLT2Is</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00006">Adverse effects of SGLT2Is include ketoacidosis in clients with diabetes mellitus, urinary tract infection, pyelonephritis, genital infection, necrotizing fasciitis of the perineum, volume depletion, and hypotension.</para>
-<para id="para-00007">Contraindications to SGLT2Is include history of serious hypersensitivity reaction to dapagliflozin, chronic and/or acute kidney disease, and pregnancy</para>
+<para id="para-00007">Contraindications to SGLT2Is include history of serious hypersensitivity reaction to dapagliflozin, chronic and/or acute kidney disease, and pregnancy.</para>
 <para id="para-00008"><link target-id="table-00002" document="m00297"/> is a drug prototype tables for SGLT2Is featuring dapagliflozin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -95,7 +94,7 @@ Hypoglycemia</entry>
 <entry valign="top">
 <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
 History of serious hypersensitivity reaction to dapagliflozin<newline/>
-Severe renal impairment, end-stage renal disease, or dialysis
+Severe renal impairment, end-stage renal disease, or dialysis<newline/>
 Pregnancy (potential fetal risk in third trimester)</entry>
 </row>
 </tbody>
@@ -113,7 +112,7 @@ Pregnancy (potential fetal risk in third trimester)</entry>
 <para id="para-00011">The nurse should do the following for clients who are taking SGLT2Is:</para>
 <list id="list-00002">
 <item>Assess the client’s blood pressure and pulse on an ongoing basis with initial dosing and intermittently during drug therapy.</item>
-<item>Monitor the client for interactions because many medications and herbal supplements interact with ARBs.</item>
+<item>Monitor the client for interactions because many medications and herbal supplements interact with SGLT2Is.</item>
 <item>Assess and monitor the client for adverse effects, drug and food interactions, and contraindications.</item>
 <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
 </list>
@@ -126,7 +125,6 @@ Pregnancy (potential fetal risk in third trimester)</entry>
 <item>Inform their health care provider if they are pregnant or intend to become pregnant.</item>
 </list>
 </note>
-</section>
 </section>
 </content>
 <glossary>

@@ -16,16 +16,16 @@
 <item>Explain the client education related to beta-adrenergic blocker drugs used to treat heart failure. </item>
 </list>
 </section>
-<para id="para-00002">As presented in <link document="m00313">Antihypertensive and Antianginal Drugs</link>), <term id="term-00001">beta-adrenergic blockers</term> (<term class="no-emphasis" id="term-00002">beta blockers</term>) are a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine. They do this by exerting effects on adrenergic receptors beta 1, beta 2, and alpha. </para>
+<para id="para-00002">As presented in <link document="m00313">Antihypertensive and Antianginal Drugs</link>, <term id="term-00001">beta-adrenergic blockers</term> (<term class="no-emphasis" id="term-00002">beta blockers</term>) are a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine. They do this by exerting effects on adrenergic receptors beta 1, beta 2, and alpha. </para>
 <para id="para-00003">When the body is presented with a stressor, the sympathetic nervous system is activated. Catecholamines (norepinephrine and epinephrine) are released with the primary purpose of enhancing the fight-or-flight response. Catecholamines interact with beta-1, beta-2, and alpha receptors. Beta-1 receptors are found in the heart and kidneys, beta-2 receptors are found in cardiac tissue, and alpha receptors are found on arteries and veins.</para>
 <para id="para-00004">Beta blockers can inhibit catecholamines from binding to beta-1, beta-2, and/or alpha receptors. This means that the sympathetic response (or the fight-or-flight response) is decreased. Part of the sympathetic response is to increase heart rate and contractility, increase blood pressure, and dilate bronchioles so that the body can run away or fight the threat. In general, beta blockers decrease heart rate and contractility, decrease blood pressure, and may cause some bronchoconstriction.</para>
 <para id="para-00005">Select beta blockers have been found to decrease mortality in clients with heart failure (Heidenreich et al., 2022). Metoprolol and bisoprolol are two cardio-selective beta blockers, and carvedilol is a nonselective beta blocker that is used in the management of clients with heart failure.</para>
 <para id="para-00006">Cardio-selective beta blockers affect the heart by reducing heart rate and contractility. Nonselective beta blockers affect the heart in the same way, but they also cause vasodilation due to their effects on alpha receptors of the arteries.</para>
 <para id="para-00007">In heart failure, either cardio-selective beta blockers (bisoprolol, metoprolol succinate) or nonselective beta blockers (carvedilol) are used to decrease heart rate and contractility. Nonselective beta blockers also decrease blood pressure, which decreases afterload. If the heart rate is decreased, there is more time for diastole, or ventricular filling. Recall that coronary arteries deliver blood to the cardiac myocytes of the ventricles during diastole. This means that the ventricles themselves are getting more oxygen-rich blood. Also, if contractility is decreased, there is less demand for oxygen. Nonselective beta blockers also decrease afterload, which means the heart does not have to produce as much force to generate stroke volume.</para>
 <para id="para-00008">Beta blockers are used to treat clients with hypertension, heart failure, arrhythmias, myocardial infarctions, migraines, glaucoma, and certain types of tremors. Beta blockers have also been used by health care providers as anxiolytics (to reduce anxiety). </para>
-<para id="para-00009"><link target-id="table-00001" document="m00296"/> lists the beta blockers that are commonly used for heart failure and typical routes and dosing for adult clients. A complete list of beta blockers can be found in (<link document="m00313">Antihypertensive and Antianginal Drugs</link>).</para>
+<para id="para-00009"><link target-id="table-00001" document="m00296"/> lists the beta blockers that are commonly used for heart failure and typical routes and dosing for adult clients. A complete list of beta blockers can be found in <link document="m00313">Antihypertensive and Antianginal Drugs</link>.</para>
 
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
@@ -49,13 +49,12 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Metoprolol succinate</term><newline/>
 (<term class="no-emphasis" id="term-00008">Toprol XL</term>)</entry>
-<entry valign="top">12.5–200 mg orally daily; maximum dose: 200 mg daily</entry>
+<entry valign="top">12.5–200 mg orally daily; maximum dose: 200 mg daily.</entry>
 </row>
 </tbody>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: Beta Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00010">Adverse effects of beta blockers include dizziness, fatigue, weight gain, constipation, cold hands and feet, hypercholesterolemia, shortness of breath, depression, nausea, dry mouth, and dry eyes. Serious adverse effects include bradycardia, arrhythmias, hypoglycemia, and hypotension. Rare side effects include sexual and erectile dysfunction.</para>
@@ -77,10 +76,10 @@
 <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
 Beta-adrenergic blocker<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-Blocks beta 1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure</entry>
+Blocks beta-1 receptors, thereby decreasing cardiac workload by slowing the heart and decreasing the systolic blood pressure</entry>
 <entry valign="top">
 <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-12.5–200 mg orally daily.</entry>
+12.5–200 mg orally daily; maximum dose: 200 mg daily.</entry>
 </row>
 <row>
 <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
@@ -164,16 +163,15 @@ Cerebrovascular disease</entry>
 <item>Notify their health care provider about symptoms such as dizziness, lightheadedness, or fainting because these could be related to low blood pressure and/or low heart rate.</item></list>
 <para id="para-00019"><emphasis effect="bold">The client taking a beta-adrenergic blocker <emphasis effect="italics">should</emphasis> <emphasis effect="italics">not: </emphasis></emphasis></para>
 <list list-type="bulleted" id="list-00004">
-<item>Take beta-adrenergic blockers with OTC drugs or herbal supplements, such as ma-huang, ephedra, black cohosh, hawthorne, or licorice, without consulting their health care provider, because these supplements may interfere with the action of the beta-adrenergic blocker.</item></list>
+<item>Take beta-adrenergic blockers with OTC drugs or herbal supplements, such as ma-huang, ephedra, black cohosh, hawthorne, or licorice, without consulting their health care provider because these supplements may interfere with the action of the beta-adrenergic blocker.</item></list>
 </note>
 <note class="black-box" id="note-00004">
 <para id="para-00020"><emphasis effect="bold">Beta-Adrenergic Blockers</emphasis></para>
 <para id="para-00021">Beta blocker therapy should not be abruptly stopped, but gradually tapered to avoid exacerbation of angina and myocardial infarction. Clients should seek health care provider advice prior to discontinuing use.</para>
 </note>
 </section>
-</section>
 </content>
 <glossary>
-<definition id="def-00001"><term>beta-adrenergic blocker</term> <meaning>a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine by exerting effects on adrenergic receptors beta 1, beta 2, and alpha. </meaning></definition>
+<definition id="def-00001"><term>beta-adrenergic blocker</term> <meaning>a classification of drugs that inhibit chronotropic, inotropic, and vasoconstrictor response to catecholamine, epinephrine, and norepinephrine by exerting effects on adrenergic receptors beta 1, beta 2, and alpha</meaning></definition>
 </glossary>
 </document>
