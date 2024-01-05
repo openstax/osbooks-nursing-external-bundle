@@ -14,7 +14,6 @@
 <item>Describe shock and general treatment guidelines.</item>
 </list>
 </section>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Cardiac Emergencies</title>
 <para id="para-00002">The primary responsibility of the heart is to generate <term id="term-00001">cardiac output</term>. Cardiac output (CO) is a function of heart rate (HR) and stroke volume <m:math><m:mo>(</m:mo><m:mi>SV</m:mi><m:mo>)</m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SV</m:mi></m:math>. Normal resting cardiac output is 4–5 L/min. Heart rate is the number of times the heart beats per minute. Stroke volume is the amount of blood pumped out of the left ventricle with each heartbeat. In order for the heart to maintain cardiac output, both the electrical system of the heart and the pumping system of the heart must function properly. When the heart pumps blood into the aorta, the first organ that receives blood is the heart itself; coronary arteries branch off the aorta to supply the heart with oxygen and nutrients. The left main coronary artery and the right coronary artery (<link target-id="fig-00001" document="m00388"/>) are large arteries that branch into smaller arteries and arterioles to supply the heart. If any type of occlusion exists, then the blood flow to the heart tissue is reduced (<term id="term-00002">ischemia</term>), and anoxia and <term id="term-00003">infarction</term> may occur.</para>
@@ -32,7 +31,7 @@
 <caption>This coronary angiogram (a type of x-ray) shows a stenosis (blockage) in two different arteries. (credit: modification of work “Coronary angiography showing critical sub-total occlusion of the common trunk of the left coronary artery and circumflex artery” by Maria Abbondanza Pantaleo/BMC Cancer, CC BY 4.0 International)</caption>
 </figure>
 <note class="link-to-learning" id="note-00001">
-<para id="para-00006"><emphasis effect="bold">Videos on Coronary Artery Disease</emphasis></para>
+<title>Videos on Coronary Artery Disease</title>
 <para id="para-00007">The following videos provide helpful information on atherosclerosis, coronary artery disease, and the pathophysiology of AMI.</para>
 <para id="para-00008"><emphasis effect="italics">Atherosclerosis</emphasis></para>
 <media alt="atoms_isotopes">
@@ -50,13 +49,13 @@
 </section>
 <section id="sect-00005">
 <title>Unstable Angina</title>
-<para id="para-00011"><term id="term-00005">Angina</term> is the medical term for chest pain caused by cardiac ischemia. Angina occurs when the heart is not getting enough blood flow. There are two types of angina: stable and unstable. <term class="no-emphasis" id="term-00006">Stable angina</term> (discussed in <link document="m00313">Antihypertensive and Antianginal Drugs</link>) occurs when the heart needs more oxygen, but the supply of oxygen is restricted. Once the heart does not need increased oxygen, the angina subsides. Stable angina occurs during exercise or exertion and improves with rest because the cardiac myocytes no longer require an increased oxygen supply. Many people live with stable angina, and medications are available to treat it.</para>
+<para id="para-00011"><term id="term-00005">Angina</term> is the medical term for chest pain caused by cardiac ischemia. Angina occurs when the heart is not getting enough blood flow. There are two types of angina: stable and unstable. <term class="no-emphasis" id="term-00006">Stable angina</term> (discussed in <link document="m00313">Antihypertensive and Antianginal Drugs</link>) occurs when the heart needs more oxygen but the supply of oxygen is restricted. Once the heart does not need increased oxygen, the angina subsides. Stable angina occurs during exercise or exertion and improves with rest because the cardiac myocytes no longer require an increased oxygen supply. Many people live with stable angina, and medications are available to treat it.</para>
 <para id="para-00012"><term class="no-emphasis" id="term-00007">Unstable angina</term> occurs when the heart does not get enough blood flow. Often, the heart does not have an increased demand for oxygen; rather, the supply of oxygen has been decreased most often due to an occlusion of a coronary artery. Because oxygen supply is decreased, the angina will not be relieved with rest. Unstable angina is a medical emergency.</para>
 </section>
 <section id="sect-00006">
 <title>Dysrhythmias</title>
 <para id="para-00013">It is important to understand cardiac conduction in order to understand <term id="term-00008">dysrhythmias</term>. The heart is truly amazing in that it has the ability to generate electrical impulses. The sinoatrial (SA) node generates impulses that travel through the conduction tissue and stimulate the myocytes to contract. Each impulse leaves the SA node and travels to the atrioventricular (AV) node (during this time, the atria are stimulated to contract), has a brief pause, and then travels down the bundle branches and Purkinje fibers to stimulate ventricular contraction (<link target-id="fig-00003" document="m00388"/>).</para>
-<figure class="scaled-down" id="fig-00003">
+<figure id="fig-00003">
 <media alt="A diagram of anterior view of the frontal section of the heart with the major parts labeled."><image mime-type="image/png" src="../../media/PHA_Figure_22_01_004.png"/></media>
 <caption>The SA node generates impulses that travel to the AV node, pause briefly, and then travel down the bundle branches and Purkinje fibers to stimulate ventricular contraction. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
@@ -66,7 +65,7 @@
 <title>Diagnostics</title>
 <section id="sect-00008">
 <title>Unstable Angina and Acute Myocardial Infarction</title>
-<para id="para-00015">When an individual is experiencing acute unstable angina or an AMI, the health care provider will first perform a rapid physical assessment based on signs and symptoms and then order specific diagnostics. These may include an electrocardiogram (ECG/EKG), continuous cardiac monitoring, cardiac troponin levels, a complete blood count, a lipid profile, and a basic metabolic profile. Other, more advanced diagnostic testing may be performed based on assessment findings. The individual will often undergo cardiac angiography for diagnostics and treatment.</para>
+<para id="para-00015">When an individual is experiencing acute unstable angina or an AMI, the health care provider will first perform a rapid physical assessment based on signs and symptoms and then order specific diagnostics. These may include an electrocardiogram (ECG/EKG), continuous cardiac monitoring, cardiac troponin levels, a complete blood count, a lipid profile, and a basic metabolic profile. Other more advanced diagnostic testing may be performed based on assessment findings. The individual will often undergo cardiac angiography for diagnostics and treatment.</para>
 </section>
 <section id="sect-00009">
 <title>Dysrhythmias</title>
@@ -130,7 +129,6 @@
 <para id="para-00033">Clinical manifestations of shock may include hypotension, tachycardia (heart rate greater than 100 beats/min), tachypnea (fast respiratory rate), cold or clammy skin, decreased mental status, and loss of consciousness. The signs and symptoms can vary depending on the type of shock. In anaphylactic shock, the individual may also have wheezing, stridor, or complete inability to breathe.</para>
 </section>
 </section>
-</section>
 </content>
 <glossary>
 <definition id="def-00001"><term>acute myocardial infarction (AMI)</term> <meaning>death of cardiac tissue due to lack of oxygen</meaning></definition>
@@ -142,7 +140,7 @@
 <definition id="def-00007"><term>dysrhythmia</term> <meaning>an irregular heart rhythm</meaning></definition>
 <definition id="def-00008"><term>hypovolemic shock</term> <meaning>decreased tissue perfusion caused by decreased circulating blood volume</meaning></definition>
 <definition id="def-00009"><term>infarction</term> <meaning>cell death due to lack of oxygen</meaning></definition>
-<definition id="def-00010"><term>ischemia</term> <meaning>Deficient supply of blood to tissues, which can cause injury</meaning></definition>
+<definition id="def-00010"><term>ischemia</term> <meaning>deficient supply of blood to tissues, which can cause injury</meaning></definition>
 <definition id="def-00011"><term>pulmonary edema</term> <meaning>excessive fluid in the lungs</meaning></definition>
 <definition id="def-00012"><term>shock</term> <meaning>decreased tissue perfusion to the point of hypoxia, which causes cells to undergo anaerobic metabolism; if not reversed, will lead to cell and tissue death</meaning></definition>
 <definition id="def-00013"><term>systemic vascular resistance</term> <meaning>resistance to blood flow by the blood vessels</meaning></definition>
