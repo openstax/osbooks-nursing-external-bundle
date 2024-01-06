@@ -14,8 +14,7 @@
   <item>Analyze cues to determine the impact of nutrition on the cardiovascular system.</item>
   </list>
   </section>
-  <section id="sect-00009">
-  <section id="sect-00002">
+   <section id="sect-00002">
   <title>Normal Function of the Cardiovascular System</title>
   <para id="para-00002">The <term id="term-00001">cardiovascular system</term> includes the heart, blood, blood vessels, lymph, lymphatic vessels, and glands that move blood and lymph through the body. Assessment of this system involves the mechanical and electrical functions of the heart and blood vessels and their effectiveness at circulating blood throughout the body. Assessment should also include an examination of a client’s nutritional status.</para>
   <para id="para-00003">The cardiovascular system’s primary role is to circulate blood throughout the body. The components of this system include the heart, known as the cardiac muscle, and blood vessels. The blood vessels include the <term id="term-00002">arteries</term>, which carry oxygenated blood from the heart to other parts of the body; <term id="term-00003">veins</term>, which carry deoxygenated blood from the body to the heart; and <term id="term-00004">capillaries</term>, tiny blood vessels with thin walls where arteries and veins exchange blood supply.</para>
@@ -131,12 +130,12 @@
   </row>
 </tbody>
   </tgroup>
-  <caption>Normal Telemetry Parameters (sources: UNC Eshelman School of Pharmacy, 2023)</caption>
+  <caption>Normal Telemetry Parameters (source: UNC Eshelman School of Pharmacy, 2023)</caption>
   </table>
   <para id="para-00016">There are certain telemetry changes in which nutritional issues and electrolyte abnormalities are often the primary cause. Common examples include:</para>
   <list list-type="bulleted" id="list-00004">
   <item><term class="no-emphasis" id="term-00021">Long QT syndrome</term>—when the QT interval is greater than 0.47 seconds in males and 0.48 seconds in females. This can lead to life-threatening dysrhythmias and can be caused by low levels of potassium, magnesium, or calcium.</item>
-  <item><term class="no-emphasis" id="term-00022">Torsade’s de pointes</term>—a life-threatening dysrhythmia known as a multifocal ventricular tachycardia, caused by low levels of magnesium (Cohagan &amp; Brandis, 2022).</item>
+  <item><term class="no-emphasis" id="term-00022">Torsades de pointes</term>—a life-threatening dysrhythmia known as a multifocal ventricular tachycardia, caused by low levels of magnesium (Cohagan &amp; Brandis, 2022).</item>
   <item>A peaked or mountain T wave illustrates hyperkalemia (high levels of potassium in the blood) (Bord, 2022).</item>
   </list>
   </section>
@@ -180,11 +179,11 @@
   <para id="para-00028">A client’s nutritional status and needs can be identified with a physical assessment and lab results. Potassium, cholesterol, and sodium levels can be monitored to best track nutritional needs for cardiovascular health.</para>
   <section id="sect-00008">
   <title>Nutritional Analysis and the Impact on the Cardiovascular System</title>
-  <para id="para-00029">Nutritional issues can lead to changes in the electrical conduction of the heart. As a result, the client’s telemetry rhythm can become abnormal. Rhythm changes include <term class="no-emphasis" id="term-00028">atrial fibrillation</term>, <term class="no-emphasis" id="term-00029">atrial flutter</term>, <term class="no-emphasis" id="term-00030">T-wave abnormalities</term>, <term class="no-emphasis" id="term-00031">ST segment changes</term> related to AMI, <term class="no-emphasis" id="term-00032">U-wave</term> presence or prominence, <term class="no-emphasis" id="term-00033">torsade de pointes</term>, prolonged QT interval, and supraventricular tachycardia. Rhythm changes can relate to one or more deficiencies. See <link target-id="table-00002" document="m00049"/> for a list of <term class="no-emphasis" id="term-00034">telemetry</term> changes, the nutritional relation, and client symptoms.</para>
+  <para id="para-00029">Nutritional issues can lead to changes in the electrical conduction of the heart. As a result, the client’s telemetry rhythm can become abnormal. Rhythm changes include <term class="no-emphasis" id="term-00028">atrial fibrillation</term>, <term class="no-emphasis" id="term-00029">atrial flutter</term>, <term class="no-emphasis" id="term-00030">T-wave abnormalities</term>, <term class="no-emphasis" id="term-00031">ST segment changes</term> related to AMI, <term class="no-emphasis" id="term-00032">U-wave</term> presence or prominence, <term class="no-emphasis" id="term-00033">torsades de pointes</term>, prolonged QT interval, and supraventricular tachycardia. Rhythm changes can relate to one or more deficiencies. See <link target-id="table-00002" document="m00049"/> for a list of <term class="no-emphasis" id="term-00034">telemetry</term> changes, the nutritional relation, and client symptoms.</para>
   <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="3">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
-      <colspec colnum="2" colname="c2" colwidth="3*"/>
+      <colspec colnum="2" colname="c2" colwidth="1*"/>
       <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
@@ -237,7 +236,7 @@
   </row>
   <row>
     <entry valign="top">U-wave presence/prominence</entry>
-    <entry valign="top"><list list-type="bulleted" id="list-00014"><item>Hypokalemia (low potassium levels) can cause tachycardia and U wave prominence</item></list></entry>
+    <entry valign="top"><list list-type="bulleted" id="list-00014"><item>Hypokalemia (low potassium levels) can cause tachycardia and U-wave prominence</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00015"><item>No symptomology unless it interferes with perfusion</item></list></entry>
   </row>
   <row>
@@ -315,8 +314,7 @@
   </tgroup>
   <caption>Cardiovascular Diseases (sources: Albakri, 2019; Centers for Disease Control and Prevention, 2022; Harvard University, 2023; Medline Plus, 2022)</caption>
   </table>
-  </section>
-  </section>
+   </section>
  </section>
   </content>
   <glossary>
