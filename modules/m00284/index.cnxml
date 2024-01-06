@@ -22,7 +22,6 @@
 <para id="para-00003">The QT interval changes depending on the client’s heart rate. To standardize assessment, the QT interval can be corrected (adjusted) for heart rate using various methods. This correction is referred to as the QTc and is usually used in drug titration and safety algorithms. The most common formula for QTc is known as the Bazett formula. Various websites have <link url="https://openstax.org/r/mayoclinicorga">QTc calculators</link>, and some ECG software calculates the QTc automatically. </para>
   </note>
 <para id="para-00004">The following medications are all classified as potassium channel blockers; however, it is important to note their additional mechanisms of action as well.</para>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Amiodarone and Dronedarone</title>
 <para id="para-00005">Amiodarone is a class III antidysrhythmic drug; however, it has all four Vaughan Williams mechanisms: It blocks sodium channels (class I), functions as a beta-adrenergic blocker (class II), blocks potassium channels (class III), and blocks calcium channels (class IV). It is available in both intravenous and oral dosage forms. Amiodarone is known for having a very long half-life (greater than 1 month); thus, the duration of action can be several months after chronic therapy ends. The nurse should be aware that even after amiodarone administration is discontinued, its effects will be apparent for several weeks to months.</para>
@@ -212,7 +211,6 @@ Caution: Renal impairment</entry>
 <para id="para-00035"><emphasis effect="bold">Sotalol</emphasis> </para>
 <para id="para-00036">To minimize the risk of drug-induced arrhythmia, clients should be initiated, reinitiated, or up-titrated in a facility that can provide cardiac resuscitation and continuous ECG monitoring. Sotalol can cause life-threatening ventricular tachycardia associated with QT interval prolongation. A client whose baseline QTc is longer than 450 msec should not start sotalol therapy. If the QT interval lengthens to 500 msec or more, the dose should be reduced, the dosing interval lengthened, or the drug discontinued. The creatinine clearance should be calculated to determine appropriate dosing.</para>
       </note>
-</section>
 </section>
     </content>
 </document>
