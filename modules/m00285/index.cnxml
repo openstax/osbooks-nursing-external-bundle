@@ -50,8 +50,8 @@
       <tbody>
       <row>
             <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Diltiazem</term><newline/>
-	 (<term class="no-emphasis" id="term-00004">Cardizem, Cartia XT, Dilt XR, Taztia XT, Tiazac</term>)</entry>
-       <entry valign="top" align="left"><emphasis effect="bold">Atrial fibrillation:</emphasis><newline/>
+	 (<term class="no-emphasis" id="term-00004">Cardizem</term>, <term class="no-emphasis" id="term-00007">Cartia XT</term>, <term class="no-emphasis" id="term-00008">Dilt XR</term>, <term class="no-emphasis" id="term-00009">Taztia XT</term>, <term class="no-emphasis" id="term-00010">Tiazac</term>)</entry>
+       <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis><newline/>
 <emphasis effect="italics">Extended-release:</emphasis> 120–360 mg orally daily.<newline/>
 Intravenous: 0.25 mg/kg IV bolus over 2 min, then 5–15 mg/hour continuous IV infusion.</entry>
       </row>
@@ -62,14 +62,14 @@ Intravenous: 0.25 mg/kg IV bolus over 2 min, then 5–15 mg/hour continuous IV i
       </row>
       </tbody>
       </tgroup>
-<caption>Drug Emphasis Table: Calcium Channel Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Calcium Channel Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/):; January et al., 2014)</caption>
     </table>
 </section>
 <section id="sect-00005">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00013">Calcium channel blockers can cause bradycardia as an extension of their therapeutic effect. They also decrease arterial vasoconstriction, which reduces blood pressure and can cause hypotension. Additionally, they can cause swelling and edema.</para>
-<para id="para-00014">Because calcium is important for facilitating ventricular contraction, calcium channel blockers can decrease contractility of the heart. This can be particularly troublesome in clients with heart failure with reduced ejection fraction or acute myocardial infarction, who already have decreased contractility. For this reason, non-DHP calcium channel blockers should be used cautiously or avoided in those clients. They should also be avoided in clients who have bradycardia or AV blocks without a pacemaker, or those receiving beta-adrenergic blockers.</para>
-<para id="para-00015"><link target-id="table-00001" document="m00285"/> is a drug prototype table for calcium channel blockers featuring diltiazem. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00014">Because calcium is important for facilitating ventricular contraction, calcium channel blockers can decrease contractility of the heart. This can be particularly troublesome in clients with heart failure with reduced ejection fraction or acute myocardial infarction, who already have decreased contractility. For this reason, non-DHP calcium channel blockers should be used cautiously or avoided in those clients. They should also be avoided in clients who have bradycardia or AV blocks without a pacemaker or those receiving beta-adrenergic blockers.</para>
+<para id="para-00015"><link target-id="table-00002" document="m00285"/> is a drug prototype table for calcium channel blockers featuring diltiazem. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 
       <table class="vertically-tight" id="table-00002">
       <tgroup cols="2">
@@ -136,7 +136,7 @@ Pulmonary congestion</entry>
       </row>
       </tbody>
       </tgroup>
-<caption>Drug Prototype Table: Diltiazem (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Diltiazem (source: https://dailymed.nlm.nih.gov/dailymed/): ; January et al., 2014)</emphasis></caption>
     </table>
 </section>
 <section id="sect-00006">

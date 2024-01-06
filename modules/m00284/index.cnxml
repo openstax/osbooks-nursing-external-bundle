@@ -26,7 +26,7 @@
 <section id="sect-00003">
 <title>Amiodarone and Dronedarone</title>
 <para id="para-00005">Amiodarone is a class III antidysrhythmic drug; however, it has all four Vaughan Williams mechanisms: It blocks sodium channels (class I), functions as a beta-adrenergic blocker (class II), blocks potassium channels (class III), and blocks calcium channels (class IV). It is available in both intravenous and oral dosage forms. Amiodarone is known for having a very long half-life (greater than 1 month); thus, the duration of action can be several months after chronic therapy ends. The nurse should be aware that even after amiodarone administration is discontinued, its effects will be apparent for several weeks to months.</para>
-<para id="para-00006">Amiodarone has many notable drug interactions.. When metabolism occurs in the liver it does so by the hepatic microsomal enzyme system. A key component of this system is an enzyme complex known as cytochrome P450 or CYP450.  This enzyme metabolizes drugs, nutrients and other substances such as steroids and cholesterol. CYP3A, CYP2C8, and others are isoenzymes of CYP450 and perform slightly different metabolic functions. The thing to remember is that these enzymes determine the speed of the metabolism of drugs and affect many drug-drug interactions. Amiodarone is a substrate for CYP3A and CYP2C8, so inducers and inhibitors of those enzymes affect the client&#8217;s exposure to amiodarone Amiodarone is also an inhibitor of P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A; this can increase the client&#8217;s exposure to other drugs that are substrates of those enzymes. Some drug interactions include the following:</para>
+<para id="para-00006">Amiodarone has many notable drug interactions. When metabolism occurs in the liver, it does so by the hepatic microsomal enzyme system. A key component of this system is an enzyme complex known as cytochrome P450 or CYP450.  This enzyme metabolizes drugs, nutrients, and other substances such as steroids and cholesterol. CYP3A, CYP2C8, and others are isoenzymes of CYP450 and perform slightly different metabolic functions. The thing to remember is that these enzymes determine the speed of the metabolism of drugs and affect many drug-drug interactions. Amiodarone is a substrate for CYP3A and CYP2C8, so inducers and inhibitors of those enzymes affect the client’s exposure to amiodarone. Amiodarone is also an inhibitor of P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A; this can increase the client’s exposure to other drugs that are substrates of those enzymes. Some drug interactions include the following:</para>
       <list id="list-00002">
       <item><emphasis effect="italics">Digoxin:</emphasis> Amiodarone can increase digoxin concentrations. Therefore, it is recommended that digoxin doses be decreased (with careful monitoring) or discontinued altogether if amiodarone is initiated.</item>
 <item><emphasis effect="italics">Warfarin:</emphasis> Concomitant administration of warfarin and amiodarone increases the anticoagulant effect of warfarin. It is recommended to decrease the warfarin dose by one-third to one-half and to monitor prothrombin time.</item>
@@ -61,9 +61,9 @@
       <tbody>
       <row>
             <entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Amiodarone</term><newline/>
-(<term class="no-emphasis" id="term-00003">Nexterone, Pacerone</term>)</entry>
+(<term class="no-emphasis" id="term-00003">Nexterone</term>, <term class="no-emphasis" id="term-00012">Pacerone</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Ventricular dysrhythmias: </emphasis><newline/>
-<emphasis effect="italics">Oral</emphasis>: 400 mg orally once daily.<newline/>
+<emphasis effect="italics">Oral</emphasis>: 800-1600 mg daily until therapeutic response occurs (usually 1-3 weeks), then reduce to 600-800 mg daily for 1 month, then 400 mg orally once daily.<newline/>        
 <emphasis effect="italics">IV:</emphasis> For the first 24 hours, administer 150 mg IV over the first 10 min, followed by 360 mg IV over the next 6 hours, followed by 540 mg IV over the remaining 18 hours After the first 24 hours, continue the maintenance infusion rate of 0.5 mg/min.</entry>
 </row>
 <row>
@@ -72,20 +72,20 @@
 </row>
 <row>
       <entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Dofetilide</term><newline/>(<term class="no-emphasis" id="term-00007">Tikosyn</term>)</entry>
-      <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 500 mcg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
 </row>
 <row>
       <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Ibutilide</term><newline/>(<term class="no-emphasis" id="term-00009">Corvert</term>)</entry>
       <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 1 mg IV once. If dysrhythmia has not stopped by 10 min after completion of administration, a second dose may be given (dosing applies to clients who weigh at least 60 kg).</entry>
 </row>
 <row>
-      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Sotalol</term><newline/>(<term class="no-emphasis" id="term-00011">Betapace,Betapace AF, Sorine</term>)</entry>
+      <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Sotalol</term><newline/>(<term class="no-emphasis" id="term-00011">Betapace, Betapace AF, Sorine</term>)</entry>
       <entry valign="top" align="left"><emphasis effect="italics">Ventricular dysrhythmias:</emphasis> 160 mg orally twice daily.<newline/>
 <emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 80–120 mg orally twice daily.</entry>
 </row>
       </tbody>
       </tgroup>
-<caption>Drug Emphasis Table: Potassium Channel Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Potassium Channel Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
 </section>
 <section id="sect-00006">
@@ -100,7 +100,7 @@
 <item>Hepatotoxicity</item>
 <item>Acute and chronic pulmonary toxicity, including acute respiratory distress syndrome and pulmonary fibrosis</item>
       </list>
-<para id="para-00017">Because of these toxicities, amiodarone requires baseline monitoring, as well as follow-up monitoring at least every 3–6 months. Clients should minimally receive the following tests at baseline and periodically after initiation:</para>
+<para id="para-00017">Because of these toxicities, amiodarone requires baseline monitoring as well as follow-up monitoring at least every 3–6 months. Clients should minimally receive the following tests at baseline and periodically after initiation:</para>
 <list id="list-00004">
 <item>Cardiac monitoring, including an ECG to assess heart rate, medication efficacy, and the QT interval</item>
 <item>Pulmonary function tests and a chest x-ray</item>
@@ -128,7 +128,7 @@ Potassium channel blocker antidysrhythmic<newline count="2"/>
 Blocks the potassium channels responsible for repolarization of the cell, leading to a prolonged action potential and prolonged refractoriness</entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-<emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 500 mg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
+<emphasis effect="italics">Atrial fibrillation/atrial flutter:</emphasis> 500 mcg orally every 12 hours; precise dosing is required, with doses spaced 12 hours apart.</entry>
       </row>
       <row>
         <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
@@ -167,7 +167,7 @@ Caution: Renal impairment</entry>
       </row>
       </tbody>
       </tgroup>
-<caption>Drug Prototype Table: Dofetilide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Dofetilide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
 </section>
 <section id="sect-00007">
@@ -193,7 +193,7 @@ Caution: Renal impairment</entry>
 	 </list>
 <para id="para-00025"><emphasis effect="bold">The client taking <emphasis effect="italics">amiodarone</emphasis> should: </emphasis></para>
 	 <list list-type="bulleted" id="list-00007">
-<item>Avoid direct sunlight, and wear sunscreen and protective clothing.</item>
+<item>Avoid direct sunlight and wear sunscreen and protective clothing.</item>
 <item>Report symptoms of hyperthyroidism (heat sensitivity, anxiety, weight loss) or hypothyroidism (fatigue, weight gain, cold sensitivity). </item>
 <item>Report any vision changes or breathing difficulties.</item>
 <item>Avoid eating grapefruits or drinking grapefruit juice. </item>
