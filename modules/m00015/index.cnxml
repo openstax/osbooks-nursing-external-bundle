@@ -36,7 +36,7 @@
 <title/>
 <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Vitamin-Mineral Category</span></entry>
@@ -86,7 +86,7 @@
 <tbody>
 <row>
 <entry valign="top" align="left">Vitamin&#160;A</entry>
-<entry valign="top" align="left">One small carrot provides 6,000 IU of vitamin A (100% of DV)</entry>
+<entry valign="top" align="left">One small carrot provides 6000 IU of vitamin A (100% of DV)</entry>
 </row>
 <row>
 <entry valign="top" align="left">Vitamin&#160;B<sub>3</sub>&#160;(niacin)</entry>
@@ -128,7 +128,7 @@
 </tgroup>
 <caption>Examples of Vitamins and Minerals Found in Common Food Sources (Note that all of the above-mentioned foods contain multiple vitamins and minerals.)</caption>
 </table>
-<para id="para-00008">According to the National Institute of Health (NIH-National Center for Complementary and Integrative Health, 2018), supplement manufacturers can make three health-related claims on their labels:</para>
+<para id="para-00008">According to the National Institutes of Health (NIH-National Center for Complementary and Integrative Health, 2018), supplement manufacturers can make three health-related claims on their labels:</para>
 <list list-type="bulleted" id="list-00005">
 <item><emphasis effect="bold">Health</emphasis>—describes a relationship between a food, food component, or dietary supplement ingredient and reducing the risk of a specific disease or health-related condition</item>
 <item><emphasis effect="bold">Nutrient</emphasis>—describes the relative amount of a nutrient or dietary substance in a product</item>
@@ -200,7 +200,6 @@
 <para id="para-00036">Dietary Guidelines for Americans 2020-2025: https://www.dietaryguidelines.gov/resources/2020-2025-dietary-guidelines-online-materials</para>
 </section>
 <section class="references" id="sect-00008">
-<title>References</title>
 <para id="para-00037">Abiri, B., &amp; Vafa, M. (2021). Vitamin C and cancer: The role of vitamin C in disease progression and quality of life in cancer patients. <emphasis effect="italics">Nutrition &amp; Cancer</emphasis>, <emphasis effect="italics">73</emphasis>(8), 1282–1292. https://doi.org/10.1080/01635581.2020.1795692</para>
 <para id="para-00038">Ami, N., Bernstein, M., Boucher, F., Rieder, M., &amp; Parker, L. (2016). Folate and neural tube defects: The role of supplements and food fortification. <emphasis effect="italics">Paediatrics &amp; Child Health (1205-7088)</emphasis>, <emphasis effect="italics">21</emphasis>(3), 1–7. https://doi.org/10.1093/pch/21.3.145</para>
 <para id="para-00039">Cowan, A., Tooze, J., Gahche, J, Bhadra, A, Carroll, R., &amp; Bailey, R. (2020). Trends in overall and micronutrient-containing dietary supplement use in adults and children, NHANES 2007-2018. <emphasis effect="italics">The Journal of Nutrition</emphasis>. doi: https://doi.org/10.1093.jn/nxac168</para>
@@ -239,7 +238,7 @@
 <para id="para-00072">National Institutes of Health, Office of Dietary Supplements. (1994). Dietary Supplement Health and Education Act of 1994 Public Law 103-417 103rd Congress. https://ods.od.nih.gov/About/DSHEA_Wording.aspx</para>
 <para id="para-00073">Newman, J. C., McBurney, M. I., Hunt, K. J., Malek, A. M., &amp; Marriott, B. P. (2020). Modeling possible outcomes of updated Daily Values on nutrient intakes of the United States adult population. <emphasis effect="italics">Nutrients, 12</emphasis>(1), 210. https://doi.org/10.3390/nu12010210</para>
 <para id="para-00074">Ofoedu, C.E., Iwouno, J.O., Ofoedu, E.O., Ogueke, C.C., Igwe, V.S. Agunwah, I.M., Ofoedum, A.F., Chacha, J.F., Muobike, O.P., Agunbiade, A.O., Njoku, N.E., Nwakaudu, A.A., Odimegwu,N.E., Ndukauba, O.E., Ogbonna, C.U., Naibaho, J., Korus, M. &amp; Okpala, C.O.R.. (2021). Revisiting food-sourced vitamins for consumer diet and health needs: a perspective review, from vitamin classification, metabolic functions, absorption, utilization, to balancing nutritional requirements. <emphasis effect="italics">PeerJ</emphasis>, <emphasis effect="italics">9</emphasis>, e11940. https://doi.org/10.7717/peerj.11940</para>
-<para id="para-00075">Reddy, P. &amp; Jialal, I. (2022). Biochemistry, fat soluble vitamins. In <emphasis effect="italics">StatPearls [Internet].</emphasis> StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK534869. </para>
+<para id="para-00075">Reddy, P. &amp; Jialal, I. (2022). Biochemistry, fat soluble vitamins. In <emphasis effect="italics">StatPearls [Internet].</emphasis> StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK534869</para>
 <para id="para-00076">Rosenbloom, M. (2023, September 11). Vitamin Toxicity Clinical Presentation. Medscape. https://emedicine.medscape.com/article/819426-clinical?form=fpf</para>
 <para id="para-00077">Seres, D. (2023). <emphasis effect="italics">What supplements do you need? Probably none.</emphasis> Columbia University Irving School of Medicine. https://www.cuimc.columbia.edu/news/what-supplements-do-you-need-probably-none </para>
 <para id="para-00078">Sjoqvist, F., &amp; Bottiger, Y. (2010). Historical perspectives: drug interactions–it all began with cheese. <emphasis effect="italics">Journal of Internal Medicine, 268</emphasis>(6), 512–515. https://doi.org/10.1111/j.1365-2796.2010.02300.x</para>
@@ -247,7 +246,7 @@
 <para id="para-00080">Taylor, C. M., &amp; Emmett, P. M. (2019). Picky eating in children: causes and consequences. <emphasis effect="italics">The Proceedings of the Nutrition Society</emphasis>, <emphasis effect="italics">78</emphasis>(2), 161–169. https://doi.org/10.1017/S0029665118002586</para>
 <para id="para-00081">United Nations. (2019). <emphasis effect="italics">The State of the World’s Children 2019: Children, Food and Nutrition–Growing Well in a Changing World.</emphasis> United Nations. https://www.google.com/books/edition/The_State_of_the_World_s_Children_2019/CG38DwAAQBAJ?hl=en&amp;gbpv=0</para>
 <para id="para-00082">U.S. Department of Agriculture. (n.d.). Evolution of the Dietary Guidelines for Americans Process and Products: 1980 to Present. (n.d.). https://www.dietaryguidelines.gov/media/799</para>
-<para id="para-00083">U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020-2025. 9th Edition. December 2020. Available at https://www.dietaryguidelines.gov/ </para>
+<para id="para-00083">U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020-2025. 9th Edition. December 2020. https://www.dietaryguidelines.gov/</para>
 <para id="para-00084">U.S. Food and Drug Administration. (2022a). Daily Value on the New Nutrition and Supplement Facts Labels. https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels</para>
 <para id="para-00085">U.S. Food and Drug Administration. (2022b). Information for Consumers on Using Dietary Supplements. https://www.fda.gov/food/dietary-supplements/information-consumers-using-dietary-supplements</para>
 <para id="para-00086">van Gool, J. D., Hirche, H., Lax, H., &amp; Schaepdrijver, L. D. (2020). Fallacies of clinical studies on folic acid hazards in subjects with a low vitamin B<sub>12</sub> status. <emphasis effect="italics">Critical Reviews in Toxicology</emphasis>, <emphasis effect="italics">50</emphasis>(2), 177–187. https://doi-org.ezproxy.gvsu.edu/10.1080/10408444.2020.1727842</para>
