@@ -39,34 +39,34 @@
         <colspec colnum="2" colname="c2" colwidth="2*"/>
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Atenolol</term><newline/>(<term class="no-emphasis" id="term-00003">Tenormin</term>)</entry>
-      <entry>50 mg orally daily, either alone or with diuretic therapy. If optimal response is not achieved, the dosage should increase to 100 mg orally daily. Dosage beyond 100 mg a day is unlikely to produce any further benefit.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Atenolol</term><newline/>(<term class="no-emphasis" id="term-00003">Tenormin</term>)</entry>
+        <entry valign="top" align="left">50 mg orally daily, either alone or with diuretic therapy. If optimal response is not achieved, the dosage should increase to 100 mg orally daily. Dosage beyond 100 mg a day is unlikely to produce any further benefit.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Carvediolol</term><newline/>(<term class="no-emphasis" id="term-00005">Coreq</term>)</entry>
-      <entry>6.25–25 mg orally twice daily; maximum dose 25 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Carvedilol</term><newline/>(<term class="no-emphasis" id="term-00005">Coreq</term>)</entry>
+        <entry valign="top" align="left">6.25–25 mg orally twice daily; maximum dose 25 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Metoprolol tartrate</term><newline/>(<term class="no-emphasis" id="term-00007">Lopressor</term>)</entry>
-      <entry><emphasis effect="italics">Initial dosage:</emphasis> 100 mg orally daily in single or divided doses. Increase dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.<newline/><emphasis effect="italics">Effective dosage:</emphasis> 100–450 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Metoprolol tartrate</term><newline/>(<term class="no-emphasis" id="term-00007">Lopressor</term>)</entry>
+        <entry valign="top" align="left"><emphasis effect="italics">Initial dosage:</emphasis> 100 mg orally daily in single or divided doses. Increase dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.<newline/><emphasis effect="italics">Effective dosage:</emphasis> 100–450 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00008">Nadolol</term><newline/>(<term class="no-emphasis" id="term-00009">Corgard</term>)</entry>
-      <entry>40–320 mg orally daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Nadolol</term><newline/>(<term class="no-emphasis" id="term-00009">Corgard</term>)</entry>
+        <entry valign="top" align="left">40–320 mg orally daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00010">Propranolol</term><newline/>(<term class="no-emphasis" id="term-00011">Inderal&#160;LA</term>)</entry>
-      <entry>40 mg orally twice daily; maximum dose 640 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Propranolol</term><newline/>(<term class="no-emphasis" id="term-00011">Inderal&#160;LA</term>)</entry>
+        <entry valign="top" align="left">40 mg orally twice daily; maximum dose 640 mg daily.</entry>
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Emphasis Table: Beta Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Emphasis Table: Beta Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00003">
@@ -89,8 +89,8 @@
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-      50–400 mg orally twice daily.
-      </entry>
+      <emphasis effect="italics">Initial dosage:</emphasis> 100 mg orally daily in single or divided doses. Increased dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.<newline/> 
+      <emphasis effect="italics">Effective dosage:</emphasis> 100-450 mg daily.</entry>
       </row>
       <row>
         <entry valign="top">
@@ -155,7 +155,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Metoprolol Tartrate (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Prototype Table: Metoprolol Tartrate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       <note class="clinical-tip" id="note-00002">
       <title>Assessing Comorbidities: Asthma, Chronic Obstructive Pulmonary Disease, and Diabetes</title>

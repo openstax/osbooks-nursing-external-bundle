@@ -19,38 +19,38 @@
       <section id="sect-00002">
       <title>Introduction and Use</title>
       <para id="para-00002"><term id="term-00001">Angiotensin II receptor blockers (ARBs)</term> are a classification of drug that binds to and inhibits angiotensin II type I receptors. Renin secretion catalyzes the conversion of angiotensinogen to angiotensin in the liver where it is then converted to angiotensin II by the angiotensin-converting enzyme.</para>
-      <para id="para-00003">ARBs resemble ACE inhibitors in how they affect blood pressure and the cardiovascular system. However, there are three notable differences: ARBs are less likely than ACE inhibitors to cause a chronic cough (Carter, 2022); the risk of angioedema is decreased with ARBs as compared with ACE inhibitors; and, ARBs have been shown to be effective in the treatment of chronic kidney disease and heart failure.</para>
+      <para id="para-00003">ARBs resemble ACE inhibitors in how they affect blood pressure and the cardiovascular system. However, there are three notable differences: ARBs are less likely than ACE inhibitors to cause a chronic cough (Carter, 2022); the risk of angioedema is decreased with ARBs as compared with ACE inhibitors; and ARBs have been shown to be effective in the treatment of chronic kidney disease and heart failure.</para>
       <para id="para-00003a"><link target-id="table-00001" document="m00289"/> lists common ARBs and typical routes and dosing for adult clients.</para>
-      <table class="vertically-tight" id="table-00001">
+      <table class="vertically-tight full-width" id="table-00001">
      <tgroup cols="2">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="2*"/>
      <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Candesartan</term><newline/>(<term class="no-emphasis" id="term-00003">Atacand</term>)</entry>
-      <entry>16 mg orally daily; maximum dose 32 mg daily in 1–2 divided doses.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Candesartan</term><newline/>(<term class="no-emphasis" id="term-00003">Atacand</term>)</entry>
+        <entry valign="top" align="left">16 mg orally daily; maximum dose 32 mg daily in 1–2 divided doses.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Losartan</term><newline/>(<term class="no-emphasis" id="term-00005">Cozaar</term>)</entry>
-      <entry>25–100 mg orally daily in 1–2 divided doses.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Losartan</term><newline/>(<term class="no-emphasis" id="term-00005">Cozaar</term>)</entry>
+        <entry valign="top" align="left">25–100 mg orally daily in 1–2 divided doses.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Telmisartan</term><newline/>(<term class="no-emphasis" id="term-00007">Micardis</term>)</entry>
-      <entry>40 mg orally daily initially; maximum dose 80 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Telmisartan</term><newline/>(<term class="no-emphasis" id="term-00007">Micardis</term>)</entry>
+        <entry valign="top" align="left">40 mg orally daily initially; maximum dose 80 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00008">Valsartan</term><newline/>(<term class="no-emphasis" id="term-00009">Diovan</term>)</entry>
-      <entry>80–320 mg orally once daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Valsartan</term><newline/>(<term class="no-emphasis" id="term-00009">Diovan</term>)</entry>
+        <entry valign="top" align="left">80–320 mg orally once daily.</entry>
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Emphasis Table: ARBs (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Emphasis Table: ARBs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00003">
@@ -81,7 +81,7 @@
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-      80–320 mg dorally daily.
+      80–320 mg orally daily.
       </entry>
       </row>
       <row>
@@ -138,7 +138,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Valsartan (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Prototype Table: Valsartan</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00004">

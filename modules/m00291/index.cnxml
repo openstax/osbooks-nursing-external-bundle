@@ -19,7 +19,7 @@
       <section id="sect-00002">
       <title>Introduction and Use</title>
       <para id="para-00002"><term id="term-00001">Calcium channel blockers</term> are a classification of drug that blocks calcium from entering cells by binding to long-acting voltage-gated calcium channels in the heart, smooth muscle, and pancreas. Calcium causes vasoconstriction. Calcium channel blockers inhibit calcium and allow for vasodilation, thereby causing the heart rate to slow and blood pressure to lower. Calcium channel blockers are commonly used to treat hypertension, angina, and arrhythmias.</para>
-      <para id="para-00003">Calcium channel blockers are classified as dihydropyridines or nondihydropyridines. Dihydropyridines are peripheral vasodilators that lower blood pressure and heart rate; they are used to treat post-intracranial hemorrhage, vasospasm, and migraines. In addition to their action on the peripheral vasculature, nondihydropyridines inhibit the sinoatrial and AV nodes, slowing cardiac conduction and heart rate, and decreasing oxygen demand.</para>
+      <para id="para-00003">Calcium channel blockers are classified as dihydropyridines or nondihydropyridines. Dihydropyridines are peripheral vasodilators that lower blood pressure and heart rate; they are used to treat post-intracranial hemorrhage, vasospasm, and migraines. In addition to their action on the peripheral vasculature, nondihydropyridines inhibit the sinoatrial and AV nodes, slowing cardiac conduction and heart rate and decreasing oxygen demand.</para>
       <para id="para-00004">Calcium channel blockers may be used alone or in combination with other drugs. They are highly protein bound, which increases the volume of distribution within the body. Calcium channel blockers are available in long- and short-acting formulas.</para>
       <note class="special-considerations" id="note-00001">
       <title>Calcium Channel Blockers</title>
@@ -52,7 +52,8 @@
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00006">Nicardipine</term><newline/>(<term class="no-emphasis" id="term-00007">Cardene</term>)</entry>
-      <entry><emphasis effect="italics">Sustained release:</emphasis> 30–60 mg daily; maximum dose 120 mg daily.<newline/><emphasis effect="italics">Intravenous (IV) infusion:</emphasis> 5–15 mg hourly.</entry>
+      <entry><emphasis effect="italics">Immediate release:</emphasis> 20–40 mg orally 3 times daily.<newline/> 
+        <emphasis effect="italics">Sustained release:</emphasis> 30–60 mg daily; maximum dose 120 mg daily.<newline/><emphasis effect="italics">Intravenous (IV) infusion:</emphasis> 5–15 mg hourly.</entry>
       </row>
       <row>
       <entry><term class="no-emphasis" id="term-00008">Nifedipine</term><newline/>(<term class="no-emphasis" id="term-00009">Procardia</term>)</entry>
@@ -64,14 +65,14 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Emphasis Table: Calcium Channel Blockers (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Emphasis Table: Calcium Channel Blockers</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00003">
       <title>Adverse Effects and Contraindications</title>
       <para id="para-00009">Adverse effects of calcium channel blockers include dizziness, constipation, palpitations, fatigue, flushing, nausea, rash, headache, and swelling in the legs and feet. Serious side effects include thrombocytopenia, hypotension, and hyperglycemia. Clients with a hypersensitivity to calcium channel blockers or their components should not use this classification of drug. Other contraindications include sick sinus syndrome (except in clients with an artificial pacemaker), severe hypotension, a history of myocardial infarction, or a history of pulmonary congestion.</para>
       <para id="para-00010"><link target-id="table-00002" document="m00291"/> is a drug prototype table for calcium channel blockers featuring amlodipine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-      <table class="vertically-tight" id="table-00002">
+      <table class="vertically-tight full-width" id="table-00002">
       <tgroup cols="2">
         <colspec colnum="1" colname="col1" colwidth="1*"/>
         <colspec colnum="2" colname="col2" colwidth="1*"/>
@@ -137,7 +138,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Amlodipine (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Prototype Table: Amlodipine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00004">
@@ -162,7 +163,7 @@
       <note class="unfolding-casestudy" id="note-00006">
         <title>Part B</title>
         <para id="para-00008">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
-        <para id="para-00037">Hahn follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnoses her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Hahn about this new drug.</para>
+        <para id="para-00037">Hahn Tran follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnoses her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Hahn about this new drug.</para>
         <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00038"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec5_UCSQ1"/></para></problem></exercise>
         <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec5_UCSQ2"/></para></problem></exercise>
         </note>

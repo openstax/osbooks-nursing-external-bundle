@@ -32,34 +32,34 @@
 
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Isosorbide dinitrate</term><newline/>
 	 (<term class="no-emphasis" id="term-00003">Isordil</term>)</entry>
-      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 5–10 mg by sublingual route as needed every 2–4 hours.<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally 2–3 times daily.<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg orally 1–2 times daily; maximum dose 160 mg daily.</entry>
+   <entry valign="top" align="left"><emphasis effect="italics">Sublingual tablets:</emphasis> 2.5–10 mg by sublingual route as needed every 2–4 hours.<newline/><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–80 mg orally 2–3 times daily.<newline/><emphasis effect="italics">Sustained-release capsules:</emphasis> 40 mg orally 1–2 times daily; maximum dose 160 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Isosorbide mononitrate</term><newline/>
 	 (<term class="no-emphasis" id="term-00005">Imdur</term>)</entry>
-      <entry><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–20 mg twice daily.<newline/><emphasis effect="italics">Extended-release tablets:</emphasis> 30–60 mg once daily; maximum dose 240 mg daily.</entry>
+   <entry valign="top" align="left"><emphasis effect="italics">Immediate-release tablets:</emphasis> 5–20 mg twice daily.<newline/><emphasis effect="italics">Extended-release tablets:</emphasis> 30–60 mg once daily; maximum dose 240 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Nitroglycerin</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Nitroglycerin</term><newline/>
 	 (<term class="no-emphasis" id="term-00007">Nitrobid</term>, <term class="no-emphasis" id="term-00008">Nitrostat</term>, <term class="no-emphasis" id="term-00009">Nitrolingual</term>)</entry>
-      <entry><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally 3–4 times daily.<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every 4–8 hours daily.<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily.<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute IV.</entry>
+   <entry valign="top" align="left"><emphasis effect="italics">Sublingual tablets:</emphasis> 0.15–0.6 mg administered sublingually as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Sustained-release tablets:</emphasis> 2.5 mg orally 3–4 times daily.<newline/><emphasis effect="italics">Spray:</emphasis> 1–2 metered doses (0.4 mg/dose) sprayed onto oral mucosa as needed for chest pain every 5 minutes up to 3 times for continued chest pain.<newline/><emphasis effect="italics">Ointment:</emphasis> 1/2 to 2 inches applied topically every 4–8 hours daily.<newline/><emphasis effect="italics">Patch (disk):</emphasis> Applied to skin once daily.<newline/><emphasis effect="italics">Solution:</emphasis> 5–10 mcg/minute up to 100 mcg/minute IV.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00010">Nitroprusside</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Nitroprusside</term><newline/>
       (<term class="no-emphasis" id="term-00011">Nipride</term>)</entry>
-      <entry><emphasis effect="italics">Solution:</emphasis> 0.3 mcg/kg/min IV and titrate every few minutes until desired effect is achieved; maximum dose 10 mcg/kg/min.</entry>
+      <entry valign="top" align="left"><emphasis effect="italics">Solution:</emphasis> 0.3 mcg/kg/min IV and titrate every few minutes until desired effect is achieved; maximum dose 10 mcg/kg/min.</entry>
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Emphasis Table: Nitrates (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Emphasis Table: Nitrates</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00003">
@@ -147,7 +147,7 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Nitroglycerin (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Prototype Table: Nitroglycerin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00004">

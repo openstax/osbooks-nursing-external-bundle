@@ -41,39 +41,39 @@
 
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00001">Chlorthalidone</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00001">Chlorthalidone</term><newline/>
 	 (<term class="no-emphasis" id="term-00002">Thalitone</term>)</entry>
-      <entry>12.5–100 mg orally daily; maximum dose 100 mg daily.</entry>
+   <entry valign="top" align="left">25–100 mg orally daily; maximum dose 100 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00003">Hydrochlorothiazide</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Hydrochlorothiazide</term><newline/>
 	 (<term class="no-emphasis" id="term-00004">Microzide</term>)</entry>
-      <entry>25–100 mg orally daily.</entry>
+   <entry valign="top" align="left">12.5–50 mg orally daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00005">Amiloride</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Amiloride</term><newline/>
 	 (<term class="no-emphasis" id="term-00006">Midamor</term>)</entry>
-      <entry>5–20 mg orally daily; maximum dose 20 mg daily.</entry>
+   <entry valign="top" align="left">5–20 mg orally daily; maximum dose 20 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00007">Spironolactone</term><newline/>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Spironolactone</term><newline/>
 	 (<term class="no-emphasis" id="term-00008">Aldactone</term>)</entry>
-      <entry>12.5–25 mg orally daily; maximum dose 50 mg daily.</entry>
+   <entry valign="top" align="left">25–100 mg orally daily</entry>
       </row>
 
       <row>
-      <entry><term class="no-emphasis" id="term-00009">Triamterene</term><newline/>(<term class="no-emphasis" id="term-00010">Dyrenium</term>)</entry>
-      <entry>Individualized based on client need. When used alone, the starting dose is 100 mg orally twice daily. Maximum dose should not exceed 300 mg orally daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00009">Triamterene</term><newline/>(<term class="no-emphasis" id="term-00010">Dyrenium</term>)</entry>
+        <entry valign="top" align="left">Individualized based on client need. When used alone, the starting dose is 100 mg orally twice daily. Maximum dose should not exceed 300 mg orally daily.</entry>
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Emphasis Table: Thiazide-Like and Potassium-Sparing Diuretics (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Emphasis Table: Thiazide-Like and Potassium-Sparing Diuretics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
     </section>
@@ -96,7 +96,7 @@ increased sodium excretion in the kidneys and lowering blood pressure
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-      25–100 mg orally daily.
+      12.5&#8211;50 mg orally daily.
       </entry>
       </row>
       <row>
@@ -146,7 +146,7 @@ increased sodium excretion in the kidneys and lowering blood pressure
       </row>
       </tbody>
       </tgroup>
-      <caption>Drug Prototype Table: Hydrochlorothiazide (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+      <caption><emphasis effect="bold">Drug Prototype Table: Hydrochlorothiazide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
       </table>
       </section>
       <section id="sect-00005">
@@ -174,7 +174,7 @@ increased sodium excretion in the kidneys and lowering blood pressure
       <para id="para-00009b"><emphasis effect="bold">The client taking a potassium-sparing diuretic should:</emphasis></para>
       <list list-type="bulleted" id="list-00005">
       <item>Avoid exposure to direct sunlight because spironolactone can cause photosensitivity.</item>
-      <item>Avoid potassium-rich foods such as avocados, bananas, beans, and spinach, if their potassium levels are high.</item>
+      <item>Avoid potassium-rich foods such as avocados, bananas, beans, and spinach if their potassium levels are high.</item>
       </list>
       </note>
       </section>
