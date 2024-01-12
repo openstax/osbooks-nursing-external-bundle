@@ -23,14 +23,13 @@
     <media alt="atoms_isotopes">
     <iframe width="560" height="315" src="https://openstax.org/r/preventalzhei"/>
     </media>
-    </note>
-    <para id="para-00005">In this TEDx Talk, entitled “What You Can Do to Prevent Alzheimer’s” neuroscientist Lisa Genova describes the pathophysiology of the disease, with an emphasis on ways to potentially prevent the disease. Her presentation also discusses the concept of <term class="no-emphasis" id="term-00003">neuroplasticity</term> and building a resistance to the changes in the brain seen with AD.</para>
+        <para id="para-00005">In this TEDx Talk, entitled “What You Can Do to Prevent Alzheimer’s,” neuroscientist Lisa Genova describes the pathophysiology of the disease, with an emphasis on ways to potentially prevent the disease. Her presentation also discusses the concept of <term class="no-emphasis" id="term-00003">neuroplasticity</term> and building a resistance to the changes in the brain seen with AD.</para>
     <media alt="atoms_isotopes">
     <iframe width="560" height="315" src="https://openstax.org/r/buildanalzhe"/>
     </media>
     <para id="para-00006">This video, also featuring Lisa Genova, explains that most forgetfulness in aging is normal. It also describes five ways to build an Alzheimer’s-resistant brain.</para>
-    <section id="sect-00002">
-    <section id="sect-00003">
+  </note>
+     <section id="sect-00003">
     <title>Pathophysiology</title>
     <para id="para-00007">To fully understand how a drug alters symptoms, it is important to understand the pathophysiology of the disease being treated at the biochemical level. In most central nervous system disorders, the existing knowledge is limited. The brain is a complex structure, and the overall neuronal degeneration and cerebral atrophy recognized in AD has been theorized to result from a variety of changes. Researchers are still trying to unravel the underlying pathophysiology of AD. The following is a list of alterations that have been identified as origins for the cognitive decline seen with this disease (Huang, 2023):</para>
     <list id="list-00002">
@@ -46,12 +45,12 @@
     <title>Etiology</title>
     <para id="para-00008">An underlying single cause for AD has yet to be discovered. There have been important theories and findings, but it is not known how these pieces fit together. Interestingly, the major pathologic findings begin to develop a decade or more before clinical manifestations are even observed. At this point, the etiology is considered multifactorial. The following are current potential causes of AD:</para>
     <list id="list-00003">
-    <item>Degeneration of neurons in the hippocampus and cerebral cortex that subsequently cause cerebral atrophy.</item>
-    <item>Formation of beta-amyloid plaques.</item>
-    <item>Accumulation of neurofibrillary tangles and chemically altered tau protein.</item>
-    <item>Oxidative stress forming free radicals that damage cellular components caused by ROS. (This is discussed more in the following section.)</item>
-    <item>Deficiency of acetylcholine.</item>
-    <item>Genetics.</item>
+    <item>Degeneration of neurons in the hippocampus and cerebral cortex that subsequently cause cerebral atrophy</item>
+    <item>Formation of beta-amyloid plaques</item>
+    <item>Accumulation of neurofibrillary tangles and chemically altered tau protein</item>
+    <item>Oxidative stress forming free radicals that damage cellular components caused by ROS (This is discussed more in the following section.)</item>
+    <item>Deficiency of acetylcholine</item>
+    <item>Genetics</item>
     </list>
     <para id="para-00009"><link target-id="fig-00001" document="m00259"/> compares a cross-section of a normal brain with one from a client with Alzheimer’s disease.</para>
     <figure class="scaled-down" id="fig-00001">
@@ -66,14 +65,13 @@
     </section>
     <section id="sect-00006">
     <title>Clinical Manifestations</title>
-    <para id="para-00011">As the disease progresses, the clinical manifestations worsen to the point where the client is unable to independently perform their activities of daily living. They become reliant on others for assistance. Early in the disease, the following mild manifestations may be witnessed: confusion, memory loss, disorientation, getting lost in familiar surroundings, problems with routine tasks, and changes in personality and judgment. Moderate manifestations include difficulty with ADLs (feeding and bathing), impaired organization and planning, impaired mathematical ability, anxiety/agitation, sleep disturbances, wandering, and difficulty in recognizing family and friends. Late manifestations include loss of speech, anorexia, impaired swallowing, weight loss, difficulty with movement, loss of ability to appropriately respond to the environment, sense of paranoia, <term id="term-00007">delusions</term>, <term id="term-00008">hallucinations</term>, and inability to control bladder and bowel function. At this point, the client is completely dependent on caregivers. AD will eventually destroy enough brain function to cause death.</para>
+    <para id="para-00011">As the disease progresses, the clinical manifestations worsen to the point where the client is unable to independently perform their activities of daily living (ADL). They become reliant on others for assistance. Early in the disease, the following mild manifestations may be witnessed: confusion, memory loss, disorientation, getting lost in familiar surroundings, problems with routine tasks, and changes in personality and judgment. Moderate manifestations include difficulty with ADLs (feeding and bathing), impaired organization and planning, impaired mathematical ability, anxiety/agitation, sleep disturbances, wandering, and difficulty in recognizing family and friends. Late manifestations include loss of speech, anorexia, impaired swallowing, weight loss, difficulty with movement, loss of ability to appropriately respond to the environment, sense of paranoia, <term id="term-00007">delusions</term>, <term id="term-00008">hallucinations</term>, and inability to control bladder and bowel function. At this point, the client is completely dependent on caregivers. AD will eventually destroy enough brain function to cause death.</para>
     </section>
     <section id="sect-00007">
     <title>Pharmacological Management</title>
     <para id="para-00012">Currently, there is no known cure for AD. Drugs given for AD may at best slow the loss of memory and cognition in hopes of affording the person extra time to be able to continue functioning independently. Unfortunately, often the person observes minimal and short-term clinical efficacy from these medications. The AChE inhibitors (also known as cholinesterase inhibitors) were the first class of drugs approved by the FDA to treat AD. There are currently three drugs within this class. The other drug class, which currently contains one drug, is the N-methyl-D-aspartate (NMDA) receptor antagonist. In 2014, a capsule containing a combination of memantine hydrochloride ER (NMDA receptor antagonist) and donepezil hydrochloride (AChE inhibitor) was approved for the treatment of moderate to severe dementia of the Alzheimer’s type. This drug has the capability of targeting two different sites of action.</para>
     </section>
-    </section>
-    </content>
+      </content>
     <glossary>
       <definition id="def-00001"><term>Alzheimer’s disease (AD)</term> <meaning>most common neurodegenerative condition of the brain; characterized by significant changes in brain tissue</meaning></definition>
       <definition id="def-00002"><term>apoptosis</term> <meaning>programmed cell death prompted by a signal and designed to replace old cells with new ones</meaning></definition>

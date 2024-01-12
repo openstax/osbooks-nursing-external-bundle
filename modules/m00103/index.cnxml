@@ -16,8 +16,6 @@
 </list>
 </section>
 <para id="para-00002"><term class="no-emphasis" id="term-00001">Dosage calculations</term> are an important part of drug administration, and the safety of the client depends on the nurse’s ability to correctly calculate the dosage needed at any point in time. Drugs are not always available in the exact dosage or units of measurement that the client needs or the provider ordered. Knowing how to accurately calculate the amount needed is vital for the safety of the client. This chapter will review the units of measure used in drug calculations, introduce drug labels and explain how to interpret them, and acquaint the learner with various methods for performing drug calculations. The basis for all drug calculations is a fundamental knowledge of math skills and problem-solving.</para>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Systems of Measurement</title>
 <para id="para-00003">There are several different <term class="no-emphasis" id="term-00002">systems of measurement</term>. The apothecary system, the household system, and the metric system are three of the most common.</para>
@@ -27,13 +25,13 @@
 </section>
 <section id="sect-00005">
 <title>Household System</title>
-<para id="para-00005">The <term class="no-emphasis" id="term-00004">household system</term> (also known as the <term class="no-emphasis" id="term-00005">customary system</term>) includes units of measure such as tablespoons, teaspoons, pounds, and ounces. Unfortunately, there has been much confusion in using this system, which leads to dosing errors. Thus, it is no longer used. The ISMP has issued recommendations to avoid household measurements. For conversion equivalents, see <link document="m00381"><emphasis effect="bold">Appendix C: Drug Conversion Table</emphasis></link>.</para>
+<para id="para-00005">The <term class="no-emphasis" id="term-00004">household system</term> (also known as the <term class="no-emphasis" id="term-00005">customary system</term>) includes units of measure such as tablespoons, teaspoons, pounds, and ounces. Unfortunately, there has been much confusion in using this system, which leads to dosing errors. Thus, it is no longer used. The ISMP has issued recommendations to avoid household measurements. For conversion equivalents, see <link document="m00381">Appendix C: Drug Conversion Table</link>.</para>
 </section>
 <section id="sect-00006">
 <title>Metric System</title>
 <para id="para-00006">Three types of metric measures are commonly used: length, volume, and weight. This section will cover only volume and weight. It is important to understand that the units can be smaller or larger in relation to their metric measure. The basic units are multiplied or divided by multiples of 10, which increases the ease of use when converting from one unit of measure to another.</para>
-<para id="para-00007">Volume measures a liquid and is commonly used in dosage calculation when measuring liquid drugs, in the reconstitution of drugs, or with intravenous therapy. The metric system defines volume in units of liters. Weight measures mass and is commonly used in dosage calculation when a particular drug is administered based on the client’s weight. The metric system defines weight in units of grams. A few examples are listed in <link target-id="table-00001" document="m00103"/>, followed by their abbreviations and their equivalent number of grams. (See also <link document="m00379"><emphasis effect="bold">Appendix A: International System of Units</emphasis></link>.)</para>
-<para id="para-00008">Kilo indicates a larger unit of measurement and equals 1000. Milli indicates a smaller unit of measurement and equals 1/1000. Micro is also a smaller measurement and equals 1/1,000,000. Conversion between metric system units routinely occurs when you are preparing to administer drugs to clients.</para>
+<para id="para-00007">Volume measures a liquid and is commonly used in dosage calculation when measuring liquid drugs, in the reconstitution of drugs, or with intravenous therapy. The metric system defines volume in units of liters. Weight measures mass and is commonly used in dosage calculation when a particular drug is administered based on the client’s weight. The metric system defines weight in units of grams. A few examples are listed in <link target-id="table-00001" document="m00103"/>, followed by their abbreviations and their equivalent number of grams. (See also <link document="m00379">Appendix A: International System of Units</link>.)</para>
+<para id="para-00008"><emphasis effect="italics">Kilo</emphasis> indicates a larger unit of measurement and equals 1000. <emphasis effect="italics">Milli</emphasis> indicates a smaller unit of measurement and equals 1/1000. <emphasis effect="italics">Micro</emphasis> is also a smaller measurement and equals 1/1,000,000. Conversion between metric system units routinely occurs when you are preparing to administer drugs to clients.</para>
 <table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="4">
@@ -51,7 +49,7 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left" morerows="3"><emphasis effect="bold">Weight</emphasis></entry>
+<entry valign="top" align="left" morerows="3">Weight</entry>
 <entry valign="top" align="left">Kilo</entry>
 <entry valign="top" align="left">Kilogram (kg)</entry>
 <entry valign="top" align="left">1 kg = 1000 g</entry>
@@ -72,32 +70,29 @@
 <entry valign="top" align="left">1,000,000 mcg = 1 g</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Volume</emphasis></entry>
+<entry valign="top" align="left" morerows="3">Volume</entry>
 <entry valign="top" align="left">Base unit</entry>
 <entry valign="top" align="left">Liter (L)</entry>
 <entry valign="top" align="left">NA</entry>
 </row>
 <row>
-<entry valign="top" align="left"/>
 <entry valign="top" align="left">Deci</entry>
 <entry valign="top" align="left">Deciliter</entry>
 <entry valign="top" align="left">10 dL = 1 L</entry>
 </row>
 <row>
-<entry valign="top" align="left"/>
 <entry valign="top" align="left">Milli</entry>
 <entry valign="top" align="left">Milliliter (mL)</entry>
 <entry valign="top" align="left">1000 mL = 1 L</entry>
 </row>
 <row>
-<entry valign="top" align="left"/>
 <entry valign="top" align="left">Micro</entry>
 <entry valign="top" align="left">Microliter (mcL)</entry>
 <entry valign="top" align="left">1,000,000 mcL = 1 L</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Common metric prefixes, abbreviations, and conversions used in dosage calculation.</caption>
+<caption><emphasis effect="bold">Common Metric Prefixes, Abbreviations, and Conversions Used in Dosage Calculation</emphasis></caption>
 </table>
 <para id="para-00009">Note that the abbreviation for “micro” is sometimes shown as the Greek mu (µ, as in µg or µL); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
 <note class="practice-problems" id="note-00001">
@@ -113,7 +108,7 @@
   <item><m:math><m:mi>_____</m:mi><m:mo> </m:mo><m:mi mathvariant="normal">g</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1500</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:math></item>
   <item><m:math><m:mi>_____</m:mi><m:mo> </m:mo><m:mi mathvariant="normal">L</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>2000</m:mn><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
   <item><m:math><m:mn>750</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi mathvariant="normal">g</m:mi></m:math></item>
-  <item>8.<m:math><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>5000</m:mn><m:mo> </m:mo><m:mi>mcg</m:mi></m:math></item>
+  <item><m:math><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>5000</m:mn><m:mo> </m:mo><m:mi>mcg</m:mi></m:math></item>
   </list>
   </problem>
     <solution id="sol-00001">
@@ -135,10 +130,10 @@
     <exercise id="exer-00002">
       <problem id="prob-00002">
  <title>Metric vs. Household Measurements</title>
-<para id="para-00014">Calculate the missing value. Use the table in <link document="m00381"><emphasis effect="bold">Appendix C: Drug Conversion Table</emphasis></link> for household equivalents.</para>
+<para id="para-00014">Calculate the missing value. Use the table in <link document="m00381">Appendix C: Drug Conversion Table</link> for household equivalents.</para>
 
   <list list-type="enumerated" number-style="arabic" id="list-00004">
-  <item><m:math><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>kg</m:mi></m:math></item>
+  <item><m:math><m:mn>2.2</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>kg</m:mi></m:math></item>
   <item><m:math><m:mn>10</m:mn><m:mo> </m:mo><m:mi>ounces</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
   <item><m:math><m:mn>3</m:mn><m:mo> </m:mo><m:mi>tsp</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
   <item><m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo> </m:mo><m:mi>cup</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>_____</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
@@ -158,7 +153,7 @@
   <item>65 kg</item>
   <item>4 L</item>
   <item>0.075 g</item>
-  <item>8. 60 mL</item>
+  <item>60 mL</item>
   </list>
   </solution>
   </exercise>
@@ -174,7 +169,7 @@
 </figure>
 <figure class="scaled-down" id="fig-00002">
 <media alt="An example of a drug label for a controlled substance is shown. On the top left are the generic and brand names of the drug. Right next to this is a letter C with two vertical lines inside of it, indicating that this drug is a controlled substance. This information is in white font on a red background; the rest of the label is black font on a white background. Below the drug name is the strength of the drug and the drug formulation or administration route. Next is information about whether the vial is for single use or multiuse. Below this is the expiration date. On the side of the label is a colored strip that has the word Fentanyl written twice; below this writing is a dotted line with the words tear here."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_016.png"/></media>
-<caption>This Fentanyl label depicts areas where the drug label components are found for a controlled substance. (credit: modification of work “FENTANYL CITRATE injection” by National Library of Medicine,Public Domain)</caption>
+<caption>This Fentanyl label depicts areas where the drug label components are found for a controlled substance. (credit: modification of work “FENTANYL CITRATE injection” by National Library of Medicine, Public Domain)</caption>
 </figure>
 </section>
 <section id="sect-00008">
@@ -183,8 +178,8 @@
 <section id="sect-00009">
 <title>Basic Formula Method</title>
 <para id="para-00018">The <term class="no-emphasis" id="term-00009">basic formula method</term>, also known as Desire Over Have, is the simplest of the drug calculation methods.</para>
-<para id="para-00019"><m:math><m:mfrac><m:mi mathvariant="bold">D</m:mi><m:mi mathvariant="bold">H</m:mi></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold-italic">Q</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi></m:math></para>
-<para id="para-00020"><m:math><m:mi>D</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mi>ordered</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>H</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mi>on</m:mi><m:mo> </m:mo><m:mi>hand</m:mi><m:mo> </m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>available</m:mi><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>Q</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>quantity</m:mi><m:mo> </m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>volume</m:mi><m:mo> </m:mo><m:mi>of</m:mi><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>form</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>tablet</m:mi><m:mo>,</m:mo><m:mo> </m:mo><m:mi>capsule</m:mi><m:mo>,</m:mo><m:mo> </m:mo><m:mi>liquid</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mi>calculated</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>be</m:mi><m:mo> </m:mo><m:mi>administered</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>client</m:mi><m:mo> </m:mo></m:math></para>
+<para id="para-00019"><m:math><m:mfrac><m:mi>D</m:mi><m:mi>H</m:mi></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mi mathvariant="italic">Q</m:mi><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi></m:math></para>
+<para id="para-00020"><m:math><m:mi>D</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mi>ordered</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>H</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Amount</m:mi><m:mo> </m:mo><m:mi>on</m:mi><m:mo> </m:mo><m:mi>hand</m:mi><m:mo> </m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>available</m:mi><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>Q</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Quantity</m:mi><m:mo> </m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>volume</m:mi><m:mo> </m:mo><m:mi>of</m:mi><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>form</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>tablet</m:mi><m:mo>,</m:mo><m:mo> </m:mo><m:mi>capsule</m:mi><m:mo>,</m:mo><m:mo> </m:mo><m:mi>liquid</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Amount</m:mi><m:mo> </m:mo><m:mi>calculated</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>be</m:mi><m:mo> </m:mo><m:mi>administered</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>client</m:mi><m:mo> </m:mo></m:math></para>
 <para id="para-00021">To use this method:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00006">
 <item>Write the desired dose or the dose ordered.</item>
@@ -193,34 +188,34 @@
 </list>
 <para id="para-00022">Note: It is extremely important that the units of measure are the same when doing these calculations. If the desired dose is in mg, the on-hand amount must also be in mg. The amount to be administered will be in the same units as the quantity or volume of the drug form.</para>
 <para id="para-00023"><emphasis effect="bold">Example:</emphasis></para>
-<para id="para-00024">Desired dose: Lisinopril 10 mg orally BID (twice a day)</para>
-<para id="para-00025">On hand: Lisinopril 2.5 mg per 1 tablet</para>
-<para id="para-00026">How many tablets should the client receive per dose?</para>
-<para id="para-00027"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi mathvariant="normal">D</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>order</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi mathvariant="normal">H</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>the</m:mi><m:mo> </m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>on</m:mi><m:mo> </m:mo><m:mi>hand</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>what</m:mi><m:mo> </m:mo><m:mi>is</m:mi><m:mo> </m:mo><m:mi>available</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>per</m:mi><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi mathvariant="normal">Q</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
-<para id="para-00028"><m:math><m:mfrac><m:mrow><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi></m:math></para>
-<para id="para-00029"><m:math><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>divided</m:mi><m:mo> </m:mo><m:mi>by</m:mi><m:mo> </m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mn>4</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo><m:mo> </m:mo></m:math></para>
+<para id="para-00024">Desired dose: Lisinopril 10 mg orally BID (twice a day)<newline/>
+On hand: Lisinopril 2.5 mg per 1 tablet<newline/>
+How many tablets should the client receive per dose?</para>
+<para id="para-00027"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi mathvariant="normal">D</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>order</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi mathvariant="normal">H</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Drug</m:mi><m:mo> </m:mo><m:mi>on</m:mi><m:mo> </m:mo><m:mi>hand</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>what</m:mi><m:mo> </m:mo><m:mi>is</m:mi><m:mo> </m:mo><m:mi>available</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>per</m:mi><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi mathvariant="normal">Q</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="para-00028"><m:math><m:mfrac><m:mrow><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi></m:math></para>
+<para id="para-00029"><m:math><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>divided</m:mi><m:mo> </m:mo><m:mi>by</m:mi><m:mo> </m:mo><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mspace linebreak="newline"/><m:mn>4</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo><m:mo> </m:mo></m:math></para>
 <para id="para-00030">The amount to be administered to the client is 4 tablets.</para>
 <note class="practice-problems" id="note-00003">
   <exercise id="exer-00003">
   <problem id="prob-00003">
   <title>Basic Formula Calculations</title>
-  <para id="para-00032">Solve for the dosage (<emphasis effect="italics">X)</emphasis>.</para>
+  <para id="para-00032">Solve for the dosage (<emphasis effect="italics">X</emphasis>).</para>
   <list list-type="enumerated" number-style="arabic" id="list-00007">
   <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
   <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL<newline/>
-  <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">250</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">125</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold"> </m:mo><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">5</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
-  <item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride orally 40 mEq BID<newline/>
-  <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL<newline/>
-  <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">40</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mEq</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">15</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item>
-  <item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP (intravenous push) now<newline/>
-  <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL<newline/>
-  <m:math><m:mfrac><m:mrow><m:mn mathvariant="bold">60</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow><m:mrow><m:mn mathvariant="bold">20</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mg</m:mi></m:mrow></m:mfrac><m:mo mathvariant="bold">×</m:mo><m:mo mathvariant="bold"> </m:mo><m:mn mathvariant="bold">2</m:mn><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi><m:mo mathvariant="bold">=</m:mo><m:mi mathvariant="bold-italic">X</m:mi><m:mo mathvariant="bold"> </m:mo><m:mi mathvariant="bold">mL</m:mi></m:math></item></list>
+  <m:math><m:mfrac><m:mrow><m:mn>250</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow><m:mn>125</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
+<item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride orally 40 mEq BID<newline/>
+<emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL<newline/>
+<m:math><m:mfrac><m:mrow><m:mn>40</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi></m:mrow><m:mrow><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
+<item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP (intravenous push) now<newline/>
+<emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL<newline/>
+<m:math><m:mfrac><m:mrow><m:mn>60</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo> </m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item></list>
   </problem>
   <solution id="sol-00003">
   <para id="para-00033"><emphasis effect="bold">Solutions:</emphasis></para>
   <list list-type="enumerated" number-style="arabic" id="list-00008">
-  <item>10 mL;</item>
-  <item>30 mL;</item>
+  <item>10 mL</item>
+  <item>30 mL</item>
   <item>6 mL</item>
   </list>
   </solution>
@@ -477,7 +472,6 @@ At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint
 <title>Rounding</title>
 <para id="para-00101">The nurse must always guard against the possibility of an overdose of medication. When in the <term class="no-emphasis" id="term-00017">pediatric setting</term> or when working with high-alert medications, rounding rules may change. Many institutions <term class="no-emphasis" id="term-00018">round down</term> in the pediatric setting to prevent overdose. Sometimes the numbers after the decimal point are dropped so that 5.642 mL becomes 5 mL. This is known as <term class="no-emphasis" id="term-00019">rounding off</term> or <term class="no-emphasis" id="term-00020">cutting off</term>. It is imperative that the nurse be familiar with the policies of their institution. Most EMRs now have standardized rounding policies to assist the nurse.</para>
 </note>
-</section>
 </section>
 <section class="chapter-summary" id="sect-00015">
 <para id="para-00102">This chapter described drug administration as it relates to the nursing process and nursing clinical judgment. The importance of client teaching during drug administration was explained, and the components of teaching and learning were discussed. The processes of pharmacokinetics and pharmacodynamics were clarified with the concepts of half-life, bioavailability, and therapeutic index. This chapter reviewed the different routes of medication administration and nursing interventions related to drug administration. The chapter finished with an explanation of drug calculations and a review of the systems of measurement.</para>
