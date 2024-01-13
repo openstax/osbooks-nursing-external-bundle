@@ -16,8 +16,6 @@
 <item>Explain the client education related to opioid agonist and antagonist drugs used to treat pain.</item>
 </list>
 </section>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Opioid Agonists</title>
 <para id="para-00002"><term id="term-00001">Opioid agonists</term> have been in use for thousands of years. <term class="no-emphasis" id="term-00002">Opioids</term> originated from the opium poppy, <emphasis effect="italics">Papaver somniferum</emphasis>, from which naturally occurring opioids such as heroin, codeine, and morphine are derived. Since the discovery of the potent analgesic effects of these medications, other opioids have been developed, including hydrocodone and oxycodone. The term <emphasis effect="italics">opiate</emphasis> strictly refers to agents that come from the opium poppy (e.g., heroin, morphine), but is often used interchangeably with the term <emphasis effect="italics">opioid</emphasis>. Opioid agonists are some of the most potent analgesics available and are used for treatment of moderate to severe pain. However, opioids carry a risk for abuse and addiction that has led to one of the most notable public health crises to date, the opioid epidemic. Because of these risks, the DEA categorizes all opioids as <term class="no-emphasis" id="term-00003">controlled substances</term>. Most opioids fall under the strict categorization of Schedule II (CII), meaning they have an acceptable medical use but are associated with a high risk for abuse and addiction.</para>
@@ -243,7 +241,7 @@ Osteoarthritis<newline count="2"/>
 Aspirin 81 mg orally once daily<newline/>
 Metoprolol 50 mg orally twice daily<newline/>
 Over-the-counter ibuprofen 400 mg orally every 4–6 hours as needed for joint pain</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -404,7 +402,6 @@ Acute opioid withdrawal</entry>
 <note class="trending-today" id="note-00006">
 <para id="para-00051">In March 2023, the U.S. Food and Drug Administration approved <term class="no-emphasis" id="term-00039">naloxone hydrochloride nasal spray</term> to be sold over the counter to increase access to this life-saving medication (U.S. Food and Drug Administration, 2023). This change in the status of naloxone has paved the way to making it available in a variety of locations outside of pharmacies, including Internet retailers, gas stations, and grocery stores. This change is a crucial step to address the number of opioid overdose deaths that occur in the United States every year, as getting naloxone even a few minutes before emergency medical services arrive could mean the difference between life and death. A <link url="https://openstax.org/r/narcan"><emphasis effect="italics">New York Times</emphasis> podcast</link> describes the importance of naloxone becoming available over the counter.</para>
 </note>
-</section>
 </section>
 </section>
 <section class="chapter-summary" id="sect-00020">

@@ -21,8 +21,7 @@
     <media alt="A photograph shows the back of a patient who has been diagnosed with psoriasis. The entire back is covered in clusters of raised, red, scaly patches."><image mime-type="image/png" src="../../media/PHA_Figure_40_03_004.jpg"/></media>
     <caption>Psoriatic plaques can be widespread on the body. (credit: “The back of this patient displayed numerous erythematous patches dispersed over the entirety of his back that was diagnosed as a case of psoriasis”/CDC, Public Domain)</caption>
     </figure>
-    <section id="sect-00002">
-    <section id="sect-00003">
+       <section id="sect-00003">
     <title>Systemic Psoriatic Drugs</title>
     <para id="para-00003">Systemic drugs used in the treatment of psoriasis include methoxsalen and acitretin. Methoxsalen is not effective as a monotherapy. It is used in combination with <term class="no-emphasis" id="term-00003">ultraviolet (UV) light therapy</term> to increase its effects. A safety concern with the use of this medication is that when clients are exposed to other sources of UV light, such as the sun, they may experience severe skin burns. Methoxsalen is reserved for treatment of severe psoriasis that has been nonresponsive to other therapies.</para>
     <para id="para-00004">Acitretin, a retinoid, may be used alone or in combination with UV therapy or other medications to treat severe, refractory psoriasis. Like other <term class="no-emphasis" id="term-00004">retinoids</term>, acitretin requires very specific monitoring and prescribing limitations, especially with consideration of reproductive health. Prescriptions cannot be given until pregnancy tests and other screenings have been completed and results verified (DailyMed, <emphasis effect="italics">Acitretin,</emphasis> 2023).</para>
@@ -253,8 +252,7 @@
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00031">Adalimumab</term><newline/>
     (<term class="no-emphasis" id="term-00032">Humira</term>)</entry>
     <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Initial dose: 80 mg subcutaneously, then 40 mg every other week.<newline/>
-    <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.<newline/>
-    <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.</entry>
+       <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Ustekinumab</term><newline/>
@@ -283,7 +281,8 @@
     Binds to TNF to block action of tumor necrosis factor&#8211;mediated inflammation<newline/>
     Decreases scaling of skin</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosing</emphasis></span><newline/>
-    <emphasis effect="italics">Adults:</emphasis> Initial dose: 80 mg subcutaneously, then 40 mg every other week.</entry>
+    <emphasis effect="italics">Adults:</emphasis> Initial dose: 80 mg subcutaneously, then 40 mg every other week.<newline/>
+    <emphasis effect="italics">Children:</emphasis> Safety and efficacy for use in psoriasis have not been established in clients under the age of 17.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
@@ -372,8 +371,7 @@
     <para id="para-00026"><emphasis effect="bold">Methoxsalen</emphasis> can cause severe photosensitivity, ocular damage, skin aging, and skin cancers.</para>
     <para id="para-00027"><emphasis effect="bold">Infliximab, adalimumab</emphasis>, and <emphasis effect="bold">ustekinumab</emphasis> can increase the risk of serious infections and the development of secondary malignancies.</para>
     </note>
-    </section>
-    </section>
+     </section>
     </section>
     </content>
     <glossary>

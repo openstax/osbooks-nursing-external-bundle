@@ -19,8 +19,6 @@
 <para id="para-00002">A <term id="term-00001">nonopioid analgesic</term> refers to any pharmacologic agent that treats the symptoms of pain and does not involve activation of opioid receptors. These agents generally work by inhibiting cyclooxygenase (COX), a major pro-inflammatory enzyme that causes many signs and symptoms of inflammation, including redness, swelling, and sensitization of nociceptors, thereby increasing the transmission of painful signals to the brain. COX causes this increase in inflammation and pain by increasing the production of cytokines such as prostaglandins, prostacyclin, and thromboxane. It is also partly responsible for the pyrexia that occurs with infection, which is why many nonopioid analgesics that block the activity of COX also work as <term id="term-00002">antipyretics</term> to reduce fever.</para>
 <para id="para-00003">Cyclooxygenase has two major isoforms: COX-1 and COX-2. COX-1 helps with normal homeostatic functions in the body, including maintaining normal platelet and renal functions. It also is important for producing prostaglandins that stimulate production of the mucosal barrier that protects the stomach from its own acids. If COX-1 is inhibited through the actions of medications such as glucocorticoids or nonsteroidal anti-inflammatory drugs (NSAIDs), this protective barrier can erode, which is a major cause of peptic ulcers. COX-2 is responsible for much of the inflammation and pain brought about by tissue injury.</para>
 <para id="para-00004">Other nonopioid analgesics may serve as adjunctive agents for treating neuropathic sources of pain. These include antidepressant drugs (e.g., duloxetine, amitriptyline), antiseizure drugs (e.g., carbamazepine, pregabalin), and local anesthetics (e.g., lidocaine and bupivacaine). These are useful because they target the abnormal neuronal function that is the source of neuropathic pain. These medications are covered in their respective chapters, and health care professionals should keep these additional tools in mind to ensure adequate management of this type of pain.</para>
-<section id="sect-00002">
-<title/>
 <section id="sect-00003">
 <title>Acetaminophen</title>
 <para id="para-00005">Acetaminophen is a common over-the-counter nonopioid analgesic. It is one of the most popular analgesics due to its low cost, efficacy in treating mild to moderate pain, and excellent safety profile when used within the recommended dosages. Acetaminophen’s complete mechanism of action to relieve pain is not currently known. Some experts theorize that it inhibits COX in the central nervous system (CNS), providing analgesic and antipyretic actions, but notably it does not inhibit COX peripherally, meaning it has no anti-inflammatory action as compared with other nonopioid analgesics.</para>
@@ -197,7 +195,7 @@ Osteoarthritis (both knees and hips are affected)<newline count="2"/>
 Aspirin 81 mg orally once daily<newline/>
 Metoprolol 50 mg orally twice daily<newline/>
 Over-the-counter ibuprofen 400 mg orally every 4–6 hours as needed for joint pain</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight full-width" id="table-00003">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -254,7 +252,6 @@ Over-the-counter ibuprofen 400 mg orally every 4–6 hours as needed for joint p
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch14_Sec02_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch14_Sec02_UCSQ2"/></para></problem></exercise>
 </note>
-</section>
 </section>
 </content>
 <glossary>
