@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<<document xmlns="http://cnx.rice.edu/cnxml">
   <title>Ocular Anti-inflammatories and Anti-infectives</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Ocular Anti-inflammatories and Anti-infectives</md:title>
@@ -16,8 +16,7 @@
     <item>Explain the client education related to anti-inflammatory and anti-infective drugs used to treat eye disorders.</item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+      <section id="sect-00003">
     <title>Ocular Nonsteroidal Anti-inflammatories</title>
     <para id="para-00002"><term class="no-emphasis" id="term-00001">Nonsteroidal anti-inflammatory drugs (NSAIDs)</term> are used to prevent and treat eye inflammation. They can help relieve symptoms of pain and swelling from eye conditions, injuries, or after eye surgery. Diclofenac sodium and ketorolac tromethamine are both used to treat postoperative ocular inflammation after cataract extraction. They are also used to treat ocular pain and photophobia in clients undergoing corneal refractive surgery. To manage these conditions, drugs are administered directly into the affected eye(s).</para>
     <para id="para-00003"><link target-id="table-00001" document="m00461"/> lists common ocular nonsteroidal anti-inflammatory drugs and typical routes and dosing for adult clients.</para>
@@ -636,8 +635,7 @@
     <item>Wear contact lenses until treatment is completed. If this is not feasible, contact lenses can be inserted no earlier than 15 minutes after the drug has been administered.</item>
     </list>
     </note>
-    </section>
-    </section>
+      </section>
     </section>
     </content>
 </document>
