@@ -50,7 +50,7 @@
 </table>
 <section id="sect-00004">
 <title>Adverse Effects and Contraindications</title>
-<para id="para-00005">Lithium is excreted through the kidneys unchanged; therefore, adequate renal function is essential. Because lithium is tied to sodium resorption, any drug that affects sodium balance may alter lithium concentrations leading to either treatment failure or toxicity. Examples include diuretics, NSAIDs, and angiotensin-converting enzyme (ACE) inhibitors. Lithium interacts with other medications including carbamazepine (CNS toxicity), neuromuscular blocking agents (prolonged effects), and other serotonergic drugs (serotonin syndrome). Addison’s disease is a contraindication because the person is losing more sodium through the kidneys due to the lack of aldosterone. The kidneys then will reabsorb lithium back into the bloodstream, which can quickly cause lithium toxicity. Lithium inhibits the synthesis and release of thyroid hormones, resulting in hypothyroidism. Theophylline increases the renal excretion of lithium, resulting in subtherapeutic effects.</para>
+<para id="para-00005">Lithium is excreted through the kidneys unchanged; therefore, adequate renal function is essential. Because lithium is tied to sodium resorption, any drug that affects sodium balance may alter lithium concentrations, leading to either treatment failure or toxicity. Examples include diuretics, NSAIDs, and angiotensin-converting enzyme (ACE) inhibitors. Lithium interacts with other medications including carbamazepine (CNS toxicity), neuromuscular blocking agents (prolonged effects), and other serotonergic drugs (serotonin syndrome). Addison’s disease is a contraindication because the person is losing more sodium through the kidneys due to the lack of aldosterone. The kidneys then will reabsorb lithium back into the bloodstream, which can quickly cause lithium toxicity. Lithium inhibits the synthesis and release of thyroid hormones, resulting in hypothyroidism. Theophylline increases the renal excretion of lithium, resulting in subtherapeutic effects.</para>
 <para id="para-00006"><link target-id="table-00002" document="m00268"/> is a drug prototype table for mood stabilizers featuring lithium. It lists drug class, mechanism of action, dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -64,11 +64,11 @@ Mood stabilizer<newline count="2"/>
 Affects the synthesis, release, and reuptake of acetylcholine, dopamine, GABA, and norepinephrine within the brain<newline/>
 Stabilizes postsynaptic receptor sensitivity to neurotransmitters<newline/>
 Has a neuroprotective effect on areas of the brain associated with mood by stimulating neuronal growth<newline/>
-The exact mechanism of action is unknown.</entry>
+The exact mechanism of action is unknown</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 <emphasis effect="bold">Immediate release (acute manic episodes):</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 300 mg orally 3 times daily; usual dose: 900–1800 mg/day orally in 3–4 divided doses.<newline/>
-<emphasis effect="italics">Children &#8805;6 years:</emphasis> &lt;30 kg: Initial dose: 300 mg orally twice daily; &#8805;30 kg: Initial dose: 300 mg orally 3–4 times daily.<newline/>
+<emphasis effect="italics">Children ≥6 years:</emphasis> &lt;30 kg: Initial dose: 300 mg orally twice daily; ≥30 kg: Initial dose: 300 mg orally 3–4 times daily.<newline/>
 <emphasis effect="bold">Extended release (maintenance dosage):</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 450 mg orally twice daily. Usual dose: 900–1800 mg/day orally in 2 divided doses.<newline/>
 <emphasis effect="italics">Children >12 years:</emphasis> 450 mg orally twice daily. Maintenance dose: 15–60 mg/kg/day orally 3 times daily.</entry>
@@ -133,7 +133,7 @@ Active infection with fever</entry>
 </section>
 <section id="sect-00005">
 <title>Antiseizure Medications</title>
-<para id="para-00008">Selected <term class="no-emphasis" id="term-00004">antiseizure medications</term> can be used to treat mood disorders, usually in combination with other medications. Please refer to <emphasis effect="bold"><link document="m00307">Anticonvulsant Drugs and Drugs to Treat Epilepsy, Migraine Headaches, and Intracranial Emergencies</link></emphasis> for a more detailed discussion of antiseizure medications.</para>
+<para id="para-00008">Selected <term class="no-emphasis" id="term-00004">antiseizure medications</term> can be used to treat mood disorders, usually in combination with other medications. Please refer to <link document="m00307">Anticonvulsant Drugs and Drugs to Treat Epilepsy, Migraine Headaches, and Intracranial Emergencies</link> for a more detailed discussion of antiseizure medications.</para>
 <para id="para-00009"><link target-id="table-00003" document="m00268"/> lists common antiseizure medications and typical routes and dosing for adult and <term class="no-emphasis" id="term-00005">pediatric clients</term>.</para>
 <table class="vertically-tight" id="table-00003">
 <tgroup cols="2">
@@ -153,19 +153,19 @@ Active infection with fever</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Lamotrigine</term><newline/>
-(<term class="no-emphasis" id="term-00009">Lamictal, Subvenite</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Monotherapy:</emphasis> First 2 weeks, 25 mg/day orally; week 3, increase to 50 mg/day; week 5 increase to 100 mg/day; week 6 increase to 200 mg/day (maximum).<newline/>
-<emphasis effect="italics">As an adjunct to valproic acid:</emphasis> First 2 weeks, 25 mg orally every other day; week 3 increase to 25 mg/day; week 5 increase to 50 mg/day; week 6 increase to 100 mg/day. Therapeutic range: 3–14 mcg/mL.</entry>
+(<term class="no-emphasis" id="term-00009">Lamictal</term>, <term class="no-emphasis" id="term-00012">Subvenite</term>)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Monotherapy:</emphasis> First 2 weeks, 25 mg/day orally; week 3, increase to 50 mg/day; week 5, increase to 100 mg/day; week 6, increase to 200 mg/day (maximum).<newline/>
+<emphasis effect="italics">As an adjunct to valproic acid:</emphasis> First 2 weeks, 25 mg orally every other day; week 3, increase to 25 mg/day; week 5, increase to 50 mg/day; week 6, increase to 100 mg/day. Therapeutic range: 3–14 mcg/mL (or titrated to therapeutic effect).</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Valproic acid, divalproex sodium</term><newline/>
 (<term class="no-emphasis" id="term-00011">Depakote, Depakote ER</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Acute mania in adults:</emphasis> Initial dose: 1000 mg/day; increase dose rapidly. Maximum dose: 60 mg/kg/day.<newline/>
-<emphasis effect="italics">Less acute mania in adults:</emphasis> Initial dose: 200–500 mg; titrate upward as tolerated. Therapeutic range: 50–100 mcg/mL.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acute mania in adults:</emphasis> Initial dose: 250–500 mg 3 times daily; increase dose rapidly. Maximum dose: 60 mg/kg/day.<newline/>
+<emphasis effect="italics">Less acute mania in adults:</emphasis> Initial dose: 200–500 mg; titrate upward as tolerated. Therapeutic range: 50–125 mcg/mL.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Emphasis Table: Antiseizure Medications</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: Antiseizure Medications</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/; Betchel et al., 2023; Rahman et al., 2023)</caption>
 </table>
 </section>
 <section id="sect-00006">
@@ -187,10 +187,10 @@ Active infection with fever</entry>
 <list list-type="bulleted" id="list-00003">
 <item>Contact the health care provider with the first signs of rash if taking carbamazepine or lamotrigine.</item>
 <item>Notify the health care provider with unusual and easy bruising, blood in the urine or stool, fever, sore throat, right upper quadrant pain, and jaundice.</item>
-<item>Consider an additional or alternate form of contraception, because carbamazepine decreases the effectiveness of certain hormonal contraceptives.</item>
+<item>Consider an additional or alternate form of contraception because carbamazepine decreases the effectiveness of certain hormonal contraceptives.</item>
 <item>Drink 8–12 glasses of water daily to prevent dehydration, which could cause lithium toxicity. Also, maintain a consistent sodium intake.</item>
 <item>Be aware they can take lithium with food if they experience gastric irritation.</item>
-<item>Continue taking the medication as prescribed despite their symptoms subsiding, because this type of therapy is long term.</item>
+<item>Continue taking the medication as prescribed despite their symptoms subsiding because this type of therapy is long term.</item>
 <item>Notify the health care provider and stop taking the drug immediately if manifestations of overdose occur (vomiting, diarrhea, ataxia, tremor, drowsiness, and muscle weakness).</item>
 <item>Notify the health care provider if thinking about getting pregnant. Studies have shown that lithium can be harmful to the fetus.</item>
 <item>Follow the prescribed schedule for lab work to check appropriate serum drug levels.</item>
@@ -199,7 +199,7 @@ Active infection with fever</entry>
 <list list-type="bulleted" id="list-00004">
 <item>Spend time in the sun without sunscreen and other coverings.</item>
 <item>Drive or perform tasks requiring alertness and coordination until effects of carbamazepine are known.</item>
-<item>Increase their exercise routine during hot weather, because this can increase the risk of dehydration and lithium toxicity.</item>
+<item>Increase their exercise routine during hot weather because this can increase the risk of dehydration and lithium toxicity.</item>
 <item>Abruptly stop lithium, to avoid negative manifestations.</item>
 <item>Take the morning dose of lithium until a blood sample has been obtained. (Blood should be drawn about 12 hours after the last lithium dose.)</item>
 <item>Alter dietary salt intake. If decreased, lithium toxicity can result. If increased, lithium will be subtherapeutic.</item>

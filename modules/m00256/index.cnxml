@@ -22,7 +22,7 @@
 <figure class="scaled-down" id="fig-00001">
 <media alt="A diagram of a synapse shows its three components. A narrow tube-like structure at the top is the presynaptic neuron. This contains the axon terminal, which is narrow at the top but gets wider at the bottom. The axon terminal contains neurotransmitters and synaptic vesicles. The synaptic cleft separates the presynaptic neuron from the postsynaptic neuron. The synaptic cleft also contains neurotransmitters. The top part of the postsynaptic neuron is lined with ligand-gated channels with receptors for neurotransmitters.">
 <image mime-type="image/png" src="../../media/PHA_Figure_09_03_006.png"/></media>
-<caption>The synapse is the space between the axon of one neuron and the dendrite of another. The three components of the synapse are the presynaptic and post-synaptic terminals and the synaptic cleft. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>The synapse is the space between the axon of one neuron and the dendrite of another. The three components of the synapse are the presynaptic and postsynaptic terminals and the synaptic cleft. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00003">It is important to note that neurotransmitter imbalances are just one aspect of the complex mechanisms underpinning pathological conditions. Many disorders involve a combination of genetic, environmental, and neurochemical factors. Diagnosis and treatment of these conditions often require a comprehensive approach involving various therapies and medications targeting specific neurotransmitter systems.</para>
 <para id="para-00004">The main neurotransmitters of the nervous system, function, and potential pathology are shown in <link target-id="table-00001" document="m00256"/>. (The items in the “Potential Pathology” column are provided as examples, not as an exhaustive list.)</para>
@@ -33,9 +33,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Neurotransmitter</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry> 
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Potential Pathology</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Neurotransmitter</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry> 
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Potential Pathology</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@
 <item>pain</item>
 <item>coordination</item>
 <item>judgment</item></list></entry>
-<entry valign="top" align="left">Serotonin pathology is typically associated with depression, but is also associated with bowel motility, bladder control, and cardiovascular function.</entry>
+<entry valign="top" align="left">Serotonin pathology is typically associated with depression but is also associated with bowel motility, bladder control, and cardiovascular function.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Histamine</term></entry>
@@ -93,7 +93,7 @@
 <item>wakefulness</item>
 <item>pain</item>
 <item>inflammatory response</item></list></entry>
-<entry valign="top" align="left">Histamine plays a role in asthma, bronchospasm, and mucosal edema, as well as multiple sclerosis.</entry>
+<entry valign="top" align="left">Histamine plays a role in asthma, bronchospasm, and mucosal edema as well as multiple sclerosis.</entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Gamma-amino-butyric acid (GABA)</term></entry>
@@ -108,11 +108,11 @@
 <item>sensory information relay</item>
 <item>various motor and spinal reflexes regulation</item>
 <item>memory and learning</item></list></entry>
-<entry valign="top" align="left">Glutamate is the primary excitatory neurotransmitter; it is dysfunction has been related to Alzheimer’s disease and Parkinson’s disease.</entry>
+<entry valign="top" align="left">Glutamate is the primary excitatory neurotransmitter; its dysfunction has been related to Alzheimer’s disease and Parkinson’s disease.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Neurotransmitters and Pathology (source: adapted from Sam &amp; Bordoni, 2023, Sheffler, et al., 2023)</caption>
+<caption><emphasis effect="bold">Neurotransmitters and Pathology</emphasis> (sources: adapted from Sam &amp; Bordoni, 2023; Sheffler et al., 2023)</caption>
 </table>
 </section>
 <section id="sect-00004">
@@ -127,9 +127,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Primary Neurotransmitter</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Receptor</span></emphasis></entry> 
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Response</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Primary Neurotransmitter</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Receptor</span></emphasis></entry> 
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Response</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -165,15 +165,15 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Autonomic Receptors and Anticipated Actions (source: adapted from information in Alhayek &amp; Preuss, 2023; Carlson &amp; Kraus, 2023; Farzam et al, 2023; Waxenbaum et al., 2023)</caption>
+<caption><emphasis effect="bold">Autonomic Receptors and Anticipated Actions</emphasis> (sources: adapted from information in Alhayek &amp; Preuss, 2023; Carlson &amp; Kraus, 2023; Farzam et al. 2023; Waxenbaum et al., 2023)</caption>
 </table>
 <section id="sect-00005">
 <title>Autonomic Nervous System Stimulant and Blocker Characteristics</title>
-<para id="para-00008">Any pathological process that causes a disruption in the homeostasis between the SNS and the PNS may cause one of these branches to become overexcited while causing the other system to be extremely inhibited (Clar, &amp; Sharma, 2023). A wide range of symptoms may occur due to this disruption in homeostasis, and medications may be used to restore homeostasis. There are four groups of medications that are used to restore homeostasis between the SNS and PNS, and they are classified on how they affect the ANS (Clar &amp; Sharma, 2023):</para>
+<para id="para-00008">Any pathological process that causes a disruption in the homeostasis between the SNS and the PNS may cause one of these branches to become overexcited while causing the other system to be extremely inhibited (Clar &amp; Sharma, 2023). A wide range of symptoms may occur due to this disruption in homeostasis, and medications may be used to restore homeostasis. There are four groups of medications that are used to restore homeostasis between the SNS and PNS, and they are classified on how they affect the ANS (Clar &amp; Sharma, 2023):</para>
 <list list-type="enumerated" number-style="arabic" id="list-00009">
 <item>Cholinomimetics/cholinesterase antagonists include medications that are used in the treatment of urinary retention, glaucoma, smoking cessation, the diagnosis and treatment of myasthenia gravis, and the treatment of Alzheimer’s disease.</item>
-<item>Anticholinergics can be used in the treatment of bradycardias, bronchospasm, postoperative nausea and vomiting, bladder spasms and diarrhea.</item>
-<item>Adrenoreceptor agonists/sympathomimetics include medications that are indicated for the treatment of hypertension, asthma (bronchodilators), and Parkinson’s disease. The drugs dobutamine, phenylephrine and epinephrine are also in this category; they are used to treat hypotension, heart failure, cardiogenic shock, and anaphylaxis.</item>
+<item>Anticholinergics can be used in the treatment of bradycardias, bronchospasm, postoperative nausea and vomiting, bladder spasms, and diarrhea.</item>
+<item>Adrenoreceptor agonists/sympathomimetics include medications that are indicated for the treatment of hypertension, asthma (bronchodilators), and Parkinson’s disease. The drugs dobutamine, phenylephrine, and epinephrine are also in this category; they are used to treat hypotension, heart failure, cardiogenic shock, and anaphylaxis.</item>
 <item>Adrenoreceptor antagonists are indicated in the treatment of urinary retention (in benign prostatic hyperplasia), hypertension, dysrhythmias, angina, heart failure, and migraine prophylaxis.</item>
 </list>
 <para id="para-00009">It is important to remember that the four categories just discussed act as either an agonist or an antagonist for the receptors mentioned in <link target-id="table-00002" document="m00256"/>.</para>
@@ -181,11 +181,11 @@
 <section id="sect-00006">
 <title>Sympathetic Nervous System Stimulant and Blocker Characteristics</title>
 <para id="para-00010">Medications that are classified as stimulants cover a wide range of drugs that increase the activity of the central nervous system (Farzam et al., 2023). Some of the medications in this category treat attention deficit hyperactivity disorder, narcolepsy, asthma, obesity, sinus congestions, and hypotension. Drugs in this category range from caffeine to amphetamines and from legal to illegal.</para>
-<para id="para-00011">Since the sympathetic nervous system plays a rather large role in the regulation of the circulatory system and in the regulation of blood pressure, many medications that act to block the sympathetic nervous system reduce blood pressure (see <link document="m00313"><emphasis effect="bold">Antihypertensive and Antianginal Drugs</emphasis></link>). Some of these drugs work by affecting the central nervous system and others work at peripheral neuromuscular sites.</para>
+<para id="para-00011">Since the sympathetic nervous system plays a rather large role in the regulation of the circulatory system and in the regulation of blood pressure, many medications that act to block the sympathetic nervous system reduce blood pressure (see <link document="m00313">Antihypertensive and Antianginal Drugs</link>). Some of these drugs work by affecting the central nervous system, and others work at peripheral neuromuscular sites.</para>
 </section>
 <section id="sect-00007">
 <title>Parasympathetic Nervous System Stimulant and Blocker Characteristics</title>
-<para id="para-00012">As mentioned earlier in this section, parasympathomimetic drugs mimic the physiologic effects of the parasympathetic nervous system by acting as the muscarinic acetylcholine receptors. Bethanechol, which treats urinary retention, carbachol, and is used in the treatment of open-angle glaucoma, and pilocarpine, which treats both open- and closed-angle glaucoma, are examples of direct-acting parasympathomimetic drugs. There are other indirect-acting parasympathomimetic drugs that cause an increase in the synaptic concentration of acetylcholine, which result in the extended stimulation of cholinergic receptors throughout both the central and PNS (Patel &amp; Dewaswala, 2023).</para>
+<para id="para-00012">As mentioned earlier in this section, parasympathomimetic drugs mimic the physiologic effects of the parasympathetic nervous system by acting as the muscarinic acetylcholine receptors. Bethanechol, which treats urinary retention; carbachol, which is used in the treatment of open-angle glaucoma; and pilocarpine, which treats both open- and closed-angle glaucoma, are examples of direct-acting parasympathomimetic drugs. There are other indirect-acting parasympathomimetic drugs that cause an increase in the synaptic concentration of acetylcholine, which result in the extended stimulation of cholinergic receptors throughout both the CNS and PNS (Patel &amp; Dewaswala, 2023).</para>
 </section>
 </section>
 </section>
@@ -213,17 +213,17 @@
 <para id="para-00027">Centers for Disease Control and Prevention [CDC]. (2023). <emphasis effect="italics">National neurological conditions surveillance system (NNCSS)</emphasis>. https://www.cdc.gov/surveillance/neurology/index.html</para>
 <para id="para-00028">Chen I., &amp; Lui, F. (2023). <emphasis effect="italics">Neuroanatomy, neuron action potential.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK546639/</para>
 <para id="para-00029">Clar, D. T., &amp; Sharma, S. (2023). <emphasis effect="italics">Autonomic pharmacology.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK538180/</para>
-<para id="para-00030">Farzam K., Faizy R. M., &amp; Saadabadi, A. (2023). <emphasis effect="italics">Stimulants.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539896/</para>
+<para id="para-00030">Farzam, K., Faizy, R. M., &amp; Saadabadi, A. (2023). <emphasis effect="italics">Stimulants.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539896/</para>
 <para id="para-00031">Farzam, K., Kidron, A., &amp; Lakhkar, A. D. (2023). <emphasis effect="italics">Adrenergic drugs.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK534230/</para>
 <para id="para-00032">National Institute of Neurological Disorders and Stroke. (2023). <emphasis effect="italics">Brain basics: know your brain.</emphasis> https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain</para>
 <para id="para-00033">Office of Disease Prevention and Health Promotion. (2021). <emphasis effect="italics">Browse objectives</emphasis>. Healthy People 2030. https://health.gov/healthypeople/objectives-and-data/browse-objectives</para>
 <para id="para-00034">Pan American Health Organization [PAHO]. (2021). <emphasis effect="italics">Burden of neurological conditions.</emphasis> https://www.paho.org/en/enlace/burden-neurological-conditions</para>
-<para id="para-00035">Patel N. M., &amp; Dewaswala N. (2023). <emphasis effect="italics">Parasympathomimetic medications</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554534/</para>
-<para id="para-00036">Sam, C. &amp; Bordoni, B. (2023). <emphasis effect="italics">Physiology, acetylcholine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557825/</para>
+<para id="para-00035">Patel, N. M., &amp; Dewaswala, N. (2023). <emphasis effect="italics">Parasympathomimetic medications</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK554534/</para>
+<para id="para-00036">Sam, C., &amp; Bordoni, B. (2023). <emphasis effect="italics">Physiology, acetylcholine</emphasis>. StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557825/</para>
 <para id="para-00037">Sargsyan, A. (2020). <emphasis effect="italics">Essential notes on pathophysiology for advanced practice nurses</emphasis>. East Tennessee State University. https://dc.etsu.edu/etsu-oer/3</para>
-<para id="para-00038">Shahrokhi, M., &amp; Asuncion, R.,M.,D. (2023). <emphasis effect="italics">Neurologic exam.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557589/</para>
+<para id="para-00038">Shahrokhi, M., &amp; Asuncion, R. M. D. (2023). <emphasis effect="italics">Neurologic exam.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK557589/</para>
 <para id="para-00039">Sheffler, Z. M., Reddy, V., &amp; Pillarisetty, L. S. (2023). <emphasis effect="italics">Physiology, neurotransmitters.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539894/</para>
-<para id="para-00040">U.S. Department of Health and Human Services. (2023). <emphasis effect="italics">National neurological conditions surveillance system (NNCSS).</emphasis></para>
+<para id="para-00040">U.S. Department of Health and Human Services. (2023). <emphasis effect="italics">National neurological conditions surveillance system (NNCSS).</emphasis> https://www.cdc.gov/surveillance/neurology/index.html</para>
 <para id="para-00041">Waxenbaum, J. A., Reddy, V., &amp; Varacallo, M. (2023). <emphasis effect="italics">Anatomy, autonomic nervous system.</emphasis> StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK539845/</para>
 </section>
 </content>
