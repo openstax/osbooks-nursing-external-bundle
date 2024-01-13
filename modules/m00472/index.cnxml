@@ -20,7 +20,7 @@
     <section id="sect-00002">
     <section id="sect-00003">
     <title>Miscellaneous Dermatologic Disorders</title>
-    <para id="para-00003">This section focuses on the most common dermatological disorders not yet discussed, including cutaneous warts, atopic dermatitis (eczema), contact dermatitis, cutaneous warts, impetigo, and rosacea.</para>
+    <para id="para-00003">This section focuses on the most common dermatological disorders not yet discussed, including cutaneous warts, atopic dermatitis (eczema), contact dermatitis, impetigo, and rosacea.</para>
     <section id="sect-00004">
     <title>Cutaneous Warts</title>
     <para id="para-00004"><term id="term-00001">Cutaneous warts</term> are a form of localized viral infection, resulting in the familiar raised lesions known as warts (<link target-id="fig-00001" document="m00472"/>). Current therapies in the treatment of warts include medications that chemically burn these lesions, thus eliminating them. Cantharidin is one such drug. As a <term id="term-00002">vesicant</term>, cantharidin causes local tissue necrosis on those surfaces to which it is applied. This necrosis will eventually result in the sloughing of the wart and elimination of the virus.</para>
@@ -50,7 +50,7 @@
     <para id="para-00007"><term id="term-00006">Impetigo</term> is a cutaneous bacterial infection that occurs on the upper surface of the skin (<link target-id="fig-00004" document="m00472"/>). Typically, impetigo is seen in infants and children, although it may occasionally be seen in adults. The causative organisms are most often <emphasis effect="italics">Staphylococcus aureus</emphasis> and <emphasis effect="italics">Streptococcus pyogenes</emphasis> bacteria. Treatment encompasses application of mupirocin, a topical antibacterial. Retapamulin, another topical anti-infective used in impetigo, selectively inhibits protein synthesis to stop bacterial growth. Topical treatment with these agents usually clears impetigo, but if impetigo persists and is severe, oral antibiotics may be needed.</para>
     <figure class="scaled-down" id="fig-00004">
     <media alt="A closeup photo of an arm with impetigo shows small, round pustules, as well as some that have erupted and scabbed over."><image mime-type="image/png" src="../../media/PHA_Figure_40_04_008.jpg"/></media>
-    <caption>Impetigo is characterized by vesicles, pustules, or bullae that rupture, producing sores covered by honey-colored crusts. (credit: “The lesions on the volar surface of this patient’s left forearm proved to be Streptococcal impetigo” by Dr. Herman Miranda/Centers of Disease Control and Prevention, Public Domain)</caption>
+    <caption>Impetigo is characterized by vesicles, pustules, or bullae that rupture, producing sores covered by honey-colored crusts. (credit: “The lesions on the volar surface of this patient’s left forearm proved to be Streptococcal impetigo” by Dr. Herman Miranda/Centers for Disease Control and Prevention, Public Domain)</caption>
     </figure>
     </section>
     <section id="sect-00008">
@@ -58,9 +58,9 @@
     <para id="para-00008"><term id="term-00007">Rosacea</term> is a skin condition that develops from an inflammatory process, causing redness, swelling, prominent small vessels, and papular lesions on the face (<link target-id="fig-00005" document="m00472"/>). Metronidazole, an antifungal, is used in the treatment of rosacea to reduce redness and inflammatory lesions. Nurses should note that when absorbed systemically, metronidazole interacts negatively with many other medicines. When alcoholic beverages are mixed with metronidazole, a life-threatening disulfiram-like reaction may occur, resulting in palpitations, diaphoresis, flushing, nausea, and tachycardia (Stokes &amp; Abdijadid, 2019). Sodium sulfacetamide, another treatment for rosacea, is antibacterial in function and is used to cleanse the skin and eliminate bacteria. Clients with sulfa allergies should not use sodium sulfacetamide.</para>
     <figure class="scaled-down" id="fig-00005">
     <media alt="A closeup photo of a face with rosacea. The nose and cheek area is a deep red color, and there are some swollen red bumps as well."><image mime-type="image/png" src="../../media/PHA_Figure_40_04_009.jpg"/></media>
-    <caption>Rosacea, consisting of red bumps and broken blood vessels, occurs on the face. (credit: “English: Rosacea. Erythema and telangiectasia are seen over the cheeks, nasolabial area and nose. Inflammatory papules and pustules can be observed over the nose. The absence of comedos is a helpful tool to distinguish rosacea from acne/Wikimedia Commons, CC BY 2.0)</caption>
+    <caption>Rosacea, consisting of red bumps and broken blood vessels, occurs on the face. (credit: “English: Rosacea. Erythema and telangiectasia are seen over the cheeks, nasolabial area and nose. Inflammatory papules and pustules can be observed over the nose. The absence of comedos is a helpful tool to distinguish rosacea from acne”/Wikimedia Commons, CC BY 2.0)</caption>
     </figure>
-    <para id="para-00009"><link target-id="table-00001" document="m00472"/> lists common miscellaneous dermatologic drugs and typical routes and dosing for adult <term class="no-emphasis" id="term-00008">and pediatric clients</term>.</para>
+    <para id="para-00009"><link target-id="table-00001" document="m00472"/> lists common miscellaneous dermatologic drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00008">pediatric clients</term>.</para>
     <table class="vertically-tight" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -75,12 +75,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Hydrocortisone</term><newline/>
     (<term class="no-emphasis" id="term-00010">Cortef</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >2 years:</emphasis> Apply 1% cream topically to affected area 3–4 times daily.</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >2 years:</emphasis> Apply 1% cream topically to affected area 3 times daily.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Methylprednisolone</term><newline/>
     (<term class="no-emphasis" id="term-00012">Medrol</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 4–48 mg/day orally daily, depending on the specific disease entity being treated.</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> 4–48 mg/day orally, depending on the specific disease entity being treated.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00013">Calamine lotion</term><newline/>
@@ -91,12 +91,12 @@
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Retapamulin</term><newline/>
     (<term class="no-emphasis" id="term-00016">Altabax</term>)</entry>
     <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Apply a thin layer to the affected area (not to exceed 100 cm<sup>2</sup>) twice daily for 5 days.<newline/>
-    <emphasis effect="italics">Children >9 months:</emphasis> Apply a thin layer on areas not to exceed 2% total body surface area, twice daily for 5 days.</entry>
+    <emphasis effect="italics">Children >9 months:</emphasis> Apply a thin layer on areas not to exceed 2% total body surface area twice daily for 5 days.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Mupirocin</term><newline/>
     (<term class="no-emphasis" id="term-00018">Bactroban</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >3 months:</emphasis> Apply ointment (2%) to area 2–3 times daily.</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >2 months:</emphasis> Apply ointment (2%) to area 2–3 times daily.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Metronidazole</term><newline/>
@@ -107,7 +107,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00021">Sodium sulfacetamide</term><newline/>
     (<term class="no-emphasis" id="term-00022">Sumaxin</term>, <term class="no-emphasis" id="term-00023">Cetamide</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Wash affected areas twice daily (morning and evening) with 10% gel, or as directed by your physician.<newline/>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults:</emphasis> Wash affected areas with 10% gel twice daily (morning and evening) or as directed by your physician.<newline/>
     <emphasis effect="italics">Children:</emphasis> Safety and effectiveness in children under 12 years has not been established.</entry>
     </row>
     <row>
@@ -144,7 +144,7 @@
     <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
     Bactericidal; binds RNA transcription</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosing</emphasis></span><newline/>
-    <emphasis effect="italics">Adults and children >3 months:</emphasis> Apply ointment (2%) to area 2–3 times daily.</entry>
+    <emphasis effect="italics">Adults and children >2 months:</emphasis> Apply ointment (2%) to area 2–3 times daily.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
@@ -245,7 +245,7 @@
     Hypersensitivity<newline/>
     Sulfa allergy<newline/>
     Pregnant clients approaching or at term<newline/>
-    Premature infants or newborn infants during the first 2 months of life.</entry>
+    Premature infants or newborn infants during the first 2 months of life</entry>
     </row>
     </tbody>
     </tgroup>
@@ -260,7 +260,7 @@
     </section>
     <section id="sect-00012">
     <title>Nursing Implications</title>
-    <para id="para-00020">The nurse should do the following for clients taking drugs for the treatment of burns:</para>
+    <para id="para-00020">The nurse should do the following for clients who are taking drugs for the treatment of burns:</para>
     <list list-type="bulleted" id="list-00002">
     <item>Conduct vigilant assessments for baseline, response to treatment, adverse effects, infection, and systemic absorption.</item>
     <item>Monitor creatinine for decreased renal function from possible effects of systemic absorption.</item>
@@ -288,10 +288,10 @@
     <note class="black-box" id="note-00004">
     <para id="para-00023">Pimecrolimus cream has been associated with skin malignancies and lymphoma. Continuous long-term use should be avoided in any age group. Its use is not indicated for children less than 2 years of age.</para>
     </note>
-    <note class="unfolding-casestudy" id="note-00005">
+    <note class="single-casestudy" id="note-00005">
     <para id="para-00024">Read the following clinical scenario to answer the questions that follow.</para>
     <para id="para-00025">Melissa Allen is 27 years old. Within the last year, she has gotten married, moved to a new city, and begun graduate school. Recently, she has noticed feeling a little more tired than usual and has experienced generalized joint pain.<newline count="2"/>
-    <emphasis effect="bold">History</emphasis>
+    <emphasis effect="bold">History</emphasis><newline/>
     Right ankle fracture<newline/>
     Seasonal sinusitis<newline count="2"/>
     <emphasis effect="bold">Current Medications</emphasis><newline/>
@@ -349,7 +349,7 @@
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
-    <entry valign="top" align="left">144 pounds</entry>
+    <entry valign="top" align="left">144 lb</entry>
     </row>
     </tbody>
     </tgroup>
@@ -380,17 +380,18 @@
     <para id="para-00041">DailyMed. (Updated February 15, 2011).<emphasis effect="italics"> Acnecycline – tetracycline hydrochloride ointment</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3a5e4a8e-20bb-4bf8-8a2e-8dfd7f2afb49</para>
     <para id="para-00042">DailyMed. (Updated October 18, 2022). <emphasis effect="italics">Adapalene gel</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aacd5ec4-e2fa-460e-aaae-a0aba5c052e5</para>
     <para id="para-00043">DailyMed. (Updated June 5, 2023). <emphasis effect="italics">Altabax – retapamulin ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7c91eee4-242b-4af2-a39b-7842a9d95143</para>
-    <para id="para-00044">DailyMed. (Updated December 28, 2022). <emphasis effect="italics">Amzeeq – minocycline aerosol, foam.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fd99a72-047f-4fd9-93c1-712599fd3870</para>
-    <para id="para-00045">DailyMed. (Updated May 16, 2022). <emphasis effect="italics">Azelaic acid gel.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66298d50-d4e2-4852-bbab-581389c488cb</para>
+    <para id="para-00044">DailyMed. (Updated December 16, 2023). <emphasis effect="italics">Amzeeq – minocycline aerosol, foam.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fd99a72-047f-4fd9-93c1-712599fd3870</para>
+    <para id="para-00045">DailyMed. (Updated May 30, 2022). <emphasis effect="italics">Azelaic acid gel.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66298d50-d4e2-4852-bbab-581389c488cb</para>
     <para id="para-00046">DailyMed. (Updated May 18, 2023). <emphasis effect="italics">Calananz – calamine lotion 15% lotion.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4c13db8-a0f8-5713-e053-2995a90a0ae5</para>
     <para id="para-00047">DailyMed. (Updated April 17, 2020). <emphasis effect="italics">Calcipotriene ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1bc020e0-b5ae-4cda-aa5b-87fa0452a6bc</para>
     <para id="para-00048">DailyMed. (Updated January 24, 2023). <emphasis effect="italics">Clear days ahead oil – free salicylic acid acne treatment and moisturizer – salicylic acid cream</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d7895387-100c-4cc4-9c25-0f3b9d0f5937</para>
     <para id="para-00049">DailyMed. (Updated February 27, 2023). <emphasis effect="italics">Clindamycin hydrochloride capsule.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2367340c-d297-4a3f-8253-6d27a0ed39cb&amp;audience=professional</para>
     <para id="para-00050">DailyMed. (Updated August 17, 2023). <emphasis effect="italics">Clindamycin phosphate topical USP, 1% solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=19363055-9ae7-4f0f-979d-93d0ee2c803f</para>
-    <para id="para-00051">DailyMed. (Updated December 15, 2022). <emphasis effect="italics">Clobetasol propionate aerosol, foam.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0d5ca826-d200-42d8-b9c7-d05ecabb6ab2</para>
-    <para id="para-00052">DailyMed. (Updated November 4, 2022). <emphasis effect="italics">Denorex therapeutic – coal tar and menthol shampoo</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=603bb8c1-c492-d859-e053-2a91aa0aeb33</para>
-    <para id="para-00053">DailyMed. (Updated August 31, 2023). <emphasis effect="italics">Doxycycline hyclate tablet, coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f234f419-42da-4a6d-82c6-92106cd77c67</para>
-    <para id="para-00054">DailyMed. (Updated June 16, 2023). <emphasis effect="italics">Enbrel – etanercept solution and kit</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f</para>
+    <para id="para-00051">DailyMed. (Updated December 8, 2023). <emphasis effect="italics">Clobetasol propionate aerosol, foam.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0d5ca826-d200-42d8-b9c7-d05ecabb6ab2</para>
+    <para id="para-00052">DailyMed. (Updated December 20, 2023). <emphasis effect="italics">Denorex therapeutic – coal tar and menthol shampoo</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=603bb8c1-c492-d859-e053-2a91aa0aeb33</para>
+    <para id="para-00053">DailyMed. (Updated December 14, 2023). <emphasis effect="italics">Doxycycline hyclate-doxyclycine hyclate  tablet, coated.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f234f419-42da-4a6d-82c6-92106cd77c67</para>
+    <para id="para-00081">DailyMed. (Updated August 6, 2015). <emphasis effect="italics">Elta lite tar-coal tar lotion</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23f310ab-3375-48d4-8b5b-3853385b3a32</para>
+    <para id="para-00054">DailyMed. (Updated December 6, 2023). <emphasis effect="italics">Enbrel – etanercept solution and kit</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f</para>
     <para id="para-00055">DailyMed. (Updated February 23, 2021).<emphasis effect="italics"> Humira – adalimumab kit and injection, solution</emphasis>. https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=608d4f0d-b19f-46d3-749a-7159aa5f933d</para>
     <para id="para-00056">DailyMed. (Updated October 15, 2021). <emphasis effect="italics">Infliximab injection, powder, lyophilized, for solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b05c174f-832c-4321-b34f-2c4ad3742269</para>
     <para id="para-00057">DailyMed. (Updated November 21, 2019). <emphasis effect="italics">Methoxsalen capsule, liquid filled.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6ec8292-9189-4ebd-862a-e1725eb29eef</para>
@@ -405,7 +406,7 @@
     <para id="para-00066">DailyMed. (Updated January 2, 2020). <emphasis effect="italics">Sodium sulfacetamide gel.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c7b051aa-a1c4-4f0e-9278-2387155857b0</para>
     <para id="para-00067">DailyMed. (Updated September 30, 2022). <emphasis effect="italics">Stelara – ustekinumab injection, solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c77a9664-e3bb-4023-b400-127aa53bca2b</para>
     <para id="para-00068">DailyMed. (Updated July 3, 2023). <emphasis effect="italics">Sulfamylon – mafenide acetate cream.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=008eaa23-8f19-4e39-85ff-540c1c834a9e</para>
-    <para id="para-00069">DailyMed. (Updated June 14, 2022). <emphasis effect="italics">Tazarotene creme.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa5caf83-29d5-8229-b125-d7736928f132</para>
+    <para id="para-00069">DailyMed. (Updated November 29, 2023). <emphasis effect="italics">Tazarotene creme.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa5caf83-29d5-8229-b125-d7736928f132</para>
     <para id="para-00070">DailyMed. (Updated July 5, 2023).<emphasis effect="italics"> Tetracycline hydrochloride capsule</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ce3e8dc-7fbd-4f8d-a65f-092e1ef21725</para>
     <para id="para-00071">DailyMed. (Updated January 1, 2019).<emphasis effect="italics"> Tretinoin cream</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=745cc3ce-60b4-4479-a055-316817567949</para>
     <para id="para-00072">DailyMed. (Updated July 25, 2023).<emphasis effect="italics"> Ycanth – cantharidin solution</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7c9bdeaa-9822-4c69-a719-ea4a8643f59c</para>
