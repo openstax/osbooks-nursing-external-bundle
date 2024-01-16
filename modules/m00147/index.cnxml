@@ -37,9 +37,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Health Condition</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Healthy People 2030 Goals</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Health Condition</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Healthy People 2030 Goals</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -99,8 +99,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Health Determinant</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Health Determinant</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -150,7 +150,7 @@
 <iframe width="560" height="315" src="https://openstax.org/r/disparities"/>
 </media>
 <para id="para-00008">This video by John Hopkins Medicine features Michelle Simmons, a West Baltimore resident who describes the impact of health disparities on her family and her community and her efforts to reverse their negative effects.</para>
-<para id="para-00018">Watch the video, and then respond to the following questions:</para>
+<para id="para-00018">Watch the video, and then respond to the following questions.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00003">
 <item>What are some of the health disparities Michelle describes in the video, and how might they negatively affect her health and her community’s health?</item>
 <item>What are some of the root causes of health disparities discussed in the video?</item>
@@ -164,7 +164,7 @@
 <iframe width="560" height="315" src="https://openstax.org/r/socialimpact"/>
 </media>
 <para id="para-00010">This video explains the foundational impact of structural racism, social determinants of health and their impact on historically marginalized populations, and steps necessary to achieve health equity in affected communities.</para>
-<para id="para-00021">Watch the video, and then respond to the following questions:</para>
+<para id="para-00021">Watch the video, and then respond to the following questions.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00004">
 <item>In the video, the narrator uses the story of sick fish to show the tendency of society to blame the individual for their health condition rather than considering the outside determinants of health. Describe an example of this from your own community.</item>
 <item>The narrator describes three strategies for identifying health disparities—pay attention, be aware, and create strategies. In the example from your community, describe how this approach could be used to identify and address the disparities.</item>
@@ -186,11 +186,11 @@
 <para id="para-00013"><term class="no-emphasis" id="term-00017">The Affordable Care Act (ACA)</term> of 2010 was enacted to expand affordable health insurance options for Americans through subsidies, expand the number of people eligible for <term class="no-emphasis" id="term-00018">Medicaid</term>, and support innovation in health care delivery that would lower health care costs (U.S. Department of Health and Human Services [HHS], 2022a). As a result, more than 20 million Americans gained access to <term class="no-emphasis" id="term-00019">health insurance</term> (HHS, 2022b). Additionally, it established protections for preexisting conditions and mandated coverage for essential health benefits (HHS, 2022b).</para>
 <para id="para-00014">Despite the gains made by the ACA, many Americans remain uninsured. Disparities in health insurance coverage exist primarily among individuals under age 65, as almost all adults 65 and older are covered by <term class="no-emphasis" id="term-00020">Medicare</term> (AHRQ, 2022). Individuals under age 65 can be covered by private health insurance or other government-sponsored plans, such as Medicaid or a <term class="no-emphasis" id="term-00021">military health plan</term>. Most of the remaining uninsured individuals are in families with at least one employed worker (Garfield et al., 2019). Not all employers offer health insurance to their employees. For example, agricultural, construction, and service workers are more likely to work for businesses that do not provide <term class="no-emphasis" id="term-00022">employer health plans</term>. Also, part-time workers may not be eligible for coverage. Lastly, some workers are eligible to join an employer plan but cannot afford the premiums.</para>
 <para id="para-00015">People in low-income households, minority communities, and some urban and rural communities are less likely to have health insurance. For example, Non-Hispanic American Indian or Alaska Native and Hispanic groups are less likely to be insured (AHRQ, 2022). Additionally, how Medicaid is administered from state to state may create differences in health care treatment and options between beneficiaries according to the state in which they live. For example, one state may have a higher threshold to determine who is eligible for Medicaid benefits than another state. Individuals who live in states with higher eligibility requirements but who have lower incomes will face limitations to health care access if they cannot afford private health insurance or pay out of pocket for their care.</para>
-<para id="para-00016">Differences in income levels result in major differences in health outcomes between various groups. For example, individuals with limited income tend to have higher incidences of chronic diseases such as diabetes and hypertension. These individuals also have limited access to health care services because of related logistical issues. For example, they are more likely to not have reliable or timely transportation to and from a doctor’s office or medical clinic.</para>
+<para id="para-00016">Differences in income levels result in major differences in health outcomes between various groups. For example, individuals with limited income tend to have higher incidences of chronic diseases such as diabetes and hypertension. These individuals also have limited access to health care services because of related logistical issues. For example, they are more likely to lack reliable or timely transportation to and from a doctor’s office or medical clinic.</para>
 </section>
 <section id="sect-00006">
 <title>Availability of Health Care Services and Providers</title>
-<para id="para-00017">To meet the population's health needs, the health care delivery system must have adequate infrastructure and resources (AHRQ, 2022). Staffing shortages and the location and capacity of health care facilities are key concerns. The number of health care workers in hospitals and long-term care facilities has decreased since January 2020, and almost 63 percent of U.S. counties have been designated as primary care professional shortage areas. Among these areas, rural counties are disproportionately affected. Living near primary care services can increase clients' likelihood of receiving preventative care and treatment for a chronic health condition (<link target-id="fig-00002" document="m00147"/>) (AHRQ, 2022). Further disadvantaging clients living in rural areas, 135 rural hospitals closed between 2010 and 2020 (AHRQ, 2022). These closures force clients to travel farther to receive hospital-related services.</para>
+<para id="para-00017">To meet the population’s health needs, the health care delivery system must have adequate infrastructure and resources (AHRQ, 2022). Staffing shortages and the location and capacity of health care facilities are key concerns. The number of health care workers in hospitals and long-term care facilities has decreased since January 2020, and almost 63 percent of U.S. counties have been designated as primary care professional shortage areas. Among these areas, rural counties are disproportionately affected. Living near primary care services can increase clients' likelihood of receiving preventative care and treatment for a chronic health condition (<link target-id="fig-00002" document="m00147"/>) (AHRQ, 2022). Further disadvantaging clients living in rural areas, 135 rural hospitals closed between 2010 and 2020 (AHRQ, 2022). These closures force clients to travel farther to receive hospital-related services.</para>
 <figure class="scaled-down" id="fig-00002">
 <media alt="A child sits on an exam table in a doctor's office while a health care provider listens to the child's lungs with a stethoscope.">
 <image mime-type="image/png" src="../../media/PH_Figure_09_01_003.jpg"/></media>
@@ -203,13 +203,14 @@
 <para id="para-00019">For over 20 years, the <term class="no-emphasis" id="term-00023">Agency for Healthcare Research and Quality (AHRQ)</term> has monitored health care quality and disparities to identify opportunities for improvement. In the <link url="https://openstax.org/r/ahrqnhqrdr">2022 National Healthcare Quality and Disparities Report</link> (NHQDR), the agency identified four priority issues: maternal health, child and adolescent mental health, substance use disorder, and oral health.</para>
 <section id="sect-00008">
 <title>Maternal Health</title>
-<para id="para-00020">According to the NHQDR, the United States has the highest <term class="no-emphasis" id="term-00024">maternal mortality</term> rate among industrialized countries. The rate continues to increase, with higher mortality rates among <term class="no-emphasis" id="term-00025">marginalized</term> racial and ethnic groups. The NHQDR notes other disparities relative to prenatal care. While there are no significant differences in prenatal care between rural and urban locations, Hispanic, American Indian/Alaska Native, Black, and Native Hawaiian/Pacific Islander clients are less likely than White and non-Hispanic White individuals to receive <term class="no-emphasis" id="term-00026">prenatal care</term>. Between 2016 and 2019, rates of severe maternal morbidity, eclampsia/preeclampsia, severe postpartum hemorrhage, and venous thromboembolism or pulmonary embolism increased overall, with disparities noted among racial and ethnic groups. Between 2017 and 2019, pregnancy-related mortality ratios (per 100,000 births) differed significantly among groups (CDC, 2023c). The rate for Non-Hispanic Native Hawaiian or Other Pacific Islander was the highest at 62.8 , followed by Non-Hispanic Black women at 39.9, Non-Hispanic American Indian or Alaska Native women at 32, Non-Hispanic White women at 14.1, Non-Hispanic Asian women at 12.8, and Hispanic women at 11.6 (CDC, 2023c). Plans to address maternal health disparities include extending postpartum coverage, investing in rural maternal health services, creating and expanding a more diverse maternal health workforce, and creating stronger workplace protections for caregivers (AHRQ, 2022).</para>
+<para id="para-00020">According to the NHQDR, the United States has the highest <term class="no-emphasis" id="term-00024">maternal mortality</term> rate among industrialized countries. The rate continues to increase, with higher mortality rates among <term class="no-emphasis" id="term-00025">marginalized</term> racial and ethnic groups. The NHQDR notes other disparities relative to prenatal care. While there are no significant differences in prenatal care between rural and urban locations, Hispanic, American Indian/Alaska Native, Black, and Native Hawaiian/Pacific Islander clients are less likely than White and non-Hispanic White individuals to receive <term class="no-emphasis" id="term-00026">prenatal care</term>. Between 2016 and 2019, rates of severe maternal morbidity, eclampsia/preeclampsia, severe postpartum hemorrhage, and venous thromboembolism or pulmonary embolism increased overall, with disparities noted among racial and ethnic groups. Between 2017 and 2019, pregnancy-related mortality ratios (per 100,000 births) differed significantly among groups (CDC, 2023c). The rate for Non-Hispanic Native Hawaiian or Other Pacific Islander was the highest at 62.8, followed by Non-Hispanic Black women at 39.9, Non-Hispanic American Indian or Alaska Native women at 32, Non-Hispanic White women at 14.1, Non-Hispanic Asian women at 12.8, and Hispanic women at 11.6 (CDC, 2023c). Plans to address maternal health disparities include extending postpartum coverage, investing in rural maternal health services, creating and expanding a more diverse maternal health workforce, and creating stronger workplace protections for caregivers (AHRQ, 2022).</para>
 <note class="media-feature" id="note-00004">
 <title>The Impact of Race on Maternal Outcomes: A Personal Story</title>
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xXGj1A90X94"/>
 </media>
-<para id="para-00022">In this video, tennis player Serena Williams describes her postpartum experience with life-threatening complications despite presumably having access to quality health care. Watch the video, and then respond to the following questions:</para>
+<para id="para-00022">In this video, tennis player Serena Williams describes her postpartum experience with life-threatening complications despite presumably having access to quality health care.</para>
+<para id="para-00029">Watch the video, and then respond to the following questions:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00006">
 <item>What, if anything, surprises you about Ms. Williams’s story?</item>
 <item>What contributed to the delay in the health care providers’ recognition and treatment of her condition?</item>
@@ -243,7 +244,7 @@
 </section>
 <section class="section-summary" id="sect-00013">
 <title>Chapter Summary</title>
-<para id="para-00028">Health disparities occur when there is a difference in health care access and outcomes between two or more groups of individuals. The various groups of individuals may vary and may be related to factors such as race or ethnicity and environment. Health disparities occur for various reasons, including limited access to health services due to higher rates of poverty, which limits the ability to purchase health insurance. The key to addressing health disparities includes minimizing factors within the context of where one lives, referred to as the social determinants of health.</para>
+<para id="para-00028">Health disparities occur when there is a difference in health care access and outcomes between two or more groups of individuals. Health disparities occur for various reasons, including limited access to health services due to higher rates of poverty, which limits the ability to purchase health insurance. The key to addressing health disparities is to minimize the effects of the social determinants of health.</para>
 </section>
 </content>
 <glossary>
