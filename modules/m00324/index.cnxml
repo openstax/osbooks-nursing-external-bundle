@@ -37,9 +37,9 @@
 <entry valign="middle" align="center" namest="c2" nameend="c4"><span class="blue-text"><emphasis effect="bold">Mortality</emphasis></span></entry>
 </row>
 <row>
-<entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold">Cause of Death Rank</emphasis></span></entry>
-<entry valign="middle" align="center" morerows="8"><span class="blue-text"><emphasis effect="bold">Number of Deaths</emphasis></span></entry>
-<entry valign="middle" align="center" morerows="8"><span class="blue-text"><emphasis effect="bold">Deaths per 100,000 Population</emphasis></span></entry>
+<entry valign="middle" align="left"><span class="blue-text"><emphasis effect="bold">Cause of Death Rank</emphasis></span></entry>
+<entry valign="middle" align="left" morerows="8"><span class="blue-text"><emphasis effect="bold">Number of Deaths</emphasis></span></entry>
+<entry valign="middle" align="left" morerows="8"><span class="blue-text"><emphasis effect="bold">Deaths per 100,000 Population</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -135,7 +135,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Top Causes of Death for Adults in the United States, 2021</emphasis> (See National Center for Health Statistics, 2021.)</caption>
+<caption>Top Causes of Death for Adults in the United States, 2021 (See National Center for Health Statistics, 2021.)</caption>
 </table>
 <section id="sect-00004">
 <title>Coronary Artery Disease</title>
@@ -147,14 +147,14 @@
 </section>
 <section id="sect-00006">
 <title>Cerebrovascular Disease</title>
-<para id="para-00007"><term class="no-emphasis" id="term-00004">Cerebrovascular disease</term>, or a <term class="no-emphasis" id="term-00005">stroke</term>, is caused when something blocks the blood supply to a part of the brain or a blood vessel in the brain ruptures (CDC, 2023i). Regardless of the cause, parts of the brain become damaged or die, leading to problems with movements, memories, thoughts, emotions, language, or other body functions. Strokes can occur at any age, but some people are greater risk. Those with a history of a previous stroke or transient ischemic attack (TIA), <term class="no-emphasis" id="term-00006">hypertension</term>, <term class="no-emphasis" id="term-00007">high cholesterol</term>, coronary artery disease, atrial fibrillation, diabetes, obesity, and sickle cell disease are at much higher risk of having a stroke. Some lifestyle choices that increase the risk of stroke include (CDC, 2023j)</para>
+<para id="para-00007"><term class="no-emphasis" id="term-00004">Cerebrovascular disease</term>, or a <term class="no-emphasis" id="term-00005">stroke</term>, is caused when something blocks the blood supply to a part of the brain or a blood vessel in the brain ruptures (CDC, 2023i). Regardless of the cause, parts of the brain become damaged or die, leading to problems with movements, memories, thoughts, emotions, language, or other body functions. Strokes can occur at any age, but some people are at greater risk. Those with a history of a previous stroke or transient ischemic attack (TIA), <term class="no-emphasis" id="term-00006">hypertension</term>, <term class="no-emphasis" id="term-00007">high cholesterol</term>, coronary artery disease, atrial fibrillation, diabetes, obesity, and sickle cell disease are at much higher risk of having a stroke. Some lifestyle choices that increase the risk of stroke include (CDC, 2023j)</para>
 <list list-type="bulleted" id="list-00002">
 <item>a diet high in saturated fats and cholesterol,</item>
 <item>a lack of enough physical activity,</item>
 <item>too much alcohol consumption, and</item>
-<item>use tobacco.</item>
+<item>tobacco use.</item>
 </list>
-<para id="para-00008">There are also genetic components to stroke risk and factors related to age, sex, race, and ethnicity. Individuals aged 55 and older are more likely to have a stroke, and they are more common in women than men. Those who are non-Hispanic Black or Pacific Islander are more likely to die from a stroke than non-Hispanic White people, Hispanic people, AIAN, and Asians. Black people have a higher risk of having a first stroke and are more likely to die from a stroke than White people (CDC, 2023j).</para>
+<para id="para-00008">There are also genetic components to stroke risk and factors related to age, sex, race, and ethnicity. Individuals aged 55 and older are more likely to have a stroke, and strokes are more common in women than men. Those who are non-Hispanic Black or Pacific Islander are more likely to die from a stroke than non-Hispanic White people, Hispanic people, AIAN, and Asians. Black people have a higher risk of having a first stroke and are more likely to die from a stroke than White people (CDC, 2023j).</para>
 </section>
 <section id="sect-00007">
 <title>Chronic Obstructive Pulmonary Disease</title>
@@ -166,7 +166,7 @@
 <note class="media-feature" id="note-00001">
 <title>Alzheimer’s Disease—Genes Do Not Equal Destiny</title>
 <para id="para-00011">In the Aging and Health Matters podcast episode “<link url="https://openstax.org/r/toolscdc">Alzheimer’s Disease—Genes Do Not Equal Destiny</link>,” host Montrece Ransom speaks with CDC’s Scott Bowen about research that found a healthy lifestyle can help reduce the risk for Alzheimer’s disease (CDC, 2022o).</para>
-<para id="para-00012">Listen to the podcast or read the transcript, and then respond to the following questions:</para>
+<para id="para-00012">Listen to the podcast or read the transcript, and then respond to the following questions.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00003">
 <item>What were the new findings from the research?</item>
 <item>What were the four healthy lifestyles that helped to prevent dementias in the research?</item>
@@ -194,7 +194,7 @@
 </section>
 <section id="sect-00010">
 <title>Chronic Liver Disease</title>
-<para id="para-00016"><term class="no-emphasis" id="term-00009">Chronic liver disease</term> is a progressive deterioration of liver function, which includes the production of clotting factors and other proteins, detoxification of harmful metabolism products, and bile excretion. Cirrhosis is the final stage of chronic liver disease. The most common causes of chronic liver disease are alcoholic liver disease, non-alcoholic fatty liver disease, chronic viral hepatitis, and certain genetic and autoimmune causes. Other causes disease include use of certain drugs (amiodarone, isoniazid, methotrexate, phenytoin, and nitrofurantoin) and the vascular Budd-Chiari syndrome (Sharma &amp; Nagalli, 2022). Of the causes, it is possible to deter chronic liver disease by limiting the use of over-the-counter pain medications and consumption of high-fat foods and alcohol and reducing the risk of developing hepatitis through vaccination, safer sex practices, and good hygiene.</para>
+<para id="para-00016"><term class="no-emphasis" id="term-00009">Chronic liver disease</term> is a progressive deterioration of liver function, which includes the production of clotting factors and other proteins, detoxification of harmful metabolism products, and bile excretion. Cirrhosis is the final stage of chronic liver disease. The most common causes of chronic liver disease are alcoholic liver disease, non-alcoholic fatty liver disease, chronic viral hepatitis, and certain genetic and autoimmune causes. Other causes include use of certain drugs (amiodarone, isoniazid, methotrexate, phenytoin, and nitrofurantoin) and the vascular Budd-Chiari syndrome (Sharma &amp; Nagalli, 2022). Of the causes, it is possible to deter chronic liver disease by limiting the use of over-the-counter pain medications and consumption of high-fat foods and alcohol and reducing the risk of developing hepatitis through vaccination, safer sex practices, and good hygiene.</para>
 </section>
 <section id="sect-00011">
 <title>Chronic Kidney Disease</title>
@@ -224,7 +224,7 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 <item>Frequent mental distress</item>
 <item>Diabetes prevalence</item>
 <item>HIV prevalence</item></list></item></list>
-<para id="para-00021">In 2020, 12 percent of U.S. adults reported that they considered themselves in fair or poor health, that their physical health was not good on 3 of the previous 30 days, and that their mental health was not good on 4.4 of the previous 30 days. The percentage of live births with LBW (&lt; 2,500 grams) was 8 percent. Also, 9 percent of adults were living with a diagnosis of diabetes, and 380 of every 100,000 residents aged 13 and over were living with a diagnosis of HIV (University of Wisconsin Population Health Institute, 2023).</para>
+<para id="para-00021">In 2020, 12 percent of U.S. adults reported that they considered themselves in fair or poor health, that their physical health was not good on 3 of the previous 30 days, and that their mental health was not good on 4.4 of the previous 30 days. The percentage of live births with LBW (under 2,500 grams) was 8 percent. Also, 9 percent of adults were living with a diagnosis of diabetes, and 380 of every 100,000 residents aged 13 and over were living with a diagnosis of HIV (University of Wisconsin Population Health Institute, 2023).</para>
 </section>
 <section id="sect-00014">
 <title>Educational Interventions to Promote Self-Care in Adults</title>
