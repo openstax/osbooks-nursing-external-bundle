@@ -45,9 +45,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="middle" align="center"><span class="blue-text">Existing Condition</span></entry>
-<entry valign="middle" align="center"><span class="blue-text">Management</span></entry>
-<entry valign="middle" align="center"><span class="blue-text">Complications</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Existing Condition</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Management</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Complications</span></entry>
 </row>
 </thead>
 <tbody>
@@ -191,7 +191,7 @@
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00019">
 <item>Symptomatic pregnant clients with recent travel to areas with a risk of Zika infection should be tested (CDC, 2022y).</item>
-<item>Pregnant clients infected with Zika should receive an ultrasound between 18 to 20 weeks of pregnancy, and again in the second and third trimesters, as indicated (CDC, 2021o).</item>
+<item>Pregnant clients infected with Zika should receive an ultrasound between 18 and 20 weeks of pregnancy, and again in the second and third trimesters, as indicated (CDC, 2021o).</item>
 <item>Further testing of amniotic, placental, and fetal tissues may be performed (CDC, 2022y).</item>
 </list>
 </entry>
@@ -205,7 +205,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Existing Health Conditions That Can Lead to a High-Risk Pregnancy</emphasis></caption>
+<caption>Existing Health Conditions That Can Lead to a High-Risk Pregnancy</caption>
 </table>
 </section>
 <section id="sect-00006">
@@ -224,8 +224,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="middle" align="center"><span class="blue-text">Diagnosis</span></entry>
-<entry valign="middle" align="center"><span class="blue-text">Symptoms</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Diagnosis</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Symptoms</span></entry>
 </row>
 </thead>
 <tbody>
@@ -253,7 +253,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">FASD Diagnoses</emphasis></caption>
+<caption>FASD Diagnoses</caption>
 </table>
 <para id="para-00015"><term class="no-emphasis" id="term-00025">Smoking</term> can have adverse health effects before, during, and after pregnancy. The CDC (2020a) indicates that childbearing clients who smoke tobacco have more difficulty becoming pregnant. Smoking tobacco during pregnancy can lead to preterm birth, LBW, miscarriage, congenital disorders, and SIDS. Pregnant clients exposed to secondhand smoke are more likely to have LBW babies. Babies exposed to secondhand tobacco smoke are more likely to die from SIDS and have weaker lungs, which can lead to additional health problems (CDC, 2020a). Childbearing clients who smoke <term class="no-emphasis" id="term-00026">marijuana</term> may double their risk of stillbirth; using marijuana during pregnancy can interfere with fetal brain development (Chang, 2023).</para>
 <para id="para-00016">Childbearing clients who use other drugs during pregnancy can experience problems with fetal and infant health. Use of <term class="no-emphasis" id="term-00027">opioids</term> such as heroin, diverted or misused prescription opioids, or other morphine-like drugs is associated with substantial maternal, fetal, and neonatal risks (Seligman et al., 2023). <term class="no-emphasis" id="term-00028">Cocaine</term> use by the pregnant client also leads to preterm birth and LBW. <term class="no-emphasis" id="term-00030">Methamphetamine</term> exposure during pregnancy has been associated with maternal and neonatal morbidity and mortality (Chang, 2023). Self-reported data from 2019 indicated that 6.6 percent of pregnant clients reported prescription opioid use during pregnancy, and 21.2 percent of these reported drug misuse (Ko et al., 2020). The drug overdose mortality rate per 100,000 for pregnant or postpartum persons almost doubled from 2017 (6.56) to 2020 (11.85) in the United States (Bruzelius &amp; Martins, 2022).</para>
@@ -270,9 +270,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="middle" align="center"><span class="blue-text">Challenge</span></entry>
-<entry valign="middle" align="center"><span class="blue-text">Risk Factors</span></entry>
-<entry valign="middle" align="center"><span class="blue-text">Complications</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Challenge</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Risk Factors</span></entry>
+<entry valign="middle" align="left"><span class="blue-text">Complications</span></entry>
 </row>
 </thead>
 <tbody>
@@ -387,13 +387,13 @@
 <entry valign="top" align="left">Maternal infections</entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00032">
-<item>Entering pregnancy carrying an infection such as genital herpes or other STI</item>
+<item>Entering pregnancy carrying an infection such as genital herpes or another STI</item>
 <item>Pregnancy diverts a large portion of the childbearing client’s immune system toward supporting the developing baby</item>
 </list>
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00033">
-<item>Urinary tract infection can impact the childbearing client's kidneys or lead to a high fever, which could harm the client and baby.</item>
+<item>Urinary tract infection can impact the childbearing client’s kidneys or lead to a high fever, which could harm the client and baby.</item>
 <item>Uterine infections can cause premature labor.</item>
 <item>Fifth disease increases the chances of miscarriage.</item>
 <item>Many STIs can cause early labor and prevent vaginal delivery due to hazards to the baby (for instance, maternal gonorrhea can lead to blindness in the baby if delivered vaginally).</item>
@@ -419,9 +419,9 @@
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00035">
-<item>Short-term complications include anemia, need for hysterectomy, organ failure related to hemodynamic instability, thromboembolism, and abdominal compartment syndrome.</item>
-<item>Long-term complications include Sheehan syndrome (postpartum hypopituitarism) and Asherman syndrome (intrauterine adhesions that can lead to menstrual abnormalities and infertility).</item>
-<item>Maternal death (Belfort, 2023).</item>
+<item>Short-term complications: anemia, need for hysterectomy, organ failure related to hemodynamic instability, thromboembolism, and abdominal compartment syndrome</item>
+<item>Long-term complications: Sheehan syndrome (postpartum hypopituitarism) and Asherman syndrome (intrauterine adhesions that can lead to menstrual abnormalities and infertility)</item>
+<item>Maternal death (Belfort, 2023)</item>
 </list>
 </entry>
 </row>
@@ -445,7 +445,6 @@
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00038">
-<item>Difficulty or choice to not breastfeed</item>
 <item>Impaired bonding with baby</item>
 <item>Poor health care of the baby</item>
 <item>Abnormal infant and child development</item>
@@ -460,7 +459,7 @@
 </tgroup>
 <caption>Pregnancy, Childbirth, and the Postpartum Challenges and Risks</caption>
 </table>
-<para id="para-00018">There are some cases where fetal anomalies or genetic conditions may be detected and treated in utero or immediately following birth. For example, spina bifida may be repaired before birth (Bowman, 2022). Certain heart problems common among infants with <term class="no-emphasis" id="term-00037">Down syndrome</term> will require immediate surgical correction following birth (Altman, 2022).</para>
+<para id="para-00018">In some cases, fetal anomalies or genetic conditions may be detected and treated in utero or immediately following birth. For example, spina bifida may be repaired before birth (Bowman, 2022). Certain heart problems common among infants with <term class="no-emphasis" id="term-00037">Down syndrome</term> will require immediate surgical correction following birth (Altman, 2022).</para>
 </section>
 </section>
 <section id="sect-00009">
@@ -469,7 +468,7 @@
 </section>
 <section id="sect-00010">
 <title>Healthy People 2030 Goals for Childbearing Clients</title>
-<para id="para-00020">The overarching goal of <term class="no-emphasis" id="term-00039">Healthy People 2030</term> related to pregnancy and childbirth is to “prevent pregnancy complications and maternal deaths and improve women’s health before, during, and after pregnancy” (ODPHP, n.d.-g, para. 1). The childbearing client’s health before, during, and after pregnancy has a major impact on their infant's health and well-being. As a result of the Healthy People 2023 overarching goal, several pregnancy and childbirth objectives have been created.</para>
+<para id="para-00020">The overarching goal of <term class="no-emphasis" id="term-00039">Healthy People 2030</term> related to pregnancy and childbirth is to “prevent pregnancy complications and maternal deaths and improve women’s health before, during, and after pregnancy” (ODPHP, n.d.-g, para. 1). The childbearing client’s health before, during, and after pregnancy has a major impact on their infant’s health and well-being. As a result of the Healthy People 2023 overarching goal, several pregnancy and childbirth objectives have been created.</para>
 <note class="healthy-people" id="note-00002">
 <title><link url="https://openstax.org/r/healthhealth">Pregnancy and Childbirth</link></title>
 <para id="para-00021">Healthy People 2030 Pregnancy and Childbirth Objectives focus on the broad goals of preventing pregnancy complications and maternal deaths while also helping women stay healthy before, during, and after pregnancy. They specifically address prenatal care; drug, alcohol, and tobacco abstinence during pregnancy; family planning; reduction of sexually transmitted infections; and vaccination of pregnant clients.</para>
@@ -519,7 +518,7 @@
 <para id="para-00027">Even if a childbearing client takes prevention measures, there is still a risk of having a child with a <term class="no-emphasis" id="term-00047">congenital disorder</term>. Following healthy habits early and consistently throughout the pregnancy gives the best chance of having a healthy baby (New York State Department of Health, 2017).</para>
 <section id="sect-00012">
 <title>Primary Prevention</title>
-<para id="para-00028"><term class="no-emphasis" id="term-00048">Primary prevention</term> for childbearing clients refers to activities aimed at preventing health problems before they occur. Some examples of primary prevention strategies to improve the health of childbearing clients include the following:</para>
+<para id="para-00028"><term class="no-emphasis" id="term-00048">Primary prevention</term> for childbearing clients refers to activities aimed at preventing health problems before they occur. Some examples of primary prevention strategies to improve the health of childbearing clients include:</para>
 <list list-type="bulleted" id="list-00042">
 <item>Healthy lifestyle promotion</item>
 <item>Immunizations</item>
@@ -530,7 +529,7 @@
 </section>
 <section id="sect-00013">
 <title>Secondary Prevention</title>
-<para id="para-00029"><term class="no-emphasis" id="term-00050">Secondary prevention</term> for childbearing clients refers to activities aimed at detecting and treating health problems at an early stage, before they are even problematic, to prevent <term class="no-emphasis" id="term-00051">subclinical disease</term> progression. Some examples of secondary prevention strategies to improve the health of childbearing clients include the following:</para>
+<para id="para-00029"><term class="no-emphasis" id="term-00050">Secondary prevention</term> for childbearing clients refers to activities aimed at detecting and treating health problems at an early stage, before they are even problematic, to prevent <term class="no-emphasis" id="term-00051">subclinical disease</term> progression. Some examples of secondary prevention strategies to improve the health of childbearing clients include:</para>
 <list list-type="bulleted" id="list-00043">
 <item>Prenatal care</item>
 <item>Screening for genetic disorders</item>
