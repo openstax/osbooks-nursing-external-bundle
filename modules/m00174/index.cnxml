@@ -49,8 +49,8 @@
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text">Explanation</span></entry>
-    <entry valign="top" align="center"><span class="blue-text">Examples of Nursing Actions</span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text">Explanation</span></entry>
+    <entry valign="top" align="left"><span class="blue-text">Examples of Nursing Actions</span></entry>
     </row>
     </thead>
     <tbody>
@@ -99,7 +99,8 @@
     <caption>The I PREPARE Mnemonic</caption>
     </table>
     <note class="case-reflection" id="note-00001">
-    <para id="para-00012">The following scenario walks through an example of a nurse performing an individual environmental health assessment on a client using the I PREPARE mnemonic. Read the scenario, and then respond to the questions that follow.</para>
+    <title>Performing an Individual Environmental Health Assessment</title>
+    <para id="para-00012">Read the scenario, and then respond to the questions that follow.</para>
     <para id="para-00013">Kyra, a 35-year-old client, presents to the county clinic after experiencing persistent symptoms, including coughing, sneezing, and hoarseness, for several months. She’s concerned that her symptoms might be related to the apartment she recently moved into. After reviewing her health history, Nurse Kyle uses the I PREPARE framework to perform an individual environmental health assessment.</para>
     <para id="para-00014">I—Investigate Potential Exposures: Kyle asks Kyra if she has had any known exposure to pollutants at home, at work, or in the community. He asks if her symptoms improve or worsen when she is at home, at work, or outside. Kyra notes while she isn’t sure what she’s being exposed to, she usually feels worse in the morning.</para>
     <para id="para-00015">P—Present Work: Kyle asks about Kyra’s work environment. Kyra is a graphic designer who works three days a week in a well-ventilated office building downtown and works from home the remaining two days.</para>
@@ -134,7 +135,7 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Biological hazards</emphasis></span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Biological Hazards</emphasis></span></entry>
     </row>
     <row>
     <entry valign="top" align="left">Mold&#160;and&#160;fungi</entry>
@@ -164,7 +165,7 @@
     </list></entry>
     </row>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic gases</emphasis></span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic Gases</emphasis></span></entry>
     </row>
     <row>
     <entry valign="top" align="left">Radon</entry>
@@ -193,7 +194,7 @@
     </list></entry>
     </row>
     <row>
-    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic substances</emphasis></span></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Toxic Substances</emphasis></span></entry>
     </row>
     <row>
     <entry valign="top" align="left">Asbestos</entry>
@@ -228,6 +229,7 @@
     <title>Community Assessment</title>
     <para id="para-00025">Community health assessments provide information about the potential, and real, environmental risks faced by individuals living, working, or recreating in a particular community. The assessment should include environmental health risks using online tools to identify potential exposures and types and levels of pollution using <link url="https://openstax.org/r/enviroepa">Envirofacts</link>. While this data is critical, it is only part of the <term class="no-emphasis" id="term-00016">community assessment</term>. Nurses can conduct a windshield survey to visually identify potential environmental risks, such as the location of industries, hazardous waste, dumps, major thoroughfares, pests, the use of pesticides, air quality, and housing conditions (see <link document="m00183">Creating a Healthy Community</link> and <link document="m00374">Appendix A</link>). In addition to observing environmental risks, a windshield survey should note areas that promote health in the community, such as parks, open spaces, gardens, and outdoor recreational areas. The University of Maryland School of Nursing and Environmental Health Center has developed the following <link url="https://openstax.org/r/envirnorg">Environmental Health Community Assessment tool</link> focused on environmental health.</para>
     <note class="case-reflection" id="note-00002">
+    <title>Performing Home and Community Health Assessments</title>
     <para id="para-00026">This scenario continues to follow Mr. Harper from earlier in this chapter. Read the scenario, and then respond to the questions that follow.</para>
     <para id="para-00027">While assessing Mr. Harper’s home environment, Nurse Regis discovers that the house is adjacent to a mound of mining waste, raising concerns about the possible inhalation of particulate matter. Moreover, after hearing rumors that the community’s water supply might be contaminated, Mr. Harper now uses water hauled by his neighbor from a nearby stream. Mr. Harper points out the stream to Nurse Regis, who notes that rocks are tinged with red, a sign of acid mine drainage. Upon further assessment, Nurse Regis finds that Mr. Harper’s skin is reddened, dry, and itchy. When asked about the rash, Mr. Harper becomes irritable, stating he isn’t sure when the rash began and is more upset that he’s recently been having difficulty remembering things and easily becomes confused.</para>
     <para id="para-00028">The nurse collaborates with a social worker from the county’s department of aging to arrange for an aide to assist Mr. Harper twice weekly, helping to keep his home dry and free of dust and bringing him a supply of bottled water to use until the community’s water is verified as safe.</para>
