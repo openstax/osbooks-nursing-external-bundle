@@ -52,7 +52,7 @@
 <section id="sect-00006">
 <title>Hepatitis</title>
 <para id="para-00013">Hepatitis is inflammation of the liver and may result from a viral infection. In the United States, its most common viral forms are hepatitis A, B, and C (<link target-id="table-00002" document="m00169"/>). Viral <term class="no-emphasis" id="term-00013">hepatitis</term> infections affect millions of people globally, with hepatitis B and C resulting in chronic infections and liver cancer, disproportionately affecting lower-income countries. However, progress in treatment is being made globally. Hepatitis C is curable with a three-month course of medication taken once a day, and medications are available to slow the progression of hepatitis B and prevent liver damage (CDC, 2021e). Both hepatitis A and B can be prevented with safe, effective vaccines.</para>
-<table class="alternate-shading" id="table-00002">
+<table class="alternate-shading full-width" id="table-00002">
   <title/>
   <tgroup cols="3">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -143,7 +143,7 @@
 <section id="sect-00008">
 <title>Tuberculosis</title>
 <para id="para-00020">TB is caused by a bacterium, <emphasis effect="italics">Mycobacterium tuberculosis</emphasis> (MTB), which often attacks the lungs but can attack any part of the body. TB is spread via airborne transmission. When inhaled, TB bacteria can settle into the lungs, grow, and spread to other parts of the body (CDC, 2022u). Anyone can become infected, but certain populations, such as BIPOC individuals, individuals experiencing homelessness, and those living in congregate settings (correctional facilities, detention centers) are at higher risk of TB disease than the overall population (CDC, 2022p). Because TB infection does not always result in illness, it is often classified as latent TB infection (LTBI) vs. TB disease (<link target-id="table-00003" document="m00169"/>). Individuals infected with MTB have an estimated 5 to 10 percent lifetime risk of becoming ill with TB disease. Some will have LTBI, others will clear the infection, and some, such as those with weakened immune systems (for example, individuals living with HIV, malnutrition, or diabetes) and individuals with alcohol use disorder and tobacco dependence, will have a higher risk of becoming ill with TB disease (WHO, 2022b). See <link document="m00326">Caring for Vulnerable Populations and Communities</link>.</para>
-<table class="alternate-shading" id="table-00003">
+<table class="alternate-shading full-width" id="table-00003">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -190,7 +190,7 @@ Highly contagious</entry>
 </table>
 <para id="para-00021">Globally in 2021, 1.6 million individuals died from TB; it remains the 13th leading cause of global death and the second leading infectious killer after COVID-19 (WHO, 2022b).</para>
 <para id="para-00022">TB may be detected through testing (<link target-id="table-00001" document="m00169"/>).</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight full-width" id="table-00001">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -244,7 +244,7 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 <section id="sect-00009">
 <title>Role of the Nurse in Preventing Communicable Diseases</title>
 <para id="para-00025">Educating the public is the nurse’s first priority in preventing and mitigating many communicable diseases. Primary prevention of illness and disease focuses on the individual and the health and well-being of the entire community. <link target-id="table-00004" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for communicable diseases.</para>
-<table class="vertically-tight" id="table-00004">
+<table class="vertically-tight full-width" id="table-00004">
 <title/>
 <tgroup cols="5">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -419,7 +419,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00013">
 <title>Listeria Monocytogenes</title>
 <para id="para-00035">The bacteria <emphasis effect="italics"><term class="no-emphasis" id="term-00029">Listeria monocytogenes</term></emphasis> causes listeriosis, a serious but rare infection. In the United States, an estimated 1,600 individuals become ill with listeriosis each year, and 260 individuals die from it (CDC, 2023i). Listeriosis most often infects and sickens pregnant women, their newborns, adults over 65, and individuals with weakened immune systems. Listeriosis is usually a mild illness in pregnant women, but it may cause severe disease in the fetus or newborn. Sometimes listeriosis becomes invasive—causing sepsis, meningitis, or encephalitis —and affects other parts of the body (CDC, 2023i).</para>
-<para id="para-00036">Listeria bacteria are difficult to remove from food processing facilities, where they will spread to food that touches contaminated surfaces (CDC, 2023i). Refrigeration does not kill Listeria, but the bacteria is easily killed by heating food to a high enough temperature (CDC, 2023i). Foods more likely to be contaminated with Listeria include soft cheeses; deli products such as sliced cold cuts or cheese; deli salads such as coleslaw, potato salad, tuna salad, and chicken salad; sprouts; unpasteurized milk and associated products; hot dogs; and fermented or dry sausages such as chorizo, pepperoni, and salami (CDC, 2023i).</para>
+<para id="para-00036"><emphasis effect="italics">Listeria</emphasis> bacteria are difficult to remove from food processing facilities, where they will spread to food that touches contaminated surfaces (CDC, 2023i). Refrigeration does not kill <emphasis effect="italics">Listeria</emphasis>, but the bacteria is easily killed by heating food to a high enough temperature (CDC, 2023i). Foods more likely to be contaminated with <emphasis effect="italics">Listeria</emphasis> include soft cheeses; deli products such as sliced cold cuts or cheese; deli salads such as coleslaw, potato salad, tuna salad, and chicken salad; sprouts; unpasteurized milk and associated products; hot dogs; and fermented or dry sausages such as chorizo, pepperoni, and salami (CDC, 2023i).</para>
 <para id="para-00037">Listeriosis often results in fever and diarrhea, similar to other foodborne illnesses, but it is rarely diagnosed. More often, it is only identified if it becomes invasive or occurs during pregnancy. Signs of invasive listeriosis are meningitis-like symptoms of headache, nuchal rigidity, fever, confusion, and convulsions. Invasive listeriosis is serious, requiring inpatient hospital care; it causes death in one in five infected individuals (CDC, 2023i). Pregnant women often experience fever and flu-like symptoms; however, listeriosis can lead to miscarriage, stillbirth, premature delivery, or life-threatening infections of the newborn. Listeriosis during pregnancy results in a fetal loss in 20 percent of the cases and results in newborn death in about 3 percent of the cases (CDC, 2023i).</para>
 </section>
 <section id="sect-00014">
@@ -451,7 +451,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00015">
 <title>Role of the Nurse in Preventing Foodborne Diseases</title>
 <para id="para-00045">The nurse can play a pivotal role in preventing and responding to foodborne illnesses. Providing appropriate education to clients is the number one priority for the nurse in preventing and mitigating many foodborne illnesses. Primary prevention of illness and disease serves not only the individual but also the health and well-being of the entire community. <link target-id="table-00006" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for foodborne diseases.</para>
-<table class="vertically-tight" id="table-00006">
+<table class="vertically-tight full-width" id="table-00006">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -544,7 +544,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00021">
 <title>Role of the Nurse in Preventing Vector-Borne Diseases</title>
 <para id="para-00057">The community health nurse is crucial in stemming disease burden from <term class="no-emphasis" id="term-00044">vector-borne diseases</term>. Primary prevention can help to decrease the number of individuals infected with vector-borne diseases through education campaigns. Because no known treatments aside from supportive care exist for WNV or Zika virus, education and interventions are essential to prevent the spread of these diseases. <link target-id="table-00007" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for vector-borne diseases.</para>
-<table class="vertically-tight" id="table-00007">
+<table class="vertically-tight full-width" id="table-00007">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -562,7 +562,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Zika Virus</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="left">Educate individuals and communities on how to avoid insect bites</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Educate individuals and communities on how to avoid insect bites</emphasis></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00029"><item>Use Environmental Protection Agency (EPA)-approved insect repellants containing DEET, picaridin, or oil of lemon eucalyptus.</item>
 <item>Wear clothing that covers the body and is treated with permethrin when entering grassy or wooded areas.</item>
 <item>Check the body daily for ticks.</item>
@@ -583,9 +583,9 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 </entry>
 </row>
 <row>
-<entry valign="top" align="left">Educate individuals and communities on sexual transmission</entry>
-<entry valign="top" align="left"/>
-<entry valign="top" align="left"/>
+<entry valign="top" align="left"><emphasis effect="bold">Educate individuals and communities on sexual transmission</emphasis></entry>
+<entry valign="top" align="left">N/A</entry>
+<entry valign="top" align="left">N/A</entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00032"><item>Discuss risk of transmission via sex with an individual infected with Zika and that the only way to eliminate the risk of getting Zika from sex is abstinence.</item>
 <item>Educate on condom use to reduce the risk of transmission.</item>
 </list>
@@ -601,7 +601,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Zika Virus</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" id="list-00033"><item>Educate individuals and communities on signs and symptoms</item></list></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Educate individuals and communities on signs and symptoms</emphasis></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00034"><item>For any bull’s-eye rash, get evaluated.</item>
 <item>For any known tick bite and onset of symptoms such as fevers, chills, myalgias, etc., get evaluated by a health professional.</item>
 </list></entry>
@@ -610,7 +610,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <item>For any symptoms in a pregnant client who has recently traveled to active Zika areas or had sex with someone who lives in or recently traveled to areas with a risk of Zika, diagnostic testing should be performed.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left">Routine screening</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Routine screening</emphasis></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00037"><item>Routine screening is not recommended.</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00038"><item>Routine screening is not recommended.</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00039"><item>Screening is generally not recommended for asymptomatic pregnant clients regardless of travel status.</item></list></entry>
@@ -675,7 +675,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00025">
 <title>Role of the Nurse in Preventing Waterborne Diseases</title>
 <para id="para-00067">The nurse, utilizing primary prevention, can educate individuals and communities on how to avoid waterborne diseases, similar to the role of the nurse in foodborne diseases. <link target-id="table-00008" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for waterborne diseases.</para>
-<table class="vertically-tight" id="table-00008">
+<table class="vertically-tight full-width" id="table-00008">
   <title/>
   <tgroup cols="1">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -765,7 +765,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00030">
 <title>Role of the Nurse in Preventing Sexually Transmitted Infections</title>
 <para id="para-00082">The nurse has an important role to play in preventing STIs, identifying them early, and getting them treated appropriately. The CDC provides guidelines for teaching clients about reducing <link url="https://openstax.org/r/prevention">the risk of getting or transmitting STDs</link>. <link target-id="table-00009" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for STIs.</para>
-<table class="vertically-tight" id="table-00009">
+<table class="vertically-tight full-width" id="table-00009">
 <title/>
 <tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
@@ -853,7 +853,7 @@ Identify diseases early via screening, before the onset of signs and symptoms, a
 <section id="sect-00032">
 <title>Emerging Infectious Diseases</title>
 <para id="para-00092"><term id="term-00069">Emerging infectious diseases (EIDs)</term> are those that are newly affecting populations or existing diseases that previously only caused isolated disease but are now significantly increasing in incidence and geographic range (National Institute of Allergy and Infectious Diseases [NIAID], 2018; Wang et al., 2021). Bioterrorism Category A, B, and C priority pathogens are also considered EIDs (<link target-id="table-00010" document="m00169"/>) (NIAID, 2018). Because these diseases are new or were once less common, there are often minimal effective treatments and no cures. Without the benefit of prior knowledge and a lack of immunity, health care providers often contract EIDs as they tend to ill clients (WHO, 2014). Many EIDs are zoonotic in origin, emerging from animals and crossing the species barrier to infect humans (WHO, 2014). EIDs remain a global health threat as they can spread rapidly, posing a risk to the health and development of every country. As the COVID-19 pandemic has demonstrated, infectious diseases can cause significant death and disability and wreak havoc on the world economy, disrupting every level of society. <link target-id="table-00011" document="m00169"/> lists some emerging infectious diseases (Wang et al., 2021).</para>
-<table class="alternate-shading" id="table-00010">
+<table class="alternate-shading full-width" id="table-00010">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
