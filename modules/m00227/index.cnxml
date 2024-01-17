@@ -33,9 +33,9 @@
 <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Type of Bias</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Implications in Health Care</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Type of Bias</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Definition</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Implications in Health Care</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -62,7 +62,7 @@
 <row>
 <entry valign="top" align="left">Disability</entry>
 <entry valign="top" align="left">Prejudices and discrimination against individuals with disabilities</entry>
-<entry valign="top" align="left">Health care providers and settings may not fully accommodate the needs of clients with disabilities, leading to disparities in health care access and outcomes, resulting in inadequate communication, inaccessible facilities, and a lack of consideration for the specific challenges this population faces in seeking and receiving health care services (McMahon et al., 2020).</entry>
+<entry valign="top" align="left">Health care providers and settings may not fully accommodate the needs of clients with disabilities. Inadequate communication, inaccessible facilities, and a lack of consideration for the specific challenges this population faces in seeking and receiving health care services lead to disparities in health care access and outcomes (McMahon et al., 2020).</entry>
 </row>
 <row>
 <entry valign="top" align="left">Sexual orientation, also known as LGBTQ+ (lesbian, gay, bisexual, transgender, and queer/questioning) bias</entry>
@@ -77,7 +77,7 @@
 <note class="boxed-feature" id="note-00001">
 <title>Becoming Self-Aware of Unconscious Bias</title>
 <para id="para-00006">As described in <link document="m00213">Culturally and Linguistically Responsive Nursing Care</link>, the Implicit Association Test (IAT) can help the nurse become more self-aware and reflect on any implicit biases they may have related to gender, race, age, or other social categories.</para>
-<para id="para-00007">Select an <link url="https://openstax.org/r/implicit">Implicit Association Test</link> (IAT) from a list of possible topics. Complete the assessment. Reflect on the findings, and then respond to the following questions:</para>
+<para id="para-00007">Select an <link url="https://openstax.org/r/implicit">Implicit Association Test</link> (IAT) from a list of possible topics. Complete the assessment. Reflect on the findings, and then respond to the following questions.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00002">
 <item>Are there any discrepancies between your explicit beliefs and the implicit biases indicated by the test?</item>
 <item>What actions could you take to address biases?</item>
@@ -92,8 +92,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Strategy</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Strategy</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
@@ -148,7 +148,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Strategies to Mitigate Biases (Source: Devine et al., 2012; FitzGerald et al., 2019.)</caption>
+<caption>Strategies to Mitigate Biases (sources: Devine et al., 2012; FitzGerald et al., 2019.)</caption>
 </table>
 <note class="media-feature" id="note-00002">
 <title>How to Deal with Unconscious Bias</title>
@@ -222,7 +222,7 @@
 </list>
 </note>
 <para id="para-00024">Emotional intelligence (EI) aids individuals in managing stress, navigating social interactions, and making sound decisions. In various fields, such as leadership, management, and health care, emotional intelligence is vital in establishing solid relationships, motivating others, and resolving conflicts.</para>
-<para id="para-00025">Developing <term id="term-00018">cultural intelligence</term> is another means for addressing cultural conflicts in nursing practice. In their book <emphasis effect="italics">Cultural Intelligence: Individual Interactions Across Cultures</emphasis>, Earley and Ang (2003) define cultural intelligence as the ability to adapt and interact effectively with people from different cultural backgrounds. It involves having knowledge, awareness, and skills related to cultural diversity. The components of cultural intelligence include:</para>
+<para id="para-00025">Developing <term id="term-00018">cultural intelligence</term> (CI) is another means for addressing cultural conflicts in nursing practice. In their book <emphasis effect="italics">Cultural Intelligence: Individual Interactions Across Cultures</emphasis>, Earley and Ang (2003) define cultural intelligence as the ability to adapt and interact effectively with people from different cultural backgrounds. It involves having knowledge, awareness, and skills related to cultural diversity. The components of cultural intelligence include:</para>
 <list list-type="bulleted" id="list-00019">
 <item><term id="term-00019">Cultural knowledge</term>: Understanding of cultural norms, values, beliefs, and practices of different cultural groups</item>
 <item><term id="term-00020">Cultural understanding</term>: Unbiased recognition and appreciation of cultural differences and similarities</item>
@@ -235,7 +235,7 @@
 <item>Consider taking an emotional intelligence assessment to identify personal strengths and areas for growth.</item>
 <item>Reflect on emotional reactions in various social situations, including the workplace, mainly when dealing with colleagues and clients. Analyze how emotions may impact decision making and interactions with others.</item>
 <item>Seek feedback to gain insight into how one is perceived regarding emotional and cultural intelligence. This can help nurses identify their <term id="term-00023">blind spots</term>, or unconscious or implicit biases they are unaware of (Banaji et al., 2016). Blind spots can influence a person’s perceptions, judgments, and decision making without their conscious knowledge or intention. They are often formed and reinforced by societal norms, cultural influences, personal experiences, and media portrayals.</item>
-<item>Observe interactions with others to identify how one responds to situations that involve cultural differences. Consider how interactions may reflect one's level of cultural intelligence.</item>
+<item>Observe interactions with others to identify how one responds to situations that involve cultural differences. Consider how interactions may reflect one’s level of cultural intelligence.</item>
 <item>Engage in continuous education to improve emotional and cultural intelligence. This can include reading books or articles, attending cultural competency workshops, or seeking mentorship from colleagues skilled in providing culturally responsive care.</item>
 <item>Use self-reflection to identify personal cultural biases and beliefs. Then, consider how one’s cultural background may influence interactions with clients and colleagues from different cultural backgrounds.</item>
 </list>
@@ -278,7 +278,7 @@
 <iframe width="560" height="315" src="https://openstax.org/r/mindful"/>
 </media>
 <para id="para-00037">Mindful breathing, or intentionally focusing on each inhalation and exhalation, can help increase muscle relaxation and improve sleep and overall mental health and well-being. This video guides the viewer through a short exercise in this technique.</para>
-<para id="para-00045">Play the video, complete the exercise, and then respond to the following question:</para>
+<para id="para-00045">Play the video, complete the exercise, and then respond to the following questions.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00023">
 <item>How can the practice of taking seven mindful breaths, following the rhythm of inhaling, and exhaling on one, help individuals improve their overall health and well-being?</item>
 <item>How might incorporating the practice of taking seven mindful breaths in moments of crisis or before challenging situations contribute to building stronger interpersonal relationships and fostering a more compassionate society?</item>
