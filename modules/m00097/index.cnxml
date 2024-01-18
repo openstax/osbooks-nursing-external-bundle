@@ -15,8 +15,7 @@
     <item>Define federal controls on drugs that have abuse potential.</item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+        <section id="sect-00003">
     <title>Drug Classifications</title>
     <para id="para-00002">One helpful method for sorting out the sheer number of drugs on the market is by organizing them into different classifications. Most drugs are classified in two ways—therapeutic classification and pharmacologic classification.</para>
     <list list-type="bulleted" id="list-00002">
@@ -36,8 +35,8 @@
     <tbody>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    Pharmacological class or Therapeutic class<newline/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline count="2"/>
+    Pharmacological class or Therapeutic class<newline count="2"/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
     This is a description of how the drug works in the body.
     </entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
@@ -131,8 +130,7 @@
     </tgroup>
     <caption><emphasis effect="bold">Scheduled Drugs in the United States</emphasis> (sources: https://www.dea.gov/drug-information/drug-scheduling; https://americanaddictioncenters.org/prescription-drugs/classifications)</caption>
     </table>
-    </section>
-    </section>
+      </section>
     </content>
     <glossary>
     <definition id="def-00001"><term>drug prototype</term> <meaning>use of one drug within a class to represent all other drugs within the class—a “class representative”</meaning></definition>
