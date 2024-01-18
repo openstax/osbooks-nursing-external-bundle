@@ -37,12 +37,11 @@
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
     Pharmacological class or Therapeutic class<newline/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline count="2"/>
     This is a description of how the drug works in the body.
     </entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    <emphasis effect="italics">Adults: </emphasis><newline/>
-    <emphasis effect="italics">Children: </emphasis>
+    This indicates the quantity, frequency, and route of administering the medication to the client, and how it may differ by age, body weight, or clinical condition.<newline/>
     </entry>
     </row>
     <row>
