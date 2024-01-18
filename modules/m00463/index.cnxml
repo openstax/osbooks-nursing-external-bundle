@@ -20,7 +20,7 @@
     <para id="para-00003">Angle-closure glaucoma is triggered by displacement of the iris where it covers the trabecular meshwork. The angle between the cornea and the iris is greatly reduced. This prevents aqueous humor from leaving the anterior chamber. IOP levels increase rapidly to dangerous levels. The client will complain of severe ocular pain and headache. Permanent vision loss may occur within 24–48 hours if left untreated. Treatment consists of a combination of drugs to suppress symptoms. Once the IOP is reduced to a safe level, the client will undergo surgery on the iris. This is performed to allow unobstructed outflow of aqueous humor.</para>
     <para id="para-00004">Nonadherence is an issue for POAG drugs for multiple reasons. These include the asymptomatic nature of the condition such that clients may feel drug therapy is unnecessary, frequent dosing intervals, multiple drugs to administer, and age-related issues (see the box below). It is essential to emphasize to the client the importance of having regular eye exams to track progress or identify complications (Centers for Disease Control and Prevention, 2020).</para>
     <note class="special-considerations" id="note-00001">
-    <para id="para-00005"><emphasis effect="bold">Older Adults</emphasis></para>
+    <title>Older Adults</title>
     <para id="para-00006">Glaucoma affects <term class="no-emphasis" id="term-00003">older adults</term> more than any other population. Due to the complexity of treatment, older adults may struggle with following the treatment plan. This occurs for various reasons:</para>
     <list list-type="bulleted" id="list-00002">
     <item>Forgetfulness due to mild cognitive impairment (MCI) or dementia</item>
@@ -175,7 +175,7 @@
     <table class="vertically-tight full-width" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
