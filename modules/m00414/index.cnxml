@@ -18,7 +18,7 @@
   </section>
   <section id="sect-00002">
   <title>Insulin</title>
-  <para id="para-00002">Insulin is released by β cells from the islets of Langerhans in the pancreas after eating a meal. The carbohydrates from the meal are broken down into glucose. As glucose enters the bloodstream, insulin is secreted and allows the cells in muscles, fat, and the liver to absorb the glucose for energy (American Diabetes Association, n.d.-d). Insulin not only is important for glucose homeostasis, but it also plays a role in lipid metabolism through lipolysis and assists in protein metabolism through downregulation of hepatic and muscle enzymes, and its action within endothelial cells and macrophages has an anti-inflammatory effect on the body. </para>
+  <para id="para-00002">Insulin is released by ß cells from the islets of Langerhans in the pancreas after eating a meal. The carbohydrates from the meal are broken down into glucose. As glucose enters the bloodstream, insulin is secreted and allows the cells in muscles, fat, and the liver to absorb the glucose for energy (American Diabetes Association, n.d.-d). Insulin not only is important for glucose homeostasis, but it also plays a role in lipid metabolism through lipolysis and assists in protein metabolism through downregulation of hepatic and muscle enzymes, and its action within endothelial cells and macrophages has an anti-inflammatory effect on the body. </para>
   <para id="para-00003">Insulin has three characteristics: onset, peak, and duration. Onset is the length of time before insulin reaches the bloodstream and begins to lower glucose levels. Peak time is discussed below. Duration is how long insulin continues to lower blood glucose levels. </para>
   <section id="sect-00003">
   <title>Peak Time</title>
@@ -71,7 +71,7 @@
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Duration</span></emphasis></entry>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Method</span></emphasis></entry>
   </row>
-</thead>
+  </thead>
   <tbody>
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><emphasis effect="italics">Rapid-acting insulin</emphasis></emphasis><newline/>
@@ -171,7 +171,7 @@
   <para id="para-00031">Typical adverse effects of all types of insulin include hypoglycemia (symptoms include shakiness, dizziness, sweating, confusion, and, in severe cases, loss of consciousness), weight gain (due to an increased glucose uptake and storage in cells), injection site reactions (such as redness, swelling, or itching), lipodystrophy (fat tissue changes from repeated use of the same injection site), and fluid retention (swelling in the legs and feet).</para>
   <para id="para-00032">Contraindications include hypersensitivity to the components in the insulin, especially animal-derived insulins. Caution should be used in clients with medical conditions that cause fluid retention, such as heart failure and renal failure (as insulin can cause additional fluid retention leading to volume overload), and in clients with liver failure (as insulin is metabolized by the liver).</para>
   <para id="para-00033"><link target-id="table-00002" document="m00414"/> is a drug prototype table for the diabetes drug insulin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    <table class="vertically-tight" id="table-00002">
+  <table class="vertically-tight" id="table-00002">
   <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -215,6 +215,8 @@
   <caption><emphasis effect="bold">Drug Prototype Table: Insulin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
   </section>
+  </section>
+     
   <section id="sect-00016">
   <title>Non-Insulin Injectable Drugs</title>
   <para id="para-00034"><term class="no-emphasis" id="term-00016">Non-insulin injectable drugs</term> provide an alternative to insulin therapy for clients with diabetes. They act on hormones that are secreted along with insulin by the pancreas to control glucose homeostasis. These drugs were first approved for use in the United States in 2005 (Feingold, 2022; Campbell, 2021).</para>
@@ -229,7 +231,6 @@
   <title>GLP-1 Receptor Agonists</title>
   <para id="para-00038">Hypoglycemic reactions are greater when GLP-1 receptor agonists are used with sulfonylureas and insulin. Clients should be monitored closely for signs of hypoglycemia (Feingold, 2022).</para>
   </note>
-  </section>
   <section id="sect-00019">
   <title>Dulaglutide (Trulicity)</title>
   <para id="para-00039">Dulaglutide (Trulicity) is taken once a week at any time of day, with or without food. It can be used in combination with sulfonylureas, non-sulfonylurea biguanides, thiazolidinediones, and insulin. Adverse effects include nausea, diarrhea, vomiting, abdominal pain, decreased appetite, indigestion, fatigue, and weight loss (Jódar et al., 2022). </para>
@@ -260,7 +261,7 @@
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Routes and Dosage Ranges</span></emphasis></entry>
   </row>
-</thead>
+  </thead>
   <tbody>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00021">Pramlintide</term> (Symlin)</entry>
