@@ -109,13 +109,15 @@
     <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="8">
+    <entry namest="c1" nameend="c2" valign="top">
     <list list-type="bulleted" id="list-00006">
     <item>Immediate response to local disasters</item>
     <item>Establish preparedness plans</item>
     <item>Conduct mitigation efforts</item>
     </list></entry>
-    <entry valign="top" align="left">Emergency response coordinators</entry>
+  </row>
+  <row>
+    <entry valign="top" align="left" morerows="8">Emergency response coordinators</entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00007">
     <item>Establish local emergency action plans</item>
@@ -193,13 +195,13 @@
    <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">State Partners</span></emphasis></entry>
    </row>
     <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="1">
+    <entry namest="c1" nameend="c2" valign="top" align="left">
     <list list-type="bulleted" id="list-00016">
     <item>Provide recommendations for and approval of local emergency preparedness plans</item>
     <item>License professionals</item>
     <item>Assist in disaster response and recovery when local resources are exhausted</item>
     </list></entry>
-    <entry valign="top" align="left">State <term class="no-emphasis" id="term-00026">National Guard</term></entry>
+    <entry valign="top" align="left" morerows="1">State <term class="no-emphasis" id="term-00026">National Guard</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00017">
     <item>Assist with transportation, communications, public works and engineering, emergency management, mass care, search and rescue, and hazardous materials management</item>
