@@ -18,7 +18,6 @@
   </list>
   </section>
   <para id="para-00002">Fluid volume replacement is an important part of fluid and electrolyte homeostasis within the body. In this section of the chapter, intravenous fluid therapy, total parenteral nutrition, and blood products will be discussed.</para>
- <section id="sect-00019">
   <section id="sect-00002">
   <title>Intravenous Fluid Therapy</title>
   <para id="para-00003"><term id="term-00001">Intravenous (IV) fluid therapy</term> is a medical treatment that involves the administration of fluids directly into a person’s veins through an intravenous catheter. The fluids are typically a combination of water, electrolytes, and other nutrients, depending on the specific needs of the client.</para>
@@ -51,16 +50,16 @@
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <colspec colnum="3" colname="c3" colwidth="1*"/>
-  <colspec colnum="4" colname="c4" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="2*"/>
   <tbody>
   <row>
   <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Crystalloid Intravenous Solutions</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Solution Classification</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Common Fluid Names</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Solution Classification</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Common Fluid Names</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
   </row>
   <row>
   <entry valign="top" align="center">Isotonic</entry>
@@ -229,7 +228,6 @@
   <section id="sect-00018">
   <title>Correcting Fluid Volume Excess</title>
   <para id="para-00033">Fluid volume excess occurs when the body retains more fluid than it excretes. Correcting fluid volume excess involves restricting fluid and sodium intake, using diuretics to increase urine output, and treating the underlying causes, such as heart failure or kidney disorders, to prevent further accumulation of fluid and to promote healing (Ekinci et al., 2018).</para>
-  </section>
   </section>
     </section>
   </content>

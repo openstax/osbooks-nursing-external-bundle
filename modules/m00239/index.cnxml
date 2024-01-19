@@ -21,7 +21,6 @@
 </list>
 </section>
 <para id="para-00002"><term id="term-00001">Vitamins</term> and <term id="term-00002">minerals</term> are essential nutrients that the body requires for various physiological functions, including growth, development, and maintenance. Complementary and alternative therapies such as acupuncture, aromatherapy, and herbal supplements are becoming increasingly popular as nontraditional treatments for various medical conditions. This section of the chapter will discuss vitamins, minerals, and common complementary and alternative therapies.</para>
-<section id="sect-00014">
 <section id="sect-00002">
 <title>Vitamins</title>
 <para id="para-00003">Vitamins are essential organic compounds required for normal metabolic function, growth, and healing. The body requires only small amounts of vitamins daily, which are typically obtained through a well-balanced diet. Vitamins are usually prescribed for clients who have the inability to metabolize and absorb vitamins, such as with celiac disease; increased vitamin losses, such as with diarrhea and crash diets; and when there is an increased vitamin need, such as with pregnancy. There are two types of vitamins, water-soluble and fat-soluble, discussed in the following sections.</para>
@@ -43,10 +42,10 @@
 <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Water-Soluble Vitamins</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00005">B<sub>1</sub> (Thiamine)</term></entry>
@@ -137,11 +136,11 @@ participates in the synthesis of steroid hormones and fatty acids</entry>
 <colspec colnum="5" colname="c5" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Mineral</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Function</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Food Source</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Chelating Agents for Toxicity</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Deficiency Conditions</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Mineral</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Function</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Food Source</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Chelating Agents for Toxicity</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Deficiency Conditions</span></entry>
 </row>
 </thead>
 <tbody>
@@ -178,10 +177,10 @@ participates in the synthesis of steroid hormones and fatty acids</entry>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Mineral</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Function</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Food Source</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Deficiency Conditions</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Mineral</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Function</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Food Source</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Deficiency Conditions</span></entry>
 </row>
 </thead>
 <tbody>
@@ -229,9 +228,9 @@ participates in the synthesis of steroid hormones and fatty acids</entry>
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Herbal Remedy</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Use</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Special Considerations</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Herbal Remedy</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Use</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Special Considerations</span></entry>
 </row>
 </thead>
 <tbody>
@@ -329,10 +328,10 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Complementary Therapy</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Definition</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Use</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Special Considerations</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Complementary Therapy</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Definition</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Use</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Special Considerations</span></entry>
 </row>
 </thead>
 <tbody>
@@ -370,7 +369,6 @@ reduces triglycerides and LDL and increases HDL levels—may need a dosage adjus
 </tgroup>
 <caption><emphasis effect="bold">Common Complementary Therapies</emphasis> (sources: Kisling &amp; Stiegmann, 2022; National Institutes of Health, n.d.-a)</caption>
 </table>
-</section>
 </section>
 </section>
 <section class="chapter-summary" id="sect-00011">
