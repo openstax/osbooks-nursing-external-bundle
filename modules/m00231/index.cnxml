@@ -15,8 +15,7 @@
     <item>Describe how information technology affects drug administration and error prevention.</item>
     </list>
     </section>
-    <section id="sect-00002">
-    <section id="sect-00003">
+       <section id="sect-00003">
     <title>Quality and Safety Education for Nurses (QSEN) Competencies</title>
     <para id="para-00002">As mentioned earlier, in 1999 the Institute of Medicine published its report, <emphasis effect="italics">To Err Is Human</emphasis>, regarding the number of errors impacting clients within the health care system. Health care systems are incredibly complex, and that very complexity lends itself to error. In response to these concerns, the American Association of Colleges of Nursing (AACN) and the Robert Wood Johnson Foundation developed the <term class="no-emphasis" id="term-00001">Quality and Safety Education for Nurses (QSEN) initiative</term>. The <link url="https://openstax.org/r/qsenorgco">primary focus of QSEN</link> is to develop a culture of safety by maximizing system effectiveness and individual performance (Barnsteiner &amp; AACN, n.d.). To address this, QSEN, in alignment with AACN, created several learning modules or competencies focusing on quality and patient (or client) safety. AACN/QSEN now incorporates the AACN Essentials. The modules aim to educate nurses and nursing students to minimize the risk of harm to clients and providers. This is done by showing learners how to examine system effectiveness and individual performance (Barnsteiner &amp; AACN, n.d.). These competencies include (AACN, n.d.):</para>
     <list list-type="bulleted" id="list-00002">
@@ -140,8 +139,7 @@
               <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00041"><link class="os-embed" url="#exercise/PHAR_Ch03_Sec03_RQ10"/></para></problem></exercise>
               </section>
     <section class="references" id="sect-00014">
-    <title>References</title>
-    <para id="para-00042">Agency for Healthcare Research and Quality. (2019a). <emphasis effect="italics">Culture of safety.</emphasis> https://psnet.ahrq.gov/primer/culture-safety</para>
+      <para id="para-00042">Agency for Healthcare Research and Quality. (2019a). <emphasis effect="italics">Culture of safety.</emphasis> https://psnet.ahrq.gov/primer/culture-safety</para>
     <para id="para-00043">Agency for Healthcare Research and Quality. (2019b). <emphasis effect="italics">Medication errors and adverse drug events</emphasis>. https://psnet.ahrq.gov/primer/medication-errors-and-adverse-drug-events</para>
     <para id="para-00044">Amato, M. G., Salazar, A., Hickman, T. T., Quist, A. J. L., Volk, L., Wright, A., McEvoy, D., Galanter, W. L., Koppel, R., Loudin, B., Adelman, J., McGreevey, J. D., Smith, D., Bates, D. W., &amp; Schiff, G. D. (2017). Computerized prescriber order entry-related patient safety reports: Analysis of 2522 medication errors. <emphasis effect="italics">Journal of American Medical Informatics Association, 24</emphasis>(2), 316–322. https://doi.org/10.1093/jamia/ocw125</para>
     <para id="para-00045">American Association of Colleges of Nursing. (n.d.). <emphasis effect="italics">Quality &amp; safety education for nurses (QSEN). </emphasis>https://www.aacnnursing.org/Faculty/Teaching-Resources/QSEN</para>
@@ -186,8 +184,7 @@
     <para id="para-00083">Varkey, B. (2021). Principles of clinical ethics and their application to practice. <emphasis effect="italics">Medical Principles and Practice, 30</emphasis>, 17–28. https://doi.org/10.1159/000509119</para>
     <para id="para-00084">Walker, T. (2022). Value of choice. <emphasis effect="italics">Journal of Medical Ethics. 48,</emphasis> 61–64. https://doi.org/10.1136/medethics-2020-106067</para>
     <para id="para-00085">World Health Organization. (n.d.). <emphasis effect="italics">Briefing note: Safety of medicines—adverse drug reactions</emphasis>. https://www.who.int/docs/default-source/medicines/safety-of-medicines--adverse-drug-reactions-jun18.pdf</para>
-    </section>
-    </section>
+       </section>
     </content>
     <glossary>
     <definition id="def-00001"><term>computerized prescriber order entry (CPOE)</term> <meaning>the prescription or ordering of drugs through the electronic health record (EHR)</meaning></definition>
