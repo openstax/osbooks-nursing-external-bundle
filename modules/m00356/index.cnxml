@@ -39,7 +39,7 @@
     <colspec colnum="8" colname="c8" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Source</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Source</span></emphasis></entry>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">2016</span></emphasis></entry>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">2017</span></emphasis></entry>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">2018</span></emphasis></entry>
@@ -75,8 +75,9 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Mass shooting incidents have increased since 2016</caption>
+    <caption>Mass shooting incidents have increased since 2016<newline/></caption>
     </table>
+
     <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -143,42 +144,42 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Grievances</entry>
-    <entry valign="top" align="center">40%</entry>
-    <entry valign="top" align="center">50%</entry>
-    <entry valign="top" align="center">68%</entry>
-    <entry valign="top" align="center">35%</entry>
-    <entry valign="top" align="center">60%</entry>
-    <entry valign="top" align="center">51%</entry>
+    <entry valign="top" align="left">Grievances<newline />
+      <emphasis effect="italics">Personal</emphasis><newline />
+      <emphasis effect="italics">Domestic</emphasis><newline />
+      <emphasis effect="italics">Workplace</emphasis></entry>
+    <entry valign="top" align="center">40%<newline/>
+     <emphasis effect="italics">5</emphasis><newline/>
+        <emphasis effect="italics">6</emphasis><newline/>
+        <emphasis effect="italics">2</emphasis>
+    </entry>
+    <entry valign="top" align="center">50%<newline/>
+      <emphasis effect="italics">9</emphasis><newline/>
+      <emphasis effect="italics">6</emphasis><newline/>
+      <emphasis effect="italics">6</emphasis>
+    </entry>
+    <entry valign="top" align="center">68%<newline/>
+     <emphasis effect="italics">11</emphasis><newline/>
+      <emphasis effect="italics">8</emphasis><newline/>
+      <emphasis effect="italics">3</emphasis>
+    </entry>
+    <entry valign="top" align="center">35%<newline/>
+      <emphasis effect="italics">8</emphasis><newline/>
+      <emphasis effect="italics">1</emphasis><newline/>
+     <emphasis effect="italics">4</emphasis>
+    </entry>
+    <entry valign="top" align="center">60%<newline/>
+      <emphasis effect="italics">13</emphasis><newline/>
+      <emphasis effect="italics">8</emphasis><newline/>
+      <emphasis effect="italics">3</emphasis>
+    </entry>
+      <entry valign="top" align="center">51%<newline/>
+   <emphasis effect="italics">46</emphasis><newline/>
+    <emphasis effect="italics">29</emphasis><newline/>
+    <emphasis effect="italics">18</emphasis>
+  </entry>
     </row>
-    <row>
-    <entry valign="top" align="left"><emphasis effect="italics">Personal</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">5</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">9</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">11</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">8</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">13</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">46</emphasis></entry>
-    </row>
-    <row>
-    <entry valign="top" align="left"><emphasis effect="italics">Domestic</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">6</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">6</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">8</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">1</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">8</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">29</emphasis></entry>
-    </row>
-    <row>
-    <entry valign="top" align="left"><emphasis effect="italics">Workplace</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">2</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">6</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">3</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">4</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">3</emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="italics">18</emphasis></entry>
-    </row>
-    <row>
+   <row>
     <entry valign="top" align="left">Ideological, bias-related, or political beliefs</entry>
     <entry valign="top" align="center">30%</entry>
     <entry valign="top" align="center">24%</entry>
@@ -267,7 +268,7 @@
     <colspec colnum="2" colname="c2" colwidth="2*"/>
     <tbody>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00012"><emphasis effect="bold"><span class="blue-text">Incident Command</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Incident Command</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00003">
     <item>Has overall responsibility for the incident</item>
@@ -275,14 +276,14 @@
     <item>Manages the incident and approves requests</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00013"><emphasis effect="bold"><span class="blue-text">Public Information Officer</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00013">Public Information Officer</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00004">
     <item>Develops and coordinates press releases</item>
     <item>Monitors and maintains information related to the incident</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00014"><emphasis effect="bold"><span class="blue-text">Safety Officer</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Safety Officer</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00005">
     <item>Identifies and mitigates hazards</item>
@@ -290,7 +291,7 @@
     <item>Ensures safety messages and briefings are made throughout the incident</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00015"><emphasis effect="bold"><span class="blue-text">Liaison Officer</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Liaison Officer</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00006">
     <item>Communicates with cooperating agencies</item>
@@ -298,7 +299,7 @@
     <item>Monitors resources providing current resource status, including limitations and capabilities of agency resources</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00016"><emphasis effect="bold"><span class="blue-text">Operations Section Chief</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00016">Operations Section Chief</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00007">
     <item>Organizes services and resources to carry out the plan</item>
@@ -306,7 +307,7 @@
     <item>Requests additional resources if needed</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00017"><emphasis effect="bold"><span class="blue-text">Planning Section Chief</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00017">Planning Section Chief</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00008">
     <item>Develops incident action plan to accomplish incident objectives</item>
@@ -315,7 +316,7 @@
     <item>Assembles task forces if needed</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00018"><emphasis effect="bold"><span class="blue-text">Logistics Section Chief</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00018">Logistics Section Chief</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00009">
     <item>Provides facilities, transportation, communications, supplies, fuel, food, and medical services for incident personnel</item>
@@ -325,14 +326,14 @@
     <item>Oversees demobilization of logistics section and resources</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00019"><emphasis effect="bold"><span class="blue-text">Finance/Administration Section Chief</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00019">Finance/Administration Section Chief</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00010">
     <item>Monitors incident costs</item>
     <item>Provides financial guidance</item></list></entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00020"><emphasis effect="bold"><span class="blue-text">Intelligence/Investigations Section Chief</span></emphasis></term></entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00020">Intelligence/Investigations Section Chief</term></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00011">
     <item>Scope and function determined by the Incident Commander</item>
@@ -354,10 +355,10 @@
     <list list-type="bulleted" id="list-00012">
     <item><term class="no-emphasis" id="term-00023">Scene Safety</term>
     <list list-type="bulleted" id="list-00013">
-    <item>The top priority on the scene of an MCI is the safety of the responders. Verifying that the scene is safe before first responders provide care prevents secondary incident and subsequent injuries (Alpert &amp; Kohn, 2023). Scene security and the responsible agency will depend on the nature of the MCI. If the event is a vehicular accident, the environment around the scene should be assessed for fuel leakage, fire hazard, and other risks that would further endanger victims or responders.</item>
+    <item>The top priority on the scene of an MCI is the safety of the responders. Verifying that the scene is safe before first responders provide care prevents secondary incidents and subsequent injuries (Alpert &amp; Kohn, 2023). Scene security and the responsible agency will depend on the nature of the MCI. If the event is a vehicular accident, the environment around the scene should be assessed for fuel leakage, fire hazard, and other risks that would further endanger victims or responders.</item>
     <item>Appropriate <term class="no-emphasis" id="term-00024">personal protective equipment (PPE)</term> needs to be available and used by responders to a chemical, biological, radiological, or nuclear event.</item>
     <item>In response to a terrorist or mass violence attack, the possibility of explosive detonation or suicide bomber should be considered, and bomb disposal experts dispatched before responders begin lifesaving measures.</item>
-    <item>In a mass shooting incident, if the offender has not been apprehended or has fled the scene, first responders must not approach the scene unless they received have training in tactical medicine and are wearing appropriate protective gear.</item>
+    <item>In a mass shooting incident, if the offender has not been apprehended or has fled the scene, first responders must not approach the scene unless they have training in tactical medicine and are wearing appropriate protective gear.</item>
     <item>The response to or after a fire poses a risk of building collapse and inhalation (Alpert &amp; Kohn, 2023).</item></list>
     </item>
     <item>Field Triage

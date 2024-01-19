@@ -24,7 +24,7 @@
     <image mime-type="image/png" src="../../media/PH_Figure_32_04_006.png"/></media>
     <caption>The disaster management cycle has four phases. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    <para id="para-00004"><term id="term-00004">Mitigation</term>, an action to prevent or reduce the cause, impact, or consequences of a disaster, is the first phase of the disaster management cycle. A <term class="no-emphasis" id="term-00005">community assessment</term>, identifies community <term class="no-emphasis" id="term-00006">risk factors</term>. This includes determining what natural disasters the community is likely to face. For example, communities geographically situated in coastal regions are at risk for hurricanes or tsunamis. This also includes identification of potential targets of terrorist attacks and potential human-made disasters, such as the release of dangerous chemicals from a factory following an explosion. Community programs focused on preventing the occurrence and mitigating the impact of disasters are developed and implemented (DHS, 2015). For disasters that cannot be prevented, such as earthquakes, hurricanes, and tornadoes, efforts may focus on mitigating the effects of the event on the community. Examples of mitigation include placing sandbags along a river to decrease the amount of flood water, constructing levees or barriers to prevent or control flooding, boarding windows before a hurricane makes landfall, and improving building infrastructure to reduce the risk of damage during an earthquake.</para>
+    <para id="para-00004"><term id="term-00004">Mitigation</term>, an action to prevent or reduce the cause, impact, or consequences of a disaster, is the first phase of the disaster management cycle. A <term class="no-emphasis" id="term-00005">community assessment</term> identifies community <term class="no-emphasis" id="term-00006">risk factors</term>. This includes determining what natural disasters the community is likely to face. For example, communities geographically situated in coastal regions are at risk for hurricanes or tsunamis. This also includes identification of potential targets of terrorist attacks and potential human-made disasters, such as the release of dangerous chemicals from a factory following an explosion. Community programs focused on preventing the occurrence and mitigating the impact of disasters are developed and implemented (DHS, 2015). For disasters that cannot be prevented, such as earthquakes, hurricanes, and tornadoes, efforts may focus on mitigating the effects of the event on the community. Examples of mitigation include placing sandbags along a river to decrease the amount of flood water, constructing levees or barriers to prevent or control flooding, boarding windows before a hurricane makes landfall, and improving building infrastructure to reduce the risk of damage during an earthquake.</para>
     <para id="para-00005"><term class="no-emphasis" id="term-00007">Preparedness</term> is the second phase of the disaster management cycle. It includes planning, training, and educational activities to address the consequences of disasters that cannot be mitigated. Preparedness is a continuous state of planning for rapid response when a disaster occurs. <term class="no-emphasis" id="term-00008">Taskforces</term> made up of community representatives from the local government, health care providers, social services providers, police and fire departments, major industries, local media, schools, and citizens’ groups form to ensure that each area of the community knows their role and has a plan in place for when a disaster occurs. In the preparedness phase, responding personnel from each agency are trained. This training includes drills or simulations of mock disasters. Public education is key in providing community members with information on how they can best prepare their families and whom to contact if they are directly impacted by a disaster (FEMA, 2021). The disaster preparedness plan includes what to do in case of disaster, where to go, who to call for help, identifying home vulnerabilities, and accumulating disaster supplies/equipment.</para>
     <note class="media-feature" id="note-00001">
     <title>Emergency Preparedness Home Tour</title>
@@ -54,8 +54,8 @@
     </section>
     <section id="sect-00004">
     <title>The Nurse’s Role in the Disaster Management Cycle</title>
-    <para id="para-00013">The ANA considers disaster preparedness and response a basic competency of nursing practice (2016). While most nurses may not have extensive experience in disaster response, they are expected to have minimum knowledge about disaster management. They participate in preparedness planning and training drills, and the have skills and abilities to provide client care and community support during a disaster. Community health nurses collaborate with health care professionals and partner with health system leaders, individuals, and families to improve population health outcomes and promote community resiliency when disasters occur (Chegini et al., 2021).</para>
-    <para id="para-00014">Nurses are an important part of all phases in the disaster management cycle. Understanding the inherent risks a community faces for different types of disasters is critical in the mitigation phase. If a community is at a higher risk of a particular type of disaster, then more time and resources can be focused on activities that will prevent losses. For example, community health nurses who work in areas at risk for tropical weather may need to spend more time mitigating the effects of hurricanes than the risk of forest fires. Public safety education helps people in the community understand the potential hazards and effects of the disasters for which their community is at greatest risk. Community education on strategies to mitigate hazards and how to respond in case of a disaster raises individuals' awareness and increases the likelihood that they will develop a disaster plan. Families should know what to do, who to call, and where to go in emergencies. When individual community members are generally disaster-aware, they can immediately implement the personal disaster response plan as needed. The nurse plays a key role in educating community members on disaster preparedness.</para>
+    <para id="para-00013">The ANA considers disaster preparedness and response a basic competency of nursing practice (2016). While most nurses may not have extensive experience in disaster response, they are expected to have minimum knowledge about disaster management. They participate in preparedness planning and training drills, and they have skills and abilities to provide client care and community support during a disaster. Community health nurses collaborate with health care professionals and partner with health system leaders, individuals, and families to improve population health outcomes and promote community resiliency when disasters occur (Chegini et al., 2021).</para>
+    <para id="para-00014">Nurses are an important part of all phases in the disaster management cycle. Understanding the inherent risks a community faces for different types of disasters is critical in the mitigation phase. If a community is at a higher risk of a particular type of disaster, then more time and resources can be focused on activities that will prevent losses. For example, community health nurses who work in areas at risk for tropical weather may need to spend more time mitigating the effects of hurricanes than the risk of forest fires. Public safety education helps people in the community understand the potential hazards and effects of the disasters for which their community is at greatest risk. Community education on strategies to mitigate hazards and how to respond in case of a disaster raises individuals’ awareness and increases the likelihood that they will develop a disaster plan. Families should know what to do, who to call, and where to go in emergencies. When individual community members are generally disaster-aware, they can immediately implement the personal disaster response plan as needed. The nurse plays a key role in educating community members on disaster preparedness.</para>
     <note class="client-teaching" id="note-00003">
     <title>Disaster Preparedness</title>
     <para id="para-00015">Community education for disaster preparedness includes the following:</para>
@@ -104,13 +104,12 @@
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
     <tbody>
     <row>
-    <entry namest="c1" nameend="c3" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
+    <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
     </row>
     <row>
-    <entry valign="top" align="left" morerows="8">
+    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="8">
     <list list-type="bulleted" id="list-00006">
     <item>Immediate response to local disasters</item>
     <item>Establish preparedness plans</item>
@@ -191,10 +190,10 @@
   </entry>
     </row>
     <row>
-   <entry namest="c1" nameend="c3" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">State Partners</span></emphasis></entry>
+   <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">State Partners</span></emphasis></entry>
    </row>
     <row>
-    <entry valign="top" align="left" morerows="1">
+    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="1">
     <list list-type="bulleted" id="list-00016">
     <item>Provide recommendations for and approval of local emergency preparedness plans</item>
     <item>License professionals</item>
@@ -216,10 +215,10 @@
     </entry>
     </row>
     <row>
-      <entry namest="c1" nameend="c3" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">National and Federal Partners</span></emphasis></entry>
+      <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">National and Federal Partners</span></emphasis></entry>
       </row>
     <row>
-    <entry valign="top" align="left" morerows="7">
+    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="7">
     <list list-type="bulleted" id="list-00019">
     <item>Recommend guidelines for disaster management</item>
     <item>Assist in disaster response and recovery when National Emergency declared or when state resources are exhausted</item>
