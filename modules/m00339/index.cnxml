@@ -45,83 +45,58 @@
     <item>Demonstrate an understanding of the business climate and its impact on a community’s health</item>
     <item>Practice culturally appropriate and evidence-based nursing care within the scope of practice</item>
     </list>
-    <para id="para-00010"><term id="term-00009">Total Worker Health®</term> (<term id="term-00010">TWH</term>) refers to policies, programs, and practices focusing on work-related safety and protection, promoting illness and injury prevention endeavors to advance worker well-being (CDC, 2020b). The TWH approach builds on the traditional idea of a hazard-free work environment by considering that where an individual works is a <term class="no-emphasis" id="term-00011">social determinant of health</term> (SDOH). Occupational-related factors of wages, hours, workload, health benefits, and access to paid leave impact the overall well-being of workers, their families, and their communities. The long-term vision is to protect safety and health and to advance workers’ well-being by creating safer and healthier work (CDC, 2020b).</para>
+    <para id="para-00010"><term id="term-00009">Total Worker Health®</term> (<term id="term-00010">TWH</term>) refers to policies, programs, and practices focused on work-related safety and protection, promoting illness and injury prevention endeavors to advance worker well-being (CDC, 2020b). The TWH approach builds on the idea of a hazard-free work environment and views where an individual works as a <term class="no-emphasis" id="term-00011">social determinant of health</term> (SDOH). Wages, hours, workload, health benefits, and access to paid leave impact the overall well-being of workers, their families, and their communities. The long-term vision is to protect safety and health and to advance workers’ well-being by creating safer and healthier work (CDC, 2020b).</para>
     <para id="para-00011"><term class="no-emphasis" id="term-00012">Workplace risk factors</term>—such as sitting at a desk, performing shift work, or driving for long periods of time—can contribute to long-term health problems. There are work-related risk factors for obesity, sleep disorders, cardiovascular disease, and depression, among others (CDC, 2020b). The TWH approach aims to advance health and well-being by targeting work conditions.</para>
     <para id="para-00012">OHNs work in various settings and roles where they may need additional competencies depending on the chosen industry. Focusing on identifying health hazards and implementing control measures to manage the risk of exposure are key roles and required competencies of the OHN. Identifying workers’ exposure to health hazards can be challenging as certain chemicals, vapors, and gases may be invisible without any obvious signs (OSHA, 2016). <link target-id="table-00001" document="m00339"/> lists common chemical, physical, biological, and ergonomic hazards in the occupational setting.</para>
     <table class="vertically-tight alternate-shading" id="table-00001">
-    <tgroup cols="4">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <colspec colnum="4" colname="c4" colwidth="1*"/>
-    <thead>
-    <row>
-    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemical Hazards</emphasis></span></entry>
-    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Physical Hazards</emphasis></span></entry>
-    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Biological Hazards</emphasis></span></entry>
-    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Ergonomic Hazards</emphasis></span></entry>
-    </row>
-    </thead>
-    <tbody>
-    <row>
-    <entry valign="top" align="left">Solvents</entry>
-    <entry valign="top" align="left">Noise</entry>
-    <entry valign="top" align="left">Infectious agents</entry>
-    <entry valign="top" align="left">Heavy lifting</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Adhesives</entry>
-    <entry valign="top" align="left">Radiation</entry>
-    <entry valign="top" align="left">Contaminated bodily fluids</entry>
-    <entry valign="top" align="left">Repetitive motions</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Toxic dusts</entry>
-    <entry valign="top" align="left">Heat</entry>
-    <entry valign="top" align="left">Certain insects, spiders, scorpions</entry>
-    <entry valign="top" align="left">Vibration</entry>
-    </row>
-    <row>
-    <entry valign="top" align="left">Paints</entry>
-    <entry valign="top" align="left">Electric &amp; magnetic fields</entry>
-    <entry valign="top" align="left">Venomous snakes</entry>
-    <entry valign="top" align="left"/>
-    </row>
-    <row>
-    <entry valign="top" align="left">Substances in cleaning solutions</entry>
-    <entry valign="top" align="left">Cold</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left"/>
-    </row>
-    <row>
-    <entry valign="top" align="left">Diesel exhaust</entry>
-    <entry valign="top" align="left">Unsafe machinery and equipment</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left"/>
-    </row>
-    <row>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Transportation accidents</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left"/>
-    </row>
-    <row>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Fires or blasting</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left"/>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption>Common Workplace Hazards by Practice Setting</caption>
-    </table>
+      <tgroup cols="4">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="2" colname="c2" colwidth="1*"/>
+      <colspec colnum="3" colname="c3" colwidth="1*"/>
+      <colspec colnum="4" colname="c4" colwidth="1*"/>
+      <thead>
+      <row>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemical Hazards</emphasis></span></entry>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Physical Hazards</emphasis></span></entry>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Biological Hazards</emphasis></span></entry>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Ergonomic Hazards</emphasis></span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry valign="top" align="left"><list list-type="bulleted" id="list-00011"><item>Solvents</item>
+          <item>Adhesives</item>
+          <item>Toxic dusts</item>
+          <item>Paints</item>
+          <item>Substances in cleaning solutions</item>
+          <item>Diesel exhaust</item></list></entry>
+          <entry valign="top" align="left"><list list-type="bulleted" id="list-00012"><item>Noise</item>
+          <item>Radiation</item>
+          <item>Heat</item>
+          <item>Electric &amp; magnetic fields</item>
+          <item>Cold</item>
+          <item>Unsafe machinery and equipment</item>
+          <item>Transportation accidents</item>
+          <item>Fires or blasting</item></list></entry>
+          <entry valign="top" align="left"><list list-type="bulleted" id="list-00013"><item>Infectious agents</item>
+          <item>Contaminated bodily fluids</item>
+          <item>Certain insects, spiders, scorpions</item>
+          <item>Venomous snakes</item></list></entry>
+          <entry valign="top" align="left"><list list-type="bulleted" id="list-00014"><item>Heavy lifting</item>
+      <item>Repetitive motions</item>
+      <item>Vibration</item></list></entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption>Common Workplace Hazards by Practice Setting</caption>
+      </table>
     <note class="media-feature" id="note-00001">
     <title>Workplace Ergonomics</title>
     <media alt="atoms_isotopes">
     <iframe width="560" height="315" src="https://openstax.org/r/workplace"/>
     </media>
     <para id="para-00013"><term id="term-00013">Ergonomics</term> refers to a set of practices in workplaces—such as adjustable desk heights and keyboards that more naturally fit the wrist’s contours—that increase worker efficiency and productivity while reducing injuries and discomfort (Mayo Clinic, 2023). The goal is to fit the workplace to the worker, as described in this video.</para>
-    <para id="para-00014">Watch the video and then respond to the following questions:</para>
+    <para id="para-00014">Watch the video, and then respond to the following questions.</para>
     <list list-type="enumerated" number-style="arabic" id="list-00004">
     <item>Why is ergonomics in the workplace such an important concept?</item>
     <item>What is the relationship between ergonomics and health?</item>
@@ -131,7 +106,7 @@
     </section>
     <section id="sect-00005">
     <title>Scope of Practice in Occupational and Environmental Health Nursing</title>
-    <para id="para-00015">AAOHN (2012) delineates the Scope of Practice for the OHN and highlights the necessary collaboration among workers, employers, and members of the occupational health team and safety team. Scope of practice includes the following:</para>
+    <para id="para-00015">The AAOHN (2012) Scope of Practice for the OHN highlights the necessary collaboration among workers, employers, and members of the occupational health team and safety team and includes the following:</para>
     <list list-type="bulleted" id="list-00005">
     <item>Identify health and safety needs.</item>
     <item>Prioritize interventions.</item>
@@ -153,7 +128,7 @@
     <section id="sect-00006">
     <title>Occupational Safety and Health Administration</title>
     <para id="para-00018">In 1970, the Occupational Health and Safety Act created OSHA to develop and enforce standards of safety that employers must follow. A <term id="term-00015">standard</term>, also known as a regulation, is a requirement established by the agency to evaluate whether employers follow OSHA laws (USDL, n.d.-a). OSHA organizes the standards based on workplace sectors. There are standards for general industry, construction, agriculture, and maritime (USDL, n.d.-a). This is a hyperlink to the <link url="https://openstax.org/r/oshagov">OSHA rulemaking process</link> for creating standards. In addition to setting workplace standards for safety, OSHA provides training, education, and assistance with implementing these standards (USDL, n.d.a). OSHA has educational topics in the following sectors: agriculture, construction, federal agencies, health care, maritime, oil and gas, and warehousing (USDL, n.d.-a).</para>
-    <para id="para-00019">The formation of OSHA stimulated the growth of occupational health nursing to assist employers with creating these safe and healthy work environments. Since the 1970s, the specialty has grown significantly as OHNs can monitor workers’ health status, ensure employers meet OSHA standards, implement evidence-based interventions to prevent or mitigate adverse health effects from the work environment, and develop workplace prevention programs. OSHA has described occupational and environmental health nurses as using their specialized experience and education to recognize and prevent adverse health effects from hazardous exposures in the workplace (ABOHN, n.d.).</para>
+    <para id="para-00019">The formation of OSHA stimulated the growth of occupational health nursing to help employers create these safe and healthy work environments. Since the 1970s, the specialty has grown significantly as OHNs can monitor workers’ health status, ensure employers meet OSHA standards, implement evidence-based interventions to prevent or mitigate adverse health effects from the work environment, and develop workplace prevention programs. OSHA has described occupational and environmental health nurses as using their specialized experience and education to recognize and prevent adverse health effects from hazardous exposures in the workplace (ABOHN, n.d.).</para>
     </section>
     <section id="sect-00007">
     <title>National Institute for Occupational Safety and Health</title>
@@ -162,7 +137,7 @@
     <section id="sect-00008">
     <title>Occupational Health Nursing Practice Settings</title>
     <para id="para-00021">OHNs practice in a wide variety of sites. Wherever there are employees, there may be OHNs working with employers to design health and safety programs. OHNs use an interprofessional approach to advocate for employee rights to health and safety programs. They assist employers by decreasing work-related injuries, absenteeism, and disability claims and by ensuring compliance with local, state, and federal laws and regulations on workplace health and safety. Depending on the employment site, OHNs build their expertise by incorporating knowledge of chemical hazards, biological hazards, ergonomic considerations, industrial safety issues, disease management, and business management concepts. <link target-id="fig-00001" document="m00339"/> lists the most common industries that employ certified OHNs. Hospitals, medical centers, and manufacturing are the most cited work settings for certified OHNs. Within manufacturing and production, OHNs may work in textiles, oil refining, machinery, the metal industry, rubber, and plastics (ABOHN, 2018). Other smaller industries where OHNs have an impact are food production, retail trade, amusement and recreational services, construction, communications, biotechnology, agriculture, forestry, fishing, and consulting.</para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="A pie graph shows settings where occupational health nurses work: 37% manufacturing and production; 34% hospital or medical center; 10% government; 2% utility service; 2% academia; and 2% work in finance, real estate, or insurance. The remaining 13% work in other settings."><image mime-type="image/jpg" src="../../media/PH_Figure_29_01_002.png"/></media>
     <caption>According to the ABOHN 2018 Practice Analysis, more than two-thirds of certified OHNs work in manufacturing and production or hospital or medical center settings. (data source: American Board for Occupational Health Nurses, Inc., 2018; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
     </section>
