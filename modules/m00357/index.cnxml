@@ -101,7 +101,7 @@
     <para id="para-00029">Multisector, <term class="no-emphasis" id="term-00017">interdisciplinary collaboration</term> is necessary at the community level during each stage of the disaster management cycle. Most often, the public health agency leads prevention and preparedness efforts within a community. Community partners who respond to and are affected by disasters are invited to participate in disaster management activities. This includes emergency response coordinators, emergency department managers, epidemiologists, nurses, emergency medical service, law enforcement, fire services, academic institutions, Medical Reserve Corps, private businesses, faith-based organizations, humanitarian organizations, nonprofit organizations, medical, health and behavioral providers, and other community-based organizations (RHIhub, 2023). The disaster management team collaborates to assess the community for risk factors, plans efforts to mitigate disaster effects, and prepares for potential disaster through tabletop exercises and disaster simulations. Prevention and preparedness activities identify areas of strength, accessible resources, and areas for improvement.</para>
     <para id="para-00030">The disaster management team utilizes the NIMS framework and ICS (previously discussed) during disaster response and recovery to establish leadership, organize resources, and communicate effectively. When local resources are depleted, state partners, such as the National Guard, state emergency management agency, state health department, and governor’s office, and federal partners, such as FEMA, National Disaster Medical System, Environment Protection Agency, and U.S. Department of Health and Human Services Incident Response Coordination Team, may join disaster response efforts. <link target-id="table-00001" document="m00357"/> describes the role of various disaster response organizations and partners.</para>
     <table class="vertically-tight full-width" id="table-00001">
-    <tgroup cols="3">
+    <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <tbody>
@@ -109,7 +109,7 @@
     <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
     </row>
     <row>
-    <entry namest="c1" nameend="c2" valign="top">
+    <entry namest="c1" nameend="c2" valign="top" align="left">
     <list list-type="bulleted" id="list-00006">
     <item>Immediate response to local disasters</item>
     <item>Establish preparedness plans</item>

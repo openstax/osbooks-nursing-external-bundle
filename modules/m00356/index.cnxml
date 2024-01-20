@@ -75,9 +75,9 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Mass shooting incidents have increased since 2016<newline/></caption>
+    <caption>Mass shooting incidents have increased since 2016</caption>
     </table>
-
+<para id="para-00017"> <newline count="2"/></para>
     <table class="vertically-tight alternate-shading full-width" id="table-00002">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -144,10 +144,10 @@
     </thead>
     <tbody>
     <row>
-    <entry valign="top" align="left">Grievances<newline />
-      &#160;&#160;&#160;<emphasis effect="italics">Personal</emphasis><newline />
-      &#160;&#160;&#160;<emphasis effect="italics">Domestic</emphasis><newline />
-      &#160;&#160;&#160;<emphasis effect="italics">Workplace</emphasis></entry>
+    <entry valign="top" align="left">Grievances<newline/>
+         <emphasis effect="italics">Personal</emphasis><newline/>
+         <emphasis effect="italics">Domestic</emphasis><newline/>
+         <emphasis effect="italics">Workplace</emphasis></entry>
     <entry valign="top" align="center">40%<newline/>
      <emphasis effect="italics">5</emphasis><newline/>
         <emphasis effect="italics">6</emphasis><newline/>
