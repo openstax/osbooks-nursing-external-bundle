@@ -19,9 +19,9 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
          <tgroup cols="4">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
-        <colspec colnum="2" colname="c2" colwidth="3*"/>
+        <colspec colnum="2" colname="c2" colwidth="2*"/>
         <colspec colnum="3" colname="c3" colwidth="3*"/>
-        <colspec colnum="4" colname="c4" colwidth="3*"/>
+        <colspec colnum="4" colname="c4" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Theorist/Year</span></emphasis></entry>
@@ -124,9 +124,9 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00002">
       <tgroup cols="4">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
-        <colspec colnum="2" colname="c2" colwidth="2*"/>
-        <colspec colnum="3" colname="c3" colwidth="2*"/>
-        <colspec colnum="4" colname="c4" colwidth="2*"/>
+        <colspec colnum="2" colname="c2" colwidth="1*"/>
+        <colspec colnum="3" colname="c3" colwidth="3*"/>
+        <colspec colnum="4" colname="c4" colwidth="1*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Theorist/Year</span></emphasis></entry>
@@ -164,7 +164,7 @@
     <item>Observation</item>
     </list><newline/>
     <emphasis effect="italics">Example:</emphasis><newline/>
-    Collaboration with the community to ensure that a migrant population has access to clean and healthy housing, bedding, z access to sanitation services, and culturally congruent foods will offer hope for a brighter future.</entry>
+    Collaboration with the community to ensure that a migrant population has access to clean and healthy housing, bedding, access to sanitation services, and culturally congruent foods will offer hope for a brighter future.</entry>
     </row>
     <row>
     <entry valign="top" align="left">Milio’s Framework for Prevention<newline/>
