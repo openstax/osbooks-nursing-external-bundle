@@ -117,7 +117,7 @@
     </list></entry>
   </row>
   <row>
-    <entry valign="top" align="left" morerows="8">Emergency response coordinators</entry>
+    <entry valign="top" align="left">Emergency response coordinators</entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00007">
     <item>Establish local emergency action plans</item>
@@ -201,9 +201,10 @@
     <item>License professionals</item>
     <item>Assist in disaster response and recovery when local resources are exhausted</item>
     </list></entry>
-    <entry valign="top" align="left" morerows="1">State <term class="no-emphasis" id="term-00026">National Guard</term></entry>
-    <entry valign="top" align="left">
-    <list list-type="bulleted" id="list-00017">
+  </row>
+  <row>
+    <entry valign="top" align="left">State <term class="no-emphasis" id="term-00026">National Guard</term></entry>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00017">
     <item>Assist with transportation, communications, public works and engineering, emergency management, mass care, search and rescue, and hazardous materials management</item>
     </list></entry>
     </row>
@@ -220,7 +221,7 @@
       <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">National and Federal Partners</span></emphasis></entry>
       </row>
     <row>
-    <entry namest="c1" nameend="c2" valign="top" align="left" morerows="7">
+    <entry namest="c1" nameend="c2" valign="top" align="left">
     <list list-type="bulleted" id="list-00019">
     <item>Recommend guidelines for disaster management</item>
     <item>Assist in disaster response and recovery when National Emergency declared or when state resources are exhausted</item>
