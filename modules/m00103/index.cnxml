@@ -309,8 +309,10 @@ How many tablets should the client receive per dose?</para>
 <item>10 mg is placed in the upper left side in the numerator position.</item>
 <item>Because you are solving for the correct number of tablets, tablet must be on the top left of the equation and not canceled out. And because mg is not on the right side of the equation, mg should be canceled out. That helps determine the placement of the next part of the equation.</item>
 <item>One tablet must be on top so that the mg in 2.5 mg can be canceled out.<newline/>
-<m:math><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:math>
-<m:math><m:mtable columnspacing="0px" columnalign="left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Ordered</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Dosage</m:mi><m:mo> </m:mo><m:mi>strength</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
+  <m:math><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:math><newline/>
+  <m:math><m:mi>OA</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Ordered</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo></m:math><newline/>
+  <m:math><m:mi>DS</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Dosage</m:mi><m:mo> </m:mo><m:mi>strength</m:mi></m:math><newline/>
+  <m:math><m:mi>DA</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi></m:math></item>
 </list>
 <para id="para-00060"><emphasis effect="bold">Example 1:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg PO BID<newline/>
