@@ -271,10 +271,10 @@ How many tablets should the client receive per dose?</para>
   <list list-type="enumerated" number-style="arabic" id="list-00010">
     <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
     <emphasis effect="italics">Available:</emphasis> Amoxicillin suspension 125 mg in 5 mL<newline/>
-    <m:math><m:mtable columnspacing="0px" columnalign="right"><m:mtr><m:mtd><m:mn>125</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>250</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>125</m:mn><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>250</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>5</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How</m:mi><m:mo> </m:mo><m:mi>many</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>?</m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
+    <m:math><m:mtable columnspacing="0px" columnalign="right"><m:mtr><m:mtd><m:mn>125</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>250</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>125</m:mn><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo> <m:mn>250</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>5</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo><m:mo> </m:mo><m:mi>How many mL?</m:mi></m:mtd></m:mtr></m:mtable></m:math></item>
     <item><emphasis effect="italics">Ordered:</emphasis> Potassium chloride PO 40 mEq BID<newline/>
     <emphasis effect="italics">Available:</emphasis> Potassium chloride elixir 20 mEq per 15 mL<newline/>
-    <m:math><m:mtable columnspacing="0px" columnalign="right"><m:mtr><m:mtd><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>40</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>20</m:mn><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>40</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How</m:mi><m:mo> </m:mo><m:mi>many</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>?</m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
+    <m:math><m:mtable columnspacing="0px" columnalign="right"><m:mtr><m:mtd><m:mn>20</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>40</m:mn><m:mo> </m:mo><m:mi>mEq</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>20</m:mn><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo> <m:mn>40</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>15</m:mn><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>How many mL?</m:mi></m:mtd></m:mtr></m:mtable></m:math></item>
     <item><emphasis effect="italics">Ordered:</emphasis> Furosemide 60 mg IVP now<newline/>
     <emphasis effect="italics">Available:</emphasis> Furosemide 20 mg in 2 mL<newline/>
     If solving by cross multiplying, using<newline/>
@@ -310,7 +310,7 @@ How many tablets should the client receive per dose?</para>
 <item>Because you are solving for the correct number of tablets, tablet must be on the top left of the equation and not canceled out. And because mg is not on the right side of the equation, mg should be canceled out. That helps determine the placement of the next part of the equation.</item>
 <item>One tablet must be on top so that the mg in 2.5 mg can be canceled out.<newline/>
 <m:math><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:math>
-<m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Ordered</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Dosage</m:mi><m:mo> </m:mo><m:mi>strength</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
+<m:math><m:mtable columnspacing="0px" columnalign="left"><m:mtr><m:mtd><m:mi>O</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Ordered</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>S</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Dosage</m:mi><m:mo> </m:mo><m:mi>strength</m:mi><m:mo> </m:mo></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>D</m:mi><m:mi>A</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
 </list>
 <para id="para-00060"><emphasis effect="bold">Example 1:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg PO BID<newline/>
@@ -348,12 +348,12 @@ How many tablets should the client receive per dose?</para>
 <para id="para-00071"><emphasis effect="bold">Example 3:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Initiate dopamine IV infusion at 5 mcg/kg/minute<newline/>
 <emphasis effect="italics">Available:</emphasis> Dopamine hydrochloride 800 mg in 500 mL normal saline<newline/>
-<emphasis effect="italics">Client’s weight:</emphasis> 176 pounds</para>
+<emphasis effect="italics">Client’s weight:</emphasis> 176 lb</para>
 <para id="para-00075">How many mL/hour should the medication infuse?</para>
 <list list-type="enumerated" number-style="arabic" id="list-00016">
 <item>First, determine what goes on the right side of the equation. What units of measure are you solving for? In this example, it is mL/hour.</item>
 <item>Now identify the information on the top left of the equation. In this example, it is 5 mcg. The order reads 5 mcg/kg/min. Therefore, 5 mcg goes on the top left, and kg/min is on the bottom left.</item>
-<item>To solve the equation, the client’s weight of 176 pounds (lb) will also need to be converted within the equation. The following shows how the equation for solving for this infusion rate should be laid out. (It does not have to be laid out in this specific order, but all units of measurement should be included; for example, 1 kg/2.2 lb could switch places with 500 mL/800 mg).<newline/>
+<item>To solve the equation, the client’s weight of 176 lb will also need to be converted within the equation. The following shows how the equation for solving for this infusion rate should be laid out. (It does not have to be laid out in this specific order, but all units of measurement should be included; for example, 1 kg/2.2 lb could switch places with 500 mL/800 mg).<newline/>
   <m:math><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mcg</m:mi></m:mrow><m:mrow><m:mi>kg/min</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>lb</m:mi></m:mrow></m:mfrac><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>176</m:mn><m:mo> </m:mo><m:mi>lb</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>60</m:mn><m:mo> </m:mo><m:mi>min</m:mi></m:mrow><m:mrow><m:mn>1</m:mn><m:mo> </m:mo><m:mi>hour</m:mi></m:mrow></m:mfrac><m:mo> </m:mo><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow><m:mn>1000</m:mn><m:mo> </m:mo><m:mi>mcg</m:mi></m:mrow></m:mfrac><m:mo> </m:mo><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>500</m:mn><m:mo> </m:mo><m:mi>mL</m:mi></m:mrow><m:mrow><m:mn>800</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi><m:mo> </m:mo><m:mi>mL/hour</m:mi></m:math></item>
   <item>Because you are solving for mL/hour, circle mL on top and hour on the bottom, ensuring that those units of measure will not be crossed out.</item>
 <item>To solve the problem, you need to cross out duplicate units of measure. For this equation you would cross out (a) mcg, (b) kg, (c) min, (d) lb, and (e) mg.</item>
@@ -372,7 +372,7 @@ How many tablets should the client receive per dose?</para>
     </figure>
     <list list-type="enumerated" start-value="8" id="list-00024">    
 <item>You are now ready to solve for <emphasis effect="italics">X</emphasis> by dividing the numerator of 26,400,000 by the denominator of 1,760,000.
-<m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>400</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>760</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL/hour</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL/hour</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
+<m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>400</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>760</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd> <m:mo>=</m:mo> </m:mtd><m:mtd><m:mi>X</m:mi><m:mo> </m:mo><m:mi>mL/hour</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>X</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>15</m:mn><m:mo> </m:mo><m:mi>mL/hour</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></item>
 </list>
 <note class="practice-problems" id="note-00006">
 <title>Dimensional Analysis Calculations</title>
@@ -380,9 +380,9 @@ How many tablets should the client receive per dose?</para>
 <exercise id="exer-00005">
 <problem id="prob-00005">
 <list list-type="enumerated" number-style="arabic" id="list-00017">
-<item><emphasis effect="italics">Ordered:</emphasis> Omnicef 500 mg orally daily
-<emphasis effect="italics">Available:</emphasis> Omnicef suspension 125 mg in 5 mL
-How many mL will be given?
+<item><emphasis effect="italics">Ordered:</emphasis> Omnicef 500 mg orally daily<newline/>
+<emphasis effect="italics">Available:</emphasis> Omnicef suspension 125 mg in 5 mL<newline/>
+How many mL will be given?<newline/>
 <m:math><m:mfrac><m:mrow><m:mn>500</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow><m:mrow/></m:mfrac><m:mo>×</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo> </m:mo><m:mi>mL</m:mi></m:mrow><m:mrow><m:mn>125</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mi mathvariant="italic">X</m:mi><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item>
 <item><emphasis effect="italics">Ordered:</emphasis> Zoloft 50 mg orally daily<newline/>
 <emphasis effect="italics">Available:</emphasis> Zoloft 25 mg tablets<newline/>
@@ -420,16 +420,16 @@ At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint
 <para id="para-00082">To use this method:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00019">
 <item>Convert the client’s weight from pounds to kilograms 
-<m:math><m:mfenced><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mrow></m:mfenced></m:math>.</item>
+<m:math><m:mfenced><m:mrow><m:mn>2.2</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mrow></m:mfenced></m:math>.</item>
 <item>Determine the drug dose for body weight by multiplying them together.</item>
 <item>Use your preferred dosage calculation method (formula, ratio proportion, or dimensional analysis) to solve for the dose of the drug to be administered to the client.</item>
 </list>
 <para id="para-00083"><emphasis effect="bold">Example:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Amoxicillin 10 mg per kg orally QID (four times a day)<newline/>
 <emphasis effect="italics">Available:</emphasis> Amoxicillin 125 mg/5 mL<newline/>
-<emphasis effect="italics">Client’s weight:</emphasis> 110 pounds</para>
+<emphasis effect="italics">Client’s weight:</emphasis> 110 lb</para>
 <para id="para-00087">How many mL should the client receive per dose?</para>
-<para id="para-00088"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn>110</m:mn><m:mo> </m:mo><m:mi>lb</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mrow></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>50</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>50</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo> </m:mo></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mo> </m:mo><m:mn>500</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>per</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="para-00088"><m:math><m:mtable columnspacing="0px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mrow><m:mn>110</m:mn><m:mo> </m:mo><m:mi>lb</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mrow></m:mfrac></m:mtd><m:mtd> <m:mo>=</m:mo></m:mtd> <m:mtd><m:mo> </m:mo><m:mn>50</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>drug</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo>)</m:mo><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>50</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo> </m:mo></m:mtd> <m:mtd><m:mo>=</m:mo></m:mtd> <m:mtd><m:mo> </m:mo><m:mn>500</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mi>per</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
 <para id="para-00089">Use the label shown in <link target-id="fig-00007" document="m00103"/> to calculate the number of mL per dose.</para>
 <figure class="scaled-down" id="fig-00007">
 <media alt="A drug label for amoxicillin indicates that it has 125 m g per 5 m l."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_021.jpg"/></media>
@@ -449,21 +449,21 @@ At how many mL/hour will the infusion pump be set (round to the hundredth)? Hint
 <item>Calculate the dose in mL.</item>
 </list>
 <para id="para-00094"><emphasis effect="bold">Example:</emphasis></para>
-<para id="para-00095">Calculate the dose of ceftriaxone in mL for a client who weighs 37 pounds and is 97 cm tall. The dosing required is 2 mg/m<sup>2</sup>, and the drug comes in 1 mg/mL.</para>
+<para id="para-00095">Calculate the dose of ceftriaxone in mL for a client who weighs 37 lb and is 97 cm tall. The dosing required is 2 mg/m<sup>2</sup>, and the drug comes in 1 mg/mL.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00021">
 <item><m:math><m:mn>37</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>2.2</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:math></item>
-<item><m:math><m:msqrt><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo>×</m:mo><m:mo> </m:mo><m:mn>97</m:mn><m:mo> </m:mo><m:mi>cm</m:mi></m:msqrt><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>3600</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0.67</m:mn><m:mo> </m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:math></item>
+<item><m:math><m:msqrt><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo>×</m:mo><m:mo> </m:mo><m:mn>97</m:mn><m:mo> </m:mo><m:mi>cm</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>3600</m:mn></m:msqrt><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0.67</m:mn><m:mo> </m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:math></item>
 <item><m:math><m:mn>2</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo>/</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>0.67</m:mn><m:mo> </m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:math></item>
-<item><m:math><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo>/</m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mL</m:mi></m:math><newline/>
-  The dose to be administered is 1.34 mL.</item>
-</list>
+<item><m:math><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo>/</m:mo><m:mi>mL</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mL</m:mi></m:math></item></list>
+<para id="para-00010">The dose to be administered is 1.34 mL.</para>
 <para id="para-00096">To calculate the dose using dimensional analysis, some of the same steps are used.</para>
 <list list-type="enumerated" number-style="arabic" id="list-00022">
 <item><m:math><m:mn>37</m:mn><m:mo> </m:mo><m:mi>lb</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>2.2</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi></m:math></item>
-<item><m:math><m:msqrt><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo>×</m:mo><m:mo> </m:mo><m:mn>97</m:mn></m:msqrt><m:mo> </m:mo><m:mi>cm</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>3600</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0.67</m:mn><m:mo> </m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:math></item>
+<item><m:math><m:msqrt><m:mn>16.8</m:mn><m:mo> </m:mo><m:mi>kg</m:mi><m:mo>×</m:mo><m:mo> </m:mo><m:mn>97</m:mn><m:mo> </m:mo><m:mi>cm</m:mi><m:mo> </m:mo><m:mo>÷</m:mo><m:mo> </m:mo><m:mn>3600</m:mn></m:msqrt><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>0.67</m:mn><m:mo> </m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:math></item>
 <item> <m:math><m:mn>0.67</m:mn><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>2</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo>/</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1.34</m:mn><m:mo> </m:mo><m:mi>mL</m:mi><m:mo> </m:mo></m:math></item>
 </list>
-<para id="para-00097">Remember that body surface area is measured in meters squared (m<sup>2</sup>). Begin the dosage calculation by calculating the body surface area of the client, then multiply the size of the client by the ordered dose to obtain the dose needed for the client.<newline/> Client size x Order = Dose</para>
+<para id="para-00097">Remember that body surface area is measured in meters squared (m<sup>2</sup>). Begin the dosage calculation by calculating the body surface area of the client, then multiply the size of the client by the ordered dose to obtain the dose needed for the client.<newline/>
+  Client size x Order = Dose</para>
 <note class="clinical-tip" id="note-00008">
 <title>Body Surface Area Calculator</title>
 <para id="para-00098">BSA is estimated by using a formula; however, this can be simplified by using a <link url="https://openstax.org/r/calcsurface">BSA calculator</link>.</para>
