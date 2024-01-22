@@ -141,7 +141,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Clobetasol</term><newline/>
     (<term class="no-emphasis" id="term-00013">Dermovate</term>, <term class="no-emphasis" id="term-00014">ClobaDerm</term>, <term class="no-emphasis" id="term-00015">Etrivex</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >12 years:</emphasis> Apply aerosol foam (0.05%) topically in a thin layer twice daily for 2 weeks.</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children &#8805;12 years:</emphasis> Apply aerosol foam (0.05%) topically in a thin layer twice daily for 2 weeks.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Calcipotriene</term></entry>
@@ -239,7 +239,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00027">Etanercept</term><newline/>
     (<term class="no-emphasis" id="term-00028">Enbrel</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children >63 kg:</emphasis> 50 mg subcutaneous injection twice weekly for 3 months, then weekly for maintenance.<newline/>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children &#8805;63 kg:</emphasis> 50 mg subcutaneous injection twice weekly for 3 months, then weekly for maintenance.<newline/>
     <emphasis effect="italics">Children &lt;63 kg:</emphasis> 0.8 mg/kg subcutaneous injection weekly.</entry>
     </row>
     <row>
@@ -258,8 +258,9 @@
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Ustekinumab</term><newline/>
     (<term class="no-emphasis" id="term-00034">Stellara</term>)</entry>
     <entry valign="top" align="left"><emphasis effect="italics">Adults and children &lt;100 kg:</emphasis> 45 mg subcutaneously initially, then 4 weeks later, then 45 mg every 12 weeks.<newline/>
-    <emphasis effect="italics">Adults and children >100 kg:</emphasis> 90 mg subcutaneously initially, then 4 weeks later, then 90 mg every 12 weeks.<newline/>
-    <emphasis effect="italics">Children &lt;60 kg:</emphasis> 0.75 mg/kg subcutaneously. Follow the adult administration timeframe but use weight-based guidelines to administer the same dose at each scheduled interval.</entry>
+      <emphasis effect="italics">Children &lt;60 kg:</emphasis> 0.75 mg/kg subcutaneously. Follow the adult administration timeframe but use weight-based guidelines to administer the same dose at each scheduled interval.<newline/>
+    <emphasis effect="italics">Adults and children &#8805;100 kg:</emphasis> 90 mg subcutaneously initially, then 4 weeks later, then 90 mg every 12 weeks.
+    </entry>
     </row>
     </tbody>
     </tgroup>
