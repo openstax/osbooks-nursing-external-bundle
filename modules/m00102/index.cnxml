@@ -21,7 +21,7 @@
 <title>Forms and Routes of Administration</title>
 <para id="para-00003">There are many different <term class="no-emphasis" id="term-00003">forms of medication</term>: liquid, suspensions, tablets, capsules, lotions, and ointment, to name a few. There are also many routes through which medications can be given and absorbed into the body. The routes of medication administration are broadly categorized as follows:</para>
 <list list-type="bulleted" id="list-00002">
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00004">Enteral drug administration</term>:</emphasis> “Enteral” means “pertaining to the small intestine.” Most enteral medications are absorbed in the intestines. The primary routes for enteral administration are oral and, to a lesser extent, rectal. Some clients have tubes placed directly into the gastrointestinal tract (e.g., nasogastric tubes or percutaneous endoscopic gastrostomy [PEG] tubes). Absorption will vary, but all will be affected by the first-pass effect.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00004">Enteral drug administration</term>:</emphasis> “Enteral” means “pertaining to the intestines.” Most enteral medications are absorbed in the intestines. The primary routes for enteral administration are oral and, to a lesser extent, rectal. Some clients have tubes placed directly into the gastrointestinal tract (e.g., nasogastric tubes or percutaneous endoscopic gastrostomy [PEG] tubes). Absorption will vary, but all will be affected by the first-pass effect.</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00005">Parenteral drug administration</term>:</emphasis> “Parenteral” refers to any drug that is administered outside of the GI tract; however, it most commonly refers to injectable drugs administered via the subcutaneous, intramuscular, or intravenous routes. Drugs administered via these routes have improved bioavailability because they bypass the first-pass effect, making absorption and onset of action more rapid.
 <list list-type="bulleted" id="list-00003">
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00006">Percutaneous drug administration</term>:</emphasis> Some sources will define percutaneous administration as a separate category or a subcategory of parenteral routes. The percutaneous route refers to topical drugs absorbed through the skin—lotions, ointments, creams, or patches.</item></list></item>
@@ -47,7 +47,7 @@
 <table class="vertically-tight" id="table-00001">
 <title/>
 <tgroup cols="2">
-<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="1" colname="c1" colwidth="2*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
@@ -144,7 +144,7 @@
 <table class="vertically-tight" id="table-00002">
 <title/>
 <tgroup cols="2">
-<colspec colnum="1" colname="c1" colwidth="1*"/>
+<colspec colnum="1" colname="c1" colwidth="2*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
@@ -588,7 +588,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/intramuscular"/>
 </media>
-<para id="para-00024">Watch this video to see one technique for deltoid injection. A BSN/RN IM demonstrates the Z-track technique.</para>
+<para id="para-00024">Watch this video to see a nurse demonstrate the technique for administering an IM injection in the deltoid muscle using the Z-track technique.</para>
 </note>
 <note class="safety-alert" id="note-00005">
 <title><term class="no-emphasis" id="term-00016">Needle Disposal</term></title>
@@ -603,7 +603,7 @@
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/ventrogluteal"/>
 </media>
-<para id="para-00027">Watch this video to see a BSN/RN demonstrate one technique for ventrogluteal injection. She also demonstrates how to find the appropriate landmarks.</para>
+<para id="para-00027">Watch this video to see a nurse demonstrate how to use body landmarks to identify the location for a ventrogluteal injection, and then the correct technique for administering an IM medication at this site.</para>
 </note>
 <figure class="scaled-down" id="fig-00006">
 <media alt="A diagram shows the injection site for a ventrogluteal injection. A drawing of a hand is shown over the femur. The palm is over the greater trochanter of the femur. The index finger is over the anterior superior iliac spine. The middle finger points to the iliac crest. The injection site is located at the middle of the triangle formed by the index and middle finger."><image mime-type="image/png" src="../../media/PHA_Figure_02_03_011.jpg"/></media>
