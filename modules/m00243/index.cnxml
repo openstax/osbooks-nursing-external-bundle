@@ -39,7 +39,7 @@
         </list>
         <section id="sect-00004">
         <title>Pathophysiology </title>
-        <para id="para-00005">The body's <emphasis effect="bold">inflammatory response</emphasis> is a complex and coordinated reaction aimed at defending against harmful stimuli and promoting tissue repair (Hannoodee &amp; Nasuruddin, 2022). When tissues are damaged, injured, or infected, various immune cells and chemical mediators work together to initiate and regulate the inflammatory process. The response can be triggered by various factors, including pathogens (e.g., bacteria, viruses), physical injury, toxins, or autoimmune reactions. The inflammatory response (see <link target-id="fig-00001" document="m00243"/>) presents as follows:</para>
+        <para id="para-00005">The body's <term id="term-00057">inflammatory response</term> is a complex and coordinated reaction aimed at defending against harmful stimuli and promoting tissue repair (Hannoodee &amp; Nasuruddin, 2022). When tissues are damaged, injured, or infected, various immune cells and chemical mediators work together to initiate and regulate the inflammatory process. The response can be triggered by various factors, including pathogens (e.g., bacteria, viruses), physical injury, toxins, or autoimmune reactions. The inflammatory response (see <link target-id="fig-00001" document="m00243"/>) presents as follows:</para>
         <list id="list-00004">
         <item><emphasis effect="italics">Recognition of harmful stimuli:</emphasis> The process begins when the body detects a threat, such as a pathogen or tissue injury. Immune cells, particularly macrophages, recognize these harmful stimuli through pattern recognition receptors.</item>
         <item><emphasis effect="italics">Release of chemical mediators:</emphasis> Upon recognition of the threat, immune cells release signaling molecules called cytokines, such as interleukins and TNF-α, which trigger the cascade of events that lead to inflammation.</item>
@@ -87,7 +87,7 @@
         </section>
         <section id="sect-00009">
         <title>Salicylates</title>
-        <para id="para-00014"><term class="no-emphasis" id="term-00009">Salicylates</term> are a group of chemical compounds that contain a salicylate acid backbone. The most common and well-known salicylate is acetylsalicylic acid, also known as aspirin. Salicylates can be found in various plants, including fruits (such as berries), vegetables (such as spinach), and herbs (such as peppermint). Salicylates are commonly used to alleviate pain, reduce inflammation, and lower fever, making them effective for various conditions, including headaches, arthritis, and minor injuries. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response</link> for additional information on salicylates.</para>
+        <para id="para-00014"><term class="no-emphasis" id="term-00009">Salicylates</term> are a group of chemical compounds that contain a salicylate acid backbone. The most common and well-known salicylate is acetylsalicylic acid, also known as aspirin. Salicylates can be found in various plants, including fruits (such as berries), vegetables (such as spinach), and herbs (such as peppermint). Salicylates are commonly used to alleviate pain, reduce inflammation, and lower fever, making them effective for various conditions, including headaches, arthritis, and minor injuries. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response Drugs</link> for additional information on salicylates.</para>
         <para id="para-00015"><term class="no-emphasis" id="term-00010">Aspirin</term> also has anti-platelet properties that are unrelated to its anti-inflammatory properties. At low doses, aspirin irreversibly inhibits the enzyme cyclooxygenase-1 (COX-1) in platelets, which are specialized blood cells involved in blood clotting, thereby inhibiting platelet aggregation and blood clot formation (see <link document="m00318">Anticoagulant, Antiplatelet, and Thrombolytic Drugs</link> for additional information on aspirin as an antiplatelet).</para>
         </section>
         <section id="sect-00010">
@@ -96,7 +96,7 @@
         </section>
         <section id="sect-00011">
         <title>Propionic Acid Derivatives</title>
-        <para id="para-00017"><term class="no-emphasis" id="term-00012">Propionic acid derivatives</term> have a propionic acid base in their chemical structure. They also inhibit the enzyme COX, thereby decreasing inflammation, relieving pain, and reducing fever. Common propionic acid derivatives include ibuprofen and naproxen sodium. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response</link> for additional information on these drugs.</para>
+        <para id="para-00017"><term class="no-emphasis" id="term-00012">Propionic acid derivatives</term> have a propionic acid base in their chemical structure. They also inhibit the enzyme COX, thereby decreasing inflammation, relieving pain, and reducing fever. Common propionic acid derivatives include ibuprofen and naproxen sodium. See <link target-id="table-00001" document="m00243"/> for dosing information and <link document="m00309">Pain Response Drugs</link> for additional information on these drugs.</para>
         </section>
         <section id="sect-00012">
         <title>Oxicams</title>
@@ -123,14 +123,14 @@
               </thead>
               <tbody>
               <row>
-        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Salicylates</emphasis></entry></row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Salicylates</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Salicylic acid</term><newline/>
         (<term class="no-emphasis" id="term-00016">aspirin</term>)</entry>
         <entry valign="middle" align="left">Tablet or enteric coated tablet, 1 or 2 325 mg tablets orally every 4 hours while symptoms last.</entry>
         </row>
         <row>
-        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Phenylacetic Acid Derivatives</emphasis></entry></row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Phenylacetic Acid Derivatives</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00017">Diclofenac</term><newline/>
@@ -145,7 +145,7 @@
         <emphasis effect="italics">Extended release:</emphasis> 75 mg orally once daily.</entry>
         </row>
         <row>
-        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Propionic Acid Derivatives</emphasis></entry></row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Propionic Acid Derivatives</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00021">Ibuprofen</term><newline/>
@@ -158,7 +158,7 @@
         <entry valign="middle" align="left">220 mg orally every 8–12 hours while symptoms last. Do not exceed 440 mg in any 8- to 12-hour period; do not exceed 660 mg in a 24-hour period.</entry>
         </row>
         <row>
-        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">Oxicams</emphasis></entry></row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Oxicams</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00025">Meloxicam</term><newline/>
@@ -172,7 +172,7 @@
         <entry valign="middle" align="left">20 mg orally once daily.</entry>
         </row>
         <row>
-        <entry namest="c1" nameend="c2" valign="top" align="left"><emphasis effect="bold">COX-2 Inhibitor</emphasis></entry></row>
+        <entry namest="c1" nameend="c2" valign="top" align="left"><span class="blue-text"><emphasis effect="bold">COX-2 Inhibitor</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Celecoxib</term><newline/>
         (<term class="no-emphasis" id="term-00030">Celebrex</term>)</entry>
@@ -249,7 +249,7 @@
         </section>
         <section id="sect-00015">
         <title>Glucocorticoid Drugs</title>
-        <para id="para-00027"><term class="no-emphasis" id="term-00031">Glucocorticoids</term>, also known as <term class="no-emphasis" id="term-00032">corticosteroids</term> or simply steroids, are a class of anti-inflammatory drugs that mimic the action of naturally occurring hormones produced by the adrenal glands. These hormones, specifically cortisol, play a crucial role in regulating the body's response to stress and inflammation. When used as medication, synthetic glucocorticoids have potent anti-inflammatory effects due to their ability to modify the immune response. See <link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link> and <link document="m00403">Adrenal, Pituitary, and Hypothalamus Disorder Drugs</link> for drug information on glucocorticoids.</para>
+        <para id="para-00027"><term class="no-emphasis" id="term-00031">Glucocorticoids</term>, also known as <term class="no-emphasis" id="term-00032">corticosteroids</term> or simply steroids, are a class of anti-inflammatory drugs that mimic the action of naturally occurring hormones produced by the adrenal glands. These hormones, specifically cortisol, play a crucial role in regulating the body's response to stress and inflammation. When used as medication, synthetic glucocorticoids have potent anti-inflammatory effects due to their ability to modify the immune response. See <link document="m00242">Immunosuppressants, Biologics, Monoclonal Antibodies, and Biosimilar Drugs</link> and <link document="m00403">Hypothalamus, Pituitary, and Adrenal Disorder Drugs</link> for drug information on glucocorticoids.</para>
         </section>
         <section id="sect-00016">
         <title>Disease-Modifying Antirheumatic Drugs (DMARDs)</title>
@@ -263,7 +263,7 @@
         </section>
         <section id="sect-00018">
         <title>Non-biologic DMARDs</title>
-        <para id="para-00033"><term class="no-emphasis" id="term-00035">Non-biologic DMARDs,</term> also known as conventional or synthetic DMARDs, are small-molecule drugs synthesized chemically. They are not derived from living sources and typically have a more general or broader mode of action. They may act on multiple targets within the immune system or inhibit enzymes that play a role in the inflammatory process. For example, methotrexate inhibits an enzyme involved in the synthesis of DNA and RNA, which affects rapidly dividing cells, including immune cells. Common non-biologic DMARDs include methotrexate, sulfasalazine, and gold salts. See <link target-id="table-00003" document="m00243"/> for dosing information and <link target-id="table-00004" document="m00243"/> for additional information on methotrexate.</para>
+        <para id="para-00033"><term class="no-emphasis" id="term-00035">Non-biologic DMARDs</term>, also known as conventional or synthetic DMARDs, are small-molecule drugs synthesized chemically. They are not derived from living sources and typically have a more general or broader mode of action. They may act on multiple targets within the immune system or inhibit enzymes that play a role in the inflammatory process. For example, methotrexate inhibits an enzyme involved in the synthesis of DNA and RNA, which affects rapidly dividing cells, including immune cells. Common non-biologic DMARDs include methotrexate, sulfasalazine, and gold salts. See <link target-id="table-00003" document="m00243"/> for dosing information and <link target-id="table-00004" document="m00243"/> for additional information on methotrexate.</para>
         <para id="para-00034"><link target-id="table-00003" document="m00243"/> lists common non-biologic DMARDs and typical routes and dosing for adult clients.</para>
               <table class="vertically-tight" id="table-00003">
              <tgroup cols="2">
@@ -527,7 +527,7 @@
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00055">Probenecid</term><newline/>
         (<term class="no-emphasis" id="term-00056">Probalan</term>)</entry>
-        <entry valign="middle" align="left">250 mg orally twice daily for 2 week, followed by 500 mg orally twice daily thereafter.</entry>
+        <entry valign="middle" align="left">250 mg orally twice daily for 2 weeks, followed by 500 mg orally twice daily thereafter.</entry>
         </row>
         </tbody>
         </tgroup>
@@ -551,7 +551,7 @@
         Inhibits expression of E-selectin on endothelial cells and prevents neutrophil adhesion</entry>
         <entry valign="top">
         <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-        0.6 mg orally once or twice daily; maximum dose: 1.2 mg per day.</entry>
+        0.6 mg orally once or twice daily; maximum dose: 1.2 mg daily.</entry>
         </row>
         <row>
         <entry valign="top">
