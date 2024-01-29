@@ -111,7 +111,7 @@
 <para id="para-00064">Numerator: 165 deaths among men with hypertension</para>
 <para id="para-00065">Denominator: 305 men with hypertension</para>
 <para id="para-00066"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>100</m:mn></m:math></para>
-<para id="para-00067"><m:math xmlns="http://www.w3.org/1998/Math/MathML"><m:mrow><m:mtext>Incidence&#160;proportion&#160;</m:mtext><m:mo>(</m:mo><m:mtext>Risk</m:mtext><m:mo>)</m:mo></m:mrow> <m:mo>=</m:mo> <m:mfenced><m:mfrac><m:mrow><m:mn>165</m:mn></m:mrow><m:mrow><m:mn>305</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>&#215;</m:mo> <m:mn>100</m:mn><m:mo>=</m:mo><m:mrow><m:mn>54</m:mn><m:mo>.</m:mo><m:mn>1</m:mn><m:mo>%</m:mo></m:mrow></m:math></para> 
+<para id="para-00067"><m:math xmlns="http://www.w3.org/1998/Math/MathML"><m:mrow><m:mtext>Incidence&#160;proportion&#160;</m:mtext><m:mo>(</m:mo><m:mtext>Risk</m:mtext><m:mo>)</m:mo></m:mrow> <m:mo>=</m:mo> <m:mfenced><m:mfrac><m:mrow><m:mn>165</m:mn></m:mrow><m:mrow><m:mn>305</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>&#215;</m:mo> <m:mn>100</m:mn> <m:mo>=</m:mo> <m:mrow><m:mn>54</m:mn><m:mo>.</m:mo><m:mn>1</m:mn><m:mo>%</m:mo></m:mrow></m:math></para> 
 <para id="para-00068">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 <note class="boxed-feature" id="note-00006">
@@ -163,8 +163,8 @@
 <para id="para-00103">Denominator: Risk of disease or health event, the incidence proportion, in comparison group</para>
 <para id="para-00104"><emphasis effect="bold">Example</emphasis></para>
 <para id="para-00105">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease, and 75 of the unexposed individuals are also diagnosed with the disease. The relative risk of contracting the disease is calculated by:</para>
-<para id="para-00106">Incidence proportion of the primary interest group (exposed group) is <m:math><m:mfenced><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac></m:mfenced> <m:mo>=</m:mo><m:mo></m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:math></para>
-<para id="para-00107">Incidence proportion of the comparison group (unexposed group) is <m:math><m:mfenced><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac></m:mfenced> <m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:math></para>
+<para id="para-00106">Incidence proportion of the primary interest group (exposed group) is <m:math><m:mfenced><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac></m:mfenced> <m:mo>=</m:mo> <m:mo></m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:math></para>
+<para id="para-00107">Incidence proportion of the comparison group (unexposed group) is <m:math><m:mfenced><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac></m:mfenced> <m:mo>=</m:mo> <m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:math></para>
 <para id="para-00108">Therefore, the RR is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>=</m:mo><m:mo></m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>8</m:mn></m:math>. This RR of 2.8 suggests the risk of disease in the exposed group is 2.8 times as high as the risk of disease in the unexposed group.</para>
 </note>
 </section>
@@ -180,7 +180,7 @@
 <para id="para-00114">A public health nurse is investigating a perceived increase in flu-related deaths in January–March of 2022 in a large city compared to flu-related deaths the year prior in January–March 2021 in the same city. In 2021, there were 129 flu-related deaths among a midyear population of 500,000. In 2022, there were 310 flu-related deaths among a midyear population of 502,000. Calculate the rate ratio as follows:</para>
 <para id="para-00115">Mortality rate of the primary interest group (2022 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>310</m:mn><m:mrow><m:mn>502</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:math></para>
 <para id="para-00116">Mortality rate of the comparison group (2021 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>129</m:mn><m:mrow><m:mn>500</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:math></para>
-<para id="para-00117">Therefore, the rate ratio is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>=</m:mo><m:mo></m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>4</m:mn></m:math>. This suggests the risk of disease in the primary interest group is 2.4 times as high as the risk of disease in the comparison group, suggesting that in 2022 there was a higher mortality rate due to flu than in the year prior.</para>
+<para id="para-00117">Therefore, the rate ratio is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>=</m:mo> <m:mo></m:mo><m:mn>2</m:mn><m:mo>.</m:mo><m:mn>4</m:mn></m:math>. This suggests the risk of disease in the primary interest group is 2.4 times as high as the risk of disease in the comparison group, suggesting that in 2022 there was a higher mortality rate due to flu than in the year prior.</para>
 </note>
 </section>
 <section id="sect-00009">
@@ -191,7 +191,7 @@
 <para id="para-00119"><emphasis effect="bold">Calculating Odds Ratio in a Case-Control Study</emphasis></para>
 <para id="para-00120">Numerator: Odds a case was exposed</para>
 <para id="para-00121">Denominator: Odds a control was exposed</para>
-<para id="para-00122">Odds ratio <m:math><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>d</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:mrow></m:mfrac></m:math> where</para>
+<para id="para-00122">Odds ratio <m:math><m:mo>=</m:mo> <m:mfrac><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>×</m:mo><m:mi>d</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:mrow></m:mfrac></m:math> where</para>
 <para id="para-00123"><emphasis effect="italics">a</emphasis> = number of individuals exposed and with disease</para>
 <para id="para-00124"><emphasis effect="italics">b</emphasis> = number of individuals exposed but without disease</para>
 <para id="para-00125"><emphasis effect="italics">c</emphasis> = number of individuals unexposed but with disease</para>
@@ -215,14 +215,14 @@
 <tbody>
 <row>
 <entry valign="top" align="left">Exposed</entry>
-<entry valign="top" align="left"><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>190</m:mn></m:math></entry>
-<entry valign="top" align="left"><m:math><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>190</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
 <entry valign="top" align="left">2,190</entry>
 </row>
 <row>
 <entry valign="top" align="left">Not exposed</entry>
-<entry valign="top" align="left"><m:math><m:mi>C</m:mi><m:mo>=</m:mo><m:mn>140</m:mn></m:math></entry>
-<entry valign="top" align="left"><m:math><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>140</m:mn></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mi>d</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:math></entry>
 <entry valign="top" align="left">10,140</entry>
 </row>
 <row>
