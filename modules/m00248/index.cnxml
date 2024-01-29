@@ -80,7 +80,7 @@
 <caption><emphasis effect="bold">Drug Emphasis Table: Antitubercular Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <para id="para-00011"><link target-id="table-00002" document="m00248"/> is a drug prototype table for antitubercular drugs featuring isoniazid. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-<table class="vertically-tight" id="table-00002">
+<table class="vertically-tight full-width" id="table-00002">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -171,7 +171,7 @@ Renal impairment</entry>
 <para id="para-00020"><emphasis effect="bold">Isoniazid</emphasis></para>
 <para id="para-00021">Severe and sometimes fatal hepatitis associated with isoniazid therapy has been reported and may occur or develop even after many months of treatment.</para>
 </note>
-<note class="casestudy" id="note-00005">
+<note class="single-casestudy" id="note-00005">
 <para id="para-00022">Read the following clinical scenario to answer the questions that follow.</para>
 Mark Janson is a 36-year-old White client who presents to the emergency department complaining of coughing up blood for the past 3 days. He reports intermittent fevers, chills, night sweats, and difficulty breathing that worsens on exertion. He notes that he has unintentionally lost 25 pounds over the last several weeks.<newline count="2"/>
 <emphasis effect="bold">History</emphasis><newline/>
