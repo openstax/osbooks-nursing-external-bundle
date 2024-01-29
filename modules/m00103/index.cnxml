@@ -254,30 +254,14 @@ How many tablets should the client receive per dose?</para>
 <para id="para-00044"><emphasis effect="italics">Ordered:</emphasis> Lisinopril 10 mg orally BID<newline/>
 <emphasis effect="italics">Available:</emphasis> Lisinopril 2.5 mg<newline/>
 How many tablets should the client receive per dose?</para>
-<table class="no-cellborder" id="table-00002">
-  <tgroup cols="2">
-  <colspec colnum="1" colname="c1"/>
-  <colspec colnum="2" colname="c2"/>
-  <tbody>
-  <row>
-  <entry align="left"><m:math><m:mi>K</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>M</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi></m:math></entry>
-  <entry align="left"><m:math><m:mfrac><m:mi>K</m:mi><m:mi>M</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>D</m:mi><m:mi>X</m:mi></m:mfrac></m:math></entry>
-  </row>
-  <row>
-  <entry align="left"><m:math><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>tablets</m:mi></m:math></entry>
-  <entry align="left"><m:math><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:math></entry>
-  </row>
-  <row>
-  <entry align="left"><m:math><m:mn>2.5</m:mn><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn></m:math></entry>
-  <entry align="left"><m:math><m:mn>2.5</m:mn><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn></m:math></entry>
-  </row>
-  <row>
-  <entry align="left"><m:math><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo></m:math></entry>
-  <entry align="left"><m:math><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo></m:math></entry>
-  </row>
-  </tbody>
-  </tgroup>
-  </table>
+<para id="para-00047"><m:math><m:mi>K</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>M</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>D</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi></m:math></para>
+<para id="para-00048"><m:math><m:mfrac><m:mi>K</m:mi><m:mi>M</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>D</m:mi><m:mi>X</m:mi></m:mfrac></m:math></para>
+<para id="para-00049"><m:math><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>tablets</m:mi></m:math><newline/>
+<m:math><m:mn>2.5</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mi>tablet</m:mi><m:mo> </m:mo><m:mo>:</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi></m:math></para>
+<para id="para-00050"><m:math><m:mn>2.5</m:mn><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn></m:math></para>
+<para id="para-00051"><m:math><m:mn>2.5</m:mn><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn></m:math></para>
+<para id="para-00052"><m:math><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo></m:math></para>
+<para id="para-00053"><m:math><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>4</m:mn><m:mo> </m:mo><m:mi>tablets</m:mi><m:mo> </m:mo></m:math></para>
 <note class="practice-problems" id="note-00005">
 <title>Ratio and Proportion Calculations</title>
 <para id="para-00055">Solve for the dosage (<emphasis effect="italics">X</emphasis>).</para>
