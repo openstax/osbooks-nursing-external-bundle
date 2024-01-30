@@ -16,7 +16,7 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <colspec colnum="3" colname="c3" colwidth="1*"/>
   <colspec colnum="4" colname="c4" colwidth="1*"/>
-   <thead>   
+  <thead>   
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
@@ -136,20 +136,23 @@
   <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Arterial Blood Gases</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top">pH</entry>
-  <entry valign="top">7.35–7.45</entry>
+  <entry valign="top">Base excess/base deficit</entry>
+  <entry valign="top">–2 to +2 mEq/L</entry>
+  <entry valign="top" morerows="1"> </entry>
+  <entry valign="top">HCO<sub>3</sub></entry>
+  <entry valign="top">22–26&#160;mEq/L</entry>
   <entry valign="top" morerows="1"> </entry>
   <entry valign="top">PaCO<sub>2</sub></entry>
   <entry valign="top">35–45&#160;mm&#160;Hg</entry>
-  <entry valign="top" morerows="1"> </entry>
-  <entry valign="top">Base excess/base deficit</entry>
-  <entry valign="top">–2 to +2 mEq/L</entry>
+  
   </row>
-  <row>
+  <row>                                
   <entry valign="top">PaO<sub>2</sub></entry>
   <entry valign="top">75–100&#160;mm&#160;Hg</entry>
-  <entry valign="top">HCO<sub>3</sub></entry>
-  <entry valign="top">22–26&#160;mEq/L</entry>
+  <entry valign="top" morerows="1"> </entry>
+  <entry valign="top">pH</entry>
+  <entry valign="top">7.35–7.45</entry>
+  <entry valign="top" morerows="1"> </entry>
   <entry valign="top">SaO<sub>2</sub></entry>
   <entry valign="top">95%–100%</entry>
   </row>
@@ -305,13 +308,12 @@
   <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
   </row>
   <row>
-    <entry valign="top">Sputum culture</entry>
-    <entry valign="top">Negative</entry>
-    <entry valign="top" morerows="1">&#160;</entry>
-    <entry valign="top" morerows="1" namest="c4" nameend="c8">&#160;</entry>
-    </row>
-  <row>
   <entry valign="top">Fungal (yeast) culture</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top" morerows="1">&#160;</entry>
+  </row>
+  <row>
+  <entry valign="top">Sputum culture</entry>
   <entry valign="top">Negative</entry>
   </row>
   <row>
