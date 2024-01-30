@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
   <title>Drug Conversion Table</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Drug Conversion Table</md:title>
+    <md:title>Drug Conversion Tables</md:title>
     <md:content-id>m00381</md:content-id>
     <md:uuid>006f2c42-cf07-43a5-a710-c7d786c8ae9e</md:uuid>
   </metadata>
@@ -9,7 +9,7 @@
     <section id="sect-00001">
       <title/>
       <para id="para-00001">Drug conversion tables are utilized with dosage calculations to ensure an appropriate dosage of a drug is being administered to the client as ordered. The metric system is used for prescribing medications, but at times nurses may need to explain medication dosages to clients using household measurements.</para>
-      <para id="para-00001a"><link target-id="table-00001" document="m00381"/> shows common metric and U.S. customary units of measurement used in health <link target-id="table-00002" document="m00381"/> shows household equivalents. <link document="m00099">Drug Administration</link> discusses conversion in more detail.</para>
+      <para id="para-00001a"><link target-id="table-00001" document="m00381"/> shows common metric and U.S. customary units of measurement used in health <link target-id="table-00002" document="m00381"/> shows household equivalents. <link document="m00099">Drug Administration and the Nursing Process</link> discusses conversion in more detail.</para>
   <table class="vertically-tight full-width" id="table-00001">
 <title>Common Metric and U.S. Customary Units of Measurement</title>
   <tgroup cols="4">
@@ -19,7 +19,7 @@
     <colspec colnum="4" colname="c4"/>    
    <tbody> 
 <row>
-<entry valign="top"><emphasis effect="bold">Weight</emphasis></entry>
+<entry valign="top"><span class="blue-text"><emphasis effect="bold">Weight</emphasis></span></entry>
 <entry valign="top">1 kilogram (kg)<newline/>
 1 gram (g)<newline/>
 1 milligram (mg)</entry>
@@ -30,13 +30,13 @@
 0.035274 ounces (oz)</entry>
 </row>
 <row>
-<entry valign="top"><emphasis effect="bold">Volume</emphasis></entry>
+<entry valign="top"><span class="blue-text"><emphasis effect="bold">Volume</emphasis></span></entry>
 <entry valign="top">1 liter (L)</entry>
 <entry valign="top">1000 milliliters (mL)</entry>
 <entry valign="top">4.22675 cups</entry>
 </row>
 <row>
-<entry valign="top"><emphasis effect="bold">Length</emphasis></entry>
+<entry valign="top"><span class="blue-text"><emphasis effect="bold">Length</emphasis></span></entry>
 <entry valign="top">1 kilometer (km)<newline/>
 1 meter (m)<newline/>
 1 centimeter (cm)<newline/>
@@ -45,7 +45,7 @@
 100 centimeters (cm)<newline/>
 10 millimeters (mm)<newline/>
 25.4 millimeters (mm)</entry>
-<entry valign="top">3,281 feet (ft)<newline/>
+<entry valign="top">3281 feet (ft)<newline/>
 3.281 feet (ft)<newline/>
 0.393 inches (in.)<newline/>
 1 inch (in.)</entry>
@@ -63,7 +63,7 @@
     <colspec colnum="4" colname="c4"/>    
    <tbody> 
 <row>
-<entry morerows="3" valign="top"><emphasis effect="bold">Volume</emphasis></entry>
+<entry morerows="3" valign="top"><span class="blue-text"><emphasis effect="bold">Volume</emphasis></span></entry>
 <entry valign="top">1 cup</entry>
 <entry valign="top">8 fluid ounces (fl oz)</entry>
 <entry valign="top">236.6 milliliters (mL)</entry>

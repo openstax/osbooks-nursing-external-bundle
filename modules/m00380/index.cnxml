@@ -11,26 +11,23 @@
   <para id="para-00001">Nurses are required to review and interpret lab values. <link target-id="table-00001" document="m00380"/> lists common abbreviations, and <link target-id="table-00002" document="m00380"/> lists common lab values for nurses to learn.</para>
   <table class="vertically-tight" id="table-00001">
   <title/>
-  <tgroup cols="5">
+  <tgroup cols="4">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <colspec colnum="3" colname="c3" colwidth="1*"/>
   <colspec colnum="4" colname="c4" colwidth="1*"/>
-  <colspec colnum="5" colname="c5" colwidth="1*"/>
-  <thead>   
+   <thead>   
   <row>
-  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
-  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
-  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Abbreviation</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Meaning</span></emphasis></entry>
   </row>
   </thead>
   <tbody>  
   <row>
   <entry valign="top">cells/mcL or cells/µL</entry>
   <entry valign="top">Cells per microliter</entry>
-  <entry valign="top" morerows="14"> </entry>
   <entry valign="top">mg/dL</entry>
   <entry valign="top">Milligrams per deciliter</entry>
   </row>
@@ -120,9 +117,9 @@
   </row>
   </tbody>
   </tgroup>
-  <caption>Common Abbreviations</caption>
+  <caption><emphasis effect="bold">Common Abbreviations</emphasis></caption>
   </table>
-  <para id="para-00003">Note that the abbreviation for “micro” is sometimes shown as the Greek mu(µ, as in µL); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
+  <para id="para-00003">Note that the abbreviation for “micro” is sometimes shown as the Greek mu (µ, as in µL); however, that practice is considered to be error prone by the Institute for Safe Medication Practices and has been supplanted by “mc,” as in “mcg” for microgram or “mcL” for microliter.</para>
   <table class="vertically-tight" id="table-00002">
   <title/>
   <tgroup cols="8">
@@ -355,14 +352,6 @@
   <entry valign="top"> </entry>
   </row>
   <row>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  </row>
-  <row>
   <entry valign="top">Clarity</entry>
   <entry valign="top">Clear</entry>
   <entry valign="top">pH</entry>
@@ -374,7 +363,7 @@
   <entry valign="top">Color</entry>
   <entry valign="top">Yellow–amber</entry>
   <entry valign="top">Protein</entry>
-  <entry valign="top">=150&#160;mg/dL</entry>
+  <entry valign="top">&#8804;150&#160;mg/dL</entry>
   <entry valign="top"> </entry>
   <entry valign="top"> </entry>
   </row>
