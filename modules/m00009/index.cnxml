@@ -27,9 +27,9 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Macronutrient</emphasis></span></entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold"><term id="term-00006">Calories</term> (Energy) per Gram</emphasis></span></entry>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Primary Food Source</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text">Macronutrient</span></entry>
+<entry valign="top" align="left"><span class="blue-text"><term id="term-00006">Calories</term> (Energy) per Gram</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Primary Food Source</span></entry>
 </row>
 </thead>
 <tbody>
