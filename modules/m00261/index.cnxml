@@ -95,7 +95,7 @@ Alcohol</entry>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adverse Effects</emphasis></span><newline/>
 Confusion/agitation<newline/>
-Anhidrosis<newline/>
+<term id="term-00009">Anhidrosis</term><newline/>
 Dry mouth (xerostomia)<newline/>
 Hyperthermia/heat stroke<newline/>
 Tachycardia<newline/>
@@ -217,7 +217,7 @@ Myasthenia gravis</entry>
 <term class="no-emphasis" id="term-00020">Carbidopa/levodopa oral disintegrating tablet</term><newline/>
 (<term class="no-emphasis" id="term-00021">Parcopa</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Immediate-release tablet:</emphasis> Initial dose: 1 25–100 mg tablet 3 times daily. Dosage may be increased by 1 tablet every day or every other day, as necessary, up to 8 25–100 mg tablets daily.<newline/>
-<emphasis effect="italics">Oral disintegrating tablet (ODT):</emphasis> Levodopa must be discontinued at least 12 hours before starting ODTs. A daily dosage should be chosen that will provide approximately 25% of the previous levodopa dosage. Clients taking &lt;1500 mg of levodopa daily should be started on one 25 mg/100 mg tablet 3–4 times daily. Clients taking =1500 mg should start on 1 25 mg/250 mg tablet 3–4 times daily.<newline/>
+<emphasis effect="italics">Oral disintegrating tablet (ODT):</emphasis> Levodopa must be discontinued at least 12 hours before starting ODTs. A daily dosage should be chosen that will provide approximately 25% of the previous levodopa dosage. Clients taking &lt;1500 mg of levodopa daily should be started on one 25 mg/100 mg tablet 3–4 times daily. Clients taking ≥1500 mg should start on 1 25 mg/250 mg tablet 3–4 times daily.<newline/>
 At least 70–100 mg of carbidopa daily should be provided for both types of tablets.</entry>
 </row>
 <row>
@@ -666,7 +666,7 @@ Severe psychotic disorder</entry>
 </section>
 </section>
 <section id="sect-00017">
-<title><term class="no-emphasis" id="term-00066">Catecholomethyltransferase (COMT) Inhibitors</term></title>
+<title><term id="term-00010">Catecholomethyltransferase (COMT) Inhibitors</term></title>
 <para id="para-00073">Normally, the methylation of levodopa by COMT to 3-O-methyldopa is a minor pathway for levodopa metabolism; however, when peripheral dopamine decarboxylase is inhibited by carbidopa, the result is a significant increase of 3-O-methlydopa and the COMT pathway becomes more significant. This then competes with levodopa for entry into the CNS. The COMT inhibitors selectively and reversibly inhibit COMT. The inhibition of COMT leads to reduction of 3-O-methlydopa plasma concentrations. The outcome is more levodopa crossing the blood–brain barrier and increased levels of brain dopamine. These agents are beneficial in reducing the symptoms of the “wearing off” phenomenon seen with levodopa. The two <term class="no-emphasis" id="term-00067">COMT inhibitors</term> discussed in this section differ primarily in their adverse drug reaction profiles. Entacapone is safer than tolcapone. These drugs have no direct effects on their own; they are only indicated for use with levodopa.</para>
 <list list-type="bulleted" id="list-00016">
 <item><emphasis effect="italics">Entacapone:</emphasis> A selective, reversible COMT inhibitor for the treatment of PD. When administered with levodopa and a decarboxylase inhibitor (e.g., carbidopa), increased and more sustained plasma levodopa concentrations are reached as compared with the administration of levodopa and carbidopa given alone. It is believed that at a given frequency of levodopa administration, these more sustained plasma levels of levodopa result in more constant dopaminergic stimulation in the brain, leading to a greater reduction in the manifestations of Parkinsonian syndrome PD (DailyMed, <emphasis effect="italics">Entacapone</emphasis>, 2022).</item>
@@ -692,7 +692,7 @@ Severe psychotic disorder</entry>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00070">Tolcapone</term><newline/>
 (<term class="no-emphasis" id="term-00071">Tasmar</term>)</entry>
-<entry valign="top" align="left">Initial dose: 100 mg 3 times daily; increase to 200 mg 3 times daily if necessary. The first dose should be administered in the morning along with levodopa/carbidopa. The next two doses are taken 6 and 12 hours later.</entry>
+<entry valign="top" align="left">Initial dose: 100 mg 3 times daily; increase to 200 mg 3 times daily if necessary. The first dose should be administered in the morning along with levodopa/carbidopa. The next 2 doses are taken 6 and 12 hours later.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -925,7 +925,6 @@ Hypotension<newline/>
 </list>
 </note>
 <note class="single-casestudy" id="note-00015">
-<title>Case Study</title>
 <para id="para-00100">Read the following clinical scenario to answer the questions that follow.</para>
 <para id="para-00101">Marcus Bell is a 68-year-old client who arrives at the provider’s office reporting a tremor in his right hand that has developed gradually over several months. He notices the tremors disappear when he is concentrating on it; however, they return quickly when he gets distracted. His wife states he has had a difficult time writing. He struggles holding the pen, and his writing is very small and sloppy. The client’s wife also voiced her concerns that he never smiles anymore and he cannot keep up with her when walking. Based on the history and physical examination, the provider diagnoses Marcus with the early stages of PD. The provider prescribes carbidopa/levodopa (Sinemet) 25 mg/100 mg three times daily.<newline count="2"/>
 <emphasis effect="bold">History</emphasis><newline/>
