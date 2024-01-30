@@ -38,7 +38,7 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Estradiol</term><newline/>
 (<term class="no-emphasis" id="term-00006">Estrace, Divigel, Estraderm Transdermal</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">For postmenopausal symptoms:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">For postmenopausal symptoms:</emphasis><newline/>
 <emphasis effect="italics">Oral:</emphasis> Initial dose: 0.5–2 mg orally once daily. Adjust dose as necessary to control symptoms, using lowest effective dose.<newline/>
 <emphasis effect="italics">Transdermal extended release (ER):</emphasis> Initial dose: 0.0375–0.05 mg/24 hours applied topically twice weekly. Maintenance dose: 0.025–0.1 mg/24 hours applied topically twice weekly.<newline/>
 <emphasis effect="italics">Transdermal (applied once weekly):</emphasis> Available as 0.025 mg/day, 0.0375 mg/day, 0.05 mg/day, 0.06 mg/day, 0.075 mg/day, or 0.1 mg/day of estradiol.<newline/>
@@ -50,17 +50,19 @@ Estradiol valerate (Delestrogen): 10–20 mg intramuscularly every 4 weeks.</ent
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Estropipate</term><newline/>
 (<term class="no-emphasis" id="term-00008">Improvera, Ortho-Est</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">For menopause:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">For menopause:</emphasis><newline/>
 0.75–6 mg orally daily.<newline/>
-<emphasis effect="bold">For female hypogonadism/primary ovarian failure:</emphasis><newline/>
+<emphasis effect="italics">For female hypogonadism/primary ovarian failure:</emphasis><newline/>
 1.5–9 mg orally daily for the first 3 weeks of a theoretical cycle, followed by a rest period of 8–10 days.<newline/>
-<emphasis effect="bold">For prevention of osteoporosis:</emphasis><newline/>
+<emphasis effect="italics">For prevention of osteoporosis:</emphasis><newline/>
 0.75 mg orally for 25 days of a 31-day cycle per month.</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Emphasis Table: <term class="no-emphasis" id="term-00009">Estrogen Derivatives</term> and Synthetic Forms</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Emphasis Table: <term id="term-00009">Estrogen Derivatives</term> and Synthetic Forms</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
+    </section>
+   
 <section id="sect-00005">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00006">Adverse effects of estrogens are related mostly to the retention of fluids. Migraine headaches, bloating, weight gain, mood depression, stroke, and cardiovascular disease are known adverse reactions and can be life-threatening.</para>
@@ -145,7 +147,6 @@ Smoking</entry>
 <para id="para-00012">It should not be used to prevent dementia as part of hormone replacement therapy.</para>
 </note>
 </section>
-</section>
 <section id="sect-00006">
 <title>Progestins</title>
 <para id="para-00013"><term class="no-emphasis" id="term-00011">Progestins</term> include progesterone and its derivatives. They can function as both a stimulant and an inhibitor to manage the secretion of pituitary gonadotropins. One of the properties of progestins is their ability to prevent follicular maturation and ovulation. They accomplish this by inhibiting the secretion of pituitary gonadotropins and decreasing LH secretion. Progestins thicken cervical mucus, which hinders sperm migration and changes the endometrium to decrease the likelihood that an egg can be implanted. These properties make progestins an excellent contraceptive medication. Progestins are metabolized by the liver and excreted in urine.</para>
@@ -193,6 +194,7 @@ Smoking</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: Progestins</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
+    </section>
 <section id="sect-00007">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00017">Adverse effects, contraindications, and precautions for progesterone are similar to those of estrogen and include weight gain, nausea, bloating, headaches, visual disturbances, rash, and acne. Contraindications for progestin are hypersensitivity, pregnancy/lactation, history of thrombotic events, sexually transmitted disease (STD), pelvic inflammatory disease, endometriosis, undiagnosed uterine bleeding, cardiac/renal/liver disease, and hormone-sensitive cancers. Caution should be used with clients who have any condition that can be affected by fluid retention (migraine headache, cardiac/renal disease, seizure disorder), diabetes, hyperlipidemia, or clinical depression.</para>
@@ -280,7 +282,6 @@ Clinical depression</entry>
 </note>
 </section>
 </section>
-</section>
 <section id="sect-00008">
 <title>Contraceptives</title>
 <para id="para-00023"><term id="term-00023">Contraceptives</term> are a group of medications, generally natural or synthetic hormone preparations, used to prevent pregnancy. Hormonal contraceptive medications work at distinct stages within the female (ovarian) reproductive system and use a variety of methods to interrupt the normal cycle of hormone release, egg fertilization, and/or implantation. Hormonal contraceptives can be oral, topical, vaginal, injectable, or implantable.</para>
@@ -289,7 +290,7 @@ Clinical depression</entry>
 <para id="para-00026">Progestin thickens the cervical mucous and prevents sperm from reaching the egg. It also changes the endometrium so that the environment of the uterus is less favorable for egg implantation. Refer to the previous section regarding hormones for specific information about estrogen and progestin.</para>
 <para id="para-00027">The combination oral contraceptives (COC) and progestin-only contraceptives (POP) make up two types of oral contraceptive pills. The third type is a continuous or extended-use pill, which means the pills are taken without any pause for an indefinite time. This contraceptive regimen allows for increased ovulation suppression and medication adherence, is more satisfactory for the user, and decreases both scheduled and breakthrough bleeding over time (Britton et al., 2020; Casey, 2022; Cooper et al., 2020).</para>
 <note class="clinical-tip" id="note-00004">
-<para id="para-00028"><emphasis effect="bold">Dealing with Side Effects of Birth Control Methods</emphasis></para>
+<title>Dealing with Side Effects of Birth Control Methods</title>
 <para id="para-00029">The most frequent side effects of all birth control methods are nausea and breakthrough bleeding. Instructing the client to take the medication before going to bed is one of the best ways to manage nausea so that the client is asleep when the worst of the nausea occurs. Eating small meals frequently, avoiding spicy and greasy foods, and drinking ginger ale or clear liquids are other ways to alleviate nausea. The nausea should go away after about 3 months.</para>
 <para id="para-00030">Breakthrough bleeding can be frustrating to the client. However, this should also subside after 3 months. Some clients may have only spotting and some may have times of heavy bleeding other than their period (if contraceptive method allows for monthly cycle to continue).</para>
 <para id="para-00031">There is no way to determine which client will have which side effects. Every individual’s experience is different. The body is adjusting to new levels of hormones, and this process takes about 3 months. Emotional support to the client is also important. Some clients may need to try more than one contraceptive pill or method to find the best fit for their situation.</para>
@@ -393,7 +394,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 </table>
 <note class="link-to-learning" id="note-00005">
 <title>Contraceptive Options</title>
-<para id="para-00037"><link url="https://openstax.org/r/womenshealth">What Are Your Birth Control Options?</link> is a client education site that discusses birth control options and resources for obtaining them.</para>
+<para id="para-00037"><link url="https://openstax.org/r/womenshealth">Birth Control Methods</link> is a client education site that discusses birth control options and resources for obtaining them.</para>
 </note>
 </section>
 <section id="sect-00010">
@@ -430,12 +431,12 @@ Intrauterine 13.5 mg.</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: Hormonal IUDs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
+</section>
 <section id="sect-00011">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00043">Contraindications include active STI or recent pelvic infection, pregnancy, cancer of the cervix or uterus, or unexplained vaginal bleeding. Hormonal IUDs should not be used by clients who have had breast cancer.</para>
 <para id="para-00044">Side effects include bleeding and spotting as the uterus adjusts to the IUD. Other adverse effects include abdominal pain, endometriosis, pelvic inflammatory disease (PID), and expulsion of the IUD. Extremely rare is the possibility that an IUD may cause uterine perforation.</para>
 <para id="para-00045">For a copper IUD, the bleeding and spotting may last up to 6 months. The insertion of the IUD may be uncomfortable, and the client may experience some cramping and backache for a day or two after the procedure. The pain can be managed using ibuprofen or acetaminophen and heating pads. Other side effects include nausea, cramping, ovarian cysts, and mood changes. The most concerning complications of all IUDs are infection, expulsion, or perforation; however, the risk for these complications is extremely low (Andersen &amp; Spanfeller, 2022; Britton et al., 2020; Casey, 2022; Madden, 2023).</para>
-</section>
 </section>
 <section id="sect-00012">
 <title>Other Contraceptive Methods</title>
@@ -513,7 +514,7 @@ None</para>
 <para id="para-00059">The oral and transdermal methods can be initiated using a first-day start method, a quick start method, or a Sunday start method. All are equally effective. The <term id="term-00055">first-day start method</term> means the client starts the contraceptive on day 1 of their menstrual cycle and continues as directed. The <term id="term-00056">quick start method</term> means that the client starts the contraceptive immediately, regardless of the timing of their menstrual period. This is week one. The individual continues to take the pills or apply the patch as directed. One advantage of the quick start method is that the client can begin taking the medication the day they receive the medication. The <term id="term-00057">Sunday start method</term> means the client will start using the contraceptive on the first Sunday following the start date of their period. Then the client continues to take the pills or apply the patch as directed. A disadvantage of the Sunday start method is that clients may forget to start on the correct date and then must wait until after their next period to begin taking the medication (Britton et al., 2020; Casey, 2022; Cooper et al., 2020).</para>
 <note class="link-to-learning" id="note-00007">
 <title>How to Provide Quality Counseling for Contraception</title>
-<para id="para-00060">This position statement from <term class="no-emphasis" id="term-00058">American College of Obstetricians and Gynecologists</term> provides interesting information about <link url="https://openstax.org/r/acog">patient-centered contraceptive counseling</link>. It highlights the importance of recognizing health disparities and bias that can occur when counseling clients on contraceptive use and recommends a shared decision-making approach through client-centered contraceptive counseling.</para>
+<para id="para-00060">This position statement from <term class="no-emphasis" id="term-00058">American College of Obstetricians and Gynecologists</term> provides information about <link url="https://openstax.org/r/acog">patient-centered contraceptive counseling</link>. It highlights the importance of recognizing health disparities and bias that can occur when counseling clients on contraceptive use and recommends a shared decision-making approach through client-centered contraceptive counseling.</para>
 </note>
 </section>
 </section>
@@ -547,7 +548,7 @@ None</para>
 0.25 mg subcutaneously on either stimulation day 5 (morning or evening) or day 6 (morning) and continued daily until the day of human chorionic gonadotropin (hCG) administration.</entry>
 </row>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00064">Human Chorionic Gonadotropin (hCG) Ovidrel</term></entry>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00064">Human Chorionic Gonadotropin (hCG)</term><newline/> (<term class="no-emphasis" id="term-00080">Ovidrel</term>)</entry>
 <entry valign="top" align="left">5000–10,000 USP (U.S.) units intramuscularly 1 day following the last dose of menotropin. 250 mcg subcutaneously 1 day following the last dose of the follicle-stimulating agent.</entry>
 </row>
 <row>
