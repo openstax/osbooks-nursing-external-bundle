@@ -144,8 +144,7 @@
   <entry valign="top" morerows="1"> </entry>
   <entry valign="top">PaCO<sub>2</sub></entry>
   <entry valign="top">35–45&#160;mm&#160;Hg</entry>
-  
-  </row>
+ </row>
   <row>                                
   <entry valign="top">PaO<sub>2</sub></entry>
   <entry valign="top">75–100&#160;mm&#160;Hg</entry>
@@ -315,6 +314,7 @@
   <row>
   <entry valign="top">Sputum culture</entry>
   <entry valign="top">Negative</entry>
+  <entry valign="top" namest="c3" nameend="c8">&#160;</entry>
   </row>
   <row>
   <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Urine Tests</span></emphasis></entry>
