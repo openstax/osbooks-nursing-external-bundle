@@ -44,91 +44,91 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left">Noncommunicable</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Noncommunicable</emphasis></entry>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 </row>
 <row>
-<entry valign="top" align="left">Diseases of heart</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Diseases of heart</emphasis></entry>
 <entry valign="top" align="center">1</entry>
 <entry valign="top" align="center">694,619</entry>
 <entry valign="top" align="center">278.1</entry>
 </row>
 <row>
-<entry valign="top" align="left">Malignant neoplasms</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Malignant neoplasms</emphasis></entry>
 <entry valign="top" align="center">2</entry>
 <entry valign="top" align="center">603,484</entry>
 <entry valign="top" align="center">241.6</entry>
 </row>
 <row>
-<entry valign="top" align="left">Accidents</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Accidents</emphasis></entry>
 <entry valign="top" align="center">4</entry>
 <entry valign="top" align="center">215,485</entry>
 <entry valign="top" align="center">86.3</entry>
 </row>
 <row>
-<entry valign="top" align="left">Cerebrovascular disease</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Cerebrovascular disease</emphasis></entry>
 <entry valign="top" align="center">5</entry>
 <entry valign="top" align="center">162,577</entry>
 <entry valign="top" align="center">65.1</entry>
 </row>
 <row>
-<entry valign="top" align="left">Chronic lower respiratory diseases</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Chronic lower respiratory diseases</emphasis></entry>
 <entry valign="top" align="center">6</entry>
 <entry valign="top" align="center">142,136</entry>
 <entry valign="top" align="center">56.9</entry>
 </row>
 <row>
-<entry valign="top" align="left">Alzheimer’s disease</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Alzheimer’s disease</emphasis></entry>
 <entry valign="top" align="center">7</entry>
 <entry valign="top" align="center">119,398</entry>
 <entry valign="top" align="center">47.8</entry>
 </row>
 <row>
-<entry valign="top" align="left">Diabetes</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Diabetes</emphasis></entry>
 <entry valign="top" align="center">8</entry>
 <entry valign="top" align="center">103,135</entry>
 <entry valign="top" align="center">41.3</entry>
 </row>
 <row>
-<entry valign="top" align="left">Chronic liver disease and cirrhosis</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Chronic liver disease and cirrhosis</emphasis></entry>
 <entry valign="top" align="center">9</entry>
 <entry valign="top" align="center">56,576</entry>
 <entry valign="top" align="center">22.7</entry>
 </row>
 <row>
-<entry valign="top" align="left">Nephritis, nephrotic syndrome, and nephrosis</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Nephritis, nephrotic syndrome, and nephrosis</emphasis></entry>
 <entry valign="top" align="center">10</entry>
 <entry valign="top" align="center">54,283</entry>
 <entry valign="top" align="center">21.7</entry>
 </row>
 <row>
-<entry valign="top" align="left">Intentional self-harm (suicide)</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Intentional self-harm (suicide)</emphasis></entry>
 <entry valign="top" align="center">11</entry>
 <entry valign="top" align="center">45,229</entry>
 <entry valign="top" align="center">18.1</entry>
 </row>
 <row>
-<entry valign="top" align="left">Essential hypertension and hypertensive renal disease</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Essential hypertension and hypertensive renal disease</emphasis></entry>
 <entry valign="top" align="center">12</entry>
 <entry valign="top" align="center">42,806</entry>
 <entry valign="top" align="center">17.1</entry>
 </row>
 <row>
-<entry valign="top" align="left">Communicable</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Communicable</emphasis></entry>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 </row>
 <row>
-<entry valign="top" align="left">COVID-19</entry>
+<entry valign="top" align="left"><emphasis effect="bold">COVID-19</emphasis></entry>
 <entry valign="top" align="center">3</entry>
 <entry valign="top" align="center">416,252</entry>
 <entry valign="top" align="center">166.7</entry>
 </row>
 <row>
-<entry valign="top" align="left">Influenza and pneumonia</entry>
+<entry valign="top" align="left"><emphasis effect="bold">Influenza and pneumonia</emphasis></entry>
 <entry valign="top" align="center">13</entry>
 <entry valign="top" align="center">41,653</entry>
 <entry valign="top" align="center">16.7</entry>
@@ -139,7 +139,7 @@
 </table>
 <section id="sect-00004">
 <title>Coronary Artery Disease</title>
-<para id="para-00005"><term class="no-emphasis" id="term-00002">Coronary artery disease (CAD)</term>, also called coronary heart disease or ischemic heart disease (CDC, 2021j), occurs when plaque buildup in the wall of the coronary arteries (atherosclerosis) leads to a decreased blood supply to the heart. Risk factors for CAD include being overweight, unhealthy eating, and smoking tobacco. CAD also has genetic connections, particularly a family history of heart disease before age 50. For many, the first indicator of CAD is a heart attack.</para>
+<para id="para-00005"><term class="no-emphasis" id="term-00002">Coronary artery disease (CAD)</term>, also called coronary heart disease or ischemic heart disease (CDC, 2021j), occurs when plaque buildup in the wall of the coronary arteries (atherosclerosis) decreass blood supply to the heart. Risk factors for CAD include being overweight, eating poorly, and smoking tobacco. CAD also has genetic connections, particularly a family history of heart disease before age 50. For many, the first indicator of CAD is a heart attack.</para>
 </section>
 <section id="sect-00005">
 <title>Cancer</title>
@@ -176,7 +176,7 @@
 <section id="sect-00009">
 <title>Diabetes</title>
 <para id="para-00013">Diabetes is a chronic health condition caused by the body either not making enough insulin or not using insulin effectively. When either of these occurs, too much blood sugar remains in the bloodstream (CDC, 2022e). Over time, the increased blood sugar can lead to serious health problems, including heart disease, vision difficulties, and kidney disease. More than one in three adults in the United States have prediabetes, with blood sugar levels higher than normal but not high enough to develop type 2 diabetes, and over 80 percent of adults do not know they have prediabetes (CDC, 2022j). Prediabetes can increase the risk of heart disease and stroke and can be viewed as an opportunity to prevent type 2 diabetes. See <link target-id="fig-00001" document="m00324"/> for more about prediabetes.</para>
-<para id="para-00014">The three types of diabetes are type 1 diabetes, type 2 diabetes, and gestational diabetes. Gestational diabetes was discussed briefly earlier in this chapter. Type 1 diabetes involves the body not making enough insulin, perhaps due to an immune reaction. Risk factors for this type of diabetes are family history and age, as it usually develops in children, teens, or young adults. White people in the United States are more likely to develop type 1 diabetes than Black or Hispanic people (CDC, 2022j). There is no known way to prevent type 1 diabetes. In type 2 diabetes, the pancreas makes less insulin than previously, and the body becomes resistant to it. Type 2 diabetes can sometimes be prevented with healthy diet and activity. A variety of factors that put a person at risk for type 2 diabetes, including:</para>
+<para id="para-00014">The three types of diabetes are type 1 diabetes, type 2 diabetes, and gestational diabetes. Gestational diabetes was discussed briefly earlier in this chapter. In type 1 diabetes, the body does not make enough insulin, perhaps due to an immune reaction. Risk factors for this type of diabetes are family history and age, as it usually develops in children, teens, or young adults. White people in the United States are more likely to develop type 1 diabetes than Black or Hispanic people (CDC, 2022j), and there is no known way to prevent it. In type 2 diabetes, the pancreas makes less insulin than previously, and the body becomes resistant to it. Type 2 diabetes can sometimes be prevented with healthy diet and activity. A variety of factors put a person at risk for type 2 diabetes, including:</para>
 <list list-type="bulleted" id="list-00004">
 <item>having prediabetes;</item>
 <item>being overweight;</item>
@@ -224,12 +224,12 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 <item>Frequent mental distress</item>
 <item>Diabetes prevalence</item>
 <item>HIV prevalence</item></list></item></list>
-<para id="para-00021">In 2020, 12 percent of U.S. adults reported that they considered themselves in fair or poor health, that their physical health was not good on 3 of the previous 30 days, and that their mental health was not good on 4.4 of the previous 30 days. The percentage of live births with LBW (under 2,500 grams) was 8 percent. Also, 9 percent of adults were living with a diagnosis of diabetes, and 380 of every 100,000 residents aged 13 and over were living with a diagnosis of HIV (University of Wisconsin Population Health Institute, 2023).</para>
+<para id="para-00021">In 2020, 12 percent of U.S. adults reported that they considered themselves in fair or poor health, that their physical health was not good on 3 of the previous 30 days, and that their mental health was not good on 4.4 of the previous 30 days. The percentage of live births with LBW (under 2500 grams) was 8 percent. Also, 9 percent of adults were living with a diagnosis of diabetes, and 380 of every 100,000 residents aged 13 and over were living with a diagnosis of HIV (University of Wisconsin Population Health Institute, 2023).</para>
 </section>
 <section id="sect-00014">
 <title>Educational Interventions to Promote Self-Care in Adults</title>
 <para id="para-00022">The WHO (2022d, para. 2) defines <term class="no-emphasis" id="term-00013">self-care</term> as “the ability of individuals, families, and communities to promote their own health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a health professional.” The concept of self-care recognizes individuals as active participants in managing their health in various areas, including health promotion, disease prevention and control, self-medication, providing care to dependent persons, and rehabilitation, including palliative care. Self-care is not intended to replace the need for the formal health care system but allows a different option to receive health care.</para>
-<para id="para-00023">Some examples of <term class="no-emphasis" id="term-00014">educational interventions</term> that may be used to promote self-care in the adult population include the following:</para>
+<para id="para-00023">Some examples of <term class="no-emphasis" id="term-00014">educational interventions</term> that may be used to promote self-care in the adult population include:</para>
 <list list-type="bulleted" id="list-00007">
 <item>Health education classes: can provide individuals or groups with information on topics such as healthy eating, physical activity, <term class="no-emphasis" id="term-00015">stress management</term>, and disease prevention. Classes can be offered in various settings, such as community centers, workplaces, or health care facilities.</item>
 <item>Self-help materials: brochures, pamphlets, and books can provide individuals with information to maintain good health and prevent illness and can be made available in waiting rooms, libraries, and other public spaces.</item>
@@ -246,7 +246,7 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 <list list-type="bulleted" bullet-style="none" id="list-00016">
 <item>Life expectancy at birth for women in the United States dropped 0.8 years from 79.9 years in 2020 to 79.1 in 2021, while life expectancy for men dropped one full year, from 74.2 years in 2020 to 73.2 in 2021. The report shows the disparity in life expectancy between men and women grew in 2021 from 5.7 years in 2020 to 5.9 years in 2021. From 2000 to 2010, this disparity had narrowed to 4.8 years, but gradually increased from 2010 to 2019 and is now the largest gap since 1996. (para. 4)</item></list>
 <para id="para-00028">Men are also at higher risk for some serious health conditions, such as heart disease, lung cancer, and HIV (ODPHP, n.d.-d). Specific Healthy People 2030 objectives for men are related to prostate cancer (reduce the prostate cancer death rate) and sexually transmitted infections (reduce the syphilis rate in men who have sex with men and reduce gonorrhea rates in male adolescents and young men) (ODPHP, n.d.-d).</para>
-<para id="para-00029">Women also have unique health issues, such as <term class="no-emphasis" id="term-00017">menopause</term>, and some health issues that may affect both sexes can pose unique challenges for women (ODPHP, n.d.-i). Women are also at risk for breast cancer and cervical cancer. There are several specific Healthy People 2030 Objectives for women, including the following:</para>
+<para id="para-00029">Women also have unique health issues, such as <term class="no-emphasis" id="term-00017">menopause</term>, and some health issues that may affect both sexes can pose unique challenges for women (ODPHP, n.d.-i). Women are also at risk for breast cancer and cervical cancer. There are several specific Healthy People 2030 Objectives for women, including:</para>
 <list list-type="bulleted" id="list-00008">
 <item>Reduce iron deficiency in females aged 12 to 49 years</item>
 <item>Reduce the female breast cancer death rate</item>
@@ -314,7 +314,7 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 </section>
 <section id="sect-00016">
 <title>Health Promotion and Disease Prevention Activities to Improve the Health of Adults</title>
-<para id="para-00032">Many health promotion activities for adults focus on addressing the short list of <term class="no-emphasis" id="term-00018">risk behaviors</term> that lead to chronic illness; these include tobacco use, poor nutrition, physical inactivity, and excessive alcohol use. By engaging in health promotion activities, adults can improve their health, reduce their risk of chronic diseases, and create supportive environments that make healthy choices easier and more accessible. Mitigation of 7 of the 10 diseases shown in <link target-id="table-00001" document="m00324"/> can occur by addressing these behaviors. The CDC’s National Center for Chronic Disease Prevention and Health Promotion (2022c) provides detailed approaches to address these behaviors, including</para>
+<para id="para-00032">Many health promotion activities for adults focus on addressing the short list of <term class="no-emphasis" id="term-00018">risk behaviors</term> that lead to chronic illness; these include tobacco use, poor nutrition, physical inactivity, and excessive alcohol use. By engaging in health promotion activities, adults can improve their health, reduce their risk of chronic diseases, and create supportive environments that make healthy choices easier and more accessible. Mitigation of 7 of the 10 diseases shown in <link target-id="table-00001" document="m00324"/> can occur by addressing these behaviors. The CDC’s National Center for Chronic Disease Prevention and Health Promotion (2022c) provides detailed approaches to address these behaviors, including:</para>
 <list list-type="bulleted" id="list-00010">
 <item>helping people who smoke quit,</item>
 <item>increasing access to healthy foods and physical activity,</item>
@@ -337,7 +337,7 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 <para id="para-00035">Nurses are integral to fostering health promotion and disease prevention in U.S. adults. Along with individual, <term class="no-emphasis" id="term-00019">client-centered care</term>, the nurse may need to provide family-centered and workplace health promotion and disease prevention to best address the health of this population. Nurses often conduct health assessments to identify risk factors and develop individualized, family, and population plans. This may include assessing lifestyle factors or screening for chronic diseases. Nurses provide education to individual and adult populations on healthy lifestyle behaviors, disease prevention, and self-care management. Nurses perform preventative measures to detect and prevent diseases, such as administering immunizations, performing screenings, and providing counseling. Nurses coordinate care for adults with complex health needs through referrals to appropriate health care providers, community resources, or social services to assist in meeting their needs. Finally, nurses advocate for the adult population by promoting policies and environments that support health and prevent disease, such as working to address SDOH that contribute to health disparities (Melariri et al., 2022).</para>
 <section id="sect-00017">
 <title>Primary Prevention</title>
-<para id="para-00036"><term class="no-emphasis" id="term-00020">Primary prevention</term> involves taking measures to prevent health problems or injuries before they happen. A variety of primary prevention strategies can be used in the adult population. Some of these include the following:</para>
+<para id="para-00036"><term class="no-emphasis" id="term-00020">Primary prevention</term> involves taking measures to prevent health problems or injuries before they happen. A variety of primary prevention strategies can be used in the adult population. Some of these include:</para>
 <list list-type="bulleted" id="list-00012">
 <item><term class="no-emphasis" id="term-00021">Immunizations</term>: Immunizations are a highly effective mechanism of preventing infectious diseases such as influenza, pneumonia, COVID-19, and hepatitis B. The HPV vaccine can prevent several different types of cancer (CDC, 2023e). See the <link url="https://openstax.org/r/cdcadult">CDC’s 2023 Recommended Adult Immunization Schedule</link> for specific recommendations for adults (CDC, 2023a).</item>
 <item><term class="no-emphasis" id="term-00022">Health education</term>: Education can alter unhealthy or risky behaviors that could lead to disease or injury and increase resistance to disease or injury should exposure occur. Some examples of health education for the adult population include nutrition, regular exercise, avoidance of smoking, workplace safety, safer sex practices, and sun safety (<link target-id="fig-00003" document="m00324"/>).</item>
@@ -380,10 +380,10 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 </section>
 <section id="sect-00020">
 <title>Integration of Sociocultural and Linguistically Responsive Interventions for Adults</title>
-<para id="para-00043">Nurses must recognize that a “one size fits all” approach to health promotion and disease prevention may not be effective for all clients. Sociocultural and linguistic factors such as language barriers, cultural beliefs, and SDOH can significantly influence an individual’s health outcomes. Therefore, integrating sociocultural and linguistically responsive interventions into health care is crucial for promoting health equity and improving health outcomes for all individuals, including adults. This section explores the importance of integrating sociocultural and linguistically responsive interventions for adults and some examples of how nurses can effectively implement these interventions into practice.</para>
+<para id="para-00043">A “one size fits all” approach to health promotion and disease prevention may not be effective for all clients. Sociocultural and linguistic factors such as language barriers, cultural beliefs, and SDOH can significantly influence an individual’s health outcomes. Therefore, integrating sociocultural and linguistically responsive interventions into health care is crucial for promoting health equity and improving health outcomes for all individuals, including adults. This section explores the importance of integrating sociocultural and linguistically responsive interventions for adults and some examples of how nurses can effectively implement these interventions into practice.</para>
 <section id="sect-00021">
 <title>Sociocultural Interventions</title>
-<para id="para-00044">By incorporating socioculturally responsive components into the design of health promotion and disease prevention programs, nursing interventions can be more effective in engaging and promoting healthy behaviors among the adult population. Immigrant adults are one specific population that may benefit from such integration. Immigrants face unique cultural barriers to participation in mainstream health promotion programs. These include a lack of access to health care for a variety of reasons, including ineligibility for certain programs, limited support for culturally appropriate health care services, lack of knowledge of the U.S. health care system, distrust of the U.S. health care system, and fears related to deportation with the use of public services (Ali et al., 2021). Other barriers may involve specific customs and unique cultural or religious understandings of health and disease. U.S. immigrants are more likely to be unaware of a chronic disease, such as hypertension, and have lower treatment rates. Ali et al. (2021) determined that while modifiable lifestyle behavioral risk factors must be the common target for hypertension reduction interventions, additional factors should be considered in immigrant communities. These factors include:</para>
+<para id="para-00044">By incorporating socioculturally responsive components into the design of health promotion and disease prevention programs, nursing interventions can more effectively engage and promote healthy behaviors among the adult population. Immigrant adults are one specific population that may benefit from such integration. Immigrants face unique cultural barriers to participation in mainstream health promotion programs. These include a lack of access to health care for a variety of reasons, including ineligibility for certain programs, limited support for culturally appropriate health care services, lack of knowledge of the U.S. health care system, distrust of the U.S. health care system, and fears related to deportation with the use of public services (Ali et al., 2021). Other barriers may involve specific customs and unique cultural or religious understandings of health and disease. U.S. immigrants are more likely to be unaware of a chronic disease, such as hypertension, and have lower treatment rates. Ali et al. (2021) determined that while modifiable lifestyle behavioral risk factors must be the common target for hypertension reduction interventions, additional factors should be considered in immigrant communities. These factors include:</para>
 <list list-type="bulleted" id="list-00015">
 <item>gender roles,</item>
 <item>perceptions about physical activity,</item>
