@@ -103,7 +103,7 @@
     </note>
     <para id="para-00019">In general, lifestyle changes are considered the first-line therapy to treat dyslipidemia and prevent CAD. Many therapeutic drugs are also available. These drugs are listed in <link target-id="table-00002" document="m00383"/> and are the focus of the remainder of the chapter.</para>
     
-    <table class="vertically-tight" id="table-00002">
+    <table class="vertically-tight full-width" id="table-00002">
     <title/>
       <tgroup cols="3">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -156,7 +156,7 @@
     </row>
     </tbody>
       </tgroup>
-    <caption><emphasis effect="bold">Summary of Lipid-Lowering Drugs</emphasis> (*Only the primary target is shown; other effects on lipid parameters are not listed.) (source: Bornfeldt, 2021; https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Summary of Lipid-Lowering Drugs</emphasis> (*Only the primary target is shown; other effects on lipid parameters are not listed.) (sources: Bornfeldt, 2021; https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     
     
