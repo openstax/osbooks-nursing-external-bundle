@@ -36,15 +36,13 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Releasing Hormone</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Associated Hormones</emphasis></span></entry>
-<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Effect</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Releasing Hormone</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Associated Hormones</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Effect</emphasis></span></entry>
+<entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Releasing Hormones</emphasis></span></entry>
 </row>
 </thead>
 <tbody>
-<row>
-<entry valign="top" align="center" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Releasing Hormones</emphasis></span></entry>
-</row>
 <row>
 <entry valign="top" align="left">Gonadotropin-releasing hormone (GnRH)</entry>
 <entry valign="top" align="left">Luteinizing hormone (LH)<newline/>Follicle-stimulating hormone (FSH)</entry>
@@ -71,7 +69,7 @@
 <entry valign="top" align="left">Promotes lactation from the mammary glands</entry>
 </row>
 <row>
-<entry valign="top" align="center" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Inhibitory Hormones</emphasis></span></entry>
+<entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Inhibitory Hormones</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left">Prolactin-inhibiting hormone (PIH)</entry>
