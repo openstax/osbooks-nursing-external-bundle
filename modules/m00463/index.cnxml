@@ -175,7 +175,7 @@
     <table class="vertically-tight full-width" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <thead>
     <row>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug</span></emphasis></entry>
@@ -199,7 +199,7 @@
     </table>
     <section id="sect-00009">
     <title>Adverse Effects and Contraindications</title>
-    <para id="para-00023">Clients with sulfonamide hypersensitivity can experience severe or even fatal reactions, such as Stevens–Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, aplastic anemia, or agranulocytosis. Sensitivity can occur regardless of the route of administration. If there are any signs of an allergic reaction, the client should notify the provider immediately. Local ocular adverse effects occur with chronic administration (DailyMed, <emphasis effect="italics">Brinzolamide</emphasis>, 2021). Although acid–base imbalance and electrolyte disturbances primarily occur with the oral form, the potential should be considered with clients receiving this classification via the topical route. The risk of metabolic acidosis is compounded with concurrent use of high-dose salicylic acid. These adverse effects do disappear once the underlying condition is treated (Tang et al., 2023). Other adverse effects include alopecia, chest pain, conjunctivitis, diarrhea, diplopia (double vision), dizziness, dry mouth, dyspnea, dyspepsia, eye fatigue, hypertonia, keratoconjunctivitis, keratopathy, kidney pain, lid margin crusting or a sticky sensation, nausea, pharyngitis, tearing, and urticaria (DailyMed, <emphasis effect="italics">Dorzolamide</emphasis>, 2021).</para>
+    <para id="para-00023">Clients with sulfonamide hypersensitivity can experience severe or even fatal reactions, such as Stevens–Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, aplastic anemia, or agranulocytosis. Sensitivity can occur regardless of the route of administration. If there are any signs of an allergic reaction, the client should notify the provider immediately. Local ocular adverse effects occur with chronic administration (DailyMed, <emphasis effect="italics">Brinzolamide</emphasis>, 2023). Although acid–base imbalance and electrolyte disturbances primarily occur with the oral form, the potential should be considered with clients receiving this classification via the topical route. The risk of metabolic acidosis is compounded with concurrent use of high-dose salicylic acid. These adverse effects do disappear once the underlying condition is treated (Tang et al., 2023). Other adverse effects include alopecia, chest pain, conjunctivitis, diarrhea, diplopia (double vision), dizziness, dry mouth, dyspnea, dyspepsia, eye fatigue, hypertonia, keratoconjunctivitis, keratopathy, kidney pain, lid margin crusting or a sticky sensation, nausea, pharyngitis, tearing, and urticaria (DailyMed, <emphasis effect="italics">Dorzolamide</emphasis>, 2021).</para>
     <para id="para-00024"><link target-id="table-00004" document="m00463"/> is a drug prototype table for carbonic anhydrase inhibitors featuring dorzolamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00004">
     <tgroup cols="2">
@@ -309,7 +309,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Travoprost 0.004% solution</term><newline/>
     (<term class="no-emphasis" id="term-00023">Travatan</term>)</entry>
-    <entry valign="top" align="left">1 drop in each affected eye once daily in the evening; maximum dose: 1 drop per day per affected eye.</entry>
+    <entry valign="top" align="left">1 drop in the affected eye(s) once daily in the evening; maximum dose: 1 drop per day per affected eye.</entry>
     </row>  
   </tbody>
     </tgroup>
@@ -412,7 +412,7 @@
     <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
     Inhibits the rho kinase enzyme, thus reducing IOP by increasing the outflow of aqueous humor through the trabecular meshwork</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-    1 drop of solution every evening.
+    1 drop of solution in the affected eye(s) every evening.
     </entry>
     </row>
     <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
@@ -486,7 +486,7 @@
     <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
     Reduces production of aqueous humor and increases uveoscleral outflow</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-    1 drop every 8 hours of 0.1% or 0.15% solution.</entry>
+    1 drop in the affected eye(s) every 8 hours of 0.1% or 0.15% solution.</entry>
     </row>
     <row><entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
     For lowering IOP in clients with open-angle glaucoma or ocular hypertension<newline count="2"/>
@@ -594,9 +594,9 @@
     <para id="para-00081">DailyMed. (Updated April 4, 2023). <emphasis effect="italics">Brimonidine tartrate ophthalmic solution, 0.15% solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a52b2033-0333-4630-9b1f-e22918b0962c</para>
     <para id="para-00080">DailyMed. (Updated July 7, 2023). <emphasis effect="italics">Brinzolamide suspension/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=37b19837-fcab-4536-abad-6f4f92dfe794</para>
     <para id="para-00082">DailyMed. (Updated August 31, 2021). <emphasis effect="italics">Carteolol hydrochloride solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=571fe550-399d-4296-835c-37aa1ab9b409</para>
-    <para id="para-00083">DailyMed. (Updated October 28, 2022). <emphasis effect="italics">Ciprofloxacin hydrochloride ophthalmic solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=41363a06-d6f5-4bc6-b0e9-34e5616ae387</para>
     <para id="para-00136">DailyMed. (Updated June 27, 2023). <emphasis effect="italics">Ciloxan-ciprofloxacin hydrochloride ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b557d15-bd97-42d2-adcb-d172b4216cb6</para>
-    <para id="para-00084">DailyMed. (Updated August 3, 2022). <emphasis effect="italics">Dexamethasone sodium phosphate solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6bdcefbe-51e3-4ca4-afda-5aeca7b6fa73</para>
+    <para id="para-00083">DailyMed. (Updated October 28, 2022). <emphasis effect="italics">Ciprofloxacin hydrochloride ophthalmic solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=41363a06-d6f5-4bc6-b0e9-34e5616ae387</para>
+      <para id="para-00084">DailyMed. (Updated August 3, 2022). <emphasis effect="italics">Dexamethasone sodium phosphate solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6bdcefbe-51e3-4ca4-afda-5aeca7b6fa73</para>
     <para id="para-00085">DailyMed. (Updated June 30, 2022). <emphasis effect="italics">Diclofenac sodium solution/drops.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39dfffb0-612a-48f3-8db5-1a59899b91e9</para>
     <para id="para-00086">DailyMed. (Updated November 26, 2021). <emphasis effect="italics">Dorzolamide</emphasis> <emphasis effect="italics">hydrochloride ophthalmic solution solution/drops</emphasis>. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea</para>
     <para id="para-00087">DailyMed. (Updated May 16, 2023). <emphasis effect="italics">Erythromycin ointment.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=061ddd20-94a6-4e3c-ba84-1ebd8529eea6</para>
