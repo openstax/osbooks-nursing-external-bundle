@@ -198,7 +198,7 @@ How many tablets should the client receive per dose?</para>
 <note class="practice-problems" id="note-00003">
   <exercise id="exer-00003">
   <problem id="prob-00003">
-  <title>Basic Formula Calculations</title>
+  <title><emphasis effect="bold">Basic Formula Calculations</emphasis></title>
   <para id="para-00032">Solve for the dosage (<emphasis effect="italics">X</emphasis>).</para>
   <list list-type="enumerated" number-style="arabic" id="list-00007">
   <item><emphasis effect="italics">Ordered:</emphasis> Amoxicillin suspension 250 mg orally BID<newline/>
@@ -233,10 +233,10 @@ How many tablets should the client receive per dose?</para>
 <title>Ratio and Proportion Method</title>
 <para id="para-00035">The <term class="no-emphasis" id="term-00010">ratio and proportion method</term> uses a linear equation to solve the dosage calculation problem.</para>
 <para id="para-00036"><m:math>
-  <m:mspace linebreak="newline"/><m:mi>K</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Known</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>available</m:mi><m:mo>)</m:mo>
+  <m:mspace linebreak="newline"/><m:mi>K</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo> </m:mo><m:mi>Known</m:mi><m:mo> </m:mo><m:mi>dose</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>available</m:mi><m:mo>)</m:mo>
   <m:mspace linebreak="newline"/><m:mi>M</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Known</m:mi><m:mo> </m:mo><m:mi>unit</m:mi><m:mo> </m:mo><m:mi>of</m:mi><m:mo> </m:mo><m:mi>measure</m:mi>
-  <m:mspace linebreak="newline"/><m:mi>D</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Desired/ordered</m:mi><m:mo> </m:mo><m:mi>dose</m:mi>
-  <m:mspace linebreak="newline"/><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>be</m:mi><m:mo> </m:mo><m:mi>administered</m:mi>
+  <m:mspace linebreak="newline"/><m:mi>D</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo> </m:mo><m:mi>Desired/ordered</m:mi><m:mo> </m:mo><m:mi>dose</m:mi>
+  <m:mspace linebreak="newline"/><m:mi>X</m:mi><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mo> </m:mo><m:mi>Desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo> </m:mo><m:mi>to</m:mi><m:mo> </m:mo><m:mi>be</m:mi><m:mo> </m:mo><m:mi>administered</m:mi>
   <m:mspace linebreak="newline"/><m:mi>K</m:mi><m:mo> </m:mo><m:mfenced><m:mrow><m:mi>known</m:mi><m:mo> </m:mo><m:mi>dose</m:mi></m:mrow></m:mfenced><m:mo> </m:mo><m:mo>:</m:mo><m:mi>M</m:mi><m:mo> </m:mo><m:mfenced><m:mrow><m:mi>known</m:mi><m:mo> </m:mo><m:mi>unit</m:mi><m:mo> </m:mo><m:mi>of</m:mi><m:mo> </m:mo><m:mi>measure</m:mi></m:mrow></m:mfenced><m:mo> </m:mo><m:mo>=</m:mo><m:mi>D</m:mi><m:mo> </m:mo><m:mfenced><m:mrow><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>or</m:mi><m:mo> </m:mo><m:mi>ordered</m:mi><m:mo> </m:mo><m:mi>dose</m:mi></m:mrow></m:mfenced><m:mo> </m:mo><m:mo>:</m:mo><m:mi>X</m:mi><m:mo> </m:mo><m:mo>(</m:mo><m:mi>desired</m:mi><m:mo> </m:mo><m:mi>amount</m:mi><m:mo>)</m:mo></m:math></para>
 <para id="para-00038">To use this method:</para>
 <list list-type="enumerated" number-style="arabic" id="list-00009">
