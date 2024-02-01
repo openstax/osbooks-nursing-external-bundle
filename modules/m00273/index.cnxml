@@ -33,7 +33,7 @@
 <para id="para-00009">Aspirin, ibuprofen, and naproxen sodium are classified as <term id="term-00003">nonsteroidal anti-inflammatory drugs (NSAIDs)</term>. This classification means they possess analgesic, antipyretic, and anti-inflammatory actions without belonging to the group of medications known as the glucocorticoids (e.g., prednisone and dexamethasone, which are discussed in <link document="m00301">Introduction to the Immune System and the Inflammatory Response</link>). NSAIDs are often preferred over glucocorticoids as anti-inflammatory agents because they cause fewer adverse drug reactions such as hyperglycemia, hypertension, and increased risk for infection. NSAIDs work by inhibiting the enzyme COX centrally and in peripheral tissues to decrease inflammation and reduce pain. NSAIDs are also very popular analgesics because they are readily available over the counter.</para>
 <para id="para-00010">Aspirin is notable for its antiplatelet actions, so it can be used during myocardial infarctions to aid in maintaining coronary blood flow by inhibiting platelet aggregation. (See <link document="m00387">Cardiac Emergency and Shock Drugs</link> for more about aspirin’s use in cardiovascular emergencies.) The reason for aspirin’s unique actions is that it is an irreversible inhibitor of COX in platelets, preventing them from aggregating and initiating the clotting cascade. Aspirin’s irreversible inhibition of COX means that platelets are affected for their entire lifetime, which is approximately 7–10 days. Nurses should instruct clients taking blood thinners (e.g., warfarin, apixaban) to be cautious about using aspirin to treat pain because of increased risk for bleeding and bruising.</para>
 <note class="safety-alert" id="note-00002">
-<para id="para-00011">NSAIDs</para>
+<title>NSAIDs</title>
 <para id="para-00012">Clients reporting severe abdominal pain, dark tarry stools, or vomiting or coughing up of blood should stop using any NSAIDs immediately and be assessed by a health care provider for possible stomach ulcers.</para>
 </note>
 </section>
@@ -55,34 +55,34 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Acetaminophen</term><newline/>
 (<term class="no-emphasis" id="term-00006">Tylenol</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pain and/or fever:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pain and/or fever:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 325–650 mg orally every 4–6 hours as needed; maximum dose: 4000 mg/day.<newline/>
 <emphasis effect="italics">Children:</emphasis> 10–15 mg/kg/dose orally every 4–6 hours as needed; maximum dose: 75 mg/kg/day, not to exceed 4000 mg/day.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Aspirin</term></entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pain and/or fever:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pain and/or fever:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 325–1000 mg orally every 4–6 hours as needed; usual maximum dose is 4000 mg/day.<newline/>
-<emphasis effect="bold">Secondary prevention of atherosclerotic cardiovascular disease:</emphasis><newline/>
+<emphasis effect="italics">Secondary prevention of atherosclerotic cardiovascular disease:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 75–325 mg once daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Ibuprofen</term><newline/>
 (<term class="no-emphasis" id="term-00009">Advil</term>, <term class="no-emphasis" id="term-00010">Motrin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pain and/or fever:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pain and/or fever:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200–800 mg orally every 4–8 hours as needed; maximum dose: 3200 mg/day.<newline/>
 <emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose orally every 6–8 hours; maximum dose: 600 mg/dose, not to exceed 2400 mg/day.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Naproxen sodium</term><newline/>
 (<term class="no-emphasis" id="term-00012">Aleve</term>, <term class="no-emphasis" id="term-00013">Naprosyn</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pain and/or fever:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pain and/or fever:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200–400 mg orally, followed by 200 mg every 8–12 hours as needed; maximum dose: 600 mg/day.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Tramadol</term><newline/>
 (<term class="no-emphasis" id="term-00015">Ultram</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pain:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pain:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 25–100 mg orally every 6 hours as needed; maximum dose: 400 mg/day.</entry>
 </row>
 </tbody>
@@ -213,9 +213,9 @@ Over-the-counter ibuprofen 400 mg orally every 4–6 hours as needed for joint p
 <entry valign="top" align="left" morerows="6">
 <list list-type="bulleted" id="list-00004">
 <item><emphasis effect="italics">Head, eyes, ears, nose, throat (HEENT):</emphasis> Within normal limits</item>
-<item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention; no peripheral edema noted bilaterally; S1, S2 auscultated, rhythm regular</item>
+<item><emphasis effect="italics">Cardiovascular:</emphasis> No jugular vein distention;<newline/> no peripheral edema noted bilaterally; S1, S2 auscultated, rhythm regular</item>
 <item><emphasis effect="italics">Respiratory:</emphasis> Lungs clear to auscultation bilaterally</item>
-<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, generalized tenderness, nondistended; normal bowel sounds auscultated in all four quadrants</item>
+<item><emphasis effect="italics">GI:</emphasis> Abdomen soft, generalized tenderness, nondistended;<newline/> normal bowel sounds auscultated in all four quadrants</item>
 <item><emphasis effect="italics">GU:</emphasis> Reports normal urine output</item>
 <item><emphasis effect="italics">Neurologic:</emphasis> Within normal limits</item>
 <item><emphasis effect="italics">Integumentary:</emphasis> No wounds noted; skin appropriate for age</item>
