@@ -23,8 +23,8 @@
 <colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Competency</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Proficiency</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Competency</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Proficiency</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -105,7 +105,6 @@
 </table>
 <para id="para-00003">Population care requires the nurse to be prepared to promote health and prevent disease across the health care continuum, including public health, community health, <term class="no-emphasis" id="term-00004">acute care</term>, <term class="no-emphasis" id="term-00005">ambulatory care</term>, and <term class="no-emphasis" id="term-00006">long-term care</term>. Population health also encompasses collaborative activities among all relevant individuals and organizations involved in care, including clients and communities, to improve a population’s health status (AACN, 2021a).</para>
 <para id="para-00004">To deliver safe, equitable, and high-quality care to diverse client populations, nursing practice must prioritize a holistic approach that considers clients in the context of their families and communities. This involves recognizing how social, political, and economic factors impact health, focusing on what is most essential for well-being, fostering a compassionate and healing relationship, and always upholding personal dignity, choice, and meaning (AACN, 2021a).</para>
-<section id="sect-00002">
 <section id="sect-00003">
 <title>Transforming Nursing Practice</title>
 <para id="para-00005"><link url="https://openstax.org/r/namedu">The Future of Nursing 2020–2030</link> report by the National Academies of Sciences, Engineering, and Medicine (2021) has identified several crucial areas where the nursing profession must improve to overcome the challenges of the next decade. These areas include the nursing workforce, leadership, nursing education, nurse well-being, emergency preparedness and response, and the nursing profession’s responsibilities concerning the determinants of health at both the structural and individual levels. <link target-id="table-00002" document="m00373"/> highlights the obstacles that need to be addressed to achieve health equity in the next decade. The ultimate goal is to achieve health equity in the United States, which can be accomplished by strengthening nursing capacity and expertise.</para>
@@ -115,8 +114,8 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Area for Improvement</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Challenges</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Area for Improvement</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Challenges</span></emphasis></entry>
 </row>
 </thead>
 <tbody>
@@ -126,9 +125,9 @@
 <list list-type="bulleted" id="list-00008">
 <item>Systemic issues such as <term class="no-emphasis" id="term-00007">poverty</term>, <term class="no-emphasis" id="term-00008">discrimination</term>, and unequal distribution of resources can hinder progress toward health equity. Addressing these <term class="no-emphasis" id="term-00009">structural barriers</term> is complex and requires policy changes.</item>
 <item>Disparities in health care access and outcomes, often linked to socioeconomic factors, remain significant challenges. Closing these gaps necessitates systemic changes and increased resources.</item>
-<item>Socioeconomic disparities in health information access and health literacy can impede clients' ability to make informed decisions about their care. Efforts should be made to bridge this gap.</item>
+<item>Socioeconomic disparities in health information access and health literacy can impede clients’ ability to make informed decisions about their care. Efforts should be made to bridge this gap.</item>
 <item>Access to technology and health care infrastructure can be limited in certain areas, hindering the adoption of telehealth and other advancements in health care delivery.</item>
-<item>Bias and discrimination within health care systems can affect clients' quality of care. Efforts to combat bias and promote culturally competent care are essential.</item></list></entry>
+<item>Bias and discrimination within health care systems can affect clients’ quality of care. Efforts to combat bias and promote culturally competent care are essential.</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="left">Lifting barriers to expand the contributions of nursing</entry>
@@ -165,7 +164,7 @@
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00013">
 <item>The nursing profession requires a new generation of leaders who prioritize diversity and equity and recognize the crucial link between social determinants of health and overall health status.</item>
-<item>Nurse leaders can also play a critical role in addressing the legacy of racism in health care and the nursing profession and taking steps to reduce the negative impact of discrimination and implicit bias on clients' health outcomes.</item></list></entry>
+<item>Nurse leaders can also play a critical role in addressing the legacy of racism in health care and the nursing profession and taking steps to reduce the negative impact of discrimination and implicit bias on clients’ health outcomes.</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="left">Preparing nurses to respond to disasters</entry>
@@ -173,14 +172,14 @@
 <list list-type="bulleted" id="list-00014">
 <item>The COVID-19 pandemic has highlighted the divisions in an already fractured U.S. health care system, causing a significant increase in mortality and illness rates and exposing stark health disparities.</item>
 <item>The communities most severely impacted are people of color, who face the combined challenges of discrimination, financial hardship, dangerous work environments, restricted health care access, and preexisting medical issues.</item>
-<item>It is crucial to define the responsibilities and duties of nurses in disaster response and public health emergency management to enhance the country's ability to prepare for and react to such occurrences.</item></list></entry>
+<item>It is crucial to define the responsibilities and duties of nurses in disaster response and public health emergency management to enhance the country’s ability to prepare for and react to such occurrences.</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="left">Supporting the health and well-being of nurses</entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00015">
 <item>The workplace demands placed on nurses can significantly impact their well-being, compromising the quality and safety of their care.</item>
-<item>To prevent burnout and poor health among nursing staff, it's crucial to address the root causes of workplace hazards and stressors.</item>
+<item>To prevent burnout and poor health among nursing staff, it’s crucial to address the root causes of workplace hazards and stressors.</item>
 <item>Ultimately, the impact on nurses&#8217; health and well-being goes beyond their personal lives, directly affecting the quality, safety, and cost of care and the overall health care system.</item></list></entry>
 </row>
 </tbody>
@@ -197,20 +196,19 @@
 <image mime-type="image/png" src="../../media/PH_Figure_35_03_006.jpg"/></media>
 <caption>This global health initiative by the CDC educates men in Mozambique about voluntary medical male circumcision (VMMC) at a health clinic. (credit: “VMMC in Mozambique” by Ricardo Franco/CDC Global/Flickr, CC BY 2.0 DEED)</caption>
 </figure>
-<para id="para-00008">Nurses must continuously learn about global health issues, emerging diseases, and evolving health care practices to stay informed and adaptable in a dynamic health care landscape. They should advocate for health equity, promote global health initiatives, collaborate internationally, and provide health care services in diverse settings to improve health outcomes globally.</para>
+<para id="para-00008">Nurses must continuously learn about and adapt to global health issues, emerging diseases, and evolving health care practices. They should advocate for health equity, promote global health initiatives, collaborate internationally, and provide health care services in diverse settings to improve global health outcomes.</para>
 </section>
 <section id="sect-00005">
 <title>Key to Achieving Positive Health Outcomes</title>
-<para id="para-00009">Nurses need to consider the population they are caring for, whether it is a local, regional, national, or global community. Population health covers various aspects of health care delivery, including public health, acute care, ambulatory care, and long-term care. It involves collaborative efforts between individuals and organizations involved in care, including clients and communities, to improve the population’s health status. The focus is on achieving health equity and improved health for all, emphasizing diversity, equity, inclusion, and ethics. Everyone involved shares accountability for outcomes, as various factors can influence the health of a specific group. Ultimately, a population health perspective is essential in promoting the health and well-being of the community (AACN, 2021a).</para>
+<para id="para-00009">Nurses need to consider the population they are caring for, whether it is a local, regional, national, or global community. Population health covers public health, acute care, ambulatory care, and long-term care. It involves collaboration between individuals and organizations involved in care, including clients and communities, focused on achieving health equity and improved health for all, emphasizing diversity, equity, inclusion, and ethics. Everyone involved shares accountability for outcomes, as various factors can influence the health of a specific group. Ultimately, a population health perspective is essential in promoting the health and well-being of the community (AACN, 2021a).</para>
 <para id="para-00010">Population health encompasses a broad range of health care services, from public health initiatives aimed at preventing diseases to managing the health of entire communities. Population health management involves systems thinking and incorporating health promotion and illness prevention to achieve population health goals.</para>
-<para id="para-00011">Nurses play a vital role in advocating for and implementing policies that impact population health on a global and local level. Nurses also respond to emergencies, crises, epidemics, or pandemics. This requires a particular focus on <term class="no-emphasis" id="term-00011">surveillance</term>, <term class="no-emphasis" id="term-00012">prevention</term>, and containment of factors contributing to the emergency, with competencies tailored to each situation.</para>
+<para id="para-00011">Nurses advocate for and implement policies that impact population health on a global and local level, and they respond to emergencies, crises, epidemics, or pandemics. This requires a particular focus on <term class="no-emphasis" id="term-00011">surveillance</term>, <term class="no-emphasis" id="term-00012">prevention</term>, and containment of factors contributing to the emergency, with competencies tailored to each situation.</para>
 <para id="para-00012">A skilled community/public health nurse carries out many essential functions in community organizations or state and local public health organizations. These functions range from providing clinical services, home visits, and population-based services to conducting health promotion programs at all levels of prevention. The community/public health nurse works directly with <term class="no-emphasis" id="term-00013">at-risk</term> populations, using their population-level competencies to provide services to individuals, families, or groups. Additionally, they perform critical tasks such as primary data collection and analysis, fieldwork, program planning, outreach activities, programmatic support, and other organizational tasks. Although their focus is primarily on population-level competencies and community/public health, nurses apply these skills and competencies across all levels of prevention, making them indispensable members of the health care infrastructure (Quad Council Coalition Competency Review Task Force, 2018).</para>
 <para id="para-00013">Community and public health nurses hold the key to achieving positive health outcomes in an era of increasing challenges. By working together and fostering a culture of inclusivity, nurses can create a society where everyone has equal access to health care and can attain their best possible state of wellness.</para>
 </section>
-</section>
 <section class="section-summary" id="sect-00006">
 <title>Chapter Summary</title>
-<para id="para-00014">The role of nurses in health care settings is crucial in promoting health and preventing diseases. Collaborative efforts are necessary to promote the health status of populations. Nursing practice should prioritize a holistic approach, considering the client’s family and community context. This entails recognizing the social, political, and economic factors that affect health; prioritizing well-being; fostering compassionate relationships; and respecting personal dignity and choice.</para>
+<para id="para-00014">Nurses in health care settings are crucial to promoting health and preventing diseases. Collaborative efforts are necessary to promote the health status of populations. Nursing practice should prioritize a holistic approach, considering the client’s family and community context. This entails recognizing the social, political, and economic factors that affect health; prioritizing well-being; fostering compassionate relationships; and respecting personal dignity and choice.</para>
 </section>
 <section class="review-questions" id="sect-00007">
 <title>Review Questions</title>
@@ -263,7 +261,7 @@
 <para id="para-00059">Lopes, M. A., Almeida, Á. S., &amp; Almada-Lobo, B. (2015). Handling healthcare workforce planning with care: Where do we stand? <emphasis effect="italics">Human Resources for Health, 13</emphasis>(38). https://doi.org/10.1186/s12960-015-0028-0</para>
 <para id="para-00060">Mensah, G. A., Wei, G. S., Sorlie, P. D., Fine, L. J., Rosenberg, Y., Kaufmann, P. G., Mussolino, M. E., Hsu, L. L., Addou, E., Engelgau, M. M., &amp; Gordon, D. (2017). Decline in cardiovascular mortality: Possible causes and implications. <emphasis effect="italics">Circulation Research</emphasis>, <emphasis effect="italics">120</emphasis>(2), 366–380. https://doi.org/10.1161/CIRCRESAHA.116.309115</para>
 <para id="para-00061">Mental Health America. (2023). <emphasis effect="italics">Policy issues and position statements</emphasis>. https://mhanational.org/position-statements</para>
-<para id="para-00062">Miyagawa, M. , Kai, Y. , Yasuhara, Y. , Ito, H. , Betriana, F. , Tanioka, T. and Locsin, R. (2020) Consideration of safety management when using pepper, a humanoid robot for care of older adults. Intelligent Control and Automation, 11, 15-24. doi: 10.4236/ica.2020.111002.</para>
+<para id="para-00062">Miyagawa, M. , Kai, Y. , Yasuhara, Y. , Ito, H. , Betriana, F. , Tanioka, T. and Locsin, R. (2020). Consideration of safety management when using pepper, a humanoid robot for care of older adults. Intelligent Control and Automation, 11, 15-24. doi: 10.4236/ica.2020.111002.</para>
 <para id="para-00063">National Academies of Sciences, Engineering, and Medicine. (2019). <emphasis effect="italics">Taking action against clinician burnout: A systems approach to professional well-being.</emphasis> The National Academies Press. https://www.nap.edu/read/25521/chapter/1</para>
 <para id="para-00064">National Academies of Sciences, Engineering, and Medicine; National Academy of Medicine; Committee on the Future of Nursing 2020–2030. (2021). The nursing workforce. In J.L. Flaubert, S. Le Menestrel, &amp; D.R. Williams, et al. (Eds.). <emphasis effect="italics">The future of nursing 2020–2030: Charting a path to achieve health equity.</emphasis> The National Academies Press. https://doi.org/10.17226/25982</para>
 <para id="para-00065">National Center for Health Workforce Analysis. (2018). <emphasis effect="italics">National sample survey of registered nurses, 2018</emphasis> [Data set]. Health Resources and Services Administration. https://data.hrsa.gov/topics/health-workforce/nursing-workforce-survey-data</para>
@@ -286,7 +284,7 @@
 <para id="para-00082">Thakarar, K., Nenninger, K., &amp; Agmas, W. (2020). Harm Reduction Services to Prevent and Treat Infectious Diseases in People Who Use Drugs. Infectious disease clinics of North America, 34(3), 605–620. https://doi.org/10.1016/j.idc.2020.06.013</para>
 <para id="para-00083">The Overdose Response Strategy. (2018). 2018 Annual report. https://www.hidta.org/wp-content/uploads/2020/04/2018-ORS-Annual-Report.docx-00000003.pdf</para>
 <para id="para-00084">Thomas, L. (2022). <emphasis effect="italics">Recent developments in health technology</emphasis>. News Medical Life Sciences. https://www.news-medical.net/health/Recent-Developments-in-Health-Technology.aspx</para>
-<para id="para-00085">Tiase, V.L., Cato, K.D., (September 30, 2021) From artificial intelligence to augmented intelligence: Practical guidance for nurses. <emphasis effect="italics">OJIN: The Online Journal of Issues in Nursing</emphasis> Vol. 26, No. 3, Manuscript 4. https://ojin.nursingworld.org/table-of-contents/volume-26-2021/number-3-september-2021/from-artificial-intelligence-to-augmented-intelligence/</para>
+<para id="para-00085">Tiase, V.L. Cato, K.D., (September 30, 2021). From artificial intelligence to augmented intelligence: Practical guidance for nurses. <emphasis effect="italics">OJIN: The Online Journal of Issues in Nursing</emphasis> Vol. 26, No. 3, Manuscript 4. https://ojin.nursingworld.org/table-of-contents/volume-26-2021/number-3-september-2021/from-artificial-intelligence-to-augmented-intelligence/</para>
 <para id="para-00086">United States Drug Enforcement Agency. (2021, March 2). 2020 National drug threat assessment. https://www.dea.gov/documents/2021/03/02/2020-national-drug-threat-assessment</para>
 <para id="para-00087">U.S. Food and Drug Administration (FDA). (2023, March 29). <emphasis effect="italics">FDA approves second over-the-counter naloxone nasal spray product</emphasis>. https://www.fda.gov/news-events/press-announcements/fda-approves-first-over-counter-naloxone-nasal-spray</para>
 <para id="para-00088">World Health Organization. (2022). <emphasis effect="italics">Immunization coverage</emphasis>. https://www.who.int/news-room/fact-sheets/detail/immunization-coverage</para>
