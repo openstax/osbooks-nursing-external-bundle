@@ -250,12 +250,14 @@
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
-<tbody>
-  <row class="header-row">
+<thead>
+<row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Test</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Normal Ranges (SI Units)</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Significance of Changes from Normal</emphasis></span></entry>
 </row>
+</thead>
+<tbody>
 <row class="header-row">
 <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><term id="term-00109">Complete Blood Count</term></span></entry>
 </row>
