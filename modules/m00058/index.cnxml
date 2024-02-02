@@ -251,7 +251,7 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <tbody>
-  <row>
+  <row class="header-row">
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Test</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Normal Ranges (SI Units)</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Significance of Changes from Normal</emphasis></span></entry>
