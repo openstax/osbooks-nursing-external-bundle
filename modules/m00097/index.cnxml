@@ -83,11 +83,11 @@
     <colspec colnum="5" colname="c5" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Drug Schedule</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Examples of Drugs in This Category</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Therapeutic Use</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Potential to Cause Physical or Psychological Dependency</span></emphasis></entry>
-    <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Potential for Abuse</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Schedule</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Examples of Drugs in This Category</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Therapeutic Use</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Potential to Cause Physical or Psychological Dependency</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Potential for Abuse</span></emphasis></entry>
     </row>
     </thead>
     <tbody>
