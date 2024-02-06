@@ -37,31 +37,31 @@
         <colspec colnum="2" colname="c2" colwidth="2*"/>
       <thead>
       <row>
-      <entry><span class="blue-text">Drug</span></entry>
-      <entry><span class="blue-text">Routes and Dosage Ranges</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+        <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry><term class="no-emphasis" id="term-00002">Amlodipine</term><newline/>(<term class="no-emphasis" id="term-00003">Norvasc</term>)</entry>
-      <entry>5–10 mg orally daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00002">Amlodipine</term><newline/>(<term class="no-emphasis" id="term-00003">Norvasc</term>)</entry>
+        <entry valign="top" align="left">5–10 mg orally daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00004">Diltiazem</term><newline/>(<term class="no-emphasis" id="term-00005">Cardizem</term>)</entry>
-      <entry><emphasis effect="italics">Initial dosage:</emphasis> 30 mg orally 4 times daily, before meals and at bedtime. Increase dosage gradually (given in divided doses 3–4 times daily) at 1- to 2-day intervals until optimum response is obtained.<newline/><emphasis effect="italics">Average optimum dosage:</emphasis> 180–360 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Diltiazem</term><newline/>(<term class="no-emphasis" id="term-00005">Cardizem</term>)</entry>
+        <entry valign="top" align="left"><emphasis effect="italics">Initial dosage:</emphasis> 30 mg orally 4 times daily, before meals and at bedtime. Increase dosage gradually (given in divided doses 3–4 times daily) at 1- to 2-day intervals until optimum response is obtained.<newline/><emphasis effect="italics">Average optimum dosage:</emphasis> 180–360 mg daily.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00006">Nicardipine</term><newline/>(<term class="no-emphasis" id="term-00007">Cardene</term>)</entry>
-      <entry><emphasis effect="italics">Immediate release:</emphasis> 20–40 mg orally 3 times daily.<newline/> 
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Nicardipine</term><newline/>(<term class="no-emphasis" id="term-00007">Cardene</term>)</entry>
+        <entry valign="top" align="left"><emphasis effect="italics">Immediate release:</emphasis> 20–40 mg orally 3 times daily.<newline/> 
         <emphasis effect="italics">Sustained release:</emphasis> 30–60 mg daily; maximum dose 120 mg daily.<newline/><emphasis effect="italics">Intravenous (IV) infusion:</emphasis> 5–15 mg hourly.</entry>
       </row>
       <row>
-      <entry><term class="no-emphasis" id="term-00008">Nifedipine</term><newline/>(<term class="no-emphasis" id="term-00009">Procardia</term>)</entry>
-      <entry><emphasis effect="italics">Immediate release:</emphasis> Starting dose 10 mg orally 3 times daily. The usual effective dose range is 10–20 mg 3 times daily. Doses above 120 mg daily are rarely necessary. More than 180 mg daily is not recommended.<newline/><emphasis effect="italics">Sustained release:</emphasis> 30–60 mg orally daily; maximum dose 120 mg daily.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Nifedipine</term><newline/>(<term class="no-emphasis" id="term-00009">Procardia</term>)</entry>
+        <entry valign="top" align="left"><emphasis effect="italics">Immediate release:</emphasis> Starting dose 10 mg orally 3 times daily. The usual effective dose range is 10–20 mg 3 times daily. Doses above 120 mg daily are rarely necessary. More than 180 mg daily is not recommended.<newline/><emphasis effect="italics">Sustained release:</emphasis> 30–60 mg orally daily; maximum dose 120 mg daily.</entry>
       </row>
       <row>
-        <entry><term class="no-emphasis" id="term-00010">Verapamil</term><newline/>(<term class="no-emphasis" id="term-00011">Calan SR</term>, <term class="no-emphasis" id="term-00011a">Verelan</term>)</entry>
-      <entry><emphasis effect="italics">Immediate release:</emphasis> 40–120 mg 3 times daily.<newline/><emphasis effect="italics">Sustained release:</emphasis> 180–240 mg daily.<newline/><emphasis effect="italics">IV:</emphasis> Follow manufacturer’s instructions and health care provider’s orders.</entry>
+        <entry valign="top" align="center"><term class="no-emphasis" id="term-00010">Verapamil</term><newline/>(<term class="no-emphasis" id="term-00011">Calan SR</term>, <term class="no-emphasis" id="term-00011a">Verelan</term>)</entry>
+        <entry valign="top" align="left"><emphasis effect="italics">Immediate release:</emphasis> 40–120 mg 3 times daily.<newline/><emphasis effect="italics">Sustained release:</emphasis> 180–240 mg daily.<newline/><emphasis effect="italics">IV:</emphasis> Follow manufacturer’s instructions and health care provider’s orders.</entry>
       </row>
       </tbody>
       </tgroup>
@@ -82,7 +82,7 @@
       <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
       Calcium channel blocker<newline count="2"/>
       <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-      Inhibits the influx of calcium ions into vascular smooth muscle and cardiac<newline/>muscle, thereby decreasing peripheral vascular resistance and<newline/>reducing blood pressure
+      Inhibits the influx of calcium ions into vascular smooth muscle and cardiac muscle, thereby decreasing peripheral vascular resistance and reducing blood pressure
       </entry>
       <entry valign="top">
       <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
@@ -163,7 +163,7 @@
       <note class="unfolding-casestudy" id="note-00006">
         <title>Part B</title>
         <para id="para-00008">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
-        <para id="para-00037">Hahn Tran follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnoses her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Hahn about this new drug.</para>
+        <para id="para-00037">Hahn Tran follows up with her health care provider one week later to get the results of her diagnostic studies. The health care provider diagnose her with hypertension stage 2 and starts her on enalapril, an ACE inhibitor. The nurse then teaches Hahn about this new drug.</para>
         <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00038"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec5_UCSQ1"/></para></problem></exercise>
         <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00039"><link class="os-embed" url="#exercise/PHAR_Ch18_Sec5_UCSQ2"/></para></problem></exercise>
         </note>

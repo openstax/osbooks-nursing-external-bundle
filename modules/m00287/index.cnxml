@@ -19,12 +19,10 @@
   <section id="sect-00002">
   <title>Hypertension</title>
   <para id="para-00002">The cardiovascular system transports blood and oxygen throughout the body. Blood flows from a system of higher resistance to one of lower resistance—from arteries to capillaries to veins. Blood pressure (see <link target-id="fig-00001" document="m00287"/>) represents the force that blood flow exerts on arterial walls.</para>
-  <note class="show-data" id="note-00001a">
-  <figure id="fig-00001">
+    <figure id="fig-00001">
   <media alt="The cross sections of an artery and vein show the different elements of an artery and vein. Both arteries and veins have tunica externa, tunica media, tunica intima, smooth muscle, vasa vasorum, and endothelium.  An artery also has an internal elastic membrane, external elastic membrane, nervi vasorum, and elastic fiber.">
   <image mime-type="image/png" src="../../media/PHA_Figure_18_01_002.png"/></media>
   <caption>The walls of the arteries are much thicker than those of the veins because of the higher pressure of the blood that flows through them. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e.</emphasis> attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
-  </note>
   <para id="para-00003">The two elements that determine blood pressure are cardiac output and peripheral vascular resistance. <term id="term-00001">Cardiac output</term> (CO) is the volume of blood pumped by the heart per unit of time, usually measured in liters per minute. The CO is determined by the <term id="term-00002">heart rate</term> (HR), the number of times the heart beats per minute, and <term id="term-00003">stroke volume</term> (SV)—the amount of blood ejected with each heartbeat—and is represented by the following equation: <m:math><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo>×</m:mo><m:mi>SV</m:mi></m:math>.</para>
   <para id="para-00004">Blood pressure is determined by examining both systolic and diastolic blood pressure readings. The <term id="term-00004">systolic blood pressure</term> reading represents the amount of pressure within the arteries when the heart contracts, whereas the <term id="term-00005">diastolic blood pressure</term> reading reflects the amount of pressure when the heart is at rest between beats. The diastolic blood pressure reading, which is the lower pressure within the arteries and vessels, determines the <term id="term-00006">peripheral vascular resistance</term> (also known as systemic vascular resistance) by measuring blood flow and the level of constriction or dilatation within the arteries and vessels. Blood pressure (BP) is measured in millimeters of mercury (mm Hg) and is expressed as the systolic pressure over the diastolic pressure (for instance, 125/90 mm Hg).</para>
   <para id="para-00005">Hypertension occurs when an individual’s blood pressure is above normal limits for a sustained period of time. Hypertension can be either primary (essential) hypertension or secondary hypertension. Primary hypertension is caused by unknown elements; however, some studies have implicated genetics and behavioral and environmental factors, including age, high salt intake, insulin resistance, obesity, high alcohol intake, sedentary lifestyle, smoking, and stress (Aggarwal et al., 2023; Iqbal &amp; Jamal, 2022). According to the Centers for Disease Control and Prevention (n.d.), approximately 116 million adults in the United States have hypertension.</para>
@@ -48,16 +46,16 @@
 
   <section id="sect-00003">
   <title>Grades of Hypertension</title>
-  <para id="para-00012">The American Heart Association (AHA) (n.d.a) reports that prolonged elevation of blood pressure leads to the deterioration of blood vessels. The deterioration of blood vessels is measured by <term class="no-emphasis" id="term-00013">grades of hypertension</term>. Normal blood pressure is a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The chart below from the American College of Cardiology and AHA (see <link target-id="table-00001" document="m00287"/>) demonstrates the blood pressure categories and the readings associated with them.</para>
+  <para id="para-00012">The American Heart Association (AHA) (n.d-a) reports that prolonged elevation of blood pressure leads to the deterioration of blood vessels. The deterioration of blood vessels is measured by <term class="no-emphasis" id="term-00013">grades of hypertension</term>. Normal blood pressure is a systolic reading of less than 120 mm Hg and a diastolic reading of less than 80 mm Hg. Elevated blood pressure and hypertension increase the risk of vascular damage and decrease oxygenation. The chart below from the American College of Cardiology and AHA (see <link target-id="table-00001" document="m00287"/>) demonstrates the blood pressure categories and the readings associated with them.</para>
   <table class="alternate-shading full-width" id="table-00001">
   <title/>
   <tgroup cols="4">
   <thead>
   <row>
-  <entry><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
-  <entry><span class="blue-text"><emphasis>Systolic (mm Hg)</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis>Blood Pressure Category</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis>Systolic (mm Hg)</emphasis></span></entry>
   <entry/>
-  <entry><span class="blue-text"><emphasis>Diastolic (mm Hg)</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Diastolic (mm Hg)</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
@@ -93,7 +91,7 @@
   </row>
   </tbody>
   </tgroup>
-  <caption><emphasis effect="bold">The American College of Cardiology and American Heart Association Categories for Hypertension</emphasis> (source: American Heart Association, https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings; Centers for Disease Control and Prevention, https://www.cdc.gov/bloodpressure/facts.htm)</caption>
+  <caption><emphasis effect="bold">The American College of Cardiology and American Heart Association Categories for Hypertension</emphasis> (sources: American Heart Association, https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings; Centers for Disease Control and Prevention, https://www.cdc.gov/bloodpressure/facts.htm)</caption>
   </table>
   </section>
   <section id="sect-00004">
@@ -119,15 +117,15 @@
 
   <section id="sect-00007">
   <title>Dietary Modification</title>
-  <para id="para-00018">Clients with hypertension should eat a low-sodium diet consisting of whole grains, vegetables, and fruits. Other recommendations include low-fat dairy products and limiting meat intake to about two servings daily of lean meat, such as fish and poultry (Challa &amp; Ameer, 2023). Reducing sweets and red meat is also important. The AHA (n.d.b) recommends 1500 mg to no more than 2300 mg of sodium intake daily. Dietary patterns and nutritional therapy should focus on food preferences, social and cultural influences, and appropriate caloric intake.</para>
+  <para id="para-00018">Clients with hypertension should eat a low-sodium diet consisting of whole grains, vegetables, and fruits. Other recommendations include low-fat dairy products and limiting meat intake to about two servings daily of lean meat, such as fish and poultry (Challa &amp; Ameer, 2023). Reducing sweets and red meat is also important. The AHA (n.d.-b) recommends 1500 mg to no more than 2300 mg of sodium intake daily. Dietary patterns and nutritional therapy should focus on food preferences, social and cultural influences, and appropriate caloric intake.</para>
   </section>
   <section id="sect-00008">
   <title>Physical Activity and Exercise</title>
-  <para id="para-00019">The AHA (n.d.d) recommends 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous aerobic activity weekly. Average time for exercise should be at least 30–40 minutes per session to assist in decreasing blood pressure. If the client cannot do 30–40 minutes of moderate exercise four times a week, the nurse should suggest an alternate exercise plan, emphasizing that some physical activity is better than no physical activity. Physical activity and exercise enhance weight reduction and promote a healthy lifestyle.</para>
+  <para id="para-00019">The AHA (n.d.-d) recommends 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous aerobic activity weekly. Average time for exercise should be at least 30–40 minutes per session to assist in decreasing blood pressure. If the client cannot do 30–40 minutes of moderate exercise four times a week, the nurse should suggest an alternate exercise plan, emphasizing that some physical activity is better than no physical activity. Physical activity and exercise enhance weight reduction and promote a healthy lifestyle.</para>
   </section>
   <section id="sect-00009">
   <title>Smoking Cessation and Reducing Alcohol Consumption</title>
-  <para id="para-00020">Tobacco use is the leading preventable cause of coronary artery disease. Smoking increases sympathetic nervous system activity, which causes vasoconstriction and, therefore, increases blood pressure, heart rate, and myocardial contractility. Although smoking has been established as a known risk factor for cardiovascular disease, its relationship to high blood pressure is still being investigated. Nevertheless, smoking and exposure to secondhand smoke contribute to increased accumulation of fatty deposits within the arteries, which high blood pressure is known to accelerate (AHA, n.d.c).</para>
+  <para id="para-00020">Tobacco use is the leading preventable cause of coronary artery disease. Smoking increases sympathetic nervous system activity, which causes vasoconstriction and, therefore, increases blood pressure, heart rate, and myocardial contractility. Although smoking has been established as a known risk factor for cardiovascular disease, its relationship to high blood pressure is still being investigated. Nevertheless, smoking and exposure to secondhand smoke contribute to increased accumulation of fatty deposits within the arteries, which high blood pressure is known to accelerate (AHA, n.d.-c).</para>
   <para id="para-00021">Alcohol consumption increases blood pressure by increasing the level of the hormone renin in the blood. Renin decreases fluid elimination, causing higher fluid volume in the body and arterial vasoconstriction that results in an increase in blood pressure. Reducing alcohol consumption has been shown to decrease systolic and/or diastolic blood pressure by 5–12 mm Hg (Wake, 2021).</para>
   </section>
   <section id="sect-00010">
@@ -226,7 +224,7 @@
       </row>
       <row>
           <entry valign="top"><emphasis effect="italics">Weight:</emphasis></entry>
-          <entry valign="top">184 pounds</entry>
+          <entry valign="top">184 lb</entry>
 </row>
   </tbody>
   </tgroup>
