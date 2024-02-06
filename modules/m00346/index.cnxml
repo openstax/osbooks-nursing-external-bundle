@@ -25,10 +25,7 @@
     <colspec colnum="2" colname="c2" colwidth="2*"/>
     <colspec colnum="3" colname="c3" colwidth="3*"/>
     <thead>
-    <row>
-    <entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold"><span class="blue-text">Community Health Nurse (CHN) Role in Transitional Care</span></emphasis></entry>
-    </row>
-    <row>
+     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Role</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Description</span></emphasis></entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Client Example</span></emphasis></entry>
@@ -82,7 +79,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Roles of CHN in Transitional Care</caption>
+    <caption>Community Health Nurse Roles in Transitional Care</caption>
     </table>
     <figure class="scaled-down" id="fig-00001">
     <media alt="A person stands between an open car trunk and a small wheeled cart containing various groceries such as juice, milk, and bread.">
@@ -109,39 +106,39 @@
     <colspec colnum="2" colname="c2" colwidth="3*"/>
     <tbody>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Client Assessment</term></entry>
+    <entry valign="top" align="left"><term id="term-00009"><span class="blue-text">Client Assessment</span></term></entry>
     <entry valign="top" align="left">CHNs assess the health needs of individuals, families, or communities. They identify potential health risks and work toward mitigating these risks through education and direct care.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Health Education and Promotion</entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Health Education and Promotion</span></emphasis></entry>
     <entry valign="top" align="left">CHNs educate clients and community members on healthy behaviors and self-care skills, with the goal of promoting a healthy lifestyle and preventing disease. They also provide information about local resources and health services.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Care Planning and <term class="no-emphasis" id="term-00010">Case Management</term></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Care Planning and</emphasis> <term id="term-00010">Case Management</term></span></entry>
     <entry valign="top" align="left">CHNs develop and implement care plans based on assessments. They manage cases, coordinating services across different health care providers and community resources, to ensure clients receive comprehensive care that addresses their unique health needs.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Advocacy</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Advocacy</emphasis></span></entry>
     <entry valign="top" align="left">CHNs advocate for individual and community health needs, helping clients navigate the health care system, understand their rights, and access necessary resources and services.</entry>
     </row>
     <row>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Collaboration</term></entry>
+    <entry valign="top" align="left"><term id="term-00011"><span class="blue-text">Collaboration</span></term></entry>
     <entry valign="top" align="left">CHNs work collaboratively with other health care providers, social workers, educators, and community organizations to improve the overall health of the community. This includes attending multidisciplinary team meetings and contributing to community health strategies.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Monitoring and Evaluation</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Monitoring and Evaluation</emphasis></span></entry>
     <entry valign="top" align="left">CHNs monitor the health status of clients and communities, evaluate the effectiveness of interventions, and adjust care plans as needed. They also identify trends and potential gaps in care and work to address them.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Cultural Competency</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Cultural Competency</emphasis></span></entry>
     <entry valign="top" align="left">CHNs must understand and respect the diverse cultural backgrounds, beliefs, and values of their clients. They incorporate cultural considerations into care planning and delivery, fostering a more individualized and effective approach to care.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Research and <term class="no-emphasis" id="term-00012">Evidence-Based Practice</term></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Research and</emphasis> <term id="term-00012">Evidence-Based Practice</term></span></entry>
     <entry valign="top" align="left">CHNs apply evidence-based practices and use research to inform their care strategies. They may also participate in community health research to further knowledge and improve care services.</entry>
     </row>
     <row>
-    <entry valign="top" align="left">Ethical Practice</entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Ethical Practice</emphasis></span></entry>
     <entry valign="top" align="left">CHNs must adhere to professional nursing ethics and maintain client privacy and confidentiality at all times.</entry>
     </row>
     </tbody>
@@ -181,7 +178,7 @@
     </section>
     <section id="sect-00007">
     <title>Access to Care after Discharge</title>
-    <para id="para-00015">Caregivers must ensure that clients have access to necessary medications and durable medical equipment such as nebulizers, walkers, wheelchairs, and home oxygen. It’s also crucial for clients to properly fill, pick up, and take their medications. Weir et al. (2020) found that almost half of all clients did not adhere to some or all changes made to their medications at hospital discharge and that clients who did not adhere to any of their medication changes had a significantly higher risk of adverse events compared to those did.</para>
+    <para id="para-00015">Caregivers must ensure that clients have access to necessary medications and durable medical equipment such as nebulizers, walkers, wheelchairs, and home oxygen. It’s also crucial for clients to properly fill, pick up, and take their medications. Weir et al. (2020) found that almost half of all clients did not adhere to some or all changes made to their medications at hospital discharge and that clients who did not adhere to any of their medication changes had a significantly higher risk of adverse events compared to those who did.</para>
     <para id="para-00016">Access to a pharmacy is also important for clients to adhere to their medication regimen after discharge. Research has shown that fewer clients obtained their medications when given a prescription compared to when they were given the medications directly during a hospital visit. There are programs that aim to improve medication access and reduce readmission rates. For example, the <term class="no-emphasis" id="term-00018">Medication REACH</term> program provided uninsured clients with free medications for the first 30 days after discharge. A study conducted at Einstein Medical Center in Philadelphia found that clients in the program had a lower readmission rate compared to those in the control group (American Society of Health-System Pharmacists and American Pharmacists Association, 2013).</para>
     <para id="para-00017">Some health care facilities have started delivering medications to clients at their bedside before discharge (Katz et al., 2020). This approach, along with follow-up phone calls a few days later, has been found to significantly reduce readmission rates compared to standard care (Katz et al., 2020). Bedside medication delivery can help overcome initial barriers to medication access and address any insurance or medication-related issues before the client leaves the hospital.</para>
     </section>
@@ -213,7 +210,7 @@
     <title>Quality Through Care Coordination and Transition Management</title>
     <para id="para-00027">The main goal of transitional care models is to create a care plan that meets the specific needs of each client and provides continuous care across different settings. This involves organizing practical arrangements, educating clients and their families, and coordinating services during transitions.</para>
     <para id="para-00028">Nurses are often at the forefront of quality improvement initiatives. They can actively participate in <term class="no-emphasis" id="term-00030">interprofessional teams</term>, contribute to the development of care protocols and standards, and provide valuable feedback based on their firsthand experiences. Nurses are directly responsible for monitoring and assessing clients and performing immediate interventions to reduce risk or prevent medical complications. Nurses also oversee other care providers, such as <term class="no-emphasis" id="term-00031">certified nursing assistants (CNAs)</term>, <term class="no-emphasis" id="term-00032">licensed practical nurses (LPNs)</term>, patient care technicians, caregivers, and more. A nurse educates clients and family members regarding post-hospital care before discharge. Nurses’ keen observations and drive for client safety at each of these intersections can contribute to quality improvement.</para>
-    <para id="para-00029">Quality improvement initiatives around transitions of care must be interprofessional and can be led by nurses. The areas for improvement can be around the care planning and include the following steps that could be optimized.</para>
+    <para id="para-00029">Quality improvement initiatives around transitions of care must be interprofessional and can be led by nurses. The areas for improvement can be around the care planning and include the following steps that could be optimized:</para>
     <list list-type="bulleted" id="list-00004">
     <item>Assessment: The transitional care nurse, who specializes in caring for clients with chronic conditions like heart disease, stroke, COPD, cancer, and diabetes, begins by evaluating the client’s health status and behaviors, the level of care and support needed, and their health goals.</item>
     <item>Accumulating Data: The nurse collects all the necessary information and enters it into the health care provider’s electronic medication administration record (eMAR) system. This data is used to develop a personalized care plan for the client.</item>
@@ -334,7 +331,7 @@
     <para id="para-00076">Mansukhani, R. P., Bridgeman, M. B., Candelario, D., &amp; Eckert, L. J. (2015). Exploring transitional care: Evidence-based strategies for improving provider communication and reducing readmissions. <emphasis effect="italics">P &amp; T: A Peer-Reviewed Journal for Formulary Management</emphasis>, <emphasis effect="italics">40</emphasis>(10), 690–694.</para>
     <para id="para-00077">Marcotte, L., Kirtane, J., Lynn, J., &amp; McKethan, A. (2015). Integrating health information technology to achieve seamless care transitions. <emphasis effect="italics">Journal of Patient Safety, 11</emphasis>(4), 185–190. https://www.jstor.org/stable/26633097</para>
     <para id="para-00078">McIlvennan, C. K., Eapen, Z. J., &amp; Allen, L. A. (2015). Hospital readmissions reduction program. <emphasis effect="italics">Circulation</emphasis>, <emphasis effect="italics">131</emphasis>(20), 1796–1803. https://doi.org/10.1161/CIRCULATIONAHA.114.010270</para>
-    <para id="para-00079">Mueller SK, Sponsler KC, Kripalani S, Schnipper JL. Hospital-Based Medication Reconciliation Practices: A Systematic Review. Arch Intern Med. (2012).172(14):1057–1069. doi:10.1001/archinternmed.2012.2246</para>
+    <para id="para-00079">Mueller SK, Sponsler KC, Kripalani S, Schnipper JL. Hospital-Based Medication Reconciliation Practices: A Systematic Review. Arch Intern Med. (2012). 172(14):1057–1069. doi:10.1001/archinternmed.2012.2246</para>
     <para id="para-00080">National Alliance for Suicide Prevention. (2019). <emphasis effect="italics">Best practices in care transitions for individuals with suicide risk: Inpatient care to outpatient care</emphasis>. https://www.samhsa.gov/sites/default/files/suicide-risk-practices-in-care-transitions-11192019.pdf</para>
     <para id="para-00081">National Institute of Mental Health. (2019). Transition to Mental Health Care. https://www.nimh.nih.gov/health/topics/getting-help-locate-services/transition-to-mental-health-care.shtml</para>
     <para id="para-00082">Naylor, M. D., Brooten, D. A., Campbell, R. L., Maislin, G., McCauley, K. M., &amp; Schwartz, J. S. (2004). Transitional care of older adults hospitalized with heart failure: A randomized, controlled trial. <emphasis effect="italics">Journal of the American Geriatrics Society, 52</emphasis>(5), 675–684. https://doi.org/10.1111/j.1532-5415.2004.52202.x</para>
