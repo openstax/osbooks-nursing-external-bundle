@@ -43,6 +43,12 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <colspec colnum="2" colname="c2" colwidth="2*"/>
+    <thead>
+      <row>
+        <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Nursing Leaders</emphasis></span></entry>
+                 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Changes for Which They Advocated</emphasis></span></entry> 
+                 </row>
+    </thead>
     <tbody>
     <row>
     <entry valign="top" align="left">Florence Nightingale</entry>
@@ -52,12 +58,12 @@
     </row>
     <row>
     <entry valign="top" align="left">Dorothea Dix</entry>
-    <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>An activist for mental health care and prison reform who exposed inhumane housing. Petitioned the state legislature in Massachusetts in 1843 to finance training programs for nurses to expand mental health facilities</item>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>An activist for mental health care and prison reform who exposed inhumane housing.</item> <item>Petitioned the state legislature in Massachusetts in 1843 to finance training programs for nurses to expand mental health facilities</item>
      <item>Advocated for the establishment of mental hospitals in Canada, England, and European countries</item></list></entry>
     </row>
     <row>
     <entry valign="top" align="left">Mary Eliza Mahoney</entry>
-    <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>First African American nurse to graduate from a school of nursing, in 1879</item>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>First Black nurse to graduate from a school of nursing, in 1879</item>
       <item>A passionate advocate for racial equality in nursing and active in the women’s suffrage movement</item>
 <item>Cofounded the National Association of Colored Graduate Nurses</item></list></entry>
     </row>
@@ -65,7 +71,7 @@
     <entry valign="top" align="left">Sojourner Truth</entry>
     <entry valign="top" align="left"><list list-type="bulleted" id="list-00007"><item>Born into slavery and escaped in 1826 with her newborn daughter</item>
       <item>Worked to abolish slavery</item>
-<item>Advocated for health and human rights for women and African Americans</item>
+<item>Advocated for health and human rights for women and Black people</item>
 <item>Advocated for policies to educate and train nurses</item></list></entry>
     </row>
     <row>
@@ -120,7 +126,7 @@
     <iframe width="560" height="315" src="https://openstax.org/r/lgbtqicultural"/>
     </media>
     <para id="para-00013">In this video, Sarah Rosso, the executive director of the Hugh Lane Wellness Foundation and mental health advocate and ally, explains how LGBTQIA+ cultural competence supports clients’ mental health.</para>
-    <para id="para-00016">Watch the video, and then respond to the following questions:</para>
+    <para id="para-00016">Watch the video, and then respond to the following questions.</para>
     <list list-type="enumerated" number-style="arabic" id="list-00003">
     <item>Why does Sarah advocate for LGBTQIA+ cultural competency training among the community partners and organizations that work with their organization?</item>
     <item>How can communities reduce the impact of suicide on LGBTQIA+ youth?</item>
@@ -129,7 +135,7 @@
     </note>
        </section>
     <section class="section-summary" id="sect-00006">
-    <para id="para-00014">Nurses have have an ethical responsibility to advocate for change to support populations most at risk for inequities. Nurse advocates work to address the social determinants of health that create health disparities among populations. The nursing profession can act to reduce disparities and advance health through advocacy at many levels.</para>
+    <para id="para-00014">Nurses have an ethical responsibility to advocate for change to support populations most at risk for inequities. Nurse advocates work to address the social determinants of health that create health disparities among populations. The nursing profession can act to reduce disparities and advance health through advocacy at many levels.</para>
     </section>
     </content>
     <glossary>
