@@ -44,91 +44,91 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Noncommunicable</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Noncommunicable</emphasis></span></entry>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Diseases of heart</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Diseases of heart</emphasis></span></entry>
 <entry valign="top" align="center">1</entry>
 <entry valign="top" align="center">694,619</entry>
 <entry valign="top" align="center">278.1</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Malignant neoplasms</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Malignant neoplasms</emphasis></span></entry>
 <entry valign="top" align="center">2</entry>
 <entry valign="top" align="center">603,484</entry>
 <entry valign="top" align="center">241.6</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Accidents</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Accidents</emphasis></span></entry>
 <entry valign="top" align="center">4</entry>
 <entry valign="top" align="center">215,485</entry>
 <entry valign="top" align="center">86.3</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Cerebrovascular disease</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Cerebrovascular disease</emphasis></span></entry>
 <entry valign="top" align="center">5</entry>
 <entry valign="top" align="center">162,577</entry>
 <entry valign="top" align="center">65.1</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Chronic lower respiratory diseases</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chronic lower respiratory diseases</emphasis></span></entry>
 <entry valign="top" align="center">6</entry>
 <entry valign="top" align="center">142,136</entry>
 <entry valign="top" align="center">56.9</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Alzheimer’s disease</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Alzheimer’s disease</emphasis></span></entry>
 <entry valign="top" align="center">7</entry>
 <entry valign="top" align="center">119,398</entry>
 <entry valign="top" align="center">47.8</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Diabetes</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Diabetes</emphasis></span></entry>
 <entry valign="top" align="center">8</entry>
 <entry valign="top" align="center">103,135</entry>
 <entry valign="top" align="center">41.3</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Chronic liver disease and cirrhosis</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chronic liver disease and cirrhosis</emphasis></span></entry>
 <entry valign="top" align="center">9</entry>
 <entry valign="top" align="center">56,576</entry>
 <entry valign="top" align="center">22.7</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Nephritis, nephrotic syndrome, and nephrosis</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Nephritis, nephrotic syndrome, and nephrosis</emphasis></span></entry>
 <entry valign="top" align="center">10</entry>
 <entry valign="top" align="center">54,283</entry>
 <entry valign="top" align="center">21.7</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Intentional self-harm (suicide)</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Intentional self-harm (suicide)</emphasis></span></entry>
 <entry valign="top" align="center">11</entry>
 <entry valign="top" align="center">45,229</entry>
 <entry valign="top" align="center">18.1</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Essential hypertension and hypertensive renal disease</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Essential hypertension and hypertensive renal disease</emphasis></span></entry>
 <entry valign="top" align="center">12</entry>
 <entry valign="top" align="center">42,806</entry>
 <entry valign="top" align="center">17.1</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Communicable</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Communicable</emphasis></span></entry>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">COVID-19</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">COVID-19</emphasis></span></entry>
 <entry valign="top" align="center">3</entry>
 <entry valign="top" align="center">416,252</entry>
 <entry valign="top" align="center">166.7</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Influenza and pneumonia</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Influenza and pneumonia</emphasis></span></entry>
 <entry valign="top" align="center">13</entry>
 <entry valign="top" align="center">41,653</entry>
 <entry valign="top" align="center">16.7</entry>
@@ -139,7 +139,7 @@
 </table>
 <section id="sect-00004">
 <title>Coronary Artery Disease</title>
-<para id="para-00005"><term class="no-emphasis" id="term-00002">Coronary artery disease (CAD)</term>, also called coronary heart disease or ischemic heart disease (CDC, 2021j), occurs when plaque buildup in the wall of the coronary arteries (atherosclerosis) decreass blood supply to the heart. Risk factors for CAD include being overweight, eating poorly, and smoking tobacco. CAD also has genetic connections, particularly a family history of heart disease before age 50. For many, the first indicator of CAD is a heart attack.</para>
+<para id="para-00005"><term class="no-emphasis" id="term-00002">Coronary artery disease (CAD)</term>, also called coronary heart disease or ischemic heart disease (CDC, 2021j), occurs when plaque buildup in the wall of the coronary arteries (atherosclerosis) decreases blood supply to the heart. Risk factors for CAD include being overweight, eating poorly, and smoking tobacco. CAD also has genetic connections, particularly a family history of heart disease before age 50. For many, the first indicator of CAD is a heart attack.</para>
 </section>
 <section id="sect-00005">
 <title>Cancer</title>
@@ -351,7 +351,7 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 </section>
 <section id="sect-00018">
 <title>Secondary Prevention</title>
-<para id="para-00038"><term class="no-emphasis" id="term-00024">Secondary prevention</term> is critical for detecting and treating diseases early before they progress and cause significant harm. Screening tests, diagnostic tests, and routine health exams are essential for early detection and treatment of diseases. View the <link url="https://openstax.org/r/highmarkprc">2023 Adult Preventive Health Guidelines: Ages 19 through 64 Years</link> for specific information (Highmark, 2023a). Here are some examples of secondary prevention strategies for adults:</para>
+<para id="para-00038"><term class="no-emphasis" id="term-00024">Secondary prevention</term> is critical for detecting and treating diseases early, before they cause significant harm. Screening tests, diagnostic tests, and routine health exams are essential for early detection and treatment of diseases. View the <link url="https://openstax.org/r/highmarkprc">2023 Adult Preventive Health Guidelines: Ages 19 through 64 Years</link> for specific information (Highmark, 2023a). Examples of secondary prevention strategies for adults include:</para>
 <list list-type="bulleted" id="list-00013">
 <item>Cancer screening: Screenings for cancer, such as mammograms, colonoscopies, and Pap tests, can detect cancers at its earliest stages, when treatment is most effective.</item>
 <item>Cardiovascular disease screenings: Regular blood pressure and cholesterol screenings can detect early signs of cardiovascular disease, allowing for early intervention and treatment.</item>
@@ -366,12 +366,12 @@ A document with statistics by age group, sex, race, ethnicity, and geographic re
 </section>
 <section id="sect-00019">
 <title>Tertiary Prevention</title>
-<para id="para-00041"><term class="no-emphasis" id="term-00025">Tertiary prevention</term> focuses on preventing further complications and improving the quality of life for adults who are already living with a chronic disease or condition. Here are some examples of tertiary prevention strategies for adults:</para>
+<para id="para-00041"><term class="no-emphasis" id="term-00025">Tertiary prevention</term> focuses on preventing further complications and improving the quality of life for adults who are living with a chronic disease or condition. Some examples of tertiary prevention strategies for adults include:</para>
 <list list-type="bulleted" id="list-00014">
 <item><term class="no-emphasis" id="term-00026">Disease management</term> programs: Disease management or disease self-management programs are designed to help adults with chronic diseases manage their condition and prevent progression or complications. They may include education, lifestyle changes, medication management, and support groups.</item>
 <item><term class="no-emphasis" id="term-00027">Rehabilitation</term> programs: Rehabilitation programs, such as physical therapy and occupational therapy, can help adults regain strength and function following an illness or injury.</item>
 <item><term class="no-emphasis" id="term-00028">Chronic pain management</term>: Chronic pain management programs can help adults manage their pain and improve their quality of life. These may include medication management, therapies, and psychological support.</item>
-<item><term class="no-emphasis" id="term-00029">Palliative care</term>: Palliative care is specialized medical care for those living with a serious illness, such as cancer or heart failure. It is not meant to cure the disease itself, but instead to provide care for their symptoms to allow them to focus on their quality of life. Palliative care can be provided along with curative treatment (National Institute on Aging, 2021).</item>
+<item><term class="no-emphasis" id="term-00029">Palliative care</term>: Palliative care is specialized medical care for those living with a serious illness, such as cancer or heart failure. It is meant to provide symptom care to allow them to focus on their quality of life. Palliative care can be provided along with curative treatment (National Institute on Aging, 2021).</item>
 <item><term class="no-emphasis" id="term-00030">End-of-life care</term>: End-of-life care is often also known as hospice care. It focuses on the care, comfort, and quality of life of a person with a serious illness who is approaching the end of life. Attempts to cure a person’s illness are no longer used (National Institute on Aging, 2021).</item>
 <item><term class="no-emphasis" id="term-00031">Mental health support</term>: Mental health support may include therapy and support groups to assist adults and their families in coping with emotional and psychological effects of diseases.</item>
 </list>

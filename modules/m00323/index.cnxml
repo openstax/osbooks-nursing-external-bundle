@@ -142,7 +142,7 @@ Ages 15 to 19</entry>
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Environmental</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Environmental</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00011">
 <item>Exposure to lead</item>
@@ -168,7 +168,7 @@ Ages 15 to 19</entry>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Social</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Social</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00014">
 <item>Poverty and low socioeconomic status</item>
@@ -194,7 +194,7 @@ Ages 15 to 19</entry>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Physical</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Physical</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00017">
 <item>Prenatal and perinatal factors</item>
@@ -232,7 +232,7 @@ Ages 15 to 19</entry>
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <tbody>
-<row>
+<row class="header-row">
 <entry valign="middle" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Circumstances That Increase Suicide Risk</span></emphasis></entry>
 </row>
 <row>
@@ -287,7 +287,7 @@ Ages 15 to 19</entry>
 </list>
 </entry>
 </row>
-<row>
+<row class="header-row">
 <entry valign="middle" align="left" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Circumstances That Protect Against Suicide Risk</span></emphasis></entry>
 </row>
 <row>
@@ -358,7 +358,7 @@ Ages 15 to 19</entry>
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Preschool</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Preschool</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00028">
 <item>Regular health screenings and vaccinations</item>
@@ -387,7 +387,7 @@ Ages 15 to 19</entry>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">School Age</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">School Age</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00031">
 <item>All topics listed above</item>
@@ -413,7 +413,7 @@ Ages 15 to 19</entry>
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">Adolescent</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Adolescent</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00034">
 <item>All topics listed above</item>
