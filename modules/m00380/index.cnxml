@@ -144,7 +144,7 @@
   <entry valign="top" morerows="1"> </entry>
   <entry valign="top">PaCO<sub>2</sub></entry>
   <entry valign="top">35–45&#160;mm&#160;Hg</entry>
- </row>
+  </row>
   <row>                                
   <entry valign="top">PaO<sub>2</sub></entry>
   <entry valign="top">75–100&#160;mm&#160;Hg</entry>
@@ -174,13 +174,13 @@
   (1 hour) &lt;180 mg/dL<newline/>
   (2 hours) &lt;140&#160;mg/dL</entry>
   <entry valign="top">Monocytes</entry>
-  <entry valign="top">4,000–11,000 cells/mcL</entry>
+  <entry valign="top">4000–11,000 cells/mcL</entry>
   </row>
   <row>
   <entry valign="top">ALT</entry>
   <entry valign="top">10–40&#160;units/L</entry>
   <entry valign="top">Neutrophils</entry>
-  <entry valign="top">2,000–8,250 cells/mcL</entry>
+  <entry valign="top">2000-8250 cells/mcL</entry>
   </row>
   <row>
   <entry valign="top">Ammonia</entry>
@@ -291,15 +291,15 @@
   <entry valign="top">Lymphocytes</entry>
   <entry valign="top">20–40 × 10<sup>9</sup>/L</entry>
   <entry valign="top">WBC</entry>
-  <entry valign="top">5,000–10,000/mL</entry>
+  <entry valign="top">5000–10,000/mL</entry>
   </row>
   <row>
   <entry valign="top">GFR</entry>
-  <entry valign="top">=90 mL/minute</entry>
+  <entry valign="top">&#8805;90 mL/minute</entry>
   <entry valign="top">Magnesium</entry>
   <entry valign="top">1.6–2.6&#160;mEq/L</entry>
-  <entry valign="top">WBC</entry>
-  <entry valign="top">5,000–10,000/mL</entry>
+  <entry valign="top"></entry>
+  <entry valign="top">mL</entry>
   </row>
   <row>
   <entry namest="c1" nameend="c8" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Miscellaneous Tests</span></emphasis></entry>
@@ -319,58 +319,50 @@
   <row>
   <entry valign="top">Bacteria</entry>
   <entry valign="top">Negative</entry>
-  <entry valign="top" morerows="6"> </entry>
-  <entry valign="top">Glucose</entry>
-  <entry valign="top">Negative</entry>
-  <entry valign="top" morerows="6"> </entry>
-  <entry valign="top">Specific gravity</entry>
-  <entry valign="top">1.002</entry>
+  <entry valign="top" morerows="5"> </entry>
+  <entry valign="top">Color</entry>
+  <entry valign="top">Yellow–amber</entry>
+  <entry valign="top" morerows="5"> </entry>
+  <entry valign="top">pH</entry>
+  <entry valign="top">4.5–8.0</entry>
   </row>
   <row>
   <entry valign="top">Bilirubin</entry>
   <entry valign="top">Negative</entry>
+  <entry valign="top">Glucose</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">Protein</entry>
+  <entry valign="top">&#8804;150&#160;mg/dL</entry>
+  </row>
+  <row>
+  <entry valign="top">Blood</entry>
+  <entry valign="top">Negative</entry>
   <entry valign="top">Ketones</entry>
+  <entry valign="top">Negative</entry>
+  <entry valign="top">Specific gravity</entry>
+  <entry valign="top">1.002</entry>
+  </row>
+  <row>
+  <entry valign="top">Casts</entry>
+  <entry valign="top">0–5 HPF</entry>
+  <entry valign="top">Leukocytes</entry>
   <entry valign="top">Negative</entry>
   <entry valign="top">WBC</entry>
   <entry valign="top">0–5 HPF</entry>
   </row>
   <row>
-  <entry valign="top">Blood</entry>
-  <entry valign="top">Negative</entry>
-  <entry valign="top">Leukocytes</entry>
+  <entry valign="top">Clarity</entry>
+  <entry valign="top">Clear</entry>
+  <entry valign="top">Nitrates</entry>
   <entry valign="top">Negative</entry>
   <entry valign="top">Yeast</entry>
   <entry valign="top">Negative</entry>
-  </row>
-  <row>
-  <entry valign="top">Casts</entry>
-  <entry valign="top">0–5 HPF</entry>
-  <entry valign="top">Nitrates</entry>
-  <entry valign="top">Negative</entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  </row>
-  <row>
-  <entry valign="top">Clarity</entry>
-  <entry valign="top">Clear</entry>
-  <entry valign="top">pH</entry>
-  <entry valign="top">4.5–8.0</entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
-  </row>
-  <row>
-  <entry valign="top">Color</entry>
-  <entry valign="top">Yellow–amber</entry>
-  <entry valign="top">Protein</entry>
-  <entry valign="top">&#8804;150&#160;mg/dL</entry>
-  <entry valign="top"> </entry>
-  <entry valign="top"> </entry>
   </row>
   </tbody>
   </tgroup>
   <caption><emphasis effect="bold">Common Lab Values</emphasis> (sources: https://www.abim.org/Media/bfijryql/laboratory-reference-ranges.pdf; https://www.ncbi.nlm.nih.gov/books/NBK536919/; https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count; https://emedicine.medscape.com/article/2074001-overview; https://www.ncbi.nlm.nih.gov/books/NBK557685/; https://www.ncbi.nlm.nih.gov/books/NBK532915/)</caption>
   </table>
-  <para id="para-00002"><emphasis effect="bold">Note:</emphasis> The reference values provided in these tables should be used as guidelines only, as they can vary by testing laboratory, instrument type, and demographics of the healthy client population used for comparison. Always use your facility’s lab value guidelines for interpretation or testing. In the Next Generation NCLEX exams, assessment items that contain a numeric laboratory value will include the corresponding normal reference range. See <link url="https://openstax.org/r/healthharvaed">NCLEX FAQs</link>.</para>
+  <para id="para-00002"><emphasis effect="bold">Note:</emphasis> The reference values provided in these tables should be used as guidelines only,as they can vary by testing laboratory, instrument type, and demographics of the healthy client population used for comparison. Always use your facility’s lab value guidelines for interpretation or testing. In the Next Generation NCLEX exams, assessment items that contain a numeric laboratory value will include the corresponding normal reference range. See <link url="https://openstax.org/r/healthharvaed">NCLEX FAQs</link>.</para>
   </section>
   </content>
   </document>
