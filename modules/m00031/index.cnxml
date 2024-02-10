@@ -22,12 +22,12 @@
 <figure class="scaled-down" id="fig-00001"><media alt="The primary glands of the endocrine system are the hypothalamus, anterior pituitary, and posterior pituitary (located near the brain); thyroid gland and parathyroid gland (located in the neck); adrenal glands, pancreas, uterus, and ovaries (located in the abdomen); and testes (located in the groin)."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_002.png"/></media>
 <caption>The endocrine system is comprised of the central glands, found in the brain, and peripheral glands found in other parts of the body. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
 <para id="para-00004">Nutrition plays a vital role in maintaining homeostasis and affecting hormone functions. Overall, a balanced diet with limited ultra-processed food, a variety of fruits and vegetables, whole grains, and lean protein sources is important for endocrine health. This diet helps individuals maintain a healthy weight and decrease the risk for hormonal imbalances. <link target-id="table-00001" document="m00031"/> lists the glands that play a key role in secreting and regulating hormones and related nutritional factors.</para>
-<table class="vertically-tight" id="table-00001">
+<table class="vertically-tight alternate shading" id="table-00001">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Gland</span></entry>
@@ -74,7 +74,7 @@
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Thyroid</term></entry>
 <entry valign="top" align="left">Controls metabolism, heart and digestive function, mood, and muscle and bone development</entry>
-<entry valign="top" align="left">Adequate iodine intake through iodinated salt, fish, shellfish, dairy, seaweed</entry>
+<entry valign="top" align="left">Adequate iodine intake through iodized salt, fish, shellfish, dairy, seaweed</entry>
 </row>
 </tbody>
 </tgroup>
@@ -83,7 +83,7 @@
 </section>
 <section id="sect-00003">
 <title>Alterations in Endocrine System Function</title>
-<para id="para-00006">Endocrine disorders develop in one of two ways. <term id="term-00013">Primary endocrine disorders</term> result from problems with the peripheral glands, while <term id="term-00014">secondary endocrine disorders</term> result when the pituitary gland is either over or under stimulated by the hypothalamus causing an alteration in the peripheral gland’s function. The result of all endocrine disorders is either hyper-functioning or hypo-functioning of the affected gland.</para>
+<para id="para-00006">Endocrine disorders develop in one of two ways. <term id="term-00013">Primary endocrine disorders</term> result from problems with the peripheral glands, while <term id="term-00014">secondary endocrine disorders</term> result when the pituitary gland is either overstimulated or understimulated by the hypothalamus causing an alteration in the peripheral gland’s function. The result of all endocrine disorders is either hyper-functioning or hypo-functioning of the affected gland.</para>
 <section id="sect-00004">
 <title>Alterations in Endocrine System Function – Diabetes</title>
 <para id="para-00007">The most prevalent endocrine disorder is diabetes (Agency for Healthcare Research and Quality, n.d.). It is estimated that 37.3 million Americans have diabetes, with approximately 8.5 million cases (23%) undiagnosed (National Institute of Diabetes and Digestive and Kidney Diseases, 2023). Diabetes  develops when the body is not able to maintain adequate blood glucose control (Sapra &amp; Bhandari, 2023). <term id="term-00016">Type 1 diabetes</term> typically develops early in life and occurs when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin. <term id="term-00017">Type 2 diabetes</term> results from insulin resistance that develops gradually from obesity and aging. The insufficient amount of insulin (type 1 diabetes) and/or functionally ineffective amounts of insulin (type 2 diabetes) result in elevated blood glucose levels.</para>
@@ -105,9 +105,9 @@
 <section id="sect-00007">
 <title>Health History and Physical Assessment</title>
 <para id="para-00013">Taking a client’s <term class="no-emphasis" id="term-00025">health history</term> is the first step when assessing the client’s endocrine system. In addition to general health history questions, it is important to identify conditions for which the client may be at risk and to assess the need for genetic testing (Bickley et al., 2021). When collecting information on the client’s nutritional status for potential effects on the endocrine system, the nurse should ask about changes in appetite, thirst and fluid intake, and bowel function. It is also important to know if the client has experienced any changes in weight or energy levels.</para>
-<para id="para-00014">After obtaining a thorough health history, a physical assessment should be performed to look for signs of endocrine dysfunction.</para>
+<para id="para-00014">After obtaining a thorough health history, a physical assessment should be performed to look for signs of endocrine dysfunction:</para>
 <list list-type="bulleted" id="list-00002">
-<item>Inspect the body looking for abnormal hair growth, skin changes, and abnormal body proportions.</item>
+<item>Inspect the body, looking for abnormal hair growth, skin changes, and abnormal body proportions.</item>
 <item>Auscultate heart sounds for rate and rhythm as some endocrine disorders cause tachydysrhythmias. Also listen over the carotid arteries and directly over the thyroid gland for any bruits.</item>
 <item>Palpate the thyroid gland (<link target-id="fig-00002" document="m00031"/>), adrenal glands, and testes for tenderness, size, symmetry, and shape, looking for any nodules, enlargement, or changes in texture.</item>
 <item>Assess weight, height, and body mass index (BMI) for any changes in body composition.</item>
@@ -116,7 +116,7 @@
 <item>Perform point-of-care blood glucose testing (Bickley et al., 2021).</item>
 </list>
 <figure class="scaled-down" id="fig-00002"><media alt="An anterior view of the thyroid gland. The thyroid gland is a butterfly-shaped gland wrapped around the trachea. It narrows at its center, just under the thyroid cartilage of the larynx. This narrow area is called the isthmus of the thyroid. Two large arteries, the common carotid arteries, run parallel to the trachea on the outer border of the thyroid. A small artery enters the superior edge of the thyroid, near the isthmus, and branches throughout the two “wings” of the thyroid."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_003.png"/></media>
-<caption>Anterior view of the thyroid gland and adjacent structures. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+<caption>As part of the physical assessment, the nurse should palpate the thyroid gland and adjacent structures, shown here in anterior view. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
 </section>
 <section id="sect-00008">
 <title>Laboratory Tests for Endocrine Functioning</title>
@@ -151,7 +151,7 @@
 <entry valign="top" align="left">Elevated level consistent with diabetes</entry>
 </row>
 <row>
-<entry valign="top" align="left">Hemoglobin A1C</entry>
+<entry valign="top" align="left">Hemoglobin A1C (HbA1c)</entry>
 <entry valign="top" align="left">4.7–8.5%</entry>
 <entry valign="top" align="left">Elevated levels consistent with diabetes</entry>
 </row>
@@ -169,7 +169,7 @@
 <row>
 <entry valign="top" align="left">Urinary free cortisol measurement</entry>
 <entry valign="top" align="left">&lt; 90 mcg (micrograms)/24 hours</entry>
-<entry valign="top" align="left">Elevated levels consistent with Cushing’s/syndrome</entry>
+<entry valign="top" align="left">Elevated levels consistent with Cushing’s syndrome</entry>
 </row>
 </tbody>
 </tgroup>
@@ -183,7 +183,7 @@
 <figure class="scaled-down" id="fig-00003"><media alt="A woman with a goiter, which is an extreme, irregular swelling on the anterior side of the neck."><image mime-type="image/jpg" src="../../media/NUT_Figure_07_01_004.jpg"/></media>
 <caption>Iodine deficiencies can lead to goiter, an enlarged thyroid. (credit: “Goitre” by Almazi/ Wikimedia Commons, Public Domain)</caption></figure>
 <para id="para-00017">A thorough analysis of the client’s nutrition status can help identify potential endocrine-related issues. The nurse should review the nutritional assessment to identify any nutrient-related deficiencies. For example, a client with limited fruit and vegetable consumption is at risk for <term class="no-emphasis" id="term-00030">vitamin C deficiency</term>. Vitamin C deficiency is associated with multiple health problems. Specifically related to the endocrine system, vitamin C affects the regulation of several important hormones including insulin growth factor and sex steroids (Shi, Rath, &amp; Niedzwiecki, 2021). Conversely, when evaluating the client’s nutrition status, there is potential to find excessive intake of nutrients. For example, a diet with excessive carbohydrate intake can increase blood glucose levels in individuals contributing to the development of insulin resistance and diabetes. Once nutritional imbalances are identified, the nurse can work with the client to make dietary changes and reduce the risk for developing endocrine disorders (Bickley et al., 2021). <link target-id="table-00003" document="m00031"/> lists signs and symptoms of common endocrine disorders and their corresponding nutritional factors.</para>
-<table class="vertically-tight" id="table-00003">
+<table class="vertically-tight alternate shading" id="table-00003">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -220,7 +220,7 @@
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00037">Cushing’s disease/syndrome</term></entry>
 <entry valign="top" align="left">Weight gain, especially in the face, neck, and abdomen, thinning skin, easy bruising, slow healing of wounds, muscle weakness, fatigue</entry>
-<entry valign="top" align="left">Controlled sodium diet and low carbohydrate diet is beneficial</entry>
+<entry valign="top" align="left">Controlled sodium diet and low-carbohydrate diet is beneficial</entry>
 </row>
 </tbody>
 </tgroup>
@@ -247,7 +247,7 @@
 <note class="unfolding-casestudy" id="note-00004">
 <title>Part A</title>
 <para id="para-00010">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
-<para id="para-00022">Meena, a 44-year-old Indian American female was recently diagnosed with hypothyroidism and type 2 diabetes. She has a history of class 1 obesity, with a BMI of 33. Meena lives alone and works as an office administrator . Her hobbies include reading, watching movies, and cooking. Meena presents to the clinic complaining of fatigue and feeling cold even in warm temperatures.</para>
+<para id="para-00022">Meena, a 44-year-old Indian American female was recently diagnosed with hypothyroidism and type 2 diabetes. She has a history of class 1 obesity, with a BMI of 33. Meena lives alone and works as an office administrator. Her hobbies include reading, watching movies, and cooking. Meena presents to the clinic complaining of fatigue and feeling cold even in warm temperatures.</para>
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00023"><link class="os-embed" url="#exercise/NUT_Ch07_Sec01_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch07_Sec01_UCSQ2"/></para></problem></exercise>
 </note>
@@ -262,12 +262,12 @@
 <definition id="def-00006"><term>goiter</term> <meaning>enlarged, abnormal growth of the thyroid gland</meaning></definition>
 <definition id="def-00007"><term>Graves’ disease</term> <meaning>hyperthyroidism causing eye protrusion, heat intolerance, and anxiety</meaning></definition>
 <definition id="def-00008"><term>homeostasis</term> <meaning>state of balance in the body</meaning></definition>
-<definition id="def-00009"><term>hormones</term> <meaning>body substances that coordinate biological functions like metabolism, sexual reproduction, blood pressure, body temperature, heart rate, , growth, and development, and sleeping</meaning></definition>
+<definition id="def-00009"><term>hormones</term> <meaning>body substances that coordinate biological functions like metabolism, sexual reproduction, blood pressure, body temperature, heart rate, growth and development, and sleeping</meaning></definition>
 <definition id="def-00010"><term>hypothalamus</term> <meaning>a critical gland found in the brain that works with the nervous system to control the endocrine system</meaning></definition>
 <definition id="def-00011"><term>iodized salt</term> <meaning>table salt fortified with iodine</meaning></definition>
 <definition id="def-00012"><term>pituitary gland</term> <meaning>gland in the brain that regulates growth and development as well as the function of other glands</meaning></definition>
 <definition id="def-00013"><term>primary endocrine disorders</term> <meaning>caused by dysfunction in the affected peripheral endocrine gland</meaning></definition>
-<definition id="def-00014"><term>secondary endocrine disorders</term> <meaning>develop when the pituitary gland is either over or under stimulated by the hypothalamus causing an alteration in the peripheral gland’s function</meaning></definition>
+<definition id="def-00014"><term>secondary endocrine disorders</term> <meaning>develop when the pituitary gland is either overstimulated or understimulated by the hypothalamus causing an alteration in the peripheral gland’s function</meaning></definition>
 <definition id="def-00015"><term>T3</term> <meaning>triiodothyronine hormones released by the thyroid gland to help regulate weight, energy levels, and metabolism</meaning></definition>
 <definition id="def-00018"><term>T4</term> <meaning>tetraiodothyronine (thyroxine) long-acting hormone released by the thyroid gland that can be converted to T3</meaning></definition>
 <definition id="def-00016"><term>type 1 diabetes</term> <meaning>develops when insulin producing cells (beta cells) are destroyed in the pancreas resulting in low to non-existent levels of insulin</meaning></definition>

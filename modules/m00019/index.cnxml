@@ -34,75 +34,75 @@
     <section id="sect-00003">
     <title>Pathophysiology Associated with Digestive Organs and Function</title>
     <para id="para-00010">Many causes of diseases and disorders that impact the gastrointestinal system are linked with nutrition, as are many of their treatments. <link target-id="table-00001" document="m00019"/> lists several organs impacted by nutritional deficit and the corresponding disease(s).</para>
-    <table class="vertically-tight" id="table-00001">
+    <table class="vertically-tight alternate shading" id="table-00001">
     <tgroup cols="3">
     <thead>
     <row>
-    <entry align="center"><span class="blue-text">Organ</span></entry>
-    <entry align="center"><span class="blue-text">Nutritional Link</span></entry>
-    <entry align="center"><span class="blue-text">Disease or Disorder</span></entry>
+      <entry valign="top" align="left"><span class="blue-text">Organ</span></entry>
+      <entry valign="top" align="left"><span class="blue-text">Nutritional Link</span></entry>
+      <entry valign="top" align="left"><span class="blue-text">Disease or Disorder</span></entry>
     </row>
     </thead>
     <tbody>
     <row>
-    <entry><term class="no-emphasis" id="term-00031">Salivary gland</term></entry>
-    <entry>Deficiency of <term class="no-emphasis" id="term-00032">vitamin B<sub>12</sub>  (cobalamin)</term></entry>
-    <entry><term class="no-emphasis" id="term-00033">Salivary gland tumors</term></entry>
+      <entry valign="top" align="left">Salivary gland</entry>
+      <entry valign="top" align="left">Deficiency of <term class="no-emphasis" id="term-00032">vitamin B<sub>12</sub></term>  (cobalamin)</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00033">Salivary gland tumors</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00034">Gums</term></entry>
-    <entry>Deficiency of vitamin B<sub>12</sub></entry>
-    <entry><term class="no-emphasis" id="term-00035">Gingivitis</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00034">Gums</term></entry>
+      <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00035">Gingivitis</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00036">Mouth</term></entry>
-    <entry>Deficiency of vitamin B<sub>12</sub></entry>
-    <entry><term class="no-emphasis" id="term-00037">Periodontal disease</term>/<term class="no-emphasis" id="term-00038">cancers</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00036">Mouth</term></entry>
+      <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00037">Periodontal disease</term>/<term class="no-emphasis" id="term-00038">cancers</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00039">Lips</term></entry>
-    <entry>Maternal deficiency of vitamin B<sub>12</sub></entry>
-    <entry><term class="no-emphasis" id="term-00040">Cleft lip</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00039">Lips</term></entry>
+      <entry valign="top" align="left">Maternal deficiency of vitamin B<sub>12</sub></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00040">Cleft lip</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00041">Oral palate</term></entry>
-    <entry>Maternal deficiency of vitamin B<sub>12</sub></entry>
-    <entry><term class="no-emphasis" id="term-00042">Cleft palate</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00041">Oral palate</term></entry>
+      <entry valign="top" align="left">Maternal deficiency of vitamin B<sub>12</sub></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00042">Cleft palate</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00043">Esophagus</term></entry>
-    <entry><term class="no-emphasis" id="term-00044">Food allergies</term></entry>
-    <entry><term class="no-emphasis" id="term-00045">Eosinophilic esophagitis</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00043">Esophagus</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00044">Food allergies</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00045">Eosinophilic esophagitis</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00046">Stomach</term></entry>
-    <entry>Deficiency of vitamin B<sub>12</sub>/lack of <term class="no-emphasis" id="term-00047">intrinsic factor</term></entry>
-    <entry><term class="no-emphasis" id="term-00048">Pernicious anemia</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00046">Stomach</term></entry>
+      <entry valign="top" align="left">Deficiency of vitamin B<sub>12</sub>/lack of <term class="no-emphasis" id="term-00047">intrinsic factor</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00048">Pernicious anemia</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00049">Intestine</term></entry>
-    <entry>Low <term class="no-emphasis" id="term-00050">fiber intake</term>, low <term class="no-emphasis" id="term-00051">water intake</term>, and high <term class="no-emphasis" id="term-00052">dairy intake</term></entry>
-    <entry><term class="no-emphasis" id="term-00053">Constipation</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00049">Intestine</term></entry>
+      <entry valign="top" align="left">Low <term class="no-emphasis" id="term-00050">fiber intake</term>, low <term class="no-emphasis" id="term-00051">water intake</term>, and high <term class="no-emphasis" id="term-00052">dairy intake</term></entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00053">Constipation</term></entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00054">Anus</term>/rectum</entry>
-    <entry>Low fiber intake, low water intake, and high dairy intake</entry>
-    <entry><term class="no-emphasis" id="term-00055">Hemorrhoids</term>, <term class="no-emphasis" id="term-00056">fissures</term>, and fistulas</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00054">Anus</term>/rectum</entry>
+      <entry valign="top" align="left">Low fiber intake, low water intake, and high dairy intake</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00055">Hemorrhoids</term>, <term class="no-emphasis" id="term-00056">fissures</term>, and fistulas</entry>
     </row>
     <row>
-    <entry><term class="no-emphasis" id="term-00058">Gastrointestinal system</term></entry>
-    <entry>Low fiber intake, low water intake, high <term class="no-emphasis" id="term-00059">fat intake</term>, and high cholesterol intake</entry>
-    <entry>Cancers</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00058">Gastrointestinal system</term></entry>
+      <entry valign="top" align="left">Low fiber intake, low water intake, high <term class="no-emphasis" id="term-00059">fat intake</term>, and high cholesterol intake</entry>
+      <entry valign="top" align="left">Cancers</entry>
     </row>
     <row>
-    <entry>Intestine</entry>
-    <entry>Gluten</entry>
-    <entry><term class="no-emphasis" id="term-00061">Celiac disease</term></entry>
+      <entry valign="top" align="left">Intestine</entry>
+      <entry valign="top" align="left">Gluten</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00061">Celiac disease</term></entry>
     </row>
     <row>
-    <entry>Stomach/esophagus</entry>
-    <entry>Worsened by food that contains <term class="no-emphasis" id="term-00064">caffeine</term>, <term class="no-emphasis" id="term-00065">spicy foods</term>, <term class="no-emphasis" id="term-00066">acidic foods</term>, and <term class="no-emphasis" id="term-00067">dairy</term> products</entry>
-    <entry><term class="no-emphasis" id="term-00068">Gastroesophageal reflux disease</term> (GERD)</entry>
+      <entry valign="top" align="left">Stomach/esophagus</entry>
+      <entry valign="top" align="left">Worsened by food that contains <term class="no-emphasis" id="term-00064">caffeine</term>, <term class="no-emphasis" id="term-00065">spicy foods</term>, <term class="no-emphasis" id="term-00066">acidic foods</term>, and <term class="no-emphasis" id="term-00067">dairy</term> products</entry>
+      <entry valign="top" align="left"><term class="no-emphasis" id="term-00068">Gastroesophageal reflux disease</term> (GERD)</entry>
     </row>
     </tbody>
     </tgroup>
@@ -117,7 +117,7 @@
     <item>Food may appear less attractive or appetizing due to changes made to <term class="no-emphasis" id="term-00071">food consistency</term> for safety reasons (Bartel, 2022; Nigam &amp; Knight, 2017).</item>
     <item>The feeling of being full may happen faster or last longer due to the stomach wall losing elasticity, resulting in a loss of hydrochloric acid secretion into the stomach, making food accommodation more difficult and gastric emptying slower.</item>
     <item><term class="no-emphasis" id="term-00072">Esophageal reflux</term> may occur, and food may backflow more easily into the esophagus (Austin Gastroenterology, 2019).</item>
-    <item>Hyposecretion of hydrochloric acid and protective mucus that occurs with age can result in chronic <term class="no-emphasis" id="term-00073">atrophic gastritis</term>, increased <term class="no-emphasis" id="term-00074">peptic ulcer disease</term>, and decreased <term class="no-emphasis" id="term-00075">vitamin B<sub>12 </sub>absorption</term>.</item>
+    <item>Hyposecretion of hydrochloric acid and protective mucus that occurs with age can result in chronic <term class="no-emphasis" id="term-00073">atrophic gastritis</term>, increased <term class="no-emphasis" id="term-00074">peptic ulcer disease</term>, and decreased vitamin B<sub>12</sub> absorption.</item>
     <item>An increase in the bacterial populations in the small intestine may lead to increased <term class="no-emphasis" id="term-00076">bloating</term> and <term class="no-emphasis" id="term-00077">abdominal pain</term> as well as decreased absorption of <term class="no-emphasis" id="term-00078">calcium</term>, <term class="no-emphasis" id="term-00079">folic acid</term>, and <term class="no-emphasis" id="term-00080">iron</term> (Bartel, 2022; Nigam &amp; Knight, 2017).</item>
     <item>Decreases in <term class="no-emphasis" id="term-00081">digestive enzymes</term> from the pancreas result in a reduction in the digestion of proteins and fats.</item>
     <item>The liver decreases bile production, rate of protein synthesis and <term class="no-emphasis" id="term-00082">metabolism</term>, and its ability to detoxify substances (Nigam &amp; Knight, 2017).</item>
