@@ -61,10 +61,10 @@
 <colspec colnum="4" colname="c4" colwidth="1*"/>
   <thead>
   <row>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Wave/Segment</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Normal Measurement of Segment</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Part of Cardiac Cycle</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Wave/Segment Appearance/Shape and Deflection</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Wave/Segment</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Normal Measurement of Segment</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Part of Cardiac Cycle</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Wave/Segment Appearance/Shape and Deflection</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
@@ -78,7 +78,7 @@
   <entry valign="top">Q</entry>
   <entry/>
   <entry valign="top">Start of ventricular depolarization</entry>
-  <entry valign="top">Negative deflection/sharp downstroke if shown (some normal telemetry readings do not have a true Q wave)</entry>
+  <entry valign="top">Negative deflection/sharp downstroke if shown (Some normal telemetry readings do not have a true Q wave.)</entry>
   </row>
   <row>
   <entry valign="top">R</entry>
@@ -102,7 +102,7 @@
   <entry valign="top">U</entry>
   <entry/>
   <entry valign="top">Atrial repolarization: not an expected finding on every client</entry>
-  <entry valign="top">Positive deflection/smooth hill shape (most normal telemetry readings do not have a U wave)</entry>
+  <entry valign="top">Positive deflection/smooth hill shape (Most normal telemetry readings do not have a U wave.)</entry>
   </row>
   <row>
   <entry valign="top">QRS complex</entry>
@@ -120,7 +120,7 @@
   <entry valign="top">QT interval</entry>
   <entry valign="top">0.40–0.44 seconds</entry>
   <entry valign="top">Beginning of ventricular depolarization through ventricular repolarization</entry>
-  <entry valign="top">QRS complex, ST segment and to end of T wave</entry>
+  <entry valign="top">QRS complex, ST segment, and to end of T wave</entry>
   </row>
   <row>
   <entry valign="top">ST segment</entry>
@@ -150,7 +150,7 @@
   <para id="para-00019">As blood travels through the body via the arteries, the arteries get smaller in diameter until they terminate into <term id="term-00025">arterioles</term>, the smallest arteries. These arterioles link with capillaries and then connect to <term id="term-00026">venules</term>, the smallest veins (Gupta and Shea, 2022). Capillaries are thin-walled vessels that connect arterioles and venules. As shown in <link target-id="fig-00005" document="m00049"/>, they are the vehicle for the final exchange of oxygen and nutrients into tissues and wastes into the blood (Gupta &amp; Shea, 2022).</para>
   <figure id="fig-00005"><media alt="Blood from the heart flows into the arteriole and then the capillary. There, it exchanges oxygen and nutrients into the tissues and wastes into the blood. Once this occurs, blood flows into the veins where it travels back to the heart."><image mime-type="image/png" src="../../media/NUT_Figure_11_01_006.png"/></media>
   <caption>Capillaries connect arterioles and venules, and are the vehicle for the final exchange of oxygen and nutrients into tissues and waste into the blood. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
-  <para id="para-00020">After passing through the capillaries and venules, blood continues into the veins on the way back to the heart. Veins have thinner walls than arteries, because pressures are lower in this portion of the cardiovascular system. Veins also dilate in response to fluid. Some veins, like the large veins in the legs, have valves in them to prevent blood from back flowing (Gupta &amp; Shea, 2022). Once blood has traveled through the veins, it ends up in the heart to start the cycle all over again.</para>
+  <para id="para-00020">After passing through the capillaries and venules, blood continues into the veins on the way back to the heart. Veins have thinner walls than arteries, because pressures are lower in this portion of the cardiovascular system. Veins also dilate in response to fluid. Some veins, like the large veins in the legs, have valves in them to prevent backflow of blood (Gupta &amp; Shea, 2022). Once blood has traveled through the veins, it ends up in the heart to start the cycle all over again.</para>
   </section>
   <section id="sect-00006">
   <title>Assessment</title>
@@ -166,11 +166,11 @@
   <note class="unfolding-casestudy" id="note-00001">
   <title>Part A</title>
   <para id="para-00023a">Read the following clinical scenario and then answer the questions that follow. This case study will evolve throughout the chapter.</para>
-  <para id="para-00023">Mr. Thompson reports to the provider and nurse that he has had difficulty achieving and maintaining an erection and has noticed worrisome leg swelling. He also states that he was told by a nurse at a health fair a month ago that he should have his blood pressure checked, because it was 139/93 mmHg. Today his blood pressure is 126/88 mmHg. The swelling in his legs appears to be dependent edema that is only present when his legs are downward for periods of time and appears to be due to insufficiency of blood return in the lower extremities.</para>
+  <para id="para-00023">Mr. Thompson reports to the provider and nurse that he has had difficulty achieving and maintaining an erection and has noticed worrisome leg swelling. He also states that he was told by a nurse at a health fair a month ago that he should have his blood pressure checked, because it was 139/93 mm Hg. Today his blood pressure is 126/88 mm Hg. The swelling in his legs appears to be dependent edema that is only present when his legs are downward for periods of time and appears to be due to insufficiency of blood return in the lower extremities.</para>
   <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00024"><link class="os-embed" url="#exercise/NUT_Ch11_Sec01_UCSQ1"/></para></problem></exercise>
   <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00025"><link class="os-embed" url="#exercise/NUT_Ch11_Sec01_UCSQ2"/></para></problem></exercise>
   <para id="para-00026">The provider orders an ECG that is done at bedside and shows no abnormalities. The provider also orders a fasting lipid panel (serum cholesterol levels) to help determine the client’s risk for heart disease. Because Mr. Thompson is not fasting, the provider instructs him to return in the morning for a blood draw and to return in one week for follow-up. The provider also explains to Mr. Thompson that erectile dysfunction can be directly related to the decreased blood flow caused by hypertension. The client’s hypertension will have to be managed before the erectile dysfunction can be fully evaluated for cause.</para>
-  <para id="para-00027">(source: Antipolis, S. (2020). How to Treat High Blood Pressure Without Ruining Your Sex Life. <emphasis effect="italics">European Society of Cardiology</emphasis>. Retrieved from https://www.escardio.org/The-ESC/Press-Office/Press-releases/how-to-treat-high-blood-pressure-without-ruining-your-sex-life.)</para>
+  <para id="para-00027">(source: Antipolis, S. (2020). How to Treat High Blood Pressure Without Ruining Your Sex Life. <emphasis effect="italics">European Society of Cardiology</emphasis>. Retrieved from https://www.escardio.org/The-ESC/Press-Office/Press-releases/how-to-treat-high-blood-pressure-without-ruining-your-sex-life)</para>
   </note>
   </section>
   </section>
@@ -187,9 +187,9 @@
       <colspec colnum="3" colname="c3" colwidth="1*"/>
   <thead>
   <row>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Nutritional Relation(s)</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Client Symptom(s)</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Telemetry Change</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Nutritional Relation(s)</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Client Symptom(s)</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
@@ -254,13 +254,13 @@
 <item>Pain in one or both arms and/or shoulders</item></list></entry>
   </row>
   <row>
-    <entry valign="top">QT Interval</entry>
+    <entry valign="top">QT interval</entry>
     <entry valign="top"><list list-type="bulleted" id="list-00018"><item>Shortened QT intervals can indicate hyperkalemia</item></list></entry>
     <entry valign="top"><list list-type="bulleted" id="list-00019"><item>Can trigger a lethal heart rhythm</item></list></entry>
   </row>
   <row>
     <entry valign="top">Many other rhythm disturbances</entry>
-    <entry valign="top"><list list-type="bulleted" id="list-00020"><item>Hyperkalemia can cause wide QRS complexes and hidden P waves, prolonged PR interval, decreased P wave amplitude, ventricular fibrillation, and asystole, junctional rhythm, bradycardia, ST depression, atrial fibrillation, in addition to other issues listed</item>
+    <entry valign="top"><list list-type="bulleted" id="list-00020"><item>Hyperkalemia can cause wide QRS complexes and hidden P waves, prolonged PR interval, decreased P wave amplitude, ventricular fibrillation, asystole, junctional rhythm, bradycardia, ST depression, atrial fibrillation, in addition to other issues listed</item>
 <item>Hypoalbuminemia can cause low-voltage wave measurements and abnormal QT interval measurements and has been identified as a factor to increase mortality in AMI, atrial fibrillation events, and heart failure</item></list></entry>
   <entry valign="top"><list list-type="bulleted" id="list-00021"><item>Symptomology related to cause and type of change</item></list></entry>
   </row>
@@ -276,9 +276,9 @@
     <colspec colnum="3" colname="c3" colwidth="3*"/>
   <thead>
   <row>
-    <entry valign="top" align="center"><span class="blue-text"><emphasis>Disease</emphasis></span></entry>
-    <entry valign="top" align="center"><span class="blue-text"><emphasis>Nutrition Impact</emphasis></span></entry>
-    <entry valign="top" align="center"><span class="blue-text"><emphasis>Effects on the Body</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis>Disease</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis>Nutrition Impact</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="blue-text"><emphasis>Effects on the Body</emphasis></span></entry>
   </row>
   </thead>
   <tbody>

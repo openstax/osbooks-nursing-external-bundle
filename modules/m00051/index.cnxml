@@ -17,16 +17,16 @@
   <section id="sect-00002">
   <title>Holistic Nursing Assessment of the Client</title>
   <para id="para-00002">An implementation strategy is necessary for success. To solidify plan compliance, the nurse should involve the client in the creation of the plan, ensure that the client has a clear comprehension of the plan, and evaluate the holistic needs of the client.</para>
-  <para id="para-00003">Maintaining cardiovascular health when no disease is present is also critical. A first step to maintenance is to review diet plans. The <term class="no-emphasis" id="term-00001">MyPlate</term>, DASH, and <term class="no-emphasis" id="term-00003">Mediterranean diet</term>s are well known and can be utilized to maintain cardiovascular health. In addition, reducing alcohol consumption, caffeine intake, red meats, saturated and trans fats, processed food consumptions, refined carbohydrates, sugary foods and drinks, and sodium have all been shown to be protective for cardiovascular health (Harvard University, 2023; Morales-Brown, 2020). Likewise, increasing the intake of fruits and vegetables, whole grains, fish, nuts, poultry, and using monounsaturated or polyunsaturated oils in place of saturated oils will help prevent cardiovascular disease (Harvard University, 2023).</para>
+  <para id="para-00003">Maintaining cardiovascular health when no disease is present is also critical. A first step to maintenance is to review diet plans. The <term class="no-emphasis" id="term-00001">MyPlate</term>, DASH, and <term class="no-emphasis" id="term-00003">Mediterranean diet</term>s are well known and can be utilized to maintain cardiovascular health. In addition, reducing alcohol consumption, caffeine intake, red meats, saturated and trans fats, processed food consumptions, refined carbohydrates, sugary foods and drinks, and sodium have all been shown to be protective for cardiovascular health (Harvard University, 2023; Morales-Brown, 2020). Likewise, increasing the intake of fruits and vegetables, whole grains, fish, nuts, and poultry and using monounsaturated or polyunsaturated oils in place of saturated oils will help prevent cardiovascular disease (Harvard University, 2023).</para>
   <para id="para-00004">If the client wishes to prescribe to one of the recommended diets, the nurse should educate them on inclusions, exclusions, and reductions (<link target-id="table-00001" document="m00051"/>).</para>
   
-  <table class="vertically-tight alternate-shading" id="table-00001">
+  <table class="vertically-tight" id="table-00001">
   <tgroup cols="3">
   <thead>
   <row>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Diet Type</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Inclusions or Increases</emphasis></span></entry>
-  <entry valign="top" align="center"><span class="blue-text"><emphasis>Exclusions or Reductions</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Diet Type</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Inclusions or Increases</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis>Exclusions or Reductions</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
@@ -51,13 +51,13 @@
   <entry valign="top">MyPlate</entry>
   <entry valign="top"><list list-type="bulleted" id="list-00006"><item>2 cups fruit daily*</item>
   <item>2.5 cups vegetables daily*</item>
-  <item>5–10 ounces of total grains (preferably half of this being whole grains) daily*</item>
-  <item>5.5 ounces lean protein/meat daily*</item>
-  <item>3 cups dairy per day—preferably low-fat options*</item>
-  <item>* Note: These are averages, as sex and age can change recommended amounts</item></list></entry>
-  <entry valign="top"><list list-type="bulleted" id="list-00007"><item>Decrease added sugars to &lt; 50 g a day</item>
-  <item>Decrease saturated fats to &lt; 22 g a day</item>
-  <item>Decrease sodium to &lt; 2,300 mg a day</item></list></entry>
+  <item>5–10 oz of total grains (preferably half of this being whole grains) daily*</item>
+  <item>5.5 oz lean protein/meat daily*</item>
+  <item>3 cups dairy per day—preferably low-fat options*
+  <list list-type="bulleted" bullet-style="none" id="list-00008"><item>* Note: These are averages, as sex and age can change recommended amounts.</item></list></item></list></entry>
+  <entry valign="top"><list list-type="bulleted" id="list-00007"><item>Decrease added sugars to &lt; 50 g/day</item>
+  <item>Decrease saturated fats to &lt; 22 g/day</item>
+  <item>Decrease sodium to &lt; 2300 mg/day</item></list></entry>
   </row>
   </tbody>
   </tgroup>
