@@ -9,7 +9,7 @@
     <section id="sect-00001">
       <title/>
       <para id="para-00001">The apps in <link target-id="table-00001" document="m00093"/> were identified by various sources, such as BuyersGuide.org, Medical News Today, and Active.com. This table does not serve as an exhaustive list.</para>
-  <table class="vertically-tight" id="table-00001">
+  <table class="vertically-tight alternate-shading" id="table-00001">
   <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -57,7 +57,7 @@
     </row>
   <row>
   <entry><link url="https://openstax.org/r/playdiabetic">Diabetic App</link></entry>
-  <entry>Diabetic food recipes that assist with blood sugar stabilization.</entry>
+  <entry>Diabetic food recipes that assist with blood glucose stabilization.</entry>
   </row>
   <row>
   <entry><link url="https://openstax.org/r/playkidney">Kidney Diet</link></entry>
