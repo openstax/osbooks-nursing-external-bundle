@@ -217,13 +217,13 @@
 <colspec colnum="2" colname="c2" colwidth="2*"/>
   <thead>
   <row>
-  <entry valign="top" align="left"><span class="blue-text">Vitamin</span></entry>
-  <entry valign="top" align="left"><span class="blue-text">Special Considerations/Reference</span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Vitamin</emphasis></span></entry>
+  <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Special Considerations/Reference</emphasis></span></entry>
   </row>
   </thead>
   <tbody>
   <row>
-    <entry namest="c1" nameend="c2"><span class="blue-text">Water-Soluble</span></entry>
+    <entry namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Water-Soluble</emphasis></span></entry>
  </row>
   <row>
   <entry valign="top" align="left"><term class="no-emphasis" id="term-00036">Thiamin</term> (B<sub>1</sub>)</entry>
