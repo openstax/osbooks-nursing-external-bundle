@@ -45,7 +45,7 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><term id="term-00011">Anemia</term><emphasis effect="bold">:</emphasis>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Anemia</term>:
   <list list-type="bulleted" id="list-00039">
     <item><term class="no-emphasis" id="term-00012">Pallor</term></item>
     <item><term class="no-emphasis" id="term-00013">Fatigue</term></item>
@@ -62,7 +62,7 @@
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00023">Iron</term>, <term class="no-emphasis" id="term-00024">copper</term>, <term class="no-emphasis" id="term-00025">vitamin B<sub>12</sub></term>, <term class="no-emphasis" id="term-00026">vitamin C</term>, <term class="no-emphasis" id="term-00027">vitamin E</term>, <term class="no-emphasis" id="term-00028">folate</term></entry>
 </row>
 <row>
-<entry valign="top" align="left"><term id="term-00029">Thrombocytopenia</term><emphasis effect="bold">/</emphasis><term id="term-00030">Coagulopathy</term><emphasis effect="bold">:</emphasis>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00029">Thrombocytopenia</term>/<term class="no-emphasis" id="term-00030">Coagulopathy</term>:
 <list list-type="bulleted" id="list-00040">
 <item>Gingival <term class="no-emphasis" id="term-00031">bleeding</term></item>
 <item>Easy <term class="no-emphasis" id="term-00032">bruising</term></item>
@@ -73,7 +73,7 @@
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00035">Vitamin K</term>, vitamin C, vitamin E, vitamin B<sub>12</sub></entry>
 </row>
 <row>
-<entry valign="top" align="left"><term id="term-00036">Neutropenia</term><emphasis effect="bold">:</emphasis>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00036">Neutropenia</term>:
 <list list-type="bulleted" id="list-00041">
 <item>Frequent fevers</item>
 <item>Frequent infections</item>
