@@ -163,9 +163,9 @@
 <para id="para-00103">Denominator: Risk of disease or health event, the incidence proportion, in comparison group</para>
 <para id="para-00104"><emphasis effect="bold">Example</emphasis></para>
 <para id="para-00105">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease, and 75 of the unexposed individuals are also diagnosed with the disease. The relative risk of contracting the disease is calculated by:</para>
-<para id="para-00106">Incidence proportion of the primary interest group (exposed group) is <m:math><m:mfenced><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac></m:mfenced> <m:mi>&#x0020;</m:mi><m:mo>=</m:mo> <m:mo></m:mo><m:mn>0.42</m:mn></m:math></para>
+<para id="para-00106">Incidence proportion of the primary interest group (exposed group) is <m:math><m:mfenced><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac></m:mfenced> <m:mi>&#x0020;</m:mi><m:mo>=</m:mo> <m:mn>0.42</m:mn></m:math></para>
 <para id="para-00107">Incidence proportion of the comparison group (unexposed group) is <m:math><m:mfenced><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac></m:mfenced> <m:mi>&#x0020;</m:mi><m:mo>=</m:mo> <m:mn>0.15</m:mn></m:math></para>
-<para id="para-00108">Therefore, the RR is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mfenced><m:mi>&#x0020;</m:mi><m:mo>=</m:mo><m:mo></m:mo><m:mn>2.8</m:mn></m:math>. This RR of 2.8 suggests the risk of disease in the exposed group is 2.8 times as high as the risk of disease in the unexposed group.</para>
+<para id="para-00108">Therefore, the RR is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>42</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mfenced><m:mi>&#x0020;</m:mi><m:mo>=</m:mo> <m:mn>2.8</m:mn></m:math>. This RR of 2.8 suggests the risk of disease in the exposed group is 2.8 times as high as the risk of disease in the unexposed group.</para>
 </note>
 </section>
 <section id="sect-00008">
