@@ -46,7 +46,7 @@
 <para id="para-00016">Imagine you are the public health nurse for a county in a rural part of the United States. You have been tasked with calculating the ratio of county citizens to the number of health clinics in the county—in other words, how many county residents each health clinic must serve.</para>
 <para id="para-00017">Number of health clinics: 8</para>
 <para id="para-00018">County population: 9,000</para>
-<para id="para-00019">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>1,125:1</m:mn></m:math> (Each clinic must serve 1,125 county citizens.)</para>
+<para id="para-00019">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo></m:mo><m:mo>×</m:mo> <m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup> <m:mo>=</m:mo> <m:mn>1,125:1</m:mn></m:math> (Each clinic must serve 1,125 county citizens.)</para>
 <para id="para-00020">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 </section>
@@ -63,8 +63,8 @@
 <para id="para-00027">Men with hypertension: 305</para>
 <para id="para-00028">Men without hypertension: 4,702</para>
 <para id="para-00029">Based on the data, calculate the proportion of men who had hypertension.</para>
-<para id="para-00030">Numerator (305) plus Denominator (4,702) = Total number of men; <m:math><m:mo>(</m:mo><m:mn>305</m:mn><m:mo></m:mo><m:mo>+</m:mo><m:mo></m:mo><m:mn>4,702</m:mn><m:mo>)</m:mo><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>5,007</m:mn></m:math></para>
-<para id="para-00031">Proportion of men who had hypertension <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mn>305</m:mn><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>007</m:mn></m:mrow></m:mfrac><m:mo>×</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>6.09</m:mn><m:mo>%</m:mo></m:math></para>
+<para id="para-00030">Numerator (305) plus Denominator (4,702) = Total number of men; <m:math><m:mo>(</m:mo><m:mn>305</m:mn><m:mo></m:mo><m:mo>+</m:mo> <m:mn>4,702</m:mn><m:mo>)</m:mo><m:mo></m:mo><m:mo>=</m:mo> <m:mn>5,007</m:mn></m:math></para>
+<para id="para-00031">Proportion of men who had hypertension <m:math><m:mo>=</m:mo> <m:mfrac><m:mn>305</m:mn><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>007</m:mn></m:mrow></m:mfrac><m:mo>×</m:mo> <m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>6.09</m:mn><m:mo>%</m:mo></m:math></para>
 <para id="para-00158">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 </section>
