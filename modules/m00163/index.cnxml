@@ -32,8 +32,8 @@
 <para id="para-00007"><emphasis effect="bold">Recall that:</emphasis></para>
 <para id="para-00153"><m:math><m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>1</m:mn></m:math></para>
 <para id="para-00154"><m:math><m:msup><m:mn>10</m:mn><m:mn>1</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>10</m:mn></m:math></para>
-<para id="para-00157"><m:math><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo> <m:mo>=</m:mo><m:mo></m:mo><m:mn>1</m:mn><m:mn>00</m:mn></m:math></para>
-<para id="para-00155"><m:math><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mi>1,000</m:mi></m:math><newline count="2"/></para>
+<para id="para-00157"><m:math><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo> <m:mo>=</m:mo><m:mo></m:mo><m:mn>1</m:mn><m:mn>00</m:mn></m:math></para>
+<para id="para-00155"><m:math><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mi>1,000</m:mi></m:math><newline count="2"/></para>
 <para id="para-00008"><emphasis effect="bold">Basic Calculation for Ratios:</emphasis></para>
 <m:math><m:mo>(</m:mo><m:mi>Numerator</m:mi><m:mo>÷</m:mo><m:mi>Denominator</m:mi><m:mo>)</m:mo><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math><newline count="2"/>
 <para id="para-00009"><emphasis effect="bold">Calculating Ratios: Example 1</emphasis></para>
@@ -41,12 +41,12 @@
 <para id="para-00011">Men with hypertension: 305</para>
 <para id="para-00012">Men without hypertension: 4,702</para>
 <para id="para-00013">Based on the data, calculate the ratio of men without hypertension to men with hypertension. Since this will be a one-to-one ratio, you will use 10<sup>0</sup>.</para>
-<para id="para-00014">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn></m:mrow><m:mn>305</m:mn></m:mfrac><m:mi>&#x0020;</m:mi><m:mo>×</m:mo><m:msup><m:mo>10</m:mo><m:mo>0</m:mo></m:msup><m:mo>=</m:mo><m:mo></m:mo><m:mn>15.4:1</m:mn></m:math> (15.4 men without hypertension to 1 with hypertension)</para>
+<para id="para-00014">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn></m:mrow><m:mn>305</m:mn></m:mfrac><m:mo>×</m:mo><m:msup><m:mo>10</m:mo><m:mo>0</m:mo></m:msup><m:mo>=</m:mo><m:mo></m:mo><m:mn>15.4:1</m:mn></m:math> (15.4 men without hypertension to 1 with hypertension)</para>
 <para id="para-00015"><emphasis effect="bold">Calculating Ratios: Example 2</emphasis></para>
 <para id="para-00016">Imagine you are the public health nurse for a county in a rural part of the United States. You have been tasked with calculating the ratio of county citizens to the number of health clinics in the county—in other words, how many county residents each health clinic must serve.</para>
 <para id="para-00017">Number of health clinics: 8</para>
 <para id="para-00018">County population: 9,000</para>
-<para id="para-00019">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>1,125:1</m:mn><m:mo></m:mo></m:math> (Each clinic must serve 1,125 county citizens.)</para>
+<para id="para-00019">Ratio <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo>×</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>1,125:1</m:mn><m:mo></m:mo></m:math> (Each clinic must serve 1,125 county citizens.)</para>
 <para id="para-00020">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
 </section>
@@ -56,7 +56,7 @@
 <note class="boxed-feature" id="note-00002">
 <title>Calculating Proportions</title>
 <para id="para-00022"><emphasis effect="bold">Basic Calculation for a Proportion</emphasis></para>
-<para id="para-00023">(Number of persons or events with a particular characteristic ÷ Total number of persons or events, with the numerator being a subset of this total number) <m:math><m:mo>×</m:mo><m:mi>&#x0020;</m:mi><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math></para>
+<para id="para-00023">(Number of persons or events with a particular characteristic ÷ Total number of persons or events, with the numerator being a subset of this total number) <m:math><m:mo></m:mo><m:mo>×</m:mo><m:mi>&#x0020;</m:mi><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math></para>
 <para id="para-00024">With proportions, 10<sup><emphasis effect="italics">n</emphasis></sup> is usually expressed with <m:math><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>, or 100, and conveyed as a percentage.</para>
 <para id="para-00025"><emphasis effect="bold">Calculating a Proportion</emphasis></para>
 <para id="para-00026">Refer to <link target-id="note-00001" document="m00163">Calculating Ratios</link> and the study looking at hypertension.</para>
@@ -80,7 +80,7 @@
 <para id="para-00038">Numerator: 70,000 new cases of disease X</para>
 <para id="para-00039">Denominator: 319,000,000 estimated midyear population</para>
 <para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>100,000</m:mn></m:math></para>
-<para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo>&#x00D7;</m:mo><m:mn>100,000</m:mn></m:mrow></m:math></para>
+<para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo></m:mo><m:mo>&#x00D7;</m:mo><m:mo></m:mo><m:mn>100,000</m:mn></m:mrow></m:math></para>
 <para id="para-00042"><m:math><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mn>21.94</m:mn><m:mtext>&#160;new&#160;cases&#160;of&#160;disease&#160;X&#160;per&#160;</m:mtext><m:mn>100,000</m:mn><m:mtext>&#160;population</m:mtext></m:math></para>
 <para id="para-00043">(See Centers for Disease Control and Prevention, 2012.)</para>
 </note>
@@ -180,7 +180,7 @@
 <para id="para-00114">A public health nurse is investigating a perceived increase in flu-related deaths in January–March of 2022 in a large city compared to flu-related deaths the year prior in January–March 2021 in the same city. In 2021, there were 129 flu-related deaths among a midyear population of 500,000. In 2022, there were 310 flu-related deaths among a midyear population of 502,000. Calculate the rate ratio as follows:</para>
 <para id="para-00115">Mortality rate of the primary interest group (2022 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>310</m:mn><m:mrow><m:mn>502</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>1,000</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>0.62</m:mn></m:math></para>
 <para id="para-00116">Mortality rate of the comparison group (2021 incidence rate) is <m:math><m:mfenced><m:mfrac><m:mn>129</m:mn><m:mrow><m:mn>500</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>1,000</m:mn><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>0.26</m:mn></m:math></para>
-<para id="para-00117">Therefore, the rate ratio is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:mrow></m:mfrac></m:mfenced> <m:mo>=</m:mo> <m:mo></m:mo><m:mn>2.4</m:mn></m:math>. This suggests the risk of disease in the primary interest group is 2.4 times as high as the risk of disease in the comparison group, suggesting that in 2022 there was a higher mortality rate due to flu than in the year prior.</para>
+<para id="para-00117">Therefore, the rate ratio is <m:math><m:mfenced><m:mfrac><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>62</m:mn></m:mrow><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>26</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>2.4</m:mn></m:math>. This suggests the risk of disease in the primary interest group is 2.4 times as high as the risk of disease in the comparison group, suggesting that in 2022 there was a higher mortality rate due to flu than in the year prior.</para>
 </note>
 </section>
 <section id="sect-00009">
@@ -235,7 +235,7 @@
 </tgroup>
 </table>
 <para id="para-00128">Calculate the OR as follows:</para>
-<para id="para-00129"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>190</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>140</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo></m:mo><m:mn>6.79</m:mn></m:math></para>
+<para id="para-00129"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>190</m:mn><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>140</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo></m:mo><m:mn>6.79</m:mn></m:math></para>
 <para id="para-00130">Now, using the same data in the table, calculate the RR as follows:</para>
 <para id="para-00131"><m:math><m:mfrac><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mrow><m:mn>190</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>190</m:mn></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mstyle displaystyle="true"><m:mfrac><m:mrow><m:mn>140</m:mn></m:mrow><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>140</m:mn></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mfenced></m:mfrac><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mn>6.28</m:mn></m:math></para>
 <para id="para-00132">The OR and the RR are close as the OR provides a realistic estimation of the RR.</para>
@@ -251,10 +251,10 @@
 <para id="para-00136">Denominator: Incidence in the exposed</para>
 <para id="para-00137"><emphasis effect="bold">Example</emphasis></para>
 <para id="para-00138">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease and 75 of the unexposed individuals are also diagnosed with the disease.</para>
-<para id="para-00139">The incidence of disease in the exposed group is 125 individuals out of 300 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo><m:mi>&#x0020;</m:mi><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac><m:mo>=</m:mo><m:mo></m:mo><m:mn>41.7</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
-<para id="para-00140">The incidence of disease in the unexposed group is 75 individuals out of 500 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo><m:mi>&#x0020;</m:mi><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
+<para id="para-00139">The incidence of disease in the exposed group is 125 individuals out of 300 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mi>&#x0020;</m:mi><m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac><m:mo>=</m:mo><m:mo></m:mo><m:mn>41.7</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
+<para id="para-00140">The incidence of disease in the unexposed group is 75 individuals out of 500 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mi>&#x0020;</m:mi><m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac><m:mo>=</m:mo><m:mo></m:mo><m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
 <para id="para-00141">To calculate the AR:</para>
-<para id="para-00142"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo>&#8722;</m:mo><m:mn>15</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.64</m:mn></m:math> or 64%, meaning that the proportion of disease that is attributable to the exposure is 64%. <emphasis effect="italics">Attributable to</emphasis> does not equate to <emphasis effect="italics">caused by</emphasis>, as this calculation is addressing association, not inferring causation.</para>
+<para id="para-00142"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo></m:mo><m:mo>&#8722;</m:mo><m:mo></m:mo><m:mn>15</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.64</m:mn></m:math> or 64%, meaning that the proportion of disease that is attributable to the exposure is 64%. <emphasis effect="italics">Attributable to</emphasis> does not equate to <emphasis effect="italics">caused by</emphasis>, as this calculation is addressing association, not inferring causation.</para>
 </note>
 </section>
 </section>
@@ -340,7 +340,7 @@
 </section>
 <section class="section-summary" id="sect-00016">
 <title>Chapter Summary</title>
-<para id="para-00152">Common epidemiological frequency measures are ratios, proportions, and rates. Ratios can be used as a descriptive measure or in calculating the occurrence of illness or death between two groups. Proportions are often used as descriptive measures and to describe the extent of disease attributable to a particular exposure. A rate measures the frequency of an event’s occurrence in a specified population over a defined period. Epidemiologists use rates to describe incidence, prevalence, case-fatality, and attack rates. Measures of morbidity characterize how many individuals in a population become or are ill at a specified time. Mortality rate measures the frequency of death in a defined population during a specific interval. Measures of association assess the degree to which the risk of disease increases when exposed to an agent, thereby demonstrating the strength of a causal relationship.</para>
+<para id="para-00152">Ratios can be used as a descriptive measure or to calculate the occurrence of illness or death between two groups. Proportions are often used to describe the extent of disease attributable to a particular exposure. A rate measures the frequency of an event’s occurrence in a specified population over a defined period. Epidemiologists use rates to describe incidence, prevalence, case-fatality, and attack rates. Measures of morbidity characterize how many individuals in a population become or are ill at a specified time. Mortality rate measures the frequency of death in a defined population during a specific interval. Measures of association assess the degree to which the risk of disease increases when exposed to an agent, thereby demonstrating the strength of a causal relationship.</para>
 </section>
 </content>
 <glossary>
@@ -349,7 +349,7 @@
 <definition id="def-00003"><term>attributable risk (AR)</term> <meaning>a measurement of the amount of disease among exposed individuals that is attributed to the exposure</meaning></definition>
 <definition id="def-00004"><term>bias</term> <meaning>a systematic error that underestimates or overestimates the value of a parameter; a source of error in a study’s outcome arising in the design or conduct of the study, data collection, or data analysis</meaning></definition>
 <definition id="def-00005"><term>case-fatality rate</term> <meaning>the proportion of individuals with a disease who die from it</meaning></definition>
-<definition id="def-00006"><term>chance</term> <meaning>a random error that may occur within any study</meaning></definition>
+<definition id="def-00006"><term>chance</term> <meaning>a random error in a study</meaning></definition>
 <definition id="def-00007"><term>confounding</term> <meaning>a type of error that may result in an incorrect causation or conclusion</meaning></definition>
 <definition id="def-00008"><term>confidence intervals</term> <meaning>the relative risk (or other risk measure) found in the study and an interval within which the risk would most likely fall if the study were repeated multiple times</meaning></definition>
 <definition id="def-00009"><term>death-to-case ratio</term> <meaning>the number of deaths attributed to a disease during a specific period of time divided by the number of new cases of that disease during the same period</meaning></definition>
@@ -357,7 +357,7 @@
 <definition id="def-00011"><term>epidemic</term> <meaning>when the level of disease in a defined area rises above endemic levels</meaning></definition>
 <definition id="def-00012"><term>hyperendemic</term> <meaning>persistent high levels of disease in a defined area</meaning></definition>
 <definition id="def-00013"><term>incidence proportion</term> <meaning>the proportion of a population that develops an illness during an outbreak (synonym of attack rate)</meaning></definition>
-<definition id="def-00014"><term>incidence rate</term> <meaning>all new cases of a disease or health condition appearing during a given period of time divided by the population at risk during the same period</meaning></definition>
+<definition id="def-00014"><term>incidence rate</term> <meaning>during a given time period, all new cases of a disease or health condition divided by the population at risk</meaning></definition>
 <definition id="def-00015"><term>morbidity</term> <meaning>having a disease, illness, or medical condition; includes disease, injury, and disability</meaning></definition>
 <definition id="def-00016"><term>mortality rate</term> <meaning>the frequency of death in a defined population during a specific time interval</meaning></definition>
 <definition id="def-00017"><term>odds ratio (OR)</term> <meaning>odds a case was exposed divided by the odds a control was exposed; quantitatively expresses the association between an exposure and a disease or health outcome; most often used to estimate the relative risk in case-control studies when the disease being investigated is rare</meaning></definition>
@@ -370,7 +370,7 @@
 <definition id="def-00024"><term>relative risk (RR)</term> <meaning>the ratio of the incidence proportion of the health event in exposed individuals (or the group of primary interest) to the incidence proportion in unexposed individuals (or the comparison group); compares the risk of a health event among one group with the risk among another group; see also risk ratio</meaning></definition>
 <definition id="def-00025"><term>risk ratio</term> <meaning>synonym of <emphasis effect="italics">relative risk</emphasis></meaning></definition>
 <definition id="def-00026"><term>sample size</term> <meaning>the number of participants in a study</meaning></definition>
-<definition id="def-00027"><term>sporadic</term> <meaning>diseases that occur occasionally at irregular intervals</meaning></definition>
+<definition id="def-00027"><term>sporadic</term> <meaning>diseases that occur at irregular intervals</meaning></definition>
 <definition id="def-00028"><term>statistical significance</term> <meaning>an assessment for random error in a study</meaning></definition>
 </glossary>
 </document>
