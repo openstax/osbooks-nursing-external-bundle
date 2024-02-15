@@ -38,7 +38,7 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <tbody>
-<row>
+  <row class="header-row">
 <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Water-Soluble Vitamins</span></emphasis></entry>
 </row>
 <row>
@@ -84,14 +84,14 @@ participates in the synthesis of steroid hormones and fatty acids</entry>
 <entry valign="top" align="left">Citrus fruits and juices, strawberries, kiwi, potatoes, tomatoes, and cantaloupe</entry>
 <entry valign="top" align="left">Poor wound healing, bleeding gums, and scurvy</entry>
 </row>
-<row>
+<row class="header-row">
 <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Fat-Soluble Vitamins</span></emphasis></entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
-<entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Vitamin</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Function</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Food Source</span></emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Deficit Conditions</span></emphasis></entry>
 </row>
 <row>
 <entry valign="top" align="center"><term class="no-emphasis" id="term-00013">A (Retinol and beta carotene)</term></entry>
