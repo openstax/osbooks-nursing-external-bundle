@@ -69,7 +69,7 @@
           </row>
           </thead>
           <tbody>
-          <row>
+            <row class="header-row">
     <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Opioid-Related Antidiarrheals</emphasis></span></entry>
     </row>
     <row>
@@ -83,7 +83,7 @@
     (<term class="no-emphasis" id="term-00006">Imodium</term>)</entry>
     <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 4 mg after the first loose stool, 2 mg after each subsequent loose stool, but no more than 8 caplets in 24 hours.</entry>
     </row>
-    <row>
+    <row class="header-row">
     <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Adjuvant Antidiarrheals</emphasis></span></entry>
     </row>
     <row>

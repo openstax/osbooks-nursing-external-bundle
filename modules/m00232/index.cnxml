@@ -83,8 +83,8 @@
 <row>
 <entry valign="top" align="left"/>
 <entry valign="top" align="left"/>
-<entry valign="top" align="left"><emphasis effect="bold">Major Anions</emphasis></entry>
-<entry valign="top" align="left"><emphasis effect="bold">Major Cations</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Major Anions</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Major Cations</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left">Intracellular fluid</entry>

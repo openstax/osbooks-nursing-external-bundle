@@ -586,7 +586,7 @@ Binds to a unique synaptic vesicle protein 2A (SV2A)—SV2A protein is a part of
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
 Individualized based on disease process.<newline count="2"/>
 <emphasis effect="italics">Adults and adolescents 16 years of age or older:</emphasis> Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).<newline count="2"/>
-Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg. <emphasis effect="italics">Children younger than 16 years of age:</emphasis><newline count="2"/>
+<emphasis effect="italics">Children younger than 16 years of age:</emphasis> Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.<newline count="2"/>
 <emphasis effect="italics">1 month to &lt;6 months:</emphasis> Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily) Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily). In the clinical trial, the mean daily dose was 35 mg/kg in this age group.<newline count="2"/>
 <emphasis effect="italics">6 months to &lt;4 years:</emphasis> Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily). Increase the daily dose in 2 weeks by an increment of 20 mg/kg to the recommended daily dose of 50 mg/kg (25 mg/kg twice daily). If a client cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced. In the clinical trial, the mean daily dose was 47 mg/kg in this age group.<newline count="2"/>
 <emphasis effect="italics">4 years to &lt;16 years:</emphasis> Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily). Increase the daily dose every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily). If a client cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced. In the clinical trial, the mean daily dose was 44 mg/kg.<newline count="2"/>
@@ -658,10 +658,14 @@ Monitor closely for behavioral abnormalities such as increase in aggression, agi
 in clients >12 years of age: Somnolence, dizziness, ataxia, fatigue, and nystagmus<newline count="2"/>
 <emphasis effect="italics">In clients 3–12 years:</emphasis> Viral infection, fever, nausea and/or vomiting, somnolence, and hostility<newline count="2"/>
 <emphasis effect="italics">Contraindications:</emphasis> Hypersensitivity to the drug or its ingredients</entry>
-<entry valign="top" align="left"><emphasis effect="italics">In clients 12 years of age and above:</emphasis> Starting dose 300 mg orally 3 times daily<newline/>
+<entry valign="top" align="left"><emphasis effect="italics">In clients 12 years of age and above:</emphasis><newline/>
+ Starting dose 300 mg orally 3 times daily<newline/>
 Recommended maintenance is 300–600 mg 3 times daily.<newline/>
-<emphasis effect="italics">In clients 3–11 years:</emphasis> Starting dose range is 10 mg/kg/day–15 mg/kg/day orally given in 3 divided doses and the recommended maintenance dose reached by upward titration over a period of 3 days <emphasis effect="italics">Recommended maintenance dose for 3–4 years of age:</emphasis> 40 mg/kg/day orally in 3 divided doses<newline/>
-<emphasis effect="italics">Recommended maintenance dose for 5–11 years of age:</emphasis> 25 mg/kg/day–35 mg/kg/day orally in 3 divided doses</entry>
+<emphasis effect="italics">In clients 3–11 years:</emphasis><newline/>
+Starting dose range is 10 mg/kg/day–15 mg/kg/day orally given in 3 divided doses and the recommended maintenance dose reached by upward titration over a period of 3 days <emphasis effect="italics">Recommended maintenance dose for 3–4 years of age:</emphasis><newline/>
+40 mg/kg/day orally in 3 divided doses<newline/>
+<emphasis effect="italics">Recommended maintenance dose for 5–11 years of age:</emphasis><newline/>
+25 mg/kg/day–35 mg/kg/day orally in 3 divided doses</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00058">Lamotrigine</term><newline/>
@@ -675,7 +679,7 @@ Recommended maintenance is 300–600 mg 3 times daily.<newline/>
 <emphasis effect="italics">Weeks 1 and 2:</emphasis> 25 mg every other day<newline/>
 <emphasis effect="italics">Weeks 3 and 4:</emphasis> 25 mg daily<newline/>
 <emphasis effect="italics">Week 5 onward</emphasis>: Increase by 25–50 mg/day every 1–2 weeks<newline/>
-<emphasis effect="italics">Maintenance dose:</emphasis> 200–250 mg daily <emphasis effect="italics">Extended-release oral dosing (in clients taking Valproate concurrently):</emphasis><newline/>
+<emphasis effect="italics">Maintenance dose:</emphasis> 200–250 mg daily<newline count="2"/><emphasis effect="italics">Extended-release oral dosing (in clients taking Valproate concurrently):</emphasis><newline/>
 <emphasis effect="italics">Weeks 1 and 2:</emphasis> 25 mg every other day<newline/>
 <emphasis effect="italics">Weeks 3 and 4:</emphasis> 25 mg daily<newline/>
 <emphasis effect="italics">Week 5:</emphasis> 50 mg daily<newline/>

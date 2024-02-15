@@ -49,10 +49,10 @@
   <tgroup cols="4">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="2*"/>
   <colspec colnum="4" colname="c4" colwidth="2*"/>
   <tbody>
-  <row>
+    <row class="header-row">
   <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Crystalloid Intravenous Solutions</span></emphasis></entry>
   </row>
   <row>
@@ -90,14 +90,14 @@
   <item>High concentrations of dextrose must be administered through a central venous catheter (do not administer through a peripheral intravenous catheter because this may cause vein irritation/damage or thrombosis)</item>
   <item>Administer via IV infusion device/pump and monitor electrolytes closely</item></list></entry>
   </row>
-  <row>
+  <row class="header-row">
   <entry valign="top" align="center" namest="c1" nameend="c4"><emphasis effect="bold"><span class="blue-text">Colloidal Intravenous Solutions</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Solution Classification</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Fluid Names</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></entry>
-  <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Solution Classification</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Fluid Names</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis></entry>
+  <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
   </row>
   <row>
   <entry valign="top" align="center">High molecular weight</entry>
