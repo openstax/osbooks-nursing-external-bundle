@@ -360,7 +360,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Name</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
 <entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
 </row>
 </thead>
@@ -410,8 +410,8 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="center"><span class="blue-text">Name</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Route/Dosage</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
 </row>
 </thead>
 <tbody>
