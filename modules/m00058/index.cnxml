@@ -244,7 +244,7 @@
 <section id="sect-00010">
 <title>Diagnostic Assessment</title>
 <para id="para-00032">The <term class="no-emphasis" id="term-00100">diagnostic assessment</term> should include a laboratory assessment, imaging, and other noninvasive diagnostic tests. The <term class="no-emphasis" id="term-00101">laboratory assessment</term> may include blood studies and <term class="no-emphasis" id="term-00102">arterial blood gases</term>. Arterial blood gases are the best way to determine adequate <term class="no-emphasis" id="term-00103">oxygenation</term> in hospitalized or unstable clients. An initial evaluation of <term class="no-emphasis" id="term-00104">albumin</term> may indicate concern for <term class="no-emphasis" id="term-00105">dehydration</term> or <term class="no-emphasis" id="term-00106">malnutrition</term>. <term class="no-emphasis" id="term-00107">Prealbumin</term> provides a valid evaluation of <term class="no-emphasis" id="term-00108">protein–calorie malnutrition</term>. The example laboratory profile in <link target-id="table-00002" document="m00058"/> shows normal ranges and possible reasons for abnormal ranges.</para>
-<table class="vertically-tight alternate-shading" id="table-00002">
+<table class="vertically-tight" id="table-00002">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -325,7 +325,7 @@
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00126">Neutrophils</term></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00026">
-<item>2.6 – 8.5 × 10<sup>9</sup> cells/L</item>
+<item>2.6–8.5 × 10<sup>9</sup> cells/L</item>
 </list>
 </entry>
 <entry valign="top" align="left">
@@ -401,11 +401,11 @@
 <list list-type="bulleted" id="list-00039">
 <item>Elevated levels: <term class="no-emphasis" id="term-00143">chronic kidney disease</term>, <term class="no-emphasis" id="term-00144">steroid use</term>, or alcohol use disorder</item>
 <item>Decreased levels: malnutrition, <term class="no-emphasis" id="term-00145">liver disease</term>, infection, or inflammation</item>
-<item>Follow-up diagnostics: nutritional assessment, hemoglobin, and anemia evaluation (iron, transferrin, folate, and vitamin B<sub>12</sub>)</item></list>
+<item>Follow-up diagnostics: nutritional assessment,<newline/> hemoglobin, and anemia evaluation (iron, transferrin, folate, and vitamin B<sub>12</sub>)</item></list>
 </entry>
 </row>
 <row class="header-row">
-<entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text">Arterial Blood Gases</span></entry>
+<entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Arterial Blood Gases</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00147">PaO2</term></entry>
