@@ -249,7 +249,7 @@
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Test</emphasis></span></entry>
@@ -279,8 +279,8 @@
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00020">
 <item>Females: 120–160g/dL
-(12–16 g/dL conventional units)</item>
-<item>Males: 140–170 g/dL (14–17 g/dL conventional units)</item>
+(12–16 g/dL conventional&#160;units)</item>
+<item>Males: 140–170 g/dL (14–17 g/dL conventional&#160;units)</item>
 </list>
 </entry>
 <entry valign="top" align="left">
@@ -294,8 +294,8 @@
 <entry valign="top" align="left"><term class="no-emphasis" id="term-00121">Hematocrit</term></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00022">
-<item>Females: 37–47% (conventional units)</item>
-<item>Males: 41–51% (conventional units)</item>
+<item>Females: 37–47% (conventional&#160;units)</item>
+<item>Males: 41–51% (conventional&#160;units)</item>
 </list>
 </entry>
 <entry valign="top" align="left">
@@ -313,7 +313,7 @@
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00025">
-<item>Elevated levels: possible acute infection or<newline/> inflammation</item>
+<item>Elevated levels: possible acute infection or inflammation</item>
 <item>Decreased levels: an overwhelming infection, an autoimmune disorder, or <term class="no-emphasis" id="term-00124">immunosuppressant therapy</term></item>
 </list>
 </entry>
@@ -330,7 +330,7 @@
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00027">
-<item>Elevated levels: possible <term class="no-emphasis" id="term-00127">acute bacterial infection</term> (<term class="no-emphasis" id="term-00128">pneumonia</term>), COPD, or inflammatory conditions<newline/> (smoking)</item>
+<item>Elevated levels: possible <term class="no-emphasis" id="term-00127">acute bacterial infection</term> (<term class="no-emphasis" id="term-00128">pneumonia</term>), COPD, or inflammatory conditions (smoking)</item>
 <item>Decreased levels: possible viral disease (<term class="no-emphasis" id="term-00129">influenza</term>)</item></list>
 </entry>
 </row>
@@ -383,25 +383,25 @@
 <entry valign="top" align="left">Albumin</entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00036">
-<item>35–54 g/L (3.5–5.4 g/dL conventional units)</item></list></entry>
+<item>35–54 g/L (3.5–5.4 g/dL conventional&#160;units)</item></list></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00037">
 <item>Elevated levels: <term class="no-emphasis" id="term-00141">dehydration</term></item>
 <item>Decreased levels: chronic disease, <term class="no-emphasis" id="term-00142">malabsorption</term>, malnutrition with low protein, or dilution by IV fluids</item>
-<item>Follow-up diagnostics: prealbumin,<newline/> blood urea nitrogen, or zinc (deficiency increases risk for pneumonia [Keller, 2019])</item></list>
+<item>Follow-up diagnostics: prealbumin, blood urea nitrogen, or zinc (deficiency increases risk for pneumonia [Keller, 2019])</item></list>
 </entry>
 </row>
 <row>
 <entry valign="top" align="left">Prealbumin</entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00038">
-<item>180–450 mg/L (18–45 mg/dL conventional units)</item></list>
+<item>180–450 mg/L (18–45 mg/dL conventional&#160;units)</item></list>
 </entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00039">
 <item>Elevated levels: <term class="no-emphasis" id="term-00143">chronic kidney disease</term>, <term class="no-emphasis" id="term-00144">steroid use</term>, or alcohol use disorder</item>
 <item>Decreased levels: malnutrition, <term class="no-emphasis" id="term-00145">liver disease</term>, infection, or inflammation</item>
-<item>Follow-up diagnostics: nutritional assessment,<newline/> hemoglobin, and anemia evaluation (iron, transferrin, folate, and vitamin B<sub>12</sub>)</item></list>
+<item>Follow-up diagnostics: nutritional assessment, hemoglobin, and anemia evaluation (iron, transferrin, folate, and vitamin B<sub>12</sub>)</item></list>
 </entry>
 </row>
 <row class="header-row">
