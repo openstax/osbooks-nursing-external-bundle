@@ -17,7 +17,7 @@
 </section>
 <section id="sect-00002">
 <title>Nutritional Function of Proteins</title>
-<para id="para-00002">Proteins are found in every cell and perform various functions in the human body. The <term class="no-emphasis" id="term-00001">digestion</term> of <term class="no-emphasis" id="term-00002">proteins</term> begins in the stomach with the enzyme pepsin and hydrochloric acid. The acidic environment denatures the proteins, and the enzyme divides the protein into smaller <term id="term-00003">polypeptides</term>, which are linear organic molecules consisting of many amino acid residues bonded together in a chain, forming part or all of a protein. The <term class="no-emphasis" id="term-00004">small intestine</term> also releases digestive hormones, including secretin and cholecystokinin, which stimulate the enzymes to break down the proteins into individual amino acids. Accessory organs release additional enzymes and contribute to the breaking of complex proteins into smaller individual amino acids, which are transported across the intestinal mucosa.</para>
+<para id="para-00002"><term class="no-emphasis" id="term-00002">Protein</term>s are found in every cell and perform various functions in the human body. The <term class="no-emphasis" id="term-00001">digestion</term> of proteins begins in the stomach with the enzyme pepsin and hydrochloric acid. The acidic environment denatures the proteins, and the enzyme divides the protein into smaller <term id="term-00003">polypeptides</term>, which are linear organic molecules consisting of many amino acid residues bonded together in a chain, forming part or all of a protein. The <term class="no-emphasis" id="term-00004">small intestine</term> also releases digestive hormones, including secretin and cholecystokinin, which stimulate the enzymes to break down the proteins into individual amino acids. Accessory organs release additional enzymes and contribute to the breaking of complex proteins into smaller individual amino acids, which are transported across the intestinal mucosa.</para>
 <para id="para-00003">In the final stages of <term class="no-emphasis" id="term-00005">metabolism</term>, <term class="no-emphasis" id="term-00006">amino acids</term> remain in the <term id="term-00007">amino acid pool</term>, a total number of <term class="no-emphasis" id="term-00008">essential amino acids</term> and <term class="no-emphasis" id="term-00009">nonessential amino acids</term> available for building proteins, which is regulated by the liver. Circulating amino acids recombine to form every protein required for maintenance and growth. In contrast, excess protein is converted to glucose or triglycerides depending on the body’s need for energy. The sequence of the amino acids and folding of the protein molecule determines the function (<link target-id="fig-00001" document="m00010"/>).</para>
 <figure class="scaled-down" id="fig-00001"><media alt="The four levels of a protein structure. The primary structure is the amino acid sequence. Secondary structure is a regular folding pattern due to hydrogen bonding. Two types of secondary structures are shown: a beta pleated sheet, which is flat with regular bends, and an alpha helix, which coils like a spring. The tertiary structure has a three-dimensional folding pattern of the protein due to interactions between amino acid side chains. The quaternary structure is a three-dimensional, multi-fold structure from the interaction of two or more amino acid chains."><image mime-type="image/jpg" src="../../media/NUT_Figure_02_03_002.png"/></media>
 <caption>The structure of a protein determines its function. (credit: modification of work from <emphasis effect="italics">Biology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
@@ -232,7 +232,7 @@
 <tbody>
 <row>
 <entry valign="top" align="left">Stage 1</entry>
-<entry valign="top" align="left">GFR &#8805; 90 (normal); abnormal level of protein detected in urine</entry>
+<entry valign="top" align="left">GFR ≥ 90 (normal); abnormal level of protein detected in urine</entry>
 <entry valign="top" align="left">No more than 0.8</entry>
 </row>
 <row>
@@ -257,7 +257,7 @@
 </row>
 <row>
 <entry valign="top" align="left">Stage 5</entry>
-<entry valign="top" align="left">GFR &#60; 15</entry>
+<entry valign="top" align="left">GFR &lt; 15</entry>
 <entry valign="top" align="left">0.55–0.60</entry>
 </row>
 <row>
