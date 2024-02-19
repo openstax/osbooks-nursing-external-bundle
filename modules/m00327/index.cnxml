@@ -124,16 +124,20 @@
 <entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00005"><item>Prevent individuals and families from becoming homeless by addressing contributing factors.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00007"><item>˚ Advocate for affordable housing</item>
-<item>˚ Advocate for a living wage</item>
-<item>˚ Advocate for affordable, accessible health care</item>
-<item>˚ Refer those with mental health disorders to appropriate counseling and therapy</item>
-<item>˚ Provide parenting workshops to help families deal with conflict and develop resilience in order to decrease the number of adolescent runaways</item></list>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00007"><item>
+  <list list-type="bulleted" id="list-00006">
+  <item>Advocate for affordable housing</item>
+<item>Advocate for a living wage</item>
+<item>Advocate for affordable, accessible health care</item>
+<item>Refer those with mental health disorders to appropriate counseling and therapy</item>
+<item>Provide parenting workshops to help families deal with conflict and develop resilience in order to decrease the number of adolescent runaways</item></list>
+</item></list>
 </entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00009"><item>˚ Advocate for affordable and high-quality childcare</item>
-<item>˚ Provide violence prevention and anger management classes</item>
-<item>˚ Advocate for substance use disorder services management and treatment in every community</item>
-</list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00009"><item>
+  <list list-type="bulleted" id="list-00008"><item>Advocate for affordable and high-quality childcare</item>
+<item>Provide violence prevention and anger management classes</item>
+<item>Advocate for substance use disorder services management and treatment in every community</item></list>
+</item></list></entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term id="term-00035">Secondary Prevention</term></emphasis></span></entry>
@@ -144,17 +148,21 @@
 </entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00013"><item>˚ Refer to social support agencies to assist in applying for aid</item>
-<item>˚ Assist in locating an available shelter</item>
-<item>˚ Advocate for more short-term residences for families experiencing homelessness</item>
-<item>˚ Advocate at the state level for more funding for single-room occupancy (SRO) options</item>
-<item>˚ Advocate for more medical respite facilities</item>
-<item>˚ Advocate for local social services in every community</item>
-</list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00015"><item>˚ Screen for communicable diseases such as HIV, TB, hepatitis, sexually transmitted infections, hypertension, and diabetes</item>
-<item>˚ Advocate for more community-based health centers that focus on serving disadvantaged populations</item>
-<item>˚ Advocate for mobile health vans to take clinical medicine to the streets</item>
-</list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00013"><item>
+  <list list-type="bulleted" id="list-00012"> 
+ <item>Refer to social support agencies to assist in applying for aid</item>
+<item>Assist in locating an available shelter</item>
+<item>Advocate for more short-term residences for families experiencing homelessness</item>
+<item>Advocate at the state level for more funding for single-room occupancy (SRO) options</item>
+<item>Advocate for more medical respite facilities</item>
+<item>Advocate for local social services in every community</item></list>
+</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00015"><item>
+  <list list-type="bulleted" id="list-00014"><item>Screen for communicable diseases such as HIV, TB, hepatitis, sexually transmitted infections, hypertension, and diabetes</item>
+<item>Advocate for more community-based health centers that focus on serving disadvantaged populations</item>
+<item>Advocate for mobile health vans to take clinical medicine to the streets</item></list>
+</item></list>
+</entry>
 </row>
 <row>
 <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term id="term-00036">Tertiary Prevention</term></emphasis></span></entry>
@@ -163,8 +171,12 @@
 <entry valign="top" align="left" namest="c1" nameend="c2"><list list-type="bulleted" id="list-00016"><item>Prevent recurrence of poverty and homelessness.</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00018"><item>˚ Advocate for changes at the state and federal level to provide needed services to address chronic homelessness such as providing housing stability and support for those in need. An example is Housing First, a program that prioritizes permanent housing for individuals experiencing homelessness (NAEH, 2022a). It provides permanent housing without prerequisites or conditions beyond those that are typically expected of a renter.</item></list></entry>
-<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00020"><item>˚ All steps included within primary prevention</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00018"><item>
+  <list list-type="bulleted" id="list-00017"><item>Advocate for changes at the state and federal level to provide needed services to address chronic homelessness such as providing housing stability and support for those in need. An example is Housing First, a program that prioritizes permanent housing for individuals experiencing homelessness (NAEH, 2022a). It provides permanent housing without prerequisites or conditions beyond those that are typically expected of a renter.</item></list>
+</item></list></entry>
+<entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00020"><item>
+  <list list-type="bulleted" id="list-00019"><item>All steps included within primary prevention</item></list>
+</item></list></entry>
 </row>
 </tbody>
 </tgroup>

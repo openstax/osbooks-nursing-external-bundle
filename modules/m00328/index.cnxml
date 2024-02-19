@@ -38,7 +38,7 @@
 <title>The Nurse’s Role in Caring for Veterans</title>
 <para id="para-00010">Community and public health nurses interface with veterans regularly, as they live in the community, and many veterans seek care in community-based or private health care centers. Familiarity with this population’s health needs and challenges is key to providing culturally appropriate care. Nurses can affect positive changes in care for veterans by seeking and advocating for appropriate training on military separation issues, how clients’ military history may affect health risks, and how to address emotional health concerns (Crowley et al., 2021).</para>
 <para id="para-00011">When nurses are aware of veteran health needs, they can screen these clients more holistically and spot subtle signs of physical or mental illness. From appropriate <term class="no-emphasis" id="term-00009">screening</term> to advocating for unmet health needs or issues with access to care, nurses can positively impact the health of this vulnerable population. Studies have found that veterans often feel invisible, forgotten, or undervalued and struggle to access the care they need. This results in veterans, like individuals experiencing homelessness, overutilizing the emergency department (Weber et al., 2020). Nurses can advocate for better access to care while also appropriately referring veterans to health services within the community, a case management role. Nurses have the requisite knowledge and skills to translate this case management need into action. An acute awareness of this population’s mental health challenges and needs enables nurses to assist veterans in accessing necessary mental health services.</para>
-<para id="para-00012">Research has found veterans with PTSD and other mental health conditions have higher rates of tobacco use, hypertension, hyperlipidemia, and obesity than veterans without mental health diagnoses, underscoring the need for primary and secondary prevention (Reisinger et al., 2012). Primary prevention aims to block the onset of conditions or diseases for which this population is at higher risk, and secondary prevention focuses on screening to detect disease onset early to provide immediate treatment to decrease the risk of adverse health outcomes (<link target-id="table-00001" document="m00328"/>).</para>
+<para id="para-00012">Veterans with PTSD and other mental health conditions have higher rates of tobacco use, hypertension, hyperlipidemia, and obesity than veterans without mental health diagnoses, underscoring the need for primary and secondary prevention (Reisinger et al., 2012). Primary prevention aims to block the onset of conditions or diseases for which this population is at higher risk, and secondary prevention focuses on screening to detect disease onset early to provide immediate treatment to decrease the risk of adverse health outcomes (<link target-id="table-00001" document="m00328"/>).</para>
 <table class="vertically-tight" id="table-00001">
 <title/>
 <tgroup cols="2">
@@ -55,11 +55,11 @@
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00004"><item>
-<list list-type="bulleted" bullet-style="none" id="list-00005"><item>&#730; Provide health promotion sessions on the adverse effects of tobacco use</item>
-<item>&#730; Provide health promotion sessions on alcohol and drug misuse</item>
-</list></item></list></entry>
+<list list-type="bulleted" id="list-00005"><item>Provide health promotion sessions on the adverse effects of tobacco use</item>
+<item>Provide health promotion sessions on alcohol and drug misuse</item></list>
+</item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00006"><item>
-<list list-type="bulleted" bullet-style="none" id="list-00007"><item>&#730; Provide health promotion sessions on a heart-healthy diet and exercise to promote cardiovascular health</item></list>
+<list list-type="bulleted" id="list-00007"><item>Provide health promotion sessions on a heart-healthy diet and exercise to promote cardiovascular health</item></list>
 </item></list></entry>
 </row>
 <row>
@@ -71,14 +71,14 @@
 </row>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00010"><item>
-<list list-type="bulleted" bullet-style="none" id="list-00011"><item>&#730; Screen veterans for tobacco use</item>
-<item>&#730; Screen veterans for alcohol and cannabis misuse</item>
-<item>&#730; Screen veterans for general substance use</item>
+<list list-type="bulleted" id="list-00011"><item>Screen veterans for tobacco use</item>
+<item>Screen veterans for alcohol and cannabis misuse</item>
+<item>Screen veterans for general substance use</item>
 </list></item></list></entry>
 <entry valign="top" align="left"><list list-type="bulleted" bullet-style="none" id="list-00012"><item>
-<list list-type="bulleted" bullet-style="none" id="list-00013"><item>&#730; Screen veterans at each visit for hypertension</item>
-<item>&#730; Each year, screen veterans for hyperlipidemia and for obesity with a body mass index reading</item>
-<item>&#730; Screen veterans at each visit for depression, PTSD, and suicide risk</item>
+<list list-type="bulleted" id="list-00013"><item>&#730; Screen veterans at each visit for hypertension</item>
+<item>Each year, screen veterans for hyperlipidemia and for obesity with a body mass index reading</item>
+<item>Screen veterans at each visit for depression, PTSD, and suicide risk</item>
 </list></item></list></entry>
 </row>
 <row>
