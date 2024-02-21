@@ -51,7 +51,7 @@
     </section>
     </section>
     <section id="sect-00008">
-    <title><term class="no-emphasis" id="term-00008">Vaccines and Immunizations</term></title>
+    <title><term id="term-00008">Vaccines and Immunizations</term></title>
     <para id="para-00008"><term id="term-00009">Vaccines</term> and <term id="term-00010">immunizations</term> are related concepts, but they differ in their scope and application. Vaccines are biological substances designed to stimulate the immune system and generate a protective response against specific pathogens (CDC, 2023a). They can be composed of weakened or inactivated forms of the disease-causing agent (virus, bacteria, or toxin) or subunits of the pathogen. When administered, vaccines prompt the immune system to recognize the antigens present in the vaccine and produce antibodies, memory cells, and other immune responses. These immune responses prepare the body to defend against future infections by the actual pathogen.</para>
     <para id="para-00009">Immunization is the process of administering vaccines to clients, aiming to establish immunity against certain diseases (CDC, 2023a). It is a preventive measure to protect clients from infections, especially those that can cause severe illness, disability, or death. Through immunizations, clients build immunity without experiencing the full-blown disease, which reduces the risk of infection and contributes to public health by controlling the spread of disease.</para>
     <para id="para-00010">Vaccines employ various mechanisms of action, and there are different types including:</para>
@@ -111,7 +111,7 @@
     <entry valign="top" align="left">Prevention of infection caused by all known subtypes of hepatitis B virus</entry>
     <entry valign="top" align="left"><emphasis effect="italics">Children (0–19 years of age pediatric/adolescent formulation):</emphasis> 5 mcg (0.5 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
     <emphasis effect="italics">Adolescents (11–15 years of age adult formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 2 doses at 0 and 4–6 months.<newline/>
-    <emphasis effect="italics">Adults (&#8805;20 years and older formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
+    <emphasis effect="italics">Adults (&#8805;20 years formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
     <emphasis effect="italics">Predialysis and dialysis clients</emphasis>: 40 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.</entry>
     </row>
     <row>
@@ -150,7 +150,7 @@
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00036">Pneumococcal polyvarent vaccine</term><newline/>
     (<term class="no-emphasis" id="term-00037">Pneumovax 23</term>)</entry>
     <entry valign="top" align="left">Active immunization for the prevention of pneumococcal disease caused by the 23 serotypes contained in the vaccine</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children (≤2 years):</emphasis> 1 dose (0.5 mL) intramuscularly. </entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children (≥2 years):</emphasis> 1 dose (0.5 mL) intramuscularly as indicated based on the client's age and clinical condition. . </entry>
     </row>
     <row>
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00038">Pneumococcal 13-variant vaccine </term><newline/>
