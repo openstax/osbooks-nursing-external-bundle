@@ -184,7 +184,7 @@
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Edoxaban</term><newline/>
 (<term class="no-emphasis" id="term-00031">Savaysa</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Atrial fibrillation:</emphasis> 60 mg orally once daily.<newline/>
-<emphasis effect="italics">Treatment of deep vein thrombosis:</emphasis> 60 mg orally once daily for clients >60 kg or 30 mg orally once daily for clients &#8804; 60 kg (after at least 5 days of parenteral anticoagulation).</entry>
+<emphasis effect="italics">Treatment of deep vein thrombosis:</emphasis> 60 mg orally once daily for clients >60 kg or 30 mg orally once daily for clients &#8804;60 kg (after at least 5 days of parenteral anticoagulation).</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00032">Dabigatran</term><newline/>
@@ -211,11 +211,11 @@
 </note>
 </section>
 <section id="sect-00012">
-<title><term class="no-emphasis" id="term-00036">Vitamin K (Phytonadione)</term></title>
+<title><term id="term-00036">Vitamin K (Phytonadione)</term></title>
 <para id="para-00030">Vitamin K is also known as phytonadione. It is the same substance present in food and is an antidote for the effect of warfarin. It is FDA approved for the reversal of anticoagulation due to warfarin, vitamin K deficiency, and for prophylaxis and treatment of vitamin K deficiency&#8211;related bleeding in newborns. It is available in oral and intravenous forms. The dose given and route of administration varies based on clinical need. Intravenous vitamin K reverses the effect of warfarin faster than oral vitamin K (onset within 1–2 hours vs. 6–10 hours) and is used during acute bleeding if urgent reversal is needed. When reversing the effect of warfarin, a higher dose is generally used for higher INR elevations. However, high doses can lead to difficulty anticoagulating a client with warfarin in the future. It is important to avoid confusion of vitamin K with potassium, which can also be abbreviated with “K.”</para>
 </section>
 <section id="sect-00013">
-<title><term class="no-emphasis" id="term-00037">DOAC Reversal Agents</term></title>
+<title><term id="term-00037">DOAC Reversal Agents</term></title>
 <para id="para-00031">Specific agents for DOAC reversal have been approved. Idarucizumab is used for life-threatening or uncontrolled bleeding in clients that have taken dabigatran. It is a humanized monoclonal antibody that binds dabigatran to remove it from the blood, ceasing its anticoagulant effect. Andexanet alfa is used for life-threatening or uncontrolled bleeding in clients who have taken apixaban or rivaroxaban. It is a recombinant inactive form of factor Xa. It binds the factor Xa inhibitors, ceasing their anticoagulant effect. Prothrombin complex concentrates, which are the components of blood containing clotting factors, are also used for reversal of DOACs at some institutions.</para>
 </section>
 </section>
@@ -359,7 +359,7 @@ Metformin 500 mg orally daily</para>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
-<entry valign="top" align="left">5’10”</entry>
+<entry valign="top" align="left">5'10"</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
