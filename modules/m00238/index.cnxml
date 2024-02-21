@@ -62,8 +62,8 @@
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top" align="center">Isotonic</entry>
-  <entry valign="top" align="center">Lactated Ringer’s (LR)<newline/>
+  <entry valign="top" align="left">Isotonic</entry>
+  <entry valign="top" align="left">Lactated Ringer’s (LR)<newline/>
   0.9% normal saline (NaCl)<newline/>
   5% dextrose in water (D<sub>5</sub>W)</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00002"><item>Rehydration and sodium repletion</item>
@@ -72,16 +72,16 @@
   <item>Do not administer to clients with increased intracranial pressure</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="center">Hypotonic</entry>
-  <entry valign="top" align="center">0.45% normal saline (1/2 NaCl)<newline/>
+  <entry valign="top" align="left">Hypotonic</entry>
+  <entry valign="top" align="left">0.45% normal saline (1/2 NaCl)<newline/>
   0.33% normal saline (1/3 NaCl)</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00004"><item>Replaces intracellular fluid volume deficit</item>
   <item>Provides free water to allow excretion of body wastes</item></list></entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00005"><item>Do not administer to clients with increased ICP</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="center">Hypertonic</entry>
-  <entry valign="top" align="center">3% normal saline (3% NaCl)<newline/>
+  <entry valign="top" align="left">Hypertonic</entry>
+  <entry valign="top" align="left">3% normal saline (3% NaCl)<newline/>
   10% dextrose in water (D<sub>10</sub>W)</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00006"><item>Increases serum osmolality</item>
   <item>Corrects severe hyponatremia</item>
@@ -100,8 +100,8 @@
   <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Precautions</span></emphasis></entry>
   </row>
   <row>
-  <entry valign="top" align="center">High molecular weight</entry>
-  <entry valign="top" align="center">Dextran 75<newline/>
+  <entry valign="top" align="left">High molecular weight</entry>
+  <entry valign="top" align="left">Dextran 75<newline/>
   Dextran 70 6% in 5% dextrose</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00008"><item>Repletion of fluid volume</item></list></entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00009"><item>Monitor closely for signs of fluid volume excess during therapy</item>
@@ -109,8 +109,8 @@
   <item>Contraindicated in clients with heart, kidney, liver, or bleeding disorders</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="center">Hydroxyethyl starch</entry>
-  <entry valign="top" align="center">Hetastarch 6%<newline/>
+  <entry valign="top" align="left">Hydroxyethyl starch</entry>
+  <entry valign="top" align="left">Hetastarch 6%<newline/>
   Hespan<newline/>
   Hextend</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>Repletion of fluid volume</item></list></entry>
@@ -119,8 +119,8 @@
   <item>Contraindicated in clients with bleeding disorders or cardiac, kidney, or liver disorders</item></list></entry>
   </row>
   <row>
-  <entry valign="top" align="center">Human albumin</entry>
-  <entry valign="top" align="center">Albumin 5%<newline/>
+  <entry valign="top" align="left">Human albumin</entry>
+  <entry valign="top" align="left">Albumin 5%<newline/>
   Albumin 25%</entry>
   <entry valign="top" align="left"><list list-type="bulleted" id="list-00012"><item>Albumin 5% is more commonly used in the treatment of volume loss such as in dehydration</item>
   <item>Albumin 25% is the therapeutic choice when either sodium or fluid is restricted or in colloidal osmotic pressure deficiencies</item></list></entry>
@@ -174,7 +174,7 @@
   <item>Refeeding syndrome</item>
   <item>Venous thrombosis</item>
   </list>
-  <para id="para-00020">Clients should be monitored closely until they are stable. Monitoring should include the following (Hamdan &amp; Puckett, 2022):</para>
+  <para id="para-00020">Clients should be monitored closely until they are stable. Monitoring should include (Hamdan &amp; Puckett, 2022):</para>
   <list list-type="bulleted" id="list-00017">
   <item>Intake and output every 12 hours</item>
   <item>Urine sugar monitoring every 8 hours</item>
