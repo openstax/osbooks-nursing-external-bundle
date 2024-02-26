@@ -307,7 +307,7 @@ Clinical depression</entry>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
 </row>
 </thead>
 <tbody>
@@ -361,7 +361,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
 </row>
 </thead>
 <tbody>
@@ -411,7 +411,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <thead>
 <row>
 <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-<entry valign="top" align="center"><span class="blue-text">Route and Dosage Ranges</span></entry>
+<entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
 </row>
 </thead>
 <tbody>
@@ -421,7 +421,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 <term class="no-emphasis" id="term-00050">Liletta</term><newline/>
 <term class="no-emphasis" id="term-00051">Mirena</term><newline/>
 <term class="no-emphasis" id="term-00052">Skyla</term>)</entry>
-<entry valign="top" align="left"><newline/>
+<entry valign="top" align="left">
 Intrauterine 19.5 mg.<newline/>
 Intrauterine 52 mg (20.1 mcg/day).<newline/>
 Intrauterine 52 mg (20 mcg/day).<newline/>
@@ -496,7 +496,7 @@ None</para>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
-<entry valign="top" align="left">5’3”</entry>
+<entry valign="top" align="left">5'3"</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>

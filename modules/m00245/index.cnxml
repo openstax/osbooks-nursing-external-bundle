@@ -87,7 +87,7 @@
 <section id="sect-00017">
 <title>Nitroimidazoles</title>
 <para id="para-00021">The <term class="no-emphasis" id="term-00018">nitroimidazoles</term> include the drugs metronidazole and tinidazole. These agents are unique in the antibacterial category because they have good activity against anaerobic bacteria and protozoa, making this class useful for treating a number of STIs and vaginal infections. Nitroimidazoles work by entering the bacterial cell and disrupting the cell’s DNA structure, leading to eventual cell death.</para>
-<para id="para-00022"><link target-id="table-00001" document="m00245"/> lists common antibiotic drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00019">pediatric clients</term>.</para>
+<para id="para-00022"><newline count="2"/><link target-id="table-00001" document="m00245"/> lists common antibiotic drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00019">pediatric clients</term>.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -623,7 +623,7 @@ Caution: Liver impairment</entry>
   <row>
     <entry valign="middle" align="center">Amphotericin B<newline/>
 (Fungizone)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Progessive, potentially life-threatening fungal infections</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="bold">Progessive, potentially life-threatening fungal infections:</emphasis><newline/>
   <emphasis effect="italics">Adults:</emphasis> 0.25–0.3 mg/kg IV daily over 2–6 hours. Total daily dose of 1.5 mg/kg should not be exceeded.</entry>
 </row>
   <row>
@@ -679,7 +679,7 @@ Azole antifungal<newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Inhibits fungal cytochrome P450 activity, decreasing ergosterol synthesis and inhibiting cell membrane formation</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
-<emphasis effect="bold">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
+<emphasis effect="italics">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200 mg orally on the first day, followed by 100 mg orally once daily for 2 weeks to prevent relapse.
 </entry>
 </row>
