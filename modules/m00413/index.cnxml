@@ -88,7 +88,7 @@
     <para id="para-00021">A <term id="term-00028">random blood glucose</term> test measures the blood sugar level at the time tested. This test can be taken at any time of the day, and the individual being tested does not need to fast. A blood sugar level of 200 mg/dL or higher indicates diabetes (American Diabetes Association, n.d.a).</para>
     </section>
     <section id="sect-00014">
-    <title><term class="no-emphasis" id="term-00029">Comorbidity Tests</term></title>
+    <title><term id="term-00029">Comorbidity Tests</term></title>
     <para id="para-00022">Diabetes impacts multiple systems within the body. The health care provider may order additional testing to determine the impact of diabetes on other body systems. These diagnostic tests will not determine if a client has diabetes; however, they will help show how diabetes is impacting other systems. Typical diagnostic testing includes complete blood cell count, basic metabolic panel, chest x-ray, echocardiogram, electrocardiogram, electromyography, and other radiologic tests such as a computed tomography (CT) scan or magnetic resonance imaging (MRI).</para>
     <note class="trending-today" id="note-00003">
     <title>Prediabetes</title>
@@ -102,22 +102,20 @@
     <note class="unfolding-casestudy" id="note-00004">
     <title>Part A</title>
     <para id="para-00028">Read the following clinical scenario to answer the questions that follow. This case will evolve throughout the chapter.</para>
-    <table class="vertically-tight full-width" id="table-00001">
-    <tgroup cols="3">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="3*"/>
-    <tbody>
-    <row>
-    <entry valign="top" align="left" namest="c1" nameend="c3">Alaina Sanders is a 65-year-old Black client who presented to her health care provider’s office reporting fatigue, an increase in urination, feeling thirsty all the time, and blurred vision for the past three months.<newline count="2"/>
+  <para id="para-00004">Alaina Sanders is a 65-year-old Black client who presented to her health care provider’s office reporting fatigue, an increase in urination, feeling thirsty all the time, and blurred vision for the past three months.<newline count="2"/>
     <emphasis effect="bold">History</emphasis><newline/>
     Hyperlipidemia<newline/>
     Hypertension<newline/>
     Does not exercise or follow a special diet<newline count="2"/>
     <emphasis effect="bold">Current Medications</emphasis><newline/>
     Atorvastatin 20 mg once daily<newline/>
-    Amlodipine 10 mg once daily</entry>
-    </row>
+    Amlodipine 10 mg once daily</para>
+    <table class="vertically-tight full-width" id="table-00001">
+      <tgroup cols="3">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="2" colname="c2" colwidth="1*"/>
+      <colspec colnum="3" colname="c3" colwidth="3*"/>
+      <tbody>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></span></entry>
     <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
@@ -153,7 +151,7 @@
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
-    <entry valign="top" align="left">5’5”</entry>
+    <entry valign="top" align="left">5'5"</entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>

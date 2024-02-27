@@ -257,10 +257,10 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Ustekinumab</term><newline/>
     (<term class="no-emphasis" id="term-00034">Stellara</term>)</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Adults and children &lt;100 kg:</emphasis> 45 mg subcutaneously initially, then 4 weeks later, then 45 mg every 12 weeks.<newline/>
-      <emphasis effect="italics">Children &lt;60 kg:</emphasis> 0.75 mg/kg subcutaneously. Follow the adult administration timeframe but use weight-based guidelines to administer the same dose at each scheduled interval.<newline/>
-    <emphasis effect="italics">Adults and children &#8805;100 kg:</emphasis> 90 mg subcutaneously initially, then 4 weeks later, then 90 mg every 12 weeks.
-    </entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Adults and children &gt;100 kg:</emphasis> 90 mg subcutaneously initially, then 4 weeks later, then 90 mg every 12 weeks.<newline/>
+    <emphasis effect="italics">Adults and children &#8804;100 kg:</emphasis> 45 mg subcutaneously initially, then 4 weeks later, then 45 mg every 12 weeks.<newline/>
+      <emphasis effect="italics">Children &lt;60 kg:</emphasis> 0.75 mg/kg subcutaneously. Follow the adult administration timeframe but use weight-based guidelines to administer the same dose at each scheduled interval.
+        </entry>
     </row>
     </tbody>
     </tgroup>

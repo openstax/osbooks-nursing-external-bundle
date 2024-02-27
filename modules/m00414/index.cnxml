@@ -81,27 +81,27 @@
   (<term class="no-emphasis" id="term-00030">Apidra</term>)<newline/>
   <term class="no-emphasis" id="term-00031">Insulin lispro</term><newline/>
   (<term class="no-emphasis" id="term-00032">Humalog</term>)</entry>
-  <entry valign="top" align="center">15–30 minutes</entry>
-  <entry valign="top" align="center">1–2 hours</entry>
-  <entry valign="top" align="center">2–4 hours</entry>
+  <entry valign="top" align="left">15–30 minutes</entry>
+  <entry valign="top" align="left">1–2 hours</entry>
+  <entry valign="top" align="left">2–4 hours</entry>
   <entry valign="top" align="left">Take 15 minutes before a meal or immediately after a meal. Often used with a longer-acting insulin.</entry>
   </row>
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><emphasis effect="italics">Short-acting insulin</emphasis></emphasis><newline/>
   <term class="no-emphasis" id="term-00033">Human regular insulin</term><newline/>
   (<term class="no-emphasis" id="term-00034">Humulin R</term>, <term class="no-emphasis" id="term-00006">Novolin R</term>)</entry>
-  <entry valign="top" align="center">30 minutes–1 hour</entry>
-  <entry valign="top" align="center">2–3 hours</entry>
-  <entry valign="top" align="center">3–6 hours</entry>
+  <entry valign="top" align="left">30 minutes–1 hour</entry>
+  <entry valign="top" align="left">2–3 hours</entry>
+  <entry valign="top" align="left">3–6 hours</entry>
   <entry valign="top" align="left">Take 30–60 minutes before a meal. May be used with a longer-acting insulin.</entry>
   </row>
   <row>
   <entry valign="top" align="left"><emphasis effect="bold"><emphasis effect="italics">Intermediate-acting insulin</emphasis></emphasis><newline/>
   <term class="no-emphasis" id="term-00035">Insulin isophane NPH</term><newline/>
   (<term class="no-emphasis" id="term-00036">Humulin N</term>, <term class="no-emphasis" id="term-00044">Novolin N</term>)</entry>
-  <entry valign="top" align="center">2–4 hours</entry>
-  <entry valign="top" align="center">4–12 hours</entry>
-  <entry valign="top" align="center">12–18 hours</entry>
+  <entry valign="top" align="left">2–4 hours</entry>
+  <entry valign="top" align="left">4–12 hours</entry>
+  <entry valign="top" align="left">12–18 hours</entry>
   <entry valign="top" align="left">Covers insulin needs for 12 hours or longer, or overnight. Often used with a rapid- or short-acting insulin.</entry>
   </row>
   <row>
@@ -112,9 +112,9 @@
   (<term class="no-emphasis" id="term-00040">Levemir</term>)<newline/>
   <term class="no-emphasis" id="term-00041">Insulin glargine</term><newline/>
   (<term class="no-emphasis" id="term-00042">Lantus</term>)</entry>
-  <entry valign="top" align="center">1–2 hours</entry>
-  <entry valign="top" align="center">Does not peak</entry>
-  <entry valign="top" align="center">Up to 24 hours</entry>
+  <entry valign="top" align="left">1–2 hours</entry>
+  <entry valign="top" align="left">Does not peak</entry>
+  <entry valign="top" align="left">Up to 24 hours</entry>
   <entry valign="top" align="left">Covers insulin needs for approximately an entire day. Often used with a rapid- or short-acting insulin.</entry>
   </row>
   </tbody>
@@ -221,11 +221,11 @@
   <title>Non-Insulin Injectable Drugs</title>
   <para id="para-00034"><term class="no-emphasis" id="term-00016">Non-insulin injectable drugs</term> provide an alternative to insulin therapy for clients with diabetes. They act on hormones that are secreted along with insulin by the pancreas to control glucose homeostasis. These drugs were first approved for use in the United States in 2005 (Feingold, 2022; Campbell, 2021).</para>
   <section id="sect-00017">
-  <title><term class="no-emphasis" id="term-00017">Amylin Analogs</term></title>
+  <title><term id="term-00017">Amylin Analogs</term></title>
   <para id="para-00035">Amylin is a hormone secreted along with insulin by the pancreas in response to food intake. In 2005, pramlintide (Symlin) was the first FDA-approved amylin analog non-insulin injectable drug. This drug can be used for clients with diabetes who are taking insulin. Pramlintide slows gastric emptying and blocks the release of glucagon from the liver after a meal. This drug is administered before mealtimes. Adverse effects include nausea, loss of appetite, fatigue, headache, and weight loss. It is contraindicated in clients with hypersensitivity to amylin analogs or who have hypoglycemia or gastroparesis (Maikawa et al., 2020; Campbell, 2021). </para>
   </section>
   <section id="sect-00018">
-  <title><term class="no-emphasis" id="term-00018">Glucagon-Like Peptide-1</term> (GLP-1) <term class="no-emphasis" id="term-00046">Receptor Agonists</term></title>
+  <title><term id="term-00018">Glucagon-Like Peptide-1</term> (GLP-1) <term class="no-emphasis" id="term-00046">Receptor Agonists</term></title>
   <para id="para-00036"><term class="no-emphasis" id="term-00019">GLP-1 receptor agonists</term> are a class of non-insulin injectable drugs that impact the gut hormone incretin, which works to increase insulin secretion in response to meals. These drugs help the pancreas release insulin after eating, limit glucagon, and slow down digestion. GLP-1 receptor agonists are approved for type 2 diabetes treatment. They have not yet been approved for type 1 diabetes management. Adverse effects include nausea, vomiting, diarrhea, abdominal discomfort, and loss of appetite. Contraindications include hypersensitivity to GLP-1 receptor agonists, medullary thyroid carcinoma, and multiple endocrine neoplasia (Feingold, 2022). </para>
   <note class="clinical-tip" id="note-00005">
   <title>GLP-1 Receptor Agonists</title>

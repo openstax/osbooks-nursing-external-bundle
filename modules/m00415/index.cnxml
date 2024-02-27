@@ -129,22 +129,20 @@
   <note class="unfolding-casestudy" id="note-00005">
   <title>Part B</title>
   <para id="para-00038">Read the following clinical scenario to answer the questions that follow. This case study is a follow-up to Case Study Part A.</para>
-  <table class="vertically-tight full-width" id="table-00001">
-  <tgroup cols="3">
-  <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
-  <colspec colnum="3" colname="c3" colwidth="3*"/>
-  <tbody>
-  <row>
- <entry valign="top" align="left" namest="c1" nameend="c3">Alaina Sanders was diagnosed with type 2 diabetes, and the health care provider prescribed extended-release glipizide 5 mg orally and lifestyle modifications. The client returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.<newline count="2"/>
+    <para id="para-00032">Alaina Sanders was diagnosed with type 2 diabetes, and the health care provider prescribed extended-release glipizide 5 mg orally and lifestyle modifications. The client returns to her health care provider’s office today for a 6-month follow-up appointment after starting drug treatment and lifestyle modifications.<newline count="2"/>
 <emphasis effect="bold">Laboratory Results</emphasis><newline/>
   Glycosylated hemoglobin<newline count="2"/>
   <emphasis effect="bold">6 Months Ago</emphasis><newline/>
   7.8%<newline count="2"/>
   <emphasis effect="bold">Today</emphasis><newline/>
-  6.9%</entry>
-  </row>
-  <row>
+  6.9%</para>
+      <table class="vertically-tight full-width" id="table-00001">
+      <tgroup cols="3">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="2" colname="c2" colwidth="1*"/>
+      <colspec colnum="3" colname="c3" colwidth="3*"/>
+      <tbody>
+    <row>
   <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><span class="blue-text">Vital Signs</span></emphasis></span></entry>
   <entry valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Physical Examination</span></emphasis></entry>
   </row>
@@ -178,7 +176,7 @@
   </row>
   <row>
   <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
-  <entry valign="top" align="left">5’5”</entry>
+  <entry valign="top" align="left">5'5"</entry>
   </row>
   <row>
   <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
@@ -224,8 +222,8 @@
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00024">Dapagliflozin</term> (<term class="no-emphasis" id="term-00037">Farxiga</term>)</entry>
   <entry valign="top" align="left">Dosage is adjusted based on estimated glomerular filtration rate (eGFR):<newline/>
   <list list-type="bulleted" id="list-00003">
-  <item><emphasis effect="italics">eGFR 45 &#8805;:</emphasis> 5–10 mg orally once daily.</item>
-  <item><emphasis effect="italics">eGFR 25 to &#8804; 45:</emphasis> 10 mg orally once daily.</item>
+  <item><emphasis effect="italics">eGFR 45≥:</emphasis> 5–10 mg orally once daily.</item>
+  <item><emphasis effect="italics">eGFR 25 to ≤45:</emphasis> 10 mg orally once daily.</item>
   <item><emphasis effect="italics">eGFR less than 25:</emphasis> Not recommended.</item>
   </list>
   </entry>
@@ -235,7 +233,7 @@
   <entry valign="top" align="left">10 mg orally once daily.<newline/>
   <emphasis effect="italics">Maximum dose:</emphasis> 25 mg daily.<newline/>
   Data are insufficient to provide a dosage recommendation in clients who have<newline/>
-  type 2 diabetes mellitus and established cardiovascular disease with an eGFR less than 30 mL/min/1.73 m<sup>2</sup> or heart failure with an eGFR less than 20 mL/min/1.73 m<sup>2</sup>.</entry>
+  type 2 diabetes mellitus and established cardiovascular disease with an eGFR &lt;30 mL/min/1.73 m<sup>2</sup> or heart failure with an eGFR &lt;20 mL/min/1.73 m<sup>2</sup>.</entry>
   </row>
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00026">Glipizide (Glucotrol, Glucotrol XL)</term></entry>
@@ -280,8 +278,8 @@
   <row>
   <entry valign="top" align="center"><term class="no-emphasis" id="term-00033">Sitagliptin</term> (<term class="no-emphasis" id="term-00044">Januvia</term>)</entry>
   <entry valign="top" align="left">100 mg orally daily.<newline/>
-  <emphasis effect="italics">For patients with an eGFR &#8804;45 mL/min/1.73 m<sup>2</sup> to >90 mL/min/1.73 m<sup>2</sup></emphasis>: No dosage adjustment required.<newline/>
-  <emphasis effect="italics">For patients with moderate renal impairment (eGFR &#8805;30 mL/min/1.73 m<sup>2</sup> to &lt;45 mL/min/1.73 m<sup>2</sup>):</emphasis> 50 mg once daily.<newline/>
+  <emphasis effect="italics">For patients with an eGFR ≥45 mL/min/1.73 m<sup>2</sup> to &lt;90 mL/min/1.73 m<sup>2</sup></emphasis>: No dosage adjustment required.<newline/>
+  <emphasis effect="italics">For patients with moderate renal impairment (eGFR ≥30 mL/min/1.73 m<sup>2</sup> to &lt;45 mL/min/1.73 m<sup>2</sup>):</emphasis> 50 mg once daily.<newline/>
   <emphasis effect="italics">For patients with severe renal impairment (eGFR &lt;30 mL/min/1.73 m<sup>2</sup>) or with end-stage renal disease (ESRD) requiring hemodialysis or peritoneal dialysis:</emphasis> 25 mg once daily.<newline/>
   May be administered without regard to the timing of dialysis.</entry>
   </row>
@@ -425,7 +423,7 @@
   <para id="para-00081">DailyMed. (Updated May 4, 2023). <emphasis effect="italics">Bydureon bcise-exenatide injection, suspension, extended release.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d18cfc4-e0de-4814-a712-c1b7c504bff5</para>
   <para id="para-00080">DailyMed. (Updated December 21, 2022). <emphasis effect="italics">Byetta-exenatide injection. </emphasis>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=53d03c03-ebf7-418d-88a8-533eabd2ee4f</para>
   <para id="para-00082">DailyMed. (Updated January 5, 2023). <emphasis effect="italics">Diazoxide oral solution.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1863e5d-f2b5-2e47-e053-2a95a90af475</para>
-  <para id="para-00084">DailyMed. (Updated September 12, 2023). <emphasis effect="italics">Farxiga-dapagliflozin tablet, film coated</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72ad22ae-efe6-4cd6-a302-98aaee423d69</para>
+  <para id="para-00084">DailyMed. (Updated January 15, 2024). <emphasis effect="italics">Farxiga-dapagliflozin tablet, film coated</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72ad22ae-efe6-4cd6-a302-98aaee423d69</para>
   <para id="para-00085">DailyMed. (Updated December 2, 2021). <emphasis effect="italics">Glimepiride tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=60e9397e-83b9-489e-9683-6f87e458bbaa</para>
   <para id="para-00086">DailyMed. (Updated November 28, 2023). <emphasis effect="italics">Glipizide tablet.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5565ccec-8000-48ab-a6af-37eca2d8c993</para>
   <para id="para-00087">DailyMed. (Updated November 10, 2021). <emphasis effect="italics">Glucagon kit.</emphasis> https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c5c431b4-5618-4ff4-954e-4c0fbfed67b6</para>
