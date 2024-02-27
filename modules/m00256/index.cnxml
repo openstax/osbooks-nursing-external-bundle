@@ -16,7 +16,7 @@
 </section>
 <section id="sect-00003">
 <title>Neurotransmitters</title>
-<para id="para-00002">Neurotransmitters play a crucial role in the communication between neurons in the nervous system. Neurotransmitters are chemical messengers that transmit signals across the chemical <term id="term-00001">synapse</term>s, enabling various functions and processes in the body, including signaling to release neurotransmitter molecules. Synapses are composed of three components: the presynaptic terminal, the post-synaptic terminal, and the synaptic cleft. Synaptic vesicles, containing neurotransmitter molecules, are located on the presynaptic terminal at the end neuron’s axon. Subsequently, the postsynaptic terminal uses specialized protein receptors to bind to these neurotransmitters. Neurotransmitters result in an action, inaction, or inhibition of a neuron (see <link target-id="fig-00001" document="m00256"/>). When neurotransmitter levels are imbalanced or disrupted, it can lead to pathological conditions and disorders.</para>
+<para id="para-00002">Neurotransmitters play a crucial role in the communication between neurons in the nervous system. Neurotransmitters are chemical messengers that transmit signals across the chemical <term id="term-00001">synapse</term><emphasis effect="bold">s</emphasis>, enabling various functions and processes in the body, including signaling to release neurotransmitter molecules. Synapses are composed of three components: the presynaptic terminal, the post-synaptic terminal, and the synaptic cleft. Synaptic vesicles, containing neurotransmitter molecules, are located on the presynaptic terminal at the end neuron’s axon. Subsequently, the postsynaptic terminal uses specialized protein receptors to bind to these neurotransmitters. Neurotransmitters result in an action, inaction, or inhibition of a neuron (see <link target-id="fig-00001" document="m00256"/>). When neurotransmitter levels are imbalanced or disrupted, it can lead to pathological conditions and disorders.</para>
 <figure class="scaled-down" id="fig-00001">
 <media alt="A diagram of a synapse shows its three components. A narrow tube-like structure at the top is the presynaptic neuron. This contains the axon terminal, which is narrow at the top but gets wider at the bottom. The axon terminal contains neurotransmitters and synaptic vesicles. The synaptic cleft separates the presynaptic neuron from the postsynaptic neuron. The synaptic cleft also contains neurotransmitters. The top part of the postsynaptic neuron is lined with ligand-gated channels with receptors for neurotransmitters.">
 <image mime-type="image/png" src="../../media/PHA_Figure_09_03_006.png"/></media>
@@ -38,74 +38,74 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="center"><term id="term-00002">Acetylcholine</term></entry>
+<entry valign="top" align="left"><term id="term-00002">Acetylcholine</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00002">
-<item>sleep</item>
-<item>arousal</item>
-<item>pain</item>
-<item>muscle contractions</item>
-<item>movement</item>
-<item>memory</item></list></entry>
+<item>Sleep</item>
+<item>Arousal</item>
+<item>Pain</item>
+<item>Muscle contractions</item>
+<item>Movement</item>
+<item>Memory</item></list></entry>
 <entry valign="top" align="left">Low levels of acetylcholine have been noted in Alzheimer’s disease and myasthenia gravis.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00003">Norepinephrine</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Norepinephrine</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00003">
-<item>mood</item>
-<item>cognition</item>
-<item>perception</item>
-<item>locomotion</item>
-<item>cardiovascular function</item>
-<item>sleep</item>
-<item>arousal</item></list></entry>
+<item>Mood</item>
+<item>Cognition</item>
+<item>Perception</item>
+<item>Locomotion</item>
+<item>Cardiovascular function</item>
+<item>Sleep</item>
+<item>Arousal</item></list></entry>
 <entry valign="top" align="left">Imbalances in norepinephrine levels have been associated with various disorders, including attention deficit hyperactivity disorder (ADHD) and mood disorders.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00004">Dopamine</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Dopamine</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00004">
-<item>movement</item>
-<item>coordination</item>
-<item>emotions</item>
-<item>voluntary judgment</item>
-<item>prolactin release</item>
-<item>reward</item>
-<item>pleasure</item></list></entry>
+<item>Movement</item>
+<item>Coordination</item>
+<item>Emotions</item>
+<item>Voluntary judgment</item>
+<item>Prolactin release</item>
+<item>Reward</item>
+<item>Pleasure</item></list></entry>
 <entry valign="top" align="left">Imbalanced levels of dopamine have been associated with psychiatric and neurological disorders, including schizophrenia, depression, and Parkinson’s disease.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00005">Serotonin</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Serotonin</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00005">
-<item>sleep</item>
-<item>arousal/libido</item>
-<item>appetite</item>
-<item>mood</item>
-<item>aggression</item>
-<item>pain</item>
-<item>coordination</item>
-<item>judgment</item></list></entry>
+<item>Sleep</item>
+<item>Arousal/libido</item>
+<item>Appetite</item>
+<item>Mood</item>
+<item>Aggression</item>
+<item>Pain</item>
+<item>Coordination</item>
+<item>Judgment</item></list></entry>
 <entry valign="top" align="left">Serotonin pathology is typically associated with depression but is also associated with bowel motility, bladder control, and cardiovascular function.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00006">Histamine</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Histamine</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00006">
-<item>wakefulness</item>
-<item>pain</item>
-<item>inflammatory response</item></list></entry>
+<item>Wakefulness</item>
+<item>Pain</item>
+<item>Inflammatory response</item></list></entry>
 <entry valign="top" align="left">Histamine plays a role in asthma, bronchospasm, and mucosal edema as well as multiple sclerosis.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00007">Gamma-amino-butyric acid (GABA)</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Gamma-amino-butyric acid (GABA)</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00007">
-<item>decreased neuron activity</item>
-<item>decreased body activity</item></list></entry>
+<item>Decreased neuron activity</item>
+<item>Decreased body activity</item></list></entry>
 <entry valign="top" align="left">GABA, considered primarily an inhibitory neurotransmitter, has been implicated in anxiety disorders, epilepsy, and sleep disorders.</entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00008">Glutamate</term></entry>
+<entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Glutamate</term></entry>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00008">
-<item>sensory information relay</item>
-<item>various motor and spinal reflexes regulation</item>
-<item>memory and learning</item></list></entry>
+<item>Sensory information relay</item>
+<item>Various motor and spinal reflexes regulation</item>
+<item>Memory and learning</item></list></entry>
 <entry valign="top" align="left">Glutamate is the primary excitatory neurotransmitter; its dysfunction has been related to Alzheimer’s disease and Parkinson’s disease.</entry>
 </row>
 </tbody>

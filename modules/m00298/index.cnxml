@@ -46,44 +46,44 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Bumetanide</term><newline/>
 (<term class="no-emphasis" id="term-00005">Bumex</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Heart failure:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Heart failure:</emphasis><newline/>
 <emphasis effect="italics">Oral:</emphasis> 0.5&#8211;2 mg twice daily; maximum dose: 10 mg daily.<newline/>
 <emphasis effect="italics">Intramuscular/intravenous (IV):</emphasis> 0.5&#8211;1 mg every 2&#8211;3 hours; maximum dose: 10 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00006">Furosemide</term><newline/>
 (<term class="no-emphasis" id="term-00007">Lasix</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema:</emphasis> 20–80 mg orally twice daily; maximum dose: 600 mg daily. (Doses exceeding 80 mg daily must be monitored carefully with frequent follow-up and laboratory monitoring.)</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 20–80 mg orally twice daily; maximum dose: 600 mg daily. (Doses exceeding 80 mg daily must be monitored carefully with frequent follow-up and laboratory monitoring.)</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00008">Torsemide</term><newline/>
 (<term class="no-emphasis" id="term-00009">Demadex</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Heart failure</emphasis>: 10–20 mg orally daily, titrated; maximum dose: 200 mg daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Heart failure</emphasis>: 10–20 mg orally daily, titrated; maximum dose: 200 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00010">Chlorothiazide</term><newline/>
 (<term class="no-emphasis" id="term-00011">Diuril</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema:</emphasis> 250–500 mg IV once or twice daily; maximum dose: 1000 mg daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 250–500 mg IV once or twice daily; maximum dose: 1000 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Chlorthalidone</term><newline/>
 (<term class="no-emphasis" id="term-00013">Thalitone</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema:</emphasis> 50–100 mg orally daily or 100 mg every other day; maximum dose: 200 mg daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 50–100 mg orally daily or 100 mg every other day; maximum dose: 200 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Hydrochlorothiazide</term><newline/>
 (<term class="no-emphasis" id="term-00015">Microzide</term>, <term class="no-emphasis" id="term-00016">HCTZ</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema:</emphasis> 25–100 mg orally daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema:</emphasis> 25–100 mg orally daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Indapamide</term><newline/>
 (<term class="no-emphasis" id="term-00018">Lozol</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema: </emphasis>2.5 mg orally daily; maximum dose: 5 mg daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema: </emphasis>2.5 mg orally daily; maximum dose: 5 mg daily.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Metolazone</term><newline/>
 (<term class="no-emphasis" id="term-00020">Zaroxolyn</term>)</entry>
-<entry valign="middle" align="left"><emphasis effect="italics">Edema or heart failure:</emphasis> 5–20 mg orally once daily.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Edema or heart failure:</emphasis> 5–20 mg orally once daily.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -188,7 +188,7 @@ Renal disease</entry>
 </note>
 <note class="single-casestudy" id="note-00005">
 <para id="para-00016">Read the following clinical scenario to answer the questions that follow.</para>
-<para id="para-00017">Anna Rodriguez is an 85-year-old Mexican American client who presents to her health care provider with an exacerbation of heart failure. Anna reports increasing shortness of breath with self-care activities. She also shares that she is no longer going to the senior center because getting in and out of the car leaves her short of breath and fatigued. She also reports that her feet feel “heavy” and that she has gained 3 pounds in the last 1 to 2 weeks. Anna sleeps on two pillows and does not awaken during the night with shortness of breath. She has also had a persistent itchy, dry cough and asks if she has a respiratory infection. The cough is nonproductive, and Anna reports no fever, chills, achy feeling, congestion, or chest pain.</para>
+<para id="para-00017">Anna Rodriguez is an 85-year-old Mexican American client who presents to her health care provider with an exacerbation of heart failure. Anna reports increasing shortness of breath with self-care activities. She also shares that she is no longer going to the senior center because getting in and out of the car leaves her short of breath and fatigued. She also reports that her feet feel “heavy” and that she has gained 3 pounds in the last 1–2 weeks. Anna sleeps on two pillows and does not awaken during the night with shortness of breath. She has also had a persistent itchy, dry cough and asks if she has a respiratory infection. The cough is nonproductive, and Anna reports no fever, chills, achy feeling, congestion, or chest pain.</para>
 <para id="para-00018">Anna reports following a low-sodium diet and does not engage in exercise. She is a nonsmoker and does not drink alcohol.</para>
 <para id="para-00019"><emphasis effect="bold">History</emphasis><newline/>
 Heart failure with preserved ejection fraction<newline/>
@@ -234,7 +234,7 @@ Levothyroxine 50 mcg once daily</para>
 </row>
 <row>
 <entry valign="top"><emphasis effect="italics">Height:</emphasis></entry>
-<entry valign="top">5’4”</entry>
+<entry valign="top">5'4"</entry>
 </row>
 <row>
 <entry valign="top"><emphasis effect="italics">Weight:</emphasis></entry>
