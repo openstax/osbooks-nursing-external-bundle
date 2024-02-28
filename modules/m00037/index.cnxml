@@ -25,7 +25,7 @@
     <title/>
     <tgroup cols="6">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <colspec colnum="4" colname="c4" colwidth="1*"/>
     <colspec colnum="5" colname="c5" colwidth="1*"/>
@@ -84,9 +84,9 @@
     <row>
     <entry valign="top" align="left">Type 2</entry>
     <entry valign="top" align="left">
-    <list list-type="bulleted" id="list-00009"><item>Beta cells still produce insulin but with limited production.</item>
-    <item>The beta cells do not produce enough insulin to meet metabolic demand.</item>
-    <item>The beta cells produce enough insulin, but the cells develop resistance.</item></list></entry>
+    <list list-type="bulleted" id="list-00009"><item>Beta cells produce insulin but with limited production.</item>
+    <item>Beta cells do not produce enough insulin to meet metabolic demand.</item>
+    <item>Beta cells produce enough insulin, but the cells develop resistance.</item></list></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00010">
     <item>Medication</item></list></entry>
