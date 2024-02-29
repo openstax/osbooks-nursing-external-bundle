@@ -41,7 +41,7 @@
   <para id="para-00011">Men with hypertension: 305</para>
   <para id="para-00012">Men without hypertension: 4,702</para>
   <para id="para-00013">Based on the data, calculate the ratio of men without hypertension to men with hypertension. Since this will be a one-to-one ratio, you will use 10<sup>0</sup>.</para>
-  <para id="para-00014">Ratio <m:math><m:mo>=</m:mo> <m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn></m:mrow><m:mn>305</m:mn></m:mfrac><m:mo></m:mo><m:mo>×</m:mo> <m:msup><m:mo>10</m:mo><m:mo>0</m:mo></m:msup> <m:mo>=</m:mo> <m:mn>15.4:1</m:mn></m:math> (15.4 men without hypertension to 1 with hypertension)</para>
+  <para id="para-00014">Ratio <m:math><m:mo>=</m:mo> <m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>702</m:mn></m:mrow><m:mn>305</m:mn></m:mfrac><m:mo></m:mo><m:mo></m:mo><m:mo>×</m:mo> <m:msup><m:mo>10</m:mo><m:mo>0</m:mo></m:msup> <m:mo>=</m:mo> <m:mn>15.4:1</m:mn></m:math> (15.4 men without hypertension to 1 with hypertension)</para>
   <para id="para-00015"><emphasis effect="bold">Calculating Ratios: Example 2</emphasis></para>
   <para id="para-00016">Imagine you are the public health nurse for a county in a rural part of the United States. You have been tasked with calculating the ratio of county citizens to the number of health clinics in the county—in other words, how many county residents each health clinic must serve.</para>
   <para id="para-00017">Number of health clinics: 8</para>
@@ -80,7 +80,7 @@
   <para id="para-00038">Numerator: 70,000 new cases of disease X</para>
   <para id="para-00039">Denominator: 319,000,000 estimated midyear population</para>
   <para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>100,000</m:mn></m:math></para>
-  <para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo></m:mo><m:mo>&#x00D7;</m:mo> <m:mn>100,000</m:mn></m:mrow></m:math></para>
+  <para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mi>&#x0020;</m:mi><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo></m:mo><m:mo>&#x00D7;</m:mo> <m:mn>100,000</m:mn></m:mrow></m:math></para>
   <para id="para-00042"><m:math><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mn>21.94</m:mn><m:mtext>&#160;new&#160;cases&#160;of&#160;disease&#160;X&#160;per&#160;</m:mtext><m:mn>100,000</m:mn><m:mtext>&#160;population</m:mtext></m:math></para>
   <para id="para-00043">(See Centers for Disease Control and Prevention, 2012.)</para>
   </note>
@@ -104,7 +104,7 @@
   <para id="para-00057">Numerator: 50 individuals who ate the cheddar cheese and developed n/v/d</para>
   <para id="para-00058">Denominator: 150 individuals who ate the cheddar cheese</para>
   <para id="para-00059">Multiply the result by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo> <m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>100</m:mn></m:math>.</para>
-  <para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>33.3</m:mn><m:mo>%</m:mo></m:math></para>
+  <para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo><m:mi>&#x0020;</m:mi><m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>33.3</m:mn><m:mo>%</m:mo></m:math></para>
   <para id="para-00061"><emphasis effect="bold">Calculating Incidence Proportion (also known as risk)</emphasis></para>
   <para id="para-00062">In a study of men with and without hypertension, 165 of the men with hypertension (out of a total of 305 men with hypertension) had died during the follow-up study 10 years later. Calculate the risk of death for these men.</para>
   <para id="para-00063">Men with hypertension: 305</para>
@@ -118,7 +118,7 @@
   <title>Case-Fatality Rate</title>
   <para id="para-00070">A <term class="no-emphasis" id="term-00020">case-fatality rate</term> is the proportion of individuals with a disease who die from it. With this proportion, the numerator can only include deaths among individuals included in the denominator, but the time periods do not need to be the same. It is a measure of disease severity.</para>
   <para id="para-00071">For example, a multistate outbreak of hepatitis A was traced to contaminated strawberries. There were 300 cases and two deaths as a result of the infection.</para>
-  <para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>0.67</m:mn><m:mo>%</m:mo><m:mo></m:mo></m:math></para>
+  <para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mi>&#x0020;</m:mi><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>0.67</m:mn><m:mo>%</m:mo><m:mo></m:mo></m:math></para>
   <para id="para-00073">(See Centers for Disease Control and Prevention, 2012.)</para>
   </note>
   <note class="boxed-feature" id="note-00007">
