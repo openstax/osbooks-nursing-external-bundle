@@ -33,7 +33,7 @@
   <para id="para-00153"><m:math><m:msup><m:mn>10</m:mn><m:mn>0</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>1</m:mn></m:math></para>
   <para id="para-00154"><m:math><m:msup><m:mn>10</m:mn><m:mn>1</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>10</m:mn></m:math></para>
   <para id="para-00157"><m:math><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo> <m:mo>=</m:mo> <m:mn>1</m:mn><m:mn>00</m:mn></m:math></para>
-  <para id="para-00155"><m:math><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mo></m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mi>1,000</m:mi></m:math><newline count="2"/></para>
+  <para id="para-00155"><m:math><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>10</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>×</m:mo><m:mn>10</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mi>1,000</m:mi></m:math><newline count="2"/></para>
   <para id="para-00008"><emphasis effect="bold">Basic Calculation for Ratios:</emphasis></para>
   <m:math><m:mo>(</m:mo><m:mi>Numerator</m:mi><m:mo>÷</m:mo><m:mi>Denominator</m:mi><m:mo>)</m:mo><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math><newline count="2"/>
   <para id="para-00009"><emphasis effect="bold">Calculating Ratios: Example 1</emphasis></para>
@@ -80,7 +80,7 @@
   <para id="para-00038">Numerator: 70,000 new cases of disease X</para>
   <para id="para-00039">Denominator: 319,000,000 estimated midyear population</para>
   <para id="para-00040"><m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>100,000</m:mn></m:math></para>
-  <para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo></m:mo><m:mo>&#x00D7;</m:mo> <m:mn>100,000</m:mn></m:mrow></m:math></para>
+  <para id="para-00156"><m:math><m:mrow><m:mtext>Incidence&#160;rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mfenced><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mn>1</m:mn><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0</m:mn><m:mn>0</m:mn><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mo></m:mo><m:mo>&#x00D7;</m:mo> <m:mn>100,000</m:mn></m:mrow></m:math></para>
   <para id="para-00042"><m:math><m:mtext>Incidence&#160;rate</m:mtext><m:mo>=</m:mo><m:mn>21.94</m:mn><m:mtext>&#160;new&#160;cases&#160;of&#160;disease&#160;X&#160;per&#160;</m:mtext><m:mn>100,000</m:mn><m:mtext>&#160;population</m:mtext></m:math></para>
   <para id="para-00043">(See Centers for Disease Control and Prevention, 2012.)</para>
   </note>
@@ -104,7 +104,7 @@
   <para id="para-00057">Numerator: 50 individuals who ate the cheddar cheese and developed n/v/d</para>
   <para id="para-00058">Denominator: 150 individuals who ate the cheddar cheese</para>
   <para id="para-00059">Multiply the result by <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>. A value of 100 is most often used for <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>; therefore, <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup><m:mo>=</m:mo> <m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo></m:mo><m:mo>=</m:mo> <m:mn>100</m:mn></m:math>.</para>
-  <para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo> <m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>33.3</m:mn><m:mo>%</m:mo></m:math></para>
+  <para id="para-00060">Food-specific attack rate <m:math><m:mo>=</m:mo><m:mo></m:mo><m:mfenced><m:mfrac><m:mn>50</m:mn><m:mn>150</m:mn></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>33.3</m:mn><m:mo>%</m:mo></m:math></para>
   <para id="para-00061"><emphasis effect="bold">Calculating Incidence Proportion (also known as risk)</emphasis></para>
   <para id="para-00062">In a study of men with and without hypertension, 165 of the men with hypertension (out of a total of 305 men with hypertension) had died during the follow-up study 10 years later. Calculate the risk of death for these men.</para>
   <para id="para-00063">Men with hypertension: 305</para>
@@ -118,7 +118,7 @@
   <title>Case-Fatality Rate</title>
   <para id="para-00070">A <term class="no-emphasis" id="term-00020">case-fatality rate</term> is the proportion of individuals with a disease who die from it. With this proportion, the numerator can only include deaths among individuals included in the denominator, but the time periods do not need to be the same. It is a measure of disease severity.</para>
   <para id="para-00071">For example, a multistate outbreak of hepatitis A was traced to contaminated strawberries. There were 300 cases and two deaths as a result of the infection.</para>
-  <para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo> <m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>0.67</m:mn><m:mo>%</m:mo><m:mo></m:mo></m:math></para>
+  <para id="para-00072"><m:math><m:mtext>Case-fatality rate</m:mtext><m:mo></m:mo><m:mo>=</m:mo><m:mo></m:mo><m:mfenced><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>300</m:mn></m:mrow></m:mfrac></m:mfenced><m:mo></m:mo><m:mo>×</m:mo> <m:mn>100</m:mn><m:mo></m:mo><m:mo>=</m:mo> <m:mn>0.67</m:mn><m:mo>%</m:mo><m:mo></m:mo></m:math></para>
   <para id="para-00073">(See Centers for Disease Control and Prevention, 2012.)</para>
   </note>
   <note class="boxed-feature" id="note-00007">
@@ -251,8 +251,8 @@
   <para id="para-00136">Denominator: Incidence in the exposed</para>
   <para id="para-00137"><emphasis effect="bold">Example</emphasis></para>
   <para id="para-00138">A researcher is studying 300 individuals exposed to a potential carcinogen and 500 individuals who were not exposed to this potential carcinogen. After a five-year follow-up, 125 of the exposed individuals are diagnosed with the disease and 75 of the unexposed individuals are also diagnosed with the disease.</para>
-  <para id="para-00139">The incidence of disease in the exposed group is 125 individuals out of 300 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo> <m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac><m:mo>=</m:mo> <m:mn>41.7</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
-  <para id="para-00140">The incidence of disease in the unexposed group is 75 individuals out of 500 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo>×</m:mo> <m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac><m:mo>=</m:mo> <m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
+  <para id="para-00139">The incidence of disease in the exposed group is 125 individuals out of 300 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo></m:mo><m:mo>×</m:mo> <m:mfrac><m:mn>125</m:mn><m:mn>300</m:mn></m:mfrac><m:mo>=</m:mo> <m:mn>41.7</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
+  <para id="para-00140">The incidence of disease in the unexposed group is 75 individuals out of 500 <m:math><m:mfenced><m:mrow><m:mo>100</m:mo><m:mo></m:mo><m:mo>×</m:mo> <m:mfrac><m:mn>75</m:mn><m:mn>500</m:mn></m:mfrac><m:mo>=</m:mo> <m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:mfenced><m:mo></m:mo></m:math> who contract the disease.</para>
   <para id="para-00141">To calculate the AR:</para>
   <para id="para-00142"><m:math><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn><m:mo></m:mo><m:mo>&#8722;</m:mo> <m:mn>15</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>41</m:mn><m:mo>.</m:mo><m:mn>67</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.64</m:mn></m:math> or 64%, meaning that the proportion of disease that is attributable to the exposure is 64%. <emphasis effect="italics">Attributable to</emphasis> does not equate to <emphasis effect="italics">caused by</emphasis>, as this calculation is addressing association, not inferring causation.</para>
   </note>
