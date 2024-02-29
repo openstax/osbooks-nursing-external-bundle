@@ -129,9 +129,9 @@ Ages 15 to 19</entry>
 <table class="vertically-tight alternate-shading" id="table-00002">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="2*"/>
-<colspec colnum="4" colname="c4" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="4" colname="c4" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
@@ -351,7 +351,7 @@ Ages 15 to 19</entry>
 <thead>
 <row>
 <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
-<entry valign="middle" align="left"><span class="blue-text"><emphasis effect="bold">Education for the&#160;Caregiver</emphasis></span></entry>
+<entry valign="middle" align="left"><span class="blue-text"><emphasis effect="bold">Education for&#160;the Caregiver</emphasis></span></entry>
 <entry valign="middle" align="left"><span class="blue-text"><emphasis effect="bold">Education for the Child/Adolescent</emphasis></span></entry>
 <entry valign="middle" align="left"><span class="blue-text"><emphasis effect="bold">Education Techniques for the Child/Adolescent</emphasis></span></entry>
 </row>
