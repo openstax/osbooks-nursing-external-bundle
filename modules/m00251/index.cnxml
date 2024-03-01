@@ -230,7 +230,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Chlorambucil</term><newline/>
     (<term class="no-emphasis" id="term-00037">Lukeran</term>)</entry>
-    <entry valign="middle" align="left">0.1–0.2 mg/kg orally once daily for 3–6 weeks.</entry>
+    <entry valign="top" align="left">0.1–0.2 mg/kg orally once daily for 3–6 weeks.</entry>
     </row>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00038">Nitrosoureas</term></emphasis></span></entry>
@@ -243,7 +243,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00041">Lomustine</term><newline/>
     (<term class="no-emphasis" id="term-00042">CCNU</term>)</entry>
-    <entry valign="middle" align="left">130 mg/m<sup>2</sup> orally every 6 weeks.</entry>
+    <entry valign="top" align="left">130 mg/m<sup>2</sup> orally every 6 weeks.</entry>
     </row>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00043">Alkyl Sulfonates</term></emphasis></span></entry>
@@ -251,7 +251,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Busulfan</term>
     (<term class="no-emphasis" id="term-00045">Busulfex</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Clients >12 kg:</emphasis> 0.8 mg/kg IV as a single treatment, every 6 hours for 16 doses.</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">Clients >12 kg:</emphasis> 0.8 mg/kg IV as a single treatment, every 6 hours for 16 doses.</entry>
     </row>
     <row>
     <entry valign="top" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00046">Alkylating-Like Drugs</term></emphasis></span></entry>
@@ -265,12 +265,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00048">Carboplatin</term> <newline/>
     (<term class="no-emphasis" id="term-00049">Paraplatin</term>)</entry>
-    <entry valign="middle" align="left">300 mg/m<sup>2</sup> IV (combination therapy) or 360 mg/m<sup>2</sup> (monotherapy) every 4 weeks.</entry>
+    <entry valign="top" align="left">300 mg/m<sup>2</sup> IV (combination therapy) or 360 mg/m<sup>2</sup> (monotherapy) every 4 weeks.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00050">Oxaliplatin</term><newline/>
     (<term class="no-emphasis" id="term-00051">Eloxatin</term>)</entry>
-    <entry valign="middle" align="left">85 mg/m<sup>2</sup> IV every 2 weeks.</entry>
+    <entry valign="top" align="left">85 mg/m<sup>2</sup> IV every 2 weeks.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -417,7 +417,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00056">Pemetrexed</term> <newline/>
     (<term class="no-emphasis" id="term-00057">Alimta</term>)</entry>
-    <entry valign="middle" align="left">500 mg/m<sup>2</sup> IV every 21 days.</entry>
+    <entry valign="top" align="left">500 mg/m<sup>2</sup> IV every 21 days.</entry>
     </row>
     <row>
     <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00058">Pyrimidine Antimetabolites</term></emphasis></span></entry>
@@ -428,12 +428,12 @@
     <entry valign="middle" align="left"><emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Breast adenocarcinoma:</emphasis> 500–600 mg/m<sup>2</sup> IV days 1 and 8 every 28 days for 6 cycles.<newline/>
-    <emphasis effect="italics">Gastric adenocarcinoma):</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.</entry>
+    <emphasis effect="italics">Gastric adenocarcinoma:</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00061">Capecitabine</term><newline/>
     (<term class="no-emphasis" id="term-00062">Xeloda</term>)</entry>
-    <entry valign="middle" align="left">1250 mg/m<sup>2</sup> orally twice daily for 2 weeks followed by a 1-week rest period.</entry>
+    <entry valign="top" align="left">1250 mg/m<sup>2</sup> orally twice daily for 2 weeks followed by a 1-week rest period.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00063">Cytarabine</term><newline/> 
@@ -447,22 +447,22 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00066">Mercaptopurine</term><newline/>
     (<term class="no-emphasis" id="term-00067">Purixan</term>)</entry>
-    <entry valign="middle" align="left">1.5–2.5 mg/kg orally once daily.</entry>
+    <entry valign="top" align="left">1.5–2.5 mg/kg orally once daily.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00068">Thioguanine</term><newline/>
     (<term class="no-emphasis" id="term-00069">Tabloid</term>)</entry>
-    <entry valign="middle" align="left">2–3 mg/kg orally daily.</entry>
+    <entry valign="top" align="left">2–3 mg/kg orally daily.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00070">Gemcitabine</term><newline/>
     (<term class="no-emphasis" id="term-00071">Gemzar</term>)</entry>
-    <entry valign="middle" align="left">1000 mg/m<sup>2</sup> IV on days 1 and 8 of a 21-day cycle.</entry>
+    <entry valign="top" align="left">1000 mg/m<sup>2</sup> IV on days 1 and 8 of a 21-day cycle.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00072">Fludarabine</term><newline/>
     (<term class="no-emphasis" id="term-00073">Fludara</term>)</entry>
-    <entry valign="middle" align="left">25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
+    <entry valign="top" align="left">25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -472,7 +472,7 @@
     <section id="sect-00017">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00050">Antimetabolites are associated with many adverse effects. Folate antimetabolites are associated with myelosuppression, mucositis, hepatotoxicity, nephrotoxicity, and cutaneous reactions. Pyrimidine antimetabolites cause mucositis and myelosuppression as well but are also associated with dose-limiting hand-foot syndrome and diarrhea. Contraindications for fluorouracil include clients with dihydropyridine dehydrogenase (DPD) deficiency, which may result in toxic levels of fluorouracil. This can lead to cardiac dysfunction, colitis, neutropenia, and encephalopathy. Uridine triacetate is used to treat toxicity in these clients. Cytarabine is associated with inflammation of the conjunctiva. Corticosteroid eye drops are used prophylactically to prevent this. Purine antimetabolites, in addition to causing myelosuppression, also decrease the CD4 lymphocyte count, resulting in immunosuppression and risk of opportunistic infections (Amjad &amp; Kasi, 2020).</para>
-    <para id="para-00051"><link target-id="table-00006" document="m00251"/> is a drug prototype chart for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00051"><link target-id="table-00006" document="m00251"/> is a drug prototype table for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00006">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -489,7 +489,7 @@
     <emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Breast adenocarcinoma:</emphasis> 500–600 mg/m<sup>2</sup> IV days 1 and 8 every 28 days for 6 cycles.<newline/>
-    <emphasis effect="italics">Gastric adenocarcinoma):</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.<newline/>
+    <emphasis effect="italics">Gastric adenocarcinoma:</emphasis> 200–1000 mg/m<sup>2</sup> IV over 24 hours at varying frequencies depending on regimen.<newline/>
     Often given in combination with leucovorin calcium to enhance effectiveness.</entry>
     </row>
     <row>
@@ -582,7 +582,7 @@
     </thead>
     <tbody>
     <row>
-      <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00074">Anthracyclines/Antitumor Antibiotics</term></emphasis></span></entry>
+      <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00074">Anthracyclines/Antitumor Antibiotics</term></span></entry>
         </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00075">Daunorubicin</term><newline/>
@@ -592,7 +592,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00077">Doxorubicin</term> <newline/>
     (<term class="no-emphasis" id="term-00078">Adriamycin, Doxil</term>)</entry>
-    <entry valign="middle" align="left">60–75 mg/m<sup>2</sup> IV every 21 days (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
+    <entry valign="top" align="left">60–75 mg/m<sup>2</sup> IV every 21 days (550 mg/m<sup>2</sup> maximum lifetime limit due to cardiac toxicity).</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00079">Epirubicin</term><newline/> 
@@ -610,12 +610,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00084">Dactinomycin</term><newline/>
     (<term class="no-emphasis" id="term-00085">Cosmegen</term>)</entry>
-    <entry valign="middle" align="left">12–1250 mcg/m<sup>2</sup> IV; frequency depends on cancer type.</entry>
+    <entry valign="top" align="left">12–1250 mcg/m<sup>2</sup> IV; frequency depends on cancer type.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00086">Mitomycin</term><newline/>
     (<term class="no-emphasis" id="term-00087">Mutamycin</term>)</entry>
-    <entry valign="middle" align="left">20 mg/m<sup>2</sup> IV at 6–8 week intervals.</entry>
+    <entry valign="top" align="left">20 mg/m<sup>2</sup> IV at 6–8 week intervals.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -743,17 +743,17 @@
           <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00091">Vincristine</term><newline/>
     (<term class="no-emphasis" id="term-00092">Oncovin</term>)</entry>
-    <entry valign="middle" align="left">1.4 mg/m<sup>2</sup> IV weekly.</entry>
+    <entry valign="top" align="left">1.4 mg/m<sup>2</sup> IV weekly.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00093">Vinblastine</term><newline/>
     (<term class="no-emphasis" id="term-00094">Velban</term>)</entry>
-    <entry valign="middle" align="left">3.7 mg/m<sup>2</sup> IV initial dose; subsequent doses up to 18.5 mg/m<sup>2</sup> administered weekly.</entry>
+    <entry valign="top" align="left">3.7 mg/m<sup>2</sup> IV initial dose; subsequent doses up to 18.5 mg/m<sup>2</sup> administered weekly.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00095">Etoposide</term><newline/>
     (<term class="no-emphasis" id="term-00096">Vepesid, VP-16</term>)</entry>
-    <entry valign="middle" align="left">35–100 mg/m<sup>2</sup> IV; frequency depends on cancer type and other agents administered.</entry>
+    <entry valign="top" align="left">35–100 mg/m<sup>2</sup> IV; frequency depends on cancer type and other agents administered.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -763,7 +763,7 @@
     <section id="sect-00023">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00069">Peripheral neuropathy is a common but serious adverse effect of plant alkaloids. Both motor and sensory functions are affected, and neuropathy can be severe enough to result in paralytic ileus. Myelosuppression is another adverse effect caused by plant alkaloids. These drugs are classified as irritants, which may cause significant irritation to the skin should extravasation occur.</para>
-    <para id="para-00070"><link target-id="table-00010" document="m00251"/> is a drug prototype chart for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00070"><link target-id="table-00010" document="m00251"/> is a drug prototype table for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00010">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -893,7 +893,7 @@
     <section id="sect-00026">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00076">Taxanes are most known for the adverse effect of hypersensitivity reactions. A test dose and premedication with antihistamines and acetaminophen may be used prior administration. Myelosuppression may result in lowered levels of platelets and white blood cells. Taxanes are contraindicated in solid tumors with myelosuppression with neutrophil counts under 1500 cells/mm<sup>3</sup>. Peripheral neuropathy is also commonly associated with taxanes, resulting in pain and limited movement. Fatigue and arthralgias are also seen with these drugs. Cardiovascular changes including hypotension, bradycardia, hypertension, and electrocardiogram (ECG, EKG) changes may be noted (DailyMed, <emphasis effect="italics">Paclitaxel</emphasis>, 2023).</para>
-    <para id="para-00077"><link target-id="table-00012" document="m00251"/> is a drug prototype chart for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00077"><link target-id="table-00012" document="m00251"/> is a drug prototype table for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00012">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
@@ -1118,7 +1118,7 @@
     </row>
     <row>
     <entry valign="top"><emphasis effect="italics">Height:</emphasis></entry>
-    <entry valign="top">5’7”</entry>
+    <entry valign="top">5'7"</entry>
     </row>
     <row>
     <entry valign="top"><emphasis effect="italics">Weight:</emphasis></entry>

@@ -45,7 +45,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Tamoxifen</term><newline/>
     (<term class="no-emphasis" id="term-00003">Nolvadex</term>)</entry>
-    <entry valign="middle" align="left">20–40 mg/day orally for up to 5 years.</entry>
+    <entry valign="top" align="left">20–40 mg/day orally for up to 5 years.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00004">Fulvestrant</term><newline/>
@@ -58,12 +58,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Anastrozole</term><newline/>
     (<term class="no-emphasis" id="term-00008">Arimadex</term>)</entry>
-    <entry valign="middle" align="left">1 mg/day orally.</entry>
+    <entry valign="top" align="left">1 mg/day orally.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Exemestane</term><newline/>
     (<term class="no-emphasis" id="term-00010">Aromasin</term>)</entry>
-    <entry valign="middle" align="left">25 mg orally daily after a meal.</entry>
+    <entry valign="top" align="left">25 mg orally daily after a meal.</entry>
     </row>
     <row>
     <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00011">Antiandrogens</term></span></emphasis></entry>
@@ -71,12 +71,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Flutamide</term><newline/>
     (<term class="no-emphasis" id="term-00013">Eulexin</term>)</entry>
-    <entry valign="middle" align="left">250 mg orally every 8 hours/750 mg daily.</entry>
+    <entry valign="top" align="left">250 mg orally every 8 hours/750 mg daily.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00014">Bicalutamide</term><newline/>
     (<term class="no-emphasis" id="term-00015">Casodex</term>)</entry>
-    <entry valign="middle" align="left">50 mg/day orally.</entry>
+    <entry valign="top" align="left">50 mg/day orally.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -86,7 +86,7 @@
     <section id="sect-00006">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00006">Tamoxifen citrate tablets are contraindicated in clients who require concomitant coumarin-type anticoagulant therapy or in clients with a history of deep-vein thrombosis or pulmonary embolus. Adverse effects of hormonal therapies include weight gain, fatigue, vaginal dryness, loss of interest in sex, hot flashes, osteoporosis, nausea, vomiting, and diarrhea. Men receiving hormonal treatment, such as for prostate cancer, may experience breast development and tenderness (DailyMed, <emphasis effect="italics">Tamoxifen</emphasis>, 2022).</para>
-    <para id="para-00007"><link target-id="table-00002" document="m00252"/> is a drug prototype chart for hormonal agents featuring tamoxifen. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00007"><link target-id="table-00002" document="m00252"/> is a drug prototype table for hormonal agents featuring tamoxifen. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>

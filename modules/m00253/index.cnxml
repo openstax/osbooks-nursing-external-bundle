@@ -42,12 +42,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00003">Pembrolizumab</term><newline/>
     (<term class="no-emphasis" id="term-00004">Keytruda</term>)</entry>
-    <entry valign="middle" align="left">200–400 mg/dose IV every 3 weeks or every 6 weeks per protocol.</entry>
+    <entry valign="top" align="left">200–400 mg/dose IV every 3 weeks or every 6 weeks per protocol.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Nivolumab</term><newline/>
     (<term class="no-emphasis" id="term-00006">Opdivo</term>)</entry>
-    <entry valign="middle" align="left">240 mg IV every 2 weeks or 480 mg IV every 4 weeks per protocol.</entry>
+    <entry valign="top" align="left">240 mg IV every 2 weeks or 480 mg IV every 4 weeks per protocol.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Durvalumab</term><newline/>
@@ -58,7 +58,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Atezolizumab</term><newline/>
     (<term class="no-emphasis" id="term-00010">Tecentriq</term>)</entry>
-    <entry valign="middle" align="left">840 mg IV every 2 weeks or 1200 mg every 3 weeks or 1680 mg every 4 weeks.</entry>
+    <entry valign="top" align="left">840 mg IV every 2 weeks or 1200 mg every 3 weeks or 1680 mg every 4 weeks.</entry>
     </row>
     <row>
     <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00011">Biologic Response Modifiers</term></span></emphasis></entry>
@@ -66,7 +66,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00012">Rituximab</term><newline/>
     (<term class="no-emphasis" id="term-00013">Rituxan</term>)</entry>
-    <entry valign="middle" align="left">375–500 mg/m<sup>2</sup> IV; frequency varies by cancer type (premedicate per protocol).</entry>
+    <entry valign="top" align="left">375–500 mg/m<sup>2</sup> IV; frequency varies by cancer type (premedicate per protocol).</entry>
     </row>
     <row>
     <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text"><term class="no-emphasis" id="term-00014">Tyrosine Factor/Growth Factor Inhibitors</term></span></emphasis></entry>
@@ -74,12 +74,12 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Erlotinib</term><newline/>
     (<term class="no-emphasis" id="term-00016">Tarceva</term>)</entry>
-    <entry valign="middle" align="left">100–150 mg/day orally on empty stomach.</entry>
+    <entry valign="top" align="left">100–150 mg/day orally on empty stomach.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Ibrutinib</term><newline/>
     (<term class="no-emphasis" id="term-00018">Imbruvica</term>)</entry>
-    <entry valign="middle" align="left">420 mg/day orally.</entry>
+    <entry valign="top" align="left">420 mg/day orally.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -89,7 +89,7 @@
     <section id="sect-00005">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00006">One of the most critical adverse reactions of biologic therapy is hypersensitivity reactions. These may occur suddenly, especially during the initial treatment, and may be severe and life-threatening. Any premedication must be given, and emergency drugs such as epinephrine should be available. Biologic therapies are also associated with skin reactions that may be severe. Erlotinib has been shown to cause renal dysfunction, arrhythmias, hepatotoxicity, and gastrointestinal perforation. Clients may also develop widespread, severe acneiform rashes. In addition to severe hypersensitivity reactions, rituximab is also associated with cardiotoxicity, nephrotoxicity, leukoencephalopathy, bowel obstruction or perforation, tumor lysis syndrome, neutropenia, and infection.</para>
-    <para id="para-00007"><link target-id="table-00002" document="m00253"/> is a drug prototype chart for biologic response modifiers featuring pembrolizumab. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+    <para id="para-00007"><link target-id="table-00002" document="m00253"/> is a drug prototype table for biologic response modifiers featuring pembrolizumab. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
     <table class="vertically-tight" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="col1" colwidth="1*"/>
