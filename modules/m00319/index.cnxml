@@ -50,8 +50,8 @@
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="middle" align="left"><span class="blue-text">Type of Heart Failure</span></entry>
-<entry valign="middle" align="left"><span class="blue-text">Criteria</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Type of Heart Failure</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Criteria</span></entry>
 </row>
 </thead>
 <tbody>
