@@ -57,7 +57,7 @@
 <tbody>
 <row>
 <entry valign="top" align="left">Heart failure with reduced ejection fraction (HFrEF)</entry>
-<entry valign="top" align="left">Left ventricular ejection fraction ≤ 40%</entry>
+<entry valign="top" align="left">Left ventricular ejection fraction ≤40%</entry>
 </row>
 <row>
 <entry valign="top" align="left">Heart failure with mid-range ejection fraction (HFmrEF)</entry>
@@ -65,7 +65,7 @@
 </row>
 <row>
 <entry valign="top" align="left">Heart failure with preserved ejection fraction (HFpEF)</entry>
-<entry valign="top" align="left">Left ventricular ejection fraction ≥ 50% with symptoms of heart failure</entry>
+<entry valign="top" align="left">Left ventricular ejection fraction ≥50% with symptoms of heart failure</entry>
 </row>
 </tbody>
 </tgroup>
