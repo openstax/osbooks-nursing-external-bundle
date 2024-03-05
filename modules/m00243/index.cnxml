@@ -108,7 +108,7 @@
         <note class="black-box" id="note-00001">
             <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
         <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
-        <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
+        <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Older clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
         </note>
         <para id="para-00023"><link target-id="table-00001" document="m00243"/> lists common nonsteroidal anti-inflammatory drugs and typical routes and dosing for adult clients.</para>
               <table class="vertically-tight" id="table-00001">
@@ -127,7 +127,7 @@
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00015">Salicylic acid</term><newline/>
         (<term class="no-emphasis" id="term-00016">aspirin</term>)</entry>
-        <entry valign="middle" align="left">Tablet or enteric coated tablet, 1 or 2 325 mg tablets orally every 4 hours while symptoms last.</entry>
+        <entry valign="top" align="left">Tablet or enteric coated tablet, 1 or 2 325 mg tablets orally every 4 hours while symptoms last.</entry>
         </row>
         <row>
         <entry namest="c1" nameend="c2" valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Phenylacetic Acid Derivatives</emphasis></span></entry></row>
@@ -150,12 +150,12 @@
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00021">Ibuprofen</term><newline/>
         (<term class="no-emphasis" id="term-00022">Advil</term>)</entry>
-        <entry valign="middle" align="left">200 mg orally every 4–6 hours while symptoms persist.</entry>
+        <entry valign="top" align="left">200 mg orally every 4–6 hours while symptoms persist.</entry>
         </row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Naproxen sodium</term><newline/>
         (<term class="no-emphasis" id="term-00024">Aleve</term>)</entry>
-        <entry valign="middle" align="left">220 mg orally every 8–12 hours while symptoms last. Do not exceed 440 mg in any 8- to 12-hour period; do not exceed 660 mg in a 24-hour period.</entry>
+        <entry valign="top" align="left">220 mg orally every 8–12 hours while symptoms last. Do not exceed 440 mg in any 8- to 12-hour period; do not exceed 660 mg in a 24-hour period.</entry>
         </row>
         <row>
         <entry namest="c1" nameend="c2" valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Oxicams</emphasis></span></entry></row>
@@ -163,20 +163,20 @@
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00025">Meloxicam</term><newline/>
         (<term class="no-emphasis" id="term-00026">Mobic</term>)</entry>
-        <entry valign="middle" align="left">5 mg orally once daily. May be increased to 10 mg orally in clients who require additional analgesia. Maximum daily dose: 10 mg.</entry>
+        <entry valign="top" align="left">5 mg orally once daily. May be increased to 10 mg orally in clients who require additional analgesia. Maximum daily dose: 10 mg.</entry>
         </row>
         <row>
         <entry valign="middle" align="center">
         <term class="no-emphasis" id="term-00027">Piroxicam</term><newline/>
         (<term class="no-emphasis" id="term-00028">Feldene</term>)</entry>
-        <entry valign="middle" align="left">20 mg orally once daily.</entry>
+        <entry valign="top" align="left">20 mg orally once daily.</entry>
         </row>
         <row>
         <entry namest="c1" nameend="c2" valign="top" align="center"><span class="blue-text"><emphasis effect="bold">COX-2 Inhibitor</emphasis></span></entry></row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Celecoxib</term><newline/>
         (<term class="no-emphasis" id="term-00030">Celebrex</term>)</entry>
-        <entry valign="middle" align="left">100–200 mg orally twice daily.</entry>
+        <entry valign="top" align="left">100–200 mg orally twice daily.</entry>
         </row>
         </tbody>
         </tgroup>
@@ -399,7 +399,7 @@
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00044">Chloroquine</term><newline/>
         (<term class="no-emphasis" id="term-00045">Chloroquine FNA</term>)</entry>
-        <entry valign="middle" align="left">500 mg orally once per week on exactly the same day of each week.</entry>
+        <entry valign="top" align="left">500 mg orally once per week on exactly the same day of each week.</entry>
         </row>
         </tbody>
         </tgroup>
@@ -516,18 +516,18 @@
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00051">Colchicine</term><newline/>
         (<term class="no-emphasis" id="term-00052">Colcrys</term>)</entry>
-        <entry valign="middle" align="left">0.6 mg orally once or twice daily; maximum dose 1.2 mg per day.</entry>
+        <entry valign="top" align="left">0.6 mg orally once or twice daily; maximum dose 1.2 mg per day.</entry>
         </row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00053">Allopurinol</term><newline/>
         (<term class="no-emphasis" id="term-00054">Zyloprim</term>)</entry>
-        <entry valign="middle" align="left"><emphasis effect="italics">For mild gout</emphasis>: 200–300 mg/day orally.<newline/>
+        <entry valign="top" align="left"><emphasis effect="italics">For mild gout</emphasis>: 200–300 mg/day orally.<newline/>
         <emphasis effect="italics">For moderately severe tophaceous gout: </emphasis>400–600 mg/day orally. </entry>
         </row>
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00055">Probenecid</term><newline/>
         (<term class="no-emphasis" id="term-00056">Probalan</term>)</entry>
-        <entry valign="middle" align="left">250 mg orally twice daily for 2 weeks, followed by 500 mg orally twice daily thereafter.</entry>
+        <entry valign="top" align="left">250 mg orally twice daily for 2 weeks, followed by 500 mg orally twice daily thereafter.</entry>
         </row>
         </tbody>
         </tgroup>
