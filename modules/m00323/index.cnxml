@@ -129,9 +129,9 @@ Ages 15 to 19</entry>
 <table class="vertically-tight alternate-shading" id="table-00002">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
+<colspec colnum="4" colname="c4" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="middle" align="center"><span class="blue-text"><emphasis effect="bold"/></span></entry>
@@ -145,7 +145,7 @@ Ages 15 to 19</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Environmental</emphasis></span></entry>
 <entry valign="top" align="left">
 <list list-type="bulleted" id="list-00011">
-<item>Exposure to lead and environmental toxins</item>
+<item>Exposure to lead and&#160;environmental toxins</item>
 <item>Poor air quality</item>
 <item>Inadequate access to clean water, sanitation, and healthy food</item>
 <item>Poor housing conditions</item>
