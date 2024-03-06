@@ -54,10 +54,11 @@
 <para id="para-00013">Hepatitis is inflammation of the liver and may result from a viral infection. In the United States, its most common viral forms are hepatitis A, B, and C (<link target-id="table-00002" document="m00169"/>). Viral <term class="no-emphasis" id="term-00013">hepatitis</term> infections affect millions of people globally, with hepatitis B and C resulting in chronic infections and liver cancer, disproportionately affecting lower-income countries. However, progress in treatment is being made globally. Hepatitis C is curable with a three-month course of medication taken once a day, and medications are available to slow the progression of hepatitis B and prevent liver damage (CDC, 2021e). Both hepatitis A and B can be prevented with safe, effective vaccines.</para>
 <table class="alternate-shading full-width" id="table-00002">
   <title/>
-  <tgroup cols="3">
+  <tgroup cols="4">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <colspec colnum="4" colname="c4" colwidth="1*"/>
   <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text"/></entry>
