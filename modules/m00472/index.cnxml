@@ -49,7 +49,7 @@
     <para id="para-00007"><term id="term-00006">Impetigo</term> is a cutaneous bacterial infection that occurs on the upper surface of the skin (<link target-id="fig-00004" document="m00472"/>). Typically, impetigo is seen in infants and children, although it may occasionally be seen in adults. The causative organisms are most often <emphasis effect="italics">Staphylococcus aureus</emphasis> and <emphasis effect="italics">Streptococcus pyogenes</emphasis> bacteria. Treatment encompasses application of mupirocin, a topical antibacterial. Retapamulin, another topical anti-infective used in impetigo, selectively inhibits protein synthesis to stop bacterial growth. Topical treatment with these agents usually clears impetigo, but if impetigo persists and is severe, oral antibiotics may be needed.</para>
     <figure class="scaled-down" id="fig-00004">
     <media alt="A closeup photo of an arm with impetigo shows small, round pustules, as well as some that have erupted and scabbed over."><image mime-type="image/png" src="../../media/PHA_Figure_40_04_008.jpg"/></media>
-    <caption>Impetigo is characterized by vesicles, pustules, or bullae that rupture, producing sores covered by honey-colored crusts. (credit: “The lesions on the volar surface of this patient’s left forearm proved to be Streptococcal impetigo, a dermatologic condition quite often caused by Staphylococcus aureus bacteria, as well” by Dr. Herman Miranda, Univ.of Trujello, Peru; A. Chambers/Centers for Disease Control and Prevention, Public Domain)</caption>
+    <caption>Impetigo is characterized by vesicles, pustules, or bullae that rupture, producing sores covered by honey-colored crusts. (credit: “The lesions on the volar surface of this patient’s left forearm proved to be <emphasis effect="italics">Streptococcal</emphasis> impetigo, a dermatologic condition quite often caused by <emphasis effect="italics">Staphylococcus aureus</emphasis> bacteria, as well” by Dr. Herman Miranda, Univ.of Trujello, Peru; A. Chambers/Centers for Disease Control and Prevention, Public Domain)</caption>
     </figure>
     </section>
     <section id="sect-00008">
@@ -57,7 +57,7 @@
     <para id="para-00008"><term id="term-00007">Rosacea</term> is a skin condition that develops from an inflammatory process, causing redness, swelling, prominent small vessels, and papular lesions on the face (<link target-id="fig-00005" document="m00472"/>). Metronidazole, an antifungal, is used in the treatment of rosacea to reduce redness and inflammatory lesions. Nurses should note that when absorbed systemically, metronidazole interacts negatively with many other medicines. When alcoholic beverages are mixed with metronidazole, a life-threatening disulfiram-like reaction may occur, resulting in palpitations, diaphoresis, flushing, nausea, and tachycardia (Stokes &amp; Abdijadid, 2019). Sodium sulfacetamide, another treatment for rosacea, is antibacterial in function and is used to cleanse the skin and eliminate bacteria. Clients with sulfa allergies should not use sodium sulfacetamide.</para>
     <figure class="scaled-down" id="fig-00005">
     <media alt="A closeup photo of a face with rosacea. The nose and cheek area is a deep red color, and there are some swollen red bumps as well."><image mime-type="image/png" src="../../media/PHA_Figure_40_04_009.jpg"/></media>
-    <caption>Rosacea, consisting of red bumps and broken blood vessels, occurs on the face. (credit:“Rosacea. Erythema and telangiectasia are seen over the cheeks, nasolabial area and nose. Inflammatory papules and pustules can be observed over the nose. The absence of comedos is a helpful tool to distinguish rosacea from acne" by M. Sand, D. Sand, C. Thrandorf, V. Paech, P. Altmeyer, F. G. Bechara/Wikimedia Commons, CC BY 2.0)</caption>
+    <caption>Rosacea, consisting of red bumps and broken blood vessels, occurs on the face. (credit:“Rosacea. Erythema and telangiectasia are seen over the cheeks, nasolabial area and nose. Inflammatory papules and pustules can be observed over the nose. The absence of comedos is a helpful tool to distinguish rosacea from acne.&#8221; by Sand, M., Sand, D., Thrandorf, C. et al. &#8220;Cutaneous lesions of the nose.&#8221; <emphasis effect="italics">Head Face Med</emphasis> 6, 7 (2010). https://doi.org/10.1186/1746-160X-6-7/BioMed Central, CC BY 2.0)</caption>
     </figure>
     <para id="para-00009"><link target-id="table-00001" document="m00472"/> lists common miscellaneous dermatologic drugs and typical routes and dosing for adult and <term class="no-emphasis" id="term-00008">pediatric clients</term>.</para>
     <table class="vertically-tight" id="table-00001">
@@ -143,7 +143,7 @@
     <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
     Bactericidal; binds RNA transcription</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosing</emphasis></span><newline/>
-    <emphasis effect="italics">Adults and children >2 months:</emphasis> Apply ointment (2%)<newline /> to area 2–3 times daily.</entry>
+    <emphasis effect="italics">Adults and children >2 months:</emphasis> Apply ointment (2%) to area 2–3 times daily.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
@@ -217,7 +217,7 @@
     <span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
     Bactericidal; disrupts cell wall</entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosing</emphasis></span><newline/>
-    <emphasis effect="italics">Adults and children >2 months:</emphasis> Apply cream once or<newline /> twice daily, to a thickness of approximately 1/16 inch.</entry>
+    <emphasis effect="italics">Adults and children >2 months:</emphasis> Apply cream once or twice daily, to a thickness of approximately 1/16 inch.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
@@ -244,7 +244,7 @@
     Hypersensitivity<newline/>
     Sulfa allergy<newline/>
     Pregnant clients approaching or at term<newline/>
-    Premature infants or newborn infants during the first 2<newline /> months of life</entry>
+    Premature infants or newborn infants during the first 2 months of life</entry>
     </row>
     </tbody>
     </tgroup>
@@ -344,7 +344,7 @@
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
-    <entry valign="top" align="left">5’5”</entry>
+    <entry valign="top" align="left">5'5"</entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
