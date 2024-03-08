@@ -152,10 +152,10 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose IV given every 6 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
 <emphasis effect="bold"><emphasis effect="italics">C. difficile</emphasis>–associated diarrhea:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 125 mg orally 4 times daily for 10 days.<newline/>
-<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days. Maximum daily dose: 2 g.<newline/>
+<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days.<newline/> Maximum daily dose: 2 g.<newline/>
 <emphasis effect="bold">Staphylococcal enterocolitis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 500–2000 mg orally in 3–4 divided doses for 7–10 days.<newline/>
-<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days. Maximum daily dose: 2 g.</entry>
+<emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days.<newline/> Maximum daily dose: 2 g.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Oxazolidinone</emphasis></span></entry>
@@ -175,13 +175,13 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 (<term class="no-emphasis" id="term-00033">Cleocin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Osteomyelitis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> Orally: Serious infections: 150–300 mg every 6 hours. More severe infections: 300–450 mg every 6 hours. Intramuscularly or IV: 600–1200 mg/day in 2–4 equal doses. For more severe infections: 1200–2700 mg/day in 2–4 equal doses.<newline/>
-<emphasis effect="italics">Children 1 month to 16 years</emphasis>: Orally: Serious infections: 8–16 mg/kg/day in 3–4 equal doses. More severe infections: 16–20 mg/kg/day in 3–4 equal doses. <emphasis effect="italics">Intramuscularly or IV:</emphasis> 20 to 40 mg/kg/day in 3–4 equal doses.</entry>
+<emphasis effect="italics">Children 1 month to 16 years</emphasis>: Orally: Serious infections: 8–16 mg/kg/day in 3–4 equal doses. More severe infections: 16–20 mg/kg/day in 3–4 equal doses. <emphasis effect="italics">Intramuscularly or IV:</emphasis> 20–40 mg/kg/day in 3–4 equal doses.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Tetracycline</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00034">Doxycycline</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00034">Doxycycline</term><newline/>
 (<term class="no-emphasis" id="term-00035">Vibramycin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Rocky Mountain spotted fever:</emphasis><newline/>
 <emphasis effect="italics">Adults and children &#8805;45 kg:</emphasis> 200 mg orally on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day. For more severe infections, 100 mg every 12 hours.<newline/>
@@ -191,7 +191,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Aminoglycoside</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00036">Gentamicin</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Gentamicin</term><newline/>
 (<term class="no-emphasis" id="term-00037">Garamycin</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Gram-negative infection:</emphasis><newline/>
 Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
@@ -202,7 +202,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Sulfonamide</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><term class="no-emphasis" id="term-00038">Sulfamethoxazole and trimethoprim</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00038">Sulfamethoxazole and trimethoprim</term><newline/>
 (<term class="no-emphasis" id="term-00039">Bactrim</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="bold">Urinary tract infection:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 1 double-strength tablet or 2 regular-strength tablets every 12 hours for 10–14 days.<newline/>
@@ -559,7 +559,7 @@ Pruritus
 </entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Contraindications</emphasis></span><newline/>
 Hypersensitivity<newline count="2"/>
-Caution: Liver impairment</entry>
+Caution:<newline/>Liver impairment</entry>
 </row>
 </tbody>
 </tgroup>
@@ -623,34 +623,34 @@ Caution: Liver impairment</entry>
   <row>
     <entry valign="middle" align="center">Amphotericin B<newline/>
 (Fungizone)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Progessive, potentially life-threatening fungal infections:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Progessive, potentially life-threatening fungal infections:</emphasis><newline/>
   <emphasis effect="italics">Adults:</emphasis> 0.25–0.3 mg/kg IV daily over 2–6 hours. Total daily dose of 1.5 mg/kg should not be exceeded.</entry>
 </row>
   <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00077">Anidulafungin</term><newline/>
 (<term class="no-emphasis" id="term-00078">Eraxis</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Candida:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Candida:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200 mg IV on day 1, then 100 mg IV once daily.<newline/>
 <emphasis effect="italics">Children:</emphasis> 3 mg/kg (not to exceed 200 mg) on day 1, followed by a once daily IV maintenance dose of 1.5 mg/kg (not to exceed 100 mg) thereafter for 14 days.<newline/>
-<emphasis effect="bold">Esophageal candidiasis:</emphasis><newline/>
+<emphasis effect="italics">Esophageal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 100 mg IV loading dose on day 1, followed by a 50 mg IV once daily maintenance dose for 14 days.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00079">Fluconazole</term><newline/>
 (<term class="no-emphasis" id="term-00080">Diflucan</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Oropharyngeal or esophageal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 200 mg orally on the first day, followed by 100 mg orally once daily for 2 weeks to prevent relapse.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00081">Flucytosine</term><newline/>
 (<term class="no-emphasis" id="term-00082">Ancoban</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Symptomatic cystitis:</emphasis> <newline/>
-<emphasis effect="italics">Adults:</emphasis> 50 to 150 mg/kg/day administered in divided doses at 6-hour intervals for 10 days.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Symptomatic cystitis:</emphasis> <newline/>
+<emphasis effect="italics">Adults:</emphasis> 50–150 mg/kg/day administered in divided doses at 6-hour intervals for 10 days.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00083">Nystatin</term><newline/>
 (<term class="no-emphasis" id="term-00084">Nystat</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Oropharyngeal candidiasis:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Oropharyngeal candidiasis:</emphasis><newline/>
 <emphasis effect="italics">Adults and children:</emphasis> Swish and swallow 400,000–600,000 units 4 times daily for 7–14 days. Continue for 48 hours after symptoms resolve and a negative culture is obtained.<newline/>
 <emphasis effect="italics">Infants:</emphasis> 200,000 units 4 times daily using a dropper.</entry>
 </row>
