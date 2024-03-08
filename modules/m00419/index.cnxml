@@ -41,12 +41,14 @@
 <colspec colnum="1" colname="c1" colwidth="1*"/>
 <colspec colnum="2" colname="c2" colwidth="1*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
-<tbody>
+<thead>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">GI Conditions</span></emphasis></entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Manifestations</span></emphasis></entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Common Drugs Used to Treat GI Conditions</span></emphasis></entry>
 </row>
+</thead>
+<tbody>
 <row>
 <entry valign="top" align="left"><list list-type="bulleted" id="list-00002"><item>Food or medication allergies</item>
 <item>Adverse reaction to medications</item>
