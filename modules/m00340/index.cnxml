@@ -185,7 +185,7 @@
     <tgroup cols="1">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
     <tbody>
-    <row class="header-row">
+    <row>
     <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Primary Health Promotion</emphasis></span></entry>
     </row>
     <row>
@@ -208,7 +208,7 @@
     <item>Sexual health and prevention of sexually transmitted diseases</item>
     </list></item></list></entry>
     </row>
-    <row class="header-row">
+    <row>
     <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Secondary Health Promotion</emphasis></span></entry>
     </row>
     <row>
@@ -238,7 +238,7 @@
     <item>Identify students at risk</item></list></item>
     </list></entry>
     </row>
-    <row class="header-row">
+    <row>
     <entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Tertiary Health Promotion</emphasis></span></entry>
     </row>
     <row>
@@ -315,7 +315,7 @@
     <section id="sect-00034">
     <title>Behavioral Problems and Learning Difficulties</title>
     <para id="para-00053">Behavioral problems and learning difficulties are common concerns in schools. One in every six school-age children and adolescents experience a <term class="no-emphasis" id="term-00054">mental health disorder</term> each year, and half of all mental health conditions begin by age 14 (National Alliance on Mental Illness [NAMI], 2023). Children’s mental disorders may include anxiety, depression, oppositional defiant disorder, conduct disorder, attention-deficit/hyperactivity disorder (ADHD), Tourette syndrome, obsessive-compulsive disorder, and <term class="no-emphasis" id="term-00055">post-traumatic stress disorders</term> (CDC, 2023m). From 2013 to 2019, the most common mental health disorders diagnosed in children ages 3 to 17 in the United States were ADHD and <term class="no-emphasis" id="term-00056">anxiety</term>, affecting more than one in 11 children. In older children and teens, 12 to 17 years of age, <term class="no-emphasis" id="term-00057">depression</term> and suicide were more of a risk, with one in three high school students reporting sadness or hopelessness and almost one in five high school students self-reporting having seriously considered suicide (Bitsko et al., 2022).</para>
-    <para id="para-00054">Mental disorders can begin in early childhood and can affect any community, although certain populations are more affected due in part to the SDOH of poverty, education access, and geographic area (Bitsko et al., 2022). Half of all children and adolescents with mental health conditions do not receive appropriate treatment, undiagnosed, untreated, or inadequately treated mental illness interferes with learning and development (NAMI, 2023). Early treatment has been shown to help children and adolescents stay in school, stay on track to meet life goals, and have overall better health outcomes (NAMI, 2023). Inadequately treated or untreated mental illness is associated with higher school dropout rates, unemployment, substance use, incarceration, and early death, with suicide being the second leading cause of death in children and young adults, ages 10–34 (NAMI, 2023).</para>
+    <para id="para-00054">Mental disorders can begin in early childhood and can affect any community, although certain populations are more affected due in part to the SDOH of poverty, education access, and geographic area (Bitsko et al., 2022). Half of all children and adolescents with mental health conditions do not receive appropriate treatment. Undiagnosed, untreated, or inadequately treated mental illness interferes with learning and development (NAMI, 2023). Early treatment has been shown to help children and adolescents stay in school, stay on track to meet life goals, and have overall better health outcomes (NAMI, 2023). Inadequately treated or untreated mental illness is associated with higher school dropout rates, unemployment, substance use, incarceration, and early death, with suicide being the second leading cause of death in children and young adults, ages 10–34 (NAMI, 2023).</para>
     <note class="media-feature" id="note-00005">
     <title>Students Open Up About Their Struggles With Mental Health</title>
     <media alt="atoms_isotopes">
