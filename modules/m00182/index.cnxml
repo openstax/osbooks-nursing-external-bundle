@@ -24,6 +24,9 @@
 <table class="alternate-shading" id="table-00001">
 <title/>
 <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Social Determinants of Health (SDOH)</emphasis></span></entry>
@@ -96,12 +99,12 @@
 </figure>
 <table class="vertically-tight" id="table-00002">
 <title/>
-<tgroup cols="4">
-<colspec colnum="1" colname="c1"/>
-<colspec colnum="2" colname="c2"/>
-<colspec colnum="3" colname="c3"/>
-<colspec colnum="4" colname="c4"/>
-<thead>
+<tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <colspec colnum="3" colname="c3" colwidth="3*"/>
+  <colspec colnum="4" colname="c4" colwidth="3*"/>
+ <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Description</emphasis></span></entry>
@@ -168,6 +171,9 @@
 <table class="alternate-shading" id="table-00003">
 <title/>
 <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="3*"/>
+  <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Setting</emphasis></span></entry>

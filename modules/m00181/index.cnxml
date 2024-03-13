@@ -38,6 +38,9 @@
   
   <table class="alternate-shading" id="table-00001">
   <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
   <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text"><emphasis>Construct</emphasis></span></entry>
@@ -149,6 +152,9 @@
   
   <table class="alternate-shading" id="table-00002">
   <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
+    <colspec colnum="3" colname="c3" colwidth="3*"/>
   <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text"><emphasis>Construct</emphasis></span></entry>
@@ -207,8 +213,7 @@
   <para id="para-00016">One of the most frequently used community-level models is the <term id="term-00024">Diffusion of Innovations Theory</term>. It addresses how new ideas, products, and social practices spread within an organization, community, or society or from one society to another (National Cancer Institute, 2005). Diffusion of Innovations is “the process by which an <emphasis effect="italics">innovation</emphasis> is communicated through certain <emphasis effect="italics">channels</emphasis> over <emphasis effect="italics">time</emphasis> among the members of a <emphasis effect="italics">social system</emphasis>” (National Cancer Institute, 2005, p. 27). These four central concepts are defined in <link target-id="table-00003" document="m00181"/>.</para>
   
   <table class="alternate-shading" id="table-00003">
-  
-  <tgroup cols="2">
+    <tgroup cols="2">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <thead>

@@ -37,6 +37,9 @@
 <para id="para-00006">To identify opportunities for prevention and control, it is first necessary to recognize the <term id="term-00002">natural history of disease</term>—that is, the progression of a disease process in an individual over time in the absence of treatment (Kisling et al., 2023). The five stages in the natural history of disease are <term class="no-emphasis" id="term-00003">underlying</term>, <term class="no-emphasis" id="term-00004">susceptible</term>, <term class="no-emphasis" id="term-00005">subclinical</term>, <term class="no-emphasis" id="term-00006">clinical</term>, and <term class="no-emphasis" id="term-00007">recovery/disability/death</term> (see <link target-id="table-00001" document="m00180"/>).</para>
 <table class="alternate-shading" id="table-00001">
 <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
+  <colspec colnum="3" colname="c3" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Stage</emphasis></span></entry>
@@ -81,6 +84,10 @@
 <para id="para-00008">The five levels of prevention—<term class="no-emphasis" id="term-00008">primordial</term>, <term class="no-emphasis" id="term-00009">primary</term>, <term class="no-emphasis" id="term-00010">secondary</term>, <term id="term-00011">tertiary</term>, and quaternary—described in <link document="m00108">Foundations of Public/Community Health</link> correspond to the five stages of disease described in <link target-id="table-00001" document="m00180"/>. Combined use of prevention strategies in a community at the macro-level (or upstream) can lead to the prevention of individual (micro-level, or downstream) complications of an exhibited disease (Kisling &amp; Das, 2022). <link target-id="table-00002" document="m00180"/> identifies the levels of prevention as they correspond to the disease stages.</para>
 <table class="alternate-shading" id="table-00002">
 <tgroup cols="4">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="2*"/>
+  <colspec colnum="4" colname="c4" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Levels of Prevention</emphasis></span></entry>
