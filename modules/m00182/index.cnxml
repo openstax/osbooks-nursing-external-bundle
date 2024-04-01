@@ -37,8 +37,8 @@
 <tbody>
 <row>
 <entry valign="top">Economic Stability</entry>
-<entry valign="top">A client’s primary provider instructs them to follow a low-sodium diet. The client will not receive a paycheck until Friday and only has $30 for the next two days. Rather than choose a salad from the grocery, the client chooses a fast-food meal to make the money they have last longer.</entry>
-<entry valign="top">A client lives in a rental apartment in a community with little stable housing. The client has recently been experiencing respiratory difficulties. A neighbor reported mold in their building due to frequent water leaks. The client’s primary provider is concerned that the apartment may be contributing to the client’s respiratory condition. The client can barely afford the apartment and cannot afford to move.</entry>
+<entry valign="top">A client’s primary provider instructs them to follow a low-sodium diet. The client will not receive a paycheck until Friday and only has $30 for the next 2 days. Rather than choose a salad from the grocery, the client chooses a fast-food meal to make the money they have last longer.</entry>
+<entry valign="top">A client who has recently experienced respiratory difficulties lives in a rental apartment in a community with little stable housing. A neighbor reported mold in the building due to frequent water leaks. The client’s primary provider is concerned that the apartment may be contributing to the client’s respiratory condition. The client can barely afford the apartment and cannot afford to move.</entry>
 </row>
 <row>
 <entry valign="top">Education Access and Quality</entry>
@@ -47,7 +47,7 @@
 </row>
 <row>
 <entry valign="top">Health Care Access and Quality</entry>
-<entry valign="top">A client who does not drive lives in a rural area. She has an appointment for a mammogram two hours away. She has arranged for her grandchild to drive her to the appointment. Unfortunately, the grandchild’s vehicle is unreliable and is not drivable on the day of the appointment.</entry>
+<entry valign="top">A client who does not drive lives in a rural area. She has arranged for her grandchild to drive her to an appointment for a mammogram 2 hours away, but the grandchild’s vehicle is unreliable and is not drivable on the day of the appointment.</entry>
 <entry valign="top">An urban clinic has experienced a shortage of providers following the COVID-19 pandemic. This has resulted in clients experiencing longer wait times and delayed care.</entry>
 </row>
 <row>
@@ -57,8 +57,8 @@
 </row>
 <row>
 <entry valign="top">Social and Community Context</entry>
-<entry valign="top">A transgender teenager suffers from depression due to bullying at school. They experience social rejection and isolation, decreased social support, and verbal abuse daily.</entry>
-<entry valign="top">A family of color lives in a neighborhood that has historically been ignored for social improvements by the city government. The family’s children were all considered small-for-gestational-age births.</entry>
+<entry valign="top">A transgender teenager is bullied and suffers from depression. They experience social rejection and isolation, decreased social support, and verbal abuse daily.</entry>
+<entry valign="top">A family of color lives in a neighborhood that has historically been ignored for social improvements. The family’s children were all considered small-for-gestational-age births.</entry>
 </row>
 </tbody>
 </tgroup>
@@ -79,9 +79,8 @@
 <para id="para-00007">A nurse serving in a role related to health promotion and disease prevention may encounter internal or external barriers from the health care system. The system may lack financial or political support for health promotion implementation. There may be a lack of time for effective health promotion and disease prevention activities, particularly in competition with the day-to-day demands. Poor communication may exist between the various entities within and outside the health care system. Finally, others within the system may lack interest in health promotion and disease prevention (Rogers et al., 2021).</para>
 <note class="unfolding-casestudy" id="note-00001">
 <title>Part B: Health Screening Follow-Up</title>
-<para id="para-00008a">Read the scenario, and then answer the questions that follow.</para>
+<para id="para-00008a">Read the scenario, and then answer the questions that follow based on all the case information provided in the chapter thus far. This case study is a follow-up to Case Study Part A.</para>
 <para id="para-00008">During Deanna’s appointment, a nurse working in the primary care provider’s office is teaching Deanna about lifestyle modifications to lower her high blood pressure level, such as a low-sodium diet and regular exercise. As the nurse is discussing lifestyle changes with Deanna and answering her questions, the office manager calls the nurse out of the room and asks why they are spending longer than the allotted 15 minutes with the client. The nurse explains that Deanna has many questions about the recommended dietary changes. The manager indicates that the client should be dismissed and instruction can be continued at her follow-up appointment in 2 months.</para>
-<para id="para-00009">Answer the following questions based on the case information provided in the chapter thus far.</para>
 <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/COM_Ch15_Sec4_UCSQ1"/></para></problem></exercise>
 <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/COM_Ch15_Sec4_UCSQ2"/></para></problem></exercise>
 </note>
@@ -108,7 +107,8 @@
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Factors</emphasis></span></entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis>Description</emphasis></span></entry>
-<entry namest="c3" nameend="c4" valign="top" align="left"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis>Examples</emphasis></span></entry>
+<entry valign="top" align="left"></entry>
 </row>
 </thead>
 <tbody>
@@ -116,7 +116,7 @@
 <entry valign="top" morerows="4">Predisposing factors</entry>
 <entry valign="top" morerows="4">Intellectual and emotional “givens” that tend to make individuals or populations more or less likely to adopt a healthy or risky behavior or lifestyle or to approve of or accept particular environmental conditions</entry>
 <entry valign="top">Knowledge</entry>
-<entry valign="top">A person is more likely to avoid using smokeless tobacco if they know it can lead to cancer than if they do not know this.</entry>
+<entry valign="top">A person is more likely to avoid using smokeless tobacco if they know it can lead to cancer.</entry>
 </row>
 <row>
 <entry valign="top">Attitudes</entry>
@@ -124,15 +124,15 @@
 </row>
 <row>
 <entry valign="top">Beliefs</entry>
-<entry valign="top">The belief that if a food’s label says “low fat,” it is healthy to eat.<newline/>Can also be related to religion or culture: Premarital sex is a sin, so teenagers should not be provided with condoms.</entry>
+<entry valign="top">A client may believe that if a food’s label says “low fat,” it is healthy to eat<newline/>or that premarital: sex is a sin, so teenagers should not be provided with condoms.</entry>
 </row>
 <row>
 <entry valign="top">Values</entry>
-<entry valign="top">A person who values cleanliness is more likely to follow hand hygiene guidelines than one who does not.</entry>
+<entry valign="top">A person who values cleanliness is more likely to follow hand hygiene guidelines.</entry>
 </row>
 <row>
 <entry valign="top">Confidence</entry>
-<entry valign="top">Failure to attempt to follow a weight loss regimen simply because a person does not feel they are capable of doing so.</entry>
+<entry valign="top">A client may not attempt to follow a weight loss regimen simply because they do not feel they are capable of doing so.</entry>
 </row>
 <row>
 <entry valign="top" morerows="3">Enabling factors</entry>
@@ -142,7 +142,7 @@
 </row>
 <row>
 <entry valign="top">Accessibility of Services</entry>
-<entry valign="top">If a specialist has a waiting list over a year and is located 10 hours away, a client is less likely to agree to their care.</entry>
+<entry valign="top">If a specialist has a waiting list over a year long and is located 10 hours away, a client is less likely to agree to their care.</entry>
 </row>
 <row>
 <entry valign="top">Community and/or Government Laws/Policies</entry>
@@ -209,7 +209,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Health Promotion Settings</caption>
+<caption>Health Promotion Settings (See CDC 2019a, 2019c; The University of Alabama at Birmingham, 2023.)</caption>
 </table>
 <note class="health-alert" id="note-00002">
 <title>Urban Health Inequities</title>
@@ -220,7 +220,7 @@
 <para id="para-00018">Prisons, the digital environment (including social media), and more recently airports, places of worship, and specific coastal communities in the United Kingdom are other identified health promoting settings (Kokko &amp; Baybutt, 2022). Global initiatives to address the health of those who work and live in prisons, particularly in the United Kingdom, have provided benefits from the development of a “whole-prison approach” to health promotion. This approach involves peer support for both workers and prisoners, behavior modification initiatives, disease prevention and screening, easily accessible information about health services and current health campaigns, and a focus on continuity of care (Woodall &amp; Freeman, 2019). This approach has not been adopted in the United States. However, the CDC (2022) does offer recommendations and guidance for correctional settings, including information on infectious disease, COVID-19 management, traumatic brain injury, and other medical problems and conditions reported by prison inmates.</para>
 <para id="para-00019">The WHO (2021a) issued its <emphasis effect="italics"><link url="https://openstax.org/r/whointdocs">Global Strategy on Digital Health 2020–2025</link></emphasis>, which provided guiding principles, strategic objectives, a framework for action, and implementation principles for the strategy and action plan related to using digital technologies to shape the future of global health. This strategy incorporates the use of a variety of technologies to create a continuum of care (WHO, 2021a, p. 8). The WHO (2023b) has also convened a panel of experts to address infodemic management and social listening. An <term id="term-00014">infodemic</term> is an overabundance of information, including misinformation, that surges during a health emergency. The WHO recognizes that during a health emergency, people seek, receive, process, and act on information differently than in other times, making it even more important to use evidence-based strategies to address health issues. <term id="term-00015">Social listening</term> is the process of gathering information about people’s questions and concerns and the circulating narratives and misinformation about health from online and offline data sources. This includes data from social media platforms. The WHO (2023b) hopes to provide an ethical framework and tools that can be used for social listening and infodemic management.</para>
 <note class="media-feature" id="note-00003">
-<title>How to Protect Yourself in an Infodemic</title>
+<title>How to Protect Yourself in the Infodemic</title>
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/infodemictestimonies"/>
 </media>
@@ -237,7 +237,7 @@
 </section>
 <section class="section-summary" id="sect-00006">
 <title>Chapter Summary</title>
-<para id="para-00024">Many factors that influence the health of individuals and communities include both individual- and system-level barriers, described using the social determinants of health (SDOH). The health care delivery system also poses barriers to health promotion and disease prevention. Predisposing, enabling, and reinforcing factors can be supportive or produce obstacles, and the health care professional must consider these in their efforts to promote health and prevent disease. Health promotion settings include cities, hospitals, schools, universities and colleges, workplaces, and others. Many successful health promotion and disease prevention programs encourage collaboration and coordination across multiple settings.</para>
+<para id="para-00024">Many factors that influence the health of individuals and communities face both individual- and system-level barriers, described using the social determinants of health (SDOH). The health care delivery system itself poses barriers to health promotion and disease prevention. Predisposing, enabling, and reinforcing factors can be supportive or produce obstacles, and the health care professional must consider these in their efforts to promote health and prevent disease. Health promotion settings include cities, hospitals, schools, universities and colleges, workplaces, and others. Many successful health promotion and disease prevention programs encourage collaboration and coordination across multiple settings.</para>
 </section>
 <section class="review-questions" id="sect-00007">
 <title>Review Questions</title>
@@ -316,7 +316,7 @@
 </section>
  </content>
  <glossary>
-<definition id="def-00001"><term>enabling factors</term> <meaning>internal and external conditions directly related to the issue that help individuals or populations adopt and maintain healthy or unhealthy behaviors or lifestyle, or embrace or reject particular environmental conditions</meaning></definition>
+<definition id="def-00001"><term>enabling factors</term> <meaning>internal and external conditions that help individuals or populations adopt and maintain healthy or unhealthy behaviors or lifestyle, or embrace or reject particular environmental conditions</meaning></definition>
 <definition id="def-00002"><term>health promotion setting</term> <meaning>the place or social context in which people engage in daily activities, in which environmental, organizational, and personal factors interact to affect health and well-being</meaning></definition>
 <definition id="def-00003"><term>infodemic</term> <meaning>an overabundance of information, including misinformation, that surges during a health emergency</meaning></definition>
 <definition id="def-00004"><term>social listening</term> <meaning>the process of gathering information about people’s questions and concerns and circulating narratives and misinformation about health from online and offline data sources</meaning></definition>
