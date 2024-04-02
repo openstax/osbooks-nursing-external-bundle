@@ -44,10 +44,10 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Community Health Assessment Toolkit Steps</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Community Health Assessment<newline/>Toolkit Steps</span></entry>
 <entry valign="top" align="left"><span class="blue-text">Actions</span></entry>
 </row>
 </thead>
@@ -119,13 +119,13 @@
 </section>
 <section id="sect-00004">
 <title>Mobilizing for Action through Planning and Partnerships</title>
-<para id="para-00012">Public health leaders can <link url="https://openstax.org/r/nacchoorguploads">use the Mobilizing for Action through Planning and Partnerships (MAPP) framework</link> for local-level community health improvement planning. The <term class="no-emphasis" id="term-00013">MAPP framework</term> is community-driven and facilitates prioritizing public health issues and identifying resources to address them (NACCHO, 2023). MAPP emphasizes community engagement and collaboration for system-level planning. Originally consisting of six steps, the framework is undergoing redesign (NACCHO, 2020). The redesign includes the foundational principles of equity, inclusion, trusted relationships, community power, strategic collaborations, data-informed action, flexibility, and continuous improvement. The revised MAPP, shown in <link target-id="table-00002" document="m00188"/>, provides a streamlined approach to community health assessment and community improvement and directs the nurse and program team through three phases consisting of multiple activities (NACCHO, 2023).</para>
+<para id="para-00012">Public health leaders can use the <link url="https://openstax.org/r/nacchoorguploads">Mobilizing for Action through Planning and Partnerships (MAPP) framework</link> for local-level community health improvement planning. The <term class="no-emphasis" id="term-00013">MAPP framework</term> is community-driven and facilitates prioritizing public health issues and identifying resources to address them (NACCHO, 2023). MAPP emphasizes community engagement and collaboration for system-level planning. Originally consisting of six steps, the framework is undergoing redesign (NACCHO, 2020). The redesign includes the foundational principles of equity, inclusion, trusted relationships, community power, strategic collaborations, data-informed action, flexibility, and continuous improvement. The revised MAPP, shown in <link target-id="table-00002" document="m00188"/>, provides a streamlined approach to community health assessment and community improvement and directs the nurse and program team through three phases consisting of multiple activities (NACCHO, 2023).</para>
 <table class="alternate-shading" id="table-00002">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"/>
@@ -170,7 +170,7 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">CHANGE Tool Action Step</span></entry>
@@ -254,7 +254,7 @@
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Primary Data Source</span></entry>
@@ -454,7 +454,7 @@ See local health department websites for local community health assessments.</en
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text">Category</span></entry>
