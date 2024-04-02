@@ -764,11 +764,10 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 </section>
 <section id="sect-00030">
 <title>Role of the Nurse in Preventing Sexually Transmitted Infections</title>
-<para id="para-00082">The nurse has an important role to play in preventing STIs, identifying them early, and getting them treated appropriately. The CDC provides guidelines for teaching clients about reducing <link url="https://openstax.org/r/prevention">the risk of getting or transmitting STDs</link>. <link target-id="table-00009" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for STIs.</para>
+<para id="para-00082">The nurse has an important role to play in preventing STIs, identifying them early, and getting them treated appropriately. The CDC provides guidelines for teaching clients about reducing <link url="https://openstax.org/r/prevention">the risk of getting or transmitting STDs STIs</link>. <link target-id="table-00009" document="m00169"/> shows examples of primary, secondary, and tertiary prevention interventions for STIs.</para>
 <table class="vertically-tight full-width" id="table-00009">
 <title/>
 <tgroup cols="1">
-<colspec colnum="1" colname="c1"/>
 <tbody>
 <row>
 <entry valign="top" align="center"><span class="blue-text"><term class="no-emphasis" id="term-00062"><emphasis effect="bold">Primary Prevention</emphasis></term></span></entry>
@@ -855,9 +854,9 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="2*"/>
-<colspec colnum="3" colname="c3" colwidth="2*"/>
-<colspec colnum="4" colname="c4" colwidth="2*"/>
+<colspec colnum="2" colname="c2" colwidth="3*"/>
+<colspec colnum="3" colname="c3" colwidth="1*"/>
+<colspec colnum="4" colname="c4" colwidth="3*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"/></entry>
@@ -916,7 +915,7 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 </tgroup>
 <caption>Bioterrorism EIDs/Pathogens</caption>
 </table>
-<table class="alternate-shading full-width" id="table-00011">
+<table class="vertically-tight alternate-shading full-width" id="table-00011">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
