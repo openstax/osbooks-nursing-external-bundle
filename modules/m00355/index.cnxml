@@ -245,7 +245,8 @@
     <item>Not spread person to person</item>
     <item>1 to 5 days incubation</item></list>
     </entry>
-    <entry valign="top" align="left">Generalized weakness, dizziness, blurred vision, dysarthria, dysphagia, diplopia, followed by symmetrical descending flaccid paralysis
+    <entry valign="top" align="left">
+      <list list-type="bulleted" id="list-00040"><item>Generalized weakness, dizziness, blurred vision, dysarthria, dysphagia, diplopia, followed by symmetrical descending flaccid paralysis</item></list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00022">
@@ -309,7 +310,9 @@
     <item>7 to 19 days incubation</item>
     </list>
     </entry>
-    <entry valign="top" align="left">Macular rash beginning in face and distal extremities, then moving to the trunk (rash appears after contagious)</entry>
+    <entry valign="top" align="left">
+      <list list-type="bulleted" id="list-00041">
+        <item>Macular rash beginning in face and distal extremities, then moving to the trunk (rash appears after contagious)</item></list></entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00030">
     <item>Cidofovir</item>
@@ -328,7 +331,9 @@
     <item>Not spread person to person</item>
     <item>1 to 14 days incubation</item></list>
     </entry>
-    <entry valign="top" align="left">Malaise, cough, dyspnea, fever, weight loss
+    <entry valign="top" align="left">
+      <list list-type="bulleted" id="list-00042">
+        <item>Malaise, cough, dyspnea, fever, weight loss</item></list>
     </entry>
     <entry valign="top" align="left">Streptomycin, gentamicin, doxycycline, ciprofloxacin<newline/>
     </entry>
@@ -345,7 +350,7 @@
     <item>Setting up a command center and establishing a chain of communication</item>
     <item>Triage, assess, treat, and transport exposed individuals</item>
     </list>
-    <para id="para-00015">The U.S. government remains in a constant state of readiness to protect Americans against the potential release of biological agents in terrorist threats and attacks. The <term id="term-00008">Strategic National Stockpile (SNS)</term> is part of the federal medical response infrastructure. The SNS supplements MCMs for states, tribal nations, territories, and metropolitan areas during public health emergencies. The stockpile has supplies, medicines, and devices for lifesaving care that can be used in the short term when the immediate supply of critical medical assets is unavailable or insufficient to meet the community’s needs (ASPRN, n.d.).</para>
+    <para id="para-00015">The U.S. government remains in a constant state of readiness to protect Americans against the potential release of biological agents in terrorist threats and attacks. The <term id="term-00008">Strategic National Stockpile (SNS)</term> is part of the federal medical response infrastructure. The SNS supplements MCMs for states, tribal nations, territories, and metropolitan areas during public health emergencies. The stockpile has supplies, medicines, and devices for lifesaving care that can be used in the short term when the immediate supply of critical medical assets is unavailable or insufficient to meet the community’s needs (Administration for Strategic Preparedness and Response [ASPRN], n.d.).</para>
     <para id="para-00016">Federal law enforcement and health and safety agencies focus on risk assessments and ensuring that preventative <term id="term-00009">medical countermeasures (MCM)</term> are safe, effective, and secure. The U.S. Food and Drug Administration (FDA) Medical Countermeasures Initiative (MCMi) works at local, state, national, and international levels of government to support MCM-related public health preparedness and response efforts (FDA, n.d.). MCMs are used to prevent, diagnose, or treat conditions associated with biological agents and include:</para>
     <list list-type="bulleted" id="list-00033">
     <item>Biologic products, such as vaccines, blood products, and antibodies</item>

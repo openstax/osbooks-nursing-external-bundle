@@ -79,7 +79,7 @@
     </media>
     <para id="para-00019">Tabletop exercises are discussion sessions where community members discuss their roles and responses during a specific emergency or disaster. This video discusses the benefits of conducting tabletop exercises.</para>
     <para id="para-00020">Watch the video, and then respond to the following questions.</para>
-    <list list-type="bulleted" id="list-00005">
+    <list list-type="enumerated" number-style="arabic" id="list-00005">
     <item>Why does this community complete hurricane tabletop exercises annually?</item>
     <item>What are the benefits of testing the emergency plan using a tabletop exercise?</item>
     </list>
@@ -99,11 +99,11 @@
     <title>Community Collaboration and Disasters</title>
     <para id="para-00028">With the rising incidence of disasters, it is essential that public health professionals engage internal and external partners to promote community resilience and return to normalcy. Disasters present complex challenges for which no single discipline, agency, organization, or jurisdiction can or should bear sole responsibility (Association of Public Health Nurses [APHN], 2014). Community resilience after disasters is dependent on coordinated care and resource distribution. To gain the respect and confidence of the public, local agencies and leaders must manage disaster response and collaborate effectively to achieve optimal outcomes for the community (Charney et al., 2018).</para>
     <para id="para-00029">Multisector, <term class="no-emphasis" id="term-00017">interdisciplinary collaboration</term> is necessary at the community level during each stage of the disaster management cycle. Most often, the public health agency leads prevention and preparedness efforts within a community. Community partners who respond to and are affected by disasters are invited to participate in disaster management activities. This includes emergency response coordinators; emergency department managers; epidemiologists; nurses; emergency medical services; law enforcement; fire services; academic institutions; Medical Reserve Corps; private businesses; faith-based organizations; humanitarian organizations; nonprofit organizations; medical, health, and behavioral providers; and other community-based organizations (RHIhub, 2023). The disaster management team collaborates to assess the community for risk factors, plans efforts to mitigate disaster effects, and prepares for potential disaster through tabletop exercises and disaster simulations. Prevention and preparedness activities identify areas of strength, accessible resources, and areas for improvement.</para>
-    <para id="para-00030">The disaster management team utilizes the NIMS framework and ICS (previously discussed) during disaster response and recovery to establish leadership, organize resources, and communicate effectively. When local resources are depleted, state partners, such as the National Guard, state emergency management agency, state health department, and governor’s office, and federal partners, such as FEMA, National Disaster Medical System, Environment Protection Agency, and U.S. Department of Health and Human Services Incident Response Coordination Team, may join disaster response efforts. <link target-id="table-00001" document="m00357"/> describes the role of various disaster response organizations and partners.</para>
+    <para id="para-00030">The disaster management team utilizes the NIMS framework and ICS during disaster response and recovery to establish leadership, organize resources, and communicate effectively. When local resources are depleted, state partners, such as the National Guard, state emergency management agency, state health department, and governor’s office, and federal partners, such as FEMA, National Disaster Medical System, Environment Protection Agency, and U.S. Department of Health and Human Services Incident Response Coordination Team, may join disaster response efforts. <link target-id="table-00001" document="m00357"/> describes the role of various disaster response organizations and partners.</para>
     <table class="vertically-tight full-width" id="table-00001">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="3*"/>
     <tbody>
       <row class="header-row">
     <entry namest="c1" nameend="c2" valign="top" align="center"><emphasis effect="bold"><span class="blue-text">Local Partners</span></emphasis></entry>
@@ -134,7 +134,7 @@
     <item><term class="no-emphasis" id="term-00019">Triage</term>, <term class="no-emphasis" id="term-00020">assessment</term>, and treatment of victims</item>
     <item>Participate in <term class="no-emphasis" id="term-00021">mitigation</term> and <term class="no-emphasis" id="term-00022">preparedness</term> activities</item>
     <item>Ensure adequate resources for medical and mental health care</item>
-    <item>Educate on mitigation, preparedness, and <term class="no-emphasis" id="term-00023">risks</term> following disaster</item></list></entry>
+    <item>Educate on mitigation, preparedness, and <term class="no-emphasis" id="term-00023">risk</term>s following disaster</item></list></entry>
     </row>
     <row>
     <entry valign="top" align="left">Emergency medical services</entry>
