@@ -22,9 +22,9 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="2*"/>
-    <colspec colnum="3" colname="c3" colwidth="3*"/>
-    <colspec colnum="4" colname="c4" colwidth="4*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="3" colname="c3" colwidth="2*"/>
+    <colspec colnum="4" colname="c4" colwidth="2*"/>
     <thead>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Communication Tool</span></emphasis></entry>
@@ -36,9 +36,10 @@
     <tbody>
     <row>
     <entry valign="top" align="left">Broadcast media</entry>
-    <entry valign="top" align="left">Television<newline/>
-    Radio<newline/>
-    Podcast<newline/>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00018"><item>Television</item>
+      <item>Radio</item>
+      <item>Podcast</item>
+    </list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00002">
@@ -59,11 +60,12 @@
     </row>
     <row>
     <entry valign="top" align="left">Print media</entry>
-    <entry valign="top" align="left">Newspaper<newline/>
-    Magazine<newline/>
-    Brochures or flyers<newline/>
-    Mail<newline/>
-    Email<newline/>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00019"><item>Newspaper</item>
+      <item>Magazine</item>
+      <item>Brochures or flyers</item>
+      <item>Mail</item>
+      <item>Email</item>
+    </list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00004">
@@ -83,11 +85,12 @@
     </row>
     <row>
     <entry valign="top" align="left">Social and digital media</entry>
-    <entry valign="top" align="left">Internet/websites<newline/>
-    Social media<newline/>
-    Mobile applications<newline/>
-    Video/YouTube<newline/>
-    Kiosks<newline/>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00020"><item>Internet/websites</item>
+      <item>Social media</item>
+      <item>Mobile applications</item>
+      <item>Video/YouTube</item>
+      <item>Kiosks</item>
+    </list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00006">
