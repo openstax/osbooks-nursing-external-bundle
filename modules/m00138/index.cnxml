@@ -215,9 +215,13 @@
     </content>
     <glossary>
     <definition id="def-00001"><term>health literacy</term> <meaning>the degree to which individuals have the capacity to obtain, process, and understand basic health information and services needed to make appropriate health decisions</meaning></definition>
-    <definition id="def-00002"><term>Healthy People</term> <meaning>a 10-year plan put forth by the HHS that establishes public health priorities and data-driven objectives to improve public health and well-being over a decade</meaning></definition>
-    <definition id="def-00003"><term>leading health indicators (LHIs)</term> <meaning>small subset of high-priority Healthy People 2030 objectives selected to drive action toward improving health and well-being; as a set, LHIs cover the life span and include objectives across topic areas</meaning></definition>
+
+    <definition id="def-00002"><term>Healthy People</term> <meaning>a 10-year HHS plan that establishes public health priorities and data-driven objectives to improve public health and well-being over a decade</meaning></definition>
+    
+    <definition id="def-00003"><term>leading health indicators (LHIs)</term> <meaning>small subset of high-priority Healthy People 2030 objectives selected to drive action toward improving health and well-being</meaning></definition>
+    
     <definition id="def-00004"><term>Quintuple Aim</term> <meaning>a proposed update to the Institute for Healthcare Improvement’s Triple Aim</meaning></definition>
+    
     <definition id="def-00005"><term>Triple Aim</term> <meaning>a framework developed by the Institute for Healthcare Improvement that describes an approach to optimizing health system performance</meaning></definition>
     </glossary>
 </document>
