@@ -52,7 +52,7 @@
 <colspec colnum="3" colname="c3" colwidth="1*"/>
 <tbody>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">P</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">P</emphasis></span></entry>
 <entry valign="top" align="left">Population</entry>
 <entry valign="top" align="left">Outlines the client or client population affected by the problem and with whom the nurse will be in contact. Populations may be defined in multiple ways, some of which include the following:<newline/> 
 <list list-type="bulleted" id="list-00004"><item>General population: population as a whole</item>
@@ -60,22 +60,22 @@
 <item>Population-based descriptors: age, socioeconomic status, risk status, demographics, or literacy levels</item></list></entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">I</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">I</emphasis></span></entry>
 <entry valign="top" align="left">Intervention</entry>
 <entry valign="top" align="left">Refers to the change or treatment that will be implemented for the outlined client (population).</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">C</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">C</emphasis></span></entry>
 <entry valign="top" align="left">Comparison</entry>
 <entry valign="top" align="left">Outlines the reference groups for whom the population in question will be compared. This would be a comparison for the chosen intervention.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">O</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">O</emphasis></span></entry>
 <entry valign="top" align="left">Outcome</entry>
 <entry valign="top" align="left">The result that the project will be studying or evaluating.</entry>
 </row>
 <row>
-<entry valign="top" align="left"><emphasis effect="bold">T</emphasis></entry>
+<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">T</emphasis></span></entry>
 <entry valign="top" align="left">Time</entry>
 <entry valign="top" align="left">The time interval in which this project will take place, such as when and for how long the intervention will be in place and then compared to the outlined control group.</entry>
 </row>
@@ -171,6 +171,7 @@
 <item>How does EBDM impact financial decisions regarding implementation of health interventions?</item>
 <item>Discuss how EBDM can help build the relationship between health care providers and the public.</item>
 </list>
+<para id="para-00039">(See NCCMT, 2017.)</para>
 </note>
 <para id="para-00019">Additionally, the information should be disseminated for use by other health care providers or systems. An essential step in all health care research is sharing results to benefit the population as a whole. Sharing information within the nursing community increases the scope of knowledge within the field and helps to ensure all parties stay up-to-date with policies, practices, programs, and interventions. This may also optimize the cost and quality of care by sharing what has or has not worked in the past. This eliminates multiple steps of trial and error regarding the same topic.</para>
 <note class="unfolding-casestudy" id="note-00002">
@@ -222,6 +223,7 @@
 <item>How might health inequities impact the research phase of the evidence-based decision-making process?</item>
 <item>Discuss how the unique sources of evidence discussed in the model overlap with one another and with public health expertise.</item>
 </list>
+<para id="para-00040">(See NCCMT, 2018.)</para>
 </note>
 </section>
 <section id="sect-00011">
