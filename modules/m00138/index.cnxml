@@ -18,7 +18,7 @@
     <para id="para-00002">This chapter has discussed health policy and the balance between the right to human health and individual rights. This section will look at one U.S. public health initiative, the mechanisms of public health delivery, and a framework that has been developed to improve population health, reduce costs, and improve client satisfaction.</para>
         <section id="sect-00003">
     <title>Healthy People 2030</title>
-    <para id="para-00003"><link document="m00118">The Health of the Population</link> described <term id="term-00001">Healthy People</term>, a public health initiative that seeks to improve health outcomes in the United States. Put forth by the HHS, the 10-year plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. The most recent iteration of the plan, Healthy People 2030, includes 23 high-priority <term id="term-00002">leading health indicators (LHIs)</term> to improve health and well-being over the life span. Most LHIs address factors that affect major causes of death and disease, such as the proportion of people with access to health insurance and the number of people exposed to unhealthy air (ODPHP, n.d.-c).</para>
+    <para id="para-00003"><link document="m00118">The Health of the Population</link> described <term id="term-00001">Healthy People</term>, a public health initiative that seeks to improve health outcomes in the United States. Put forth by the HHS, the 10-year plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. The most recent iteration of the plan, Healthy People 2030, includes 23 high-priority <term id="term-00002">leading health indicators (LHIs)</term> to improve health and well-being over the lifespan. Most LHIs address factors that affect major causes of death and disease, such as the proportion of people with access to health insurance and the number of people exposed to unhealthy air (ODPHP, n.d.-c).</para>
     <para id="para-00004">Public health policies and programs are what drive and establish the mechanisms by which such health outcomes are achieved. <link target-id="table-00001" document="m00138"/> provides examples of LHI objectives as established by Healthy People 2030 and examples of policies and programs necessary to achieve them.</para>
     <table class="vertically-tight alternate-shading" id="table-00001">
     <tgroup cols="2">
@@ -46,7 +46,7 @@
     </row>
     <row>
     <entry valign="top" align="left">Increase the proportion of persons who are vaccinated annually against <term class="no-emphasis" id="term-00007">seasonal influenza</term></entry>
-    <entry valign="top" align="left">State laws establish requirements regarding the vaccination of schoolchildren (CDC, 2016). In addition, the CDC works with public health agencies and private organizations to “improve and sustain immunization coverage and to monitor the safety of vaccines” (CDC, 2022d).</entry>
+    <entry valign="top" align="left">State laws establish requirements regarding the vaccination of schoolchildren (CDC, 2016). In addition, the CDC works with public health agencies and private organizations to “improve and sustain immunization coverage and to monitor the safety of vaccines” (CDC, 2022c).</entry>
     </row>
     <row>
     <entry valign="top" align="left">Reduce <term class="no-emphasis" id="term-00008">drug overdose</term> deaths</entry>
@@ -82,7 +82,7 @@
     <entry valign="top" align="left">Fiscal Policy</entry>
     <entry valign="top" align="left">The U.S. government can use fiscal policy, including subsidies, free services, and taxes, to incentivize healthy behaviors and discourage unhealthy ones (Nugent &amp; Knaul, 2006).</entry>
     <entry valign="top" align="left"><list list-type="bulleted" id="list-00010"><item>Medicaid is an example of a subsidized program that provides health-promoting services for free or reduced rates.</item>
-     <item>During the COVID-19 pandemic, the government provided a certain number of free COVID test kits to American households to help stop the spread of the disease.</item>
+     <item>During the COVID-19 pandemic, the government provided free COVID test kits to American households to help stop the spread of the disease.</item>
      <item>Alcohol and cigarette taxes are examples of <term class="no-emphasis" id="term-00011">fiscal policy</term> measures that disincentivize unhealthy activities.</item></list></entry>
     </row>
     <row>
@@ -93,17 +93,17 @@
     <row>
     <entry valign="top" align="left">Education</entry>
     <entry valign="top" align="left">The information, tools, and resources needed to obtain and sustain positive health outcomes (also referred to as <term id="term-00013">health literacy</term>).</entry>
-    <entry valign="top" align="left">The CDC’s <term class="no-emphasis" id="term-00014">Diabetes Self-Management Education and Support (DSMES) Toolkit</term> program provides individuals living with diabetes the necessary education and support to make the best health care decisions, leading to more positive health outcomes (CDC, 2022c).</entry>
+    <entry valign="top" align="left">The CDC’s <term class="no-emphasis" id="term-00014">Diabetes Self-Management Education and Support (DSMES) Toolkit</term> program provides individuals living with diabetes the necessary education and support to make the best health care decisions, leading to more positive health outcomes (CDC, 2022b).</entry>
     </row>
     <row>
     <entry valign="top" align="left">Preventative Treatment</entry>
     <entry valign="top" align="left">Routine care that people receive to maintain their health or prevent disease.</entry>
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Well-child visits</term>, vaccinations, and blood tests as required by the <term class="no-emphasis" id="term-00016">Children’s Health Insurance Program (CHIP)</term> are examples of <term class="no-emphasis" id="term-00017">preventative treatment</term>.</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00015">Well-child visits</term>, vaccinations, and blood tests as required by the <term class="no-emphasis" id="term-00016">Children’s Health Insurance Program</term> (CHIP) are examples of <term class="no-emphasis" id="term-00017">preventative treatment</term>.</entry>
     </row>
     <row>
     <entry valign="top" align="left">Screening</entry>
     <entry valign="top" align="left">Tests that screen people for diseases or other issues, often catching them before symptoms are noticed.</entry>
-    <entry valign="top" align="left">CDC guidelines on disease-specific <term class="no-emphasis" id="term-00018">screenings</term>, such as mammograms, colonoscopies, and blood pressure screenings, are examples of screenings to improve public health by preventing disease progression.</entry>
+    <entry valign="top" align="left">CDC guidelines on disease-specific <term class="no-emphasis" id="term-00018">screening</term>s, such as mammograms, colonoscopies, and blood pressure screenings, are examples of screenings to improve public health by preventing disease progression.</entry>
     </row>
     </tbody>
     </tgroup>
@@ -155,8 +155,8 @@
     <entry valign="top" align="left">Population Health Management (Prevention and Health Promotion)</entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00005">
-    <item>Work with the community to advocate and provide incentives for smoking prevention, healthy eating, exercise, and reduction of substance abuse.</item>
-    <item>Develop multi-sector partnerships, utilize key stakeholder resources, and align policies to provide community-based support for all who wish to make health-related behavioral changes.</item>
+    <item>Work with the community to advocate and provide incentives for smoking prevention, healthy eating, exercise, and reduction of substance misuse.</item>
+    <item>Develop multi-sector partnerships, utilize key partner resources, and align policies to provide community-based support for all who wish to make health-related behavioral changes.</item>
     <item>Integrate health care and publicly available community-level data utilizing GIS mapping to understand local context to determine where and from whom health-related strategic community-level prevention, health promotion, and disease-management support interventions would be most useful.</item></list></entry>
     </row>
     <row>
@@ -193,7 +193,7 @@
     <item>The economic well-being of populations is improved.</item>
     </list>
     <para id="para-00012">Organizations and programs such as primary care coalitions, regional health care systems, and others have experienced success implementing the IHI Triple Aim (IHI, 2023).</para>
-    <para id="para-00009">Since the inception of the Triple Aim in 2008, two more aims have been called for, with some referring to a <term id="term-00021">Quintuple Aim</term> (Mate, 2022). Those two aims are improving workforce well-being and safety and advancing health equity.</para>
+    <para id="para-00009">Since the inception of the Triple Aim in 2008, two more aims have been proposed, including a <term id="term-00021">Quintuple Aim</term> (Mate, 2022). Those two aims are improving workforce well-being and safety and advancing health equity.</para>
     <note class="theory-action" id="note-00002">
     <title>The Story of New Ulm—A Population Health Transformation</title>
     <media alt="atoms_isotopes">
@@ -210,7 +210,7 @@
     </note>
     </section>
         <section class="section-summary" id="sect-00006">
-    <para id="para-00014">Healthy People is a public health initiative that seeks to improve health outcomes in the United States. This 10-year HHS plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. Healthy People 2030 includes 23 high-priority LHIs to improve health and well-being over the life span. Mechanisms for the delivery of public health policy interventions include fiscal policy, regulation, education, preventative treatment, and screening. The IHI Triple Aim is a framework to improve health care system performance on three levels (improving the client experience, improving population health, and reducing costs).</para>
+    <para id="para-00014">Healthy People is a public health initiative that seeks to improve health outcomes in the United States. This 10-year HHS plan establishes public health priorities and data-driven objectives to improve public health and well-being over a decade. Healthy People 2030 includes 23 high-priority LHIs to improve health and well-being over the lifespan. Mechanisms for the delivery of public health policy interventions include fiscal policy, regulation, education, preventative treatment, and screening. The IHI Triple Aim is a framework to improve health care system performance on three levels (improving the client experience, improving population health, and reducing costs).</para>
     </section>
     </content>
     <glossary>

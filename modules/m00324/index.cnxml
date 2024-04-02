@@ -44,10 +44,7 @@
 </thead>
 <tbody>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Noncommunicable</emphasis></span></entry>
-<entry valign="top" align="left"/>
-<entry valign="top" align="left"/>
-<entry valign="top" align="left"/>
+<entry valign="top" namest="c1" nameend="c4" align="left"><span class="blue-text"><emphasis effect="bold">Noncommunicable</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Diseases of heart</emphasis></span></entry>
@@ -116,10 +113,7 @@
 <entry valign="top" align="center">17.1</entry>
 </row>
 <row>
-<entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Communicable</emphasis></span></entry>
-<entry valign="top" align="left"/>
-<entry valign="top" align="left"/>
-<entry valign="top" align="left"/>
+<entry valign="top" namest="c1" nameend="c4" align="left"><span class="blue-text"><emphasis effect="bold">Communicable</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">COVID-19</emphasis></span></entry>
