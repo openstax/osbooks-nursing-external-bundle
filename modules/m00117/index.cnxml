@@ -165,7 +165,7 @@
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <colspec colnum="4" colname="c4" colwidth="1*"/>
-   <thead>
+    <tbody>
     <row>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Topic</emphasis></span></entry>
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Assessment</emphasis></span><newline/>
@@ -175,8 +175,7 @@
     <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Assurance</emphasis></span><newline/>
     <span class="blue-text">Providing:</span></entry>
     </row>
-  </thead>
-    <tbody>
+    
     <row>
     <entry valign="top" align="left">Asthma</entry>
     <entry valign="top" align="left">Identify the prevalence of asthma, common triggers, and temporal patterns in exacerbations</entry>
