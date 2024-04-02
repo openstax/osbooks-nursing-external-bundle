@@ -59,14 +59,14 @@
   <colspec colnum="2" colname="c2" colwidth="1*"/>
   <colspec colnum="3" colname="c3" colwidth="1*"/>
   <colspec colnum="4" colname="c4" colwidth="1*"/>
-  <colspec colnum="5" colname="c5" colwidth="1*"/>
+  <colspec colnum="5" colname="c5" colwidth="3*"/>
     <thead>
   <row>
   <entry valign="top" align="left"><span class="blue-text">Name</span></entry>
   <entry valign="top" align="left"><span class="blue-text">Virus</span></entry>
   <entry valign="top" align="left"><span class="blue-text">Most at Risk</span></entry>
   <entry valign="top" align="left"><span class="blue-text">Estimated Deaths</span></entry>
-  <entry valign="top" align="left"><span class="blue-text">Public Health Significance</span></entry>
+  <entry valign="top" align="left"><span class="blue-text">Public Health&#160;Significance</span></entry>
   </row>
   </thead>
   <tbody>
