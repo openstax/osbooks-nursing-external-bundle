@@ -22,7 +22,7 @@
     <table class="vertically-tight alternate-shading full-width" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="2*"/>
     <colspec colnum="3" colname="c3" colwidth="2*"/>
     <colspec colnum="4" colname="c4" colwidth="2*"/>
     <thead>
@@ -105,9 +105,11 @@
     </row>
     <row>
     <entry valign="top" align="left">Outdoor media and public display</entry>
-    <entry valign="top" align="left">Billboard<newline/>
-    Mass transit<newline/>
-    Community businesses<newline/>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00021"><item>Billboard</item>
+    <item>Mass transit</item>
+    <item>Community</item>
+    <item>businesses</item>
+    </list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00008">
@@ -122,11 +124,12 @@
     </row>
     <row>
     <entry valign="top" align="left">Word of mouth</entry>
-    <entry valign="top" align="left">Personal communication<newline/>
-    Telephone<newline/>
-    Organizational meetings<newline/>
-    Community presentations<newline/>
-    Partnerships<newline/>
+    <entry valign="top" align="left"><list list-type="bulleted" id="list-00022"><item>Personal communication</item>
+    <item>Telephone</item>
+    <item>Organizational meetings</item>
+    <item>Community presentations</item>
+    <item>Partnerships</item>
+    </list>
     </entry>
     <entry valign="top" align="left">
     <list list-type="bulleted" id="list-00010">
