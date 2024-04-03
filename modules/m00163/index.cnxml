@@ -185,7 +185,7 @@
   </section>
   <section id="sect-00009">
   <title>Odds Ratio</title>
-  <para id="para-00118">The <term id="term-00027">odds ratio (OR)</term> is similar to the RR as it quantitatively expresses the association between an exposure and a disease or health outcome. The OR is most often used to estimate the RR in case-control studies when the disease being investigated is rare. It is the ratio of the odds of developing a disease when exposed to an agent to the odds of developing the disease when not exposed. Investigators can use the OR to estimate the RR since RRs cannot be calculated from a typical case-control study. See <link target-id="note-00010" document="m00163">Odds Ratio</link> for more information on the calculation of the odds ratio and an example.</para>
+  <para id="para-00118">The <term id="term-00027">odds ratio</term> (OR) is similar to the RR as it quantitatively expresses the association between an exposure and a disease or health outcome. The OR is most often used to estimate the RR in case-control studies when the disease being investigated is rare. It is the ratio of the odds of developing a disease when exposed to an agent to the odds of developing the disease when not exposed. Investigators can use the OR to estimate the RR since RRs cannot be calculated from a typical case-control study. See <link target-id="note-00010" document="m00163">Odds Ratio</link> for more information on the calculation of the odds ratio and an example.</para>
   <note class="boxed-feature" id="note-00010">
   <title>Odds Ratio</title>
   <para id="para-00119"><emphasis effect="bold">Calculating Odds Ratio in a Case-Control Study</emphasis></para>
