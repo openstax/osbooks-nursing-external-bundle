@@ -717,7 +717,7 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 
 <section id="sect-00026">
 <title>Sexually Transmitted Infections</title>
-<para id="para-00068"><term class="no-emphasis" id="term-00056">Sexually transmitted infections (STIs)</term>, also called <term class="no-emphasis" id="term-00057">sexually transmitted diseases (STDs)</term>, are infections that transmit from person to person through vaginal, oral, and anal sex and less commonly through intimate physical contact (CDC, 2022f). An estimated one in five individuals in the United States are affected by STIs, with 26 million new STI cases in 2018 (CDC, 2022af). STIs are preventable, and many are easily treatable if diagnosed promptly. Some STIs do not cause obvious symptoms, while others only cause mild symptoms; therefore, screening is extremely important for sexually active individuals. Untreated STIs are associated with increased risk of HIV, chronic pelvic pain, and reproductive issues associated with pregnancy. In the United States, those most affected by STIs are people ages 15 to 24, gay and bisexual men, pregnant individuals, and racial and ethnic minority groups (CDC, 2022af). The eight most common STIs are chlamydia, gonorrhea, hepatitis B, herpes simplex virus type 2, HIV, human papillomavirus, syphilis, and trichomoniasis (CDC, 2022af).</para>
+<para id="para-00068"><term class="no-emphasis" id="term-00056">Sexually transmitted infections</term> (STIs), also called <term class="no-emphasis" id="term-00057">sexually transmitted diseases</term> (STDs), are infections that transmit from person to person through vaginal, oral, and anal sex and less commonly through intimate physical contact (CDC, 2022f). An estimated one in five individuals in the United States are affected by STIs, with 26 million new STI cases in 2018 (CDC, 2022af). STIs are preventable, and many are easily treatable if diagnosed promptly. Some STIs do not cause obvious symptoms, while others only cause mild symptoms; therefore, screening is extremely important for sexually active individuals. Untreated STIs are associated with increased risk of HIV, chronic pelvic pain, and reproductive issues associated with pregnancy. In the United States, those most affected by STIs are people ages 15 to 24, gay and bisexual men, pregnant individuals, and racial and ethnic minority groups (CDC, 2022af). The eight most common STIs are chlamydia, gonorrhea, hepatitis B, herpes simplex virus type 2, HIV, human papillomavirus, syphilis, and trichomoniasis (CDC, 2022af).</para>
 <section id="sect-00027">
 <title>Chlamydia</title>
 <para id="para-00069">Caused by infection with <emphasis effect="italics">Chlamydia trachomatis</emphasis>, <term class="no-emphasis" id="term-00058">chlamydia</term> is the most frequently reported bacterial STI, resulting in cervicitis, urethritis, and proctitis. In 2018, there were an estimated 4 million chlamydia infections in the United States (CDC, 2022c). Many individuals are asymptomatic and do not seek testing. Screening is necessary to identify most infections and can reduce the rates of adverse outcomes in women. In women, untreated infections can lead to pelvic inflammatory disease (PID), tubal infertility, ectopic pregnancy, and chronic pelvic pain (CDC, 2022c). In men, untreated infections rarely result in major health problems but may cause infertility. Chlamydial infections are most common in young people ages 15 to 24 and BIPOC individuals. In 2020, chlamydia rates for Black individuals were six times the rate seen in White individuals (CDC, 2022c).</para>
@@ -854,9 +854,9 @@ Negative blood test: LTBI and TB disease unlikely.</entry>
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="3*"/>
-<colspec colnum="3" colname="c3" colwidth="1*"/>
-<colspec colnum="4" colname="c4" colwidth="3*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
+<colspec colnum="3" colname="c3" colwidth="2*"/>
+<colspec colnum="4" colname="c4" colwidth="2*"/>
 <thead>
 <row>
 <entry valign="top" align="left"><span class="blue-text"/></entry>

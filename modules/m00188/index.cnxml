@@ -124,7 +124,7 @@
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
-<colspec colnum="2" colname="c2" colwidth="1*"/>
+<colspec colnum="2" colname="c2" colwidth="2*"/>
 <colspec colnum="3" colname="c3" colwidth="3*"/>
 <thead>
 <row>
@@ -515,7 +515,7 @@ See local health department websites for local community health assessments.</en
 <item>Appropriateness: Community members believe the service is suitable.</item>
 <item>Adequacy: Service is provided in sufficient quantity or degree.</item></list>
 <para id="para-00039">Assigned individuals or groups within the CHA team carry out the work of data collection. Most often, the local public health department or health care system provides team leadership. Some CHA teams may decide to hire outside professionals to conduct the work of data collection and subsequent work writing in collaboration with the CHA team.</para>
-<para id="para-00040">Most CHAs include surveys mailed to randomly selected community members. The team creates surveys in collaboration with various community partners and organizations that provide care to community members. Most often, these individuals and organizations have information that they need to determine if the care and programs they provide are still needed and effective. For example, a representative from the <term class="no-emphasis" id="term-00041">Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)</term> may be a part of the CHA team and ask that data regarding breastfeeding is collected. This ensures that the data collected is not only useful to the public health department, but to community partners as well.</para>
+<para id="para-00040">Most CHAs include surveys mailed to randomly selected community members. The team creates surveys in collaboration with various community partners and organizations that provide care to community members. Most often, these individuals and organizations have information that they need to determine if the care and programs they provide are still needed and effective. For example, a representative from the <term class="no-emphasis" id="term-00041">Special Supplemental Nutrition Program for Women, Infants, and Children</term> (WIC) may be a part of the CHA team and ask that data regarding breastfeeding is collected. This ensures that the data collected is not only useful to the public health department, but to community partners as well.</para>
 <para id="para-00041">Key interviews or focus groups add important qualitative information regarding the values and beliefs of the community. Examples of questions that may be asked to determine the values, beliefs, and concerns of community members include the following:</para>
 <list list-type="bulleted" id="list-00050">
 <item>What do you consider to be the major health concerns of the community?</item>
