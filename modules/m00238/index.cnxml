@@ -45,7 +45,7 @@
   <title>Colloid Solutions</title>
   <para id="para-00011"><term id="term-00007">Colloid solutions</term>, also known as <emphasis effect="italics">volume expanders</emphasis>, differ from crystalloid solutions in that they contain large molecular structures, such as proteins, carbohydrates, and lipids, that increase their osmolality without dissolving in the solution. Due to their large size, colloid solutions cannot cross the semipermeable membrane of capillary walls and remain confined to the intravascular compartment. These solutions increase the colloidal oncotic pressure, which draws fluid from the interstitial space into plasma, resulting in an increase in blood volume.</para>
   <para id="para-00012">Commonly administered colloidal solutions are listed in <link target-id="table-00001" document="m00238"/> along with their indications and precautions (Crosignani et al., 2022).</para>
-  <table class="vertically-tight" id="table-00001">
+  <table class="vertically-tight alternate-shading" id="table-00001">
   <tgroup cols="4">
   <colspec colnum="1" colname="c1" colwidth="1*"/>
   <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -211,7 +211,7 @@
   <para id="para-00029">During the transfusion, the client’s vital signs should be monitored regularly and per the facility’s protocol. The client should be observed closely for any signs of a transfusion reaction, which can range from mild to severe. Common reactions to blood transfusions include (Harris &amp; Crookston, 2022; Lotterman &amp; Sharma, 2022):</para>
   <list list-type="bulleted" id="list-00018">
   <item><emphasis effect="italics"><term class="no-emphasis" id="term-00019">Febrile reactions</term>:</emphasis> the most common type of transfusion reaction, characterized by a fever and chills</item>
-  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00020">Allergic reactions</term>:</emphasis> can range from mild itching, hives, and shortness of breath to severe anaphylaxis, which can be life-threatening</item>
+  <item><emphasis effect="italics"><term class="no-emphasis" id="term-00020">Allergic reaction</term>s:</emphasis> can range from mild itching, hives, and shortness of breath to severe anaphylaxis, which can be life-threatening</item>
   <item><emphasis effect="italics"><term class="no-emphasis" id="term-00021">Hemolytic reactions</term>:</emphasis> occur when the body’s immune system attacks the transfused blood cells, causing them to break down</item>
   <item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Transfusion-associated circulatory overload</term>:</emphasis> occurs when the body cannot handle the volume of fluid being transfused, leading to fluid volume excess and/or heart failure</item>
   </list>

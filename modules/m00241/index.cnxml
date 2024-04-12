@@ -45,7 +45,7 @@
     <title>Passive Immunity</title>
     <para id="para-00007"><term id="term-00007">Passive immunity</term> is the temporary protection against a specific pathogen that is conferred to a client by receiving pre-formed antibodies rather than producing them internally (Slifka &amp; Amanna, 2018). Unlike active immunity, passive immunity does not involve the production of memory B cells, and the protection is short-lived. Passive immunity can be acquired through two main ways:</para>
     <list id="list-00003">
-    <item><emphasis effect="italics">Natural passive immunity:</emphasis> This occurs when antibodies are passed from a mother to the baby through the placenta during pregnancy or through breast milk during breastfeeding. These antibodies provide the newborn with some protection during the early stages of life until their own immune system matures.</item>
+    <item><emphasis effect="italics">Natural passive immunity:</emphasis> This occurs when antibodies are passed from a pregnant person to the fetus through the placenta during pregnancy or through breast milk during breastfeeding. These antibodies provide the newborn with some protection during the early stages of life until their own immune system matures.</item>
     <item><emphasis effect="italics">Artificial passive immunity:</emphasis> This type of immunity is achieved by administering pre-formed (synthetic or pooled from donors) antibodies obtained from another individual or animal. For example, in certain medical situations, such as treating some viral infections or providing immediate protection against specific diseases, purified antibodies can be given as a treatment. The protection offered by artificial passive immunity diminishes as the administered antibodies are gradually cleared from the body.</item>
     </list>
     </section>
@@ -93,7 +93,7 @@
     <row>
     <entry valign="top" align="left"><emphasis effect="italics"><term class="no-emphasis" id="term-00022">H. influenza</term></emphasis> type b (Hib) vaccine<newline/>
     (<term class="no-emphasis" id="term-00023">ActHIB</term>)</entry>
-    <entry valign="top" align="left">Prevention of invasive disease caused by <emphasis effect="italics">Haemophilus influenzae</emphasis> (H. influenzae) type b, for use in children 2 months through 5 years of age</entry>
+    <entry valign="top" align="left">Prevention of invasive disease caused by <emphasis effect="italics">Haemophilus influenzae</emphasis> (<emphasis effect="italics">H. influenzae</emphasis>) type b, for use in children 2 months through 5 years of age</entry>
     <entry valign="top" align="left"><emphasis effect="italics">A 4-dose series (0.5 mL per dose) intramuscular:</emphasis><newline/>
     A primary 3-dose series of a single dose at 2, 4, and 6 months of age.<newline/>
     A single booster dose at 15–18 months of age.</entry>
@@ -109,9 +109,9 @@
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00026">Hepatitis B vaccine</term><newline/>
     (<term class="no-emphasis" id="term-00027">Recombivax HB</term>)</entry>
     <entry valign="top" align="left">Prevention of infection caused by all known subtypes of hepatitis B virus</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">Children (0–19 years of age pediatric/adolescent formulation):</emphasis> 5 mcg (0.5 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
-    <emphasis effect="italics">Adolescents (11–15 years of age adult formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 2 doses at 0 and 4–6 months.<newline/>
-    <emphasis effect="italics">Adults (&#8805;20 years formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
+    <entry valign="top" align="left"><emphasis effect="italics">Children (0–19 years of age, pediatric/adolescent formulation):</emphasis> 5 mcg (0.5 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
+    <emphasis effect="italics">Adolescents (11–15 years of age, adult formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 2 doses at 0 and 4–6 months.<newline/>
+    <emphasis effect="italics">Adults (&#8805;20 years, adult formulation):</emphasis> 10 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.<newline/>
     <emphasis effect="italics">Predialysis and dialysis clients</emphasis>: 40 mcg (1 mL) intramuscularly, 3 doses at 0, 1, and 6 months.</entry>
     </row>
     <row>
@@ -165,7 +165,7 @@
     (<term class="no-emphasis" id="term-00041">IPOL</term>)</entry>
     <entry valign="top" align="left">Active immunization of infants (as young as 6 weeks of age), children, and adults for the prevention of poliomyelitis caused by poliovirus types 1, 2, and 3 </entry>
     <entry valign="top" align="left"><emphasis effect="italics">Children:</emphasis> 3 doses administered intramuscularly or subcutaneously 8 weeks apart at ages 2, 4, and 6–18 months. The first immunization may be administered as early as 6 weeks of age. Booster dose is administered at 4–6 years of age.<newline/>
-    <emphasis effect="italics">Adults:</emphasis> 2 0.5 mL doses, given intramuscular or subcutaneously at a 1- to-2-month interval and a third dose given 6–12 months later.</entry>
+    <emphasis effect="italics">Adults:</emphasis> 2 0.5 mL doses, given intramuscular or subcutaneously at a 1- to 2-month interval and a third dose given 6–12 months later.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00042">Rotovirus vaccine</term><newline/>
@@ -198,8 +198,8 @@
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00050">COVID-19 vaccine, mRNA</term><newline/>
     (<term class="no-emphasis" id="term-00051">Comirnaty</term>, <term class="no-emphasis" id="term-00057">Spikevax</term>)</entry>
     <entry valign="top" align="left">Indicated for active immunization to prevent coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in clients 12 years of age and older</entry>
-    <entry valign="top" align="left"><emphasis effect="italics">For Comirnaty:</emphasis> <emphasis effect="italics">≥12 years</emphasis>: 2 doses (0.3 mL each) intramuscularly 3 weeks apart.<newline/>
-    <emphasis effect="italics">For Spikevax</emphasis>: <emphasis effect="italics">≥18 years</emphasis>: 2 doses (0.5 mL each) intramuscularly 1 month apart.<newline/>
+    <entry valign="top" align="left"><emphasis effect="italics">For Comirnaty:</emphasis> <emphasis effect="italics">≥12 years:</emphasis> 2 doses (0.3 mL each) intramuscularly 3 weeks apart.<newline/>
+    <emphasis effect="italics">For Spikevax</emphasis>: <emphasis effect="italics">≥18 years:</emphasis> 2 doses (0.5 mL each) intramuscularly 1 month apart.<newline/>
     Booster doses as recommended per season.</entry>
     </row>
     </tbody>
@@ -222,8 +222,7 @@
     <para id="para-00024">Administration of vaccinations should follow appropriate precautions to minimize risk for disease exposure and spread. The nurse should cleanse their hands with an alcohol-based waterless antiseptic hand rub or wash them with soap and water before preparing vaccines for administration and between each client contact. The nurse should draw up vaccines in a designated clean medication area that is not adjacent to areas where potentially contaminated items are placed. Multi-dose vials to be used for more than one client should not be kept or accessed in the immediate client treatment area.</para>
     </note>
     </section>
-    </section>
-    <section id="sect-00013">
+     <section id="sect-00013">
     <title>Nursing Implications</title>
     <para id="para-00025">The nurse should do the following for clients who are taking vaccines:</para>
     <list id="list-00005">
@@ -248,6 +247,7 @@
     <item>Disregard post-vaccination care instructions, as these guidelines can help manage potential side effects and ensure a smooth recovery after vaccination.</item>
     </list>
     </note>
+    </section>
     </section>
     </content>
     <glossary>

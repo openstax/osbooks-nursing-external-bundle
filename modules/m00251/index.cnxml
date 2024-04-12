@@ -79,11 +79,11 @@
     </section>
     <section id="sect-00006">
     <title>Routes of Chemotherapy Administration</title>
-    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicants</term>, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see <link target-id="fig-00001" document="m00251"/>).</para>
+    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicant</term>s, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see <link target-id="fig-00001" document="m00251"/>).</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="Numerous skin lesions of different sizes and color on a patient's forearm. One lesion is very large, dark, and scaly, while the others around it are coin sized circles.">
     <image mime-type="image/png" src="../../media/PHA_Figure_08_02_003.jpg"/></media>
-    <caption>Vesicants can cause severe damage that can take months to heal. (credit: &#8220;This image depicted a view of the volar surface of a patient’s right forearm, highlighting a number of erythematous, well-circumscribed lesions, which had resulted from an infection known as tinea corporis, more commonly referred to as ringworm&#8221; by Dr. Lucille K. Georg/Centers for Disease Control and Prevention, Public Domain)</caption>
+    <caption>Vesicants can cause severe damage that can take months to heal. (credit: “This image depicted a view of the volar surface of a patient’s right forearm, highlighting a number of erythematous, well-circumscribed lesions, which had resulted from an infection known as tinea corporis, more commonly referred to as ringworm” by Dr. Lucille K. Georg/Centers for Disease Control and Prevention, Public Domain)</caption>
     </figure>
     <note class="clinical-tip" id="note-00003">
     <title>Administering Vesicant Drugs</title>
@@ -424,7 +424,7 @@
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">5-Fluoroururacil</term><newline/>
-    (<term class="no-emphasis" id="term-00060">5-FU</term>)</entry>
+    (5-FU)</entry>
     <entry valign="middle" align="left"><emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Breast adenocarcinoma:</emphasis> 500–600 mg/m<sup>2</sup> IV days 1 and 8 every 28 days for 6 cycles.<newline/>
@@ -751,7 +751,7 @@
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00095">Etoposide</term><newline/>
-    (<term class="no-emphasis" id="term-00096">Vepesid, VP-16</term>)</entry>
+    (<term class="no-emphasis" id="term-00096">Vepesid</term>, <term class="no-emphasis" id="term-00060">VP-16</term>)</entry>
     <entry valign="top" align="left">35–100 mg/m<sup>2</sup> IV; frequency depends on cancer type and other agents administered.</entry>
     </row>
     </tbody>
@@ -1055,7 +1055,7 @@
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00115">Epoetin alfa</term><newline/>
-    <term class="no-emphasis" id="term-00116"> (Epogen</term>)</entry>
+     (<term class="no-emphasis" id="term-00116">Epogen</term>)</entry>
     <entry valign="top" align="left">150 units/kg subcutaneously 3 times weekly or 40,000 units/dose weekly; titrated based on hemoglobin response.</entry>
     <entry valign="top" align="left">Stimulates bone marrow stem cells to produce increased erythocyte production.<newline/>
     Prevents/treats anemia.</entry>

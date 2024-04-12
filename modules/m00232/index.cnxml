@@ -48,7 +48,7 @@
 <para id="para-00011">Sixty percent of the total body weight is composed of water. The body separates this water into two main fluid compartments: one that contains <term id="term-00015">intracellular fluid</term> and one that contains <term id="term-00016">extracellular fluid</term>. The fluid compartments work together to maintain fluid and electrolyte balance within the body. The movement of water and electrolytes between the compartments is regulated by various mechanisms, such as <term id="term-00017">osmosis</term> and <term id="term-00018">active transport</term> (Libretti &amp; Puckett, 2023; Molnar &amp; Gair, n.d).</para>
 <para id="para-00012">The body strives to maintain a balance between the fluids in the compartment to ensure that the cells are surrounded by an environment that allows them to function optimally, as can be observed in <link target-id="fig-00003" document="m00232"/>. The concentration of ions, such as sodium, potassium, and chloride, is carefully regulated in each compartment to maintain the proper <term id="term-00019">osmotic pressure</term>, which is the pressure needed to prevent water from flowing into or out of cells.</para>
 <para id="para-00013">Disruptions in the fluid compartments, such as excessive fluid loss or retention, can lead to various health problems, including dehydration or edema. By regulating the equilibrium of body fluids, the body can guarantee the optimal operation of its diverse physiologic functions, thereby enhancing overall health and well-being.</para>
-<figure class="scaled-down" id="fig-00003">
+<figure id="fig-00003">
 <media alt="Different nutrients, such as glycolipids and glycoproteins (depicted as green and blue rope-like strands), can permeate the cell membrane in a lipid bilayer (outlined in red with yellow inserts)  to maintain homeostasis between intracellular and extracellular fluid compartments.">
 <image mime-type="image/png" src="../../media/PHA_Figure_04_01_004.png"/></media>
 <caption>The cell membrane is a semipermeable membrane that allows for the homeostasis of intracellular and extracellular fluid compartments. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
@@ -95,16 +95,14 @@ Potassium<newline/>
 Sodium</entry>
 </row>
 <row>
-<entry valign="top" align="left">Extracellular fluid<newline/>
-<newline/>
-Interstitial fluid<newline/>
-Intravascular fluid<newline/>
-Transcellular fluid</entry>
-<entry valign="top" align="left">~20% total (of the below areas)<newline/>
-<newline/>
-15%<newline/>
-5%<newline/>
-1%</entry>
+<entry valign="top" align="left">Extracellular fluid
+  <list list-type="bulleted" bullet-style="none" id="list-00003"><item>Interstitial fluid</item>
+    <item>Intravascular fluid</item>
+      <item>Transcellular fluid</item></list></entry>
+<entry valign="top" align="left">~20% total (of the below areas)
+  <list list-type="bulleted" bullet-style="none" id="list-00004"><item>15%</item>
+    <item>5%</item>
+    <item>1%</item></list></entry>
 <entry valign="top" align="left">Chloride<newline/>
 Phosphate</entry>
 <entry valign="top" align="left">Calcium<newline/>
