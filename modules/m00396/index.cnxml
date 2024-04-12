@@ -59,8 +59,6 @@
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: First-Generation Antihistamines</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-</section>
-</section>
 <section id="sect-00004">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00007">First-generation antihistamines can cause drowsiness, dizziness, confusion, and urinary retention. Clients with a history of urinary retention or prostatic hyperplasia should use first-generation antihistamines cautiously. First-generation antihistamines should be avoided in older adults because they can increase the risk of dementia.</para>
@@ -116,7 +114,9 @@ Prostatic hyperplasia</entry>
 <note class="safety-alert" id="note-00001">
 <title>Antihistamines and Older Clients</title>
 <para id="para-00009">First-generation antihistamines should be avoided in <term class="no-emphasis" id="term-00013">older clients</term>. Their highly anticholinergic properties can increase the risk of dementia, and clearance of the drug is reduced in clients of advanced age.</para>
-</note>
+	</note>
+	</section>
+	</section>
 <section id="sect-00005">
 <title>Second-Generation Antihistamines</title>
 <para id="para-00010">The mechanism of action and side effects of <term class="no-emphasis" id="term-00014">second-generation antihistamines</term> are distinct from those of first-generation antihistamines. Unlike first-generation antihistamines, which block both histaminic and <term id="term-00015">muscarinic</term> receptors and can penetrate the blood–brain barrier, second-generation antihistamines primarily target histamine receptors and do not cross the blood–brain barrier, which therefore diminishes the likelihood of central nervous system–related adverse effects. This distinction leads to a significantly reduced occurrence of first-generation side effects, especially drowsiness, in second-generation antihistamines (Naqvi &amp; Gerriets, 2023).</para>
@@ -162,8 +162,6 @@ Prostatic hyperplasia</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: Second-Generation Antihistamines</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-</section>
-</section>
 </section>
 <section id="sect-00009">
 <title>Adverse Effects and Contraindications</title>
@@ -214,10 +212,12 @@ Hepatic or renal impairment</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Prototype Table: Loratadine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
+	</section>
+	</section>
 <section id="sect-00010">
 <title>Third-Generation Antihistamines</title>
 <para id="para-00017">The latest type of antihistamines, known as <term class="no-emphasis" id="term-00023">third-generation antihistamines</term>, are among the newest antihistamines available. They were designed to effectively treat the same conditions as previous antihistamines but without the potential risk of cardiac toxicity that was observed in clients with metabolic issues. This new generation offers a safer alternative for such individuals, and as with the second generation, the likelihood of experiencing negative side effects is decreased. The reduced incidence of side effects is related to the inability of third-generation antihistamines to cross the blood–brain barrier and affect the central nervous system. Second- and third-generation antihistamines are favored compared to the first generation due to their effectiveness and safety profile (Ricciardi et al., 2019).</para>
-<para id="para-00018">Fexofenadine is a recently developed third-generation antihistamine (Sakur et al., 2022) for managing allergic rhinitis and chronic urticaria, and it has been approved for use by individuals of all ages, including <term class="no-emphasis" id="term-00024">children</term>. Compared to other antihistamines, fexofenadine has demonstrated greater efficacy in relieving eye and nasal congestion symptoms. Clients who are pregnant or nursing should seek advice from their health care provider before taking this medication because it can decrease milk production. It is not usually prescribed during pregnancy. Fexofenadine can cause headaches and dizziness (NHS, 2021).</para>
+<para id="para-00018">Fexofenadine is a recently developed third-generation antihistamine (Sakur et al., 2022) for managing allergic rhinitis and chronic urticaria, and it has been approved for use by individuals of all ages, including <term class="no-emphasis" id="term-00024">children</term>. Compared to other antihistamines, fexofenadine has demonstrated greater efficacy in relieving eye and nasal congestion symptoms. Clients who are pregnant or breastfeeding should seek advice from their health care provider before taking this medication because it can decrease breast milk production. It is not usually prescribed during pregnancy. Fexofenadine can cause headaches and dizziness (NHS, 2021).</para>
 <para id="para-00019">Desloratadine, an active metabolite of the second-generation antihistamine loratadine, is a highly selective medication that is considerably more powerful than loratadine in treating allergy symptoms and urticaria (DailyMed, <emphasis effect="italics">Loratadine</emphasis>, 2009).</para>
 <para id="para-00020"><link target-id="table-00005" document="m00396"/> lists common third-generation antihistamines and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00005">
@@ -246,8 +246,6 @@ Hepatic or renal impairment</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: Third-Generation Antihistamines</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-</section>
-</section>
 <section id="sect-00011">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00021">Third-generation antihistamines, much like second-generation antihistamines, have a lower incidence of adverse effects than first generation, but they can still cause fatigue, dizziness, nausea, and insomnia. Third-generation antihistamines should be used cautiously in clients with impaired renal function, and those with hypersensitivity should avoid using them.</para>
@@ -318,6 +316,8 @@ Impaired renal function</entry>
 <para id="para-00030">(Source: MedlinePlus, 2022)</para>
 </note>
 </section>
+	 </section>
+	 </section>
 <section id="sect-00012">
 <title>Decongestants</title>
 <para id="para-00031"><term class="no-emphasis" id="term-00030">Decongestant</term>s refer to medications that offer temporary relief for a blocked nose or nasal congestion. They can alleviate the stuffiness commonly associated with allergies, sinusitis, colds, and the flu. These medications function by diminishing the inflammation of the blood vessels in the nose, resulting in opening of the air passage. Two types of decongestants are systemic decongestants and topical, or nasal, decongestants (Corren, 2017).</para>
@@ -328,12 +328,10 @@ Impaired renal function</entry>
 <title>Oxymetazoline</title>
 <para id="para-00033">Oxymetazoline is a nasal spray that helps alleviate nasal congestion induced by allergies and colds. It may also relieve sinus pressure and congestion. Despite its convenience, this medication should be used only briefly. Overuse, beyond 3 days, can result in rebound congestion, where inflammation of the nasal mucosa occurs due to excessive use of nasal drops or sprays. Oxymetazoline is considered a local decongestant because it acts on the nasal tissue by narrowing the blood vessels and opening the air passages to allow for ease of breathing, producing no systemic effects. The lack of systemic effects can be beneficial to clients with hypertension or other cardiac disorders.</para>
 </section>
-</section>
-</section>
 <section id="sect-00015">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00034">Rebound congestion can occur if used for more than 3 days. Some clients may experience temporary discomfort such as burning when used. Those who are hypersensitive should avoid their use.</para>
-<para id="para-00035"><link target-id="table-00007" document="m00396"/> is a drug prototype table for nasal decongestant oxymetazoline. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00035"><link target-id="table-00007" document="m00396"/> is a drug prototype table for the nasal decongestant oxymetazoline. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00007">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -369,6 +367,8 @@ Hypersensitivity</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Prototype Table: Oxymetazoline</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
+</section>
+</section>
 <section id="sect-00016">
 <title>Systemic Decongestants</title>
 <para id="para-00036"><term class="no-emphasis" id="term-00033">Systemic decongestants</term> act by causing vasoconstriction of the nasal mucosa, relieving nasal congestion. Unlike topical nasal decongestants, systemic decongestants can cause more side effects. Nervousness, heart palpitations, insomnia, and tachycardia can be seen. Systemic decongestants act on alpha-adrenergic receptors in the blood vessel walls and can cause an increase in blood pressure and affect the cardiovascular system. Clients with cardiac issues should use systemic decongestants with caution because they can also increase blood pressure.</para>
@@ -408,8 +408,6 @@ One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 ho
 <caption><emphasis effect="bold">Drug Emphasis Table: Systemic Decongestants</emphasis> (sources: https://dailymed.nlm.nih.gov/dailymed/; MedlinePlus, 2018)</caption>
 </table>
 </section>
-</section>
-</section>
 <section id="sect-00019">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00040">Systemic decongestants can cause increased blood pressure as well as nervousness, dizziness, and sleeplessness. Those clients with a hypersensitivity should avoid their use, and clients with heart disease and high blood pressure should use the drugs with caution and under the guidance of their health care provider.</para>
@@ -426,7 +424,7 @@ Systemic nasal decongestant<newline count="2"/>
 Acts directly on adrenergic receptors and produces vasoconstriction, which shrinks nasal mucosa</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 One 120 mg tablet orally every 12 hours; do not take more than 2 tablets in 24 hours. <newline/>
-One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline count="2"/>
+One 240 mg tablet orally every 24 hours; do not take more than 1 tablet in 24 hours.<newline/>
 <emphasis effect="italics">Immediate release:</emphasis> 30–60 mg orally every 4–6 hours; maximum dose: 240 mg/day.</entry>
 </row>
 <row>
@@ -465,7 +463,7 @@ Diabetes</entry>
 <media alt="atoms_isotopes">
 <iframe width="560" height="315" src="https://openstax.org/r/decongestants"/>
 </media>
-<para id="para-00042">This video with discusses how decongestants work to alleviate nasal decongestion.</para>
+<para id="para-00042">This video discusses how decongestants work to alleviate nasal decongestion.</para>
 </note>
 <note class="safety-alert" id="note-00006">
 <title>Phenylephrine vs. Pseudoephedrine</title>
@@ -482,6 +480,7 @@ Diabetes</entry>
 <para id="para-00047">Clients should increase fluid intake when taking any cold medication, including decongestants.</para>
 <para id="para-00048">(Source: MyHealth.Alberta.ca Network, 2022)</para>
 </note>
+</section>
 </section>
 <section id="sect-00020">
 <title>Nursing Implications</title>
@@ -509,8 +508,6 @@ Diabetes</entry>
 <item>Drive a car, operate machinery, or perform other tasks that require alertness when taking first-generation antihistamines due to their causing drowsiness and/or dizziness.</item>
 <item>Take more than one antihistamine at a time. Often OTC drugs contain a combination of drugs that may contain antihistamines.</item>
 </list>
-</note>
-<note class="client-teaching" id="note-00010">
 <para id="para-00052"><emphasis effect="bold">The client taking a decongestant should:</emphasis></para>
 <list list-type="bulleted" id="list-00005">
 <item>Take the drug as directed.</item>
@@ -527,6 +524,7 @@ Diabetes</entry>
 <item>Take the drug within 2 hours of bedtime because it may cause restlessness and insomnia.</item>
 </list>
 </note>
+</section>
 </section>
 </content>
 <glossary>

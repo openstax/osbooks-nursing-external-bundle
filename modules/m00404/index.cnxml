@@ -17,7 +17,7 @@
 <section id="sect-00002">
 <title>Introduction to the Hypothalamus</title>
 <para id="para-00002">The <term id="term-00001">hypothalamus</term> is critical to coordinating both nervous and endocrine responses to internal and external stimuli, making it a crucial component of the <term id="term-00002">neuroendocrine system</term>, which is central to regulatory function, as can be seen in <link target-id="fig-00001" document="m00404"/>. This section will delve into the intricacies of the hypothalamus by exploring its functions and the hormones it produces.</para>
-<figure class="scaled-down" id="fig-00001">
+<figure class="scaled-down-30" id="fig-00001">
 <media alt="A flow chart shows that the hypothalamus releases hormones that regulate the function of the anterior pituitary, which regulates metabolism, stress, growth, and reproduction. The hypothalamus also releases hormones that regulate the function of the posterior pituitary, which regulates water balance, blood volume, and sexual functioning."><image mime-type="image/png" src="../../media/PHA_Figure_26_01_002.png"/></media>
 <caption>The hypothalamus coordinates neuroendocrine responses from different functions throughout the body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
@@ -43,7 +43,7 @@
 </thead>
 <tbody>
   <row class="header-row">
-    <entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Releasing Hormones</emphasis></span></entry>
+    <entry valign="top" align="center" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Stimulating Hormones</emphasis></span></entry>
     </row>
   <row>
 <entry valign="top" align="left">Gonadotropin-releasing hormone (GnRH)</entry>
@@ -92,12 +92,12 @@
 <section id="sect-00005">
 <title>Introduction to the Pituitary Gland</title>
 <para id="para-00005">The <term id="term-00003">pituitary gland</term> (see <link target-id="fig-00002" document="m00404"/>), or pituitary, is a small, pea-sized gland that is a vital part of the endocrine system, regulating various physiological functions in the body. The pituitary, also known as the <term id="term-00004">hypophysis</term>, is located at the base of the brain and is often referred to as the “master gland” because it controls the secretion of hormones by many other glands. The pituitary is divided into two parts, the anterior pituitary and the posterior pituitary, each with unique functions and hormone secretions (Alatzoglou et al., 2020).</para>
-<figure class="scaled-down" id="fig-00002">
+<figure id="fig-00002">
 <media alt="The hypothalamus-pituitary complex, located at the base of the brain and shown from a lateral view. The hypothalamus lies inferior and anterior to the thalamus, which is sits atop the brainstem. The hypothalamus connects to the pituitary gland by the stalk-like infundibulum. The pituitary gland looks like a sac containing two balls hanging from the infundibulum. The “balls” are the anterior and posterior lobes of the pituitary. Each lobe secretes different hormones in response to signals from the hypothalamus."><image mime-type="image/png" src="../../media/PHA_Figure_26_01_003.png"/></media>
 <caption>The pituitary gland sits at the base of the brain and is considered the “master gland” because of its hormone regulatory actions. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology</emphasis> <emphasis effect="italics">2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
 <para id="para-00006">The anterior pituitary, also known as the <term id="term-00005">adenohypophysis</term>, is the front part of the pituitary. The adenohypophysis is composed of different types of cells that secrete various hormones (see the following section). The anterior pituitary hormones play essential roles in regulating growth and development, metabolism, reproduction, and stress response (Alatzoglou et al., 2020).</para>
-<para id="para-00007">The posterior pituitary, also known as the <term id="term-00006">neurohypophysis</term>, is the back part of the pituitary. Unlike the anterior pituitary, it does not synthesize its own hormones, but stores and releases two hormones produced by the hypothalamus: oxytocin and <term id="term-00007">antidiuretic hormone (ADH)</term>, also known as human <term id="term-00008">vasopressin</term>. Oxytocin is involved in the contraction of the uterus during childbirth and milk ejection during breastfeeding. ADH regulates water balance in the body by controlling the amount of water reabsorbed in the kidneys (Alatzoglou et al., 2020).</para>
+<para id="para-00007">The posterior pituitary, also known as the <term id="term-00006">neurohypophysis</term>, is the back part of the pituitary. Unlike the anterior pituitary, it does not synthesize its own hormones, but stores and releases two hormones produced by the hypothalamus: oxytocin and <term id="term-00007">antidiuretic hormone</term> (ADH), also known as human <term id="term-00008">vasopressin</term>. Oxytocin is involved in the contraction of the uterus during childbirth and breast milk ejection during breastfeeding. ADH regulates water balance in the body by controlling the amount of water reabsorbed in the kidneys (Alatzoglou et al., 2020).</para>
 <section id="sect-00006">
 <title>Pituitary Function</title>
 <para id="para-00008">The pituitary’s primary function is to produce and secrete hormones that act on various organs and tissues throughout the body. Overall, the pituitary assists in regulating various bodily processes and maintaining homeostasis in the body.</para>
@@ -107,7 +107,7 @@
 <para id="para-00009">Some of the major hormones produced by the pituitary include:</para>
 <list list-type="bulleted" id="list-00002">
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00009">Growth hormone (GH)</term>:</emphasis> Promotes the growth and development of bones, muscles, and organs</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00010">Prolactin (PRL)</term>:</emphasis> Stimulates milk production in the breasts</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00010">Prolactin (PRL)</term>:</emphasis> Stimulates breast milk production</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00011">Thyroid-stimulating hormone (TSH)</term>:</emphasis> Regulates the function of the thyroid gland</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00012">Adrenocorticotropic hormone (ACTH)</term>:</emphasis> Stimulates the adrenal cortex to produce cortisol, which helps the body respond to stress</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00013">Follicle-stimulating hormone (FSH)</term>:</emphasis> Stimulates the development of eggs in females and sperm in males</item>
@@ -141,7 +141,7 @@
 <list list-type="bulleted" id="list-00003">
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00020">Mineralocorticoids</term>:</emphasis> produced in the zona glomerulosa, these help regulate the balance of electrolytes, particularly sodium and potassium, in the body as well as water balance.</item>
 <item><emphasis effect="italics"><term class="no-emphasis" id="term-00021">Glucocorticoids</term>:</emphasis> produced in the the zona fasciculate, these help regulate metabolism, immune function, and the body’s response to stress.</item>
-<item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Androgens</term>:</emphasis> produced in the zona reticularis, these contribute to sexual development and fertility in men.</item>
+<item><emphasis effect="italics"><term class="no-emphasis" id="term-00022">Androgens</term>:</emphasis> produced in the zona reticularis, these contribute to sexual development and fertility in males.</item>
 </list>
 </section>
 </section>
