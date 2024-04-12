@@ -32,7 +32,7 @@
 <para id="para-00004">The parathyroid glands are four tiny glands that are located on the upper and lower parts of the sides of the thyroid gland (see <link target-id="fig-00001" document="m00409"/>). The parathyroid glands secrete <term id="term-00005">parathyroid hormone (PTH)</term>, which along with <term id="term-00006">dihydroxy-vitamin D<sub>3</sub></term> (vitamin D<sub>3</sub>) and calcitonin are responsible for calcium homeostasis within the body. The major target organs for PTH are the kidneys, skeletal system, and intestines. The primary responses to PTH by the kidneys are to increase renal calcium reabsorption and phosphate excretion as well as to enhance the kidney’s ability to activate vitamin D so that more calcium is absorbed through the intestine. In addition, it increases the activity of osteoclasts, thereby increasing the resorption of bone (Lofrese et al., 2022; Khan et al., 2022).</para>
 <para id="para-00005">When thyroid hormone levels are insufficient within the body, a series of responses is initiated. The process begins with the hypothalamus releasing thyrotropin-releasing hormone (TRH). This hormone acts as a communicator by interacting with the anterior pituitary gland, a small pea-sized gland located at the brain's base. In response to TRH, the anterior pituitary gland releases thyrotropin, also known as <term id="term-00007">thyroid-stimulating hormone (TSH)</term>. TSH stimulates the thyroid gland, prompting it to either increase or decrease the production of both T4 and T3, essential thyroid hormones.</para>
 <para id="para-00006">Conversely, in cases where an excess of thyroid hormones is present, a crucial negative feedback system comes into play. Excessive levels of T4 and T3 instruct the anterior pituitary and hypothalamus to restrain the release of their respective hormones. This control mechanism is of paramount importance in maintaining a balanced hormonal environment. The influence of thyroid hormones extends beyond their impact on metabolism and energy regulation. These hormones also interact with the parathyroid glands. The secretion of calcitonin, for instance, directly interacts with calcium ions and affects parathyroid hormones. Calcitonin, functioning as an antagonist to the parathyroid gland, contributes to the intricate balance of calcium in the body. <link target-id="fig-00002" document="m00409"/> illustrates thyroid hormones that control metabolism and parathyroid hormones that control calcium homeostasis.</para>
-<figure class="scaled-down" id="fig-00002">
+<figure id="fig-00002">
 <media alt="Thyroid hormones control metabolism using a negative feedback loop. The diagram shows the general steps of a negative feedback loop at the center (imbalance, hormone release, correction, and negative feedback) using the example of the hormone cascade that regulates metabolic rate. The hypothalamus releases TRH in response to low metabolic rate and or low T three and T four concentrations in the blood (imbalance). This triggers TSH release by the pituitary (hormone release). The TSH travels to the thyroid where it triggers T three and T four release by the thyroid cells. T three and T four increase basal metabolic rate of the body cells and cause a rise in body temperature (the calorigenic effect). T three and T four then feed back to the hypothalamus and inhibits TRH and TSH release. If metabolic rate is high and or T three and T four concentrations are low, then the hypothalamus stops releasing TRH (negative feedback). As a result, the anterior pituitary will not release TSH and no T three or T four will be produced by the thyroid."><image mime-type="image/png" src="../../media/PHA_Figure_27_01_003.png"/></media>
 <caption>Thyroid hormones control metabolism and impact parathyroid hormones that control calcium homeostasis within the body. (credit: modification of work from <emphasis effect="italics">Anatomy and Physiology 2e</emphasis>. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
@@ -153,10 +153,10 @@
 <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text"><emphasis effect="bold">Thyroid Function Test Interpretation</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold">TSH</emphasis><newline/>(Reference range: 0.5–4.0 mU/mL)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">T4</emphasis><newline/>(Reference range: 5–12 ug/dL)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">T3</emphasis><newline/>(Reference range: 80–180 ng/dL)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">Condition</emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">TSH</emphasis><newline/>(Reference range: 0.5–4.0 mU/mL)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">T4</emphasis><newline/>(Reference range: 5–12 ug/dL)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">T3</emphasis><newline/>(Reference range: 80–180 ng/dL)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Condition</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="center">Normal</entry>
@@ -180,10 +180,10 @@
 <entry valign="top" align="center" namest="c1" nameend="c4"><span class="blue-text"><emphasis effect="bold">Parathyroid Function Test Interpretation</emphasis></span></entry>
 </row>
 <row>
-<entry valign="top" align="center"><emphasis effect="bold">PTH</emphasis><newline/>(Reference range: 10–65 ng/L)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">Calcium (total serum)</emphasis><newline/>(Reference range: 8.6–10.2 mg/dL)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">Phosphate</emphasis><newline/>(Reference range: 3.0–4.5 mg/dL)</entry>
-<entry valign="top" align="center"><emphasis effect="bold">Condition</emphasis></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">PTH</emphasis><newline/>(Reference range: 10–65 ng/L)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Calcium (total serum)</emphasis><newline/>(Reference range: 8.6–10.2 mg/dL)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Phosphate</emphasis><newline/>(Reference range: 3.0–4.5 mg/dL)</span></entry>
+<entry valign="top" align="center"><span class="blue-text"><emphasis effect="bold">Condition</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="center">Normal</entry>

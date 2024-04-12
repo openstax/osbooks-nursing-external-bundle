@@ -56,14 +56,13 @@
   <row>
   <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Liothyronine sodium</term><newline/> (<term class="no-emphasis" id="term-00006">Cytomel</term>, <term class="no-emphasis" id="term-00022">Triostat</term>)</entry>
   <entry valign="top" align="left">25 mcg orally once daily; increase by 25 mcg orally daily every 1–2 weeks if needed.<newline/>
-  <emphasis effect="italics">Maintenance dose</emphasis>: 25–75 mcg once daily.<newline/>
+  Maintenance dose: 25–75 mcg once daily.<newline/>
   Serum T3 levels should be used to monitor therapeutic dosing range of drug.</entry>
   </row>
   </tbody>
   </tgroup>
   <caption><emphasis effect="bold">Drug Emphasis Table: Thyroid Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
-  </section>
   </section>
   <section id="sect-00006">
   <title>Adverse Effects and Contraindications</title>
@@ -157,7 +156,8 @@
   <para id="para-00015">Thyroid hormones, including levothyroxine sodium, either alone or with other therapeutic agents, should not be used for treatment of obesity or weight loss due to producing serious toxicity or life-threatening manifestations.</para>
   </note>
   </section>
-  <section id="sect-00008">
+</section>
+<section id="sect-00008">
   <title>Antithyroid Drugs</title>
   <para id="para-00016"><emphasis effect="bold"><term id="term-00007">Antithyroid drugs</term></emphasis> are used to inhibit production of the thyroid hormone so that the body can maintain normal thyroid homeostasis. Antithyroid drugs act by inhibiting the synthesis of thyroid hormones or by inundating the thyroid gland with iodine to prevent thyroid hormone release. Antithyroid drugs are used when the thyroid hormone levels are elevated within the body.</para>
   <section id="sect-00009">
@@ -165,7 +165,7 @@
   <para id="para-00017">Thionamides are compounds that effectively hinder the synthesis of thyroid hormones. These compounds are transported into the thyroid gland and act by inhibiting two critical processes: <emphasis effect="bold"><term id="term-00008">organification</term></emphasis> of iodine to tyrosine residues in <emphasis effect="bold"><term id="term-00009">thyroglobulin</term></emphasis> as well as coupling of <emphasis effect="bold"><term id="term-00010">iodotyrosines</term></emphasis>, leading to lower serum levels of thyroid hormones. The process of organification of iodine to tyrosine residues refers to the incorporation of iodine atoms into tyrosine amino acid molecules within the structure of thyroglobulin, a protein produced by the thyroid gland. This is an essential step in the synthesis of thyroid hormones. The coupling of iodotyrosines refers to the binding together of iodinated tyrosine molecules within the thyroglobulin to form the final thyroid hormones T3 and T4. Thionamides are used in the treatment of hyperthyroidism and Graves’ disease. Thionamides include methimazole and propylthiouracil.</para>
   <section id="sect-00010">
   <title>Methimazole</title>
-  <para id="para-00018">Methimazole inhibits the synthesis of thyroid hormones and is indicated to treat hyperthyroidism. This medication is rapidly absorbed in the gastrointestinal tract and metabolized rapidly. It is excreted mainly in the urine but is excreted in breast milk and should be used cautiously with mothers who are breastfeeding. Careful dose titration is necessary to avoid overtreatment or undertreatment. When the client develops toxicity to methimazole, symptoms such as nausea, vomiting, epigastric distress, headache, fever, joint pain, pruritus, edema, and agranulocytosis may develop (Armstrong et al., 2022; DailyMed, <emphasis effect="italics">Methimazole,</emphasis> 2022; Shahid et al., 2022; Singh &amp; Correa, 2022).</para>
+  <para id="para-00018">Methimazole inhibits the synthesis of thyroid hormones and is indicated to treat hyperthyroidism. This medication is rapidly absorbed in the gastrointestinal tract and metabolized rapidly. It is excreted mainly in the urine but is excreted in breast milk and should be used cautiously with clients who are breastfeeding. Careful dose titration is necessary to avoid overtreatment or undertreatment. When the client develops toxicity to methimazole, symptoms such as nausea, vomiting, epigastric distress, headache, fever, joint pain, pruritus, edema, and agranulocytosis may develop (Armstrong et al., 2022; DailyMed, <emphasis effect="italics">Methimazole,</emphasis> 2022; Shahid et al., 2022; Singh &amp; Correa, 2022).</para>
   </section>
   <section id="sect-00011">
   <title>Propylthiouracil</title>
@@ -209,7 +209,6 @@
   </tgroup>
   <caption><emphasis effect="bold">Drug Emphasis Table: Antithyroid Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
   </table>
-  </section>
   </section>
   </section>
   <section id="sect-00014">
@@ -275,7 +274,7 @@
   </table>
   </section>
   <section id="sect-00015">
-  <title>Nursing Implications for Antithyroid Drugs</title>
+  <title>Nursing Implications</title>
   <para id="para-00026">The nurse should do the following for clients who are taking antithyroid drugs:</para>
   <list list-type="bulleted" id="list-00006">
   <item>Monitor complete blood cell count and coagulation studies, liver studies, and thyroid levels and report abnormalities to the health care provider.</item>
@@ -357,7 +356,8 @@
   <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00033"><link class="os-embed" url="#exercise/PHAR_Ch27_Sec01_UCSQ2"/></para></problem></exercise>
   </note>
   </section>
-  </content>
+</section>
+</content>
   <glossary>
   <definition id="def-00001"><term>antithyroid drugs</term> <meaning>inhibit the thyroid hormone so that the body can maintain normal thyroid homeostasis</meaning></definition>
   <definition id="def-00002"><term>goiter</term> <meaning>an abnormal enlargement of the thyroid gland</meaning></definition>
