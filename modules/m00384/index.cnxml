@@ -1,269 +1,266 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
   <title>Statins (HMG-CoA Reductase Inhibitors) and PCSK9 Inhibitors</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Statins (HMG-CoA Reductase Inhibitors) and PCSK9 Inhibitors</md:title>
-    <md:content-id>m00384</md:content-id>
-    <md:uuid>0309c814-97e3-4b28-9b9b-534079bb3a12</md:uuid>
+  <md:title>Statins (HMG-CoA Reductase Inhibitors) and PCSK9 Inhibitors</md:title>
+  <md:content-id>m00384</md:content-id>
+  <md:uuid>0309c814-97e3-4b28-9b9b-534079bb3a12</md:uuid>
   </metadata>
   <content>
-    <section class="learning-objectives" id="sect-00001">
-    <title>Learning Outcomes</title>
-    <para id="para-00001">By the end of this section, you should be able to:</para>
-    <list id="list-00001">
-    <item>Identify the characteristics of <term class="no-emphasis" id="term-00001">statins</term> (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
-    <item>Explain the indications, action, adverse reactions, and interactions of statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
-    <item>Describe nursing implications of statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
-    <item>Explain the client education related to statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
-    </list>
-    </section>
-    <para id="para-00002">Statin drugs are some of the most common drugs taken in the United States and are the mainstays of cholesterol-lowering pharmacologic therapy. Depending on the dose, they can reduce LDL-cholesterol levels by greater than half. Statins are oral drugs that work by inhibiting HMG-CoA reductase, which is an enzyme used in cholesterol synthesis. In addition to their effect on LDL-cholesterol levels, statin medications have additional beneficial effects that are unrelated to their effect on cholesterol; these are called <term id="term-00002">pleiotropic effects</term>. Some examples of pleiotropic effects are anti-inflammatory, antioxidant, antiproliferative, and plaque-stabilizing actions, which contribute to their efficacy in preventing and treating CAD (Choudhary et al., 2023). Many different statin medications are available. Much of the information regarding statin medications applies to all drugs in this class; however, there are some differences among the agents. Some of the major differentiators within the statin class of medications are administration instructions, potency, and drug interactions.</para>
-    <para id="para-00003">Because cholesterol is made in the body at night, it is common for statin medications to be taken at bedtime. This timing allows the highest concentration of the drug to be available when cholesterol synthesis is most active, leading to the greatest therapeutic efficacy. However, drugs with a longer half-life, such as rosuvastatin and atorvastatin, can be taken at any time of day because they remain in the body longer.</para>
-    <para id="para-00004">Statin medications vary in their potency, or the magnitude of cholesterol lowering that occurs upon administration to a client. The drug/dose combinations are classified by this potency: high intensity (greater than 50%), moderate intensity (30%–49%), and low intensity (less than 30%; <link target-id="table-00001" document="m00384"/>). Based on their high potency, atorvastatin and rosuvastatin are some of the most frequently prescribed statin medications.</para>
-    <table class="vertically-tight full-width" id="table-00001">
-    <tgroup cols="3">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <colspec colnum="2" colname="c2" colwidth="1*"/>
-    <colspec colnum="3" colname="c3" colwidth="1*"/>
-    <thead>
-    <row>
-    <entry valign="middle" align="left"><span class="blue-text">High Intensity</span></entry>
-    <entry valign="middle" align="left"><span class="blue-text">Moderate Intensity</span></entry>
-    <entry valign="middle" align="left"><span class="blue-text">Low Intensity</span></entry>
-    </row>
-    </thead>
-    <tbody>
-    <row>
-          <entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Atorvastatin </term>40–80 mg<newline/>
-    <term class="no-emphasis" id="term-00004">Rosuvastatin </term>20–40 mg</entry>
-    <entry valign="top" align="left">Atorvastatin 10–20 mg<newline/>
-    Rosuvastatin 5–10 mg<newline/>
-    <term class="no-emphasis" id="term-00007">Simvastatin </term>20–40 mg<newline/>
-    <term class="no-emphasis" id="term-00008">Pravastatin </term>40–80 mg<newline/>
-    <term class="no-emphasis" id="term-00009">Lovastatin </term>40–80 mg<newline/>
-    <term class="no-emphasis" id="term-00010">Fluvastatin XL </term>80 mg<newline/>
-    <term class="no-emphasis" id="term-00011">Pitavastatin </term>1–4 mg<newline/></entry>
-    <entry valign="top" align="left">Simvastatin 10 mg<newline/>
-    Pravastatin 10–20 mg<newline/>
-    Lovastatin 20 mg<newline/>
-    <term class="no-emphasis" id="term-00005">Fluvastatin</term> 20–40 mg</entry>
-    </row>
+  <section class="learning-objectives" id="sect-00001">
+  <title>Learning Outcomes</title>
+  <para id="para-00001">By the end of this section, you should be able to:</para>
+  <list id="list-00001">
+  <item>Identify the characteristics of <term class="no-emphasis" id="term-00001">statins</term> (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
+  <item>Explain the indications, action, adverse reactions, and interactions of statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
+  <item>Describe nursing implications of statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
+  <item>Explain the client education related to statins (HMG-CoA reductase inhibitors) and PCSK9 inhibitor drugs used to lower lipid levels.</item>
+  </list>
+  </section>
+  <para id="para-00002">Statin drugs are some of the most common drugs taken in the United States and are the mainstays of cholesterol-lowering pharmacologic therapy. Depending on the dose, they can reduce LDL-cholesterol levels by greater than half. Statins are oral drugs that work by inhibiting HMG-CoA reductase, which is an enzyme used in cholesterol synthesis. In addition to their effect on LDL-cholesterol levels, statin medications have additional beneficial effects that are unrelated to their effect on cholesterol; these are called <term id="term-00002">pleiotropic effects</term>. Some examples of pleiotropic effects are anti-inflammatory, antioxidant, antiproliferative, and plaque-stabilizing actions, which contribute to their efficacy in preventing and treating CAD (Choudhary et al., 2023). Many different statin medications are available. Much of the information regarding statin medications applies to all drugs in this class; however, there are some differences among the agents. Some of the major differentiators within the statin class of medications are administration instructions, potency, and drug interactions.</para>
+  <para id="para-00003">Because cholesterol is made in the body at night, it is common for statin medications to be taken at bedtime. This timing allows the highest concentration of the drug to be available when cholesterol synthesis is most active, leading to the greatest therapeutic efficacy. However, drugs with a longer half-life, such as rosuvastatin and atorvastatin, can be taken at any time of day because they remain in the body longer.</para>
+  <para id="para-00004">Statin medications vary in their potency, or the magnitude of cholesterol lowering that occurs upon administration to a client. The drug/dose combinations are classified by this potency: high intensity (greater than 50%), moderate intensity (30%–49%), and low intensity (less than 30%; <link target-id="table-00001" document="m00384"/>). Based on their high potency, atorvastatin and rosuvastatin are some of the most frequently prescribed statin medications.</para>
+  <table class="vertically-tight full-width" id="table-00001">
+  <tgroup cols="3">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="3" colname="c3" colwidth="1*"/>
+  <thead>
+  <row>
+  <entry valign="middle" align="left"><span class="blue-text">High Intensity</span></entry>
+  <entry valign="middle" align="left"><span class="blue-text">Moderate Intensity</span></entry>
+  <entry valign="middle" align="left"><span class="blue-text">Low Intensity</span></entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Atorvastatin </term>40–80 mg<newline/>
+  <term class="no-emphasis" id="term-00004">Rosuvastatin </term>20–40 mg</entry>
+  <entry valign="top" align="left">Atorvastatin 10–20 mg<newline/>
+  Rosuvastatin 5–10 mg<newline/>
+  <term class="no-emphasis" id="term-00007">Simvastatin </term>20–40 mg<newline/>
+  <term class="no-emphasis" id="term-00008">Pravastatin </term>40–80 mg<newline/>
+  <term class="no-emphasis" id="term-00009">Lovastatin </term>40–80 mg<newline/>
+  <term class="no-emphasis" id="term-00010">Fluvastatin XL </term>80 mg<newline/>
+  <term class="no-emphasis" id="term-00011">Pitavastatin </term>1–4 mg<newline/></entry>
+  <entry valign="top" align="left">Simvastatin 10 mg<newline/>
+  Pravastatin 10–20 mg<newline/>
+  Lovastatin 20 mg<newline/>
+  <term class="no-emphasis" id="term-00005">Fluvastatin</term> 20–40 mg</entry>
+  </row>
   </tbody>
-    </tgroup>
-    <caption><emphasis effect="bold">Statin Drugs Classified by Intensity of Ability to Lower Cholesterol</emphasis> (source: Adapted from Grundy et al., 2019)</caption>
-    </table>
-    <para id="para-00005">The drug interaction profile of each statin depends on its metabolic pathway. Simvastatin and lovastatin have a high likelihood of interacting with many other drugs. Their metabolism relies heavily on cytochrome enzymes, and if another drug inhibits their metabolism, the statin concentrations increase, putting the client at risk for adverse events. Pravastatin has relatively fewer drug interactions because it relies less on metabolism via cytochrome enzymes in the liver for metabolism. It is often considered the drug of choice for clients who must take highly interacting drugs, such as certain immunosuppressants after an organ transplant.</para>
-    <para id="para-00006">Nurses should be familiar with the <term class="no-emphasis" id="term-00016">American Heart Association</term>’s <link url="https://openstax.org/r/ahajournalso">recommendations for management of drug interactions with statins</link>. The tables provide summaries of selected interactions and their management recommendations (Wiggins et al., 2016). If drug interactions are present, the choice of drug depends on the specific indication for statin therapy and other medications the client must take.</para>
-    <para id="para-00007">PCSK9 inhibitors are a newer class of drugs that bind to PCSK9 proteins, rendering them unable to function. Inhibition of PCSK9 leads to less degradation of LDL receptors, making them more available to remove LDL-cholesterol from the circulation. PCSK9 inhibitors are some of the most potent LDL-lowering medications available and can lower LDL-cholesterol by 43%–64% (Grundy et al., 2019). PCSK9 inhibitors are monoclonal antibodies and require ongoing administration by injection. They are generally well tolerated, although long-term safety has not been well established. One of the disadvantages of PCSK9 inhibitors is the cost—roughly $14,000 per year (Grundy et al., 2019; based on list price from mid-2018).</para>
-    <para id="para-00008">Inclisiran is another drug that targets PCSK9, but it works differently than the PCSK9 inhibitors, and it is not a monoclonal antibody. It prevents the formation of PCSK9 altogether, leading to a therapeutic effect similar to that of the PCSK9 inhibitors. Like the PCSK9 inhibitors, it is given by subcutaneous injection; however, a health care professional should administer it. After an initial 3-month loading phase, it is administered just twice a year. No specific monitoring is required after injection.</para>
-    <para id="para-00009"><link target-id="table-00002" document="m00384"/> lists common statins and PCSK9 inhibitors and typical routes and dosing for adult clients.</para>
-    
-          <table class="vertically-tight" id="table-00002">
-         <tgroup cols="2">
-          <colspec colnum="1" colname="c1" colwidth="1*"/>
-          <colspec colnum="2" colname="c2" colwidth="2*"/>
-         <thead>
-          <row>
-          <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
-          <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
-          </row>
-          </thead>
-          <tbody>
-          <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Atorvastatin</term><newline/>
-    (<term class="no-emphasis" id="term-00018">Lipitor</term>)</entry>
-    <entry valign="top" align="left">10–80 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Fluvastatin</term><newline/>
-    (<term class="no-emphasis" id="term-00020">Lescol XL</term>)</entry>
-    <entry valign="top" align="left">20–80 mg orally daily in 2 divided doses.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00021">Pitavastatin</term><newline/>
-    (<term class="no-emphasis" id="term-00022">Livalo</term>)</entry>
-    <entry valign="top" align="left">1–4 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Pravastatin</term><newline/>
-    (<term class="no-emphasis" id="term-00024">Pravachol</term>)</entry>
-    <entry valign="top" align="left">10–80 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00025">Rosuvastatin </term><newline/>
-    (<term class="no-emphasis" id="term-00026">Crestor</term>)</entry>
-    <entry valign="top" align="left">5–40 mg orally daily.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00027">Simvastatin</term><newline/>
-    (<term class="no-emphasis" id="term-00028">Zocor</term>)</entry>
-    <entry valign="top" align="left">10–40 mg orally daily at bedtime.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Alirocumab </term><newline/>
-    (<term class="no-emphasis" id="term-00030">Praluent</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Primary hyperlipidemia and heterozygous familial hypercholesterolemia:</emphasis> 75 mg subcutaneously every 2 weeks or 300 mg subcutaneously every 4 weeks; if inadequate response, may adjust to 150 mg subcutaneously every 2 weeks.<newline/>
-    <emphasis effect="italics">Homozygous familial hypercholesterolemia:</emphasis> 150 mg subcutaneously every 2 weeks.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00031">Evolocumab </term><newline/>
-    (<term class="no-emphasis" id="term-00032">Repatha</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Primary hyperlipidemia and heterozygous familial hypercholesterolemia: </emphasis>140 mg subcutaneously every 2 weeks or 420 mg subcutaneously once monthly.<newline/>
-    <emphasis effect="italics">Homozygous familial hypercholesterolemia:</emphasis> 420 mg subcutaneously once monthly; can be increased to 420 mg subcutaneously every 2 weeks if a clinically meaningful response is not achieved.</entry>
-    </row>
-    <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Inclisiran</term><newline/>
-    (<term class="no-emphasis" id="term-00034">Leqvio</term>)</entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Adjunct to diet and statin therapy for treatment of heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease in clients who require additional lowering of LDL-cholestero</emphasis>l: 284 mg administered subcutaneously once, and then again at 3 months, and then every 6 months thereafter.</entry>
-    </row>
-          </tbody>
-         </tgroup>
-    <caption><emphasis effect="bold">Drug Emphasis Table: Statins and PCSK9 Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-          </table>
-       <section id="sect-00003">
-    <title>Statins</title>
-    <para id="para-00010">Some of the most popular statin medications are atorvastatin, simvastatin, rosuvastatin, and pravastatin.</para>
-    <section id="sect-00004">
-    <title>Rosuvastatin</title>
-    <para id="para-00011"><term class="no-emphasis" id="term-00035">Rosuvastatin</term> is the most potent statin medication. At a dosage of 20–40 mg per day, it is one of only two statin medications classified as high intensity and is recommended for individuals with the greatest cardiovascular risk. Unlike some other statins, rosuvastatin may be taken at any time of the day because it has a long half-life of 19 hours. The capsules or tablets should be swallowed whole and not crushed or chewed. Rosuvastatin is metabolized by CYP2C9, so it interacts with other drugs that affect that enzyme. Rosuvastatin is a hydrophilic (water-soluble) statin, which may confer a lower risk of myopathy because it does not easily enter the muscle.</para>
-    </section>
-    <section id="sect-00005">
-    <title>Atorvastatin</title>
-    <para id="para-00012"><term class="no-emphasis" id="term-00036">Atorvastatin</term> is another potent statin medication. At a dosage of 40–80 mg per day, it is also classified as high intensity and is recommended for individuals with the greatest cardiovascular risk. It may be taken at any time of day because of its long half-life. It is metabolized by CYP3A4, so it interacts with other drugs that affect that enzyme. The metabolizing enzyme for atorvastatin is different from that for rosuvastatin, so the drug interaction profiles vary as well. Atorvastatin is a lipophilic (fat-soluble) statin, which may allow it to penetrate the muscle tissue and lead more readily to myopathy.</para>
-    <para id="para-00013"><link target-id="table-00003" document="m00384"/> is a drug prototype table for statins featuring atorvastatin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
-    
-    <table class="vertically-tight" id="table-00003">
-    <tgroup cols="2">
-    <colspec colnum="1" colname="col1" colwidth="1*"/>
-    <colspec colnum="2" colname="col2" colwidth="1*"/>
-    <tbody>
-    <row>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
-    Statin<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
-    Inhibits HMG-CoA reductase, an enzyme involved in cholesterol synthesis</entry>
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    10–80 mg orally once daily.</entry>
-    </row>
-    <row>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
-    To reduce the risk of cardiovascular events in specific populations<newline/>
-    Primary hyperlipidemia<newline/>
-    Heterozygous and homozygous familial hypercholesterolemia<newline/>
-    Primary dysbetaliproteinemia<newline/>
-    Hypertriglyceridemia<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
-    Decreases LDL-cholesterol level<newline/>
-    Decreases triglyceride level</entry>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
-    Rifampin<newline/>
-    Oral contraceptives<newline/>
-    Digoxin<newline/>
-    Amiodarone<newline count="2"/>
-    <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
-    Grapefruit juice</entry>
-    </row>
-    <row>
-    <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
-    Myopathy<newline/>
-    Nasopharyngitis<newline/>
-    Arthralgia/myalgia <newline/>
-    Diarrhea<newline/>
-    Pain in extremities<newline/>
-    Urinary tract infection</entry>
-    
-    <entry valign="top">
-    <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
-    Acute liver failure or decompensated cirrhosis<newline/>
-    Hypersensitivity to atorvastatin or other excipients<newline count="2"/>
-    Caution:<newline/>
-    Myopathy and rhabdomyolysis<newline/>
-    Immune-mediated necrotizing myopathy<newline/>
-    Hepatic dysfunction</entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption><emphasis effect="bold">Drug Prototype Table: Atorvastatin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
-    </table>
-    </section>
-    <section id="sect-00006">
-    <title>Simvastatin</title>
-    <para id="para-00014">At its highest prescribed doses, <term class="no-emphasis" id="term-00038">simvastatin</term> is considered a moderate-intensity statin. Therefore, it is not appropriate for clients who have very high cardiovascular risk. Nurses should instruct clients to take simvastatin in the evening because of its shorter half-life compared to rosuvastatin or atorvastatin. Simvastatin is metabolized to a great extent by CYP3A4, and drug interactions influence its concentrations in the body. The U.S. Food and Drug Administration (FDA) has issued a warning regarding dose limitations when simvastatin is used concomitantly with amiodarone. (See the FDA website for <link url="https://openstax.org/r/fdagovdrugsd">the most recent update to that warning</link>.) It is also a highly lipophilic statin. The high potential for drug interactions, combined with lipophilicity that may facilitate entry into muscle tissue, may confer greater risks for clients taking simvastatin rather than other options.</para>
-    <note class="safety-alert" id="note-00001">
-    <title>Simvastatin</title>
-    <para id="para-00015">Clients should not take simvastatin 80 mg because the risk of muscle-related adverse events is unacceptably high. More <link url="https://openstax.org/r/fdagovdrugsdr">information about restrictions, contraindications, and dose limitations</link> can be found online.</para>
-    </note>
-    </section>
-    <section id="sect-00007">
-    <title>Pravastatin</title>
-    <para id="para-00016"><term class="no-emphasis" id="term-00039">Pravastatin</term> is another statin medication. At its highest doses, it is considered a moderate-intensity statin. Thus, it is not considered appropriate for clients who have high cardiovascular risk. Pravastatin has a comparatively lower risk of drug interactions because it is not metabolized as highly by CYP enzymes, although some interactions are still possible. In addition, is hydrophilic; these two aspects may confer a lower risk for myopathy. Pravastatin is often considered a drug of choice in clients who take multiple medications and have an increased risk of drug interactions or those who cannot tolerate other statins due to adverse effects. However, it is not potent enough to be a first-line option for many clients.</para>
-    </section>
-    </section>
-    <section id="sect-00008">
-    <title>PCSK9 Inhibitors</title>
-    <para id="para-00017">The two <term class="no-emphasis" id="term-00040">PCSK9 inhibitors</term> currently available are alirocumab and <term class="no-emphasis" id="term-00042">evolocumab</term>. The drugs are relatively similar but vary in their dosing (<link target-id="table-00002" document="m00384"/>). Both are given as subcutaneous injections that can be self-administered by the client.</para>
-    </section>
-    <section id="sect-00009">
-    <title>Adverse Effects and Contraindications</title>
-    <para id="para-00018">Some of the most common and limiting adverse effects associated with statins are muscular in nature. Myalgia, or muscle pain, is common and occurred in 5%–10% of clients taking statin therapy in observational studies (Grundy et al., 2019). Myositis is rare and is characterized by muscular pain or weakness and elevated levels of the enzyme creatine kinase, indicating muscle breakdown. Rhabdomyolysis is the most severe muscular side effect of statin therapy. It is characterized by severe muscle breakdown and creatine kinase (CK) levels 10-fold greater than normal. The byproducts of muscle breakdown can cause kidney toxicity, which can be fatal. Some statins have a higher propensity to cause myopathy. This risk may be related to their drug interactions. If clients take a drug that raises the concentration of their statin medication in their blood, they may have a higher risk for adverse effects. The risk of myopathy may also be related to how hydrophilic or lipophilic the drug is. Statins that are more highly lipophilic can more easily enter the muscle and cause toxicity.</para>
-    <para id="para-00019">Statins are associated with new-onset diabetes, most commonly in clients who have other risk factors for diabetes, such as obesity or metabolic syndrome. Infrequently, statins have been associated with elevations in transaminase. Prior to 2012, liver function was frequently monitored in clients taking statin medications because of concerns for and association with liver failure. However, in 2012 <link url="https://openstax.org/r/fdagovdrugsdrugsafe">the FDA revised the recommendation</link> for monitoring liver function and now recommends that liver enzymes be tested before starting statin therapy and only as clinically indicated thereafter. This change was made because hepatic failure due to statin medications is rare, and monitoring liver enzymes does not detect or prevent serious liver injury.</para>
-    <para id="para-00020">Previously, statin medications carried a strong warning against use in <term class="no-emphasis" id="term-00043">pregnancy</term> and were considered absolutely contraindicated. In 2021, based on a review of evidence, the FDA downgraded this strong warning to a recommendation. The FDA now recommends that health care providers discontinue statin use in most pregnant clients but that they also should consider the individual client’s ongoing therapeutic needs.</para>
-    <para id="para-00021">The most common adverse effects of PCSK9 inhibitors are injection site reactions, which are usually mild. Hypersensitivity reactions are also possible. PCSK9 inhibitors are contraindicated in clients with a history of hypersensitivity to any drug within the class.</para>
-    <para id="para-00022">The most common adverse effects of <term class="no-emphasis" id="term-00044">inclisiran</term> are injection site reactions. It has no absolute contraindications.</para>
-    </section>
-    <section id="sect-00010">
-    <title>Nursing Implications</title>
-    <para id="para-00023">The nurse should do the following for clients taking statin medications:</para>
-    <list list-type="bulleted" id="list-00002">
-    <item>Teach clients about nonpharmacologic modalities for cardiovascular risk reduction and lipid lowering.</item>
-    <item>Obtain an accurate home medication list and check it for possible drug and food interactions.</item>
-    <item>Monitor for signs and symptoms of muscle-related adverse effects.</item>
-    <item>Ensure appropriate monitoring of LDL-cholesterol levels.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item></list>
-    <para id="para-00024">The nurse should do the following for clients taking PCSK9 inhibitors:</para>
-    <list list-type="bulleted" id="list-00003">
-    <item>Teach clients about nonpharmacologic modalities for cardiovascular risk reduction and lipid lowering.</item>
-    <item>Teach clients how to administer their medications. </item>
-    <item>Monitor for hypersensitivity reactions and injection site reactions.</item>
-    <item>Instruct the client on the technique to self-administer the medication. </item>
-    <item>Ensure appropriate monitoring of LDL-cholesterol levels.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item></list>
-    <para id="para-00025">The nurse should do the following for clients taking inclisiran:</para>
-    <list list-type="bulleted" id="list-00004">
-    <item>Administer the drug subcutaneously in the abdomen, upper arm, or thigh.</item>
-    <item>Avoid injecting into areas of active skin disease or injury.</item>
-    <item>Refrain from giving the medication if it is discolored or contains particulate matter. </item>
-    <item>Monitor for injection site reactions.</item>
-    <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
-    </list> 
-    <note class="client-teaching" id="note-00002">
-    <para id="para-00026"><emphasis effect="bold">The client taking a statin drug should:</emphasis></para>
-    <list list-type="bulleted" id="list-00005">
-    <item>Maintain a heart-healthy diet.</item>
-    <item>Engage in activity as directed by their health care provider.</item>
-    <item>Take their statin medication in the evening if needed.</item>
-    <item>Report any muscular signs and symptoms to their health care provider, including muscle pain, muscle weakness, and very dark urine, which can indicate rhabdomyolysis.</item>
-    <item>Report any symptoms of liver failure (rare) to their provider: yellowish skin or eyes, nausea, vomiting, upper right abdominal pain, general feeling of unwellness.</item></list>
-    <para id="para-00027"><emphasis effect="bold">The client taking a PCSK9 inhibitor should:</emphasis></para>
-    <list list-type="bulleted" id="list-00006">
-    <item>Maintain a heart-healthy diet.</item>
-    <item>Engage in activity as directed by their health care provider.</item>
-    <item>Store the drug in the refrigerator in the original carton and protect it from light and freezing.</item>
-    <item>Discard the medication if it is left at room temperature for more than 30 days.</item>
-    <item>Allow the drug to warm to room temperature for 30–40 minutes prior to administration if refrigerated.</item>
-    <item>Avoid using medication that is cloudy, is discolored, or contains particles.</item>
-    <item>Administer into areas of the thigh, abdomen, or upper arm that are not tender, bruised, red, or indurated.</item>
-    <item>Rotate injection sites for each dose.</item>
-    <item>If administering a large dose, divide it into two injections and give them consecutively at two different sites.</item>
-    </list>
-    <para id="para-00028"><emphasis effect="bold">The client taking inclisiran should:</emphasis></para>
-    <list list-type="bulleted" id="list-00007">
-    <item>Make and keep appointments to have the drug administered by a health care professional.</item></list>
-    </note>
-      </section>
-    </content>
-    <glossary>
-    <definition id="def-00001"><term>pleiotropic effects</term> <meaning>additional beneficial effects of statin medications unrelated to their lipid-lowering effects</meaning></definition>
+  </tgroup>
+  <caption><emphasis effect="bold">Statin Drugs Classified by Intensity of Ability to Lower Cholesterol</emphasis> (source: Adapted from Grundy et al., 2019)</caption>
+  </table>
+  <para id="para-00005">The drug interaction profile of each statin depends on its metabolic pathway. Simvastatin and lovastatin have a high likelihood of interacting with many other drugs. Their metabolism relies heavily on cytochrome enzymes, and if another drug inhibits their metabolism, the statin concentrations increase, putting the client at risk for adverse events. Pravastatin has relatively fewer drug interactions because it relies less on metabolism via cytochrome enzymes in the liver for metabolism. It is often considered the drug of choice for clients who must take highly interacting drugs, such as certain immunosuppressants after an organ transplant.</para>
+  <para id="para-00006">Nurses should be familiar with the <term class="no-emphasis" id="term-00016">American Heart Association</term>’s <link url="https://openstax.org/r/ahajournalso">recommendations for management of drug interactions with statins</link>. The tables provide summaries of selected interactions and their management recommendations (Wiggins et al., 2016). If drug interactions are present, the choice of drug depends on the specific indication for statin therapy and other medications the client must take.</para>
+  <para id="para-00007">PCSK9 inhibitors are a newer class of drugs that bind to PCSK9 proteins, rendering them unable to function. Inhibition of PCSK9 leads to less degradation of LDL receptors, making them more available to remove LDL-cholesterol from the circulation. PCSK9 inhibitors are some of the most potent LDL-lowering medications available and can lower LDL-cholesterol by 43%–64% (Grundy et al., 2019). PCSK9 inhibitors are monoclonal antibodies and require ongoing administration by injection. They are generally well tolerated, although long-term safety has not been well established. One of the disadvantages of PCSK9 inhibitors is the cost—roughly $14,000 per year (Grundy et al., 2019; based on list price from mid-2018).</para>
+  <para id="para-00008">Inclisiran is another drug that targets PCSK9, but it works differently than the PCSK9 inhibitors, and it is not a monoclonal antibody. It prevents the formation of PCSK9 altogether, leading to a therapeutic effect similar to that of the PCSK9 inhibitors. Like the PCSK9 inhibitors, it is given by subcutaneous injection; however, a health care professional should administer it. After an initial 3-month loading phase, it is administered just twice a year. No specific monitoring is required after injection.</para>
+  <para id="para-00009"><link target-id="table-00002" document="m00384"/> lists common statins and PCSK9 inhibitors and typical routes and dosing for adult clients.</para>
+  <table class="vertically-tight" id="table-00002">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="c1" colwidth="1*"/>
+  <colspec colnum="2" colname="c2" colwidth="2*"/>
+  <thead>
+  <row>
+  <entry valign="top" align="center"><span class="blue-text">Drug</span></entry>
+  <entry valign="top" align="center"><span class="blue-text">Routes and Dosage Ranges</span></entry>
+  </row>
+  </thead>
+  <tbody>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00017">Atorvastatin</term><newline/>
+  (<term class="no-emphasis" id="term-00018">Lipitor</term>)</entry>
+  <entry valign="top" align="left">10–80 mg orally daily.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00019">Fluvastatin</term><newline/>
+  (<term class="no-emphasis" id="term-00020">Lescol XL</term>)</entry>
+  <entry valign="top" align="left">20–80 mg orally daily in 2 divided doses.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00021">Pitavastatin</term><newline/>
+  (<term class="no-emphasis" id="term-00022">Livalo</term>)</entry>
+  <entry valign="top" align="left">1–4 mg orally daily.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00023">Pravastatin</term><newline/>
+  (<term class="no-emphasis" id="term-00024">Pravachol</term>)</entry>
+  <entry valign="top" align="left">10–80 mg orally daily.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00025">Rosuvastatin </term><newline/>
+  (<term class="no-emphasis" id="term-00026">Crestor</term>)</entry>
+  <entry valign="top" align="left">5–40 mg orally daily.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00027">Simvastatin</term><newline/>
+  (<term class="no-emphasis" id="term-00028">Zocor</term>)</entry>
+  <entry valign="top" align="left">10–40 mg orally daily at bedtime.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00029">Alirocumab </term><newline/>
+  (<term class="no-emphasis" id="term-00030">Praluent</term>)</entry>
+  <entry valign="middle" align="left"><emphasis effect="italics">Primary hyperlipidemia and heterozygous familial hypercholesterolemia:</emphasis> 75 mg subcutaneously every 2 weeks or 300 mg subcutaneously every 4 weeks; if inadequate response, may adjust to 150 mg subcutaneously every 2 weeks.<newline/>
+  <emphasis effect="italics">Homozygous familial hypercholesterolemia:</emphasis> 150 mg subcutaneously every 2 weeks.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00031">Evolocumab </term><newline/>
+  (<term class="no-emphasis" id="term-00032">Repatha</term>)</entry>
+  <entry valign="middle" align="left"><emphasis effect="italics">Primary hyperlipidemia and heterozygous familial hypercholesterolemia: </emphasis>140 mg subcutaneously every 2 weeks or 420 mg subcutaneously once monthly.<newline/>
+  <emphasis effect="italics">Homozygous familial hypercholesterolemia:</emphasis> 420 mg subcutaneously once monthly; can be increased to 420 mg subcutaneously every 2 weeks if a clinically meaningful response is not achieved.</entry>
+  </row>
+  <row>
+  <entry valign="middle" align="center"><term class="no-emphasis" id="term-00033">Inclisiran</term><newline/>
+  (<term class="no-emphasis" id="term-00034">Leqvio</term>)</entry>
+  <entry valign="middle" align="left"><emphasis effect="italics">Adjunct to diet and statin therapy for treatment of heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease in clients who require additional lowering of LDL-cholestero</emphasis>l: 284 mg administered subcutaneously once, and then again at 3 months, and then every 6 months thereafter.</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption><emphasis effect="bold">Drug Emphasis Table: Statins and PCSK9 Inhibitors</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  <section id="sect-00003">
+  <title>Statins</title>
+  <para id="para-00010">Some of the most popular statin medications are atorvastatin, simvastatin, rosuvastatin, and pravastatin.</para>
+  <section id="sect-00004">
+  <title>Rosuvastatin</title>
+  <para id="para-00011"><term class="no-emphasis" id="term-00035">Rosuvastatin</term> is the most potent statin medication. At a dosage of 20–40 mg per day, it is one of only two statin medications classified as high intensity and is recommended for individuals with the greatest cardiovascular risk. Unlike some other statins, rosuvastatin may be taken at any time of the day because it has a long half-life of 19 hours. The capsules or tablets should be swallowed whole and not crushed or chewed. Rosuvastatin is metabolized by CYP2C9, so it interacts with other drugs that affect that enzyme. Rosuvastatin is a hydrophilic (water-soluble) statin, which may confer a lower risk of myopathy because it does not easily enter the muscle.</para>
+  </section>
+  <section id="sect-00005">
+  <title>Atorvastatin</title>
+  <para id="para-00012"><term class="no-emphasis" id="term-00036">Atorvastatin</term> is another potent statin medication. At a dosage of 40–80 mg per day, it is also classified as high intensity and is recommended for individuals with the greatest cardiovascular risk. It may be taken at any time of day because of its long half-life. It is metabolized by CYP3A4, so it interacts with other drugs that affect that enzyme. The metabolizing enzyme for atorvastatin is different from that for rosuvastatin, so the drug interaction profiles vary as well. Atorvastatin is a lipophilic (fat-soluble) statin, which may allow it to penetrate the muscle tissue and lead more readily to myopathy.</para>
+  <para id="para-00013"><link target-id="table-00003" document="m00384"/> is a drug prototype table for statins featuring atorvastatin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+  <table class="vertically-tight" id="table-00003">
+  <tgroup cols="2">
+  <colspec colnum="1" colname="col1" colwidth="1*"/>
+  <colspec colnum="2" colname="col2" colwidth="1*"/>
+  <tbody>
+  <row>
+  <entry valign="top">
+  <emphasis effect="bold"><span class="blue-text">Drug Class</span></emphasis><newline/>
+  Statin<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
+  Inhibits HMG-CoA reductase, an enzyme involved in cholesterol synthesis</entry>
+  <entry valign="top">
+  <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
+  10–80 mg orally once daily.</entry>
+  </row>
+  <row>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
+  To reduce the risk of cardiovascular events in specific populations<newline/>
+  Primary hyperlipidemia<newline/>
+  Heterozygous and homozygous familial hypercholesterolemia<newline/>
+  Primary dysbetaliproteinemia<newline/>
+  Hypertriglyceridemia<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
+  Decreases LDL-cholesterol level<newline/>
+  Decreases triglyceride level</entry>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
+  Rifampin<newline/>
+  Oral contraceptives<newline/>
+  Digoxin<newline/>
+  Amiodarone<newline count="2"/>
+  <emphasis effect="bold"><span class="blue-text">Food Interactions</span></emphasis><newline/>
+  Grapefruit juice</entry>
+  </row>
+  <row>
+  <entry valign="top"><emphasis effect="bold"><span class="blue-text">Adverse Effects</span></emphasis><newline/>
+  Myopathy<newline/>
+  Nasopharyngitis<newline/>
+  Arthralgia/myalgia <newline/>
+  Diarrhea<newline/>
+  Pain in extremities<newline/>
+  Urinary tract infection</entry>
+  <entry valign="top">
+  <emphasis effect="bold"><span class="blue-text">Contraindications</span></emphasis><newline/>
+  Acute liver failure or decompensated cirrhosis<newline/>
+  Hypersensitivity to atorvastatin or other excipients<newline count="2"/>
+  Caution:<newline/>
+  Myopathy and rhabdomyolysis<newline/>
+  Immune-mediated necrotizing myopathy<newline/>
+  Hepatic dysfunction</entry>
+  </row>
+  </tbody>
+  </tgroup>
+  <caption><emphasis effect="bold">Drug Prototype Table: Atorvastatin</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+  </table>
+  </section>
+  <section id="sect-00006">
+  <title>Simvastatin</title>
+  <para id="para-00014">At its highest prescribed doses, <term class="no-emphasis" id="term-00038">simvastatin</term> is considered a moderate-intensity statin. Therefore, it is not appropriate for clients who have very high cardiovascular risk. Nurses should instruct clients to take simvastatin in the evening because of its shorter half-life compared to rosuvastatin or atorvastatin. Simvastatin is metabolized to a great extent by CYP3A4, and drug interactions influence its concentrations in the body. The U.S. Food and Drug Administration (FDA) has issued a warning regarding dose limitations when simvastatin is used concomitantly with amiodarone. (See the FDA website for <link url="https://openstax.org/r/fdagovdrugsd">the most recent update to that warning</link>.) It is also a highly lipophilic statin. The high potential for drug interactions, combined with lipophilicity that may facilitate entry into muscle tissue, may confer greater risks for clients taking simvastatin rather than other options.</para>
+  <note class="safety-alert" id="note-00001">
+  <title>Simvastatin</title>
+  <para id="para-00015">Clients should not take simvastatin 80 mg because the risk of muscle-related adverse events is unacceptably high. More <link url="https://openstax.org/r/fdagovdrugsdr">information about restrictions, contraindications, and dose limitations</link> can be found online.</para>
+  </note>
+  </section>
+  <section id="sect-00007">
+  <title>Pravastatin</title>
+  <para id="para-00016"><term class="no-emphasis" id="term-00039">Pravastatin</term> is another statin medication. At its highest doses, it is considered a moderate-intensity statin. Thus, it is not considered appropriate for clients who have high cardiovascular risk. Pravastatin has a comparatively lower risk of drug interactions because it is not metabolized as highly by CYP enzymes, although some interactions are still possible. In addition, is hydrophilic; these two aspects may confer a lower risk for myopathy. Pravastatin is often considered a drug of choice in clients who take multiple medications and have an increased risk of drug interactions or those who cannot tolerate other statins due to adverse effects. However, it is not potent enough to be a first-line option for many clients.</para>
+  </section>
+  </section>
+  <section id="sect-00008">
+  <title>PCSK9 Inhibitors</title>
+  <para id="para-00017">The two <term class="no-emphasis" id="term-00040">PCSK9 inhibitors</term> currently available are alirocumab and <term class="no-emphasis" id="term-00042">evolocumab</term>. The drugs are relatively similar but vary in their dosing (<link target-id="table-00002" document="m00384"/>). Both are given as subcutaneous injections that can be self-administered by the client.</para>
+  <section id="sect-00009">
+  <title>Adverse Effects and Contraindications</title>
+  <para id="para-00018">Some of the most common and limiting adverse effects associated with statins are muscular in nature. Myalgia, or muscle pain, is common and occurred in 5%–10% of clients taking statin therapy in observational studies (Grundy et al., 2019). Myositis is rare and is characterized by muscular pain or weakness and elevated levels of the enzyme creatine kinase, indicating muscle breakdown. Rhabdomyolysis is the most severe muscular side effect of statin therapy. It is characterized by severe muscle breakdown and creatine kinase (CK) levels 10-fold greater than normal. The byproducts of muscle breakdown can cause kidney toxicity, which can be fatal. Some statins have a higher propensity to cause myopathy. This risk may be related to their drug interactions. If clients take a drug that raises the concentration of their statin medication in their blood, they may have a higher risk for adverse effects. The risk of myopathy may also be related to how hydrophilic or lipophilic the drug is. Statins that are more highly lipophilic can more easily enter the muscle and cause toxicity.</para>
+  <para id="para-00019">Statins are associated with new-onset diabetes, most commonly in clients who have other risk factors for diabetes, such as obesity or metabolic syndrome. Infrequently, statins have been associated with elevations in transaminase. Prior to 2012, liver function was frequently monitored in clients taking statin medications because of concerns for and association with liver failure. However, in 2012 <link url="https://openstax.org/r/fdagovdrugsdrugsafe">the FDA revised the recommendation</link> for monitoring liver function and now recommends that liver enzymes be tested before starting statin therapy and only as clinically indicated thereafter. This change was made because hepatic failure due to statin medications is rare, and monitoring liver enzymes does not detect or prevent serious liver injury.</para>
+  <para id="para-00020">Previously, statin medications carried a strong warning against use in <term class="no-emphasis" id="term-00043">pregnancy</term> and were considered absolutely contraindicated. In 2021, based on a review of evidence, the FDA downgraded this strong warning to a recommendation. The FDA now recommends that health care providers discontinue statin use in most pregnant clients but that they also should consider the individual client’s ongoing therapeutic needs.</para>
+  <para id="para-00021">The most common adverse effects of PCSK9 inhibitors are injection site reactions, which are usually mild. Hypersensitivity reactions are also possible. PCSK9 inhibitors are contraindicated in clients with a history of hypersensitivity to any drug within the class.</para>
+  <para id="para-00022">The most common adverse effects of <term class="no-emphasis" id="term-00044">inclisiran</term> are injection site reactions. It has no absolute contraindications.</para>
+  </section>
+  <section id="sect-00010">
+  <title>Nursing Implications</title>
+  <para id="para-00023">The nurse should do the following for clients taking statin medications:</para>
+  <list list-type="bulleted" id="list-00002">
+  <item>Teach clients about nonpharmacologic modalities for cardiovascular risk reduction and lipid lowering.</item>
+  <item>Obtain an accurate home medication list and check it for possible drug and food interactions.</item>
+  <item>Monitor for signs and symptoms of muscle-related adverse effects.</item>
+  <item>Ensure appropriate monitoring of LDL-cholesterol levels.</item>
+  <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item></list>
+  <para id="para-00024">The nurse should do the following for clients taking PCSK9 inhibitors:</para>
+  <list list-type="bulleted" id="list-00003">
+  <item>Teach clients about nonpharmacologic modalities for cardiovascular risk reduction and lipid lowering.</item>
+  <item>Teach clients how to administer their medications. </item>
+  <item>Monitor for hypersensitivity reactions and injection site reactions.</item>
+  <item>Instruct the client on the technique to self-administer the medication. </item>
+  <item>Ensure appropriate monitoring of LDL-cholesterol levels.</item>
+  <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item></list>
+  <para id="para-00025">The nurse should do the following for clients taking inclisiran:</para>
+  <list list-type="bulleted" id="list-00004">
+  <item>Administer the drug subcutaneously in the abdomen, upper arm, or thigh.</item>
+  <item>Avoid injecting into areas of active skin disease or injury.</item>
+  <item>Refrain from giving the medication if it is discolored or contains particulate matter. </item>
+  <item>Monitor for injection site reactions.</item>
+  <item>Provide client teaching regarding the drug and when to call the health care provider. See below for client teaching guidelines.</item>
+  </list> 
+  <note class="client-teaching" id="note-00002">
+  <para id="para-00026"><emphasis effect="bold">The client taking a statin drug should:</emphasis></para>
+  <list list-type="bulleted" id="list-00005">
+  <item>Maintain a heart-healthy diet.</item>
+  <item>Engage in activity as directed by their health care provider.</item>
+  <item>Take their statin medication in the evening if needed.</item>
+  <item>Report any muscular signs and symptoms to their health care provider, including muscle pain, muscle weakness, and very dark urine, which can indicate rhabdomyolysis.</item>
+  <item>Report any symptoms of liver failure (rare) to their provider: yellowish skin or eyes, nausea, vomiting, upper right abdominal pain, general feeling of unwellness.</item></list>
+  <para id="para-00027"><emphasis effect="bold">The client taking a PCSK9 inhibitor should:</emphasis></para>
+  <list list-type="bulleted" id="list-00006">
+  <item>Maintain a heart-healthy diet.</item>
+  <item>Engage in activity as directed by their health care provider.</item>
+  <item>Store the drug in the refrigerator in the original carton and protect it from light and freezing.</item>
+  <item>Discard the medication if it is left at room temperature for more than 30 days.</item>
+  <item>Allow the drug to warm to room temperature for 30–40 minutes prior to administration if refrigerated.</item>
+  <item>Avoid using medication that is cloudy, is discolored, or contains particles.</item>
+  <item>Administer into areas of the thigh, abdomen, or upper arm that are not tender, bruised, red, or indurated.</item>
+  <item>Rotate injection sites for each dose.</item>
+  <item>If administering a large dose, divide it into two injections and give them consecutively at two different sites.</item>
+  </list>
+  <para id="para-00028"><emphasis effect="bold">The client taking inclisiran should:</emphasis></para>
+  <list list-type="bulleted" id="list-00007">
+  <item>Make and keep appointments to have the drug administered by a health care professional.</item></list>
+  </note>
+  </section>
+  </section>
+  </content>
+  <glossary>
+  <definition id="def-00001"><term>pleiotropic effects</term> <meaning>additional beneficial effects of statin medications unrelated to their lipid-lowering effects</meaning></definition>
   </glossary>
-</document>
+  </document>
