@@ -105,11 +105,7 @@
         <section id="sect-00013">
         <title>COX-2 Inhibitors</title>
         <para id="para-00019"><term class="no-emphasis" id="term-00014">COX-2 inhibitors</term> are a specific class of NSAIDs that selectively target and inhibit the cyclooxygenase-2 (COX-2) enzyme. This class of drugs was developed to provide pain relief and anti-inflammatory effects while minimizing some of the gastrointestinal side effects associated with traditional non-selective NSAIDs, which inhibit both COX-1 and COX-2 enzymes. Celecoxib is the only COX-2 inhibitor on the market in the United States. See <link target-id="table-00002" document="m00243"/> for additional information.</para>
-        <note class="black-box" id="note-00001">
-            <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
-        <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
-        <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Older clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
-        </note>
+        
         <para id="para-00023"><link target-id="table-00001" document="m00243"/> lists common nonsteroidal anti-inflammatory drugs and typical routes and dosing for adult clients.</para>
               <table class="vertically-tight" id="table-00001">
              <tgroup cols="2">
@@ -182,7 +178,7 @@
         </tgroup>
         <caption><emphasis effect="bold">Drug Emphasis Table: Nonsteroidal Anti-inflammatory Drugs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
-        </section>
+                </section>
         <section id="sect-00014">
         <title>Adverse Effects and Contraindications</title>
         <para id="para-00024">Although NSAIDs are generally well-tolerated, they can have adverse effects and contraindications that clients should be aware of. It is important to note that the severity and occurrence of adverse effects can vary from person to person, and not everyone will experience all of the listed adverse effects. Common adverse effects of NSAIDs include gastrointestinal issues (stomach pain, heartburn, indigestion, nausea, GI bleeding), headache, dizziness, fluid retention, high blood pressure, renal and liver impairment, and an increased risk of cardiovascular events such as heart attack and stroke.</para>
@@ -243,8 +239,13 @@
         </row>
         </tbody>
         </tgroup>
-        <caption><emphasis effect="bold">Drug Prototype: Celecoxib</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        <caption><emphasis effect="bold">Drug Prototype Table: Celecoxib</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
+        <note class="black-box" id="note-00001">
+            <para id="para-00020"><emphasis effect="bold">NSAIDs</emphasis></para>
+        <para id="para-00021">NSAIDs increase the risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.</para>
+        <para id="para-00022">NSAIDs also increased the risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Older clients and clients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.</para>
+        </note>
         </section>
         </section>
         <section id="sect-00015">
