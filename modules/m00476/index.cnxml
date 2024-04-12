@@ -21,8 +21,8 @@
 <para id="para-00002">Hormonal drugs are derived from natural sources or manufactured to mimic the body’s hormones. Hormonal drugs can be used for numerous conditions from contraception to menopause. They can replace the body’s normal hormones when insufficient amounts are produced. They can also simulate or produce a state that is desired for a specific reason. Contraception is an example in which hormonal drugs are used to create an environment that is not conducive to fertilization and implantation of an egg in the uterus.</para>
 <section id="sect-00004">
 <title>Estrogens</title>
-<para id="para-00003">Estrogen is produced in the body in four types: estrone (E1), estradiol (E2), estriol (E3), and estetrol (E4) (Hariri &amp; Rehman, 2023). Indications for the use of estrogen include <term id="term-00001">hormone replacement therapy (HRT)</term> during menopause to relieve signs and symptoms such as vaginal dryness, hot flashes, mood swings, and painful intercourse. One type of estrogen, <term id="term-00002">estradiol</term>, can also be used as HRT for hypogonadism and ovarian failure (medical or physiological). Estradiol is available in a multitude of types and combinations, and dosages vary with the indication and use, the administration method, and its combined form (DailyMed, <emphasis effect="italics">Estradiol</emphasis>, 2021; Hariri &amp; Rahman, 2023).</para>
-<para id="para-00004"><term class="no-emphasis" id="term-00003">Estrogens</term> are administered in several ways. If administered orally, they are absorbed well from the gastrointestinal tract, metabolized by the liver, and excreted in urine. Depending on the dose, estrogens can inhibit or promote ovulation. Other positive effects include preservation of calcium and phosphorus and stimulation of bone growth.</para>
+<para id="para-00003">Estrogen is produced in the body in four types: estrone (E1), estradiol (E2), estriol (E3), and estetrol (E4) (Hariri &amp; Rehman, 2023). Indications for the use of estrogen include <term id="term-00001">hormone replacement therapy</term> (HRT) during menopause to relieve signs and symptoms such as vaginal dryness, hot flashes, mood swings, and painful intercourse. One type of estrogen, <term id="term-00002">estradiol</term>, can also be used as HRT for hypogonadism and ovarian failure (medical or physiological). Estradiol is available in a multitude of types and combinations, and dosages vary with the indication and use, the administration method, and its combined form (DailyMed, <emphasis effect="italics">Estradiol</emphasis>, 2021; Hariri &amp; Rahman, 2023).</para>
+<para id="para-00004"><term class="no-emphasis" id="term-00003">Estrogen</term>s are administered in several ways. If administered orally, they are absorbed well from the gastrointestinal tract, metabolized by the liver, and excreted in urine. Depending on the dose, estrogens can inhibit or promote ovulation. Other positive effects include preservation of calcium and phosphorus and stimulation of bone growth.</para>
 <para id="para-00005"><link target-id="table-00001" document="m00476"/> lists two forms of <term class="no-emphasis" id="term-00004">estrogen therapy</term> that are synthetic but identical to the body’s natural hormone and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
@@ -37,7 +37,7 @@
 <tbody>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00005">Estradiol</term><newline/>
-(<term class="no-emphasis" id="term-00006">Estrace, Divigel, Estraderm Transdermal</term>)</entry>
+(<term class="no-emphasis" id="term-00006">Estrace</term>, <term class="no-emphasis" id="term-00081">Divigel</term>, <term class="no-emphasis" id="term-00082">Estraderm Transdermal</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">For postmenopausal symptoms:</emphasis><newline/>
 <emphasis effect="italics">Oral:</emphasis> Initial dose: 0.5–2 mg orally once daily. Adjust dose as necessary to control symptoms, using lowest effective dose.<newline/>
 <emphasis effect="italics">Transdermal extended release (ER):</emphasis> Initial dose: 0.0375–0.05 mg/24 hours applied topically twice weekly. Maintenance dose: 0.025–0.1 mg/24 hours applied topically twice weekly.<newline/>
@@ -49,7 +49,7 @@ Estradiol valerate (Delestrogen): 10–20 mg intramuscularly every 4 weeks.</ent
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00007">Estropipate</term><newline/>
-(<term class="no-emphasis" id="term-00008">Improvera, Ortho-Est</term>)</entry>
+(<term class="no-emphasis" id="term-00008">Improvera</term>, <term class="no-emphasis" id="term-00083">Ortho-Est</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">For menopause:</emphasis><newline/>
 0.75–6 mg orally daily.<newline/>
 <emphasis effect="italics">For female hypogonadism/primary ovarian failure:</emphasis><newline/>
@@ -131,7 +131,7 @@ Pregnancy<newline/>
 Estrogen-dependent neoplasia<newline/>
 Known anaphylactic reaction, angioedema, hypersensitivity<newline/>
 Hepatic impairment or disease<newline/>
-Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders<newline/>
+Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders<newline count="2"/>
 Caution:<newline count="2"/>
 Older than 35 years<newline/>
 Smoking</entry>
@@ -176,7 +176,7 @@ Smoking</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Medroxyprogesterone</term><newline/>
-(<term class="no-emphasis" id="term-00039">DepoProvera</term>, <term class="no-emphasis" id="term-00041">Provera</term>)</entry>
+(<term class="no-emphasis" id="term-00039">Depo-Provera</term>, <term class="no-emphasis" id="term-00041">Provera</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Intramuscular:</emphasis> 150 mg/mL every 3 months.<newline/>
 <emphasis effect="italics">Subcutaneous:</emphasis> 104 mg/0.65 mL every 3 months.</entry>
 </row>
@@ -261,7 +261,7 @@ Endometriosis<newline/>
 Undiagnosed uterine bleeding<newline/>
 Cardiac/renal/liver disease<newline/>
 Hormone-sensitive cancers<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Precautions</emphasis></span><newline/>
+Caution:<newline/>
 Any condition that can be affected by fluid retention (migraine headache, cardiac/renal disease, seizure disorder)<newline/>
 Diabetes<newline/>
 Hyperlipidemia<newline/>
@@ -342,7 +342,7 @@ Clinical depression</entry>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><emphasis effect="bold"><span class="blue-text">Triphasics</span></emphasis></entry>
 </row>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00035">Desogestrel ethinyl estradiol</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00035">Desogestrel/ethinyl estradiol</term><newline/>
 (<term class="no-emphasis" id="term-00036">Mircette</term>)</entry>
 <entry valign="top" align="left">Days 1–21: 0.02 mg ethinyl estradiol/0.15 mg desogestrel (21 tablets).<newline/>
 Day 22–23: Inactive tablets (2 tablets).<newline/>
@@ -352,7 +352,7 @@ Day 24–28: 0.01 mg ethinyl estradiol (5 tablets).</entry>
 </tgroup>
 <caption><emphasis effect="bold">Drug Emphasis Table: COCs</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-<para id="para-00035"><term id="term-00037">Progestin-only contraceptives</term> are used when estrogen is not appropriate for the client’s situation. For instance, the client may have significant risk factors such as obesity, smoking, hypertension, and age over 35 years. These are also commonly used by clients who are breastfeeding, as they have less effect on the milk supply than oral contraceptives containing estrogen. Medroxyprogesterone, norethindrone, and levonorgestrel are progestin-only contraceptives. The injectable contraceptive medroxyprogesterone is administered intramuscularly or subcutaneously (Britton et al., 2020; Casey, 2022; Cooper et al., 2020).</para>
+<para id="para-00035"><term id="term-00037">Progestin-only contraceptives</term> are used when estrogen is not appropriate for the client’s situation. For instance, the client may have significant risk factors such as obesity, smoking, hypertension, and age over 35 years. These are also commonly used by clients who are breastfeeding, as they have less effect on the breast milk supply than oral contraceptives containing estrogen. Medroxyprogesterone, norethindrone, and levonorgestrel are progestin-only contraceptives. The injectable contraceptive medroxyprogesterone is administered intramuscularly or subcutaneously (Britton et al., 2020; Casey, 2022; Cooper et al., 2020).</para>
 <para id="para-00036"><link target-id="table-00006" document="m00476"/> lists common progestin-only contraceptives and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight" id="table-00006">
 <tgroup cols="2">
@@ -514,7 +514,7 @@ None</para>
 <para id="para-00059">The oral and transdermal methods can be initiated using a first-day start method, a quick start method, or a Sunday start method. All are equally effective. The <term id="term-00055">first-day start method</term> means the client starts the contraceptive on day 1 of their menstrual cycle and continues as directed. The <term id="term-00056">quick start method</term> means that the client starts the contraceptive immediately, regardless of the timing of their menstrual period. This is week one. The individual continues to take the pills or apply the patch as directed. One advantage of the quick start method is that the client can begin taking the medication the day they receive the medication. The <term id="term-00057">Sunday start method</term> means the client will start using the contraceptive on the first Sunday following the start date of their period. Then the client continues to take the pills or apply the patch as directed. A disadvantage of the Sunday start method is that clients may forget to start on the correct date and then must wait until after their next period to begin taking the medication (Britton et al., 2020; Casey, 2022; Cooper et al., 2020).</para>
 <note class="link-to-learning" id="note-00007">
 <title>How to Provide Quality Counseling for Contraception</title>
-<para id="para-00060">This position statement from <term class="no-emphasis" id="term-00058">American College of Obstetricians and Gynecologists</term> provides information about <link url="https://openstax.org/r/acog">patient-centered contraceptive counseling</link>. It highlights the importance of recognizing health disparities and bias that can occur when counseling clients on contraceptive use and recommends a shared decision-making approach through client-centered contraceptive counseling.</para>
+<para id="para-00060">This position statement from <term class="no-emphasis" id="term-00058">American College of Obstetricians and Gynecologists</term> provides information about <link url="https://openstax.org/r/acog">client-centered contraceptive counseling</link>. It highlights the importance of recognizing health disparities and bias that can occur when counseling clients on contraceptive use and recommends a shared decision-making approach through client-centered contraceptive counseling.</para>
 </note>
 </section>
 </section>
@@ -548,7 +548,7 @@ None</para>
 0.25 mg subcutaneously on either stimulation day 5 (morning or evening) or day 6 (morning) and continued daily until the day of human chorionic gonadotropin (hCG) administration.</entry>
 </row>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00064">Human Chorionic Gonadotropin (hCG)</term><newline/> (<term class="no-emphasis" id="term-00080">Ovidrel</term>)</entry>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00064">Human chorionic gonadotropin (hCG)</term><newline/> (<term class="no-emphasis" id="term-00080">Ovidrel</term>)</entry>
 <entry valign="top" align="left">5000–10,000 USP (U.S.) units intramuscularly 1 day following the last dose of menotropin. 250 mcg subcutaneously 1 day following the last dose of the follicle-stimulating agent.</entry>
 </row>
 <row>

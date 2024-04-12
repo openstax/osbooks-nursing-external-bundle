@@ -36,7 +36,7 @@
 </thead>
 <tbody>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Spironolactone (Aldactone)</term></entry>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00002">Spironolactone</term> (<term class="no-emphasis" id="term-00009">Aldactone</term>)</entry>
 <entry valign="top" align="left"><emphasis effect="italics">Heart failure:</emphasis> 25–50 mg orally once daily.<newline/>
 <emphasis effect="italics">Hypertension:</emphasis> 25–100 mg orally once daily or in divided doses.<newline/>
 <emphasis effect="italics">Edema:</emphasis> 100 mg orally in single or divided doses of 25–200 mg daily.<newline/>
@@ -122,7 +122,7 @@ Addison’s disease</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype Table: Spironolactone</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)caption</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Spironolactone</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="safety-alert" id="note-00001">
 <title>Potassium-Sparing Diuretics</title>
@@ -162,11 +162,9 @@ Addison’s disease</entry>
 </note>
 <note class="black-box" id="note-00004">
 <para id="para-00018"><emphasis effect="bold">Potassium-Sparing Diuretics</emphasis></para>
-<list list-type="bulleted" id="list-00005">
-<item><emphasis effect="bold">Spironolactone</emphasis>, a potassium-sparing diuretic that also antagonizes aldosterone receptor sites, may cause the development of several tumor types when administered at high doses that exceed current recommendations.</item>
-<item><emphasis effect="bold">Amiloride</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide and ACE inhibitors.</item>
-<item><emphasis effect="bold">Triamterene</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide. This is more likely to develop in clients with renal impairment and diabetes.</item>
-</list>
+<para id="para-00019"><emphasis effect="bold">Spironolactone</emphasis>, a potassium-sparing diuretic that also antagonizes aldosterone receptor sites, may cause the development of several tumor types when administered at high doses that exceed current recommendations.</para>
+<para id="para-00020"><emphasis effect="bold">Amiloride</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide and ACE inhibitors.</para>
+<para id="para-00021"><emphasis effect="bold">Triamterene</emphasis>, a potassium-sparing diuretic, may cause hyperkalemia, either alone or when combined with hydrochlorothiazide. This is more likely to develop in clients with renal impairment and diabetes.</para>
 </note>
 </section>
 </content>
