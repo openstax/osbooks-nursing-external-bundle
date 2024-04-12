@@ -315,7 +315,7 @@
         <entry valign="top"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
         Rheumatoid arthritis<newline/>
         Psoriasis<newline/>
-        Acute lymphoblastic leukemia and non-Hodgkin lymphoma’s<newline count="2"/>
+        Acute lymphoblastic leukemia and non-Hodgkin lymphomas<newline count="2"/>
         <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
         Decreases inflammation<newline/>
         Suppresses the immune response</entry>
@@ -352,12 +352,12 @@
         Alcohol use<newline/>
         Preexisting bleeding disorders<newline/>
         Active infection<newline count="2"/>
-        Caution <newline/>
+        Caution:<newline/>
         May cause myelosuppression</entry>
         </row>
         </tbody>
         </tgroup>
-        <caption><emphasis effect="bold">Drug Prototype: Methotrexate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        <caption><emphasis effect="bold">Drug Prototype Table: Methotrexate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
         <note class="black-box" id="note-00002">
             <para id="para-00037"><emphasis effect="bold">Methotrexate and Gold Salts</emphasis></para>
@@ -442,7 +442,7 @@
         <emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
         Antiarrhythmics<newline/>
         Antiepileptics<newline/>
-        Methotrexatey<newline/>
+        Methotrexate<newline/>
         Digoxin<newline/>
         Cimetidine<newline/>
         Rifampin<newline/>
@@ -481,7 +481,7 @@
         </row>
         </tbody>
         </tgroup>
-        <caption><emphasis effect="bold">Drug Prototype: Hydroxychloroquine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        <caption><emphasis effect="bold">Drug Prototype Table: Hydroxychloroquine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
         </section>
         </section>
@@ -522,7 +522,7 @@
         <row>
         <entry valign="middle" align="center"><term class="no-emphasis" id="term-00053">Allopurinol</term><newline/>
         (<term class="no-emphasis" id="term-00054">Zyloprim</term>)</entry>
-        <entry valign="top" align="left"><emphasis effect="italics">For mild gout</emphasis>: 200–300 mg/day orally.<newline/>
+        <entry valign="top" align="left"><emphasis effect="italics">For mild gout:</emphasis> 200–300 mg/day orally.<newline/>
         <emphasis effect="italics">For moderately severe tophaceous gout: </emphasis>400–600 mg/day orally. </entry>
         </row>
         <row>
@@ -595,11 +595,10 @@
         </row>
         </tbody>
         </tgroup>
-        <caption><emphasis effect="bold">Drug Prototype: Colchicine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+        <caption><emphasis effect="bold">Drug Prototype Table: Colchicine</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
         </table>
         </section>
-        </section>
-        <section id="sect-00029">
+               <section id="sect-00029">
         <title>Nursing Implications</title>
         <para id="para-00060">The nurse should do the following for clients who are taking antigout drugs:</para>
         <list id="list-00006">
@@ -625,6 +624,7 @@
         <item>Eat grapefruit or drink grapefruit juice when taking colchicine, as this may impact the efficacy of the drug.</item>
         </list>
         </note>
+        </section>
         </section>
               <section class="chapter-summary" id="sect-00030">
         <para id="para-00063">This chapter provided a comprehensive understanding of the immune system and immunity, its significance in disease prevention, and the importance of vaccination. It explained the differences between natural and active acquired immunity as well as active and passive immunity. The chapter identified common diseases preventable through vaccination and emphasized the role of client education in promoting vaccine uptake for public health.</para>
