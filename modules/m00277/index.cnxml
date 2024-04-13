@@ -43,7 +43,7 @@
 <section id="sect-00008">
 <title>Varenicline</title>
 <para id="para-00009">Varenicline is a partial <term class="no-emphasis" id="term-00003">nicotine receptor agonist</term> that has a greater affinity for the receptor than nicotine itself. Just as buprenorphine partially activates opioid receptors to reduce withdrawal symptoms and prevent other opioids from working as well, varenicline possesses the same actions for nicotine. Nicotine is safe to use if the client relapses and begins using nicotine-containing products again. In fact, it is recommended that varenicline be initiated 1 week prior to the chosen quit date to ease the transition into nicotine abstinence.</para>
-<para id="para-00010"><link target-id="table-00001" document="m00277"/> lists common medications used to treat nicotine use disorder and typical routes and dosing for adult <term class="no-emphasis" id="term-00004">clients</term>.</para>
+<para id="para-00010"><link target-id="table-00001" document="m00277"/> lists common medications used to treat nicotine use disorder and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight full-width" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -78,12 +78,11 @@
 <caption><emphasis effect="bold">Drug Emphasis Table: Medications Used to Treat Nicotine Use Disorder</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
-</section>
 <section id="sect-00009">
 <title>Adverse Effects and Contraindications</title>
 <para id="para-00011">Bupropion should be used cautiously in clients with a history of seizures, as this can be worsened in the presence of bupropion. Bupropion, like other antidepressant medications, can increase risk for suicidal ideation, so it is important to educate the client to monitor for depressed mood and suicidal thoughts. Bupropion can also induce manic symptoms if the client has bipolar disorder. Bupropion should be avoided if the client is taking any other drugs that increase norepinephrine actions, such as selective norepinephrine reuptake inhibitors (SNRIs) (e.g., duloxetine, venlafaxine).</para>
 <para id="para-00012">Side effects of nicotine replacement products generally occur when using doses exceeding what the client was using in their previous choice of nicotine-containing product. Common adverse effects include headache, oral irritation, dyspepsia, and cough.</para>
-<para id="para-00013">Common adverse effects seen with varenicline include nausea, vomiting, and abnormal dreams. Varenicline should be used cautiously in clients with a history of depression and suicide, as it has been shown to increase these symptoms in some clients.</para>
+<para id="para-00013">Common adverse effects seen with varenicline include nausea, vomiting, and abnormal dreams. Varenicline should be used cautiously in clients with a history of depression and suicidal ideation or suicide attempts, as it has been shown to increase these symptoms in some clients.</para>
 <para id="para-00014"><link target-id="table-00002" document="m00277"/> is a drug prototype table for the medications used to treat nicotine use disorder featuring bupropion. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00002">
 <tgroup cols="2">
@@ -105,10 +104,10 @@ Smoking cessation<newline count="2"/>
 Lessens cravings during nicotine cessation
 </entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Interactions</emphasis></span><newline/>
-Clopidogrel (Plavix)<newline/>
-Carbamazepine (Tegretol)<newline/>
-Phenytoin (Dilantin)<newline/>
-Haloperidol (Haldol)<newline/>
+Clopidogrel<newline/>
+Carbamazepine<newline/>
+Phenytoin<newline/>
+Haloperidol<newline/>
 Monoamine oxidase inhibitors<newline/>
 Levodopa<newline/>
 Digoxin<newline count="2"/>
@@ -259,8 +258,9 @@ Duloxetine: 40 mg orally daily</para>
 </note>
 <note class="black-box" id="note-00005">
 <para id="para-00026"><emphasis effect="bold">Bupropion</emphasis></para>
-<para id="para-00027">Antidepressants, including bupropion, increase the risk of suicidal thoughts and behavior in <term class="no-emphasis" id="term-00012">children</term>, <term class="no-emphasis" id="term-00013">adolescents</term>, and <term class="no-emphasis" id="term-00014">young adults</term> up to and including 24 years of age in short-term trials. These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects between the ages of 25 and 64 years; there was a reduction in risk with antidepressant use in subjects ages 65 and <term class="no-emphasis" id="term-00015">older</term>.</para>
+<para id="para-00027">Antidepressants, including bupropion, increase the risk of suicidal thoughts and behavior in <term class="no-emphasis" id="term-00012">children</term>, <term class="no-emphasis" id="term-00013">adolescents</term>, and <term class="no-emphasis" id="term-00014">young adults</term> up to and including 24 years of age in short-term trials. These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects between the ages of 25 and 64 years; there was a reduction in risk with antidepressant use in subjects ages 65 and older.</para>
 </note>
+</section>
 </section>
 <section class="chapter-summary" id="sect-00011">
 <para id="para-00028">This chapter focused on defining the various aspects of substance use disorders and ways to manage three of the most common substance use disorders in the world today. Substance use and abuse were described in terms of the short-term effects of intoxication as well as more long-term effects such as physical dependence, tolerance, and withdrawal. Emphasis was placed on how the presence of things like tolerance and physical dependence does not always mean a client has a substance use disorder.</para>

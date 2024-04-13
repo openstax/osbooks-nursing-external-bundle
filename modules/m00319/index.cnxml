@@ -37,7 +37,7 @@
 <section id="sect-00005">
 <title>Heart Failure with Preserved Ejection Fraction</title>
 <para id="para-00007">Heart failure with preserved ejection fraction stems from muscle stiffness. As people age, muscles can become stiff and not move as well as they did in younger years. This also can happen to the left ventricle; the muscle tissue can become stiff, which does not allow for adequate ventricular opening. If the ventricles cannot open well, then they cannot fill well. If the ventricle cannot fill well, this decreases preload, which then decreases stroke volume.</para>
-<para id="para-00008">Recall that ejection fraction (EF) is the percentage of blood pumped from the heart with each beat (EF &#61; blood ejected from the left ventricle &#247; total volume of blood in the left ventricle at the end of diastole). In HFpEF, less blood fills the ventricle during diastole (thus there is lower total volume at the end of diastole/lower preload, the denominator in the above equation), and less blood is pumped out of the left ventricle (lower stroke volume and thus lower cardiac output, the numerator in the above equation). Therefore, both the denominator and numerator of the equation change proportionally and the ratio, or ejection fraction, remains the same despite cardiac output being lower. Hence the name heart failure with preserved ejection fraction. Because preload is considered part of diastole (or ventricular filling), this type of heart failure traditionally was referred to as <emphasis effect="italics">diastolic heart failure</emphasis>.</para>
+<para id="para-00008">Recall that ejection fraction (EF) is the percentage of blood pumped from the heart with each beat (EF is defined as blood ejected from the left ventricle divided by total volume of blood in the left ventricle at the end of diastole). In HFpEF, less blood fills the ventricle during diastole (thus there is lower total volume at the end of diastole/lower preload, the denominator in the above equation), and less blood is pumped out of the left ventricle (lower stroke volume and thus lower cardiac output, the numerator in the above equation). Therefore, both the denominator and numerator of the equation change proportionally and the ratio, or ejection fraction, remains the same despite cardiac output being lower. Hence the name heart failure with preserved ejection fraction. Because preload is considered part of diastole (or ventricular filling), this type of heart failure traditionally was referred to as <emphasis effect="italics">diastolic heart failure</emphasis>.</para>
 <para id="para-00009">The main treatment for HFpEF is control of hypertension and other comorbidities, if present. (Hypertension is discussed in more detail in <link document="m00313">Antihypertensive and Antianginal Drugs</link>.) Nearly all pharmacologic treatments for heart failure are specific to heart failure with reduced ejection fraction. The Pharmacologic Treatment of Heart Failure section will pertain to heart failure with reduced ejection fraction.</para>
 </section>
 </section>
@@ -82,10 +82,10 @@
 <colspec colnum="4" colname="c4" colwidth="1*"/>
 <thead>
 <row>
-<entry valign="top" align="left"><span class="blue-text">Stage A<newline/>At risk for heart failure</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Stage B<newline/>Pre–heart failure</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Stage C<newline/>Symptomatic heart failure</span></entry>
-<entry valign="top" align="left"><span class="blue-text">Stage D<newline/>Advanced heart failure</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Stage A<newline/>Risk for Heart Failure</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Stage B<newline/>Pre–heart Failure</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Stage C<newline/>Symptomatic Heart Failure</span></entry>
+<entry valign="top" align="left"><span class="blue-text">Stage D<newline/>Advanced Heart Failure</span></entry>
 </row>
 </thead>
 <tbody>
@@ -106,7 +106,7 @@
 </section>
 <section id="sect-00008">
 <title>Clinical Manifestations</title>
-<para id="para-00013">Heart failure often occurs after another disease process has damaged the cardiovascular system. The most common causes of HFrEF are coronary artery disease, acute myocardial infarction, and prolonged hypertension. The most common cause of HFpEF is aging. Therefore, heart failure is often a disease of <term class="no-emphasis" id="term-00011">older age</term>, though it is not exclusive to that age group. Symptoms associated with heart failure include shortness of breath, edema, exercise intolerance, and fatigue. Often people with heart failure have an increased heart rate due to the body’s compensatory mechanisms. Remember: <m:math><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SV</m:mi></m:math>. If stroke volume is decreased, then the body will compensate by increasing heart rate.</para>
+<para id="para-00013">Heart failure often occurs after another disease process has damaged the cardiovascular system. The most common causes of HFrEF are coronary artery disease, acute myocardial infarction, and prolonged hypertension. The most common cause of HFpEF is aging. Therefore, heart failure is often a disease of <term class="no-emphasis" id="term-00011">older clients</term>, though it is not exclusive to that age group. Symptoms associated with heart failure include shortness of breath, edema, exercise intolerance, and fatigue. Often people with heart failure have an increased heart rate due to the body’s compensatory mechanisms. Remember: <m:math><m:mi>CO</m:mi><m:mo>=</m:mo><m:mi>HR</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mi>SV</m:mi></m:math>. If stroke volume is decreased, then the body will compensate by increasing heart rate.</para>
 </section>
 <section id="sect-00009">
 <title>Nonpharmacologic Treatment of Heart Failure</title>

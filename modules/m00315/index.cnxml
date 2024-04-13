@@ -19,7 +19,7 @@
 <section id="sect-00003">
 <title>Anticoagulants Used as Blood Thinners</title>
 <para id="para-00002"><term id="term-00001">Anticoagulants</term> are commonly referred to as <emphasis effect="italics">blood thinners</emphasis>. They work in different parts of the coagulation cascade to decrease the propensity of the blood to form a clot. There are many types of anticoagulants that work in various ways and can be administered by intravenous, subcutaneous, or oral routes, depending on clients’ circumstances and needs. One important note is that anticoagulants do not dissolve existing clots. Instead, they prevent further clot formation and allow the body to naturally dissolve any existing clots over time. <term id="term-00002">Thrombolytics</term>, or drugs that dissolve existing clots, will be discussed later in this chapter.</para>
-<para id="para-00003">Many anticoagulants have a narrow therapeutic index, meaning that the dose must be individualized, monitored, and controlled to ensure that clients do not experience therapeutic failure (e.g., a clotting complication from their disease) or adverse events. Because of this, anticoagulants are classified as high-alert medications (Institute for Safe Medication Practices, 2018). High-alert medications often have specific nursing precautions during use. Many hospitals require manual independent double-checks and utilize automated alerts to ensure safe use. Additionally, extra monitoring is often required to ensure the drug levels are appropriate and the blood is not “too thin” (over-anticoagulated) or “too thick” (under-anticoagulated). The specific anticoagulant used and the clinical scenario determine which drug-specific monitoring may be required. Some of the monitoring parameters are listed here:</para>
+<para id="para-00003">Many anticoagulants have a narrow therapeutic index, meaning that the dose must be individualized, monitored, and controlled to ensure that clients do not experience therapeutic failure (e.g., a clotting complication from their disease) or adverse events. Because of this, anticoagulants are classified as high-alert medications (Institute for Safe Medication Practices, 2018). High-alert medications often have specific nursing precautions during use. Many hospitals require manual independent double-checks and utilize automated alerts to ensure safe use. Additionally, extra monitoring is often required to ensure the drug levels are appropriate and the blood is not “too thin” (over-anticoagulated) or “too thick” (under-anticoagulated). The specific anticoagulant used and the clinical scenario determine which drug-specific monitoring may be required. Some of the monitoring parameters are:</para>
 <list list-type="bulleted" id="list-00002">
 <item><term id="term-00003">Partial thromboplastin time (PTT)</term> <emphasis effect="bold">or activated partial thromboplastin time (aPTT)</emphasis>: A PTT is a laboratory test obtained via venous blood sample that measures how much time the blood takes to clot. A PTT of a non-anticoagulated client without a clotting disease is 25&#8211;35 seconds (Rountree &amp; Lopez, 2018). A higher PTT indicates that the blood is thinner, less likely to form a clot, and the client is more prone to bleeding. An aPTT is considered a more sensitive version of a PTT.</item>
 <item><term id="term-00004">International normalized ratio (INR)</term>: This is a laboratory test obtained via venous blood sample that provides another measurement of the time it takes for the blood to clot, calculated using the <term id="term-00005">prothrombin time (PT)</term>. The INR of an un-anticoagulated client without a clotting disease is 1. It should be noted that point-of-care machines are available for INR monitoring so that clients can obtain results in real time, either in a clinic or at home. A higher INR indicates that the blood is thinner and less likely to form a clot, and the client is more prone to bleeding.</item>
@@ -72,7 +72,7 @@
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">A Sample Heparin Dosing Protocol</emphasis> (Hirsh et al., 2001)</caption>
+<caption><emphasis effect="bold">A Sample Heparin Dosing Protocol</emphasis> (source: Hirsh et al., 2001)</caption>
 </table>
 <para id="para-00009">Heparin can also be monitored using the ACT, although less frequently. This is typically limited to monitoring during procedures and surgeries by a point-of-care device. It allows for quick fine-tuning of the heparin dosage in real time.</para>
 <para id="para-00010">If long-term anticoagulation is needed, an oral anticoagulant is usually started. The transition to oral anticoagulation depends on the agent being initiated. For example, warfarin takes several days to achieve therapeutic anticoagulation, so overlap with a parenteral agent (e.g., continuation of heparin or initiation of enoxaparin) is warranted until then. Other chronic agents may take action immediately; thus, heparin can be discontinued without overlap.</para>
@@ -140,7 +140,7 @@
 <tbody>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00016">Heparin</term></entry>
-<entry valign="top" align="left">Complicated and variable. Typical starting dose 18 units/kg/hour administered by continuous intravenous (IV) infusion, titrate to goal PTT or anti-Xa range. See <link target-id="table-00003" document="m00315"/> for sample heparin titration protocol. (Protocols are usually site specific and should be utilized accordingly.)<newline/>
+<entry valign="top" align="left">Complicated and variable. Typical starting dose 18 units/kg/h administered by continuous intravenous (IV) infusion, titrate to goal PTT or anti-Xa range. See <link target-id="table-00003" document="m00315"/> for sample heparin titration protocol. (Protocols are usually site specific and should be utilized accordingly.)<newline/>
 <emphasis effect="italics">Venous prophylaxis of thromboembolism in acutely ill medical clients:</emphasis> 5000 units subcutaneously every 8 hours.</entry>
 </row>
 <row>
@@ -150,7 +150,7 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00018">Bivalirudin</term><newline/>
 (<term class="no-emphasis" id="term-00019">Angiomax</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="italics">Treatment of heparin-induced thrombocytopenia (off-label):</emphasis> Starting dose 0.15–0.20 mg/kg/hour as a continuous IV infusion, titrate to PTT goal.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Treatment of heparin-induced thrombocytopenia (off-label):</emphasis> Starting dose 0.15–0.20 mg/kg/h as a continuous IV infusion, titrate to PTT goal.</entry>
 </row>
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Enoxaparin</term><newline/>
@@ -239,8 +239,8 @@ Complicated and variable. Dietary considerations for vitamin K content must be c
 </row>
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Indications</emphasis></span><newline/>
-Prophylaxis and treatment of venous thromboembolism and pulmonary embolism <newline count="2"/>
-Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement<newline count="2"/>
+Prophylaxis and treatment of venous thromboembolism and pulmonary embolism <newline/>
+Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement<newline/>
 Reduction in the risk of death, recurrent myocardial infarction (MI), and thromboembolic events such as stroke or systemic embolism after myocardial infarction <newline count="2"/>
 <span class="blue-text"><emphasis effect="bold">Therapeutic Effects</emphasis></span><newline/>
 Anticoagulates the blood; increases INR to “thin” the blood</entry>
@@ -313,12 +313,11 @@ Do not use as initial therapy in clients with acute HIT until after platelets re
 <para id="para-00044">Edoxaban should not be used in clients with creatinine clearance (CrCl) over 95 mL/min due to a higher rate of ischemic stroke in clients with atrial fibrillation. Another anticoagulant should be used.</para>
 </note>
 <note class="single-casestudy" id="note-00006">
-<title>Anticoagulants</title>
 <para id="para-00045">Read the following clinical scenario to answer the questions that follow.</para>
-<para id="para-00046">Thomas Schmidt, a 48-year-old male client, presents to the emergency department with reports of stabbing chest pain and is diagnosed with pulmonary embolism using computed tomography pulmonary angiography. Thomas is started on heparin. He is given an initial dose of 80 units/kg IV as a bolus, then started on a continuous infusion of 18 units/kg/hour.<newline count="2"/>
-<emphasis effect="bold">History:</emphasis><newline/>
+<para id="para-00046">Thomas Schmidt, a 48-year-old client, presents to the emergency department with reports of stabbing chest pain and is diagnosed with pulmonary embolism using computed tomography pulmonary angiography. Thomas is started on heparin. He is given an initial dose of 80 units/kg IV as a bolus, then started on a continuous infusion of 18 units/kg/hour.<newline count="2"/>
+<emphasis effect="bold">History</emphasis><newline/>
 Diabetes mellitus type 2<newline count="2"/>
-<emphasis effect="bold">Current medications:</emphasis><newline/>
+<emphasis effect="bold">Current Medications</emphasis><newline/>
 Metformin 500 mg orally daily</para>
 <table class="vertically-tight full-width" id="table-00004">
   <tgroup cols="3">
@@ -347,15 +346,15 @@ Metformin 500 mg orally daily</para>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Blood pressure:</emphasis></entry>
-<entry valign="top" align="left">125/85 mm Hg</entry>
+<entry valign="top" align="left">125/85&#160;mm&#160;Hg</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Heart rate:</emphasis></entry>
-<entry valign="top" align="left">90 beats/min</entry>
+<entry valign="top" align="left">90&#160;beats/min</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Oxygen saturation:</emphasis></entry>
-<entry valign="top" align="left">98% on room air</entry>
+<entry valign="top" align="left">98%&#160;on&#160;room&#160;air</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Height:</emphasis></entry>
@@ -363,7 +362,7 @@ Metformin 500 mg orally daily</para>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="italics">Weight:</emphasis></entry>
-<entry valign="top" align="left">253 lb</entry>
+<entry valign="top" align="left">253&#160;lb</entry>
 </row>
 </tbody>
 </tgroup>
