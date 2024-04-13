@@ -105,18 +105,18 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00020">Benzathine penicillin G</term><newline/>
 (<term class="no-emphasis" id="term-00021">Bicillin L-A</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Streptococcal pharyngitis (strep throat):</emphasis><newline/>
-<emphasis effect="italics">Adults</emphasis>: 1.2 million units intramuscularly once.<newline/>
-<emphasis effect="italics">Older children</emphasis>: 0.9 million units intramuscularly once.<newline/>
-<emphasis effect="italics">Children &lt;60 lb</emphasis>: 0.3–0.6 million units intramuscularly once.</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Streptococcal pharyngitis (strep throat):</emphasis><newline/>
+<emphasis effect="italics">Adults:</emphasis> 1.2 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Older children:</emphasis> 0.9 million units intramuscularly once.<newline/>
+<emphasis effect="italics">Children &lt;60 lb:</emphasis> 0.3–0.6 million units intramuscularly once.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Beta-Lactamase Inhibitor</emphasis></span></entry>
 </row>
 <row>
-<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Amoxicillin and clavulanate</term><newline/>
+<entry valign="middle" align="center"><term class="no-emphasis" id="term-00022">Amoxicillin-clavulanate</term><newline/>
 (<term class="no-emphasis" id="term-00023">Augmentin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Otitis media:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Otitis media:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 875 mg orally twice daily for 5–7 days.<newline/>
 <emphasis effect="italics">Children:</emphasis> 90 mg/kg/day orally, divided every 12 hours for 5–7 days.</entry>
 </row>
@@ -126,7 +126,7 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00024">Cephalexin</term><newline/>
 (<term class="no-emphasis" id="term-00025">Keflex</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Skin or soft tissue infection:</emphasis><newline/>
 <emphasis effect="italics">Adults and children &#8805;15 years:</emphasis> 250 mg capsule orally every 6 hours or 500 mg orally every 12 hours for 7–14 days. For more severe infections, up to 4 g daily in 2–4 equally divided oral doses.<newline/>
 <emphasis effect="italics">Children >1 year:</emphasis> 25–50 mg/kg in equally divided oral doses for 7–14 days. For ß-hemolytic streptococcal infections, at least 10 days is recommended. In severe infections, a total daily dose of 50–100 mg/kg may be administered in equally divided oral doses.</entry>
 </row>
@@ -136,7 +136,7 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00026">Azithromycin</term><newline/>
 (<term class="no-emphasis" id="term-00027">Zithromax</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Pneumonia, community acquired:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Pneumonia, community acquired:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 500 mg orally on day 1, then 250 mg once daily for 4 days.<newline/>
 <emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose orally on day 1, then 5 mg/kg/dose daily for 4 days.</entry>
 </row>
@@ -146,14 +146,14 @@
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00028">Vancomycin</term><newline/>
 (<term class="no-emphasis" id="term-00029">Vancocin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Bloodstream infection:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Bloodstream infection:</emphasis><newline/>
 Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
 <emphasis effect="italics">Adults:</emphasis> 2 g intravenously (IV) divided as either 500 mg every 6 hours or 1 g every 12 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
 <emphasis effect="italics">Children:</emphasis> 10 mg/kg/dose IV given every 6 hours. Each dose should be administered over a period of at least 60 minutes.<newline/>
-<emphasis effect="bold"><emphasis effect="italics">C. difficile</emphasis>–associated diarrhea:</emphasis><newline/>
+C. difficile–<emphasis effect="italics">associated diarrhea:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 125 mg orally 4 times daily for 10 days.<newline/>
 <emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days.<newline/> Maximum daily dose: 2 g.<newline/>
-<emphasis effect="bold">Staphylococcal enterocolitis:</emphasis><newline/>
+<emphasis effect="italics">Staphylococcal enterocolitis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 500–2000 mg orally in 3–4 divided doses for 7–10 days.<newline/>
 <emphasis effect="italics">Children:</emphasis> 40 mg/kg in 3–4 divided oral doses for 7–10 days.<newline/> Maximum daily dose: 2 g.</entry>
 </row>
@@ -163,7 +163,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00030">Linezolid</term><newline/>
 (<term class="no-emphasis" id="term-00031">Zyvox</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Skin or soft tissue infection:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Skin or soft tissue infection:</emphasis><newline/>
 <emphasis effect="italics">Adults and children &#8805;12 years:</emphasis> 600 mg orally or IV every 12 hours<newline/> for 10–14 days.<newline/>
 <emphasis effect="italics">Children &lt;12 years of age:</emphasis> 10 mg/kg IV or orally every 8 hours<newline/> for 10–14 days.</entry>
 </row>
@@ -173,9 +173,9 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00032">Clindamycin</term><newline/>
 (<term class="no-emphasis" id="term-00033">Cleocin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Osteomyelitis:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Osteomyelitis:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> Orally: Serious infections: 150–300 mg every 6 hours. More severe infections: 300–450 mg every 6 hours. Intramuscularly or IV: 600–1200 mg/day in 2–4 equal doses. For more severe infections: 1200–2700 mg/day in 2–4 equal doses.<newline/>
-<emphasis effect="italics">Children 1 month to 16 years</emphasis>: Orally: Serious infections: 8–16 mg/kg/day in 3–4 equal doses. More severe infections: 16–20 mg/kg/day in 3–4 equal doses. <emphasis effect="italics">Intramuscularly or IV:</emphasis> 20–40 mg/kg/day in 3–4 equal doses.</entry>
+<emphasis effect="italics">Children 1 month to 16 years:</emphasis> Orally: Serious infections: 8–16 mg/kg/day in 3–4 equal doses. More severe infections: 16–20 mg/kg/day in 3–4 equal doses. Intramuscularly or IV: 20–40 mg/kg/day in 3–4 equal doses.</entry>
 </row>
 <row>
 <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold">Tetracycline</emphasis></span></entry>
@@ -183,7 +183,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00034">Doxycycline</term><newline/>
 (<term class="no-emphasis" id="term-00035">Vibramycin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Rocky Mountain spotted fever:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Rocky Mountain spotted fever:</emphasis><newline/>
 <emphasis effect="italics">Adults and children &#8805;45 kg:</emphasis> 200 mg orally on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day. For more severe infections, 100 mg every 12 hours.<newline/>
 <emphasis effect="italics">Children &lt;45 kg:</emphasis> 2.2 mg/kg of body weight administered every 12 hours orally.</entry>
 </row>
@@ -193,7 +193,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Gentamicin</term><newline/>
 (<term class="no-emphasis" id="term-00037">Garamycin</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Gram-negative infection:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Gram-negative infection:</emphasis><newline/>
 Dosing is highly client dependent and requires drug serum monitoring for efficacy and safety.<newline/>
 <emphasis effect="italics">Adults (intramuscular/IV):</emphasis> 3 mg/kg/day in 3 equal doses administered at equal intervals.<newline/>
 <emphasis effect="italics">Children (intramuscular/IV):</emphasis> 6–7.5 mg/kg/day in 3 equal doses administered at equally divided intervals. Infusion should run 30–60 minutes.</entry>
@@ -204,7 +204,7 @@ Dosing is highly client dependent and requires drug serum monitoring for efficac
 <row>
 <entry valign="middle" align="center"><term class="no-emphasis" id="term-00038">Sulfamethoxazole and trimethoprim</term><newline/>
 (<term class="no-emphasis" id="term-00039">Bactrim</term>)</entry>
-<entry valign="top" align="left"><emphasis effect="bold">Urinary tract infection:</emphasis><newline/>
+<entry valign="top" align="left"><emphasis effect="italics">Urinary tract infection:</emphasis><newline/>
 <emphasis effect="italics">Adults:</emphasis> 1 double-strength tablet or 2 regular-strength tablets every 12 hours for 10–14 days.<newline/>
 <emphasis effect="italics">Children &#8805;2 months:</emphasis> 40 mg/kg sulfamethoxazole and 8 mg/kg trimethoprim per 24 hours, given in 2 doses every 12 hours for 10 days.</entry>
 </row>
@@ -314,7 +314,7 @@ Renal impairment
 </section>
 <section id="sect-00020">
 <title>Viruses and Antiviral Drugs</title>
-<para id="para-00040">Compared to bacteria, <term class="no-emphasis" id="term-00043">viruses</term> are simple microorganisms made up of single or double strands of DNA or RNA inside a cellular coating known as a capsid. Viruses are unique in that they are unable to replicate on their own. Instead, a virus will harness the host’s cellular mechanisms to make new copies of itself to then infect other cells. Most viral infections (e.g., adenoviruses, rhinoviruses) are minor and self-limited, meaning they rarely require drug therapy. More serious viral infections, including those caused by the hepatitis viruses, pose much more significant risks to clients and require specific antiviral therapy. Clients at risk for more serious viral infections include individuals at the extremes of age (i.e., the very young and the very <term class="no-emphasis" id="term-00045">old</term>) and those who are immunocompromised.</para>
+<para id="para-00040">Compared to bacteria, <term class="no-emphasis" id="term-00043">viruses</term> are simple microorganisms made up of single or double strands of DNA or RNA inside a cellular coating known as a capsid. Viruses are unique in that they are unable to replicate on their own. Instead, a virus will harness the host’s cellular mechanisms to make new copies of itself to then infect other cells. Most viral infections (e.g., adenoviruses, rhinoviruses) are minor and self-limited, meaning they rarely require drug therapy. More serious viral infections, including those caused by the hepatitis viruses, pose much more significant risks to clients and require specific antiviral therapy. Clients at risk for more serious viral infections include individuals at the extremes of age (i.e., the very young and the very old) and those who are immunocompromised.</para>
 <para id="para-00041">The following section covers the common <term class="no-emphasis" id="term-00046">antiviral drugs</term> used to treat a variety of viral infections, including those caused by hepatitis, herpes, and influenza viruses. The mechanisms of action, drug interactions, adverse effects, and indications are discussed, including special considerations for use.</para>
 <section id="sect-00021">
 <title>Hepatitis Antivirals</title>

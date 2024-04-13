@@ -71,7 +71,7 @@
 <row>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Class</emphasis></span><newline/>
 Centrally acting cholinergic blocker (anticholinergic)<newline count="2"/>
-<span class="blue-text"><emphasis effect="bold">Mechanism of Action:</emphasis></span><newline/>
+<span class="blue-text"><emphasis effect="bold">Mechanism of Action</emphasis></span><newline/>
 Exerts a direct inhibitory effect upon the parasympathetic nervous system by blocking muscarinic receptors in the striatum, thus preventing receptor stimulation from endogenous ACh or drugs that act as muscarinic agonists</entry>
 <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Drug Dosage</emphasis></span><newline/>
 <emphasis effect="italics">Tablets (EPS except tardive dyskinesia):</emphasis> 1–4 mg orally once or twice daily. In some clients, this will be adequate; others may require more or less.<newline/>
@@ -126,7 +126,7 @@ Myasthenia gravis</entry>
 <caption><emphasis effect="bold">Drug Prototype Table: Benztropine Mesylate</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="safety-alert" id="note-00002">
-<title><term class="no-emphasis" id="term-00011">American Geriatrics Society Beers Criteria</term>®</title>
+<title><term class="no-emphasis" id="term-00011">American Geriatrics Society Beers Criteria</term><sup>®</sup></title>
 <para id="para-00016">Anticholinergic drugs are designated as potentially inappropriate for use in adults 65 years and older because <term class="no-emphasis" id="term-00012">older adults</term> are very sensitive to the adverse effects like orthostatic hypotension, urinary retention, constipation, and tachycardia. Sedation, confusion, and blurred vision are risk factors for falls.</para>
 <para id="para-00017">(Source: <term class="no-emphasis" id="term-00013">American Geriatrics Society</term>, 2023)</para>
 </note>
@@ -298,12 +298,12 @@ Narrow-angle glaucoma
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype: Carbidopa/Levodopa</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Carbidopa/Levodopa</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 <note class="safety-alert" id="note-00004">
 <title>Similarly Named Drugs</title>
 <para id="para-00041">Do not confuse <term class="no-emphasis" id="term-00028">Sinemet</term> (<term class="no-emphasis" id="term-00029">dopaminergic</term>) with <term class="no-emphasis" id="term-00030">Janumet</term> (<term class="no-emphasis" id="term-00031">antidiabetic</term>).</para>
-<para id="para-00042">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+<para id="para-00042">(Source: ISMP, 2023)</para>
 </note>
 <note class="clinical-tip" id="note-00005">
 <title>Combination Drug (Stalevo)</title>
@@ -358,7 +358,7 @@ Narrow-angle glaucoma
 </section>
 <section id="sect-00011">
 <title>Dopamine Agonists</title> 
-<para id="para-00048"><term class="no-emphasis" id="term-00036">Dopamine agonists</term> are first-line drugs in the treatment of mild to moderate PD. These drugs mimic the role of dopamine in the brain. Their duration is longer than compared with levodopa. They are relatively selective for D2 receptors. Activating these receptors causes increased dopamine levels in the nigrostriatal pathway, which leads to smooth and coordinated movements. This classification is used as a monotherapy or in combination with levodopa. Initial therapy is associated with less risk of developing dyskinesias and motor fluctuations compared with clients started on levodopa. Dopamine agonists may delay the need to use levodopa in early PD and may decrease the dose of levodopa in advanced PD. When used on a long-term basis, they have a lower incidence of response failures. In addition, they can be used as an adjunct medication to supplement levodopa when further dopaminergic effect is needed or if complications of levodopa treatment arise, such as dyskinesias, “wearing off,” and motor fluctuations. These drugs will be ineffective in clients who do not improve with levodopa (American Parkinson Disease Association, 2014).</para>
+<para id="para-00048"><term class="no-emphasis" id="term-00036">Dopamine agonist</term>s are first-line drugs in the treatment of mild to moderate PD. These drugs mimic the role of dopamine in the brain. Their duration is longer than compared with levodopa. They are relatively selective for D2 receptors. Activating these receptors causes increased dopamine levels in the nigrostriatal pathway, which leads to smooth and coordinated movements. This classification is used as a monotherapy or in combination with levodopa. Initial therapy is associated with less risk of developing dyskinesias and motor fluctuations compared with clients started on levodopa. Dopamine agonists may delay the need to use levodopa in early PD and may decrease the dose of levodopa in advanced PD. When used on a long-term basis, they have a lower incidence of response failures. In addition, they can be used as an adjunct medication to supplement levodopa when further dopaminergic effect is needed or if complications of levodopa treatment arise, such as dyskinesias, “wearing off,” and motor fluctuations. These drugs will be ineffective in clients who do not improve with levodopa (American Parkinson Disease Association, 2014).</para>
 <para id="para-00049">Dopamine agonists are divided into ergot and nonergot derivatives. The <term class="no-emphasis" id="term-00037">ergot derivatives</term> are nonselective and block serotonergic and alpha-adrenergic receptors. Because of this, the ergots cause more cardiovascular concerns. The nonergot derivatives are selective for dopamine receptor subtypes. The <term class="no-emphasis" id="term-00038">nonergot derivatives</term> have similar mechanisms of actions, adverse effects, and interactions. This information can be found below. Any distinct changes are mentioned with the specific drug sections.</para>
 <list list-type="bulleted" id="list-00008">
 <item><emphasis effect="italics">Pramipexole:</emphasis> A nonergot dopamine agonist that selectively binds to dopamine-2 receptor subtypes, which activates CNS postsynaptic dopamine receptors in the striatum. This drug is mainly used as a monotherapy in the early stages of PD. As the disease progresses, it is used in combination with levodopa (DailyMed, <emphasis effect="italics">Pramipexole dihydrochloride,</emphasis> 2023).</item>
@@ -370,7 +370,7 @@ Narrow-angle glaucoma
 <note class="safety-alert" id="note-00007">
 <title>Similarly Named Drugs</title>
 <para id="para-00050">Do not confuse <term class="no-emphasis" id="term-00039">ropinirole</term> (<term class="no-emphasis" id="term-00040">dopamine agonist</term>) with <term class="no-emphasis" id="term-00041">risperidone</term> (<term class="no-emphasis" id="term-00042">antipsychotic</term>).</para>
-<para id="para-00051">(Source: https://www.ismp.org/recommendations/confused-drug-names-list )</para>
+<para id="para-00051">(Source: ISMP, 2023)</para>
 </note>
 <para id="para-00052"><link target-id="table-00005" document="m00261"/> lists common dopamine agonists and typical routes and dosing for adult clients.</para>
 <table class="vertically-tight full-width" id="table-00005">
@@ -470,7 +470,7 @@ Caution: <newline/>
 Adults >60 years of age<newline/>
 Falling asleep during ADLs<newline/>
 Symptomatic orthostatic hypotension<newline/>
-Impulse control/Compulsive behaviors<newline/>
+Impulse control/compulsive behaviors<newline/>
 Hallucinations and psychotic-like behavior<newline/>
 Dyskinesia<newline/>
 Postural deformity<newline/>
@@ -568,7 +568,7 @@ History of peripheral vascular disease
 <note class="safety-alert" id="note-00009">
 <title>Similarly Named Drugs</title>
 <para id="para-00065">Do not confuse <term class="no-emphasis" id="term-00061">selegiline</term> (MAO-B inhibitor) with <term class="no-emphasis" id="term-00062"><term class="no-emphasis" id="term-00063">Salagen</term></term> (<term class="no-emphasis" id="term-00064">saliva production stimulator</term>).</para>
-<para id="para-00066">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+<para id="para-00066">(Source: ISMP, 2023)</para>
 </note>
 <section id="sect-00015">
 <title>Adverse Effects and Contraindications</title>
@@ -628,7 +628,7 @@ Severe psychotic disorder</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype: Selegiline Hydrochloride</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Selegiline Hydrochloride</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 <section id="sect-00016">
@@ -811,7 +811,7 @@ Dyskinesias</entry>
 <note class="safety-alert" id="note-00013">
 <title>Similarly Named Drugs</title>
 <para id="para-00089">Do not confuse amantadine (dopamine antagonist) with <term class="no-emphasis" id="term-00076">amiodarone</term> (<term class="no-emphasis" id="term-00077">antiarrhythmic</term>).</para>
-<para id="para-00090">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+<para id="para-00090">(Source: ISMP, 2023)</para>
 </note>
 </section>
 <section id="sect-00022">
@@ -873,7 +873,7 @@ Renal impairment<newline/>
 Epilepsy<newline/>
 Heart failure/peripheral edema<newline/>
 Hepatic disease<newline/>
-History of suicide<newline/>
+History of suicidal ideation or suicie attempts<newline/>
 NMS<newline/>
 Melanoma<newline/>
 Impulse control/compulsive behaviors<newline/>
@@ -932,7 +932,7 @@ Benign prostatic hyperplasia<newline/>
 Atrial fibrillation<newline/>
 Osteoarthritis<newline/>
 Emphysema<newline/>
-Cataracts<newline/><newline count="2"/>
+Cataracts<newline count="2"/><newline count="2"/>
 <emphasis effect="bold">Current Medications</emphasis><newline/>
 Flomax 0.4 mg orally, once daily<newline/>
 Xarelto 2.5 mg orally, twice daily<newline/>
@@ -963,7 +963,7 @@ Advair Diskus 250 mg/50 mg, inhalation, twice daily</para>
 <item><emphasis effect="italics">Genitourinary:</emphasis> Difficulty starting urinary stream, weak flow, and dribbling afterward. Mild suprapubic distention.</item>
 <item><emphasis effect="italics">Musculoskeletal:</emphasis> Stooped posture while sitting. Gait unsteady with shuffling, slow steps, and reduced arm swing. Increased muscle tone with cogwheel rigidity in upper extremities.</item>
 <item><emphasis effect="italics">Neurological:</emphasis> Resting tremor in right hand. Flat affect.</item>
-<item><emphasis effect="italics">Integumentary:</emphasis> Skin intact; color consistent with ethnicity.</item>
+<item><emphasis effect="italics">Integumentary:</emphasis> Skin intact.</item>
 </list></entry>
 </row>
 <row>

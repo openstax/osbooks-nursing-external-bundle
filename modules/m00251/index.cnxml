@@ -91,32 +91,52 @@
     </note>
     <para id="para-00009">Chemotherapy may be given by different routes, depending on the cancer location. When cancer develops in a body cavity or in the brain or spinal column, treatment may require the use of special routes of administration to overcome the blood-brain barrier or to increase effectiveness by placing drug therapy more directly at the tumor site. <link target-id="table-00002" document="m00251"/> describes the different methods of <term class="no-emphasis" id="term-00010">chemotherapy administration</term>.</para>
     <table class="vertically-tight full-width" id="table-00002">
-    <tgroup cols="1">
-    <colspec colnum="1" colname="c1" colwidth="1*"/>
-    <thead>
-    <row>
-    <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemotherapy Administration</emphasis></span></entry>
-    </row>
-    </thead>
-    <tbody>
-    <row>
-    <entry valign="top" align="left">
-    <list list-type="bulleted" id="list-00002">
-    <item><emphasis effect="italics">Oral:</emphasis> Tablets, capsules, or liquids that are swallowed</item>
-    <item><emphasis effect="italics">Intravenous:</emphasis> Liquid preparations administered into a vein via peripheral or central catheters</item>
-    <item><emphasis effect="italics">Injection:</emphasis> Liquid preparations administered via intramuscular or subcutaneous injections</item>
-    <item><emphasis effect="italics">Intrathecal:</emphasis> Injected by syringe or catheter directly into the brain or spinal cord</item>
-    <item><emphasis effect="italics">Intraperitoneal:</emphasis> Injected or infused via catheter into the peritoneal cavity</item>
-    <item><emphasis effect="italics">Intracavitary:</emphasis> Injected or infused via catheter into a body cavity such as the bladder</item>
-    <item><emphasis effect="italics">Intraarterial:</emphasis> Injected directly into an artery flowing to tumor sites</item>
-    <item><emphasis effect="italics">Topical:</emphasis> Applied directly to the skin or tumor site</item>
-    </list>
-    </entry>
-    </row>
-    </tbody>
-    </tgroup>
-    <caption><emphasis effect="bold">Routes of Chemotherapy Administration</emphasis></caption>
-    </table>
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="1" colname="c2" colwidth="2*"/>
+      <thead>
+      <row>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemotherapy Administration</emphasis></span></entry>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
+      </row>
+      </thead>
+      <tbody>
+      <row>
+      <entry valign="top" align="left">Oral</entry>
+      <entry valign="top" align="left">Tablets, capsules, or liquids that are swallowed</entry>
+      </row>
+      <row>                          
+      <entry valign="top" align="left">Intravenous</entry>
+      <entry valign="top" align="left">Liquid preparations administered into a vein via peripheral or central catheters</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Injection</entry>
+      <entry valign="top" align="left">Liquid preparations administered via intramuscular or subcutaneous injections</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Intrathecal</entry>
+      <entry valign="top" align="left">Injected by syringe or catheter directly into the brain or spinal cord</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Intraperitoneal</entry>
+      <entry valign="top" align="left">Injected or infused via catheter into the peritoneal cavity</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Intracavitary</entry>
+      <entry valign="top" align="left">Injected or infused via catheter into a body cavity such as the bladder</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Intraarterial</entry>
+      <entry valign="top" align="left">Injected directly into an artery flowing to tumor sites</entry>
+      </row>
+      <row>
+      <entry valign="top" align="left">Topical</entry>
+      <entry valign="top" align="left">Applied directly to the skin or tumor site</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      <caption><emphasis effect="bold">Routes of Chemotherapy Administration</emphasis></caption>
+      </table>
     </section>
     <section id="sect-00007">
     <title>Types of Chemotherapy</title>
@@ -151,7 +171,7 @@
     <item>Clean cat litter boxes to decrease the risk of contact with bacteria or parasites.</item>
     </list>
     </note>
-    <para id="para-00016"><term id="term-00017">Neutropenia</term>, <term id="term-00018">leukopenia</term>, and <term id="term-00019">granulocytopenia</term> occur when the white cell indices (<term id="term-00020">neutrophils</term>, <term id="term-00021">leukocytes</term>, <term id="term-00022">granulocytes</term>) are decreased. This is typically defined as having an absolute neutrophil count less than 1.5 cells/mcL. When this occurs, the client may be prescribed prophylactic antibiotic therapy that may include broad-spectrum gram-positive, broad-spectrum gram-negative, and/or antifungal agents to assist in preventing sepsis. (See <link document="m00302">Anti-Infective Drugs</link>.) Clients with neutropenia present a fragile and complicated situation, especially in regard to nursing care and assessments. It is common for severely neutropenic clients to acquire infections, and even sepsis, with few clinical symptoms. Vigilant nursing assessment is a priority in preventing negative client outcomes. With low white blood cell counts, normal immune responses to infection may be absent. For example, a client who has developed a local infection at a central venous access site would normally display warmth, redness, and edema at the site. However, that same client, when experiencing neutropenia, would not exhibit these symptoms. During this time of decreased immunity, clients may also be treated with biologic colony stimulating agents such as filgrastim or pegfilgrastim. These drugs stimulate increases in stem cell production of white blood cells, accelerating a client’s recovery from white blood cell destruction.</para>
+    <para id="para-00016"><term id="term-00017">Neutropenia</term>, <term id="term-00018">leukopenia</term>, and <term id="term-00019">granulocytopenia</term> occur when the white cell indices (<term id="term-00020">neutrophils</term>, <term id="term-00021">leukocytes</term>, <term id="term-00022">granulocytes</term>) are decreased. This is typically defined as having an absolute neutrophil count less than 1.5 cells/mcL. When this occurs, the client may be prescribed prophylactic antibiotic therapy that may include broad-spectrum gram-positive, broad-spectrum gram-negative, and/or antifungal agents to assist in preventing sepsis. (See <link document="m00302">Anti-infective Drugs</link>.) Clients with neutropenia present a fragile and complicated situation, especially in regard to nursing care and assessments. It is common for severely neutropenic clients to acquire infections, and even sepsis, with few clinical symptoms. Vigilant nursing assessment is a priority in preventing negative client outcomes. With low white blood cell counts, normal immune responses to infection may be absent. For example, a client who has developed a local infection at a central venous access site would normally display warmth, redness, and edema at the site. However, that same client, when experiencing neutropenia, would not exhibit these symptoms. During this time of decreased immunity, clients may also be treated with biologic colony stimulating agents such as filgrastim or pegfilgrastim. These drugs stimulate increases in stem cell production of white blood cells, accelerating a client’s recovery from white blood cell destruction.</para>
     <note class="clinical-tip" id="note-00005">
     <title>Febrile Neutropenia</title>
     <para id="para-00017"><term id="term-00023">Febrile neutropenia</term> occurs when a client has an absolute neutrophil count that is less than 1.5 per microliter, accompanied by a body temperature above 100.4ºF. When it occurs, febrile neutropenia should become first priority for assessment and intervention. The health care provider should be called immediately. Typically, blood cultures will be obtained, and the client will begin empiric broad-spectrum antibiotics. Failure to recognize and treat febrile neutropenia may result in life-threatening sepsis.</para>
@@ -225,7 +245,7 @@
     <entry valign="middle" align="left"><emphasis effect="italics">Oral:</emphasis> 1–5 mg/kg once daily.<newline/>
     <emphasis effect="italics">Intravenous (IV) (monotherapy):</emphasis> 40–50 mg/kg given in divided doses over 2–3 days, or 10–15 mg/kg given every 7–10 days.<newline/>
     <emphasis effect="italics">IV (combination therapy):</emphasis> 3–5 mg/kg given twice weekly.<newline/>
-    <emphasis effect="italics">Note</emphasis>: Doses may be reported in grams versus milligrams.</entry>
+    <emphasis effect="italics">Note:</emphasis> Doses may be reported in grams versus milligrams.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00036">Chlorambucil</term><newline/>
@@ -258,9 +278,9 @@
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00047">Cisplatin</term></entry>
-    <entry valign="middle" align="left"><emphasis effect="italics">Advanced testicular cancer</emphasis>: 20 mg/m<sup>2</sup> IV daily for 5 days.<newline/>
+    <entry valign="middle" align="left"><emphasis effect="italics">Advanced testicular cancer:</emphasis> 20 mg/m<sup>2</sup> IV daily for 5 days.<newline/>
     <emphasis effect="italics">Advanced ovarian cancer:</emphasis> 75–100 mg/m<sup>2</sup> IV once every 3–4 weeks.<newline/>
-    <emphasis effect="italics">Advanced bladder cancer</emphasis>: 50–70 mg/m<sup>2</sup> IV once every 3–4 weeks.</entry>
+    <emphasis effect="italics">Advanced bladder cancer:</emphasis> 50–70 mg/m<sup>2</sup> IV once every 3–4 weeks.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00048">Carboplatin</term> <newline/>
@@ -277,8 +297,7 @@
     <caption><emphasis effect="bold">Drug Emphasis Table: Alkylating Agents</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
-    </section>
-    <section id="sect-00014">
+       <section id="sect-00014">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00035">Alkylating agents are some of the most toxic chemotherapies used in cancer treatment. One benefit of these toxicities is that drugs like busulfan can be used to eradicate bone-marrow production prior to stem-cell and bone-marrow transplants. This reduces recurrence of the primary disease after transplant. However, alkylating agents are known for the negative effects associated with administration of these drugs. Short-term side effects include myelosuppression, which usually occurs 6–10 days after administration, with recovery after 14–21 days. Myelosuppression resulting in neutropenia can result in severe infections and sepsis. <term id="term-00052">Mucositis</term>, nausea, and vomiting are side effects that affect the client’s overall nutritional status. Neurotoxicity and alopecia are also short-term side effects. Long-term (delayed) effects of alkylating agents include pulmonary fibrosis, infertility, and secondary malignancies (Amjad &amp; Kasi, 2020). These long-term effects may occur months after treatment or may develop many years later.</para>
     <para id="para-00036"><link target-id="table-00004" document="m00251"/> is a drug prototype table for alkylating agents featuring cyclophosphamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -296,10 +315,10 @@
     Causes crosslinking of DNA during mitosis to cause nucleic acid chain breakage resulting in cell destruction</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    <emphasis effect="italics">Oral:</emphasis> 1–5 mg/kg once daily. <newline count="2"/>
-    <emphasis effect="italics">Intravenous (IV) (monotherapy):</emphasis> 40–50 mg/kg given in divided doses over 2–3 days, or 10–15 mg/kg given every 7–10 days.<newline count="2"/>
-    <emphasis effect="italics">IV (combination therapy):</emphasis> 3–5 mg/kg given twice weekly.<newline count="2"/>
-    <emphasis effect="italics">Note</emphasis>: Doses may be reported in grams versus milligrams.</entry>
+    <emphasis effect="italics">Oral:</emphasis> 1–5 mg/kg once daily. <newline/>
+    <emphasis effect="italics">Intravenous (IV) (monotherapy):</emphasis> 40–50 mg/kg given in divided doses over 2–3 days, or 10–15 mg/kg given every 7–10 days.<newline/>
+    <emphasis effect="italics">IV (combination therapy):</emphasis> 3–5 mg/kg given twice weekly.<newline/>
+    <emphasis effect="italics">Note:</emphasis> Doses may be reported in grams versus milligrams.</entry>
     </row>
     <row>
     <entry valign="top">
@@ -390,6 +409,7 @@
     <para id="para-00047"><emphasis effect="bold">Oxaliplatin</emphasis> may cause anaphylactic-like reactions that may occur within minutes of administration.</para>
     </note>
     </section>
+    </section>
     <section id="sect-00016">
     <title>Antimetabolites</title>
     <para id="para-00048">Antimetabolite chemotherapies are a group of drugs that prevent cancer cell growth by imitating metabolites, which are substances necessary for tumor cell growth. Cancer cells use these substances, which, once inside the cell, prevent DNA replication. This results in cell death. Within this class, there are three types of metabolites that are inhibited: purines, pyrimidines, and folic acid. Each drug in this class specifically targets replacement of one of these substances. The most common drugs within this class are fluorouracil, fludarabine, gemcitabine, and methotrexate. Common side effects include nausea and vomiting, diarrhea, anorexia, stomatitis, alopecia, and myelosuppression. Antimetabolites are useful in treating leukemias, lymphomas, and cancers of the gastrointestinal and biliary tracts.</para>
@@ -423,7 +443,7 @@
     <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00058">Pyrimidine Antimetabolites</term></emphasis></span></entry>
     </row>
     <row>
-    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">5-Fluoroururacil</term><newline/>
+    <entry valign="middle" align="center"><term class="no-emphasis" id="term-00059">5-Fluorouracil</term><newline/>
     (5-FU)</entry>
     <entry valign="middle" align="left"><emphasis effect="italics">Colon/rectal adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400–3000 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
     <emphasis effect="italics">Pancreatic adenocarcinoma:</emphasis> 400 mg/m<sup>2</sup> IV bolus followed by 2400 mg/m<sup>2</sup> continuous infusion over 46 hours every 2 weeks.<newline/>
@@ -462,14 +482,13 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00072">Fludarabine</term><newline/>
     (<term class="no-emphasis" id="term-00073">Fludara</term>)</entry>
-    <entry valign="top" align="left">25 mg m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
+    <entry valign="top" align="left">25 mg/m<sup>2</sup> IV daily for 5 days, every 28 days.</entry>
     </row>
     </tbody>
     </tgroup>
     <caption><emphasis effect="bold">Drug Emphasis Table: Antimetabolite Agents</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
-    </section>
-    <section id="sect-00017">
+     <section id="sect-00017">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00050">Antimetabolites are associated with many adverse effects. Folate antimetabolites are associated with myelosuppression, mucositis, hepatotoxicity, nephrotoxicity, and cutaneous reactions. Pyrimidine antimetabolites cause mucositis and myelosuppression as well but are also associated with dose-limiting hand-foot syndrome and diarrhea. Contraindications for fluorouracil include clients with dihydropyridine dehydrogenase (DPD) deficiency, which may result in toxic levels of fluorouracil. This can lead to cardiac dysfunction, colitis, neutropenia, and encephalopathy. Uridine triacetate is used to treat toxicity in these clients. Cytarabine is associated with inflammation of the conjunctiva. Corticosteroid eye drops are used prophylactically to prevent this. Purine antimetabolites, in addition to causing myelosuppression, also decrease the CD4 lymphocyte count, resulting in immunosuppression and risk of opportunistic infections (Amjad &amp; Kasi, 2020).</para>
     <para id="para-00051"><link target-id="table-00006" document="m00251"/> is a drug prototype table for antimetabolites featuring fluorouracil. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -558,13 +577,12 @@
     </list>
     </note>
     <note class="black-box" id="note-00011">
-    <para id="para-00055"><emphasis effect="bold">Methotrexate</emphasis></para>
-    <para id="para-00056">Methotrexate causes embryo-fetal toxicity, hypersensitivity reactions, benzyl alcohol toxicity, and other serious adverse reactions.</para>
-    <para id="para-00057"><emphasis effect="bold">Capecitabine</emphasis></para>
-    <para id="para-00058">Capecitabine causes increased risk for bleeding when administered with coumarins such as warfarin.</para>
-    <para id="para-00059"><emphasis effect="bold">Fludarabine</emphasis></para>
-    <para id="para-00060">Fludarabine causes severe central nervous system toxicity, including blindness, coma, seizures, and death. Autoimmune syndromes including hemolytic anemia, thrombocytopenia, and hemophilia may occur with fludarabine administration. Concomitant use of deoxycoformycin (pentostatin) may cause fatal pulmonary toxicity.</para>
+    <para id="para-00055"><emphasis effect="bold">Antimetabolites</emphasis></para>
+    <para id="para-00056"><emphasis effect="bold">Methotrexate</emphasis> causes embryo-fetal toxicity, hypersensitivity reactions, benzyl alcohol toxicity, and other serious adverse reactions.</para>
+        <para id="para-00058"><emphasis effect="bold">Capecitabine</emphasis> causes increased risk for bleeding when administered with coumarins such as warfarin.</para>
+    <para id="para-00060"><emphasis effect="bold">Fludarabine</emphasis> causes severe central nervous system toxicity, including blindness, coma, seizures, and death. Autoimmune syndromes including hemolytic anemia, thrombocytopenia, and hemophilia may occur with fludarabine administration. Concomitant use of deoxycoformycin (pentostatin) may cause fatal pulmonary toxicity.</para>
     </note>
+    </section>
     </section>
     <section id="sect-00019">
     <title>Anthracyclines/Antitumor Antibiotics</title>
@@ -581,7 +599,7 @@
     </thead>
     <tbody>
     <row>
-      <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><term class="no-emphasis" id="term-00074">Anthracyclines/Antitumor Antibiotics</term></span></entry>
+      <entry valign="middle" align="center" namest="c1" nameend="c2"><span class="blue-text"><emphasis effect="bold"><term class="no-emphasis" id="term-00074">Anthracyclines/Antitumor Antibiotics</term></emphasis></span></entry>
         </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00075">Daunorubicin</term><newline/>
@@ -620,8 +638,7 @@
     </tgroup>
     <caption><emphasis effect="bold">Drug Prototype Table: Anthracyclines/Antitumor Antibiotics</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
-    </section>
-    <section id="sect-00020">
+        <section id="sect-00020">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00062">Anthracyclines and antitumor antibiotics are associated with very serious adverse effects. In general, the drugs cause significant myelosuppression, alopecia, and nausea and vomiting. Doxorubicin and daunorubicin are associated with both short- and long-term cardiotoxicity. These drugs are contraindicated in clients with preexisting cardiac disease when the left ventricular ejection fraction is less than 55%. Clients receiving doxorubicin are also limited to a lifetime cumulative dose of 550 mg/m<sup>2</sup>. Bleomycin administration requires vigilant monitoring for cumulative <term id="term-00088">pulmonary toxicity</term> and <term id="term-00089">fibrosis</term>. Doxorubicin and daunorubicin are vesicant drugs that cause severe necrosis if extravasation into tissues occurs.</para>
     <para id="para-00063"><link target-id="table-00008" document="m00251"/> is a drug prototype table for anthracycline agents featuring doxorubicin. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -719,10 +736,11 @@
     </list>
     </note>
     <note class="black-box" id="note-00016">
-      <para id="para-00089"><emphasis effect="bold">Doxorubicin &amp; Epirubicin</emphasis></para>
+      <para id="para-00089"><emphasis effect="bold">Doxorubicin and Epirubicin</emphasis></para>
       <para id="para-00090">Potentially fatal congestive heart failure can occur during or years after therapy. The probability is based on the total cumulative doses received. </para>
       <para id="para-00091">Secondary acute myelogenous leukemia (AML) or myelodysplastic syndrome (MDS) has been reported in clients taking these medications.</para>
       </note>
+    </section>
     </section>
     <section id="sect-00022">
     <title>Plant Alkaloids</title>
@@ -758,8 +776,7 @@
     </tgroup>
     <caption><emphasis effect="bold">Drug Emphasis Table: Plant Alkaloids</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
-    </section>
-    <section id="sect-00023">
+        <section id="sect-00023">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00069">Peripheral neuropathy is a common but serious adverse effect of plant alkaloids. Both motor and sensory functions are affected, and neuropathy can be severe enough to result in paralytic ileus. Myelosuppression is another adverse effect caused by plant alkaloids. These drugs are classified as irritants, which may cause significant irritation to the skin should extravasation occur.</para>
     <para id="para-00070"><link target-id="table-00010" document="m00251"/> is a drug prototype table for plant alkaloids featuring vincristine. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -859,6 +876,7 @@
     </list>
     </note>
     </section>
+    </section>
     <section id="sect-00025">
     <title>Taxanes</title>
     <para id="para-00074"><term class="no-emphasis" id="term-00097">Taxanes</term> are a group of chemotherapeutic agents that were developed from the bark of a yew tree. These are effective in the treatment of breast, ovarian, prostate, gastric, esophageal, pancreatic, and non-small cell lung cancers as well as Kaposi sarcoma. These agents are typically used in combination with other agents rather than as a monotherapy. Adverse reactions include, most notably, hypersensitivity reactions. For this reason, clients will be premedicated, usually with corticosteroids, but may also receive diphenhydramine and a histamine-2 receptor antagonist to prevent these reactions from occurring. Other adverse effects include hepatotoxicity, fluid retention, myelosuppression, alopecia, skin and nail changes, and nausea, vomiting, and diarrhea.</para>
@@ -888,8 +906,7 @@
     </tgroup>
     <caption><emphasis effect="bold">Drug Emphasis Table: Taxanes</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
-    </section>
-    <section id="sect-00026">
+       <section id="sect-00026">
     <title>Adverse Effects and Contraindications</title>
     <para id="para-00076">Taxanes are most known for the adverse effect of hypersensitivity reactions. A test dose and premedication with antihistamines and acetaminophen may be used prior administration. Myelosuppression may result in lowered levels of platelets and white blood cells. Taxanes are contraindicated in solid tumors with myelosuppression with neutrophil counts under 1500 cells/mm<sup>3</sup>. Peripheral neuropathy is also commonly associated with taxanes, resulting in pain and limited movement. Fatigue and arthralgias are also seen with these drugs. Cardiovascular changes including hypotension, bradycardia, hypertension, and electrocardiogram (ECG, EKG) changes may be noted (DailyMed, <emphasis effect="italics">Paclitaxel</emphasis>, 2023).</para>
     <para id="para-00077"><link target-id="table-00012" document="m00251"/> is a drug prototype table for taxanes featuring paclitaxel. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
@@ -994,6 +1011,7 @@
       <para id="para-00093">Docetaxel has been associated with fatalities among clients with abnormal liver function, who are receiving higher doses, with non-small cell carcinoma, or with a history of receiving platinum-based chemotherapy including cisplatin, carboplatin, and oxaliplatin.</para>
       </note>
     </section>
+    </section>
     <section id="sect-00028">
     <title>Common Drugs Used as Supportive Therapies for Clients Receiving Chemotherapy</title>
     <para id="para-00081">Because chemotherapy regimens are so complex, supportive care with other pharmacologic agents is usually required. Management of adverse effects is critical to safe and successful chemotherapy treatment. Myelosuppression and nausea and vomiting are most commonly managed with supportive therapies. Corticosteroids and biologic colony stimulating factors are frontline supportive therapies. <link target-id="table-00013" document="m00251"/> encompasses the most common supportive therapies that may be necessary when administering chemotherapy.</para>
@@ -1004,9 +1022,9 @@
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <thead>
     <row>
-    <entry valign="middle" align="center"><span class="blue-text">Classification/Drug</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">Routes and Dosages</span></entry>
-    <entry valign="middle" align="center"><span class="blue-text">Use</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Classification/Drug</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Routes and Dosages</span></entry>
+    <entry valign="middle" align="left"><span class="blue-text">Use</span></entry>
     </row>
     </thead>
     <tbody>

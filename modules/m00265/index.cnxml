@@ -90,7 +90,7 @@
 <title>Aspirin and Acetazolamide</title>
 <para id="para-00018">Caution is advised for client’s receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, and death have been reported.</para>
 </note>
-<para id="para-00019">The most common CAI prescribed for intracranial hypertension is <term class="no-emphasis" id="term-00017">acetazolamide</term> (Farzam &amp; Abdullah, 2022). <link target-id="table-00001" document="m00265"/> is a drug prototype table for CAIs featuring acetazolamide. It lists drug class, mechanism of action, adult dosages, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
+<para id="para-00019">The most common CAI prescribed for intracranial hypertension is <term class="no-emphasis" id="term-00017">acetazolamide</term> (Farzam &amp; Abdullah, 2022). <link target-id="table-00001" document="m00265"/> is a drug prototype table for CAIs featuring acetazolamide. It lists drug class, mechanism of action, adult dosage, indications, therapeutic effects, drug and food interactions, adverse effects, and contraindications.</para>
 <table class="vertically-tight" id="table-00001">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1" colwidth="1*"/>
@@ -103,7 +103,7 @@ Diuretic<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Blocks carbonic anhydrase on the luminal membrane and inside the proximal renal tubule, decreasing bicarbonate ion secretion and thereby reducing cerebrospinal fluid and increased intracranial pressure</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-Recommended dose is 500 mg 2 times daily (1 capsule in the morning and 1 capsule in the evening); may increase by 250 mg up to 4000 mg/day</entry>
+Recommended dose is 500 mg 2 times daily (1 capsule in the morning and 1 capsule in the evening); may increase by 250 mg up to 4000 mg/day.</entry>
 </row>
 <row>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Indications</span></emphasis><newline/>
@@ -142,7 +142,7 @@ Monitor closely in clients with hepatic and renal insufficiency and in those wit
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype: Acetazolamide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Acetazolamide</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
 </section>
 <section id="sect-00009">
@@ -161,12 +161,12 @@ Osmotic diuretic<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Mechanism of Action</span></emphasis><newline/>
 Causes osmosis from intracellular fluid (ICF) to extracellular fluid (ECF) by drawing water out of the brain parenchyma and into the intravascular space</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-The total dosage, concentration, and rate of administration depend on the age, weight, and condition of the client being treated, including fluid requirement, electrolyte balance, serum osmolality, urinary output, and concomitant therapy.<newline count="2"/>
-Monitor serum osmolarity.<newline count="2"/>
-<emphasis effect="italics">Reduction of Intracranial Pressure:</emphasis><newline/>
-Usually a maximum reduction in intracranial pressure in adults can be achieved with a dose of 0.25 g/kg/dose infused intravenously over 30 minutes, which may be repeated every 6–8 hours<newline count="2"/>
-<emphasis effect="italics">Reduction of Intraocular Pressure:</emphasis><newline/>
-The recommended dosage is 1.5–2 g/kg of a 20% solution (7.5–10 mL/kg) as a single dose infused intravenously over a period of at least 30 minutes.<newline count="2"/>
+The total dosage, concentration, and rate of administration depend on the age, weight, and condition of the client being treated, including fluid requirement, electrolyte balance, serum osmolality, urinary output, and concomitant therapy.<newline/>
+Monitor serum osmolarity.<newline/>
+<emphasis effect="italics">Reduction of intracranial pressure:</emphasis><newline/>
+Usually a maximum reduction in intracranial pressure in adults can be achieved with a dose of 0.25 g/kg/dose infused intravenously over 30 minutes, which may be repeated every 6–8 hours<newline/>
+<emphasis effect="italics">Reduction of intraocular pressure:</emphasis><newline/>
+The recommended dosage is 1.5–2 g/kg of a 20% solution (7.5–10 mL/kg) as a single dose infused intravenously over a period of at least 30 minutes.<newline/>
 When used preoperatively, administer 1–1 &#189; hours before surgery to achieve maximal reduction of intraocular pressure before the procedure.</entry>
 </row>
 <row>
@@ -175,7 +175,7 @@ To treat increased intracranial pressure and cerebral edema<newline/>
 To treat increased intraocular pressure<newline count="2"/>
 <emphasis effect="bold"><span class="blue-text">Therapeutic Effects</span></emphasis><newline/>
 Reduces intracranial pressure and cerebral edema<newline/>
-Decreased intraocular pressure</entry>
+Decreases intraocular pressure</entry>
 <entry valign="top" align="left"><emphasis effect="bold"><span class="blue-text">Drug Interactions</span></emphasis><newline/>
 Aminoglycosides<newline/>
 Cyclosporine<newline/>
@@ -204,13 +204,12 @@ Severe hypovolemia<newline/>
 Preexisting pulmonary edema<newline/>
 Active intracranial bleeding except during craniotomy<newline count="2"/>
 Caution:<newline/>
-Monitor closely in clients who have congestive heart failure as this drug may cause volume overload from fluid shift</entry>
+Monitor closely in clients who have congestive heart failure because this drug may cause volume overload from fluid shift</entry>
 </row>
 </tbody>
 </tgroup>
-<caption><emphasis effect="bold">Drug Prototype: Mannitol</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+<caption><emphasis effect="bold">Drug Prototype Table: Mannitol</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
 </table>
-</section>
 </section>
 <section id="sect-00010">
 <title>Nursing Implications</title>
@@ -234,6 +233,7 @@ Monitor closely in clients who have congestive heart failure as this drug may ca
 <item>Stop taking the drug unless directed by their health care provider, as this drug class may cause fluid shifts within the body resulting in shortness of breath, peripheral edema, and bradycardia.</item>
 </list>
 </note>
+</section>
 </section>
 <section class="chapter-summary" id="sect-00011">
 <para id="para-00026">This chapter provided an overview of epilepsy, migraine headaches, and intracranial emergencies. A brief pathophysiology was provided, as well as discussion on etiology, diagnostic testing, and clinical manifestations for each of the conditions.</para>

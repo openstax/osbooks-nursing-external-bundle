@@ -25,7 +25,7 @@
     <note class="safety-alert" id="note-00001">
     <title>Similarly Named Drugs</title>
     <para id="para-00004">Do not confuse <term class="no-emphasis" id="term-00003">Aricept</term> (AChE inhibitor) with <term class="no-emphasis" id="term-00004">Aciphex</term> (proton pump inhibitor).</para>
-    <para id="para-00005">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+    <para id="para-00005">(Source: Institute for Safe Medication Practices [ISMP], 2023)</para>
     </note>
     </section>
     <section id="sect-00005">
@@ -80,7 +80,7 @@
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00009">Donepezil transdermal</term><newline/>
     (<term class="no-emphasis" id="term-00010">Adlarity</term>)</entry>
-    <entry valign="middle" align="left">5–10 mg, administered on a weekly basis.</entry>
+    <entry valign="top" align="left">5–10 mg, administered on a weekly basis.</entry>
     </row>
     <row>
     <entry valign="middle" align="center"><term class="no-emphasis" id="term-00011">Galantamine</term><newline/>
@@ -116,9 +116,9 @@
     Causes reversible inhibition of AChE</entry>
     <entry valign="top">
     <emphasis effect="bold"><span class="blue-text">Drug Dosage</span></emphasis><newline/>
-    <emphasis effect="bold">Mild to moderate AD:</emphasis><newline/>
+    <emphasis effect="italics">Mild to moderate AD:</emphasis><newline/>
     <emphasis effect="italics">Tablet, oral disintegrating tablet, or solution:</emphasis> Initial dose: 5 mg daily at bedtime. Clients should be on 5 mg daily for 4–6 weeks before dose is increased to 10 mg daily.<newline/>
-    <emphasis effect="bold">Moderate to severe AD:</emphasis><newline/>
+    <emphasis effect="italics">Moderate to severe AD:</emphasis><newline/>
     <emphasis effect="italics">Tablet, oral disintegrating tablet, or solution:</emphasis> Initial dose: 10 mg orally daily. A dose of 23 mg daily can be administered once clients have been on a dose of 10 mg daily for at least 3 months.</entry>
     </row>
     <row>
@@ -169,7 +169,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption><emphasis effect="bold">Drug Prototype: Donepezil</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
+    <caption><emphasis effect="bold">Drug Prototype Table: Donepezil</emphasis> (source: https://dailymed.nlm.nih.gov/dailymed/)</caption>
     </table>
     </section>
     </section>
@@ -231,7 +231,7 @@
     <note class="safety-alert" id="note-00004">
     <title>Similarly Named Drugs</title>
     <para id="para-00021">Do not confuse memantine (NMDA receptor antagonist) with <term class="no-emphasis" id="term-00019">methadone</term> (full opioid agonist).</para>
-    <para id="para-00022">(Source: https://www.ismp.org/recommendations/confused-drug-names-list)</para>
+    <para id="para-00022">(Source: ISMP, 2023)</para>
     </note>
     </section>
     </section>
