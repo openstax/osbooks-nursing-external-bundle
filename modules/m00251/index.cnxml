@@ -79,7 +79,7 @@
     </section>
     <section id="sect-00006">
     <title>Routes of Chemotherapy Administration</title>
-    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicant</term>s, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see <link target-id="fig-00001" document="m00251"/>).</para>
+    <para id="para-00007">Chemotherapy may be administered by different routes depending on the purpose and toxicities of each individual drug. These different routes include oral, intravenous, subcutaneous, intramuscular, intracavitary, topically, and intrathecally. Intracavitary administration involves the infusion of a chemotherapeutic agent into a body cavity such as the bladder or abdomen. Intrathecal administration involves instilling chemotherapy into the spinal column or intracranially to treat cancers in the central nervous system. For drugs that are <term id="term-00008">vesicant</term><emphasis effect="bold">s</emphasis>, which have the ability to cause necrosis if they <term id="term-00009">extravasate</term>, the intravenous route must be used. When a vesicant drug is being administered, slow administration in a rate/minute modality and vigilant assessment of the intravenous infusion site must be performed. Maintaining patency of the administration site is paramount to preventing tissue injury (see <link target-id="fig-00001" document="m00251"/>).</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="Numerous skin lesions of different sizes and color on a patient's forearm. One lesion is very large, dark, and scaly, while the others around it are coin sized circles.">
     <image mime-type="image/png" src="../../media/PHA_Figure_08_02_003.jpg"/></media>
@@ -96,7 +96,7 @@
       <colspec colnum="1" colname="c2" colwidth="2*"/>
       <thead>
       <row>
-      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Chemotherapy Administration</emphasis></span></entry>
+      <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Method of Chemotherapy Administration</emphasis></span></entry>
       <entry valign="top" align="left"><span class="blue-text"><emphasis effect="bold">Description</emphasis></span></entry>
       </row>
       </thead>
