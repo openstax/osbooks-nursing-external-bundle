@@ -17,7 +17,7 @@
 <section id="sect-00002">
 <title>Introduction to the Hypothalamus</title>
 <para id="para-00002">The <term id="term-00001">hypothalamus</term> is critical to coordinating both nervous and endocrine responses to internal and external stimuli, making it a crucial component of the <term id="term-00002">neuroendocrine system</term>, which is central to regulatory function, as can be seen in <link target-id="fig-00001" document="m00404"/>. This section will delve into the intricacies of the hypothalamus by exploring its functions and the hormones it produces.</para>
-<figure class="scaled-down-30" id="fig-00001">
+<figure class="scaled-down" id="fig-00001">
 <media alt="A flow chart shows that the hypothalamus releases hormones that regulate the function of the anterior pituitary, which regulates metabolism, stress, growth, and reproduction. The hypothalamus also releases hormones that regulate the function of the posterior pituitary, which regulates water balance, blood volume, and sexual functioning."><image mime-type="image/png" src="../../media/PHA_Figure_26_01_002.png"/></media>
 <caption>The hypothalamus coordinates neuroendocrine responses from different functions throughout the body. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
@@ -71,7 +71,7 @@
 <entry valign="top" align="left">Promotes lactation from the mammary glands</entry>
 </row>
 <row class="header-row">
-<entry valign="top" align="left" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Inhibitory Hormones</emphasis></span></entry>
+<entry valign="top" align="center" namest="c1" nameend="c3"><span class="blue-text"><emphasis effect="bold">Inhibitory Hormones</emphasis></span></entry>
 </row>
 <row>
 <entry valign="top" align="left">Prolactin-inhibiting hormone (PIH)</entry>
