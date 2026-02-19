@@ -110,7 +110,7 @@
     <emphasis effect="bold">Current Medications</emphasis><newline/>
     Atorvastatin 20 mg once daily<newline/>
     Amlodipine 10 mg once daily</para>
-    <table class="vertically-tight full-width" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001" summary="Patient's vital signs and comprehensive physical examination findings.">
       <tgroup cols="3">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="1*"/>
@@ -159,7 +159,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Patient's vital signs and comprehensive physical examination findings.</caption></table><exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec1_UCSQ1"/></para></problem></exercise>
+    </table>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec1_UCSQ1"/></para></problem></exercise>
     <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="#exercise/PHAR_Ch28_Sec1_UCSQ2"/></para></problem></exercise>
     </note>
     </section>
