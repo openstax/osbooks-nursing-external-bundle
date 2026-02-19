@@ -110,7 +110,7 @@
     <emphasis effect="bold">Current Medications</emphasis><newline/>
     Atorvastatin 20 mg once daily<newline/>
     Amlodipine 10 mg once daily</para>
-    <table class="vertically-tight full-width" id="table-00001">
+    <table class="vertically-tight full-width" id="table-00001" summary="Patient's vital signs and comprehensive physical examination findings.">
       <tgroup cols="3">
       <colspec colnum="1" colname="c1" colwidth="1*"/>
       <colspec colnum="2" colname="c2" colwidth="1*"/>
