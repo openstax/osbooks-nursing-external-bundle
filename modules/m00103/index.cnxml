@@ -260,7 +260,7 @@ How many tablets should the client receive per dose?</para>
 How many tablets should the client receive per dose?</para>
 <figure class="scaled-down" id="fig-00008">
   <media alt="Two equations show how to figure out how many tablets a client should receive per dose. The first equation shown is K colon M equals D colon X. Then 2.5 m g colon 1 tablet equals 10 m g colon X tablets. Under that is 2.5 X equals 1 times 10, so X equals 4 tablets. The second equation shown is K over M equals D over X. Then 2.5 m g colon X tablets equals 1 tablet colon 10 m g. Under that is 2.5 X equals 1 times 10, so X equals 4 tablets."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_022.png"/></media>
-  <caption>These formulas show two different ways to solve the example problem using the ratio and proportion method. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+  <caption>These formulas show two different ways to solve the example problem using the ratio and proportion method. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
   </figure>
 <note class="practice-problems" id="note-00005">
 <title>Ratio and Proportion Calculations</title>
@@ -324,8 +324,8 @@ How many tablets should the client receive per dose?</para>
 <m:math><m:mn>10</m:mn><m:mo> </m:mo><m:mi>mg</m:mi><m:mo> </m:mo><m:mo>×</m:mo><m:mo> </m:mo><m:mn>1</m:mn><m:mo> </m:mo><m:mo>=</m:mo><m:mo> </m:mo><m:mn>10</m:mn></m:math>. Divide by 2.5 and solve for <emphasis effect="italics">X</emphasis> (see <link target-id="fig-00003" document="m00103"/>).</item>
 </list>
 <figure class="scaled-down" id="fig-00003">
-<media alt="This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)"><image mime-type="image/png" src="../../media/PHA_Figure_02_04_017.png"/></media>
-<caption>This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<media alt="This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)"><image mime-type="image/png" src="../../media/PHA_Figure_02_04_017.png"/></media>
+<caption>This equation demonstrates dimensional analysis for solving the number of tablets that the client should be given. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
 </figure>
 <para id="para-00066"><emphasis effect="bold">Example 2:</emphasis><newline/>
 <emphasis effect="italics">Ordered:</emphasis> Give digoxin 0.5 mg IV push × 1 dose now<newline/>
@@ -341,7 +341,7 @@ How many tablets should the client receive per dose?</para>
 </list>
 <figure class="scaled-down" id="fig-00004">
 <media alt="An equation shows how to figure out how many tablets a client should receive per dose. The equation shown is 10 m g over blank times 1 tablet of 2.5 m g equals 10 over 2.5 equals x tablets. X equals 4 tablets. In each of the fractions, the m g is crossed out."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_018.png"/></media>
-<caption>This example of dimensional analysis is for an IV push medication. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>This example of dimensional analysis is for an IV push medication. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
 </figure>
 <para id="para-00070">Dimensional analysis is particularly helpful for more complicated equations, such as the following one. Note how the information can unfold as you add units of measure and cancel out as needed.</para>
 <para id="para-00071"><emphasis effect="bold">Example 3:</emphasis><newline/>
@@ -360,14 +360,14 @@ How many tablets should the client receive per dose?</para>
 </list>
 <figure class="scaled-down" id="fig-00005">
   <media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals X m l slash hour. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_019.png"/></media>
-  <caption>This shows the equation with the units of measure crossed out and the desired units of measure circled. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+  <caption>This shows the equation with the units of measure crossed out and the desired units of measure circled. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
   </figure>
   <list list-type="enumerated" start-value="7" id="list-00023">  
 <item>Then multiply the numerators (top numbers) and multiply the denominators (bottom numbers) (see <link target-id="fig-00006" document="m00103"/>).</item>
   </list>
   <figure class="scaled-down" id="fig-00006">
     <media alt="An equation shows how many milliliters per hour should be administered. The equation shown is 5 m c g over k g slash min times 1 k g over 2.2 l b times 176 l b over blank times 60 min over 1 hour times 1 m g over 1000 m c g times 500 m l over 800 m g equals 26,400,000 over 1,760,000. In the fractions, m c g, k g, min, l b, and m g are crossed out. m l and hour are circled, indicating they should be included in the equation."><image mime-type="image/png" src="../../media/PHA_Figure_02_04_020.png"/></media>
-    <caption>This stage of dimensional analysis shows the multiplication of numerators and denominators. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>This stage of dimensional analysis shows the multiplication of numerators and denominators. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
     </figure>
     <list list-type="enumerated" start-value="8" id="list-00024">    
 <item>You are now ready to solve for <emphasis effect="italics">X</emphasis> by dividing the numerator of 26,400,000 by the denominator of 1,760,000.
